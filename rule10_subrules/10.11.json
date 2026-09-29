@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '[Alta. Reg. 124/2010, r. 10.11 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked."
     }
   },
   "sources": {
@@ -41,8 +44,8 @@
       "title": "Who May Request Review of Lawyer’s Charges",
       "operative_text_raw": null,
       "operative_text_sha256": "1aa3b48d80b088fbde76bc96e782ff9fead737c57a63a9f22a5987c6bc8f7f96",
-      "related_provisions": "Definition of “client” A lawyer can have the court review his or her own bill either to get execution (enforcement), or to demonstrate that it is appropriate.² A client is presumed liable to pay his or her lawyer (counsel or solicitor), even if someone else (such as an insurer) has also agreed to do so. But the lay client is not the only one liable to pay.",
-      "commentary": "A lawyer who retained another lawyer (as distant agent or as counsel) is also presumed liable to\npay.³\nAnd often other persons contract to pay solicitor-client costs, e. g. mortgagors, or those who\nagree to pay costs as part of a settlement. The expanded deﬁnition of “client” in the Appendix lets\nthem have the account reviewed in the same way that the client could, though thorny issues of\nprivilege may then arise.⁴\nA bill to an executor by counsel hired by him was approved by the executor. A mere beneﬁciary\nof the estate was unable to have the legal bill reviewed. Her right was to have the executor’s\naccounts and fee taxed, not the counsel’s bill?⁵\n\nBecause the injured plaintiff and his solicitor have a proprietary interest in the material which\nthey have generated and it costs money, the Minister of Hospitals with a subrogated claim should\nreimburse them for a proportionate share of the out-of-pocket expenses paid to third parties and\nincurred in obtaining material such as experts’ reports.¹\nReview is a remedial order, and so it interrupts or restarts the limitation period for a lawyer to\nsue his client for fees.²\nDoes the liberality of the review of fees depend on whether a non-client or a trust is to pay\nthem?³\nThe mere fact that there is usually privilege involved in communications between a lawyer and\nhis or her client does not bar the lawyer from having the account reviewed if the client does not\npay it. Nor does it bar such a review at the instance of the successor in title of the lawyer, such as\na legally appointed Custodian of his practice.⁴\nIn addition, reviews are usually held in the private\nmeeting room or ofﬁce of the reviewing ofﬁcer, and though the reviewing ofﬁcer may borrow the\nﬁle or papers of the lawyer, invariably the ofﬁcer returns them at the end, and never puts them on\nthe public court ﬁle.⁵\nIf a solicitor is an estate trustee and takes fees from it without prior court approval, a successor\ntrustee can have the court later review the fees and order part refunded.⁶",
+      "related_provisions": "Definition of “client”",
+      "commentary": "A lawyer can have the court review his or her own bill either to get execution (enforcement), or\nto demonstrate that it is appropriate.²\nA client is presumed liable to pay his or her lawyer (counsel or solicitor), even if someone else\n(such as an insurer) has also agreed to do so. But the lay client is not the only one liable to pay.\nA lawyer who retained another lawyer (as distant agent or as counsel) is also presumed liable to\npay.³\nAnd often other persons contract to pay solicitor-client costs, e. g. mortgagors, or those who\nagree to pay costs as part of a settlement. The expanded deﬁnition of “client” in the Appendix lets\nthem have the account reviewed in the same way that the client could, though thorny issues of\nprivilege may then arise.⁴\nA bill to an executor by counsel hired by him was approved by the executor. A mere beneﬁciary\nof the estate was unable to have the legal bill reviewed. Her right was to have the executor’s\naccounts and fee taxed, not the counsel’s bill?⁵\n\nBecause the injured plaintiff and his solicitor have a proprietary interest in the material which\nthey have generated and it costs money, the Minister of Hospitals with a subrogated claim should\nreimburse them for a proportionate share of the out-of-pocket expenses paid to third parties and\nincurred in obtaining material such as experts’ reports.¹\nReview is a remedial order, and so it interrupts or restarts the limitation period for a lawyer to\nsue his client for fees.²\nDoes the liberality of the review of fees depend on whether a non-client or a trust is to pay\nthem?³\nThe mere fact that there is usually privilege involved in communications between a lawyer and\nhis or her client does not bar the lawyer from having the account reviewed if the client does not\npay it. Nor does it bar such a review at the instance of the successor in title of the lawyer, such as\na legally appointed Custodian of his practice.⁴\nIn addition, reviews are usually held in the private\nmeeting room or ofﬁce of the reviewing ofﬁcer, and though the reviewing ofﬁcer may borrow the\nﬁle or papers of the lawyer, invariably the ofﬁcer returns them at the end, and never puts them on\nthe public court ﬁle.⁵\nIf a solicitor is an estate trustee and takes fees from it without prior court approval, a successor\ntrustee can have the court later review the fees and order part refunded.⁶",
       "footnotes": [
         {
           "page": "10-27",
@@ -112,7 +115,8 @@
           "10-28"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-26 (line 1263) to p.10-28 (line 1353): title (line 1263), rule text (lines 1264-1306; the page break falls after (a)(i) at line 1266, the p.10-26 footnote block and the marker 10-27 at line 1286 follow, and the marker '1' after 'provides.' (line 1306) closes (b)(iv)), Related Provisions (lines 1308-1309: the single line 'Definition of \"client\"'; the builder joined the note's first paragraphs into it until the MANUAL_REL_COMPLETE entry was added) and the note (lines 1311 to 1353; page markers 10-27 line 1286 and 10-28 line 1334) with all footnotes: p.10-27 fns 1-5 (lines 1326-1332) and p.10-28 fns 1-6 (block from line 1369) = 11 (5+6); the p.10-28 block also prints fn 7, which belongs to 10.12(3), and the p.10-26 footnote block (line 1269 ff., printed inside this rule's text) holds the fns of the 10.10 note. Read against the official text: the rule text equals official 10.11 (EXACT_MATCH, no differences); the Related Provisions label 'Definition of \"client\"' lands on the Appendix definition (official line 40619: 'client' includes a former client and any person to whom a lawyer has rendered an account, or a person who is or may be liable to pay or who has paid lawyer's charges or part of them); 'The expanded definition of \"client\" in the Appendix lets them have the account reviewed in the same way that the client could' agrees with that definition. Statements in the note that are case-law summaries and not the rule: the first sentence 'A lawyer can have the court review his or her own bill' (McDonald Crawford v. Morrow 2004 ABCA 150, fn 2; official 10.11(b) says 'reviewed ... at the request of the lawyer', and 10.12 puts the review before a review officer, not the court); 'A client is presumed liable to pay' (fn 3 to the C. P. E. only); the bill to an executor and the beneficiary who could not have counsel's bill reviewed (Re Bibby Est. 2009 ABQB 111, fn 5 on p.10-27); the paragraph on the Minister of Hospitals with a subrogated claim reimbursing a plaintiff and solicitor for out-of-pocket expenses (French v. Fish (CA) [1997] 4 WWR 573, fn 1 on p.10-28), which does not concern who may request a review and is printed as is; 'Review is a remedial order, and so it interrupts or restarts the limitation period' (fn 2 p.10-28: Sharma v. 643454 Alta. 2006 ABQB 119 paras 36-7, contra Macleod Dixon v. Fazal 2003 ABQB 744, affd 2004 ABQB 523; the 10.22 note points here for limitations); privilege and the practice that reviews are held in the reviewing officer's private meeting room (fns 4-5, Polis v. Edwards 2010 ABCA 59 paras 41-48 and para 49); the estate trustee (fn 6, Pub. T'ee v. Koska 2010 ABQB 239). History fn 1 (p.10-27): 'Quite similar to previous R.643.1.1997 amendments were new, and regulated the venue (within Alberta) and the forum ...' - '643.1' and the 1997 date run together without a space or stop, as in the printed line; Book B's 10.11 has no commentary, so the history is not corroborated. Printed as is: 'not the counsel's bill?⁵' (a question mark where a full stop is expected, line 1323); 'A. T. A. v. Calg. Bd. of Educ. (#2) 2006 ABQB 720. Quaere as to the legal proposition, for which only one Ontario 1962 trial-level case was cited' (fn 3, p.10-28). supra/infra: fn 4 p.10-27 'See further id. at Chapter 82, Parts R.4 and R.5' refers back to fn 3 of the same page (C. P. E. Chapter 82); fn 5 p.10-28 'id. at ¶ 49' refers to fn 4 (Polis v. Edwards); no supra or infra is used in this note."
     },
     "BOOK_B": {
       "title": "Who may request review of lawyer's charges",
@@ -133,7 +137,7 @@
     "BOOK_C": {
       "title": "Who may request review of lawyer’s charges",
       "division_heading": null,
-      "operative_text_raw": "A lawyer’s charges may be reviewed in Alberta (a) at the request of a client if (i) the lawyer resides in Alberta, (ii) the lawyer’s principal office is in Alberta, (iii) the lawyer’s charges specify an Alberta address for the lawyer or the law firm of the lawyer, (iv) most of the services were performed in Alberta, (v) the services were performed in connection with legal proceed- ings commenced in Alberta in which the lawyer was a lawyer of record, or (vi) the retainer agreement between the lawyer and the client so provides, and",
+      "operative_text_raw": null,
       "operative_text_sha256": "872a51ec4128c8e45497fd4bcf6def2af46d6d49080520ec78744a397348cf3c",
       "citations": [],
       "commentary": [
@@ -151,20 +155,24 @@
             },
             {
               "neutral_citation": "2020 ABQB 85",
-              "style_of_cause": "Fleming v. Fleming Alberta"
+              "style_of_cause": "Fleming v. Fleming Alberta",
+              "note": "Printed 'Fleming v. Fleming Alberta , [2020] A.J. No. 142, 2020 ABQB 85 at para. 26': the name is garbled (the word 'Alberta' follows the second Fleming) and the case is cited in no other file of the packet."
             },
             {
               "neutral_citation": "2013 ABQB 748",
-              "style_of_cause": null
+              "style_of_cause": "Treasury Branches v. 1401057 Alberta Ltd (c.o.b. Katch 22)",
+              "note": "Printed 'Treasury Branches v. 1401057 Alberta Ltd (c.o.b. Katch 22) . , [2013] A.J. No. 1449, 2013 ABQB 748 at footnote 3': Book A (p.10-124 fn 1 and later notes) prints 'Alta. Treas. Br. v.1401057 Alta.2013 ABQB 748, 579 AR 152' and Book B prints 'Alberta Treasury Branches v. 14010507 Alberta Ltd (Katch 22)'; the number of the company differs (1401057 against 14010507)."
             }
-          ]
+          ],
+          "review_flag": "(1) The commentary ('General Principles', 1,417 characters) is cut off and holds a passage that is not about who may request a review. (a) 'The review process is available as between lawyers and clients ... Borden Ladner Gervais LLP v. CBI Investments Ltd., [2015] A.J. No. 782, 2015 ABQB 442 at para. 8 (Alta. Q.B.), affd [2016] A.J. No. 388, 2016 ABQB 220': the 2016 decision is cited in Book A's 10.5 note (p.10-13, line 591) and 10.13 note (p.10-29, line 1424) as 'Borden Ladner & Co. v. CBI Invs. 2016 ABQB 220, 89 CPC(7th) 399'; 2015 ABQB 442 is cited nowhere else in the packet. (b) 'The term \"client\" as used in this rule could mean any person to whom a lawyer has rendered an account for lawyer's charges, and a person who is or may be liable to pay or who has paid lawyer's charges or part of them' agrees with the Appendix definition of 'client' (official line 40619); the paragraph ends 'and definitions (contained in an appendix to those rules).' (c) The words 'Alberta Rules of Court The assessment process is effectively a modified trial process. Parties are heard, evidence is tendered, and a decision is made by an unbiased party. The assessment process is a release valve that serves both the legal profession and the community. Matters that would otherwise burden an over-worked judicial system are funnelled directly to an expert adjudicator ... It is a tool with tangible benefits for' follow with no citation: the passage is cut off at 'for' and is about the assessment process (assessment of costs, Division 2), not the review of lawyers' charges; it appears in no other Book C entry (searched for 'modified trial process' in the four Part 10 Book C files: one entry, 10.11) and in no Book A or Book B file. The passage is kept as printed (flagged); its source is not identified in the packet."
         }
       ],
       "misattributed_entries": [],
       "locator": {
         "file": "461-480_10_11 to 10_31.json",
         "source_file": "461-480_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it ends after '(vi) the retainer agreement between the lawyer and the client so provides, and' and the amendment note, so paragraph (b) (subparagraphs (i)-(iv), the lawyer's requests) is missing; what is printed equals the official words except the hyphenated 'proceed- ings'."
     }
   },
   "comparison_vs_official": {
@@ -181,18 +189,6 @@
     "BOOK_C": {
       "status": "WORDING_DIFFERENCE",
       "similarity": 0.7188,
-      "differences": [
-        {
-          "op": "replace",
-          "official": "proceedings",
-          "carrier": "proceed- ings"
-        },
-        {
-          "op": "delete",
-          "official": "(b) at the request of the lawyer if (i) the client resides in alberta, (ii) the principal office or place of business of the client is in alberta, (iii) most of the services were performed in alberta and the lawyer has no office in the jurisdiction outside alberta where the client resides or carries on business, or (iv) the retainer agreement between the lawyer and the client so provides.",
-          "carrier": ""
-        }
-      ],
       "version_identity": "SAME_VERSION_PROVEN"
     }
   },
@@ -295,6 +291,12 @@
     "gate_artifact_sha256": "7364816cf2c0fffb8df07a1b19e8ae90726e104b5df21cd7611853949473f052"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.11' with the pattern that also finds line-wrapped and range forms): two hits, the table of contents (line 1497) and the rule (line 11992). No other rule or form cites 10.11 by number. By subject: the Appendix definition of 'client' (line 40619: 'client' includes a former client and (a) any person to whom a lawyer has rendered an account for lawyer's charges, or (b) a person who is or may be liable to pay or who has paid lawyer's charges or part of them), which the Book A note names; 10.1 (definition of review officer); 10.12 (location of a review: the judicial centre nearest to where the lawyer carries on business or the client resides); 10.13 (appointment for a review); 10.10 (time limit).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running heads and rule text (combined_rule10.txt lines 1234, 1264 and 1287). One other rule cites it: the 10.22 note, p.10-36 (line 1759, fn 3 of that page: 'Macleod Dixon v. Fazal (M) 2003 ABQB 744, 336 AR 198, affd 2004 ABQB 523, 30 Alta LR(4th) 202. On limitations issues, see R.10.11n.'), which lands on this note: p.10-28 fn 2 (line 1340 ff.) cites the same case as the contra authority to Sharma on whether a review restarts the limitation period. No other Book A file cites 10.11.",
+    "BOOK_B: this rule has a heading paragraph and no commentary ('10.11. Who may request review of lawyer's charges', rule10_part04_document.json); the only other hit for '10.11' in a Book B file is '10.11 acres' (rule13_part01_anno.json, an area of land, not this rule). Book B's other commentary on who may seek review is under 10.9 and 10.24 (the client and the lawyer as parties to a review).",
+    "BOOK_C: the entry for 10.11 in '461-480_10_11 to 10_31.json' (lines 8, 10 and 19 of that file carry the number, the text with the amendment note and the last sentence of the text); no other Book C file cites 10.11 by number."
+  ],
   "dedupe_log": [
     "10.11 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.11 BOOK_B: operative text dropped (EXACT_MATCH)",
@@ -303,6 +305,7 @@
     "10.11 BOOK_C citation context dropped (2020 ABQB 85): verbatim in kept text",
     "10.11 BOOK_C citation context dropped (2013 ABQB 748): verbatim in kept text",
     "10.11 BOOK_C commentary sentence split dropped",
+    "10.11 BOOK_C: rule text dropped (manual review)",
     "10.11 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
   ]
 }
