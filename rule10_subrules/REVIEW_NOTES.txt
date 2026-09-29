@@ -119,6 +119,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-128/129, 4 footnotes; Book B 10.39:1 in full; Book C entry and the fragment-titled entry that continues 10.38's commentary). Flags: fn 3 is the bare word 'supra.', McDonald Crawford cited as 2002 ABQB 239 here but 2004 ABCA 150 elsewhere, Book B 'Rule 634' matches Book A history '1968 R.634', Book C rule text cut off in (3).
 
 10.40 Absence of person served with notice of appointment for assessment
+     [1st pass] Read in full by hand (Book A p.10-129, 2 footnotes; Book B heading and rule text only; Book C entry, rule text and amendment note only). Flags: Related Provisions point back to 10.16, the one-sentence note has no antecedent ('This was done'), fn 5 identical to 10.37 note fn 2.
 
 10.41 Assessment officer’s decision
 
