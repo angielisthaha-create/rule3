@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.39 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it)."
     }
   },
   "sources": {
@@ -40,7 +43,7 @@
     },
     "BOOK_A": {
       "title": "Reference to Court",
-      "operative_text_raw": "10.39(1) An assessment ofﬁcer may direct any question arising about the\nassessment of costs payable to be referred to the Court for a decision or\ndirection.⁷\n(2) The assessment ofﬁcer may do all or any of the following:\n(a) require one party to serve another party or other interested person\nwith notice of the reference;\n(b) specify how a reference to the Court is to be prepared and by whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efﬁcient disposition of\nthe reference.\n(3) On considering a question referred to it, the Court may make any order it\nconsiders appropriate in the circumstances, including an order to enforce a\ndirection given under rule 10.38 [Assessment officer’s authority].",
+      "operative_text_raw": null,
       "operative_text_sha256": "a38a808ddfc1c2b840dcad88403d261a1749bc42f9d70f73600e7d18ffb24746",
       "related_provisions": null,
       "commentary": "Where an assessment ofﬁcer refers a matter to the court, even if he is then holding a second\nassessment after a successful appeal from the ﬁrst assessment, the second hearing in King's\nBench is a trial de novo and not an appeal from the original assessment.¹\nA reference to the court of a speciﬁc question about level of costs, by an assessment ofﬁcer,\nis no occasion to relitigate whether each party given costs had been entitled to costs.²\nAnother example of a reference is the Ulrich case.³",
@@ -76,7 +79,9 @@
           "10-128",
           "10-129"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (title on line 6937, text (1)-(2) lines 6938-6947 on p.10-128 and (3) lines 6961-6963 on p.10-129) has the same words as the official text (compared by hand) with these differences: the footnote marker '7' after 'decision or direction.' in (1) (line 6940); the bracket label '[Assessment officer’s authority]' after 'rule 10.38' in (3) (line 6963; it agrees with the official title of 10.38); the ligatures 'ofﬁcer' and 'efﬁcient'; and the page break between (2)(d) and (3): the p.10-128 footnote block (lines 6949-6957), the marker 10-129 (line 6959) and the running head (line 6960) fall between them.",
+      "commentary_review_flag": "Read in full, p.10-128 (line 6937) to p.10-129 (line 6970): title (line 6937), rule text ((1)-(2) lines 6938-6947 on p.10-128; (3) lines 6961-6963 on p.10-129), no Related Provisions, the note (three statements, lines 6965-6970) and 4 footnotes: p.10-128 fn 7 (lines 6956-6957, history: 'Quite similar to previous 1968 R.634. It came from 1944 C. R.780(4), 1914 R.777 as amended, and Alta. Reg.338/60.') and p.10-129 fns 1-3 (lines 6993-6995: McDonald Crawford v. Morrow 2002 ABQB 239, 324 AR 8; Condo. Corp.052 0580 v. Carrington Hldg. (#2) 2024 ABKB 55, JCE 1103 01915 (Jan 29) (¶ 27); and 'supra.'); fn 4 of that block (line 6996, 'Quite similar to previous 1968 R.632. It was new in 1968.') is the history of 10.40. Read against the official text: the rule text equals official 10.39 apart from the footnote marker, the bracket label, the ligatures and the page break (see the text note). (1) The statements in the note: 'Where an assessment officer refers a matter to the court, even if he is then holding a second assessment after a successful appeal from the first assessment, the second hearing in King's Bench is a trial de novo and not an appeal from the original assessment' (fn 1) and 'A reference to the court of a specific question about level of costs, by an assessment officer, is no occasion to relitigate whether each party given costs had been entitled to costs' (fn 2, Condo. Corp.052 0580 v. Carrington Hldg. (#2) 2024 ABKB 55) are case-law statements; the rule itself (10.39(1), (3)) only says that the assessment officer may refer a question to the Court and that the Court may make any order it considers appropriate. (2) fn 1 prints 'McDonald Crawford v. Morrow 2002 ABQB 239, 324 AR 8', while every other Book A footnote that names the case prints 'McDonald Crawford v. Morrow 2004 ABCA 150, 348 AR 118' (lines 141, 499, 1329, 2008 and others); '2002 ABQB 239' occurs only at line 6993, so the two citations are different decisions (trial level and Court of Appeal) or a misprint; not decided. (3) fn 3 is the single word 'supra.' with no case name (line 6995): the text it is attached to, 'Another example of a reference is the Ulrich case.' (line 6970), refers to CIBC Mtge. v. Ulrich (M) 2015 ABQB 445, whose full citation is fn 3 of the 10.38 note (line 6952), so the fn reads 'CIBC Mtge. v. Ulrich, supra' with the name lost. (4) The Book B commentary corroborates the history footnote: it quotes Rusnak (1982) as saying the clerk must refer the interpretation of an agreement to a judge 'under Rule 634 (supra)', and Book A's fn 7 says 10.39 is 'Quite similar to previous 1968 R.634'. Book B's commentary is about the taxation officer's (clerk's) jurisdiction under the former rule and is not in Book A; Book A's 10.38 note makes a related statement about the review officer (retainer agreements go to a judge). (5) No '(#_)'-type placeholder appears; the '(#2)' in fn 2 is a real number. The history footnote names old rules (1968 R.634, 1944 C. R.780(4), 1914 R.777, Alta. Reg.338/60) not checked against any old-rule text. Book B's commentary '10.39:1' (2,727 characters, read in full) has no counterpart in Book A's note apart from the subject (a reference to the judge for questions the officer may not decide)."
     },
     "BOOK_B": {
       "title": "Reference to Court",
@@ -104,14 +109,15 @@
     "BOOK_C": {
       "title": "Reference to Court",
       "division_heading": null,
-      "operative_text_raw": "(1) An assessment officer may direct any question arising about the assessment of costs payable to be referred to the Court for a decision or direction.\n(2) The assessment officer may do all or any of the following:\n(a) require one party to serve another party or other interested person with notice of the reference;\n(b) specify how a reference to the Court is to be prepared and by whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efficient disposition of the reference.\n(3) On considering a question referred to it, the Court may make any order it considers appropriate in the circumstances, including an order to enforce a",
+      "operative_text_raw": null,
       "operative_text_sha256": "5cf8cda9714ebe7a1e2570ea8b9b33fb60cd41b0dce00d4592ab782f93e387e9",
       "citations": [],
       "commentary": [
         {
           "topic": "General Principles",
           "text": "See commentary under rule 10.38. Under this rule, the assessment officer is granted broad discretion to refer matters to the court for decision or direction as may be required.",
-          "citations": []
+          "citations": [],
+          "review_flag": "The commentary 'General Principles' (176 characters: 'See commentary under rule 10.38. Under this rule, the assessment officer is granted broad discretion to refer matters to the court for decision or direction as may be required.') agrees with official 10.39(1) and points to the 10.38 commentary. The entry that precedes this one in the file has as its 'title' a broken fragment, 'authorize the assessment officer to do a number of things including a reference to the court for a decision or direction. The court may then make any order it considers appropriate in the circumstances, including an order to enforce a direction given by the assessment officer.  CIBC Mortgages Inc. v. Ulrich, [2015] A.J. No. 776, 2015 ABQB 445 at para. 6 (Alta. Q.B. (Master)). When an assessment officer directs a reference to the court on the question of reasonableness of the Bill of Costs, “[t]he [applications judge] ‘stands in the shoes’ of the assessment officer when making that assessment and applies the same standards and', with no rule text and no commentary; it is the continuation of the third paragraph of the 10.38 commentary ('Reference to the Court – In order to assess what is reasonable and proper, rules 10.38 and ...'), which was cut off in the previous entry. The builder recorded it as a merged duplicate entry ('merged_duplicate_entries', its full text kept in the 'parsed_title' field); the text is not part of this rule's commentary here, it belongs to 10.38 and 10.39 together. The quotation stops after 'applies the same standards and' (the rest, and any citation for the quotation, is not printed). CIBC Mortgages Inc. v. Ulrich 2015 ABQB 445 is the case Book A calls 'CIBC Mtge. v. Ulrich (M) 2015 ABQB 445' (10.38 note fn 3)."
         }
       ],
       "misattributed_entries": [],
@@ -132,7 +138,8 @@
           "role": "kept as rule entry",
           "rule_text_of_merged_entry": null
         }
-      ]
+      ],
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops in the middle of subrule (3), 'including an order to enforce a', so the words 'direction given under rule 10.38.' are missing; (1) and (2)(a)-(d) equal the official words."
     }
   },
   "comparison_vs_official": {
@@ -140,7 +147,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 6937, text (1)-(2) lines 6938-6947 on p.10-128 and (3) lines 6961-6963 on p.10-129) has the same words as the official text (compared by hand) with these differences: the footnote marker '7' after 'decision or direction.' in (1) (line 6940); the bracket label '[Assessment officer’s authority]' after 'rule 10.38' in (3) (line 6963; it agrees with the official title of 10.38); the ligatures 'ofﬁcer' and 'efﬁcient'; and the page break between (2)(d) and (3): the p.10-128 footnote block (lines 6949-6957), the marker 10-129 (line 6959) and the running head (line 6960) fall between them."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -150,13 +158,6 @@
     "BOOK_C": {
       "status": "CARRIER_MISSING_TEXT",
       "similarity": 0.9785,
-      "differences": [
-        {
-          "op": "delete",
-          "official": "direction given under rule 10.38.",
-          "carrier": ""
-        }
-      ],
       "version_identity": "SAME_VERSION_PROVEN"
     }
   },
@@ -259,9 +260,17 @@
     "gate_artifact_sha256": "52d64cac57633de11ef088ad9c0a54132736e42d341432928093d820e70c93ca"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.39' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1602) and the rule (line 12797). No other rule or form cites 10.39 by number. By subject: 10.38 'Assessment officer's authority' (10.39(3) refers to a direction given under rule 10.38, official line 12826), 10.18 'Reference to Court' (the review officer's counterpart, official line 1530), 10.41 'Assessment officer's decision', 10.44 'Appeal to judge'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.38 note (line 6927, p.10-128: 'Under Rr.10.38 and 10.39 the assessment officer can make a reference to the court'), the running head (line 6960, p.10-129) and the rule (line 6938); in combined_rule13.txt lines 5293-5294 (the Rule 13 note's list of rules that 'seem to require filing': '... 10.26(3), 10.39, 10.44, 10.39, 10.43, 11.32 ...', where 10.39 is printed twice; nothing in the official 10.39 says a document is to be filed). No other Book A file cites 10.39. Book A's Related Provisions for 10.39: none printed.",
+    "BOOK_B: rule10_part10_document.json (19 hits: this rule's heading, rule text and one commentary '10.39:1' of 2,727 characters, Rusnak v. Commodity Investors Syndicate of Canada Ltd. (1982) 48 AR 311 (Q.B.) and Linton v. Prusak (1999) 241 AR 392 (Q.B.), which say that weighing evidence and interpreting a fee agreement must be referred to a judge 'under Rule 634 (supra)'; no other Book B file cites 10.39 by number.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' (4 hits: the entry 'Reference to Court' and a preceding fragment-titled entry, see the 10.39 Book C flags); no other Book C file cites 10.39 by number."
+  ],
   "dedupe_log": [
     "10.39 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.39 BOOK_C commentary sentence split dropped",
-    "10.39 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.39 BOOK_C: rule text dropped (manual review)",
+    "10.39 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.39 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }

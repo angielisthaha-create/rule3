@@ -116,6 +116,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-127/128, 7 footnotes; Book B 10.38:1 in full; Book C entry). Flags: review-officer statements in an assessment-officer note (unsworn evidence vs official 10.17(1)(a)), 'Rr.10.38 and 10.39' reference power is only in 10.39(1), Book C rule text cut off in (1)(f), Book C commentary cut off and continued in a fragment-titled entry under 10.39.
 
 10.39 Reference to Court
+     [1st pass] Read in full by hand (Book A p.10-128/129, 4 footnotes; Book B 10.39:1 in full; Book C entry and the fragment-titled entry that continues 10.38's commentary). Flags: fn 3 is the bare word 'supra.', McDonald Crawford cited as 2002 ABQB 239 here but 2004 ABCA 150 elsewhere, Book B 'Rule 634' matches Book A history '1968 R.634', Book C rule text cut off in (3).
 
 10.40 Absence of person served with notice of appointment for assessment
 
