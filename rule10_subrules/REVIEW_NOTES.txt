@@ -134,6 +134,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-135/136, 4 footnotes; Book B 10.44:1 in full; Book C entry). Flags: 'See R.10.24n.' does not land on an appeals note (10.26 is the appeals note), Cairns v. Cairns cited by year only, Book C labels an ABQB case '(Ont. Q.B.)', Book C commentary ends with the running head.
 
 10.45 Decision of the judge
+     [1st pass] Read in full by hand (Book A p.10-136/137, 2 footnotes; Book B heading and rule text only; Book C entry). Flags: Book C adds 'and' after (c), Related Provisions list 10.26 (not 10.27), one-sentence note deference from Vizor.
 
 10.46 Review and assessment under enactments
 
