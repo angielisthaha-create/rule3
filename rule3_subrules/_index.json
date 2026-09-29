@@ -3,7 +3,7 @@
   "skill": "arc-rules-production-lifecycle",
   "mode": "SOURCE_RECONCILIATION",
   "write_status": "NO_WRITE (no Neo4j/LexGraph mutation; packet only)",
-  "generated_utc": "2026-09-29T04:22:56+00:00",
+  "generated_utc": "2026-09-29T04:59:09+00:00",
   "target": {
     "instrument": "Alberta Rules of Court, Alta. Reg. 124/2010",
     "part": 3,

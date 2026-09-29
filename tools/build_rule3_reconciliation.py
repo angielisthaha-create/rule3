@@ -674,8 +674,8 @@ MANUAL_TEXT_NOTES = {
 }
 MANUAL_SEE_ALSO = {
     "3.1": ["Official text searched for 'rule 3.1', 'Rules 3.1' (including line-wrapped forms) and form headings '[Rule 3.1]': the only hit is the running page header 'Rule 3.1 AR 124/2010' (pdf p.49). No official rule cites 3.1 by number. BOOK_B (parts 01-10) has no 'Commentary § 3.1' section; BOOK_C's only text mentioning '3.1' is a displaced running head (see BOOK_C flag).",
-            "FLAG on BOOK_A R.4.3 (p.4-6, line 207, Related Provisions): '3.1 (statement of defence)'. Official 3.1 is 'Rules govern Court actions'; 'Statement of defence' is the official title of rule 3.31, and official 4.3(3) speaks of a statement of defence being filed. The sources do not say which number was meant.",
-            "BOOK_A related provisions that list 3.1 (searched all Book A files, line-wrapped forms included): R.1.1 (p.1-3, lines 45-46, wrapped) and R.1.7 (p.1-33, line 1624), both '3.1 (rules govern all proceedings)' - the label paraphrases the official title 'Rules govern Court actions'. Official 1.1(1): 'These rules govern the practice and procedure in (a) the Court of King's Bench of Alberta, and (b) the Court of Appeal of Alberta'.",
+            "FLAG on BOOK_A R.4.3 (p.4-6, line 207, Related Provisions): '3.1 (statement of defence)'. Official 3.1 is 'Rules govern Court actions'; 'Statement of defence' is the official title of rule 3.31, and official 4.3(3) speaks of a statement of defence being filed. The sources do not say which number was meant. (3rd pass: the official Schedule B, Division 1, item 3.1 (Alberta_Rules_of_Court.txt line 39374, pdf p.654, printed p.652) reads 'The fee for filing a statement of defence is $100.00' (Book A's label is '3.1 (statement of defence)'); whether that item, rule 3.31 or something else was meant is still not stated.)",
+            "BOOK_A related provisions that list 3.1 (searched all Book A files, line-wrapped forms included): R.1.1 (p.1-3, wrapped: '3.1 (rules' ends line 45 and 'govern all proceedings)' is on line 47, line 46 being blank) and R.1.7 (p.1-33, line 1624), both '3.1 (rules govern all proceedings)' - the label paraphrases the official title 'Rules govern Court actions'. Official 1.1(1): 'These rules govern the practice and procedure in (a) the Court of King's Bench of Alberta, and (b) the Court of Appeal of Alberta'.",
             
         "BOOK_A has no rule text or notes for 3.1: its Part 3 file starts at book page 3-4 (pages 3-1 to 3-3 are not in it). Book A pointers into its own missing 3.1 note: p.3-7 (line 85, footnote text) 'See Sabir v. Gill and commentary on it, in R.3.1n.' and p.13-70 (line 3653, under R.13.13) 'See Sabir v. Gill, R.3.1 n.'; the case is cited in full at p.3-43 fn 1 and p.3-45 fn 8 (Sabir v. Gill 2023 ABKB 679) and at p.13-68 fn 3 and p.13-102 fn 4 (Part 13). The 3.1 note itself cannot be checked.",
     ],
@@ -1158,7 +1158,7 @@ MANUAL_BOOK_A_COMMENTARY_FLAGS = {
            "resolve: O'Malley (#2) supra p.3-6 fn 4 -> fn 3 (2007 ABQB 574; a second decision under the same name, 2006 ABQB 364, is cited in "
            "full on pp.3-7 and 3-9); Shell Can. Prods. v. Sunterra Beef infra p.3-6 fn 6 -> p.3-8 fn 10; Kingsway infra p.3-9 fn 3 -> fn 4; "
            "TransAlta supra p.3-10 fn 5 -> p.3-9 fn 2; Re Hearing Office supra p.3-13 fn 8-9 -> fn 5; Nassichuk-Dean supra p.3-14 fn 2 -> p.3-13 fn 6; "
-           "Sheila Holmes supra p.3-16 fn 9 -> p.3-8 fn 10; Leung v. Smith supra p.3-17 fn 9 -> fn 4; Sideleau supra p.3-18 fn 6 -> fn 5. "
+           "Sheila Holmes supra p.3-16 fn 9 -> p.3-15 fn 6 and p.3-8 fn 10 (both in full); Leung v. Smith supra p.3-17 fn 9 -> fn 4; Sideleau supra p.3-18 fn 6 -> fn 5. "
            "(6) p.3-17 fn 7: 'the Act does not apply to time limits in the Rules: R.1.8' - official 1.8 applies the Interpretation Act except "
            "sections 10, 12, 22(3) to (8), 23 (service of documents) and 26(1); it does not say the Act does not apply to time limits generally. "
            "(7) p.3-19 lines 404-407 belong to rule 3.3, not 3.2 (found in the 3.3 pass; this CORRECTS the first version of this flag, which "
@@ -1423,7 +1423,9 @@ MANUAL_BOOK_C = {
         "commentary_flag": "'may only be used ... where the requirements of rule 3.3(2) are met': official 3.3(2) is about a party carrying on business "
                            "in more than one Alberta location; the enumerated exceptions are in 3.2(2), so the citation looks like 3.2(2) (the sources "
                            "do not say which was meant). Shell Canada Products v. Sunterra Beef (2013 ABQB 193; 2014 ABCA 243) is also cited in Book A "
-                           "3.2 (p.3-8 fn 10; p.3-11 fn 4); Genstar 2012 ABQB 457 is in no other book.",
+                           "3.2 (p.3-8 fn 10; p.3-11 fn 4); Genstar 2012 ABQB 457 is in no Book A or Book B file (searched) and, in Book C, "
+                           "also stands in its rule 2.28 entry (same file, displaced after 'Form' in 2.28(1)(a), together with the Shell citation; "
+                           "see 2.28).",
         "citation_names": {"2012 ABQB 457": "Genstar Development Co. v. Plains Midstream Canada ULC"},
         "citation_notes": {"2012 ABQB 457": "printed as 'See also , [2012] A.J. No. Genstar Development Co. v. Plains Midstream Canada ULC 755, "
                                             "2012 ABQB 457 (Alta. Q.B. (Master))': the name stands inside the A.J. number ([2012] A.J. No. 755); "
