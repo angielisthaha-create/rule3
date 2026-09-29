@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.21 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. Book C's entry has the rule text (equal to the official text), no commentary and no citation."
     }
   },
   "sources": {
@@ -60,7 +63,8 @@
           "10-36"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-36 (lines 1735-1741 and the footnote block, line 1750 ff.): title (line 1735), rule text (lines 1736-1738; no marker), and a two-line note (line 1740 'Such an order was made.⁵'; line 1741 'See R.10.14 n. , supra.') with fn 5 of p.10-36 (line 1761: 'Pub. T'ee. v. Koska 2010 ABQB 239 (Apr 9).') = 1 footnote; fns 1-4 of that block belong to the 10.20 note and fn 6 (history) to 10.22. Read against the official text: the rule text equals official 10.21 (EXACT_MATCH, no differences). The note is a bare reference: 'Such an order was made' has no antecedent in the printed lines (it points to the Koska decision, whose holding is written out in the 10.11 note, p.10-28: a successor trustee can have the court later review the fees and order part refunded) and 'See R.10.14 n. , supra' lands on the 10.14 note and rule (10.14(3): the lawyer who does not comply 'forfeits the right to payment', the forfeiture that 10.21 names). supra/infra: 'R.10.14 n., supra' points back correctly (10.14 is earlier at p.10-30)."
     },
     "BOOK_B": {
       "title": "Repayment of charges",
@@ -207,6 +211,12 @@
     "gate_artifact_sha256": "57a6438479d57e5b7587439456a0adda1533c839a65812bb33bca9a69e1a9fa6"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.21' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1539) and the rule (line 12284). No other rule or form cites 10.21 by number. By subject: 10.14(3) (the lawyer who does not comply forfeits the right to payment; 'forfeited' in 10.21), 10.19 (a review officer may vary, reduce or disallow charges and certify the amount payable), 10.22 (action for payment of lawyer's charges), 10.20 (enforcement of a review officer's decision).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running head (combined_rule10.txt line 1719, p.10-36) and the rule text (line 1736); no other Book A file cites 10.21 by number. The note's case, Pub. T'ee. v. Koska 2010 ABQB 239 (Apr 9), is also cited at p.10-7 fn 6 and 7 (10.4 note, lines 282-283), p.10-28 fn 6 (line 1377, in the 10.11 note: 'If a solicitor is an estate trustee and takes fees from it without prior court approval, a successor trustee can have the court later review the fees and order part refunded'), and p.10-36 fn 5 (line 1761, this rule).",
+    "BOOK_B: a heading paragraph and no commentary ('10.21. Repayment of charges', rule10_part04_document.json); no other Book B file cites 10.21 by number. Book B's 10.20 commentary (Welsh v. Jones, a client's judgment for an overpayment after a bill is taxed down) deals with the same subject.",
+    "BOOK_C: the entry for 10.21 in '461-480_10_11 to 10_31.json' (text and amendment note; no commentary); no other Book C file cites 10.21 by number."
+  ],
   "dedupe_log": [
     "10.21 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.21 BOOK_B: operative text dropped (EXACT_MATCH)",
