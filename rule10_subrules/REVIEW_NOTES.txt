@@ -155,6 +155,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-145/146, 12 footnotes; Book B 10.51:1 in full (cut-off Wade v. Wade extract); Book C entry). Flags: Related Provisions and fn 4 name 10.53 for the inherent jurisdiction (official 10.55), misprints in fn 3 and fn 7, Book C entry under wrong Division heading.
 
 10.52 Declaration of civil contempt
+     [1st pass] Read in full by hand (Book A p.10-146 to p.10-160, 160 footnotes counted per page; Book B 10.52:1 101,956 chars in 25 numbered sections plus :2, :3, :4 in full; Book C both entries). Flags: pointers that do not land (R.10.52(3)(d), (3)(f), inherent jurisdiction 'R.10.53' vs official 10.55), Book A burden-of-proof statements against Book B's Envacon (missing 'not' in p.10-150, fn 14 follows FIC), forward/backward supra/infra (Recycling Worx, Storage Cap., Mayfield), placeholders and question-mark statements, duplicated key/realtor paragraph, Book C entry split in two (the 10.49 continuation filed under 10.52 as a fragment title; real entry cut off at 'rules for R. v. Cunningham'), amendment note, wrong Division heading, citation names; 10.49 Book C flag corrected.
 
 10.53 Punishment for civil contempt of Court
 
