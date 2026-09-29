@@ -62,7 +62,8 @@
           "10-15"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-14 (line 626) to p.10-15 (line 653): title (line 626), rule text (lines 627-633; marker '6' after (2)), Information Note (lines 634-638), a 'Related Provisions' label with the line 'client, lawyer, retainer agreement' (lines 639-640) and the p.10-14 footnote block (lines 643-651); no commentary is printed. The block's fns 1-5 (Torode v. Smyth, Twinn v. Sawridge, L. C. v. R., Betser-Zilevitch) belong to the 10.5 note; the built record has one footnote, p.10-14 fn 6 (counted from the file), the history footnote: 'Quite similar to previous 1968 R.620. It came from 1914 R.750, and 1944 C. R.751. Compare the English Solicitors Act, 1957, s.60(4). Subrule (2) was new in 1968. Subrule (3) came from 1944 C. R.754. It was like s.54 of the Ontario Solicitors Act (as of 1940).' - printed as is; the rule has only subrules (1) and (2), so the 'Subrule (3)' sentence refers to a subrule the current rule does not have (1944 C. R.754 is also the source printed for 10.3(1) in the footnote at p.10-6, line 235). The Information Note is printed with its last word repeated: 'The rules about self-representing are in rule 2.28 [Change in lawyer of record or self-' / 'representation].' (lines 635-636) and again 'representation].' (line 638) - the built note keeps both (extraction duplicate, as printed); the bracket label agrees with the official title of 2.28 ('Change in lawyer of record or self-representation'). The line under 'Related Provisions' lists no rule numbers: 'client, lawyer, retainer agreement' are terms the Appendix defines (official lines 40619, 40881, 41068) and are printed under that label in this extraction; the built related_provisions holds them as printed. No statements or cases are printed to check."
     },
     "BOOK_B": {
       "title": "Void provisions",
@@ -214,20 +215,24 @@
     {
       "text": "The rules about self-representing are in rule 2.28 [Change in lawyer of record or self-\nrepresentation].\nrepresentation].",
       "carriers": [
-        "BOOK_A"
-      ]
-    },
-    {
-      "text": "The rules about self-representing are in rule 2.28 [Change in lawyer of record or self representation].\nSubdivision 3: CONTINGENCY FEE AGREEMENTS",
-      "carriers": [
+        "BOOK_A",
         "BOOK_C"
-      ]
+      ],
+      "carrier_defects": {
+        "BOOK_C": "Book C's copy of the Information Note is dropped: it has the same words as Book A's ('The rules about self-representing are in rule 2.28 [Change in lawyer of record or self representation]') with the hyphen of 'self-representation' lost, and the heading 'Subdivision 3: CONTINGENCY FEE AGREEMENTS' (the Subdivision that begins at 10.7) printed after it."
+      }
     }
+  ],
+  "see_also": [
+    "Official text (searched for 'rule 10.6', 'Rules 10.6', line-wrapped forms and form headings '[Rule 10.x]'): no rule or form cites 10.6 by number; the only hits are the table of contents (line 1477) and the rule itself (line 11791, pdf pp.195-196). By subject: 10.5 (retainer agreements), 10.7 and 10.8 (contingency fee agreements), 10.9 (reasonableness reviewable 'despite any agreement to the contrary'), 2.28 (change in lawyer of record or self-representation; the rule the Information Note names), 4.36 and 4.37 (discontinuance of a claim and of a defence) and 2.19 (Court approval of settlement, discontinuance, and abandonment of actions); the Appendix defines 'client' (line 40619: includes a former client and any person to whom a lawyer has rendered an account, or a person who is or may be liable to pay it), 'lawyer' (line 40881) and 'retainer agreement' (line 41068), the three terms Book A prints under its 'Related Provisions' label.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): other rules that cite 10.6 - the 10.5 note, p.10-11 (line 478 'R.10.6(1) (a)', line 482 'R.10.6(2)', lines 484 '(R. 10.6(1) (b))': Forbidden Terms items 1, 3 and 4, which agree with 10.6(1)(a), (2) and (1)(b)), and the 2.28 note in Part 2, combined_rule2.txt p.2-63 (line 3214, footnote 1 'See R.10.6(2). See the C.P.E., Chapter 4, Part F.', attached to the 2.28 text about a client changing lawyer; already in the 2.28 see-also). The running head 'R.10.6(1)' is at p.10-14 (line 607, before this rule's title at line 626). No other Book A file cites 10.6.",
+    "BOOK_B: rule text only (paragraphs part10_rule_10_6_001 and _020); no 'Commentary § 10.6' section (searched rule10_part01..12_document.json for '§ 10.6:'); no other Book B commentary cites 10.6. BOOK_C: rule text, amendment note and Information Note only (no commentary); no other Book C entry cites 10.6."
   ],
   "dedupe_log": [
     "10.6 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.6 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.6 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.6 BOOK_C information note dropped (manual review)",
     "10.6 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
   ]
 }
