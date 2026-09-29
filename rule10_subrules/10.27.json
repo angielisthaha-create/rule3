@@ -34,6 +34,9 @@
       "BOOK_A": "AGREES",
       "BOOK_B": "AGREES",
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.27 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*' then a line break and 'Reg. 163/2010, s. 5]': 'Alta. Reg. 124/2010', 'November 1, 2010' and 'Alta. Reg. 163/2010, s. 5' agree with the official history (AR 124/2010; 163/2010) and with Book B ('Alta. Reg. 163/2010, s. 5'); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The rule text of Book C's entry equals the official text."
     }
   },
   "sources": {
@@ -48,7 +51,7 @@
     },
     "BOOK_A": {
       "title": "Decision of Judge",
-      "operative_text_raw": "10.27(1) After hearing an appeal from a review ofﬁcer’s decision, the judge may,\nby order, do one or more of the following orders:\n(a) conﬁrm, vary or revoke the decision;\n(b) revoke the decision and substitute a decision;\n(c) revoke all or part of the decision and refer the matter back to the\nreview ofﬁcer or to another review ofﬁcer;\n(d) make any other order the judge considers appropriate.\n(2) If the amount of lawyer’s charges payable pursuant to the decision of the\nreview ofﬁcer has been paid and, after payment, is reduced on appeal, the lawyer\nmay be ordered to return the excess and, if the lawyer fails to do so, the lawyer, in\naddition to being liable for that amount, may be found guilty of a civil contempt.¹\n[Alta. Reg.124/10;163/10]",
+      "operative_text_raw": null,
       "operative_text_sha256": "4738b266441ce2fdaea7f2047fd0f44e2732602b78a645eaa7bb389291e5fd95",
       "related_provisions": "10.44 (appeal from assessment officer)",
       "commentary": "Strong deference is owed by a judge to a review ofﬁcer’s assessment (taxation) of a solicitor’s\nbill to the client.²\nA solicitor’s account was reviewed, but the client disputed who was to pay, a question which\nthe review ofﬁcer could not decide. The chambers judge should not have upset the review. The\ncertiﬁcate of review was restored, and the lawyer could move for judgment, and the client could\n(with evidence) dispute that on any ground other than quantum or alleged negligence or worth\n(which the taxation made res judicata).³\nA judge who reversed the review ofﬁcer's decision on reasonableness of size of a 20%\ncontingency fee refused to send the matter back to the ofﬁcer to rehear, and substituted his own\nview, including some judicial notice of business practices, and substituted 5%.⁴\nIf the Review Ofﬁcer failed to decide a basic factual topic, the decision will be upset on appeal\nand a new hearing by a different ofﬁcer ordered.⁵\nBut the odd accusation of “appeal proofing” and\n“pre-empting an appeal” (¶’s 10.26) may be questionable. Trial judges often decide one issue,\nwhich ends the matter, but then decide another issue raised before them in case they are wrong\nabout the first issue. That obviates a need for a new hearing and so is often recommended, but it\nin no way impairs an appeal.",
@@ -89,7 +92,9 @@
           "10-41",
           "10-42"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (lines 1994-2000 for subrule (1), title on line 1993; lines 2019-2022 for subrule (2) after the p.10-41 footnote block and the marker 10-42; the bracket '[Alta. Reg.124/10;163/10]' at line 2023) has the same words as the official text (compared by hand, subrule (1)(a)-(d) and subrule (2)) with one difference: the lead-in of (1) reads 'do one or more of the following orders:' where the official text reads 'do one or more of the following:' (the extra word 'orders'). It also differs in ligatures ('ofﬁcer', 'conﬁrm'), spacing and line breaks, the footnote marker '1' after subrule (2) and the amendment bracket (a shortened form of the official 'AR 124/2010 s10.27;163/2010'). The official text controls; the raw Book A lines are not kept.",
+      "commentary_review_flag": "Read in full, p.10-41 (line 1993) to p.10-42 (line 2048): title (line 1993), rule text ((1) lines 1994-2000; page break; (2) lines 2019-2022), the amendment bracket (line 2023), Related Provisions (lines 2025-2026: '10.44 (appeal from assessment officer)') and the note (lines 2028-2044; page marker 10-42 at line 2017), followed by the division headings 'DIVISION 2 / RECOVERABLE COSTS OF LITIGATION / Subdivision 1 / General Rule, Considerations and Court Authority' (lines 2045-2048; the heading of 10.28 is line 2049) with footnotes: p.10-42 fns 1-5 (block after the text of 10.28, line 2054 ff.) = 5; the p.10-41 footnote block (line 2002 ff.) holds fns 1-11 of the 10.26 note. Read against the official text: the rule text equals official 10.27(1)-(2) apart from the added word 'orders' in the lead-in of (1); the bracket agrees with the official history (AR 124/2010; 163/2010) and with Book B ('Alta. Reg. 163/2010, s. 5'); the history fn 1 ('New R.10.27(2) was enacted by Alta. Reg.163/2010') agrees with the official amendment line, which shows 163/2010; the label '10.44 (appeal from assessment officer)' is a paraphrase of official 10.44 ('Appeal to judge'). Statements in the note that are case-law summaries and not the rule: 'Strong deference is owed by a judge to a review officer's assessment' (fn 2 Ashraf v. Zinner Law Office 2013 ABQB 730, paras 25-28; Book B quotes Ashraf para 29 and Yamauchi J. in Fraser Milner Casgrain v. Kristof Financial 2012 ABQB 359, paras 16-18: 'curial deference'); the solicitor's account and who was to pay (fn 3 Peter Knaak P. C. v. Scherer 2002 ABCA 53); the 20% contingency fee replaced by 5% by the judge who refused to send the matter back (fn 4 'Tallcree F. N. v. Rath & Co. (#2), supra. Quaere.', consistent with official 10.27(1)(b) 'revoke the decision and substitute a decision'); the decision upset and a new hearing by a different officer ordered (fn 5 Larocque v. Kantor LLP 2024 ABKB 327, para 12; consistent with official 10.27(1)(c) 'refer the matter back to the review officer or to another review officer'). FLAG: the last sentences ('But the odd accusation of \"appeal proofing\" and \"pre-empting an appeal\" (¶'s 10.26) may be questionable. Trial judges often decide one issue, which ends the matter, but then decide another issue raised before them in case they are wrong about the first issue ...') carry no footnote and name no case; the '(¶'s 10.26)' is a paragraph range printed with a full stop (not the rule number 10.26); the case is not identified in the note. supra/infra: fn 4 'Tallcree F. N. v. Rath & Co. (#2), supra' points back correctly (full at p.10-40 fn 9, 2021 ABQB 234). Printed as is: 'Ashraf v. Zinner Law Office 2013 ABQB 730, 578 AR 334'; the note's first sentence prints 'assessment (taxation)'."
     },
     "BOOK_B": {
       "title": "Decision of judge",
@@ -131,9 +136,11 @@
             },
             {
               "neutral_citation": "2013 ABQB 451",
-              "style_of_cause": "Steinke v. Hajduk Gibbs LLP"
+              "style_of_cause": null,
+              "note": "Printed '..., [2013] A.J. No. 810, 2013 ABQB 451 at para. 4 (Alta. Q.B.)' after the word 'Along' with no case name in front of the citation; the builder had given it the previous case's name (Steinke v. Hajduk Gibbs LLP), which is dropped. The citation appears in no Book A or Book B file (searched for '2013 ABQB 451'). Its name is not printed."
             }
-          ]
+          ],
+          "review_flag": "(1) The commentary ('General Principles', 533 characters) is broken after its first sentence. 'Rule 10.27(1) authorizes the court to substitute its own decision of what the appropriate fee is or refer the matter back for review by the review officer. Steinke v. Hajduk Gibbs LLP, [2014] A.J. No. 62, 2014 ABQB 34 at paras. 7, 85 (Alta. Q.B.)' agrees with official 10.27(1)(b)-(c) (revoke and substitute a decision; refer the matter back to the review officer or another review officer); Steinke paras 7 and 85 are not in Book B's excerpt (paras 43-73) or in Book A's Steinke pinpoints. What follows is a scrambled citation list: 'Along [2013] A.J. No. 810, 2013 ABQB 451 at para. 4 (Alta. Q.B.); , [2023] Adebisi v. Dentons Canada LLP A.J. No. 818, ABKB 641 at para. 19 (Alta. K.B.). ABKB at para. 31 (Alta. K.B.). at para. 25 (Alta. K.B.).' - case names, numbers and years are lost or moved: Book A cites Adebisi v. Dentons Can. as 2023 ABKB 452 (p.10-32 fn 2, line 1557), and '2023 ABKB 641' is Star Enr. Can. v. Builders Enr. Serv. (Book A p.10-55, line 2793; p.10-158, line 8539; Book B's 10.30 commentary, Justice Malik), so the '641' printed with Adebisi is not Adebisi's neutral citation. The running head of the page ('PART 10 LAWYERS' CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS') ends the text. The passage is kept as printed (flagged), no attempt is made to repair the list. (2) Book C prints the entry under a Division heading 'Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT' (the builder's division_heading_flag); rule 10.27 is in Part 10, Division 1 (Lawyers' Charges, Retainer Agreements and Right of Review), Subdivision 5, per the official text."
         }
       ],
       "misattributed_entries": [],
@@ -149,14 +156,8 @@
     "BOOK_A": {
       "status": "WORDING_DIFFERENCE",
       "similarity": 0.9884,
-      "differences": [
-        {
-          "op": "replace",
-          "official": "following:",
-          "carrier": "following orders:"
-        }
-      ],
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (lines 1994-2000 for subrule (1), title on line 1993; lines 2019-2022 for subrule (2) after the p.10-41 footnote block and the marker 10-42; the bracket '[Alta. Reg.124/10;163/10]' at line 2023) has the same words as the official text (compared by hand, subrule (1)(a)-(d) and subrule (2)) with one difference: the lead-in of (1) reads 'do one or more of the following orders:' where the official text reads 'do one or more of the following:' (the extra word 'orders'). It also differs in ligatures ('ofﬁcer', 'conﬁrm'), spacing and line breaks, the footnote marker '1' after subrule (2) and the amendment bracket (a shortened form of the official 'AR 124/2010 s10.27;163/2010'). The official text controls; the raw Book A lines are not kept."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -268,6 +269,12 @@
     "gate_artifact_sha256": "52db6957dd125edab755e8367d988922502274a7789031fbd6dde7b9a3a53d60"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.27' with the pattern that also finds line-wrapped forms; ranges searched separately): six hits, the table of contents (line 1560), 10.20(2) (line 12281 'before a decision is made under rule 10.27'), the rule heading (line 12364, 'Rule 10.27'), the rule text (line 12401), the amendment line (line 12429: 'AR 124/2010 s10.27;163/2010') and 10.46(4) (line 13073: 'rule 10.27 or 10.45 applies as the case requires'). No form cites 10.27. By subject: 10.26 (the appeal), 10.44-10.45 (the parallel appeal and decision for an assessment officer's decision), 10.18(3) and 10.18 (reference to Court), 10.20 (enforcement of the decision), 10.21 (repayment), 10.19 (the certificate).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running heads (combined_rule10.txt lines 1963 and 2018), the rule text (line 1994) and the history footnote (line 2056, 'New R.10.27(2) was enacted by Alta. Reg.163/2010'). Other Book A passages that cite 10.27: the 10.20 rule text, p.10-35 (line 1702, 'under rule 10.27 [Decision of the judge]') and the 10.46 rule text, p.10-137 (line 7355, 'rule 10.27 [Decision of the judge] or 10.45 [Decision of the judge]'), both the official words with bracket labels. No other Book A file cites 10.27. The '(¶'s 10.26)' at p.10-42 (line 2041) is a paragraph range of a case, not a rule reference.",
+    "BOOK_B: this rule's own commentary ('Commentary § 10.27:1', 28,343 characters, rule10_part04_document.json; three parts: 1 Nature of Hearing (the appeal is not de novo: Cape Breton Landowners v. Stora Kopparbergs (1983), 33 C.P.C. 1; McLennan Ross v. Mercantile Bank of Canada (1988), 59 Alta. L.R. (2d) 369; Brown v. Snyder & Associates (2004), 364 A.R. 266 (Q.B.); Repchuk v. Silverberg 2013 ABQB 305, paras 38, 42-46, 51, 53-55, 57, 58, 63-66, 77-79; Fraser Milner Casgrain v. Kristof Financial 2012 ABQB 359, paras 16-18; Ashraf v. Zinner Law Office 2013 ABQB 730; Rath & Co. v. Sweetgrass First Nation 2013 ABQB 165, paras 24-29), 2 Standard of Review (inordinately high or low) and 3 A Litigant in Dedicated Pursuit of Legal Rights (Hanson v. McCormick; Carr & Co. v. Markdale Ltd. (1996), 46 Alta. L.R. (3d) 324 at 334)). Other Book B passages that cite 10.27: the 10.20 commentary (10.27, Book B rule10_part04_document.json) and the 10.46 commentary (rule10_part10_document.json: 'rule 10.27 or 10.45 applies as the case requires').",
+    "BOOK_C: the entry for 10.27 in '461-480_10_11 to 10_31.json' (text, amendment note and a 'General Principles' commentary of 533 characters; the entry sits under a Division heading 'Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT' that belongs to Part 9, see the flag); the 10.18 entry's commentary cites 'Rules 10.20(1) and 10.27(1)' and 'Rule 10.27(1) allows a judge to allow an appeal and either direct the review officer to refer a question to the court under rule 10.18(1) or do so directly'; the 10.20 and 10.46 entries print the label '[Decision of the judge]' after 'rule 10.27'."
+  ],
   "dedupe_log": [
     "10.27 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.27 BOOK_C: operative text dropped (EXACT_MATCH)",
@@ -275,6 +282,7 @@
     "10.27 BOOK_C citation context dropped (2013 ABQB 451): verbatim in kept text",
     "10.27 BOOK_C commentary sentence split dropped",
     "10.27 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
-    "10.27 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.27 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.27 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }
