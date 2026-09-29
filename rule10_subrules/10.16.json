@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.16 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. Book C's entry has the rule text (equal to the official text), no commentary and no citation."
     }
   },
   "sources": {
@@ -55,7 +58,8 @@
           "10-31"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-31 (lines 1482-1490): title (line 1482), rule text (lines 1483-1485, no marker), Related Provisions (lines 1487-1490, wrapped across a blank line at 1489) and no note and no footnote. Read against the official text: the rule text equals official 10.16 (EXACT_MATCH, no differences). The four Related Provisions labels, read against the official rules: '3.36 (failure to defend)' is a label for official 3.36 ('Judgment in default of defence and noting in default'); '9.15(1) (b) (setting aside order on failure to appear)' is a paraphrase of official 9.15(1)(b) (judgment or order made after a trial or hearing at which an affected person did not appear because of an accident or mistake or because of insufficient notice); '10.14(3) (failure of lawyer to comply with rules)' lands on official 10.14(3) (forfeiture); '10.40 (failure to appear on assessment)' is a label for official 10.40 ('Absence of person served with notice of appointment for assessment'), whose Book A Related Provisions point back to 10.16. Book A prints the two lines of the list with a blank line between them (the builder joins them)."
     },
     "BOOK_B": {
       "title": "Absence of person at appointment for review",
@@ -203,6 +207,12 @@
     "gate_artifact_sha256": "b6bc888ce978ccc26148d7f1bfdcb5835d205e0aa9ac3e1c16e15ba768dc1307"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.16' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1524) and the rule (line 12139). No other rule or form cites 10.16 by number. By subject (the rules Book A lists): 3.36 (title 'Judgment in default of defence and noting in default', line 362), 9.15(1)(b) (the Court may set aside, vary or discharge a judgment or order made following a trial or hearing at which an affected person did not appear because of an accident or mistake or because of insufficient notice), 10.14(3) (the lawyer who does not comply forfeits the right to payment), 10.40 (title 'Absence of person served with notice of appointment for assessment', line 1605); also 10.13 (the appointment and its service).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running head (combined_rule10.txt line 1476, p.10-31) and the rule text (line 1483); the 10.14 Related Provisions, p.10-30 (line 1445, '10.16 (default of appearance)'); and the 10.40 Related Provisions, p.10-129 (lines 6977-6978, '10.16 (failure to appear on review)'). No other Book A file cites 10.16. The rule has no note and no footnote in Book A.",
+    "BOOK_B: a heading paragraph and no commentary ('10.16. Absence of person at appointment for review', rule10_part04_document.json); no other Book B file cites 10.16 by number.",
+    "BOOK_C: the entry for 10.16 in '461-480_10_11 to 10_31.json' (text and amendment note; no commentary; the file marks the entry type 'orphan_rule'); no other Book C file cites 10.16 by number."
+  ],
   "dedupe_log": [
     "10.16 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.16 BOOK_B: operative text dropped (EXACT_MATCH)",
