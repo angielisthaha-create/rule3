@@ -1,0 +1,266 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.1",
+  "title": {
+    "official": "Actions by or against personal representatives and trustees",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.1   An action may be brought by or against a personal\nrepresentative or trustee without naming any of the persons\nbeneficially interested in the estate or trust.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "5c1b66858e0dccff8a9061518a28de837d2745b859df83fcdf90f0943d33db57"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          37
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Actions By or Against Personal Representatives and Trustees",
+      "operative_text_raw": null,
+      "operative_text_sha256": "70fc326d5c414ad80d92432e478b57bae48b9b2c3f2b1b09a38cc99d10bab801",
+      "related_provisions": "9.11 (judgment against beneficiaries) ; 11.6 (service on personal representatives and trustees)",
+      "commentary": "If the trustees represent the interests of all the beneﬁciaries, then adding a beneﬁciary as\na party may not be necessary. And a case management judge familiar with the suit had a good\nknowledge of what interests were involved and represented.²\nThis Rule does not make an estate or a trust a legal entity, nor allow it to sue, nor allow one to\nsue it, without naming the executor or trustee as the defendant.\nThough only an estate's executor or administrator has the authority to act with respect to the\nestate, he or she can delegate authority to others, as the personal representative is given by the\nEstate Administration Act the ability to do anything which the deceased could have done.³\nA suit by an oil company against the Crown for overpayment of royalties under a lease on an\nIndian reserve does not use Rule 2.1, the Crown is not sued as trustee, and this is not a claim\nagainst the trust property.⁴\nBut a shareholder of a closely-held company can sue as the trustee\nof the company?⁵\nFor purposes of the Limitations Act, a \"personal representative\" is appointed only by an order\nor letters probate or the like, by a court; appointment of an executor in a will is not enough.⁶",
+      "footnotes": [
+        {
+          "page": "2-3",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.43, 44. It came from 1944 C. R.54. The origin was the Chancery Procedure Act 1852 s.42(9), via 1883 O.16 r.8 and Judic. Ord. R.33(1). It comes from revised version of 1914 R.22; from 1944 C. R.55. Stems from Eng.1883 O.16 rr.34-36, Judic. Ord. rr.46-48."
+        },
+        {
+          "page": "2-3",
+          "number": 2,
+          "text": "Twinn v. Twinn 2017 ABCA 419, Edm 703 0193 AC (Dec 12) (¶ 20).",
+          "review_flag": "possible source typo in the court file number: 'Edm 703 0193 AC' - Book A writes other Court of Appeal file numbers as 'Edm 1803 0166 AC', so a leading digit ('1703') is probably missing. Not corrected."
+        },
+        {
+          "page": "2-3",
+          "number": 3,
+          "text": "Graeff Est. v. Huey 2020 ABQB 262, JCC 2001 00568 (Apr 15) (¶’s 11-12)."
+        },
+        {
+          "page": "2-3",
+          "number": 4,
+          "text": "Chevron Can. Res. v. R.2001 ABQB 544, 295 AR 388."
+        },
+        {
+          "page": "2-3",
+          "number": 5,
+          "text": "Paterson v. Hamilton [1997] 3 WWR 298, 199 AR 399."
+        },
+        {
+          "page": "2-3",
+          "number": 6,
+          "text": "Kardynal v. Shumlich 2021 ABQB 357, 26 Alta LR(7th) 301 (¶’s 37-40)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          31,
+          57
+        ],
+        "book_pages": [
+          "2-3"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Actions by or against personal representatives and trustees",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.1:1",
+          "text": "Rule 2.1 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.1. 1. Actions by Trustee In my reasons for judgment issued last September, I reserved on the issue of the status of the plaintiff, Charles Roenisch. The evidence was clear that Mr. Roenisch transferred ownership of his shares to Kimil Investments Ltd. (Kimil) on June 5, 1979. The defendants argue that Mr. Roenisch had no status to bring this claim since he was never legal owner of the shares (they had been held in street form by the broker) and ceased to be beneficial owner when the shares were transferred to Kimil. The plaintiffs argue that Mr. Roenisch brought this action as trustee for Kimil. Rule 43 allows a trustee to bring an action on behalf of the parties he or she represents without the necessity of joining the beneficial owner. An amendment to the statement of claim identifies that fact of the transfer and that Mr. Roenisch was bringing the action on behalf of Kimil. Given that Kimil was a closely held company, I see no reason why Mr. Roenisch could not act as its trustee and bring the action on its behalf. Thus, had the action succeeded on other grounds, Kimil through Mr. Roenisch would have been a successful party. Paterson v. Hamilton (1997), 199 A.R. 399 (Q.B.), at p. 400, per Kent J. 2. Limited Partners We conclude that a general partner may rely on Rule 43 to bring and defend a claim in its name only as a trustee of the partnership property. 155569 Canada Ltd. v. 248524 Alberta Ltd. (2000), 77 Alta. L.R. (3d) 231 (C.A.) at 356, per curiam."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_001",
+        "part2_rule_2_1_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_002",
+        "part2_alberta_rules_of_court_rule_2_part_1_003",
+        "part2_rule_2_1_002",
+        "part2_alberta_rules_of_court_rule_2_part_1_004"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "789edb2628041409e180f6f903c2416a542db567c7eb13d668910bb43cdbe6ea",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Actions by or against personal representatives and trustees",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "789edb2628041409e180f6f903c2416a542db567c7eb13d668910bb43cdbe6ea",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.1",
+      "title_official": "Actions by or against personal representatives and trustees"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "70fc326d5c414ad80d92432e478b57bae48b9b2c3f2b1b09a38cc99d10bab801",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            31,
+            57
+          ],
+          "book_pages": [
+            "2-3"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "789edb2628041409e180f6f903c2416a542db567c7eb13d668910bb43cdbe6ea",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "789edb2628041409e180f6f903c2416a542db567c7eb13d668910bb43cdbe6ea",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "5c1b66858e0dccff8a9061518a28de837d2745b859df83fcdf90f0943d33db57",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            37
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "caad8df688c0cc90ac8a6c5ee20a9862b83208d7d0092109bef2de9ba35abcd3"
+  },
+  "information_notes": [
+    {
+      "text": "Rules for service of commencement documents on trustees and personal representatives\nare contained in rule 11.6 [Service on trustees and personal representatives]. For judgments\nagainst personal representatives and trustees see rule 9.11 [Judgment against beneficiaries].",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "garbled copy of the same note (word order/brackets); not retained"
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A; 7th pass): R.11.6 information note (p.11-11) cites rule 2.1. R.3.68 notes (p.3-213): 'See also R.2.1n., supra' - the Part 3 extraction interleaves text and footnotes, so the sentence it supports cannot be confirmed. FLAG: R.7.1 notes (p.7-5), on splitting trials: 'recent case law again stresses the impact of R.2.1.' (fn 6: NEP Can. v. MEC Op 2016 ABCA 201) - rule 2.1 (actions by or against personal representatives and trustees) does not deal with splitting trials; the intended rule cannot be determined from the text.",
+    "BOOK_A 2.6 commentary (combined_rule2.txt lines 207-210, 226-228): representative actions - beneficiaries sue or are sued through the executor/personal representative 'as R.2.1 tells us'; the trustee-beneficiary relationship is the model for all representative actions.",
+    "BOOK_B 2.1 commentary part 2 ('Limited Partners', 155569 Canada v. 248524 Alberta 2000 CA): a general partner may sue in its own name only as trustee of the partnership property - links 2.1 with 2.2.",
+    "Cross-book: BOOK_B section 1 (Paterson v. Hamilton (1997), 199 A.R. 399) is the case BOOK_A fn 5 cites for 'a shareholder of a closely-held company can sue as the trustee of the company?'. BOOK_B's quotes refer to 'Rule 43' = former 1968 R.43, the predecessor named in BOOK_A fn 1.",
+    "Official, by subject (6th pass): the Appendix defines 'trustee' (incl. an executor, administrator or trustee of an estate, and a trustee appointed by the Court) and 'personal representative' (as in s.1(l) of the Surrogate Rules); rule 11.25(1)(j) allows service outside Alberta of a claim against a trustee about the trust."
+  ],
+  "dedupe_log": [
+    "2.1 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.1 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.1 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.1 BOOK_C information note dropped: garbled duplicate, no new words",
+    "2.1 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.32",
+  "title": {
+    "official": "Additional options for defendant",
+    "variants": {
+      "BOOK_B": "Additional options for defendant who files defence"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 3,
+    "heading": "Defence to Statement of Claim, Reply to Defence and Demand for Notice"
+  },
+  "operative_text": {
+    "controlling": "3.32   A defendant may do one or more of the following:\n(a) file a claim against a co-defendant in accordance with rule\n3.43;\n(b) file a third party claim in accordance with rule 3.44;\n(c) file a counterclaim in accordance with rule 3.56.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "365540a182eaddeb41adfd1116fd40859eaeb5991a438e4004f5c35dab33cf1c"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s3.32;143/2011",
+    "amending_regulations": [
+      "143/2011"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta.Reg.124/10;143/11]"
+      ],
+      "BOOK_B": "Alta. Reg. 143/2011, s. 4",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 143/2011, s. 4]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          62
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Additional Options for Defendant",
+      "operative_text_raw": null,
+      "operative_text_sha256": "4b4809cd9a7490007cb7a82b4878f0e100addf0a03101ed127fc0edf6425c150",
+      "defined_terms": "defendant, file *Reply to Defence*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-82"
+        ],
+        "offset_in_clean_text": [
+          261703,
+          262121
+        ]
+      },
+      "operative_text_note": "same wording as official 3.32(a)-(c) (read by eye) except the bracket labels after the rule numbers: '[How to make a claim against co-defendants]' after 'rule 3.43' (the official title of 3.43 is 'How to make claim against co-defendant'), '[When a third party claim may be filed]' after 'rule 3.44' (official 'When third party claim may be filed') and '[Right to counterclaim]' after 'rule 3.56' (matches the official title); the title in title case ('Additional Options for Defendant'); missing spaces ('counterclaimin') and '*' line marks. The amendment bracket '[Alta.Reg.124/10;143/11]' agrees with the official 'AR 124/2010 s3.32;143/2011'. No substantive difference. Book A prints no note, information note or related provisions for 3.32 (only Defined Terms 'defendant, file'; the Appendix defines both).",
+      "commentary_review_flag": "Read in full, p.3-82 (lines 2228-2231): rule text and Defined Terms 'defendant, file' (the Appendix defines both). Book A prints no note, information note or related provisions for 3.32; the built defined_terms field ends with the title of 3.33 ('Reply to Defence'). (1) Labels: '[How to make a claim against co-defendants]' and '[When a third party claim may be filed]' differ from the official titles of 3.43 ('How to make claim against co-defendant') and 3.44 ('When third party claim may be filed'); Book C prints the same two labels; '[Right to counterclaim]' matches the official title of 3.56. (2) The lines before this rule's title on p.3-82 (lines 2224-2227: 'A statement of defence must disclose an arguable ground of defence ... See further R.3.68n.'; 'On the Clerk accepting for filing a defective pleading, cf. the Goodzeck case ...') belong to 3.31's note (in the 3.31 record). (3) No other Book A file cites 3.32 by number (searched all combined*.txt)."
+    },
+    "BOOK_B": {
+      "title": "Additional options for defendant who files defence",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_32_001",
+        "part3_part_3_court_actions_022"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "5575760379418f934f26e23567e290a81309dfb717e470686817e125868960e8",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Additional options for defendant",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "e63511b6b25c5ad5d5d8afd77680fecba2ef203fa7622e1e5b7cad0463e47020",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Defendants to proceedings have their own strategic options as well.\nDepending upon the circumstances, they may claim against co-defendants, bring in third",
+          "citations": [],
+          "review_flag": "(1) The commentary is cut off: 'Defendants to proceedings have their own strategic options as well. Depending upon the circumstances, they may claim against co-defendants, bring in third' (154 characters, the page end); the rest of the sentence is not in the file - Book C's next entry (3.33) begins with its own rule text. (2) What is printed agrees with 3.32(a)-(c) (claim against a co-defendant, third party claim, counterclaim)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same wording as official 3.32(a)-(c) (read by eye) except the bracket labels after the rule numbers: '[How to make a claim against co-defendants]' after 'rule 3.43' (the official title of 3.43 is 'How to make claim against co-defendant'), '[When a third party claim may be filed]' after 'rule 3.44' (official 'When third party claim may be filed') and '[Right to counterclaim]' after 'rule 3.56' (matches the official title) (the same labels as Book A). The amendment note '[Alta. Reg. 124/2010, r. 3.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta. Reg. 143/2011, s. 4]' agrees with the official 'AR 124/2010 s3.32;143/2011'."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.32(a)-(c) (read by eye) except the bracket labels after the rule numbers: '[How to make a claim against co-defendants]' after 'rule 3.43' (the official title of 3.43 is 'How to make claim against co-defendant'), '[When a third party claim may be filed]' after 'rule 3.44' (official 'When third party claim may be filed') and '[Right to counterclaim]' after 'rule 3.56' (matches the official title); the title in title case ('Additional Options for Defendant'); missing spaces ('counterclaimin') and '*' line marks. The amendment bracket '[Alta.Reg.124/10;143/11]' agrees with the official 'AR 124/2010 s3.32;143/2011'. No substantive difference. Book A prints no note, information note or related provisions for 3.32 (only Defined Terms 'defendant, file'; the Appendix defines both)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.32(a)-(c) (read by eye) except the bracket labels after the rule numbers: '[How to make a claim against co-defendants]' after 'rule 3.43' (the official title of 3.43 is 'How to make claim against co-defendant'), '[When a third party claim may be filed]' after 'rule 3.44' (official 'When third party claim may be filed') and '[Right to counterclaim]' after 'rule 3.56' (matches the official title) (the same labels as Book A). The amendment note '[Alta. Reg. 124/2010, r. 3.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta. Reg. 143/2011, s. 4]' agrees with the official 'AR 124/2010 s3.32;143/2011'."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.32",
+      "title_official": "Additional options for defendant"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "4b4809cd9a7490007cb7a82b4878f0e100addf0a03101ed127fc0edf6425c150",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-82"
+          ],
+          "offset_in_clean_text": [
+            261703,
+            262121
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "5575760379418f934f26e23567e290a81309dfb717e470686817e125868960e8",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "e63511b6b25c5ad5d5d8afd77680fecba2ef203fa7622e1e5b7cad0463e47020",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "365540a182eaddeb41adfd1116fd40859eaeb5991a438e4004f5c35dab33cf1c",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            62
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "1f70c2e84b34d20144e84a539d908f116ba07610b0fd4b31b06b3f2353ee41a9"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): no other Book B or Book C file cites 3.32 by number. BOOK_B 3.32: the title is 'Additional options for defendant who files defence' where the official title is 'Additional options for defendant' (title variant recorded by the builder); rule text (rule3_part03_document.json paragraph part3_part_3_court_actions_022) EXACT_MATCH with the official; amendment note 'Alta. Reg. 143/2011, s. 4' agrees with the official 'AR 124/2010 s3.32;143/2011'; NO commentary section. BOOK_C 3.32: rule text NORMALIZATION_ONLY_DIFFERENCE (labels; noted); amendment note agrees; commentary (154 characters) kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included): no Book A file cites 3.32 by number outside its own record.",
+    "OFFICIAL text (searched for 'rule 3.32', 'rules 3.32', lists, line-wrapped forms and form headings): no other official rule cites 3.32 by number (the only hit is the running page header 'Rule 3.32'); no form heading names it. By subject (read): 3.43 (claim against co-defendant), 3.44-3.45 (third party claim), 3.56 (right to counterclaim), 3.30 and 3.31 (defendant's options; statement of defence)."
+  ],
+  "dedupe_log": [
+    "3.32 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.32 BOOK_C commentary sentence split dropped",
+    "3.32 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.32 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.32 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.32 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

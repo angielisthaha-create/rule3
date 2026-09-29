@@ -1,0 +1,227 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.6",
+  "title": {
+    "official": "Where an action is carried on",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Court Actions and Their Venue"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.6(1)  An action must be\n(a) carried on in the judicial centre in which the statement of\nclaim or originating application was filed, or\n(b) if the action is transferred in accordance with rule 3.4 or\nrule 3.5, continued in the judicial centre to which the\naction is transferred, and all subsequent documents in the\naction must be titled accordingly.\n(2)  Despite subrule (1), an application and an originating\napplication may be heard or a trial may be held in any place\nspecified by the Court other than the judicial centre.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "b2c740bf7c9bf25a290f0d8b32691bc1a90421af457b8dfd77ea509c6ad810c8"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          52
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Where an Action is Carried On",
+      "operative_text_raw": null,
+      "operative_text_sha256": "96968743664adca4c4e03bfc48473f1d6f0eff67f8714a1b01feb6efb8f63cf7",
+      "defined_terms": "judicial centre",
+      "related_provisions": "3.2 (how to start an action); 6.2(venue of applications);6.9 (jurisdiction of[applications judges] ?masters?);14.8(5) (venue of appeals);14.84 (place of filing)",
+      "commentary": "Different Rules and tests apply to three different questions:where an action is to be started, moving the court file to a different judicial district, and where the trial is to be held. Rule 3.3 prevents abusive choice of a plainly unsuitable court-house to run a suit, e.g., one far away from everyone connected with the suit, except maybe the plaintiff's lawyer. Aside from that, R.3.6(2) is often not very important.First, it speaks of where an action is\n\ncarried on which includes place of trial, and many suits (especially foreclosures) never go to trial, and all interlocutory steps are taken before trial.Second, the fact that R.3.6 compels certain places to be suggested for trial decides very little, for R.3.5 lets the court change the judicial centre at any time.No applications judge or justice would enforce R.3.6 if 5 minutes later that was to be undone by an order under R.3.5.But on a statutory application (ex parte), the judge was critical of not following R.3.6(1)(a) requiring that applications be in the judicial centre where the\n\naction was started.Counsel should have first got a direction under R.3.6(2). 1Christensen v. Proprietary Ind.2002 ABQB 97, 309 AR 201;Silver Springs v.UMA Eng.,supra; cf. *Hansraj v. Ao (#2)2002 ABQB 772, 314 AR 283,affdon this point 2004 ABCA 223, 354 AR 91, 34 Alta LR(4th) 199;cf.C.S. v.A.J.,infra;Behielsv.Tibu,supra(¶'s 12, 15(5), 15(6)).There is a curious decision, using instead a lax almost subjective test:Siver v.Siver2010 ABQB 755, [2010] AR Uned 964 (Dec 1).See\n\nfurther the C.P.E., Chapter 23, Part C.\n\n1Keaton v.Keaton2017 ABQB 429, JCE 4803 180087 (Jul 10) (discussing especially family law litigation). See R.3.6(1).See further the C.P.E., Chapter 23, Part E.And keeping a motion in the suitable place may be a ground to move before a justice not an applications judge, if the justice is available sooner there:Seabolt *Watershed Assn.v.Brown2002 ABQB 795, 333 AR 193. 2A child support and custody motion was left at the judicial centre originally chosen, with a discussion of the criteria. On a motion, there are no live witnesses to be inconvenienced:C.S. v.A.J.2004 ABQB 73, 50 Alta\n\nLR(4th) 91. 3Quite similar to previous 1968 R.405.It was new in 1968. If an action has not yet been transferred, motions should be brought in the judicial centre where the action was commenced. Pre-trial steps need not be carried on where the trial is to be\n\nheld, provided that the plaintiff's choice is reasonable and the balance of convenience respecting\n\napplications is even.\n\n*Post-judgmentTransfer of Action*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-23",
+          "3-24"
+        ],
+        "offset_in_clean_text": [
+          65673,
+          69033
+        ]
+      },
+      "operative_text_note": "same wording as official 3.6(1)-(2) (read by eye) except: bracket labels '[Claim for possession of land]' (after 'rule 3.4') and '[Transfer of an action]' (after 'rule 3.5'), missing spaces, '*' line marks, the footnote marker '4' after (2), and one word in (1)(b): 'continued in that judicial centre to which the action is transferred' where the official text says 'continued in the judicial centre to which the action is transferred' ('that' for 'the'; no change of meaning). No amendment bracket; the official text lists no amendment for 3.6. This rule's history footnote 4 ('Quite similar to previous 1968 R.715, 716 ...') is printed in the built 3.5 commentary (p.3-23) and is kept verbatim there.",
+      "commentary_review_flag": "Read in full, p.3-23 (from line 517) to p.3-24 (line 540). (1) Footnotes: p.3-23 has footnotes 1-6 shared with 3.5 (see the 3.5 flag); this rule's own are fn 1 (line 525: Christensen v. Proprietary Ind. 2002 ABQB 97, 309 AR 201; Silver Springs v. UMA Eng. supra; Hansraj v. Ao (#2) 2002 ABQB 772, 314 AR 283, affd on this point 2004 ABCA 223, 354 AR 91; C.S. v. A.J. infra; Behiels v. Tibu supra (paras. 12, 15(5), 15(6)); the text then adds Siver v. Siver 2010 ABQB 755, [2010] AR Uned 964 (Dec 1)) and fn 4 (history, marker printed after 3.6's text; the footnote text is at the end of the built 3.5 commentary). Page 3-24 has footnotes 1-3: 1 Keaton v. Keaton 2017 ABQB 429 ('See R.3.6(1). See further the C.P.E., Chapter 23, Part E') and Seabolt Watershed Assn. v. Brown 2002 ABQB 795, 333 AR 193; 2 C.S. v. A.J. 2004 ABQB 73, 50 Alta LR(4th) 91; 3 'Quite similar to previous 1968 R.405. It was new in 1968.' - fn 3 is printed under the running head R.3.7(1) and, since 3.6 already has its history note (fn 4 on p.3-23), is presumably 3.7's; the book does not show. The built commentary ends with 3.7's title. (2) p.3-23 line 523: 'the fact that R.3.6 compels certain places to be suggested for trial' - official 3.6 says nothing about suggesting a place of trial: 3.6(1) fixes where the action is carried on (the centre where the claim or originating application was filed, or the centre it was transferred to) and 3.6(2) lets the Court specify another place for an application, an originating application or a trial. Line 523 also paraphrases 3.6(1)(a) as 'requiring that applications be in the judicial centre where the action was started'; the official text says 'An action must be (a) carried on in the judicial centre in which the statement of claim or originating application was filed'. (3) Related Provisions as read against the official text: '6.2 (venue of applications)' - official 6.2 ('Application to the Court to exercise its authority') says a person may apply when the Court has authority and says nothing about venue; '6.9 (jurisdiction of[applications judges] ?masters?)' - official 6.9 is 'How the Court considers applications', and 6.9(2) says 'Applications may be decided by a judge or applications judge'; the label is printed with an editorial bracket and question marks; 3.2, 14.8(5) and 14.84 agree in subject. (4) supra/infra: Silver Springs supra -> 3.5 fn 13 (2004 ABQB 942); Behiels supra -> 3.5 fn 3 (2024 ABKB 12); C.S. v. A.J. infra -> p.3-24 fn 2; Christensen supra (p.3-23 fn 2) -> p.3-23 fn 1. (5) Statements of law without a source in the repository (not checked): a motion may be moved before a justice rather than an applications judge if the justice is available sooner; pre-trial steps need not be carried on where the trial is to be held if the plaintiff's choice is reasonable and the balance of convenience on applications is even; motions belong in the centre where the action was commenced if it has not been transferred."
+    },
+    "BOOK_B": {
+      "title": "Where an action is carried on",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_6_001",
+        "part3_part_3_court_actions_020"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "dd17b3e6a9820e35792e5b87d72ef526019469570c64c65d4d4efc7c678e593f",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Where an action is carried on",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "41054210960f057a443bacadbf4fb20f2fb9a4a3e1068abe19a9ffb872b47997",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "As noted, justices of the Court of King’s Bench have province-wide jurisdiction. In judicial centres with sporadic sittings, it is sometimes necessary to have interlocutory applications, or even trial heard elsewhere to ensure timely relief.",
+          "citations": [],
+          "review_flag": "'As noted, justices of the Court of King's Bench have province-wide jurisdiction' refers back to Book C's 3.3 commentary (same sentence idea; not in Books A or B). It agrees in substance with official 3.6(2) (a hearing or trial 'in any place specified by the Court other than the judicial centre'); the further statement about 'judicial centres with sporadic sittings' has no source in the repository. Book B has no commentary on 3.6."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): in (1) the words '(b) if the action is transferred in accordance with rule 3.4 [Claim for possession of land]' are missing, and the label '[Transfer of an action]' stands before 'or rule 3.5 ,'; subrule (2) equals the official text. Amendment note agrees (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7738,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.6(1)-(2) (read by eye) except: bracket labels '[Claim for possession of land]' (after 'rule 3.4') and '[Transfer of an action]' (after 'rule 3.5'), missing spaces, '*' line marks, the footnote marker '4' after (2), and one word in (1)(b): 'continued in that judicial centre to which the action is transferred' where the official text says 'continued in the judicial centre to which the action is transferred' ('that' for 'the'; no change of meaning). No amendment bracket; the official text lists no amendment for 3.6. This rule's history footnote 4 ('Quite similar to previous 1968 R.715, 716 ...') is printed in the built 3.5 commentary (p.3-23) and is kept verbatim there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9357,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.6",
+      "title_official": "Where an action is carried on"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "96968743664adca4c4e03bfc48473f1d6f0eff67f8714a1b01feb6efb8f63cf7",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-23",
+            "3-24"
+          ],
+          "offset_in_clean_text": [
+            65673,
+            69033
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "dd17b3e6a9820e35792e5b87d72ef526019469570c64c65d4d4efc7c678e593f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "41054210960f057a443bacadbf4fb20f2fb9a4a3e1068abe19a9ffb872b47997",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "b2c740bf7c9bf25a290f0d8b32691bc1a90421af457b8dfd77ea509c6ad810c8",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            52
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e5fb90a8da62bd2efef87bd43f59619b3e4eb3133559c3af8efdd9dbd9234d8c"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 3.6', 'rules 3.5 and 3.6', lists, line-wrapped forms and form headings): no other official rule cites 3.6 by number and no form heading names it. By subject: 3.3, 3.4 and 3.5 (where the action starts and moves), 3.7 (temporary transfer after judgment), 6.2 and 6.9 (applications and how the Court considers them; 6.9(2) judge or applications judge), 6.10 (electronic hearing) and 8.18 (trial conducted by electronic hearing), 14.8(5) and 14.84 (place of filing appeals).",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; page markers checked): R.14.84 related provisions p.14-252 (line 13355) '3.6 (place of proceedings); 14.8(5) (venue of appeals)'; R.6.2 related provisions p.6-3 (line 80) '3.6 (venue for applications)' and R.6.2 footnote p.6-8 '4 See R.3.6.'; R.6.3 related p.6-14 (line 633) '3.6 (venue)'; R.6.16 related p.6-104 (line 5519) '3.6 (venue)'; R.6.18 note p.6-105 (line 5583) 'no need for the cross-examination to take place in the city where the trial will be: Baltimore v. Baltimore ...; but see R.3.6'. Inside Part 3: 3.3 related provision and commentary '3.6(2) (movement of motions and trials)' (p.3-19 line 413, p.3-20 line 444; official 3.6(2) confirms: hearing or trial in a place specified by the Court other than the judicial centre); 3.5 (p.3-23 line 518 text and 3.6's own note).",
+    "BOOK_B: rule text only (paragraph part3_part_3_court_actions_020), equal to the official 3.6; no commentary section for 3.6; no amendment note on either side. BOOK_C: one 'General Principles' paragraph (kept, flagged). Neither book (all Book B files and all Book C page files searched) cites 3.6 by number except 3.6's own text.",
+    "Cross-book: the venue-change authorities that BOOK_B gives under 3.5 are used by BOOK_A under 3.6 as well: Siver v. Siver 2010 ABQB 755 (BOOK_A p.3-23 line 525, 'a curious decision, using instead a lax almost subjective test'; BOOK_B 3.5 commentary, Regular paras. 6-9), Keaton v. Keaton 2017 ABQB 429 (BOOK_A p.3-24 fn 1 and p.3-4 fn 6; BOOK_B 3.5, Odland para 22), C.S. v. A.J. 2004 ABQB 73 (BOOK_A p.3-24 fn 2; BOOK_B 3.5, Regular para 7), Silver Springs v. UMA Eng. and Christensen v. Proprietary Industries (BOOK_A; BOOK_B 3.5, Regular). Hansraj v. Ao: BOOK_A cites 2002 ABQB 772 (#2), affd on this point 2004 ABCA 223; BOOK_B cites 2004 ABCA 223 in its rule 1.5 commentary ('Time Requirements of the Rule'), so it is the same appeal cited for a different point."
+  ],
+  "dedupe_log": [
+    "3.6 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.6 BOOK_C commentary sentence split dropped",
+    "3.6 BOOK_C: rule text dropped (manual review)",
+    "3.6 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.6 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

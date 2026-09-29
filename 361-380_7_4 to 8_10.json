@@ -1,0 +1,468 @@
+{
+  "source_file": "361-380_revised.md",
+  "definitions": [],
+  "hierarchy": [
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "7.4",
+        "title": "Proceedings after summary judgment against party",
+        "text": "If summary judgment is given against one or more defendants or plaintiffs, the action may be continued by or with respect to any plaintiff or defendant not bound by the judgment.\n\n*[Alta. Reg. 124/2010, r. 7.4 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "If summary judgment is given against one or more defendants or plaintiffs, the action may be continued by or with respect to any plaintiff or defendant not bound by the judgment. *[Alta. Reg. 124/2010, r. 7.4 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 7.4 provides that in the event summary judgment is given against one or more of the parties, the action may continue with respect to other parties not bound by the judgment.\nThere is no continuum between summary judgment and summary trial; they are distinct processes. As held by the Court of Appeal, ...A summary trial results in a final adjudication and creates res judicata. A successful summary judgment application has the same effect, but an unsuccessful",
+            "sentences": [
+              "Rule 7.4 provides that in the event summary judgment is given against one or more of the parties, the action may continue with respect to other parties not bound by the judgment.",
+              "There is no continuum between summary judgment and summary trial",
+              "they are distinct processes. As held by the Court of Appeal, ...A summary trial results in a final adjudication and creates res judicata.",
+              "A successful summary judgment application has the same effect, but an unsuccessful"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "Division",
+      "heading": "Division 1 – MODE OF TRIAL",
+      "rules": [
+        {
+          "number": "8.1",
+          "title": "Mode of Trial",
+          "text": "(1) A court action may be tried by (a) a jury trial under Division 1.1, (b) a judge alone, or (c) a judge alone at a streamlined trial under Division 5.\n(2) Subject to Division 5, unless the Chief Justice directs that the mode of trial shall be by jury, or in part by jury and in part by judge alone, the trial must be by judge alone.\n\n*[Alta. Reg. 124/2010, r. 8.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 126/2023, s.  Shaw v. Standard Life Assurance Co., [2006] A.J. No. 250, 2006 ABQB 156 at para. 10 (Alta. Q.B.). effective January 1, 2024 (Alta. Gaz. November 30, 2023)]",
+          "sentences": [
+            "(1) A court action may be tried by",
+            "(a) a jury trial under Division 1.1",
+            "(b) a judge alone, or",
+            "(c) a judge alone at a streamlined trial under Division 5.",
+            "(2) Subject to Division 5, unless the Chief Justice directs that the mode of trial shall be by jury, or in part by jury and in part by judge alone, the trial must be by judge alone. *[Alta. Reg. 124/2010, r. 8.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 126/2023, s. Shaw v. Standard Life Assurance Co., [2006] A.J. No. 250, 2006 ABQB 156 at para. 10 (Alta. Q.B.). effective January 1, 2024 (Alta. Gaz. November 30, 2023)]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2006 ABQB 156",
+              "style_of_cause": "Shaw v. Standard Life Assurance Co.",
+              "context": "al must be by judge alone.\n\n*[Alta. Reg. 124/2010, r. 8.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 126/2023, s.  Shaw v. Standard Life Assurance Co., [2006] A.J. No. 250, 2006 ABQB 156 at para. 10 (Alta. Q.B.). effective January 1, 2024 (Alta. Gaz. November 30, 2023)]"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Civil trials in Alberta are usually heard by a judge without a jury. Rule",
+              "sentences": [
+                "Civil trials in Alberta are usually heard by a judge without a jury."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "8.2",
+          "title": "outlines the procedure a litigant must comply with to obtain an order for a trial by jury.",
+          "text": "If the litigant does not follow the proper procedure, the judge may decline to hear an application. Donnelly v. Brick Warehouse Corp., [2013] A.J. No. 1152, 2013 ABQB 621 at para. 29 (Alta. Q.B.). Rule 8.2 directs the litigant to the that outlines how the litigant obtains Jury Act an order for trial by jury.",
+          "sentences": [
+            "If the litigant does not follow the proper procedure, the judge may decline to hear an application.",
+            "Donnelly v. Brick Warehouse Corp., [2013] A.J. No. 1152, 2013 ABQB 621 at para. 29 (Alta. Q.B.).",
+            "Rule 8.2 directs the litigant to the that outlines how the litigant obtains Jury Act an order for trial by jury."
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2013 ABQB 621",
+              "style_of_cause": "Donnelly v. Brick Warehouse Corp.",
+              "context": "If the litigant does not follow the proper procedure, the judge may decline to hear an application. Donnelly v. Brick Warehouse Corp., [2013] A.J. No. 1152, 2013 ABQB 621 at para. 29 (Alta. Q.B.). Rule 8.2 directs the litigant to the that outlines how the litigant obtai"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "8.2",
+          "title": "Request for jury trial",
+          "text": "(1) An application for a jury trial under section 17 of the must be made Jury Act (a) by written request to the Chief Justice, and (b) before an application is made to the court clerk or a judge to set a trial date.\n(2) The request for a jury trial must be accompanied with an affidavit that addresses the following issues to the extent that they are applicable:\n(a) whether expert evidence will be called, and if so, how many experts are expected to be called;\n(b) the areas of knowledge or experience on which the experts will give evidence;\n(c) whether interpreters will be required;\n(d) the number of court days required for the trial if a jury trial is ordered.\n(3) The Chief Justice may fix a time for the hearing of an application for a jury trial and may make any directions as to the filing of materials as the Chief Justice considers appropriate.\n(4) If the Chief Justice grants an order directing that a trial be by jury, the order may be with or without conditions and must set the number of days to be initially reserved for the jury trial.\n(5) Within one month after an order is granted directing that a trial be by jury, the parties must apply to the Chief Justice for appointment of a case management judge.\n\n*[Alta. Reg. 124/2010, r. 8.2 effective November 1, 2010 (Alta. Gaz. August 14, 2010);]*",
+          "sentences": [
+            "(1) An application for a jury trial under section 17 of the must be made Jury Act",
+            "(a) by written request to the Chief Justice, and",
+            "(b) before an application is made to the court clerk or a judge to set a trial date.",
+            "(2) The request for a jury trial must be accompanied with an affidavit that addresses the following issues to the extent that they are applicable:",
+            "(a) whether expert evidence will be called, and if so, how many experts are expected to be called",
+            "(b) the areas of knowledge or experience on which the experts will give evidence",
+            "(c) whether interpreters will be required",
+            "(d) the number of court days required for the trial if a jury trial is ordered.",
+            "(3) The Chief Justice may fix a time for the hearing of an application for a jury trial and may make any directions as to the filing of materials as the Chief Justice considers appropriate.",
+            "(4) If the Chief Justice grants an order directing that a trial be by jury, the order may be with or without conditions and must set the number of days to be initially reserved for the jury trial.",
+            "(5) Within one month after an order is granted directing that a trial be by jury, the parties must apply to the Chief Justice for appointment of a case management judge. *[Alta. Reg. 124/2010, r. 8.2 effective November 1, 2010 (Alta. Gaz. August 14, 2010);]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Section 17 of the sets out the right to a jury trial. It reads:\nJury Act Right to jury in civil proceeding 17 Right to jury in civil proceeding – (1) Subject to subsections (1.1) and (2), on application by a party to the proceeding, the following shall be tried by a jury:\n(a) an action for defamation, false imprisonment, malicious prosecution, seduction or breach of promise for marriage, (b) an action founded on any tort or contract in which the amount claimed exceeds an amount prescribed by regulation, or (c) an action for the recovery of property the value of which exceeds an amount prescribed by regulation. (1.1) If, on an application made under subsection (1) or on a subsequent application, a judge considers it appropriate, the judge may direct that the proceeding be tried by judge alone pursuant to the summary trial procedure set out in the .\nAlberta Rules of Court (2) If, on a motion for directions or on a subsequent application, it appears that the trial might involve (a) a prolonged examination of documents or accounts, or (b) a scientific or long investigation, that in the opinion of a judge cannot conveniently be made by a jury, the judge may, notwithstanding that the proceeding has been directed to be tried by a jury, direct that the proceeding be tried without a jury.\n(3) In this section, “proceeding” includes a counterclaim."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 8.2 directs the applicant to the Jury Act R.S.A. 2000, c. J-3, ss. 1-13. when making their application for jury trial. The applicant must submit an affidavit that outlines whether expert evidence will be used, and if so, the kind of issues the experts will be providing evidence on, whether an interpreter will be required and the expected number of court days required for the trial.\nThe Chief Justice may fix a time for the hearing and may require filing of additional materials. If the Chief Justice grants an order for a jury trial, the court may set conditions and will reserve a number of days for the trial. If the order is granted, the parties must apply to the Chief Justice for appointment of a case management judge within one month of the date of the Order.\nThe Definitions contained in the Appendix to the define “Chief Alberta Rules of Court Justice” as including an Associate Chief Justice or a judge designed to act on behalf of the Chief Justice or the Associate Chief Justice. Thus, it is the practice for jury applications to be heard by designates of the Chief Justice and the Associate Chief Justice. Typically, there are",
+              "sentences": [
+                "Rule 8.2 directs the applicant to the Jury Act R.S.A. 2000, c. J-3, ss. 1-13. when making their application for jury trial.",
+                "The applicant must submit an affidavit that outlines whether expert evidence will be used, and if so, the kind of issues the experts will be providing evidence on, whether an interpreter will be required and the expected number of court days required for the trial.",
+                "The Chief Justice may fix a time for the hearing and may require filing of additional materials. If the Chief Justice grants an order for a jury trial, the court may set conditions and will reserve a number of days for the trial.",
+                "If the order is granted, the parties must apply to the Chief Justice for appointment of a case management judge within one month of the date of the Order. The Definitions contained in the Appendix to the define “Chief Alberta Rules of Court Justice” as including an Associate Chief Justice or a judge designed to act on behalf of the Chief Justice or the Associate Chief Justice.",
+                "Thus, it is the practice for jury applications to be heard by designates of the Chief Justice and the Associate Chief Justice.",
+                "Typically, there are"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "8.3",
+          "title": "Deposit for jury",
+          "text": "(1) When the Chief Justice grants an order directing that a trial be by jury, the party who made the request must, unless otherwise ordered, within  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days after the date the order was granted, deposit with the court clerk a sum of money that the court clerk considers sufficient to pay the jury’s expenses, and if that sum is later determined to be insufficient, on notice from the court clerk, pay any further sum that the court clerk determines in accordance with the [Alta. Reg. 68/83].\nJury Act Regulation (2) Any money remaining after the court clerk pays the jury’s expenses must be returned to the person who paid it.\n(3) If the deposit for jury expenses is not paid, the trial must proceed without a jury unless the Chief Justice otherwise orders.\n\n*[Alta. Reg. 124/2010, r. 8.3 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) When the Chief Justice grants an order directing that a trial be by jury, the party who made the request must, unless otherwise ordered, within Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.)",
+            "Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days after the date the order was granted, deposit with the court clerk a sum of money that the court clerk considers sufficient to pay the jury’s expenses, and if that sum is later determined to be insufficient, on notice from the court clerk, pay any further sum that the court clerk determines in accordance with the [Alta. Reg. 68/83].",
+            "Jury Act Regulation",
+            "(2) Any money remaining after the court clerk pays the jury’s expenses must be returned to the person who paid it.",
+            "(3) If the deposit for jury expenses is not paid, the trial must proceed without a jury unless the Chief Justice otherwise orders. *[Alta. Reg. 124/2010, r. 8.3 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2004 ABQB 846",
+              "style_of_cause": "Hamblin v. Markowski McVey v.",
+              "context": "When the Chief Justice grants an order directing that a trial be by jury, the party who made the request must, unless otherwise ordered, within  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The party who made the request for trial by jury is required, within  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days after the order was granted, to deposit with the court clerk an amount of money that the court clerk considers sufficient to pay the jury’s expenses. If more money is necessary, the court clerk will notify the party.\nSection 4.1 of the Jury Act Regulation15 provides the amount that is prescribed of the purposes of section 17(1)(b) and (c) of the , the right to jury in civil proceeding. It Jury Act prescribes $10,000 if action was commenced in the court before March 1, 2003, and $75,000 if the action was commenced in the court on or after March 1, 2003.16 outlines the following fees and allowances that shall Jury Act Regulation be paid to jurors. The fees include $ Talisman Energy Canada v. Direct Energy Marketing Ltd. (c.o.b. Centrica Energy), [2015] A.J. No. 20, 2015 ABQB 13 at paras. 11 and 13 (Alta. Q.B. (Master)). for each day or part of a day each juror serves.17 If the deposit amount given to the court clerk is more than required, the remainder will be returned to the party.\nIf the deposit is not paid, the trial will proceed without a jury unless otherwise ordered by the Chief Justice.",
+              "sentences": [
+                "The party who made the request for trial by jury is required, within Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.)",
+                "Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days after the order was granted, to deposit with the court clerk an amount of money that the court clerk considers sufficient to pay the jury’s expenses. If more money is necessary, the court clerk will notify the party.",
+                "Section 4.1 of the Jury Act Regulation15 provides the amount that is prescribed of the purposes of section 17(1)(b) and",
+                "(c) of the , the right to jury in civil proceeding.",
+                "It Jury Act prescribes $10,000 if action was commenced in the court before March 1, 2003, and $75,000 if the action was commenced in the court on or after March 1, 2003.16 outlines the following fees and allowances that shall Jury Act Regulation be paid to jurors. The fees include $ Talisman Energy Canada v. Direct Energy Marketing Ltd. (c.o.b.",
+                "Centrica Energy), [2015] A.J. No. 20, 2015 ABQB 13 at paras. 11 and 13 (Alta. Q.B. (Master)). for each day or part of a day each juror serves.17 If the deposit amount given to the court clerk is more than required, the remainder will be returned to the party.",
+                "If the deposit is not paid, the trial will proceed without a jury unless otherwise ordered by the Chief Justice."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2004 ABQB 846",
+                  "style_of_cause": "Hamblin v. Markowski McVey v.",
+                  "context": "The party who made the request for trial by jury is required, within  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days"
+                },
+                {
+                  "neutral_citation": "2015 ABQB 13",
+                  "style_of_cause": "Talisman Energy Canada v. Direct Energy Marketing Ltd.",
+                  "context": "following fees and allowances that shall Jury Act Regulation be paid to jurors. The fees include $ Talisman Energy Canada v. Direct Energy Marketing Ltd. (c.o.b. Centrica Energy), [2015] A.J. No. 20, 2015 ABQB 13 at paras. 11 and 13 (Alta. Q.B. (Master)). for each day or part of a day each juror serves.17 If th"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.4",
+          "title": "Trial date: scheduled by court clerk",
+          "text": "(1) The parties may, in Form 37, request the court clerk to schedule a date for trial.\n(2) The request must contain at least the following information unless otherwise directed by the Court:\n(a) the anticipated number of witnesses, including the number of expert witnesses;\n(b) the anticipated length of trial;\n(c) a copy of the pleadings and particulars, if any, for the judge’s use at trial;\n(d) if applicable, the order directing that the trial be by jury;\n(e) the certifications required by subrule (3);\n(f) any administrative requirements for the trial;\n(g) any potential conflict of interest a judge may have and the reasons for it.\n(3) In addition to the requirements of subrule (2), the parties requesting a trial date must (a) provide (i) a certificate that the parties have participated in at least one of the dispute resolution processes described in rule 4.16(1) [Dis- pute resolution processes], or (ii) a copy of an order made under 4.16(2) [Dispute resolution processes] waiving the dispute resolution process requirement, (b) certify that questioning under Part  R.S.A. 2000, c. J-3, ss. 1-13. is [Disclosure of Information] complete, (c) certify that any expert reports have been exchanged and the process described in Part  R.S.A. 2000, c. J-3, ss. 1-13. , Division  Jury Act, R.S.A. 2000, c. J-3, s. 13(1).\n[Disclosure of Information]\n[Experts and Expert Reports], including questioning of experts, is complete, (d) certify that any medical examination and report under Part  R.S.A. 2000, c. J-3, ss. 1-13.\n[Disclosure of Information]\n[Medical Examinations by , Division  Criminal Code, R.S.C. 1985, c. C-46, ss. 631, 642.1, 643.\nHealth Care Professionals] is complete, (e) certify that any undertaking given by a person questioned under Part  R.S.A. 2000, c. J-3, ss. 1-13. has been discharged, [Disclosure of Information]\n(f) certify that they will be ready for trial by a specified date, (g) in the case of a jury trial, certify that the deposit required under rule 8.3 has been paid, [Deposit for jury]\n(4) If the court clerk is satisfied that subrules (2) and (3) have been complied with, the court clerk must schedule a trial date.\n(5) If the parties cannot certify as to the matters referred to in subrule (3) but are satisfied that the matter will be completed or undertaking discharged in a timely way, the parties must so disclose and may request the court clerk to schedule a trial date.\n(6) If the court clerk is satisfied that the parties will or are likely to be ready by the proposed trial date, the court clerk may schedule a trial date, but if the court clerk is in doubt about any matter, the court clerk must refer the matter to a judge for directions or decision.\n\n*[Alta. Reg. 124/2010, r. 8.4 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) The parties may, in Form 37, request the court clerk to schedule a date for trial.",
+            "(2) The request must contain at least the following information unless otherwise directed by the Court:",
+            "(a) the anticipated number of witnesses, including the number of expert witnesses",
+            "(b) the anticipated length of trial",
+            "(c) a copy of the pleadings and particulars, if any, for the judge’s use at trial",
+            "(d) if applicable, the order directing that the trial be by jury",
+            "(e) the certifications required by subrule (3)",
+            "(f) any administrative requirements for the trial",
+            "(g) any potential conflict of interest a judge may have and the reasons for it.",
+            "(3) In addition to the requirements of subrule (2), the parties requesting a trial date must",
+            "(a) provide",
+            "(i) a certificate that the parties have participated in at least one of the dispute resolution processes described in rule 4.16(1) [Dis- pute resolution processes], or",
+            "(ii) a copy of an order made under 4.16(2) [Dispute resolution processes] waiving the dispute resolution process requirement",
+            "(b) certify that questioning under Part R.S.A. 2000, c. J-3, ss. 1-13. is [Disclosure of Information] complete",
+            "(c) certify that any expert reports have been exchanged and the process described in Part R.S.A. 2000, c. J-3, ss. 1-13. , Division Jury Act, R.S.A. 2000, c. J-3, s. 13(1). [Disclosure of Information] [Experts and Expert Reports], including questioning of experts, is complete",
+            "(d) certify that any medical examination and report under Part R.S.A. 2000, c. J-3, ss. 1-13. [Disclosure of Information] [Medical Examinations by , Division Criminal Code, R.S.C. 1985, c. C-46, ss. 631, 642.1, 643.",
+            "Health Care Professionals] is complete",
+            "(e) certify that any undertaking given by a person questioned under Part R.S.A. 2000, c. J-3, ss. 1-13. has been discharged, [Disclosure of Information]",
+            "(f) certify that they will be ready for trial by a specified date",
+            "(g) in the case of a jury trial, certify that the deposit required under rule 8.3 has been paid, [Deposit for jury]",
+            "(4) If the court clerk is satisfied that subrules",
+            "(3) have been complied with, the court clerk must schedule a trial date.",
+            "(5) If the parties cannot certify as to the matters referred to in subrule",
+            "(3) but are satisfied that the matter will be completed or undertaking discharged in a timely way, the parties must so disclose and may request the court clerk to schedule a trial date.",
+            "(6) If the court clerk is satisfied that the parties will or are likely to be ready by the proposed trial date, the court clerk may schedule a trial date, but if the court clerk is in doubt about any matter, the court clerk must refer the matter to a judge for directions or decision. *[Alta. Reg. 124/2010, r. 8.4 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Generally speaking, to schedule a trial, the parties must properly complete, execute, and submit Form 37.\nThe purpose of rule 8.4 is to assure the court clerk that all pre-trial steps have been taken and that both parties will be ready for trial on the date set. This prevents the time set for trial from being squandered. Further, the issuance of a Form  Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). constitutes a binding mutual representation to the opposite party that the issues are joined and that no further steps will be taken by either party save to proceed to trial (or as otherwise disclosed). Benc v. Parker Islam v. , [2016] A.J. No. 294, 2016 ABCA 82 at paras. 9-11 (Alta. C.A.); Mozumder Mitchell v. Pytel , [2012] A.J. No. 1349, 2012 ABQB 773 at para. 4 (Alta. Q.B.); , [2021] A.J. No. 716, 2021 ABQB 403 at para. 9 (Alta. Q.B.). It reduces the risk that a party will adjourn because a pre-trial step has not been complied with. Tan v. Swyrd, [2013] A.J. No. 410, 2013 ABQB 229 at para. 48 (Alta. Q.B.). If steps are taken after the filing of a Form  Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). (such as the filing of a new expert report and a consent order adjourning the trial date), the ‘binding representation’contained in the Form  Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). may be overridden by those steps, and may permit the court to hear applications such as dismissal for long delay under rule 4.33.20 Otherwise, a party could wait for longer than three years, do nothing and suffer no consequences . . . . [A]n interpretation of the rules that would permit such a delay is contrary to the foundational rules of the Rules of Court which state the purpose and intent include timely resolution, and would fail to give effect to the purpose stated in rule 1.2(2)(e) “to provide an effective, efficient and credible system of remedies and sanctions to enforce these rules and orders and judgments”. Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.).\nSometimes, parties are able to certify that some, but not all, pre-trial steps have been completed. The response of “not applicable” for one of the listed requirements will not cause Form  Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). to be regarded as incomplete. Additionally, courts will not disregard a completed,",
+              "sentences": [
+                "Generally speaking, to schedule a trial, the parties must properly complete, execute, and submit Form 37.",
+                "The purpose of rule 8.4 is to assure the court clerk that all pre-trial steps have been taken and that both parties will be ready for trial on the date set.",
+                "This prevents the time set for trial from being squandered. Further, the issuance of a Form Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). constitutes a binding mutual representation to the opposite party that the issues are joined and that no further steps will be taken by either party save to proceed to trial (or as otherwise disclosed).",
+                "Benc v. Parker Islam v. , [2016] A.J. No. 294, 2016 ABCA 82 at paras. 9-11 (Alta. C.A.)",
+                "Mozumder Mitchell v. Pytel , [2012] A.J. No. 1349, 2012 ABQB 773 at para. 4 (Alta. Q.B.)",
+                ", [2021] A.J. No. 716, 2021 ABQB 403 at para. 9 (Alta. Q.B.).",
+                "It reduces the risk that a party will adjourn because a pre-trial step has not been complied with.",
+                "Tan v. Swyrd, [2013] A.J. No. 410, 2013 ABQB 229 at para. 48 (Alta. Q.B.).",
+                "If steps are taken after the filing of a Form Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). (such as the filing of a new expert report and a consent order adjourning the trial date), the ‘binding representation’contained in the Form Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). may be overridden by those steps, and may permit the court to hear applications such as dismissal for long delay under rule 4.33.20 Otherwise, a party could wait for longer than three years, do nothing and suffer no consequences . . . . [A]n interpretation of the rules that would permit such a delay is contrary to the foundational rules of the Rules of Court which state the purpose and intent include timely resolution, and would fail to give effect to the purpose stated in rule 1.2(2)(e) “to provide an effective, efficient and credible system of remedies and sanctions to enforce these rules and orders and judgments”.",
+                "Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.).",
+                "Sometimes, parties are able to certify that some, but not all, pre-trial steps have been completed. The response of “not applicable” for one of the listed requirements will not cause Form Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). to be regarded as incomplete.",
+                "Additionally, courts will not disregard a completed"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2011 ABQB 443",
+                  "style_of_cause": "Form  Tu v. Zische",
+                  "context": "en taken and that both parties will be ready for trial on the date set. This prevents the time set for trial from being squandered. Further, the issuance of a Form  Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). constitutes a binding mutual representation to the opposite party that the"
+                },
+                {
+                  "neutral_citation": "2016 ABCA 82",
+                  "style_of_cause": "Benc v. Parker Islam v.",
+                  "context": "opposite party that the issues are joined and that no further steps will be taken by either party save to proceed to trial (or as otherwise disclosed). Benc v. Parker Islam v. , [2016] A.J. No. 294, 2016 ABCA 82 at paras. 9-11 (Alta. C.A.); Mozumder Mitchell v. Pytel , [2012] A.J. No. 1349, 2012 ABQB 773 at pa"
+                },
+                {
+                  "neutral_citation": "2012 ABQB 773",
+                  "style_of_cause": "Benc v. Parker Islam v.",
+                  "context": "party save to proceed to trial (or as otherwise disclosed). Benc v. Parker Islam v. , [2016] A.J. No. 294, 2016 ABCA 82 at paras. 9-11 (Alta. C.A.); Mozumder Mitchell v. Pytel , [2012] A.J. No. 1349, 2012 ABQB 773 at para. 4 (Alta. Q.B.); , [2021] A.J. No. 716, 2021 ABQB 403 at para. 9 (Alta. Q.B.). It reduces t"
+                },
+                {
+                  "neutral_citation": "2021 ABQB 403",
+                  "style_of_cause": "Mozumder Mitchell v. Pytel",
+                  "context": "nc v. Parker Islam v. , [2016] A.J. No. 294, 2016 ABCA 82 at paras. 9-11 (Alta. C.A.); Mozumder Mitchell v. Pytel , [2012] A.J. No. 1349, 2012 ABQB 773 at para. 4 (Alta. Q.B.); , [2021] A.J. No. 716, 2021 ABQB 403 at para. 9 (Alta. Q.B.). It reduces the risk that a party will adjourn because a pre-trial step has"
+                },
+                {
+                  "neutral_citation": "2013 ABQB 229",
+                  "style_of_cause": "It reduces the risk that a party will adjourn because a pre-trial step has not been complied with. Tan v. Swyrd",
+                  "context": ".); , [2021] A.J. No. 716, 2021 ABQB 403 at para. 9 (Alta. Q.B.). It reduces the risk that a party will adjourn because a pre-trial step has not been complied with. Tan v. Swyrd, [2013] A.J. No. 410, 2013 ABQB 229 at para. 48 (Alta. Q.B.). If steps are taken after the filing of a Form  Tu v. Zische, [2011] A.J."
+                },
+                {
+                  "neutral_citation": "2021 ABCA 390",
+                  "style_of_cause": "Loncikova v. Goldstein",
+                  "context": "ted in rule 1.2(2)(e) “to provide an effective, efficient and credible system of remedies and sanctions to enforce these rules and orders and judgments”. Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.).\nSometimes, parties are able to certify that some, but not all, pre-tr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.5",
+          "title": "Trial date: scheduled by the judge",
+          "text": "(1) On application by a party in Form 38, the judge may set a trial date or direct the court clerk to do so if (a) the judge (i) is satisfied that the parties have participated in at least one of the dispute resolution processes described in rule 4.16(1) [Dis- pute resolution processes], (ii) has granted an order under rule 4.16(2) [Dispute resolution processes] waiving the dispute resolution process requirement, or (iii) grants an order under rule 4.16(2) [Dispute resolution processes] in the course of an application under this rule, (b) the judge has all the information described in rule 8.4(2) [Trial date: scheduled by court clerk] except the certifications referred to in rule 8.4(2)(e), (c) with respect to the certification of matters referred to in rule 8.4(3) [Trial date: scheduled by court clerk], the judge (i) receives the necessary certifications, (ii) has sufficient information to schedule a trial date without one or more certifications, or (iii) gives directions as required and is satisfied that a trial date should be set, and (d) the judge is satisfied that the parties will or are likely to be ready for trial by the proposed trial date.\n(2) Subject to rule 1.5(4) [Rule contravention, non-compliance and irregulari- ties], the Court may make any procedural order to expedite or facilitate activities necessary to meet or to obtain a trial date.\n(3) An order may be made under subrule (2) despite the fact that the parties (a) have signed a Form  Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). or Form 38, or (b) have complied with rule 8.4(3) [Trial date: scheduled by court clerk].\n\n*[Alta. Reg. 124/2010, r. 8.5 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 143/2011, s. 13; Alta. Reg. 36/2020, s.  McVey v. Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 12 (Alta. Q.B.). effective May 26,  ABQB 367 at para. 92 (Alta. Q.B.). (Alta. Gaz. April 15, 2020)]",
+          "sentences": [
+            "(1) On application by a party in Form 38, the judge may set a trial date or direct the court clerk to do so if",
+            "(a) the judge",
+            "(i) is satisfied that the parties have participated in at least one of the dispute resolution processes described in rule 4.16(1) [Dis- pute resolution processes]",
+            "(ii) has granted an order under rule 4.16(2) [Dispute resolution processes] waiving the dispute resolution process requirement, or",
+            "(iii) grants an order under rule 4.16(2) [Dispute resolution processes] in the course of an application under this rule",
+            "(b) the judge has all the information described in rule 8.4(2) [Trial date: scheduled by court clerk] except the certifications referred to in rule 8.4(2)(e)",
+            "(c) with respect to the certification of matters referred to in rule 8.4(3) [Trial date: scheduled by court clerk], the judge",
+            "(i) receives the necessary certifications",
+            "(ii) has sufficient information to schedule a trial date without one or more certifications, or",
+            "(iii) gives directions as required and is satisfied that a trial date should be set, and",
+            "(d) the judge is satisfied that the parties will or are likely to be ready for trial by the proposed trial date.",
+            "(2) Subject to rule 1.5(4) [Rule contravention, non-compliance and irregulari- ties], the Court may make any procedural order to expedite or facilitate activities necessary to meet or to obtain a trial date.",
+            "(3) An order may be made under subrule",
+            "(2) despite the fact that the parties",
+            "(a) have signed a Form Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). or Form 38, or",
+            "(b) have complied with rule 8.4(3) [Trial date: scheduled by court clerk]. *[Alta. Reg. 124/2010, r. 8.5 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 143/2011, s. 13",
+            "Alta. Reg. 36/2020, s. McVey v. Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 12 (Alta. Q.B.). effective May 26, ABQB 367 at para. 92 (Alta. Q.B.). (Alta. Gaz. April 15, 2020)]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2011 ABQB 443",
+              "style_of_cause": "Form  Tu v. Zische",
+              "context": "ilitate activities necessary to meet or to obtain a trial date.\n(3) An order may be made under subrule (2) despite the fact that the parties (a) have signed a Form  Tu v. Zische, [2011] A.J. No. 772, 2011 ABQB 443 at para. 6 (Alta. Q.B.). or Form 38, or (b) have complied with rule 8.4(3) [Trial date: scheduled b"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "8.6",
+          "title": "Notice of trial date",
+          "text": "(1) When the court clerk or the judge sets a trial date, the court clerk must give notice to every party of the date, place and duration set for the trial.\n(2) A trial for which a trial date has been scheduled may not be adjourned or abandoned unless (3) A trial date and the period of time scheduled for the trial may be changed only with the judge’s permission.\n(4) Subrules (2) and (3) apply whether or not the parties consent to an adjournment or to a change in the duration of the trial.\n\n*[Alta. Reg. 124/2010, r. 8.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 143/2011, s. 14]",
+          "sentences": [
+            "(1) When the court clerk or the judge sets a trial date, the court clerk must give notice to every party of the date, place and duration set for the trial.",
+            "(2) A trial for which a trial date has been scheduled may not be adjourned or abandoned unless",
+            "(3) A trial date and the period of time scheduled for the trial may be changed only with the judge’s permission.",
+            "(4) Subrules",
+            "(3) apply whether or not the parties consent to an adjournment or to a change in the duration of the trial. *[Alta. Reg. 124/2010, r. 8.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 143/2011, s. 14]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 8.6 provides that the clerk must give notice to parties upon setting of the trial date. It also outlines the steps a party must take for a date to be adjourned or abandoned, which can only be done with the judge’s permission regardless of whether or not the parties consent.\nOften the court will be reluctant to adjourn trials, particularly where they have been scheduled for a lengthy period and have already consumed considerable judicial resources.\nHowever, the court must be concerned with both the efficient administration of justice and fairness to both sides, as articulated in the cases and rule 1.2.40 In addition, when booking a trial date, a deposit must be paid. Failure to pay the deposit to set the matter down for trial could result in a loss of the scheduled trial date.",
+              "sentences": [
+                "Rule 8.6 provides that the clerk must give notice to parties upon setting of the trial date.",
+                "It also outlines the steps a party must take for a date to be adjourned or abandoned, which can only be done with the judge’s permission regardless of whether or not the parties consent.",
+                "Often the court will be reluctant to adjourn trials, particularly where they have been scheduled for a lengthy period and have already consumed considerable judicial resources. However, the court must be concerned with both the efficient administration of justice and fairness to both sides, as articulated in the cases and rule 1.2.40 In addition, when booking a trial date, a deposit must be paid.",
+                "Failure to pay the deposit to set the matter down for trial could result in a loss of the scheduled trial date."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "8.7",
+          "title": "Confirmation of trial date",
+          "text": "(1) Three months or more before the scheduled trial date, each party must (a) confirm to the judge, in Form 39, that the party will be ready to proceed with the trial on the scheduled trial date, and (b) verify or modify the estimated number of witnesses and the estimated duration of the trial.\n(2) If a party proposes an increase in the period of time for the trial, the Court may confirm the original trial dates or schedule a new date to accommodate the increased period of time required.\n(3) If only one party confirms trial readiness, the scheduled date for the trial remains unless the judge otherwise orders.\n(4) If no party confirms trial readiness, the trial date is cancelled.\n\n*[Alta. Reg. 124/2010, r. 8.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 163/2010, s. 4; Alta. Reg. 143/2011, s. 15]",
+          "sentences": [
+            "(1) Three months or more before the scheduled trial date, each party must",
+            "(a) confirm to the judge, in Form 39, that the party will be ready to proceed with the trial on the scheduled trial date, and",
+            "(b) verify or modify the estimated number of witnesses and the estimated duration of the trial.",
+            "(2) If a party proposes an increase in the period of time for the trial, the Court may confirm the original trial dates or schedule a new date to accommodate the increased period of time required.",
+            "(3) If only one party confirms trial readiness, the scheduled date for the trial remains unless the judge otherwise orders.",
+            "(4) If no party confirms trial readiness, the trial date is cancelled. *[Alta. Reg. 124/2010, r. 8.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 163/2010, s. 4",
+            "Alta. Reg. 143/2011, s. 15]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 8.7 outlines specific steps required for each party to confirm that they are up-to-date and ready for trial as scheduled.",
+              "sentences": [
+                "Rule 8.7 outlines specific steps required for each party to confirm that they are up-to-date and ready for trial as scheduled."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "8.8",
+          "title": "Notice to attend as witness at trial",
+          "text": "(1) A party may serve notice in Form Kent v. Martin, [2014] A.J. No. 1277, 2014 ABQB 687 at paras. 4, 13-14 (Alta. Q.B.). on any person, including a party, to attend and give evidence at trial.\n(2) If a person served with notice to attend is represented by a lawyer, the notice must also be served on the lawyer.\n(3) The notice to attend must be served  Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days or more before the trial date and (a) must state the date, time and place and the period during which the person must attend, and (b) may require the person to bring any records that the person could be required to produce at trial.\n(4) The notice to attend must be served in accordance with a method of ments].\n(5) Unless these rules otherwise require or the Court otherwise orders, the notice to attend must be accompanied with an allowance determined in accordance with Schedule B [Court Fees and Witness and Other Allowances] or the allowance must be delivered to the person required to attend, or to a representative of the person,  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days or more before the trial date.\n(6) The plaintiff must provide a list of witnesses’ names to the Court one month before the trial date.\n(7) Every party other than the plaintiff must provide a list of witnesses’ names to the Court  Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days before the trial date.\n\n*[Alta. Reg. 124/2010, r. 8.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 128/2015, s. 6]",
+          "sentences": [
+            "(1) A party may serve notice in Form Kent v. Martin, [2014] A.J. No. 1277, 2014 ABQB 687 at paras. 4, 13-14 (Alta. Q.B.). on any person, including a party, to attend and give evidence at trial.",
+            "(2) If a person served with notice to attend is represented by a lawyer, the notice must also be served on the lawyer.",
+            "(3) The notice to attend must be served Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days or more before the trial date and",
+            "(a) must state the date, time and place and the period during which the person must attend, and",
+            "(b) may require the person to bring any records that the person could be required to produce at trial.",
+            "(4) The notice to attend must be served in accordance with a method of ments].",
+            "(5) Unless these rules otherwise require or the Court otherwise orders, the notice to attend must be accompanied with an allowance determined in accordance with Schedule B [Court Fees and Witness and Other Allowances] or the allowance must be delivered to the person required to attend, or to a representative of the person, Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.)",
+            "Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days or more before the trial date.",
+            "(6) The plaintiff must provide a list of witnesses’ names to the Court one month before the trial date.",
+            "(7) Every party other than the plaintiff must provide a list of witnesses’ names to the Court Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days before the trial date. *[Alta. Reg. 124/2010, r. 8.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 128/2015, s. 6]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2014 ABQB 687",
+              "style_of_cause": "A party may serve notice in Form Kent v. Martin",
+              "context": "(1) A party may serve notice in Form Kent v. Martin, [2014] A.J. No. 1277, 2014 ABQB 687 at paras. 4, 13-14 (Alta. Q.B.). on any person, including a party, to attend and give evidence at t"
+            },
+            {
+              "neutral_citation": "2021 ABCA 390",
+              "style_of_cause": "The notice to attend must be served  Loncikova v. Goldstein",
+              "context": "a person served with notice to attend is represented by a lawyer, the notice must also be served on the lawyer.\n(3) The notice to attend must be served  Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days or more before the trial date and (a) must state the date, time"
+            },
+            {
+              "neutral_citation": "2004 ABQB 846",
+              "style_of_cause": "Hamblin v. Markowski McVey v.",
+              "context": "ees and Witness and Other Allowances] or the allowance must be delivered to the person required to attend, or to a representative of the person,  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 8.8 provides the requirements regarding notices to witnesses, traditionally called subpoenas. Form  Kent v. Martin, [2014] A.J. No. 1277, 2014 ABQB 687 at paras. 4, 13-14 (Alta. Q.B.). is served on any person or party to attend and give evidence at trial. A person’s lawyer must also be served the notice to attend  Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days or more . The notice must [Service of Documents] state the date, time and place and the period during which the person must attend, and may require the person to bring any records for production at trial.\nAn allowance is provided to the person required to attend. This must be provided  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days or more before the trial date. The amount is determined by Schedule B [Court Fees and Witness and Other Allowances]. See also the Court of King’s Bench Costs Manual, available online. Weir-Jones Technical Services Inc. v. Purolator Courier Ltd., [2019] A.J. No. 144, 2019 ABCA 49 at para. 39 (Alta. C.A.) [emphasis in original]; see, for example, , [2020] A.J. No. 707, H. (D.) v. Woodson The plaintiff must provide a list of witnesses’names to the court one month before the trial date and every party other than the plaintiff must provide a list of witnesses’ names to the court  Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days before the trial date. This abrogates the ability of parties to keep their witness lists confidential, a practice which had largely disappeared prior to the rules.",
+              "sentences": [
+                "Rule 8.8 provides the requirements regarding notices to witnesses, traditionally called subpoenas. Form Kent v. Martin, [2014] A.J. No. 1277, 2014 ABQB 687 at paras. 4, 13-14 (Alta. Q.B.). is served on any person or party to attend and give evidence at trial.",
+                "A person’s lawyer must also be served the notice to attend Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days or more .",
+                "The notice must [Service of Documents] state the date, time and place and the period during which the person must attend, and may require the person to bring any records for production at trial.",
+                "An allowance is provided to the person required to attend.",
+                "This must be provided Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.)",
+                "Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days or more before the trial date.",
+                "The amount is determined by Schedule B [Court Fees and Witness and Other Allowances].",
+                "See also the Court of King’s Bench Costs Manual, available online.",
+                "Weir-Jones Technical Services Inc. v. Purolator Courier Ltd., [2019] A.J. No. 144, 2019 ABCA 49 at para. 39 (Alta. C.A.) [emphasis in original]",
+                "see, for example, , [2020] A.J. No. 707, H. (D.) v. Woodson The plaintiff must provide a list of witnesses’names to the court one month before the trial date and every party other than the plaintiff must provide a list of witnesses’ names to the court Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days before the trial date.",
+                "This abrogates the ability of parties to keep their witness lists confidential, a practice which had largely disappeared prior to the rules."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2014 ABQB 687",
+                  "style_of_cause": "Form  Kent v. Martin",
+                  "context": "Rule 8.8 provides the requirements regarding notices to witnesses, traditionally called subpoenas. Form  Kent v. Martin, [2014] A.J. No. 1277, 2014 ABQB 687 at paras. 4, 13-14 (Alta. Q.B.). is served on any person or party to attend and give evidence at tr"
+                },
+                {
+                  "neutral_citation": "2021 ABCA 390",
+                  "style_of_cause": "Loncikova v. Goldstein",
+                  "context": "4, 13-14 (Alta. Q.B.). is served on any person or party to attend and give evidence at trial. A person’s lawyer must also be served the notice to attend  Loncikova v. Goldstein, [2021] A.J. No. 1595, 2021 ABCA 390 at paras. 41-47 (Alta. C.A.). days or more . The notice must [Service of Documents] state the date,"
+                },
+                {
+                  "neutral_citation": "2004 ABQB 846",
+                  "style_of_cause": "An allowance is provided to the person required to attend. This must be provided  Hamblin v. Markowski McVey v.",
+                  "context": "equire the person to bring any records for production at trial.\nAn allowance is provided to the person required to attend. This must be provided  Hamblin v. Markowski McVey v. , [2004] A.J. No. 1321, 2004 ABQB 846 at para. 10 (Alta. Q.B.); Petruck, [1990] A.J. No. 1025, 111 A.R. 36 at para. 18 (Alta. Q.B.). days"
+                },
+                {
+                  "neutral_citation": "2019 ABCA 49",
+                  "style_of_cause": "Weir-Jones Technical Services Inc. v. Purolator Courier Ltd.",
+                  "context": "B [Court Fees and Witness and Other Allowances]. See also the Court of King’s Bench Costs Manual, available online. Weir-Jones Technical Services Inc. v. Purolator Courier Ltd., [2019] A.J. No. 144, 2019 ABCA 49 at para. 39 (Alta. C.A.) [emphasis in original]; see, for example, , [2020] A.J. No. 707, H. (D.) v"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "8.9",
+          "title": "Requiring attendance of witnesses",
+          "text": "(1) The Court may order a person to attend trial as a witness, or direct a peace officer to apprehend a person anywhere in Alberta, if the Court is satisfied that (a) proper service of the notice to attend and payment of an allowance, both of which may be proved by an affidavit, were effected in compliance with rule 8.8 [Notice to attend as witness at trial], (b) the person did not attend or remain in attendance at the trial in accordance with the notice, and (c) the presence of the person is necessary.\n(2) The Court may order one or more of the following:\n(a) that the person be brought immediately, or at a time specified, before the Court or before a person named by the Court;\n(b) that the person bring records described in the order that the person could be required to produce at trial;\n(c) that the person be detained in custody in accordance with the order until the presence of the person is no longer required;\n(d) that the person be released for a specified purpose on a recognizance, with or without sureties, on condition that the person appear as ordered;\n(e) anything else necessary to ensure the attendance of the person and production of the records ordered to be produced.\n\n*[Alta. Reg. 124/2010, r. 8.9 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nWeir-Jones Technical Services Inc. v. Purolator Courier Ltd., [2019] A.J. No. 144, 2019 ABCA 49 at para. 39 (Alta. C.A.) [emphasis in original]; see, for example, , [2020] A.J. No. 707, H. (D.) v. Woodson Alberta Rules of Court, Alta. Reg. 124/2010, Schedule B: Court Fees and Witness and Other Allowances, reproduced in this book as part of the schedules.\n, Court of King’s Bench Costs Manual online: https://albertacourts.ca/docs/default-source/qb/court-of-queen’s-bench-cost-manual---introduction-to-costs.pdf?sfvrsn=e9e3ad80_0.",
+          "sentences": [
+            "(1) The Court may order a person to attend trial as a witness, or direct a peace officer to apprehend a person anywhere in Alberta, if the Court is satisfied that",
+            "(a) proper service of the notice to attend and payment of an allowance, both of which may be proved by an affidavit, were effected in compliance with rule 8.8 [Notice to attend as witness at trial]",
+            "(b) the person did not attend or remain in attendance at the trial in accordance with the notice, and",
+            "(c) the presence of the person is necessary.",
+            "(2) The Court may order one or more of the following:",
+            "(a) that the person be brought immediately, or at a time specified, before the Court or before a person named by the Court",
+            "(b) that the person bring records described in the order that the person could be required to produce at trial",
+            "(c) that the person be detained in custody in accordance with the order until the presence of the person is no longer required",
+            "(d) that the person be released for a specified purpose on a recognizance, with or without sureties, on condition that the person appear as ordered",
+            "(e) anything else necessary to ensure the attendance of the person and production of the records ordered to be produced. *[Alta. Reg. 124/2010, r. 8.9 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]* Weir-Jones Technical Services Inc. v. Purolator Courier Ltd., [2019] A.J. No. 144, 2019 ABCA 49 at para. 39 (Alta. C.A.) [emphasis in original]",
+            "see, for example, , [2020] A.J. No. 707, H. (D.) v. Woodson Alberta Rules of Court, Alta. Reg. 124/2010, Schedule B: Court Fees and Witness and Other Allowances, reproduced in this book as part of the schedules. , Court of King’s Bench Costs Manual online: https://albertacourts.ca/docs/default-source/qb/court-of-queen’s-bench-cost-manual---introduction-to-costs.pdf?sfvrsn=e9e3ad80_0."
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2019 ABCA 49",
+              "style_of_cause": "Weir-Jones Technical Services Inc. v. Purolator Courier Ltd.",
+              "context": "ds ordered to be produced.\n\n*[Alta. Reg. 124/2010, r. 8.9 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nWeir-Jones Technical Services Inc. v. Purolator Courier Ltd., [2019] A.J. No. 144, 2019 ABCA 49 at para. 39 (Alta. C.A.) [emphasis in original]; see, for example, , [2020] A.J. No. 707, H. (D.) v"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "8.10",
+          "title": "Order of Presentation",
+          "text": "(1) Unless the Court directs otherwise, the order of presentation at a trial is as follows:\n(a) the plaintiff may make one opening statement and, subject to clause (b), must then adduce evidence;\n(b) the defendant may make one opening statement either immediately after the plaintiff’s opening statement and before the plaintiff adduces evidence or at the conclusion of the plaintiff’s evidence;\n(c) when the plaintiff’s evidence is concluded, the defendant may make an opening statement if the defendant has not already done so immediately after the plaintiff’s opening statement, and the defen- dant must then adduce evidence, if any;\n(d) when the defendant’s evidence is concluded, the plaintiff may adduce evidence, if any, to rebut the defendant’s evidence;\n(e) when the defendant’s evidence and the plaintiff’s rebuttal evidence, if any, are concluded, the plaintiff may make a closing statement, followed by the defendant’s closing statement, after which the plaintiff may reply;\n(f) if the defendant adduces no evidence after the conclusion of the plaintiff’s evidence, the plaintiff may make a closing statement, followed by the defendant’s closing statement, after which the R. 8.10 322",
+          "sentences": [
+            "(1) Unless the Court directs otherwise, the order of presentation at a trial is as follows:",
+            "(a) the plaintiff may make one opening statement and, subject to clause (b), must then adduce evidence",
+            "(b) the defendant may make one opening statement either immediately after the plaintiff’s opening statement and before the plaintiff adduces evidence or at the conclusion of the plaintiff’s evidence",
+            "(c) when the plaintiff’s evidence is concluded, the defendant may make an opening statement if the defendant has not already done so immediately after the plaintiff’s opening statement, and the defen- dant must then adduce evidence, if any",
+            "(d) when the defendant’s evidence is concluded, the plaintiff may adduce evidence, if any, to rebut the defendant’s evidence",
+            "(e) when the defendant’s evidence and the plaintiff’s rebuttal evidence, if any, are concluded, the plaintiff may make a closing statement, followed by the defendant’s closing statement, after which the plaintiff may reply",
+            "(f) if the defendant adduces no evidence after the conclusion of the plaintiff’s evidence, the plaintiff may make a closing statement, followed by the defendant’s closing statement, after which the R. 8.10 322"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        }
+      ]
+    }
+  ]
+}

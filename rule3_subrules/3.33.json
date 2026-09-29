@@ -1,0 +1,236 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.33",
+  "title": {
+    "official": "Reply to defence",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 3,
+    "heading": "Defence to Statement of Claim, Reply to Defence and Demand for Notice"
+  },
+  "operative_text": {
+    "controlling": "3.33(1)  A plaintiff may file a reply to a statement of defence.\n(2)  If the plaintiff files a reply, the reply must\n(a) be in Form 12, and\n(b) comply with the rules about pleadings in Part 13, Division\n3.\n(3)  The plaintiff must file the reply and serve it on the defendant\nwithin 10 days after service of the statement of defence on the\nplaintiff.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "ad4c1c0a4d07aef809cc9e6f9157cfb1974bdce669e687b3a7a94afefef22add"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.33 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          62
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Reply to Defence",
+      "operative_text_raw": null,
+      "operative_text_sha256": "36e21bad93aa05a6c5b7ee5eccdbd283746056e153d515dc8f14b6fffa13a1c8",
+      "defined_terms": "making reference to evidence.Some of it repeated allegations already in the amended amended statement of claim.Nor could the plaintiff amend the statement of claim a third time to add those matters:Jordan v. struck out a reply for a host of reasons:ibid. *other grds2004 ABQB 655, 365 AR 1, but Court of Appeal was revd other grds and King's Benchrestd 2008 SCC 14, 372 NR 239. 4The proposed Reply did not identify real issues or facilitate efficient resolution, and instead obscured issues defendant, file, plaintiff, pleading, rules 3.62(3) (responding to an amended pleading);3.67(2) (close of pleadings);13.3 (calculating by making general statements of no cogency, and going into argument and hypothetical future events, and 2The C.P.E., Chapter 14, Part A.4, discusses when a formal reply must be filed. 3R.3.62(4);Lameman v.R. (Papaschase I.B.No.136 v.R.)2006 ABCA 392, 404 AR 349 (at ¶ 64),revg",
+      "related_provisions": "time);13.10 (contents of reply)",
+      "commentary": "Before about 1965, Alberta lawyers used to file replies and joinders which merely denied the last opposing pleading and joined issue;but usually in later years, they have no longer bothered. Alberta Rules generally make it optional whether to reply to the previous pleading of the other party. Only a statement of defence is needed (against a statement of claim, a counterclaim or a\n\nthird party notice) to prevent default judgment.Even then, R.13.12 presumes that all the facts in the previous pleading are denied.If one does not file alaterpleading within the time set to do so (such as a reply to a defence), then it is presumed that there is a mere denial and that \"issue is joined,\" i.e., the pleadings are closed.If one may wish to file a Reply or the like, one should get an express agreement (or order) to hold open the time to do so. Where an amended statement\n\nof defence is filed, that re-opens the time to file a Reply. An appeal over amendments to the pleadings does not keep pleadings open. After almost 4 years, the court would not give leave to the plaintiff to file a late Reply, no evidence having been given to explain the delay.\n\n*Demand for Notice by Defendant*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-82",
+          "3-83"
+        ],
+        "offset_in_clean_text": [
+          262121,
+          264951
+        ]
+      },
+      "operative_text_note": "same wording as official 3.33(1)-(3) (read by eye) except the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings), the title in title case ('Reply to Defence'), missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference in the rule text. 3.33's text carries no footnote marker. The dropped raw text also held a footnote fragment printed after the rule text (p.3-83, line 2239); kept here verbatim because Book A's footnotes are not split out: '*A.-G.Can.(M) 2017 ABQB 293, JCC 1201 10180 (Apr 27). 5Quite similar to previous 1968 R.146.It came from 1914 R.161 (amended) which allowed the judge to dispense with service and did not say a motion was necessary, for judgment.That was added by 1944 C.R. 125.The Rule may stem from C.O.O.X r.15.' (the first words end a citation whose start is not in this record; footnote 5, which describes service and a motion for judgment, has its marker in the text of the next rule, 3.34 - to be checked in the 3.34 pass).",
+      "commentary_review_flag": "Read in full, p.3-82 (line 2231) to p.3-83 (line 2259): rule text, Defined Terms 'defendant, file, plaintiff, pleading, rules' (the Appendix defines each), Related Provisions and a note of one paragraph, with footnotes as printed. The built record: defined_terms holds the Defined Terms, footnotes 2-4 (as printed: 'The C.P.E., Chapter 14, Part A.4, discusses when a formal reply must be filed'; 'R.3.62(4); Lameman v. R. (Papaschase I.B.No.136 v. R.) 2006 ABCA 392, 404 AR 349 (at ¶ 64), revg' with '... 2004 ABQB 655, 365 AR 1, but Court of Appeal was revd other grds and King's Bench restd 2008 SCC 14, 372 NR 239' printed elsewhere in the field) and the first part of the Related Provisions; related_provisions holds the rest ('time);13.10 (contents of reply)'); the commentary field (1,182 characters) holds the note and ends with the title of 3.34 ('Demand for Notice by Defendant'). The extraction interleaves footnotes and the Related Provisions line, so the line 'Related Provisions 3.62(3) (responding to an amended pleading); 3.67(2) (close of pleadings); 13.3 (calculating time); 13.10 (contents of reply)' is split across the two fields; nothing was dropped. (1) Related Provisions: '3.62(3) (responding to an amended pleading)' agrees with official 3.62(3)(b) (a reply to an amended statement of defence may be filed without permission) and 3.62(4) (10 days); '3.67(2) (close of pleadings)' agrees with the official title of 3.67; '13.3 (calculating time)' (official 'Counting days'); '13.10 (contents of reply)' (official 'Pleadings: specific requirements for replies'). (2) Statements read against the official text: 'R.13.12 presumes that all the facts in the previous pleading are denied' agrees with official 13.12(1) (every fact in a pleading is denied if not admitted in another pleading); 'Where an amended statement of defence is filed, that re-opens the time to file a Reply' agrees with 3.62(3)(b) and (4); 'If one does not file a later pleading within the time set to do so ... it is presumed that there is a mere denial and that \"issue is joined,\" i.e., the pleadings are closed' agrees in substance with 3.67(2) (the official close-of-pleadings rule; not read in full here); 'Alberta Rules generally make it optional whether to reply' agrees with 3.33(1) ('may file a reply'); 'Before about 1965, Alberta lawyers ...' is a history statement with no source; the 10 days in 3.33(3) are not stated in the note. (3) Footnote 5 ('Quite similar to previous 1968 R.146. It came from 1914 R.161 (amended) which allowed the judge to dispense with service and did not say a motion was necessary, for judgment. That was added by 1944 C.R. 125. The Rule may stem from C.O.O.X r.15.') is printed in the rule-text field (kept in the text note); it describes service and a motion for judgment, which is the subject of the following rule 3.34, not of a reply. (4) Other rules' pointers to this rule: a note at p.3-159 (line 4728; its rule is not identified here) 'rule 3.33 [Reply to a defence] requires the plaintiff's reply to be filed and served ...' (official title is 'Reply to defence'), p.3-160 (line 4738) related provision '3.33(3) (time for reply)'; combined_rule13.txt p.13-65 (line 3417) checklist '(Rr.3.34(1), 3.33(3), 13.5(1))'. (5) Statements of law and the cases (the Reply that was struck out; a late Reply after almost 4 years) were not checked."
+    },
+    "BOOK_B": {
+      "title": "Reply to defence",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.33:1",
+          "text": "Rule 3.33 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.33. In Mikisew Cree First Nation v. Canada, 2004 ABCA 279, 2004 CarswellAlta 1188, 354 A.R. 365, 33 Alta. L.R. (4th) 231, the Court discussed what may be included in a reply. At pp. 368-369, the Court said: … Alberta's Rules of Court define a reply at rule 5(1)(o) as “a statement by which the plaintiff answers the defendant's statement of defence” but the Rules do not specify requirements for a reply. However, the reply, like all pleadings, must meet the requirement of rule 110(2) which provides: 110. (2) No pleading shall, except by way of amendment, raise any new ground of claim or contain any allegation of fact inconsistent with the previous pleadings of the party pleading it. Stevenson and Côté in Alberta Civil Procedure Handbook 2004 (Edmonton: Juriliber, 2004) at p. 96, comment that rule 110(2) says that “a reply is not the place to put a cause of action”. Similarly, Goldrein and Jacob in their text, Pleadings: Principles and Practice (London: Sweet and Maxwell, 1990) at p. 161-2, note that a plaintiff must not in a reply make any allegations of fact or raise any new ground of claim inconsistent with the statement of claim. They agree with Stevenson and Côté that a new cause of action is to be pleaded by amending the statement of claim. New causes of action were not permitted in a reply in Udovitch Estate v. Helm Estate (2000), 276 A.R. 147, 2000 ABQB 796, and Kaup v. Weir et al. (1998), 224 A.R. 347 (Q.B.). This requirement does not change because of an amended statement of defence. If the reply raises a new cause of action, then it is an error independent of anything contained in the respondents' pleadings. The Chambers judge was not required to consider the effect of the amended statement of defence when determining whether the reply raised new causes of action. In Laughren v. Rosetown Union Hospital Board (1966), 56 W.W.R. (N.S.) 165 (Sask. Q.B.), relying on Bullen & Leake's Precedents of Pleadings (11th Ed.), at p. 693, four purposes for a reply were listed at p. 170: a) to admit some of the facts alleged in the defence, or to meet them by asserting new and additional facts; b) to plead an objection in point of law; c) to plead in answer to the defence that it mistakes the causes of action; and d) if the defendants has pleaded a counterclaim which the plaintiff desires to contest, to deal with allegations of fact in the counterclaim."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_33_001",
+        "part3_part_3_court_actions_024",
+        "part3_rule_3_33_002",
+        "part3_part_3_court_actions_026"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "2cbf9b1b6322663347ae87187d34a58f3b895cb1ded8881cc25ffe5f9ab94819",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Reply to defence",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "d5eec525fb41879f4afbe099fa4c0069f76d99c75fce8238789953fece1ae208",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The reply is an underused pleading. It is used properly to respond to new issues raised in a statement of defence where a mere denial by the plaintiff (presumed in rule 13.12(1)) may be insufficient. For example, a reply would be used to respond to a limitations defence raised in a statement of defence. A reply is superfluous where the plaintiff",
+          "citations": [],
+          "review_flag": "(1) The commentary is cut off: 'The reply is an underused pleading. It is used properly to respond to new issues raised in a statement of defence where a mere denial by the plaintiff (presumed in rule 13.12(1)) may be insufficient. For example, a reply would be used to respond to a limitations defence raised in a statement of defence. A reply is superfluous where the plaintiff' (347 characters, the page end); the rest is not in the file. (2) 'presumed in rule 13.12(1)' agrees with official 13.12(1) (every fact in a pleading is denied if not admitted); 'a reply is used to respond to new issues raised in a statement of defence' agrees with the Form 12 note in the official text (a reply 'may only make admissions or respond to matters raised for the first time in the statement of defence (Rules 3.33(2)(b) and 13.10)')."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): in (2)(b) the words 'Division 3' print as 'Division  months. .' - the '3' is missing and 'months.' with an extra full stop stands in its place, followed by the bracket label '[Pleadings]' (the same fault is in Book C's 3.25(d) and 3.31(1)(b)); the label '[Technical Rules]' follows 'Part 13'. Subrules (1) and (3) equal the official text. The amendment note '[Alta. Reg. 124/2010, r. 3.33 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.5896,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.33(1)-(3) (read by eye) except the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings), the title in title case ('Reply to Defence'), missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference in the rule text. 3.33's text carries no footnote marker. The dropped raw text also held a footnote fragment printed after the rule text (p.3-83, line 2239); kept here verbatim because Book A's footnotes are not split out: '*A.-G.Can.(M) 2017 ABQB 293, JCC 1201 10180 (Apr 27). 5Quite similar to previous 1968 R.146.It came from 1914 R.161 (amended) which allowed the judge to dispense with service and did not say a motion was necessary, for judgment.That was added by 1944 C.R. 125.The Rule may stem from C.O.O.X r.15.' (the first words end a citation whose start is not in this record; footnote 5, which describes service and a motion for judgment, has its marker in the text of the next rule, 3.34 - to be checked in the 3.34 pass)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9848,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.33",
+      "title_official": "Reply to defence"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "36e21bad93aa05a6c5b7ee5eccdbd283746056e153d515dc8f14b6fffa13a1c8",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-82",
+            "3-83"
+          ],
+          "offset_in_clean_text": [
+            262121,
+            264951
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "2cbf9b1b6322663347ae87187d34a58f3b895cb1ded8881cc25ffe5f9ab94819",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "d5eec525fb41879f4afbe099fa4c0069f76d99c75fce8238789953fece1ae208",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "ad4c1c0a4d07aef809cc9e6f9157cfb1974bdce669e687b3a7a94afefef22add",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            62
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "798d64625b080d43fdf3f1534ee64b3a1698ca3ce98daf6a8bab77f1d9261dcc"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): no other Book B file cites 3.33 by number; BOOK_C 161-180 file (a commentary under the 3.6x rules: 'rule 3.33 requires the plaintiff's reply to be [Reply to a defence] filed and served ...', in Book C's own bracket-label form). BOOK_B 3.33: rule text (rule3_part03_document.json paragraph part3_part_3_court_actions_024) EXACT_MATCH with the official; no amendment note; one commentary section 'Commentary § 3.33:1' (2,470 characters, READ IN FULL, no numbered parts): Mikisew Cree First Nation v. Canada, 2004 ABCA 279 (what a reply may contain; it applies the former rule 110(2) and 'rule 5(1)(o)' and cites Stevenson and Cote, Alberta Civil Procedure Handbook 2004, p. 96, Goldrein and Jacob, Udovitch Estate v. Helm Estate, 2000 ABQB 796, Kaup v. Weir, Laughren v. Rosetown Union Hospital Board) - a decision under the former Rules, not compared with the present 3.33 or 13.10; it names the 'Alberta Civil Procedure Handbook' (Stevenson and Cote), the book Book A is taken to be. BOOK_C 3.33: rule text WORDING_DIFFERENCE ('Division  months. .'; dropped with note); amendment note agrees with the official; commentary kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): a note at p.3-159 (line 4728) 'rule 3.33 [Reply to a defence] requires the plaintiff's reply to be filed and served ...' (official title 'Reply to defence') and a related provision at p.3-160 (line 4738) '3.33(3) (time for reply); 3.62 (amendments); 3.65 (amendments by order)'; combined_rule13.txt p.13-65 (line 3417) checklist '(Rr.3.34(1), 3.33(3), 13.5(1))'. These other notes were not read in full in this pass.",
+    "OFFICIAL text (searched for 'rule 3.33', 'rules 3.33', lists, line-wrapped forms and form headings): Form 12 is headed '[Rule 3.33]' (3.33(2)(a) names Form 12) and its note says a reply 'may only make admissions or respond to matters raised for the first time in the statement of defence (Rules 3.33(2)(b) and 13.10)'. By subject (read): 3.31 (statement of defence), 3.34 (demand for notice), 3.62(3)-(4) (amended pleadings; reply to an amended statement of defence), 3.67(2) (close of pleadings), 13.10 (specific requirements for replies), 13.12 (denial of facts), 13.3."
+  ],
+  "dedupe_log": [
+    "3.33 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.33 BOOK_C commentary sentence split dropped",
+    "3.33 BOOK_C: rule text dropped (manual review)",
+    "3.33 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.33 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

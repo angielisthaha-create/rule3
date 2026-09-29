@@ -1,0 +1,248 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.4",
+  "title": {
+    "official": "Claim for possession of land",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Court Actions and Their Venue"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.4(1)  Despite rule 3.3, if possession of land is claimed in a\nstatement of claim that was not filed in\n(a) the judicial centre that is closest, by road, to the land, or\n(b) the judicial centre that is closest, by road, to the Alberta\nresidence of a defendant,\na defendant may, by making a request in Form 6, require the court\nclerk in the judicial centre in which the action is located to transfer\nthe action to the judicial centre that is closest, by road, to the land\nor the Alberta residence of that defendant.\n(2)  The request must\n(a) name the judicial centre to which the action is to be\ntransferred, and\n(b) give the reason for the transfer.\n(3)  The request must\n(a) be filed before close of pleadings in the judicial centre in\nwhich the action is located, and\n(b) be served on each of the other parties.\n(4)  A person served under subrule (3) who wishes to object to the\nrequest for the transfer of the action must file an objection within\n10 days and serve it on the defendant who made the request.\n(5)  If no objection has been filed and served on the defendant who\nmade the request by the end of the 10-day period referred to in\nsubrule (4), the defendant may confirm the request with the court\nclerk and the court clerk must transfer the action.\n(6)  This rule does not apply if\n(a) the Court has issued an order directing that the action be\nstarted in or transferred to a particular judicial centre,\n(b) the parties agree that an action start in or be transferred to\na particular judicial centre, or\n(c) the action has already been transferred to a judicial centre\nby a request under this rule.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "79cdfdd84045c56634b8777a73d0b44208cfe9a7431edd1b957367d82e523232"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.4 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          51
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Claim for Possession of Land",
+      "operative_text_raw": null,
+      "operative_text_sha256": "7f1ea0289b79442ad0d88be1c0f44bf8b869b6c9d0f96690cb365f5ae268e1e5",
+      "defined_terms": "Court, court clerk, defendant, file, judicial centre, order, pleading",
+      "related_provisions": "3.3 (determining the appropriate judicial centre);3.5 (transfer of an action) *Transfer of Action*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-20",
+          "3-21"
+        ],
+        "offset_in_clean_text": [
+          58139,
+          60450
+        ]
+      },
+      "operative_text_note": "same wording as official 3.4(1)-(6) (read by eye) except the bracket label '[Determining the appropriate judicial centre]' (after 'rule 3.3'), missing spaces, '*' line marks and the footnote marker '1' after (6)(c). No amendment bracket; the official text lists no amendment for 3.4. No substantive difference. The raw text also held the p.3-21 footnote block, kept here verbatim: '1Quite similar to previous 1981 R.237(c), first enacted by Alta.Reg.313/81.It was probably designed to move foreclosure actions to the smaller judicial centres when the land is located there.' (footnote 1, history of 3.4) and '2Quite similar to previous 1968 R.12.It came from 1944 C.R.14.Cf.Ont.1897 R.132.See further on the history,Pac.Inv.& Dev.v.Wood Buffalo (R.M.)2017 ABQB 469, JC FtMcM 1713 0016 (Jul 26).' Footnote 2 is the history note of rule 3.5, not of 3.4: its marker '2' is printed after 3.5's text (line 464) and Book B's 3.3 commentary calls 3.5 'similar to previous Rule 12'.",
+      "commentary_review_flag": "Book A has no commentary for 3.4: after the related provisions the text of 3.5 follows at once (p.3-21, line 463; the title '*Transfer of Action*' printed there is 3.5's and ends the built related-provisions field); the notes on pp.3-22 to 3-23 are under the running head R.3.5 and, from line 521, R.3.6. Read in full: rule text, footnotes 1-2 (p.3-21; two footnotes on that page; see the text note for whose they are), information note 'Close of pleadings is a time determined under rule 3.67 [Close of pleadings]' (official 3.67 is 'Close of pleadings'), Defined Terms 'Court, court clerk, defendant, file, judicial centre, order, pleading' (the Appendix defines each), and Related Provisions '3.3 (determining the appropriate judicial centre); 3.5 (transfer of an action)' (both match the official titles). Footnote 1 says the rule 'was probably designed to move foreclosure actions to the smaller judicial centres'; a conjecture, no source. The 3.5 related provision '3.4(2) (transfer of action where land claimed)' is flagged under see_also."
+    },
+    "BOOK_B": {
+      "title": "Claim for possession of land",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_4_001",
+        "part3_part_3_court_actions_012",
+        "part3_rule_3_4_002",
+        "part3_part_3_court_actions_014"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "duplicate_rule_text_paragraphs_skipped": [
+        "part3_part_3_court_actions_014"
+      ],
+      "operative_text_sha256": "c6657e3fc0b059112f0d36349ca6c61bc367a69cf5af5c70d5c03a67f81a0314",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Claim for possession of land",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "215faf8f7d68cac7018fac50fb357e302a166daf32c74a9067297526d3a2e865",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule permits a defendant to force a plaintiff to litigate over possession of land in the judicial centre closest to the land without the need to file an application.",
+          "citations": [],
+          "review_flag": "the sentence agrees with Form 6 ('without the need to file an application': the request is made in Form 6), but it says the defendant can 'force a plaintiff to litigate ... in the judicial centre closest to the land'; official 3.4(1) lets the defendant name the centre closest to the land or the one closest to the defendant's Alberta residence, the transfer follows only if no objection is filed within 10 days (3.4(4)-(5)), and 3.4(6) lists exceptions. Books A and B have no 3.4 commentary to compare."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (1) stops after 'to the Alberta residence of' - the words 'a defendant, a defendant may, by making a request in Form 6, require the court clerk in the judicial centre in which the action is located to transfer the action to the judicial centre that is closest, by road, to the land or the Alberta residence of that defendant.' are missing and the running head 'R. 3.3 50' stands in their place; in (4) the number '10' is missing ('must file an objection within [ ] days') and this text stands there: 'Regular v. Regular, [2016] A.J. No. 1042, 2016 ABQB 570 at para. 9 (Alta. Q.B.); the factors were considered and applied at length in a case where both plaintiff and plaintiff by counterclaim had proposed Edmonton as place of trial; but many years later, after plaintiff had discontinued claim and plaintiff by counterclaim had moved to Calgary, plaintiff by counterclaim sought a change of venue: , Behiels v. Tibu'. Subrules (2), (3), (5) and (6) equal the official text; the amendment note agrees (no amending regulation).",
+      "citations_note": "Regular v. Regular, 2016 ABQB 570 (para. 9) is not a 3.4 authority: it stands where the number '10' is lost in 3.4(4), the text beside it is about a change of venue ('sought a change of venue: , Behiels v. Tibu'), Book C's own 3.5 entry cites Regular (paras. 5 and 6) for onus and the test, and Book A cites Regular and Behiels v. Tibu (2024 ABKB 12) in its 3.5 notes (p.3-22 fn 3 and fn 8). Displaced from 3.5: Book C's 3.5 entry prints the same sentence (Regular at para. 9 ... 'sought a change of venue: , Behiels v. Tibu'), which confirms the home. The text is kept in the rule-text note."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6987,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.4(1)-(6) (read by eye) except the bracket label '[Determining the appropriate judicial centre]' (after 'rule 3.3'), missing spaces, '*' line marks and the footnote marker '1' after (6)(c). No amendment bracket; the official text lists no amendment for 3.4. No substantive difference. The raw text also held the p.3-21 footnote block, kept here verbatim: '1Quite similar to previous 1981 R.237(c), first enacted by Alta.Reg.313/81.It was probably designed to move foreclosure actions to the smaller judicial centres when the land is located there.' (footnote 1, history of 3.4) and '2Quite similar to previous 1968 R.12.It came from 1944 C.R.14.Cf.Ont.1897 R.132.See further on the history,Pac.Inv.& Dev.v.Wood Buffalo (R.M.)2017 ABQB 469, JC FtMcM 1713 0016 (Jul 26).' Footnote 2 is the history note of rule 3.5, not of 3.4: its marker '2' is printed after 3.5's text (line 464) and Book B's 3.3 commentary calls 3.5 'similar to previous Rule 12'."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8052,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.4",
+      "title_official": "Claim for possession of land"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "7f1ea0289b79442ad0d88be1c0f44bf8b869b6c9d0f96690cb365f5ae268e1e5",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-20",
+            "3-21"
+          ],
+          "offset_in_clean_text": [
+            58139,
+            60450
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "c6657e3fc0b059112f0d36349ca6c61bc367a69cf5af5c70d5c03a67f81a0314",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "215faf8f7d68cac7018fac50fb357e302a166daf32c74a9067297526d3a2e865",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "79cdfdd84045c56634b8777a73d0b44208cfe9a7431edd1b957367d82e523232",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            51
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "2f1e3df12275ff71b52a89388371e8be4aa07e9ec515b0d76714ae47503d6a2f"
+  },
+  "information_notes": [
+    {
+      "text": "Close of pleadingsis a time determined under rule 3.67 [Close of pleadings].",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "same words as Book A's information note; only the bracket label '[Close of pleadings]' is moved after the full stop ('rule 3.67 .\n[Close of pleadings]'); not retained."
+      }
+    }
+  ],
+  "see_also": [
+    "Official text (searched for 'rule 3.4', 'rules 3.3 and 3.4', lists, line-wrapped forms and form headings): 3.6(1)(b) ('if the action is transferred in accordance with rule 3.4 or rule 3.5'), 15.13 ('rules 3.3 and 3.4') and Form 6, headed '[Rule 3.4]': its notice to the plaintiff says the court clerk transfers the action 'unless these facts as stated by the defendant(s) are incorrect, the pleadings in this action have closed, or one of the exceptions ... applies', warns that the clerk will transfer if the plaintiff does not respond 'within 10 days of service', and its notice to the clerk lists exceptions (a)-(c) that mirror 3.4(6)(a)-(c) plus '(d) an objection has been filed under rule 3.4(4)'. Also fee item 3.4 of Schedule B (rule 13.x fee waiver) is not this rule. By subject: 3.5 (transfer of action), 3.6, 3.67 ('Close of pleadings', named in the information note; 3.4(3)(a) requires the request before close of pleadings), Appendix definitions of the Defined Terms.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; page markers checked): R.13.15 information note p.13-72 'rule 3.4 [Claim for possession of land]' (title matches official); R.9.30 (p.9-74, line 3841) and R.9.37 (p.9-89, line 4612) related provisions '3.4 (venue)' - a short paraphrase of 'Claim for possession of land' (the rule moves a possession-of-land action to the centre closest to the land); R.15.13 (p.15-9); 3.3 related provision '3.4 (claimingland)' (p.3-19, line 413); 3.5 note p.3-22 line 500 '(subject to claims for possession of land to R.3.4)'; 3.6(1)(b) text p.3-23 'rule 3.4 [Claim for possession of land]'. FLAG on BOOK_A 3.5 related provision '3.4(2) (transfer of action where land claimed)' (p.3-21, line 466): official 3.4(2) says what the request must contain (the centre to which the action is to be transferred, and the reason); the label describes rule 3.4 as a whole. Book A R.13.x fee text 'item 1 or 3.4 respectively of Schedule B' (p.13-99, line 5141) is fee item 3.4, not this rule.",
+    "BOOK_B and BOOK_C other Parts (all Book B files and all Book C page files searched, JSON text only): BOOK_B 3.6(1)(b) ('transferred in accordance with rule 3.4 or rule 3.5') and 15.13; BOOK_C 15.13. The other hits for '3.4' in B and C (rule 13.x fee waiver 'under item 1 or 3.4 respectively of Schedule B') are fee item 3.4, not this rule. Neither book has a commentary that cites 3.4 by number.",
+    "Cross-book: Pac. Inv. & Dev. v. Wood Buffalo (R.M.), 2017 ABQB 469 appears in BOOK_A p.3-19 fn 1 (3.3) and p.3-21 fn 2 (3.5's history note); Regular v. Regular 2016 ABQB 570 and Behiels v. Tibu belong to 3.5 (BOOK_C's 3.5 entry and BOOK_A p.3-22 fn 3, fn 8), not to 3.4. Book B's source prints the 3.4 rule text twice (paragraphs part3_part_3_court_actions_012 and _014, identical, 1,601 characters, headings repeated); the builder now keeps one copy and logs the skipped paragraph; the text equals the official 3.4."
+  ],
+  "dedupe_log": [
+    "3.4 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.4 BOOK_C information note merged into BOOK_A copy",
+    "3.4 BOOK_C citation context dropped (2016 ABQB 570): verbatim in kept text",
+    "3.4 BOOK_C commentary sentence split dropped",
+    "3.4 BOOK_C: rule text dropped (manual review)",
+    "3.4 BOOK_C information-note variant dropped (manual review)",
+    "3.4 BOOK_C: displaced citations dropped ['2016 ABQB 570'] (manual review)",
+    "3.4 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.4 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

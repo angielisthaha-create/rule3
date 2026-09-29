@@ -1,0 +1,216 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.38",
+  "title": {
+    "official": "Judgment for recovery of property",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Failure to Defend"
+  },
+  "operative_text": {
+    "controlling": "3.38   Subject to rule 3.41, if a statement of claim includes a claim\nfor the recovery of property and one or more defendants do not file\na statement of defence or demand for notice, the plaintiff may enter\njudgment against that defendant or those defendants for the\nrecovery of that property, and the plaintiff is entitled to a costs\naward.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "cd2b83f8b9ed5d0a668824654ba50e964d97ff3fcd8a7488fdc93672342cae2d"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          65
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "3d7eb2a41ae38ab1d65a0d631f9b1642e7b0d5dd70c7751d796d86ee335b3a39",
+      "defined_terms": "claim, costs award, defendant, file, judgment, plaintiff, property The Rule inCherry v.Boltbeecreates a sort of set-off where someone has a claim on a fund, but is also required to make a contribution to help that fund.It is not considered to be a true set- off. *Judgment for Debt or Liquidated Demand*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-100"
+        ],
+        "offset_in_clean_text": [
+          320442,
+          322593
+        ]
+      },
+      "operative_text_note": "same wording as official 3.38 (read by eye) except: the bracket label '[When no defence is filed in a foreclosure action]' after 'Subject to rule 3.41' (official title of 3.41 is 'When no defence is filed in foreclosure action', without 'a'); the text is printed in two pieces with other text between them: 'Subject to rule 3.41 [...],if a' at p.3-100 line 2780 and 'statement of claim includes ... costs award.' at line 2791 (the title 'Judgment for Recovery of Property', title case, comes with the second piece, after the first); missing spaces ('therecovery'); the footnote marker '5' after the last word; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held five displaced blocks of the NOTE ON 3.37 (not of 3.38) printed between the two pieces, kept here verbatim because Book A's footnotes are not split out: '[Footnote 7 from prior page] 7Argent v. Gray,infra(¶ 44).But the plaintiff may not be able to get judgment against the defendant either, as but negligence and causation still are:Argent v.Gray2015 ABQB 292, 617 AR 45. 1Stevens v.Winchester Land & Prop.2009 ABQB 24, 3 Alta LR(5th) 354. 2Royal Bank of Can.v.Place2010 ABQB 733 (Nov 24) (¶'s 46-47). even if they are not mentioned in the statement of claim.But notice of a damage assessment is needed;these are not damages. In a foreclosure the basic facts cannot be in dispute, where the defendant filed no defence, was noted in default, and has not even tried to open up the noting. or even insolvent, it is premature to make a declaration that this claim would survive any later bankruptcy.But if requested, the formal judgment could affirm that the judgment makes no ruling about s.78 of theBankruptcy Act. R.9.15(2).No evidence to support a time extension was given.No evidence to show an arguable defence was given despite the plaintiff's comprehensive evidence, disclosing everything. When default judgment is sought and there is no evidence that the defendant is bankrupt 3 At this stage, a defendant who inadvertently did not defend must move quickly.Some defendants did not defend because they misunderstood some earlier orders.They complained promptly of the noting in default, but did not move to set aside within the 20-day time limit set by' (the first block is footnote 7 and footnotes 1-2 of the previous page as printed; the others continue the 3.37 note, whose earlier part ends '... Solicitor-client costs, if appropriate, may be granted under a default judgment under R.3.37, ... this topic goes beyond the facts in the statement of claim (¶'s 45-51). Limitations may no longer be in issue,' in the 3.37 record). The history footnote 5 ('Quite similar to previous 1968 R.149(1) ...') matching the marker '5' is printed in the built 3.37 record (p.3-100 line 2775).",
+      "commentary_review_flag": "Read in full, p.3-100 (line 2780) to line 2792 and the following records to p.3-102: rule text (two pieces), Defined Terms 'claim, costs award, defendant, file, judgment, plaintiff, property' (the Appendix defines each; 'property' 'includes land and personal property', line 41036), no Information Note, no Related Provisions, no note. The built record: defined_terms holds the Defined Terms, then 'The Rule in Cherry v. Boltbee creates a sort of set-off where someone has a claim on a fund, but is also required to make a contribution to help that fund. It is not considered to be a true set-off.' and the title of 3.39 ('Judgment for Debt or Liquidated Demand'); related_provisions and commentary are empty; the raw-text field held displaced pieces of the 3.37 note (kept in the text note); nothing dropped. (1) 3.38 has no note of its own in Book A: this agrees with Book B's quotation from TLA Food Services 2011 ABQB 550 para 46 ('Stevenson and Cote, in both the 2009 and 2010 Alberta Civil Procedure Handbook ... have no commentary regarding either version of the Rule'; later editions not asserted). (2) The Cherry v. Boltbee sentence is not attributed: it is printed once, after the Defined Terms line of this rule and before the 3.39 title (line 2792); searched for 'Cherry' in combined rule3.txt (this line only), rule3_part*.json (Book B: only Cherry v. Hurtig in the 3.26/3.27 commentary, a different case) and rule6_part01_document.json (not opened); it may be a displaced piece of another rule's note or of a footnote on the 3.38-3.39 pages, and is left where the extraction printed it. (3) The label '[When no defence is filed in a foreclosure action]' differs from the official title of 3.41 by the word 'a'; Book B's quotation of the TLA decision (para 47) and Book C print the same label. (4) The history footnote 5 (1968 R.149(1); 1914 R.153; 1944 C.R.114; Eng. O.3 r.5, r.6; Arden v. Boyce; Eyre v. Eyre) is the history of this rule: its marker '5' follows the 3.38 text (line 2791) and TLA Food Services para 48 (in Book B) says R.149 provided for the 'recovery of goods or land' (the successor 3.38 says 'property'); it is printed in the built 3.37 record (line 2775). (5) Other rules' pointers to 3.38: 3.36(1)(a) 'enter judgment against the defendant under rule 3.38 [Judgment for recovery of property] or rule 3.39' (Book A p.3-94, line 2606; title matches); 3.40 (p.3-109, line 3067; matches); R.9 p.9-34 (line 1691) and R.10 p.10-125 (line 6798) (titles match)."
+    },
+    "BOOK_B": {
+      "title": "Judgment for recovery of property",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.38:1",
+          "text": "Rule 3.38 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.38. 1. When a Plaintiff Can Use R. 3.38 to “Recover” Property In TLA Food Services Ltd. v. 1144707 Alberta Ltd., 2011 ABQB 550, 2011 CarswellAlta 1540, 525 A.R. 1, 56 Alta. L.R. (5th) 363, the Plaintiff sued the Defendant for breach of a contract under which the Defendant sold a hotel and its parking lot to the Plaintiff. The relevant facts were summarized in paragraph 1 of the decision: 1 TLA Food Services Ltd. (TLA) entered into a contract (the Contract) with 1144707 Alberta Ltd. (1144707) to purchase a hotel. Unknown to the Plaintiff and to its principal, Tilemachos Tziachris, the hotel and hotel parking lot were located on two parcels. The hotel building is located on both, and the hotel parking lot is situated entirely on one of them. The land description in the Contract did not include the parcel on which the parking lot and part of the building are located. TLA sued 1144707, who did not defend and was noted in default. Justice Shelley dismissed an application to rectify the contract, and then discussed whether the Plaintiff could recover the parking lot land pursuant to R. 3.38. She said, at paragraphs 45–52: 45 However, if I am wrong, and the Contract can be rectified, I will consider whether default judgment can be entered under Rule 3.38 to permit TLA to obtain title to Property 2. 46 Rule 3.38 provides that, when no defence or demand for notice is filed to a claim for recovery of property, the Plaintiff may enter judgment for the recovery of that property. The immediate predecessor of this Rule is R. 149. Neither Rule has been subject to judicial commentary or discussion. Stevenson and Cote, in both the 2009 and 2010 Alberta Civil Procedure Handbook, (Edmonton, Juriliber, 2009 and 2010), have no commentary regarding either version of the Rule. 47 Rule 3.38 adds a parenthetical comment “[When no defence is filed in a foreclosure action]”, which initially seems to suggest that the Rule is applicable only to foreclosure actions. However, that parenthetical comment follows the phrase “Subject to rule 3.41”. Rule 3.41 is entitled “When no defence is filed in a foreclosure action”, and provides that “If a defendant in a foreclosure action does not file a statement of defence or demand for notice, the plaintiff must note the defendant in default before filing an application …” This suggests that the parenthetical reference is to alert the reader to the nature of the “subject to”, rather than to indicate that the Rule applies only to foreclosure actions. On the plain language of the Rule itself, there is no indication that it is so limited. 48 Rule 3.38 provides for “recovery of property”. R. 149 provided for the “recovery of goods or land”. In the successor Rule 3.38 “property” includes both “land and personal property”: Rules of Court, Appendix: Definitions. The plain meaning of “recovery” is to take back something that the Plaintiff previously possessed—to get back or regain something. See Oxford English Dictionary (www.oed.com, July 19, 2011): 4a. The regaining or restoration to one's control or possession of a thing lost, stolen, or otherwise taken away, retrieval; the possibility of recovering such a thing. 49 “Recovery” also has a legal meaning, set out in the Oxford English Dictionary (www.oed.com, July 19, 2011) as: 2a. The fact or process of gaining or regaining possession of or a right to property, compensation, etc., by a legal process or judgment. 50 In my view, this definition is not applicable here. “Recovery” in the latter definition is a general term describing remedies broadly. In that sense, a plaintiff in every action is always seeking recovery for what he asserts he has lost; that recovery may be assessed as damages, specific performance, or some other order. In this context, I find that “recovery of property” references the restoration or regaining of property or title. 51 Moreover, the context of the Rules dealing with default judgment and noting in default further support this interpretation. Rules 3.37, 3.38 and 3.39 provide for two kinds of default judgment—a judgment on application to the Court after a defendant has been noted in default under Rule 3.36. Such a judgment requires an assessment under Rule 3.37. The second form of judgment does not require that a defendant first be noted in default (except in the case of foreclosure (Rule 3.41)) and does not require an application to the Court. These judgments are those for a debt or liquidated demand (Rule 3.39), or “recovery of property” (R. 3.38), and are entered by the plaintiff. 52 In the case of debt or liquidated demand, the jurisprudence has established that such default judgment is only when an exact or easily calculable amount is sued for. Logically, under the similar Rule 3.38, default judgment for the recovery of property should only be available when the property is easily ascertainable, without the need for a Court application. This would be the case in a foreclosure action, where the plaintiff has a mortgage identifying its interest, or in a bailment action, where the plaintiff has an agreement describing the personal property sued for."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_38_001",
+        "part3_part_3_court_actions_010",
+        "part3_rule_3_38_002",
+        "part3_part_3_court_actions_012"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "aa76928b579b5f1c86064f30518e6efa13f2d641965593031e35ca3ea0a09bd1",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Judgment for recovery of property",
+      "division_heading": "Division 3 – ACTIONS STARTED BY STATEMENT OF CLAIM",
+      "operative_text_raw": null,
+      "operative_text_sha256": "8cced9090956bb37d72922b78158a671ede492b44b0cad5e1dbc10d8fed23598",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops after 'and one or more defendants do not file a statement' (cut off at the page end); the rest of the rule ('of defence or demand for notice, the plaintiff may enter judgment against that defendant or those defendants for the recovery of that property, and the plaintiff is entitled to a costs award.') is missing. The words printed equal the official text, with the bracket label '[When no defence is filed in a foreclosure action]' as Book A ('a' not in the official 3.41 title). No amendment note, no information note and no commentary are printed for 3.38 in Book C. The Division heading printed for the entry agrees with the official Division 3."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.2781,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.38 (read by eye) except: the bracket label '[When no defence is filed in a foreclosure action]' after 'Subject to rule 3.41' (official title of 3.41 is 'When no defence is filed in foreclosure action', without 'a'); the text is printed in two pieces with other text between them: 'Subject to rule 3.41 [...],if a' at p.3-100 line 2780 and 'statement of claim includes ... costs award.' at line 2791 (the title 'Judgment for Recovery of Property', title case, comes with the second piece, after the first); missing spaces ('therecovery'); the footnote marker '5' after the last word; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held five displaced blocks of the NOTE ON 3.37 (not of 3.38) printed between the two pieces, kept here verbatim because Book A's footnotes are not split out: '[Footnote 7 from prior page] 7Argent v. Gray,infra(¶ 44).But the plaintiff may not be able to get judgment against the defendant either, as but negligence and causation still are:Argent v.Gray2015 ABQB 292, 617 AR 45. 1Stevens v.Winchester Land & Prop.2009 ABQB 24, 3 Alta LR(5th) 354. 2Royal Bank of Can.v.Place2010 ABQB 733 (Nov 24) (¶'s 46-47). even if they are not mentioned in the statement of claim.But notice of a damage assessment is needed;these are not damages. In a foreclosure the basic facts cannot be in dispute, where the defendant filed no defence, was noted in default, and has not even tried to open up the noting. or even insolvent, it is premature to make a declaration that this claim would survive any later bankruptcy.But if requested, the formal judgment could affirm that the judgment makes no ruling about s.78 of theBankruptcy Act. R.9.15(2).No evidence to support a time extension was given.No evidence to show an arguable defence was given despite the plaintiff's comprehensive evidence, disclosing everything. When default judgment is sought and there is no evidence that the defendant is bankrupt 3 At this stage, a defendant who inadvertently did not defend must move quickly.Some defendants did not defend because they misunderstood some earlier orders.They complained promptly of the noting in default, but did not move to set aside within the 20-day time limit set by' (the first block is footnote 7 and footnotes 1-2 of the previous page as printed; the others continue the 3.37 note, whose earlier part ends '... Solicitor-client costs, if appropriate, may be granted under a default judgment under R.3.37, ... this topic goes beyond the facts in the statement of claim (¶'s 45-51). Limitations may no longer be in issue,' in the 3.37 record). The history footnote 5 ('Quite similar to previous 1968 R.149(1) ...') matching the marker '5' is printed in the built 3.37 record (p.3-100 line 2775)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.6279,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.38",
+      "title_official": "Judgment for recovery of property"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "3d7eb2a41ae38ab1d65a0d631f9b1642e7b0d5dd70c7751d796d86ee335b3a39",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-100"
+          ],
+          "offset_in_clean_text": [
+            320442,
+            322593
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "aa76928b579b5f1c86064f30518e6efa13f2d641965593031e35ca3ea0a09bd1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "8cced9090956bb37d72922b78158a671ede492b44b0cad5e1dbc10d8fed23598",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "cd2b83f8b9ed5d0a668824654ba50e964d97ff3fcd8a7488fdc93672342cae2d",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            65
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "88962199fe9d5a134085759528c6531f72f2c163f3c2895d3d5b12fef674c7ea"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.38 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.38 BOOK_C: rule text dropped (manual review)",
+    "3.38 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

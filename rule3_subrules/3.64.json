@@ -1,0 +1,207 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.64",
+  "title": {
+    "official": "Time limit for application to disallow amendment to pleading",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Request for Particulars, Amendments to Pleadings and Close of Pleadings"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.64(1)  On application, the Court may disallow an amendment to\na pleading or a part of it.\n(2)  The application must be filed within 10 days after service on\nthe applicant of the amended pleading.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "7c9563549cabcca69832fb80c19b0a82ddb56a537f326a9e87da456ef3fa975c"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          75
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Time Limit for Application to Disallow Amendment to Pleading",
+      "operative_text_raw": null,
+      "operative_text_sha256": "cd0454bbb66b0dbe5ad1a971e8fdc5a63af5eb0bafd65561c9dddbefb066a755",
+      "defined_terms": "Court, file, pleading",
+      "related_provisions": "3.68 (deficient pleadings)",
+      "commentary": "Rule 3.64 lets the court disallow unilateral pleadings, presumably when they violate the Rules. But there is a short time limit for applying to disallow;that Rule and R.1.5(2) and (3) show that a\n\nbelated application to disallow a R.3.64 amendment may well fail. *Permission of Court to Amendment Before or After Close of Pleadings*3*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-137"
+        ],
+        "offset_in_clean_text": [
+          432805,
+          433417
+        ]
+      },
+      "operative_text_note": "same wording as official 3.64(1)-(2) (read by eye) except: the title in title case ('Time Limit for Application to Disallow Amendment to Pleading', printed before the rule number); missing spaces; '*' line marks; the footnote marker '1' after the last word. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnote 1 ('Quite similar to previous 1968 R.131. It came from 1944 C.R.193. Cf. Judic.Ord. r.181, and 1883 O.28 r.4.') matching the marker is printed at p.3-137 line 3867 in the built 3.63 record.",
+      "commentary_review_flag": "Read in full, p.3-137 (lines 3871-3874): rule text, Defined Terms 'Court, file, pleading' (the Appendix defines each), Related Provisions '3.68 (deficient pleadings)' and a two-sentence note; no Information Note. The built record: defined_terms, related_provisions and the note in the commentary field (ending with the heading of 3.65 'Permission of Court to Amendment Before or After Close of Pleadings' and the marker '3'); nothing dropped. (1) Related Provisions: '3.68 (deficient pleadings)' - official 3.68 is 'Court options to deal with significant deficiencies'. (2) Note read against the official text: 'Rule 3.64 lets the court disallow unilateral pleadings, presumably when they violate the Rules' - 3.64(1) says 'the Court may disallow an amendment to a pleading or a part of it' and states no ground; 'there is a short time limit for applying to disallow; that Rule and R.1.5(2) and (3) show that a belated application to disallow a R.3.64 amendment may well fail' - 3.64(2) sets 10 days after service on the applicant of the amended pleading; official 1.5(2) (an application under 1.5 must be filed within a reasonable time after the applicant becomes aware) and 1.5(3) (no application by a party who has taken a further step in the action knowing of the prejudice) were read and agree with the note's statement that a belated application may fail. (3) History: fn 1 (1968 R.131; 1944 C.R.193; Judic.Ord. r.181; 1883 O.28 r.4) is this rule's (marker '1' after (2)); it is printed in the 3.63 record. (4) Book A prints no other note; Book B and Book C print no commentary. Pointers to 3.64: Book A p.3-161 (line 4765) '3.64 (striking amendments)' in the related provisions of a rule not identified here; no other citation found (cross-reference helper: official, all Book A, B, C files)."
+    },
+    "BOOK_B": {
+      "title": "Time limit for application to disallow amendment to pleading",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_64_001",
+        "part3_part_3_court_actions_050"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "390be37f43193f2542c82248dffa2202b4b4f6fe67da85ac0c191493f8dc6ff2",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Time limit for application to disallow amendment to pleading",
+      "division_heading": "Division 4 – REQUEST FOR PARTICULARS, AMENDMENTS TO PLEADINGS AND CLOSE OF PLEADINGS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "a5552e278fa729221a983e29f80357121ea2d82293ae90ae811e118ebb438344",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (1) equals the official text; (2) breaks off after 'the application must be filed within 10 days after service on the applicant' (the page end); the rest of (2) ('of the amended pleading.') is missing. No amendment note (official 'AR 124/2010' only) and no commentary are printed for 3.64 in Book C."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7692,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.64(1)-(2) (read by eye) except: the title in title case ('Time Limit for Application to Disallow Amendment to Pleading', printed before the rule number); missing spaces; '*' line marks; the footnote marker '1' after the last word. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnote 1 ('Quite similar to previous 1968 R.131. It came from 1944 C.R.193. Cf. Judic.Ord. r.181, and 1883 O.28 r.4.') matching the marker is printed at p.3-137 line 3867 in the built 3.63 record."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9394,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (1) equals the official text; (2) breaks off after 'the application must be filed within 10 days after service on the applicant' (the page end); the rest of (2) ('of the amended pleading.') is missing. No amendment note (official 'AR 124/2010' only) and no commentary are printed for 3.64 in Book C."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.64",
+      "title_official": "Time limit for application to disallow amendment to pleading"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "cd0454bbb66b0dbe5ad1a971e8fdc5a63af5eb0bafd65561c9dddbefb066a755",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-137"
+          ],
+          "offset_in_clean_text": [
+            432805,
+            433417
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "390be37f43193f2542c82248dffa2202b4b4f6fe67da85ac0c191493f8dc6ff2",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "a5552e278fa729221a983e29f80357121ea2d82293ae90ae811e118ebb438344",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "7c9563549cabcca69832fb80c19b0a82ddb56a537f326a9e87da456ef3fa975c",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            75
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "0b0bdf1375d5377f36d5243e13d6069212ceca46d9255763b24d80b3e3b4e21f"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.64 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.64 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.64 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

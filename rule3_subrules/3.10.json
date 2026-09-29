@@ -1,0 +1,204 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.10",
+  "title": {
+    "official": "Application of Part 4 and Part 5",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rules"
+  },
+  "operative_text": {
+    "controlling": "3.10(1)  Subject to subrule (2), Part 4 and Part 5 do not apply to an\naction started by originating application unless another rule\notherwise provides, the parties otherwise agree or the Court\notherwise orders.\n(2)  The rules in Divisions 2, 4, 5 and 6 of Part 4 and rules 4.1,\n4.2(a) and (d) and 4.36 apply, with all necessary modifications, to\nactions started by originating application unless the Court\notherwise orders.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "80654176c292b791c85cc364826afc512706ce590aed85a39e583a1b246d6e98"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s3.10;122/2012;23/2021",
+    "amending_regulations": [
+      "122/2012",
+      "23/2021"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta.Reg.124/10;122/12;23/21]"
+      ],
+      "BOOK_B": "Alta. Reg. 122/2012, s. 3; 23/2021, s. 2"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          53
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Application of Part 4 and Part 5",
+      "operative_text_raw": null,
+      "operative_text_sha256": "8313c31b045e8d2b84179c537f75c84d7857df0499840648001d1228d538f90f",
+      "defined_terms": null,
+      "related_provisions": null,
+      "commentary": "1Mathai v. George(M) 2018 ABQB 51, JCE 1703 09296 (Jan 22). 2James H.MeekTr.v.San Juan Res.2005 ABCA 448, 376 AR 202,affg2005 ABQB 9, 356 AR 72. 3Quite similar to previous 1996 R.314.1.It was first enacted by Alta.Reg.243/96.\n\nInformation Note See also rule 3.12 [Application of statement of claim rules to originating qpplications]. Typically, an action started by originating application will not require the same kind of management, either by the parties or the Court, nor require the same kind of disclosure of records or questioning, as actions started by statement of claim.However, if management, document disclosure and questioning are required, the parties may agree or the Court may\n\norder them. Defined Terms Court, party This Rule was applied, in theMathalcase. The 2021 amendment allows another Rule of Court to make Parts 4 and 5 apply to certain Originating Applications.\n\nPending an Originating Application, some partial discovery of records and limited examination for discovery was conducted.The chambers judge properly exercised a discretion not to adjourn the Originating Application to allow for more discovery, but certain documents were ordered produced.There were other ways (such as asking questions on examination) to find out if there were other documents.\n\n*Service and Filing of Affidavits and Other Evidence in Reply and Response*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-27",
+          "3-28"
+        ],
+        "offset_in_clean_text": [
+          78302,
+          80299
+        ]
+      },
+      "operative_text_note": "same wording as official 3.10(1)-(2) (read by eye) except bracket labels '[Managing Litigation]' (Part 4), '[Disclosure of Information]' (Part 5), '[Responsibilities of parties to manage litigation]' (after 4.1; the official title is 'Responsibility of parties to manage litigation'), '[What the responsibility includes]' (4.2) and '[Discontinuance of claim]' (4.36), missing spaces and '*' line marks; the amendment bracket '[Alta.Reg.124/10;122/12;23/21]' agrees with the official 'AR 124/2010 s3.10;122/2012;23/2021'. No substantive difference.",
+      "commentary_review_flag": "Read in full, p.3-27 (line 616) to p.3-28 (line 633): rule text, information note, defined terms, commentary; no Related Provisions are printed. (1) Footnotes (p.3-28, line 626, printed after the running head): 1 Mathai v. George (M) 2018 ABQB 51, JCE 1703 09296 (Jan 22) (the 'Mathai case' of the commentary); 2 James H. Meek Tr. v. San Juan Res. 2005 ABCA 448, 376 AR 202, affg 2005 ABQB 9, 356 AR 72; 3 history: 'Quite similar to previous 1996 R.314.1. It was first enacted by Alta.Reg.243/96.' The built commentary ends with the title of 3.11. (2) The same 'James H. Meek Tr. v. San Juan Res.' is cited in 3.2 (p.3-15, line 299) as '2003 ABQB 1053, 356 AR 72': the AR citation is the same but the neutral citations differ (2003 ABQB 1053 there, 2005 ABQB 9 here); one is wrong and the sources do not show which. (3) The information note reads 'application of statement of claim rules to originating qpplications' ('qpplications' as printed); official 3.12 is 'Application of statement of claim rules to originating applications'. The bracket label after 4.1 says 'Responsibilities' where the official title says 'Responsibility'. (4) 'The 2021 amendment allows another Rule of Court to make Parts 4 and 5 apply to certain Originating Applications' agrees with the official text ('unless another rule otherwise provides'), the official amendment list (23/2021) and rules 12.34(1) and 12.37(1), which say 'Despite rule 3.10, Part 4 [Part 5] applies to ...'. (5) Statements of law without a source in the repository (not checked): that the chambers judge properly exercised a discretion not to adjourn for more discovery and that certain documents were ordered produced (an unnamed case)."
+    },
+    "BOOK_B": {
+      "title": "Application of Part 4 and Part 5",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_10_001",
+        "part3_part_3_court_actions_028"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "5a7ead22f2174c83540be7bceaf7371bd9684977867fe11e26bf0137c5ce6d44",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": null
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.10(1)-(2) (read by eye) except bracket labels '[Managing Litigation]' (Part 4), '[Disclosure of Information]' (Part 5), '[Responsibilities of parties to manage litigation]' (after 4.1; the official title is 'Responsibility of parties to manage litigation'), '[What the responsibility includes]' (4.2) and '[Discontinuance of claim]' (4.36), missing spaces and '*' line marks; the amendment bracket '[Alta.Reg.124/10;122/12;23/21]' agrees with the official 'AR 124/2010 s3.10;122/2012;23/2021'. No substantive difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_TEXT_MISSING",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.10",
+      "title_official": "Application of Part 4 and Part 5"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_TEXT_MISSING"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 3,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "8313c31b045e8d2b84179c537f75c84d7857df0499840648001d1228d538f90f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-27",
+            "3-28"
+          ],
+          "offset_in_clean_text": [
+            78302,
+            80299
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "5a7ead22f2174c83540be7bceaf7371bd9684977867fe11e26bf0137c5ce6d44",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "80654176c292b791c85cc364826afc512706ce590aed85a39e583a1b246d6e98",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            53
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "9919c2b00d6ebd3ffe3a2e9ebb4e9d8645283c444510e14a9b1c8e7e7e7d215b"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 3.10', lists, line-wrapped forms and form headings): 12.34(1) ('Despite Rule 3.10, Part 4 applies to (a) a proceeding under the Family Law Act, and ...') and 12.37(1) ('Despite rule 3.10, Part 5 applies to (a) a proceeding under the Family Law Act, and (b) an application to v...'); no form heading names 3.10. By subject: 3.12 (rules for statement-of-claim actions may be applied by direction), Part 4 (4.1 responsibility of parties to manage litigation, 4.2, 4.36 discontinuance of claim), Part 5, 12.34-12.37 (family rules that override 3.10).",
+    "BOOK_C material for 3.10 sits inside BOOK_C's 3.9 entry (Book C has no 3.10 entry; see the 3.9 flag). Verbatim, as printed there: rule text '[Managing Litigation] [Disclosure of Information] do not apply to an and [Managing Litigation] rules 4.1 , 4.2(a) [Responsibilities of parties to manage litigation] [What the responsibility includes] [Discontinuance of claim] and (d) and 4.36 apply, with all necessary modifications, to actions started by originating application unless the Court otherwise orders.' (the words '(1) Subject to subrule (2), Part 4 and Part 5 ... the Court otherwise orders. (2) The rules in Divisions 2, 4, 5 and 6 of Part 4 and' are not in the text); amendment note '[Alta. Reg. 124/2010, r. 3.10 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta. Reg. 122/2012, s. 3; Alta. Reg. 23/2021, s. 2 effective March 1, 2021]' (agrees with the official 122/2012 and 23/2021); information note 'See also rule 3.12 [Application of statement of claim rules to originating applications]. Typically, an action started by originating application will not require the same kind of management, either by the parties or the Court, nor require the same kind of disclosure of records or questioning, as actions started by statement of claim. However, if management, document disclosure and questioning are required, the parties may agree or the Court may order them.' (same words as BOOK_A's note, without the 'qpplications' typo); commentary 'The court can, by order, or the parties may agree that the discovery Absent agreement, the parts of Part [Patrus v. Alberta (Workers' Compensation Board, Appeals Commission), [2011] A.J. No. 1346, stands where the Part number is lost] that apply to such actions are: do * Division 2 - ACTIONS STARTED BY ORIGINATING APPLICATION' (cut off; no other book has this content). BOOK_C's label '[Responsibilities of parties to manage litigation]' has the same plural wording as BOOK_A's.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt; pages from the markers): 3.12 information note p.3-30 (line 686) 'See also rule 3.10 [Application of Part 4 and Part 5]'; R.4.2 note p.4-4 (line 137) 'See rule 3.10 [Application of Part 4 and Part 5] and rule 3.12 [...]'; R.5.1 note p.5-3 (line 61) 'See rule 3.10 [Application of Part 4 and Part 5]' and related provision p.5-3 (line 67) '3.10 (application to originating applications)'; R.7.1 note p.7-4 (line 86) 'On deciding issues raised by an originating application, see also Rr.3.10n. and 3.14n.' (3.10's note deals with limited discovery on an originating application; 3.14 to be checked in its pass); R.12.27 p.12-28 (line 1231) 'rule 3.10 [Application of Part 4 and Part 5] does not apply to an application ...'; R.12.34(1) p.12-33 and R.12.37(1) p.12-40 'Despite rule 3.10 [Application of Part 4 and Part 5] ...' (title matches official).",
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule12_part01_document.json (12.34(1) 'Despite Rule 3.10, Part 4 applies to ...'; 12.37(1) 'Despite rule 3.10, Part 5 applies to ...'); BOOK_C file 161-180 (rule 4.2 information note: 'See rule 3.10 [Application of statement of ...] and rule 3.12 ...', garbled) and file 561-580 (12.34, 12.37 texts and, in 12.37's commentary, 'Rule 3.10 says that the disclosure rules in Part 5 do not apply to actions started ...'). BOOK_B has no commentary on 3.10 (rule text and amendment note 'Alta. Reg. 122/2012, s. 3; 23/2021, s. 2' only, agreeing with the official)."
+  ],
+  "dedupe_log": [
+    "3.10 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.10 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.10 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

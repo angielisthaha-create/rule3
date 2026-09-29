@@ -1,0 +1,223 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.53",
+  "title": {
+    "official": "Judgment against third party defendant",
+    "variants": {
+      "BOOK_A": "Judgment AgainstThird Party Defendant"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.53(1)  The Court may give judgment against a third party\ndefendant if the third party defendant does not file a statement of\ndefence.\n(2)  Judgment against a defendant must be satisfied before\njudgment is enforced against a third party defendant unless the\nCourt otherwise orders.\n(3)  An application by a defendant to enforce a judgment against a\nthird party defendant under subrule (2) must\n(a) be in Form 19, and\n(b) be served on the plaintiff and the third party defendant.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "4a5aa9778b6b238a02e452635a859091bca465253c39d08a8b066109276ad2c3"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.53 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          71
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Judgment AgainstThird Party Defendant",
+      "operative_text_raw": null,
+      "operative_text_sha256": "171ae55cb675cacd2f688640722819a05e11c1da229cadfec279cf01ba2edd4f",
+      "defined_terms": "Court, file, judgment, plaintiff, third party defendant",
+      "related_provisions": "3.36 (judgment in default of defence)",
+      "commentary": "*Plaintiff's Reply toThird Party Defence*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-123"
+        ],
+        "offset_in_clean_text": [
+          390175,
+          390819
+        ]
+      },
+      "operative_text_note": "same wording as official 3.53(1)-(3) (read by eye) except: the text is printed in pieces (p.3-123 lines 3470-3472); the title in title case ('Judgment Against Third Party Defendant', printed before the rule number); missing spaces; '*' line marks; the footnote marker '1' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnote 1 ('Quite similar to previous 1968 R.74. It came from English O.16A, rr.6, 12, and Judic.Ord.rr 63, 168. Like 1914 R.54 (first sentence), and 1944 C.R.86.') matching the marker is printed at p.3-123 line 3467 and is in the built 3.52 record (its commentary field).",
+      "commentary_review_flag": "Read in full, p.3-123 (lines 3470-3472): rule text (in pieces), Defined Terms 'Court, file, judgment, plaintiff, third party defendant' (the Appendix defines each), Related Provisions '3.36 (judgment in default of defence)'; no Information Note and no note of its own. The built record: defined_terms, related_provisions and, in the commentary field, only the heading of 3.54 ('Plaintiff's Reply to Third Party Defence'); nothing dropped. (1) Related Provisions: '3.36 (judgment in default of defence)' - official 3.36 is 'Judgment in default of defence and noting in default' (shortened label). (2) Book A prints no commentary for 3.53; Book B's commentary (two parts, 3,146 characters: Melcosky v. Maguire 2015 ABQB 434 quoting Yaremchuk v. Haight 2001 ABCA 7 on a party noted in default, decided under former Rules 142(3) and 244.1; and a Saskatchewan Court of Appeal statement of the principles for setting aside a default judgment, Klein v. Schile [1921], Warner Construction v. Wood River (1979)) has no counterpart in Book A's note for this rule. (3) History: fn 1 (1968 R.74; English O.16A rr.6, 12; Judic. Ord. rr 63, 168; 1914 R.54; 1944 C.R.86) is in the 3.52 record. (4) Pointers to 3.53: the official Form 19 '[Rule 3.53]'; no other citation found by the cross-reference helper (official, all Book A, B, C files)."
+    },
+    "BOOK_B": {
+      "title": "Judgment against third party defendant",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.53:1",
+          "text": "Rule 3.53 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.53. 1. Deemed admissions In Melcosky v. Maguire, 2015 ABQB 434, the third party was noted in default. Justice Read said: 108 When a party is noted in default, the claims are deemed to have been admitted and all that may be controverted is the amount of the judgment (Yaremchuk v Haight, 2001 ABCA 7 (at para 5). The amount of the judgment must be assessed unless the claim is for a debt or liquidated demand (r 3.39). In Yaremchuk v. Haight, 2001 ABCA 7, the Court said: 5 In my view, a party who is noted in default does not cease to be a party to the action and is entitled to utilize Rule 244.1. According to Rule 142(3) once a defendant has been noted in default he or she is no longer entitled to deliver a statement of defence or demand of notice. Furthermore, once the defendant has been noted in default: • [a]ll the plaintiff has to prove, or the defendant is permitted to controvert, is the amount of the damages; for the cause of action itself, as stated in the plaintiff's claim, and the right to some damages in respect of it, is admitted by the defendant, by his suffering judgement to pass against him by default. • T.W. Chitty, ed., Chitty's Archibold's Practice of the Queen's Bench Division, vol. 2, 14th ed. (London: Sweet & Maxwell, 1885) at 1336, as cited in Sulef v. Parkin and Breno (1966), 57 W.W.R. 236 (Alta. C.A.) But I have not been provided with any authority or directed to any Rule which might otherwise limit the right of a defendant to take any other step under the Rules. 2. Setting aside on failure to defend The Saskatchewan Court of Appeal, in interpreting the equivalent rule, set out several principles for setting aside the default: The general principles governing the right to set aside a default judgment apply. Lamont, J.A. (as he then was) set out these principles in Klein v. Schile, [1921] 2 W.W.R. 78, at page 79, as follows: The circumstances under which a Court will exercise its discretion to set aside a judgment regularly signed are pretty well settled. The application should be made as soon as possible after the judgment comes to the knowledge of the defendant, but more delay will not bar the application, unless an irreparable injury will be done to the plaintiff or the delay has been wilful … The application should be supported by an affidavit setting out the circumstances under which the default arose and disclosing a defence on the merits … It is not sufficient to merely state that the defendant has a good defence upon the merits. The affidavits must show the nature of the defence and set forth facts which will enable the Court or Judge to decide whether or not there was matter which would afford a defence to the action … If the application is not made immediately after the defendant has become aware that judgment has been signed against him, the affidavits should also explain the delay in making the application; and, if that delay be of long standing, the defence on the merits must be clearly established. Warner Construction Co. v. Wood River (Rural Municipality) (1979), 1 Sask. R. 118 at 119-20 (C.A.)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_53_001",
+        "part3_part_3_court_actions_016",
+        "part3_rule_3_53_002",
+        "part3_part_3_court_actions_018"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "010b7d4b4049ef0380e468a19b92b9c39640f038b047b0095c8d20a9034d77cb",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Judgment against third party defendant",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "3fa937a1e1a303cc42024e97f98c163f283e57cb2db56e764fc9003be78a97ec",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8344,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.53(1)-(3) (read by eye) except: the text is printed in pieces (p.3-123 lines 3470-3472); the title in title case ('Judgment Against Third Party Defendant', printed before the rule number); missing spaces; '*' line marks; the footnote marker '1' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnote 1 ('Quite similar to previous 1968 R.74. It came from English O.16A, rr.6, 12, and Judic.Ord.rr 63, 168. Like 1914 R.54 (first sentence), and 1944 C.R.86.') matching the marker is printed at p.3-123 line 3467 and is in the built 3.52 record (its commentary field)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.53",
+      "title_official": "Judgment against third party defendant"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "171ae55cb675cacd2f688640722819a05e11c1da229cadfec279cf01ba2edd4f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-123"
+          ],
+          "offset_in_clean_text": [
+            390175,
+            390819
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "010b7d4b4049ef0380e468a19b92b9c39640f038b047b0095c8d20a9034d77cb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "3fa937a1e1a303cc42024e97f98c163f283e57cb2db56e764fc9003be78a97ec",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "4a5aa9778b6b238a02e452635a859091bca465253c39d08a8b066109276ad2c3",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            71
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e5f5b4565d401acd2319b7bc52e5d74d669aa073acb5579f63747b9d5bd05ce9"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.53 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.53 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.53 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.53 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

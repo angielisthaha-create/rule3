@@ -1,0 +1,218 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.14",
+  "title": {
+    "official": "Originating application evidence (other than judicial review)",
+    "variants": {
+      "BOOK_A": "Originating Application Evidence (OtherThan Judicial Review)"
+    }
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rules"
+  },
+  "operative_text": {
+    "controlling": "3.14(1)  When making a decision about an originating application,\nother than an originating application for judicial review, the Court\nmay consider the following evidence only:\n(a) affidavit evidence, including an affidavit by an expert;\n(b) a transcript referred to in rule 3.13;\n(c) if Part 5 applies by agreement of the parties or order of the\nCourt to the originating application, the transcript\nevidence or answers to written questions, or both, under\nthat Part that may be used under rule 5.31;\n(d) an admissible record disclosed in an affidavit;\n(e) anything permitted by any other rule or by an enactment;\n(f) evidence taken in any other action, but only if the party\nproposing to submit the evidence gives each of the other\nparties 5 days’ or more notice of that party’s intention and\nobtains the Court’s permission to submit the evidence;\n(g) with the Court’s permission, oral evidence, which if\npermitted must be given in the same manner as at trial.\n(2)  An affidavit or other evidence that is used or referred to at a\nhearing by the respondent, or by the originating applicant in\nresponse to the respondent, and that has not previously been filed\nin the action must be filed as soon as practicable after the hearing.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "ddc7b1dd8f7221d33c9499b6cc12f1c0d3cde57d1910f72c3f4d7a288876f44e"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          55
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Originating Application Evidence (OtherThan Judicial Review)",
+      "operative_text_raw": null,
+      "operative_text_sha256": "a8dd01b57457a075a1d8e59eb896598f5c44cf3bc3a1a95053bf9838e544a66b",
+      "defined_terms": "Court, enactment, expert, party, record",
+      "related_provisions": "3.13 (questioning on an affidavit) A respondent objecting to the short time for an (originating) application has a duty to tell the judge of its objection, and that it wants an adjournment to cross-examine on an affidavit.It is too late to wait until the judge has decided the motion. After a report to the court by a court-appointed Inspector of a company, the court should not order his disclosure of back-up documents used to compile his report.He should not become an information-gathering tool for any party, especially if non-parties could suffer from disclosure. If there are confidentiality provisions in the legislation, the Record for appeal can omit personal information not relevant or material, such as telephone numbers or maybe names of witnesses interviewed.But it cannot delete the substance of complaints or interviews.Nor delete the name of the complainant. Materials in a legal brief, not sworn to by any affidavit, are not evidence.Nor should the book of authorities contain materials not in the record nor verified by affidavit. *Subdivision 2 Additional Rules Specific to Originating Applications for Judicial Review *Originating Application for Judicial Review*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-31",
+          "3-32"
+        ],
+        "offset_in_clean_text": [
+          90095,
+          93117
+        ]
+      },
+      "operative_text_note": "same wording as official 3.14(1)(a)-(g) and (2) (read by eye) except: in (1)(c) Book A prints 'the transcript evidence or answers to questions, or both' where the official text says 'answers to written questions' ('written' missing); bracket labels '[Questioning on an affidavit and questioning witnesses]' (3.13; the official title is 'Questioning on affidavit and questioning witnesses'), '[Disclosure of Information]' (Part 5) and '[Use of transcript and answers to written questions]' (5.31, matches); the title in capitals; missing spaces and '*' line marks. No amendment bracket; the official text lists no amendment for 3.14. The raw text also held the p.3-32 footnote block (five footnotes), kept here verbatim: '3Campbell v. Chief Electoral Officer2018 ABQB 248, JCE 1703 07561/3 (Mar 29) (¶'s 39-45). 4Jacobson v. Newell (Cty.)2021 ABQB 505, JCE 2103 00316 (Jun 30) (¶'s 32 ff.). 5Quite similar to previous 1987 Rr.753.03, 753.04.They were first enacted in 1987. 1Baralot Int.Corp. v.Rundle Dev. Co-op.2008 ABCA 103, 429 AR 64. 2Amack v.AW Hldg. Corp.2014 ABQB 92, [2014] AR Uned 168.Is there then deliberative privilege?'",
+      "commentary_review_flag": "Read in full, p.3-31 (line 718) to p.3-32 (line 740): rule text, five footnotes (kept in the text note), defined terms, related provision and a note of three paragraphs; the built commentary ends with the Subdivision 2 heading and the title of 3.15 (they match the official Subdivision 2 'Additional Rules Specific to Originating Applications for Judicial Review'). (1) Wording: (1)(c) omits 'written' before 'questions' (see the text note). (2) Defined Terms 'Court, enactment, expert, party, record': the Appendix defines each ('record' includes the representation of or a record of any information, data or other thing ...). Related Provision '3.13 (questioning on an affidavit)' - official 3.13 is 'Questioning on affidavit and questioning witnesses'. (3) The note: 'A respondent objecting to the short time for an (originating) application has a duty to tell the judge of its objection, and that it wants an adjournment to cross-examine on an affidavit'; a report by a court-appointed Inspector of a company and disclosure of back-up documents; the Record for appeal and confidential personal information; 'Materials in a legal brief, not sworn to by any affidavit, are not evidence. Nor should the book of authorities contain materials not in the record nor verified by affidavit' - the last statement agrees with the closed list in official 3.14(1) ('may consider the following evidence only'); the others are statements of law without a source in the repository (not checked). (4) Footnote 5 (history: 'Quite similar to previous 1987 Rr.753.03, 753.04. They were first enacted in 1987') and footnote 2 ('Is there then deliberative privilege?', a question in the text of the note) are printed as shown."
+    },
+    "BOOK_B": {
+      "title": "Originating application evidence (other than judicial review)",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_14_001",
+        "part3_part_3_court_actions_042"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "bf2cd56d96d2b3a1e87c67532492519d7c3765ef853ee9ea9af2bf5526a31de5",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Originating application evidence (other than judicial review)",
+      "division_heading": "Division 2 – ACTIONS STARTED BY ORIGINATING APPLICATION",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0f95b8e6692e1eb78cc89c219da20fed34f1f2f19b7ab2b06c52375b10189a2f",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it holds the lead-in and (1)(a)-(b) only, ending with a displaced bracket label '[Disclosure of Information]' (Part 5, which belongs to (1)(c)); (1)(c)-(g) and subrule (2) are missing; no amendment note and no commentary are printed for 3.14."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6577,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.14(1)(a)-(g) and (2) (read by eye) except: in (1)(c) Book A prints 'the transcript evidence or answers to questions, or both' where the official text says 'answers to written questions' ('written' missing); bracket labels '[Questioning on an affidavit and questioning witnesses]' (3.13; the official title is 'Questioning on affidavit and questioning witnesses'), '[Disclosure of Information]' (Part 5) and '[Use of transcript and answers to written questions]' (5.31, matches); the title in capitals; missing spaces and '*' line marks. No amendment bracket; the official text lists no amendment for 3.14. The raw text also held the p.3-32 footnote block (five footnotes), kept here verbatim: '3Campbell v. Chief Electoral Officer2018 ABQB 248, JCE 1703 07561/3 (Mar 29) (¶'s 39-45). 4Jacobson v. Newell (Cty.)2021 ABQB 505, JCE 2103 00316 (Jun 30) (¶'s 32 ff.). 5Quite similar to previous 1987 Rr.753.03, 753.04.They were first enacted in 1987. 1Baralot Int.Corp. v.Rundle Dev. Co-op.2008 ABCA 103, 429 AR 64. 2Amack v.AW Hldg. Corp.2014 ABQB 92, [2014] AR Uned 168.Is there then deliberative privilege?'"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.3347,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.14",
+      "title_official": "Originating application evidence (other than judicial review)"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "a8dd01b57457a075a1d8e59eb896598f5c44cf3bc3a1a95053bf9838e544a66b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-31",
+            "3-32"
+          ],
+          "offset_in_clean_text": [
+            90095,
+            93117
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "bf2cd56d96d2b3a1e87c67532492519d7c3765ef853ee9ea9af2bf5526a31de5",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "0f95b8e6692e1eb78cc89c219da20fed34f1f2f19b7ab2b06c52375b10189a2f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "ddc7b1dd8f7221d33c9499b6cc12f1c0d3cde57d1910f72c3f4d7a288876f44e",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            55
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "5342ccbc5c7043ddead8cc6a51481cd122cbaa9a745da2dd47320e1e741b240e"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 3.14', lists, line-wrapped forms and form headings): no other official rule cites 3.14 by number (the only hit is the running page header 'Rule 3.14'); no form heading names it. By subject: 6.11(1)-(2) (evidence at application hearings; the same list of evidence), 3.13 (transcript), 3.21 and 3.16-3.24 (judicial review, for which 3.14 does not apply), 5.31 (use of transcript and answers to written questions), 8.17(3) and 8.19 (evidence in other actions and proceedings).",
+    "BOOK_A other Parts and Part 3 (all combined*.txt; pages from the markers; rule numbers from the text): 3.18 note p.3-59 (line 1573) 'In a statutory appeal, with issues of redaction of confidential information, Rr.3.18 to 3.20 can be applied to R.3.14 by analogy under R.1.7'; R.6.11 checklists p.6-91 (line 4871) 'Live evidence (with leave of the judge): R.6.11(1)(g); cf. R.3.14(g)' [3.14(1)(g) as printed], p.6-92 (line 4900) 'Evidence from another suit with the same parties (with leave of the court): Rr.3.14(1), 6.11(1)(f), 8.17(3)' and (line 4923) 'cf. R.3.14(1)(a)' (official 3.14(1)(a), (f), (g) mirror 6.11(1)(a), (f), (g)); R.6.57 footnote p.6-167 (line 8749) 'the commentary on R.3.14 and 7.1'; R.7.1 related p.7-4 (line 79) '3.14 (deciding originating applications)' and its note (line 86) 'see also Rr.3.10n. and 3.14n.' (lands in this rule's note only loosely: the note is about evidence and a respondent's duty to say it wants an adjournment); R.8.17 related p.8-44 (line 2207) '3.14(1) (evidence on applications)' - official 3.14(1) is about originating applications other than judicial review (ordinary applications are 6.11(1)); R.8.19 related p.8-51 (line 2546) '3.14(1)(f) (evidence on originating applications)' (agrees).",
+    "BOOK_B: rule text only (paragraph part3_part_3_court_actions_042), equal to the official 3.14; no commentary; no amendment note on either side; the next paragraph is the running head for Subdivision 2 (judicial review). BOOK_C: no other file cites 3.14 by number; BOOK_B: no other file cites it."
+  ],
+  "dedupe_log": [
+    "3.14 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.14 BOOK_C: rule text dropped (manual review)",
+    "3.14 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

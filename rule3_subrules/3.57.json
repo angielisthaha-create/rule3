@@ -1,0 +1,225 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.57",
+  "title": {
+    "official": "Contents of counterclaim",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 7,
+    "heading": "Counterclaims"
+  },
+  "operative_text": {
+    "controlling": "3.57   A counterclaim must\n(a) be in Form 21,\n(b) comply with the rules about pleadings in Part 13, Division\n3, and\n(c) be filed and served on the defendant-by-counterclaim\nwithin the same time period that the plaintiff-by-\ncounterclaim must file a statement of defence under rule\n3.31(2).",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "7689dcc60a5f0ba8ae80d03392e694bf33afaff7d136338099e06729624f7fab"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.57 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          72
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "8cf16b59dc41a8be1f17e30fd35310cb8170e3120fd13bb15294ea28f069f578",
+      "defined_terms": "file, pleading, rules",
+      "related_provisions": "12.12 (time for service in family law litigation) A counterclaim need not be struck out, even if it is premature because the cause of action has not accrued yet, if it prevents multiplicity and inconsistent verdicts? But a counterclaim alleging that the main claim is malicious prosecution or defamation or an abuse of process, may be struck out as disclosing no cause of action.Pleadings themselves cannot be actionable, and a collateral motive would be necessary, as would dismissal of the previous suit. The court can allow a late counterclaim. Relevant to such a request for a late counterclaim are whether it would greatly increase the time and cost of the main suit, and whether the defendant delayed after getting the relevant information which he could use to sue on. So the mere fact that part or all of the new counterclaim's subject is not related to the existing claim is not necessarily Though the test for a late counterclaim is fairly low, it is tougher if the counterclaim will a bar. allege fraud or malicious conduct:the case law on amending pleadings gives guidance. And of course the court will not allow a late counterclaim to the extent that the limitation period forsuing had expired. Limitations periods do not bar a counterclaim related to the main claim, but it may not be possible to amend a statement of defence to raise that mere argument. Adding a new counterclaim where there was no counterclaim before is an amendment of the original lawsuit or pleading, and subject to the usual rules for amending pleadings, and if there is a limitations issue, subject to the usual principles there including how to apply and interpret s.6 of theLimitations Act. 6WestJet v.ELS Mktg.2016 ABQB 172, JCC 1001 00525 (Mar 24) (¶'s 41-45). 7In form the claims were for different items, but the supplier wanted its bills paid and the customer complained of loss because of defective equipment:.1297835 Alta.v.Xtreme Coil Drilling2010 ABQB 539, 503 AR 56. 8GeorgetownWire Co.v. Gemini Structural Sys.(CA 1997) 200 AR 285. 9Attila Dogan Constr.& Installation Co. v.AMEC Americas2015 ABCA 406, 609 AR 313,affg2015 ABQB 120. The Rules no longer require that a counterclaim be conjoined with the statement of defence. So it can be a separate document, presumably even filed on a different day. 5Alta.Treas. Br. v.Hammond1999 ABQB 702, 249 AR 295.The trial of a counterclaim should not be 1T.-D.Bank v. Leffler,supra. 2Mercantile Office Sys.&c.v.WorldwideWarranty Life Serv.2021 BCCA 362 (Oct 1). 3Brown-Forman Corp. v.Charton-Hobbs2024 ABKB 261, JCC 2001 12887 (May 3) (¶'s 58 ff.). 4Criteria acted on in reported cases are in the C.P.E., commentary in Chapter 15, Part N.Delay in the main trial is not enough to sever trial of the counterclaim.The test is whether the issue is readily severable, and clearly trying one issue first will probably end the suit:Murphy Oil Co.v.Predator Corp.2002 ABQB 629, 319 AR 328.A counterclaim was properly stayed until after main claim was tried.It was not really a R.7.1 case, and the counterclaim was beyond the scope of the issues earlier ordered tried.If the main claim was decided one way, the plaintiff by counterclaim would have no interest in the counterclaim, nor any standing to sue:Myron v.Kwinter2007 ABCA 16. postponed, nor the counterclaim severed, where the claim and the cross-claim are closely related and equitable set-off is claimed by the counterclaim.Otherwise, deciding on the main claim could produceres *judicata.After all, any kind of set off, legal or equitable, is a defence:Quinney v. 1075398 Alta.2015 ABQB 452, 24 Alta LR(6th) 202 (¶'s 19-23). *Status of Counterclaim*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-126",
+          "3-127"
+        ],
+        "offset_in_clean_text": [
+          399471,
+          403455
+        ]
+      },
+      "operative_text_note": "official 3.57(c) is not complete in this record's text: it reads '(c) be filed and served on the defendant-by-counterclaim within the' and then '*statement of defence under rule 3.31(2) [Statement of defence].' - the words 'same time period that the plaintiff-by-counterclaim must file a' are printed at p.3-126 line 3545 in the built 3.56 record (displaced by the extraction; not lost from the book). Otherwise the same wording as official 3.57(a)-(c) (read by eye) except: the bracket labels '[Technical Rules]' after 'Part 13' and '[Statement of defence]' after 'rule 3.31(2)' (both match the official headings/title) and the text is printed in pieces out of order ((a) then 'Division 3 [Pleadings], and' at line 3550, then (b) at line 3551); the title in title case ('Contents of Counterclaim', printed in the 3.56 record); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker. No other difference.",
+      "commentary_review_flag": "Read p.3-126 (line 3550) to p.3-127 (line 3582): rule text (in pieces out of order, with (c) split across records), Defined Terms 'file, pleading, rules' (the Appendix defines each), Related Provisions '12.12 (time for service in family law litigation)' and a note (late counterclaims, limitations, separate document, severing the trial), with footnotes as printed; the note is skimmed for structure and pointers, not case by case. The built record: the whole note is in related_provisions (3,642 characters, after '12.12 (time for service in family law litigation)'), with footnotes 6-9, 5, and 1-4 of p.3-127 and the heading of 3.58 'Status of Counterclaim'; defined_terms holds 'file, pleading, rules'; commentary is empty; nothing dropped. The footnotes 1-4 and fn 4-5 printed before the rule text (p.3-126 lines 3546-3548: Sovereign Gen. v. Tanar, A.M. v. Matthews, Deuruneft v. Bullen, 'Deuruneft v. Bullen. Therefore, a defendant who delayed until a lengthy trial was scheduled ...') are in the 3.56 record. (1) Related Provisions: '12.12 (time for service in family law litigation)' (official 12.12 is 'Time for service of documents filed under rule 12.11'). (2) Statements read against the official text and Book C: 'The Rules no longer require that a counterclaim be conjoined with the statement of defence. So it can be a separate document, presumably even filed on a different day' agrees with Book C's commentary ('they could be filed on separate dates, as long as both are within the required time') and with 3.57(c) (time period, not a joint document); 'The court can allow a late counterclaim', the amendment, limitations and Limitations Act s.6 statements, 'malicious prosecution or defamation' and the severing-the-trial statements are not in the rule text and were not checked. (3) Pointers to 3.57: R.12 p.12-13 (line 554) 'rule 3.57 [Contents of counterlcaim]' (misspelled 'counterlcaim') and p.12-15 (line 658) 'rule 3.57 [Contents of counterclaim]'; p.12-14 (line 602) '3.57(c) (time ...' (cut off; lands on (c), the time period); R.13 p.13-66 (line 3469) checklist 'Any counterclaim must be in form 21 (R.3.57(c))' - Form 21 is required by 3.57(a), not (c) (the pointer letter is wrong as printed); the official R.12 text (12.11(3)(d) and (8)(d)) cites 3.57 and the Form 21 heading '[Rules 3.57, 12.11(3)(d) and 12.121(8)(d)]'; Book B's R.12 text has the same 12.11 lines."
+    },
+    "BOOK_B": {
+      "title": "Contents of counterclaim",
+      "operative_text_raw": "A counterclaim must (a) be in Form 21, (b) comply with the rules about pleadings in Part 13, Division 3, and (c) be filed and served on the defendant-by-counterclaim within the same time period that the plaintiff-by-counterclaim must file a statement of defence under rule 3.31(2).",
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_57_001",
+        "part3_part_3_court_actions_028"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "a0b6add2553de0b04fd963914c4b39e7d11193cad58e06ce1717831fd5bf2668"
+    },
+    "BOOK_C": {
+      "title": "Contents of counterclaim",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "1daa8eed6eda4680957b5c5c9177e288aea1f662960779cd0db0e60947bf85bf",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 3.57 requires a counterclaim to be filed within the same period as a statement of defence. Thus, a defendant will typically file its statement of defence and counterclaim, if any, at the same time — although they could be filed on separate dates, as long as both are within the required time.\nUnder the Former Rules, rule 93(4) said that “the counterclaim shall be conjoined and",
+          "citations": [],
+          "review_flag": "The commentary is cut off after 383 characters: 'Under the Former Rules, rule 93(4) said that “the counterclaim shall be conjoined and' - the quotation and the rest are not in the file. The first paragraph ('Rule 3.57 requires a counterclaim to be filed within the same period as a statement of defence ... they could be filed on separate dates, as long as both are within the required time') agrees with 3.57(c) and with Book A's note ('can be a separate document')."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the labels '[Technical Rules]', '[Pleadings]' and '[Statement of defence]' are printed as in Book A but '[Pleadings]' is displaced after 'Division 3 , and' and '[Statement of defence]' after 'rule 3.31(2) .' on the next line; 'plaintiff-by-' and 'counterclaim' are separated by a line break. The amendment note '[Alta. Reg. 124/2010, r. 3.57 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6667,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "official 3.57(c) is not complete in this record's text: it reads '(c) be filed and served on the defendant-by-counterclaim within the' and then '*statement of defence under rule 3.31(2) [Statement of defence].' - the words 'same time period that the plaintiff-by-counterclaim must file a' are printed at p.3-126 line 3545 in the built 3.56 record (displaced by the extraction; not lost from the book). Otherwise the same wording as official 3.57(a)-(c) (read by eye) except: the bracket labels '[Technical Rules]' after 'Part 13' and '[Statement of defence]' after 'rule 3.31(2)' (both match the official headings/title) and the text is printed in pieces out of order ((a) then 'Division 3 [Pleadings], and' at line 3550, then (b) at line 3551); the title in title case ('Contents of Counterclaim', printed in the 3.56 record); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker. No other difference."
+    },
+    "BOOK_B": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the labels '[Technical Rules]', '[Pleadings]' and '[Statement of defence]' are printed as in Book A but '[Pleadings]' is displaced after 'Division 3 , and' and '[Statement of defence]' after 'rule 3.31(2) .' on the next line; 'plaintiff-by-' and 'counterclaim' are separated by a line break. The amendment note '[Alta. Reg. 124/2010, r. 3.57 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.57",
+      "title_official": "Contents of counterclaim"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "8cf16b59dc41a8be1f17e30fd35310cb8170e3120fd13bb15294ea28f069f578",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-126",
+            "3-127"
+          ],
+          "offset_in_clean_text": [
+            399471,
+            403455
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "a0b6add2553de0b04fd963914c4b39e7d11193cad58e06ce1717831fd5bf2668",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "1daa8eed6eda4680957b5c5c9177e288aea1f662960779cd0db0e60947bf85bf",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "7689dcc60a5f0ba8ae80d03392e694bf33afaff7d136338099e06729624f7fab",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            72
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c800b4ed021097d8aace53964818b2d08a79a2cd861b3d28e99d1d790c03316b"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.57 BOOK_C commentary sentence split dropped",
+    "3.57 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.57 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.57 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

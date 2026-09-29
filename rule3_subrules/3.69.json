@@ -1,0 +1,241 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.69",
+  "title": {
+    "official": "Joining claims",
+    "variants": {}
+  },
+  "division": {
+    "number": 6,
+    "heading": "Refining Claims and Changing Parties"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Joining and Separating Claims and Parties"
+  },
+  "operative_text": {
+    "controlling": "3.69(1)  A party may join 2 or more claims in an action unless the\nCourt otherwise orders.\n(2)  A party may sue or be sued in different capacities in the same\naction.\n(3)  If there is more than one defendant or respondent, it is not\nnecessary for each to have an interest\n(a) in all the remedies claimed or sought, or\n(b) in each claim included in the action.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "64734bd6d0a3dfc6c6487772c7e86658cbea0aef0789d7c19d1f126745af70a1"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.69 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          78
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Joining Claims",
+      "operative_text_raw": null,
+      "operative_text_sha256": "cf0a9e5c9a22822207a7adf447fa3c855185fec255ce6140e3b070915a3d4a37",
+      "defined_terms": "claim, Court, defendant, party",
+      "related_provisions": "2.6 (representative actions);2.9 (class actions);12.9 (joining claim for divorce and matrimonial property);12.10 (joining claim for unjust enrichment);12.13 (joint claims for divorce);14.9 (joinder of appeals). *A.Introduction There should not be as many separate lawsuits as there are parties or causes of action. Though the language is permissive, in most cases it is preferable to read \"may\"as \"should,\" because it is usually to everyone's benefit to keep things together.Accordingly, defendants should be left in an action unless they can demonstrate that they should be treated separately.From a plaintiff's perspective, this will help avoid the pitfalls of inadvertent election, release or waiver. *B.Standing *1.References Who has enough standing to sue or be a party is considered in Chapters 7 and 8 of the Civil Procedure Encyclopedia, and Rr.2.10 n.C, 3.68 n.D.4 and 3.69 n.B above. *2.Nature of Standing or Interest The basic rule is that a plaintiff needs some legitimate right or interest, and that an unaffected busybody cannot sue. A person without standing cannot apply to the court or sue, e.g.for child guardianship. There is a considerable discussion of standing (private vs.public), in theReece No standing means this topic is not the plaintiff's business. case. Public interest standing needs a serious justiciable issue. Usually whether a plaintiff has standing is best decided conclusively at the early stage, not after pleadings, discovery, evidence, experts, and a trial, all of which would be wasted if there were no standing.Here the judge was not asked to decide standing only on an interim basis, nor to decide merely that it was not obviously absent.It was proper to make the decision on standing permanent. The laws of standing are purposive, and balance access to justice with conservation of judicial resources.Existence of a parallel claim is not conclusive, and if the question is alternative avenues of challenge, they must be practical, and dangers must be weighed. See also R.2.10 n.C. A non-profit body concerned with the welfare of certain classes of person can be the sole plaintiff in a suit over the constitutionality of certain legislation, and get public interest standing. The court has a discretion whether to allow this, and can revisit the question later in the suit.The 6Reference re Greenhouse Gas Pollution Pricing Act (#5?)2019 ABCA 361, Edm 1903 0157 AC (one JA Oct 3). 7Leon's Furniture v. Info. & Privacy Comm'r.2011 ABCA 94, 502 AR 110;Ont. Enr. Bd.v.PowerWorkers' *U.(Ont. Power Generation)2015 SCC 44, [2015] 3 SCR 147. 8A.-G.Alta. v.Malin2016 ABCA 396, 406 DLR(4th) 368 (¶'s 65-70). 9Zoocheck Can.v.Min. of Agric.2019 ABCA 208, Edm 1703 0244 AC (¶'s 19-24). another party's right of action. That issue is important, but seemsto be lost sight of in many cases decided outside Qu?bec. to intervene or otherwise take part are not necessarily full parties. plaintiff needs genuine interest and must not be a busybody.The suit needs all those directly intended to be heard.Important are whether there is any other good way to litigate the issue, and In Qu?bec, standing is not procedural, and requires a substantive right to enforce, a \"sufficient whether the plaintiff likely can prosecute thesuit and present it in a well-developed, concrete, factual setting.Lack of evidence is very important in some lawsuits, which turn on individual facts. Others do not. interest\". The plaintiff under trial law must plead and prove facts to establish that. TheSupreme Court defined\"sufficient interest\" for standing as something direct and personal, not based on 4Brunette v. Legault,supra. 5On judgment creditors and assignees, see R.4.34 andQualiglass Hldg.v.Zurich Indem.Co. of Can.2004 ABQB 577, 368 AR 171. 2No?l v. Soc.d'?nergie de la Baie James2001 SCC 39, [2001] 2 SCR 207;Brunette v.Legault Joly The common law on standing is not abolished by references in the Rules to\"a person adverse in interest\".Not everyone who chooses to participate is a person interested, and persons allowed *Thiffault2018 SCC 55, [2018] 3 SCR 481. Public interest and special viewpoints often arise when some non-profit or government body or *3.The FirstTribunal's Standing has ruled on a matter has no such stake or interest, only a duty.Nor is his appeal a reasonable The standing in court of a tribunal, under appeal or judicial review, is discussed. Public interest standing to appeal requires a real stake or genuine interest in the case, and a judge of a court who and effective way to bring the matter before the courts, which is the final test for public interest standing. *4.Public Interest official seeks to intervene in an existing lawsuit or appeal.See Rr.2.10, and 14.58.A different topic is a request by such a body to the court to let itstarta court proceeding, especially where there is likely no one with standing to raise the topic.A strict test is necessary, to prevent overburdening the courts, especially with busybody plaintiffs, and to keep courts within their constitutional limits. The branches of the test are a serious justifiable issue, a real stake or genuine interest on the part of the proposed plaintiff, and whether this is a reasonable and effective way to get the matter before the courts. 1A.-G.B.C. v.Council of Cdns.With Disabilities2022 SCC 27. 3Brunette v. Legault,supra. 7N.E.Bottle Depot v. Beverage Container Mgmt.Bd.2000 ABQB 572, 269 AR 248.But would it not depend on the circumstances?Would a competitor a mile away have standing in a planning dispute over sideyard setbacks? 8MacDonald v. Alta.Health Serv.2013 ABQB 404, 565 AR 216. 9Downtown Eastside SexWorkers Utd. AgainstViolence Socy.v. A.-G.Can.2012 SCC 45, [2012] 2 SCR 524;cf.Scenic Acres Comm'y. Assn.v. Calgary (City)2015 ABQB 586, 40 MPLR(5th) 239. An association is often held to have standing where most or all of its members would be affected and so themselves have standing. Taxpayers of a municipality have always been held to have a sufficient interest to sue for wrongful waste of the municipality's funds. 10Nette v. Stiles (#4)2012 ABQB 290, 540 AR 24. 4Tran v.College of Physicians & Surgeons2017 ABQB 337, 55 Alta LR(6th) 310. *5.Examples AR 280.A Society of various entities interested in land planning, had standing, a genuine interest, and was only the effective way to litigate the question;developers would be in danger if they sued directly!Urban *Dev.Inst. v.Leduc (City)2006 ABQB 62, 399 AR 357.A union or professional association can sue for a declaration even if its member also sues.Public interest standing is discretionary and generous, and unions can often sue to defend their individual members'interests.Litigation is expensive, and having one's union litigate for one is effective.The union is not a busybody:Health Sci.Assn. v.Alta. College of Paramedics 2016 ABQB 723, 2016 CarswellAta 2481, JCE 1503 19424 (Dec 22) (¶'s 63-77). 3Remmers v.Lipinski (Vogel v.Hall)2001 ABCA 188, 293 AR 156,leave den(SCC 2002) 317 AR 218. Where any decision would affect Alberta Children andYouth Services, and where if a new hearing was ordered they would have to be a party, an application by them to be made a party to the appeal was granted: *Silverman v. Human Rts.Comm.2012 ABCA 276, [2012] AR Uned 425 (one JA Sep 21). 5Oommen (Chapman Est.) v. Ramjohn (#1)2015 ABCA 34, 593 AR 376 (one JA),leave den2015 ABCA 58,leave den(SCC 13 Aug '15). 6A.-G.Can. v.183358982023 ABKB 357, JCE 2303 08199 (AJ Jun 14). 1or allowed to intervene. 381 (one JA).Yet cf.the surprising decision inT.-D.Bank v. Real Est.Council of Alta.2002 ABQB 69, 316 2Urban Dev.Inst. v.Rockyview (M.D.)2002 ABQB 651, 321 AR 253;Urban Dev. Inst.v.Leduc (City)2006 ABQB 62, 399 AR 357.Cf.Imp. Oil v.R. (Lynnview Ridge Residents'Assn.)2005 ABCA 375, 376 AR on behalf of the estate without a lawyer, even if he has self-appointed himself as litigation tax Assessment. procedural unfairness before the discipline body. Where there have been no letters probate yet, one of two co-executors cannot alone sue representative. National Revenue or)",
+      "commentary": "Attorney General Canada would not be a creditor until there was an official\n\nthe obstetrical unit at one hospital, one local physician had standing as a person aggrieved and\n\nConversely, in a professional discipline matter, the complainant has no more interest in the\n\nmerits than any other member of the public, and has standing to go to court only on questions of A creditor would have standing to move to revive a dissolved company, but the (Minister of A competitor has standing, in a judicial review motion? When there were proposals to close could be heard.\n\nA person may not have standing to take part in this litigation just because there was parallel litigation and it raises many of the same issues, especially where the existing parties have capacity to run the litigation. A contingent commercial interest is not enough, especially where a quasi- insurer previously elected not to take part in the suit against its member.\n\ndifferent defendants.\n\n*6.Procedure\n*C.Derivative Suits\n750, 336 AR 219. 9Goska Nowak P.C.v.Robinson2011 ABQB 385, 16 CPC(7th) 134;1036122 Alta. v.Khurana2010 ABQB 490, 498 AR 183,revd2012 ABCA 10, 519 AR 221. 10Quite similar to previous 1968 R.36, 46.It came from 1944 C.R.48.The origin was the 1896 amendment to Eng.O.16 r.1 to counteract decisions in the 1890's requiring that the same relief be claimed against the\n\nSometimes the question of standing is not clear enough on the existing record for a summary decision.\n\na claim because it is not based on a firm evidentiary or factual record, is not under paragraph (2) (b) either, as the cause of action might be a recognized one, but raised in the abstract, so then there is no bar to evidence.\n\napplications.A challenge to the plaintiff's standing is not primarily under R.3.68(2)(b) (\"no reasonable claim or defence\"), and so there is no bar to hearing evidence.Without standing no issues can be raised, and the most appropriate remedy is a stay.And an application to strike out\n\nOne should distinguish derivative, collective, and combined claims. If the suit is brought under theBusiness Corporations Act, the proposed plaintiff must be a\"complainant\"under that Act,\n\nthe directors must have got notice, the application for the suit must be in good faith, and the suit must be in the company's best interests. \"Good faith\"means merely not frivolous or vexatious, objectively or subjectively. \"Best interests\" involves likelihood of success whether the suit would be economical, whether it would alienate customers or harm the company's reputation. On a\n\nderivative company suit and overlap with a parallel suit, see theWinfieldcase.\n\n41719349 Alta.v.1824766 Alta.2023 ABKB 207, JCC 2101 04454 (Apr 12) (¶ 27).\n\n3Lameman v. A.-G.Can.(Papaschase I.B.v.R.) (#1)2004 ABQB 655, 365 AR 1.\n\n7Winfield v. Daniel2004 ABQB 40, 21 Alta LR(4th) 337. 8Dix v. R.2001 ABQB 256, 290 AR 281.The opposite seems to be true in Alberta:Apotex v.R.2003 ABQB\n\nRule 3.68(1) is not limited to striking out claims;paragraph (d) allows stays of actions or *D. Miscellaneous On how to sue the federal government under theCrown Liability Proceedings Act,see theDix\n\ncase. On problems of a suit by a company then struck off but later revived, see theGoskaand *Khuranacases. *Parties Joining to Bring Action\n*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-219",
+          "3-223"
+        ],
+        "offset_in_clean_text": [
+          743329,
+          755980
+        ]
+      },
+      "operative_text_note": "same wording as official 3.69(1)-(3) (read by eye) except: the text is printed in pieces ((1) ends at p.3-219 line 7119 'unless the Court otherwise', 'orders.' begins line 7120, (3)(b) is line 7121); the footnote markers '8' (after (1)) and '9' (after (3)(b)); the title in title case ('Joining Claims'); the Division 6 and Subdivision 1 headings printed before the title (match the official Division 6 and Subdivision 1); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces (p.3-220, lines 7128-7133), kept here verbatim because Book A's footnotes are not split out: '2Onischuk v.R.2013 ABCA 129, Calg 1201 0014 AC (Apr 22). 3J.W.v. J.C.2003 ABCA 348, 346 AR 128;Robertson v.Edm. Police Service2006 ABCA 302, 401 AR 49. Except to open up defaults:see R.9.5n. 4Reece v. Edmonton (City)2011 ABCA 238, 513 AR 199,leave den(SCC 26 Apr '12). 5A.U.P.E.v. R.(Alta.)2021 ABCA 416, Edm 2103 0148 AC (Dec 14) (¶ 17),leave den(SCC 4 Aug '22). 6A.U.P.E.v. R.(Alta.),supra(¶ 27). 7A.U.P.E.v. R.(Alta.),supra(¶'s 23-25). 8Downtown E.Side SexWorkers v. A.-G.Can.2012 SCC 45, [2012] 2 SCR 524 (¶'s 23, 62-72). 1See the C.P.E., Chapter 10; Abrams and McGuinness,Canadian Civil Procedure Law, 166 ff.(2nd ed.2010); Hals.Laws of Canada,Civil Procedure, 302 ff.(2d reissue 2012).' (footnotes 2-8 and 1 of this rule's note; the first begins with footnote 2 (Onischuk) and the last with footnote 1 ('See the C.P.E., Chapter 10 ...')). This rule's own history footnotes 8 ('Quite similar to previous 1968 R.32. It came from the Common Law Procedure Act, 1852 s.41, via 1883 O.' completed by the fragment '18 r.1, pt.Judic.Ord.r.79, 1914 R.11, and 1944 C.R.44.') and 9 ('Quite similar to previous 1968 R.47's beginning. It came from 1914 R.25; from 1944 C.R.58; Judic.Ord.r. 30; Eng.O.16 r.5.') are printed at p.3-219 (lines 7091 and 7097) inside the built 3.68 record and are kept there. The history footnote 10 (p.3-223, '1968 R.36, 46 ... 1944 C.R.48 ... 1896 amendment to Eng.O.16 r.1') follows the marker '10' in the 3.70 text and is 3.70's.",
+      "commentary_review_flag": "Read in full, p.3-219 (line 7119) to p.3-223 (line 7263): rule text, Information Note, Defined Terms 'claim, Court, defendant, party', Related Provisions and the note (A Introduction; B Standing (1 References, 2 Nature of Standing or Interest, 3 The Tribunal's Standing, 4 Public Interest, 5 Examples, 6 Procedure); C Derivative Suits; D Miscellaneous), with footnotes as printed. The built record: defined_terms, related_provisions (8,063 characters: the Related Provisions and most of the note) and the commentary field (3,272 characters: the later pieces of B.5 and B.6 and C-D); the raw-text field held footnote blocks (kept in the text note); the information note is Book A's copy (Book C's copy sits in its commentary and was merged). The extraction interleaves the columns and footnotes on pp.3-220 to 3-223 so that many sentences are split across lines that are not adjacent (e.g. B.4 and B.5 print their sentences in the order 7215-7227 out of sequence); the wording is kept as printed and the order of the pieces was not repaired. The footnote markers of the note are printed as digits in the text and their pairing with pages 3-220 to 3-223 was not reconstructed. (1) Related Provisions read against the official titles: '2.6 (representative actions)' agrees with the official 2.6 'Representative actions'; '2.9 (class actions)' (official 'Class proceedings practice and procedure'); '12.9 (joining claim for divorce and matrimonial property)' (official 'Starting combined proceeding under Divorce Act (Canada)'); '12.10 (joining claim for unjust enrichment)' (official 'Action for unjust enrichment'); '12.13 (joint claims for divorce)' (official 'Joint proceeding under Divorce Act (Canada)'); '14.9 (joinder of appeals)' (official 'Appeals from several decisions'). The five labels are paraphrases, not the official titles. (2) Information Note: 'This rule and the following rules of this Division apply to all actions, whether started by statement of claim or by originating application' is not in the official text of 3.69-3.77 as searched for these words in Alberta_Rules_of_Court.txt (the words 'apply to all actions, whether' occur only in Book A's combined rule3.txt, once); 3.70 speaks of 'originating applicant' and 'respondents'. (3) Statements read against the official text: 'Though the language is permissive, in most cases it is preferable to read \"may\" as \"should\"' is Book A's gloss on 3.69(1) ('may join ... unless the Court otherwise orders'); Book B's commentary says the opposite emphasis ('it does not require him to do so'; the plaintiff may claim alternative remedies and is not put to his election) - not reconciled: Book B quotes cases under former Rule 32, Book A's note is not attributed to a case. 'R.3.68(2)(b) (\"no reasonable claim or defence\")' agrees with official 3.68(2)(b) ('discloses no reasonable claim or defence to a claim'); 'Rule 3.68(1) is not limited to striking out claims; paragraph (d) allows stays of actions' agrees with official 3.68(1)(d) ('an action, an application or a proceeding be stayed'); 'subrule (1) or subrule 2(d)' and 'paragraph (2)(b)' in the D. Miscellaneous passage refer to 3.68. (4) Pointers: 'Rr.2.10 n.C, 3.68 n.D.4 and 3.69 n.B above' - official 2.10 is 'Intervenor status' and 14.58 (cited as 'See Rr.2.10, and 14.58') is 'Intervenor status on appeal' (both agree with the topic); 3.68 n.D.4 - the 3.68 note D (No Cause of Action, line 5613 to E at line 6032) has a heading '4.Bad Claims' at p.3-190 (line 5924), and its passage (b) 'Application to a Specific Party' says 'see subpart D.4 below, and R.3.69n.' (p.3-187, line 5789), so the two notes point at each other (whether the 3.68 heading D.4 is about standing was not read closely); '3.69 n.B above' points at the note in which it is printed (B.1 References) - a self-reference, not resolved. 'Except to open up defaults: see R.9.5n.' - official 9.5 is 'Entry of judgments and orders'; setting aside default is 9.15 in the official text (see the 3.36 flag) - the pointer does not describe 9.5 (R.9.5n. not opened). 'On judgment creditors and assignees, see R.4.34' - official 4.34 is 'Stay of proceedings on transfer or transmission of interest' (agrees in substance for assignees; not opened). 'See also R.2.10 n.C' and 'R.14.58' exist; the R.2.10 note was not opened. (5) Other rules' pointers to this rule: Book A 3.68 note (line 5789) 'R.3.69n.' (see (4)). Book A prints the header 'R.3.69(3)' on pp.3-220 to 3-222 and 'R.3.70(1)' at p.3-223; the 3.70 text and its title 'Parties Joining to Bring Action' are printed at lines 7262-7264 inside this record, and footnotes 1, 2, 5 and 6 of p.3-223 ('Warman v. Law Socy. of Alta. 2015 ABQB 230'; 'A.U.P.E. v. R. (Alta.) 2021 ABCA 416'; two 'id.' notes) are printed at line 7264 in the built 3.70 record (footnotes 3-4 and 7-10 of that page are at lines 7240-7258, in this record). (6) The cases in the note (Reece v. Edmonton 2011 ABCA 238, A.U.P.E. v. Alberta 2021 ABCA 416, Downtown Eastside Sex Workers 2012 SCC 45, Zoocheck 2019 ABCA 208, Nette v. Stiles 2012 ABQB 290, Urban Dev. Inst. v. Leduc 2006 ABQB 62, Winfield v. Daniel 2004 ABQB 40 and others) were not checked; 'Qu?bec', 'No?l', '?nergie' print a '?' for an accented letter (an extraction fault, not a difference in the book); 'Reece No standing means this topic is not the plaintiff's business. case.' is a marginal comment displaced into the sentence; 'Would a competitor a mile away have standing in a planning dispute over sideyard setbacks?' and 'But would it not depend on the circumstances?' are the authors' questions."
+    },
+    "BOOK_B": {
+      "title": "Joining claims",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.69:1",
+          "text": "Rule 3.69 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.69. 1. Permissive Nature of Rule Rule 32 allows a plaintiff to unite several causes of action in one action. However it does not require him to do so. Bank of Nova Scotia v. Guenette (1986), 75 A.R. 361 at 368 (Master). One action may contain alternative claims based on different causes of action. See Elliott v. Barry (1920), 15 Alta. L.R. 329 (C.A.). Also, Hyndman J.A. said: I had thought that there was no doubt about the right to rely upon and claim several different rights “alternatively although they may be inconsistent”… … the plaintiff may claim alternative remedies and is not put to his election until his right to relief is established either after default of defence when he may prove for judgment, or after the evidence is concluded on a trial. Campbell v. Munro (1922), 17 Alta. L.R. 272 at 275, 276 (C.A.). Where a plaintiff was suing in contract on six separate invoices, including interest charges, Master Funduk stated: I have already concluded that each is a separate contract. The plaintiff is uniting six causes of action in this action, which is permissible: R. 32. Satelite Painting Enterprises Ltd. v. Yukon Trailer Service Ltd. (1992), 85 Alta. L.R. (2d) 328 at 331 (Master)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_69_001",
+        "part3_part_3_court_actions_008",
+        "part3_rule_3_69_002",
+        "part3_part_3_court_actions_010"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part09_document.json"
+        ]
+      },
+      "operative_text_sha256": "9abaa7ab3abf3510c866f6253e3e671b8db07e23181cb522b4ce71aa235a903b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Joining claims",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "a54cc5d5fa2f73567af83077fd31cfb4846b7c8570721cfc3c921f98210758cc",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General",
+          "text": "It is permissible to include different claims in the same pleading if they arise out of the\nInformation Note This rule and the following rules of this Division apply to all actions, whether started by statement of claim or by originating application.",
+          "citations": [],
+          "review_flag": "(1) The commentary is cut off: 'It is permissible to include different claims in the same pleading if they arise out of the' (the page end) is followed directly by Book C's copy of the information note ('Information Note This rule and the following rules of this Division apply to all actions, whether started by statement of claim or by originating application.'), which is the same as Book A's information note; the rest of the sentence is not in the file. (2) The first sentence agrees in substance with official 3.69(1) ('may join 2 or more claims in an action') and, by its last words, is the start of a statement about the same transaction or occurrence (compare the official 3.70(1)(a)); it is not in Book A or Book B (searched: combined rule3.txt and rule3_part09_document.json for 'permissible to include different claims': none)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "161-180_3_67 to 4_7.json",
+        "source_file": "161-180_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): in (1) the number '2' is missing ('A party may join [ ] or more claims') and this citation stands there: 'C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.).'; (2) and (3) equal the official text. The amendment note '[Alta. Reg. 124/2010, r. 3.69 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation).",
+      "citations_note": "C. (L.) v. Alberta, 2011 ABQB 12 (para. 103) is not a 3.69 authority: it stands where the number '2' is lost in 3.69(1) and is displaced in the same way in Book C's 3.70 entry (twice) and in the entry that follows (searched all root *.json and *.txt: the string 'C. (L.) v. Alberta' occurs 25 times in the 161-180 file, 7 times in the 81-100 file and 3 times in rule1_split_document.json (occurrences counted, not lines); the same decision as 'L.C. v. R. (Alta.) 2011 ABQB 12, 509 AR 43' is cited in Book A combined rule3.txt line 602, an earlier rule, so it is a real authority elsewhere in the packet); its role in Book C's 3.69 source is not shown in the file."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.4522,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.69(1)-(3) (read by eye) except: the text is printed in pieces ((1) ends at p.3-219 line 7119 'unless the Court otherwise', 'orders.' begins line 7120, (3)(b) is line 7121); the footnote markers '8' (after (1)) and '9' (after (3)(b)); the title in title case ('Joining Claims'); the Division 6 and Subdivision 1 headings printed before the title (match the official Division 6 and Subdivision 1); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces (p.3-220, lines 7128-7133), kept here verbatim because Book A's footnotes are not split out: '2Onischuk v.R.2013 ABCA 129, Calg 1201 0014 AC (Apr 22). 3J.W.v. J.C.2003 ABCA 348, 346 AR 128;Robertson v.Edm. Police Service2006 ABCA 302, 401 AR 49. Except to open up defaults:see R.9.5n. 4Reece v. Edmonton (City)2011 ABCA 238, 513 AR 199,leave den(SCC 26 Apr '12). 5A.U.P.E.v. R.(Alta.)2021 ABCA 416, Edm 2103 0148 AC (Dec 14) (¶ 17),leave den(SCC 4 Aug '22). 6A.U.P.E.v. R.(Alta.),supra(¶ 27). 7A.U.P.E.v. R.(Alta.),supra(¶'s 23-25). 8Downtown E.Side SexWorkers v. A.-G.Can.2012 SCC 45, [2012] 2 SCR 524 (¶'s 23, 62-72). 1See the C.P.E., Chapter 10; Abrams and McGuinness,Canadian Civil Procedure Law, 166 ff.(2nd ed.2010); Hals.Laws of Canada,Civil Procedure, 302 ff.(2d reissue 2012).' (footnotes 2-8 and 1 of this rule's note; the first begins with footnote 2 (Onischuk) and the last with footnote 1 ('See the C.P.E., Chapter 10 ...')). This rule's own history footnotes 8 ('Quite similar to previous 1968 R.32. It came from the Common Law Procedure Act, 1852 s.41, via 1883 O.' completed by the fragment '18 r.1, pt.Judic.Ord.r.79, 1914 R.11, and 1944 C.R.44.') and 9 ('Quite similar to previous 1968 R.47's beginning. It came from 1914 R.25; from 1944 C.R.58; Judic.Ord.r. 30; Eng.O.16 r.5.') are printed at p.3-219 (lines 7091 and 7097) inside the built 3.68 record and are kept there. The history footnote 10 (p.3-223, '1968 R.36, 46 ... 1944 C.R.48 ... 1896 amendment to Eng.O.16 r.1') follows the marker '10' in the 3.70 text and is 3.70's."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.85,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.69",
+      "title_official": "Joining claims"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "cf0a9e5c9a22822207a7adf447fa3c855185fec255ce6140e3b070915a3d4a37",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-219",
+            "3-223"
+          ],
+          "offset_in_clean_text": [
+            743329,
+            755980
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "9abaa7ab3abf3510c866f6253e3e671b8db07e23181cb522b4ce71aa235a903b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part09_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "a54cc5d5fa2f73567af83077fd31cfb4846b7c8570721cfc3c921f98210758cc",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "161-180_3_67 to 4_7.json",
+          "source_file": "161-180_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "64734bd6d0a3dfc6c6487772c7e86658cbea0aef0789d7c19d1f126745af70a1",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            78
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "ce96a1c9656960af083ec403eeb8e108e3e802659fc79dd340778b1141305f62"
+  },
+  "information_notes": [
+    {
+      "text": "This rule and the following rules of this Division apply to all actions, whether started by statement of claim or by originating application.",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "dedupe_log": [
+    "3.69 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.69 BOOK_C citation context dropped (2011 ABQB 12): verbatim in kept text",
+    "3.69 BOOK_C commentary sentence split dropped",
+    "3.69 BOOK_C: rule text dropped (manual review)",
+    "3.69 BOOK_C: displaced citations dropped ['2011 ABQB 12'] (manual review)",
+    "3.69 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.69 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

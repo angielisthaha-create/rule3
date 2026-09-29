@@ -1,0 +1,214 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.52",
+  "title": {
+    "official": "Consequences of not filing third party statement of defence",
+    "variants": {
+      "BOOK_A": "Consequences of Not FilingThird Party Statement of Defence"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.52(1)  If a third party defendant does not file a statement of\ndefence disputing the liability of the defendant to the plaintiff, the\nthird party defendant admits the validity of any judgment that the\nplaintiff obtains against the defendant, whether obtained by\nagreement or otherwise.\n(2)  If a third party defendant does not file a statement of defence\ndisputing the third party defendant’s liability to the third party\nplaintiff under the third party claim, the third party defendant\nadmits liability to the extent claimed in the third party claim.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "2f0896a46424c9a80cd6b37dfe78f83b8390c944b90cc460dd5fbce2b48b4ac5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          71
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Consequences of Not FilingThird Party Statement of Defence",
+      "operative_text_raw": null,
+      "operative_text_sha256": "3fa550b12af54c9a6ae53cd7dd610c3fefe4c3af4874b437f432f16c79f1c362",
+      "defined_terms": "file, judgment, plaintiff, third party defendant, third party plaintiff",
+      "related_provisions": "3.31 (statement of defence)",
+      "commentary": "1Quite similar to previous 1968 R.74.It came from English O.16A, rr.6, 12, and Judic.Ord.rr 63, 168.Like 1914 R.54 (first sentence), and 1944 C.R.86.\n\n*Judgment AgainstThird Party Defendant\n*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-122",
+          "3-123"
+        ],
+        "offset_in_clean_text": [
+          389297,
+          390175
+        ]
+      },
+      "operative_text_note": "same wording as official 3.52(1)-(2) (read by eye) except: the text is printed in two pieces (p.3-122 lines 3458 and 3459); straight apostrophe in 'defendant's' in (2); the title in title case ('Consequences of Not Filing Third Party Statement of Defence', printed before the rule number); missing spaces; '*' line marks; the footnote markers '1' (after (1), before '(2)') and '2' (after (2)). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnotes 1 ('Quite similar to previous 1968 R.71(3). It came (via 1944 C.R.84) from 1914 R.52. Cf. Judic. Ord. r.61, Eng. O.16A r.5.') and 2 ('Quite similar to previous 1968 R.71(4). It came from 1944 C.R.84. Cf. Judic. Ord. r.61, Eng. O.16A r.5.') matching these markers are printed at p.3-122 line 3451 and are in the built 3.50 record.",
+      "commentary_review_flag": "Read in full, p.3-122 (lines 3458-3460): rule text (two pieces), Defined Terms 'file, judgment, plaintiff, third party defendant, third party plaintiff' (the Appendix defines each), Related Provisions '3.31 (statement of defence)' (matches the official 3.31 title); no Information Note and no note of its own. The built record: defined_terms and related_provisions; the commentary field holds only the history footnote 1 of the NEXT rule, 3.53 ('Quite similar to previous 1968 R.74. It came from English O.16A, rr.6, 12, and Judic.Ord.rr 63, 168. Like 1914 R.54 (first sentence), and 1944 C.R.86.'; p.3-123 line 3467; its marker '1' follows 3.53(2), line 3471) and the heading of 3.53 'Judgment Against Third Party Defendant'; nothing dropped. (1) History: this rule's own history footnotes 1 (1968 R.71(3), 1944 C.R.84, 1914 R.52) and 2 (1968 R.71(4), 1944 C.R.84) are in the built 3.50 record (markers after (1) and (2) here). (2) Book A prints no commentary for 3.52; Book B prints none (rule text only) and Book C prints none; Book B's 3.47 commentary (Herr v. Herr etc.) does not discuss 3.52. (3) Pointers to 3.52: none found by the cross-reference helper (official, all Book A, B, C files) other than the rule's own table-of-contents line."
+    },
+    "BOOK_B": {
+      "title": "Consequences of not filing third party statement of defence",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_52_001",
+        "part3_part_3_court_actions_014"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "1b317fbd1ec81bd84f75e89fda0d4ef1715dcf155db89de156faf8de90fe3fd1",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Consequences of not filing third party statement of defence",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "b2001dec8ded2da6e19b411b685b617d32dd9208601a8248086f51d10c364e9e",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (1) equals the official text; (2) breaks off after 'disputing the third party defendant's liability to the third party plaintiff under the third' (the page end); the rest of (2) ('party claim, the third party defendant admits liability to the extent claimed in the third party claim.') is missing. No amendment note (official 'AR 124/2010' only) and no commentary are printed for 3.52 in Book C."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8333,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.52(1)-(2) (read by eye) except: the text is printed in two pieces (p.3-122 lines 3458 and 3459); straight apostrophe in 'defendant's' in (2); the title in title case ('Consequences of Not Filing Third Party Statement of Defence', printed before the rule number); missing spaces; '*' line marks; the footnote markers '1' (after (1), before '(2)') and '2' (after (2)). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnotes 1 ('Quite similar to previous 1968 R.71(3). It came (via 1944 C.R.84) from 1914 R.52. Cf. Judic. Ord. r.61, Eng. O.16A r.5.') and 2 ('Quite similar to previous 1968 R.71(4). It came from 1944 C.R.84. Cf. Judic. Ord. r.61, Eng. O.16A r.5.') matching these markers are printed at p.3-122 line 3451 and are in the built 3.50 record."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.8944,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (1) equals the official text; (2) breaks off after 'disputing the third party defendant's liability to the third party plaintiff under the third' (the page end); the rest of (2) ('party claim, the third party defendant admits liability to the extent claimed in the third party claim.') is missing. No amendment note (official 'AR 124/2010' only) and no commentary are printed for 3.52 in Book C."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.52",
+      "title_official": "Consequences of not filing third party statement of defence"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "3fa550b12af54c9a6ae53cd7dd610c3fefe4c3af4874b437f432f16c79f1c362",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-122",
+            "3-123"
+          ],
+          "offset_in_clean_text": [
+            389297,
+            390175
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "1b317fbd1ec81bd84f75e89fda0d4ef1715dcf155db89de156faf8de90fe3fd1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "b2001dec8ded2da6e19b411b685b617d32dd9208601a8248086f51d10c364e9e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "2f0896a46424c9a80cd6b37dfe78f83b8390c944b90cc460dd5fbce2b48b4ac5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            71
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "40711f01f78ddd415e39cd0e53293aef72252a84d5ccc52386266949368cb468"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.52 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.52 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.52 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,308 @@
+=====3.1
+  A none
+  B OK 129 [('delete', '31', '')]
+  C OK 129 [('delete', '31', '')]
+=====3.2
+  A OK 2248 [('insert', '', '1mdfarmvmanagriccrcorp2scr9612')]
+  B OK 1962 [('delete', '32', '')]
+  C OK 1978 [('delete', '32', ''), ('delete', 'rule', ''), ('insert', '', '2georgeewoodbineedca1250brac'), ('insert', '', 'non'), ('insert', '', 'lawsand'), ('insert', '', 'ust'), ('insert', '', 'msofenglandvol'), ('insert', '', 'me2t')]
+=====3.3
+  A OK 771 []
+  B OK 768 [('delete', '33', '')]
+  C OK 768 [('delete', '33', '')]
+=====3.4
+  A OK 1541 [('insert', '', '1quitesimilartoprevious1981r23')]
+  B OK 1246 [('delete', '34', '')]
+  C OK 1359 [('delete', '34', ''), ('delete', 'adefendantadefendantmaybymakin', ''), ('replace', 'equestinform6requirethecourtcl', '3350'), ('insert', '', 'regularvregularajno'), ('insert', '', '422016abqb570atpara9altaqbthef')]
+=====3.5
+  A OK 210 []
+  B OK 207 [('delete', '35', '')]
+  C OK 182 [('delete', '35', ''), ('delete', 'battherequestoftheparties', '')]
+=====3.6
+  A OK 417 [('replace', 'e', 'at')]
+  B OK 413 [('delete', '36', '')]
+  C OK 366 [('delete', '36', ''), ('delete', 'biftheactionistransferredinacc', '')]
+=====3.7
+  A OK 413 []
+  B OK 411 [('delete', '37', '')]
+  C OK 411 [('delete', '37', '')]
+=====3.8
+  A LONG 949 []
+  B OK 399 [('delete', '38', '')]
+  C OK 173 [('delete', '38', ''), ('delete', '2ifanaffidavitisfiledtosupport', '')]
+=====3.9
+  A OK 220 []
+  B OK 217 [('delete', '39', '')]
+  C LONG 537 [('delete', '39', ''), ('insert', '', 'regularvregularajno')]
+=====3.10
+  A OK 328 []
+  B OK 325 [('delete', '310', '')]
+  C none
+=====3.11
+  A OK 930 []
+  B OK 926 [('delete', '311', '')]
+  C OK 788 [('delete', '311', ''), ('delete', 'reasonabletimebeforetheorigina', '')]
+=====3.12
+  A LONG 807 []
+  B OK 187 [('delete', '312', '')]
+  C OK 187 [('delete', '312', '')]
+=====3.13
+  A LONG 1115 []
+  B OK 584 [('delete', '313', '')]
+  C OK 584 [('delete', '313', '')]
+=====3.14
+  A OK 1264 [('delete', 'written', ''), ('insert', '', '3campbellvchiefelectoraloffice'), ('insert', '', '1baralotintcorpvrundledevcoop2')]
+  B OK 971 [('delete', '314', '')]
+  C OK 221 [('delete', '314', ''), ('delete', 'cifpart5appliesbyagreementofth', '')]
+=====3.15
+  A LONG 53649 [('delete', 'sought', '')]
+  B OK 1151 [('delete', '315', '')]
+  C OK 1132 [('delete', '315', ''), ('insert', '', 'regularvregularajno1042201'), ('insert', '', 'abqb570atpara5altaqb'), ('delete', 'partyonemonthormorebeforetheda', '')]
+=====3.16
+  A OK 310 []
+  B OK 307 [('delete', '316', '')]
+  C LONG 627 [('delete', '316', ''), ('insert', '', 'regularvregularajno')]
+=====3.17
+  A OK 146 []
+  B OK 143 [('delete', '317', '')]
+  C OK 143 [('delete', '317', '')]
+=====3.18
+  A OK 779 [('delete', 'tobeprovided', '')]
+  B OK 787 [('delete', '318', '')]
+  C OK 787 [('delete', '318', '')]
+=====3.19
+  A LONG 1625 [('insert', '', 'besentto')]
+  B OK 719 [('delete', '319', '')]
+  C OK 719 [('delete', '319', '')]
+=====3.20
+  A OK 626 [('delete', 's', '')]
+  B OK 623 [('delete', '320', '')]
+  C OK 623 [('delete', '320', '')]
+=====3.21
+  A LONG 534 []
+  B OK 155 [('delete', '321', '')]
+  C OK 155 [('delete', '321', '')]
+=====3.22
+  A OK 506 []
+  B OK 503 [('delete', '322', '')]
+  C OK 349 [('delete', '322', ''), ('delete', 'followingevidenceonlyathecerti', '')]
+=====3.23
+  A OK 289 []
+  B OK 285 [('delete', '323', '')]
+  C OK 285 [('delete', '323', '')]
+=====3.24
+  A OK 682 []
+  B OK 676 [('delete', '324', '')]
+  C OK 676 [('delete', '324', '')]
+=====3.25
+  A OK 147 []
+  B OK 144 [('delete', '325', '')]
+  C OK 149 [('delete', '325', ''), ('replace', '3', 'months')]
+=====3.26
+  A OK 333 []
+  B OK 329 [('delete', '326', '')]
+  C OK 322 [('delete', '326', ''), ('delete', 'months3', '')]
+=====3.27
+  A LONG 1908 []
+  B OK 867 [('delete', '327', '')]
+  C OK 867 [('delete', '327', '')]
+=====3.28
+  A OK 263 []
+  B OK 259 [('delete', '328', '')]
+  C OK 259 [('delete', '328', '')]
+=====3.29
+  A OK 220 []
+  B OK 216 [('delete', '329', '')]
+  C OK 207 [('delete', '329', ''), ('delete', 'orrule327', '')]
+=====3.30
+  A OK 218 []
+  B OK 214 [('delete', '330', '')]
+  C OK 165 [('delete', '330', ''), ('delete', 'cfileandserveastatementofdefen', '')]
+=====3.31
+  A OK 402 []
+  B OK 399 [('delete', '331', '')]
+  C OK 404 [('delete', '331', ''), ('replace', '3', 'months')]
+=====3.32
+  A OK 179 []
+  B OK 176 [('delete', '332', '')]
+  C OK 176 [('delete', '332', '')]
+=====3.33
+  A LONG 485 []
+  B OK 261 [('delete', '333', '')]
+  C OK 266 [('delete', '333', ''), ('replace', '3', 'months')]
+=====3.34
+  A OK 1282 [('insert', '', '1forageneraldiscussionofreplie'), ('insert', '', 'asscecovpocklingtonmaud769bnot'), ('delete', 'bnoticeoftheapplicationisserve', '')]
+  B OK 902 [('delete', '334', '')]
+  C OK 902 [('delete', '334', '')]
+=====3.35
+  A OK 1219 [('insert', '', '2ar3363seethecpechapter50partr'), ('insert', '', '1newellvnewell2007abca311425ar'), ('delete', 'etheplaintiffslawyerofrecordor', ''), ('insert', '', 'betheplaintiffslawyerofrecordo')]
+  B OK 1029 [('delete', '335', '')]
+  C OK 1029 [('delete', '335', '')]
+=====3.36
+  A LONG 1581 [('insert', '', 'rule')]
+  B OK 752 [('delete', '336', '')]
+  C OK 205 [('delete', '336', ''), ('delete', 'aenterjudgmentagainstthedefend', '')]
+=====3.37
+  A LONG 1065 [('delete', 'edismisstheclaimorapartofit', '')]
+  B OK 618 [('delete', '337', '')]
+  C OK 348 [('delete', '337', ''), ('delete', 'apronouncejudgmentbmakeanynece', '')]
+=====3.38
+  A LONG 1402 []
+  B OK 271 [('delete', '338', '')]
+  C OK 114 [('delete', '338', ''), ('delete', 'ofdefenceordemandfornoticethep', '')]
+=====3.39
+  A OK 1376 [('insert', '', 'calhoun2007abqb151427ar322'), ('insert', '', '5nunavutgovtvswoboda2017nuca67'), ('insert', '', 'd4seethecpechapter16partkforaf')]
+  B OK 955 [('delete', '339', '')]
+  C OK 851 [('delete', '339', ''), ('delete', 'anexp', ''), ('replace', 'essprovisionthatthesumthatisth', '339')]
+=====3.40
+  A LONG 366 [('delete', 'crule338', '')]
+  B OK 174 [('delete', '340', '')]
+  C OK 174 [('delete', '340', '')]
+=====3.41
+  A OK 290 []
+  B OK 286 [('delete', '341', '')]
+  C OK 107 [('delete', '341', ''), ('delete', 'pl', ''), ('replace', 'intiffmust', 'j'), ('replace', 'tethedefend', '7532020'), ('replace', 'ntindef', 'bc'), ('replace', 'u', '265a'), ('delete', 'beforefiling', ''), ('delete', 'nappli', '')]
+=====3.42
+  A OK 305 []
+  B OK 302 [('delete', '342', '')]
+  C OK 302 [('delete', '342', '')]
+=====3.43
+  A OK 1013 [('insert', '', 'propaksyssupra4tangvlabrocca19'), ('insert', '', '2amococanpetrvpropaksys2001abc')]
+  B OK 677 [('delete', '343', '')]
+  C OK 598 [('delete', '343', ''), ('delete', 'orthe', ''), ('insert', '', 'orthe'), ('insert', '', 'karasvmongeonajno2'), ('insert', '', '82018'), ('delete', 'claimundersu', ''), ('replace', 'rule', 'qb'), ('replace', 'mustbedetermined', '49')]
+=====3.44
+  A LONG 1138 [('delete', 'thedefendantor', '')]
+  B OK 515 [('delete', '344', '')]
+  C OK 515 [('delete', '344', '')]
+=====3.45
+  A OK 469 []
+  B OK 465 [('delete', '345', '')]
+  C OK 465 [('delete', '345', '')]
+=====3.46
+  A LONG 1917 [('delete', 'the', '')]
+  B OK 481 [('delete', '346', '')]
+  C OK 481 [('delete', '346', '')]
+=====3.47
+  A LONG 634 []
+  B OK 295 [('delete', '347', '')]
+  C OK 295 [('delete', '347', '')]
+=====3.48
+  A OK 124 []
+  B OK 121 [('delete', '348', '')]
+  C OK 121 [('delete', '348', '')]
+=====3.49
+  A OK 884 [('insert', '', '1altatreasbrsvtoth2006abqb8339'), ('insert', '', 'mustfileitandserveitoneachofth'), ('delete', 'mustfileitandserveitoneachofth', ''), ('delete', '3theapplicabletimeisa20daysifs', '')]
+  B OK 752 [('delete', '349', '')]
+  C OK 114 [('delete', '349', ''), ('delete', 'cmaydisputeeitherorbothofthefo', '')]
+=====3.50
+  A OK 547 [('insert', '', '1quitesimilartoprevious1968r71')]
+  B OK 392 [('delete', '350', '')]
+  C OK 392 [('delete', '350', '')]
+=====3.51
+  A OK 503 []
+  B OK 500 [('delete', '351', '')]
+  C OK 421 [('delete', '351', ''), ('delete', 'partydefendantmaysubsequentlyf', '')]
+=====3.52
+  A OK 454 []
+  B OK 449 [('delete', '352', '')]
+  C OK 364 [('delete', '352', ''), ('delete', 'partyclaimthethirdpartydefenda', '')]
+=====3.53
+  A OK 380 []
+  B OK 376 [('delete', '353', '')]
+  C OK 376 [('delete', '353', '')]
+=====3.54
+  A OK 367 []
+  B OK 364 [('delete', '354', '')]
+  C OK 364 [('delete', '354', '')]
+=====3.55
+  A LONG 1249 []
+  B OK 313 [('delete', '355', '')]
+  C OK 313 [('delete', '355', '')]
+=====3.56
+  A LONG 1483 []
+  B OK 337 [('delete', '356', '')]
+  C OK 253 [('delete', '356', ''), ('delete', 'btheplaintiffandanothe', ''), ('replace', 'personwhethertheotherpersonisa', '354')]
+=====3.57
+  A OK 169 [('insert', '', 'division3and'), ('delete', 'division3and', ''), ('delete', 'ametimeperiodthattheplaintiffb', '')]
+  B OK 219 [('delete', '357', '')]
+  C OK 219 [('delete', '357', '')]
+=====3.58
+  A OK 37 []
+  B OK 34 [('delete', '358', '')]
+  C OK 34 [('delete', '358', '')]
+=====3.59
+  A OK 91 []
+  B OK 87 [('delete', '359', '')]
+  C OK 87 [('delete', '359', '')]
+=====3.60
+  A OK 631 []
+  B OK 626 [('delete', '360', '')]
+  C OK 626 [('delete', '360', '')]
+=====3.61
+  A OK 609 []
+  B OK 606 [('delete', '361', '')]
+  C OK 548 [('delete', '361', ''), ('delete', 'particularshasbeenmadeandwheth', '')]
+=====3.62
+  A OK 2203 [('insert', '', 'fnvr2004abca279354ar3654wherea'), ('insert', '', '1quitesimilartoprevious1968r13')]
+  B OK 1517 [('delete', '362', '')]
+  C OK 92 [('delete', '362', ''), ('delete', 'partyasfollowsabeforepleadings', '')]
+=====3.63
+  A OK 257 []
+  B OK 254 [('delete', '363', '')]
+  C OK 254 [('delete', '363', '')]
+=====3.64
+  A OK 154 []
+  B OK 150 [('delete', '364', '')]
+  C OK 130 [('delete', '364', ''), ('delete', 'oftheamendedpleading', '')]
+=====3.65
+  A OK 603 []
+  B OK 598 [('delete', '365', '')]
+  C OK 598 [('delete', '365', '')]
+=====3.66
+  A OK 283 []
+  B OK 279 [('delete', '366', '')]
+  C OK 279 [('delete', '366', '')]
+=====3.67
+  A OK 472 []
+  B OK 467 [('delete', '367', '')]
+  C OK 467 [('delete', '367', '')]
+=====3.68
+  A LONG 2111 []
+  B OK 1003 [('delete', '368', '')]
+  C OK 1003 [('delete', '368', '')]
+=====3.69
+  A LONG 745 []
+  B OK 269 [('delete', '369', '')]
+  C OK 352 [('delete', '369', ''), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb')]
+=====3.70
+  A LONG 1607 []
+  B OK 456 [('delete', '370', '')]
+  C OK 527 [('delete', '370', ''), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb'), ('delete', 'oft', ''), ('replace', 'ansactionsoroccurrencesbaquest', '369'), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb')]
+=====3.71
+  A OK 634 [('insert', '', 'orders')]
+  B OK 624 [('delete', '371', '')]
+  C OK 790 [('delete', '371', ''), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb'), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb')]
+=====3.72
+  A OK 711 [('insert', '', '1fitzmauricevcedareactor201152')]
+  B OK 502 [('delete', '372', '')]
+  C OK 312 [('delete', '372', ''), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb'), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb'), ('delete', 'cthatoneormoreclaimsoractionsb', '')]
+=====3.73
+  A OK 358 []
+  B OK 354 [('delete', '373', '')]
+  C OK 520 [('delete', '373', ''), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb'), ('insert', '', 'clvalbertametissettlementschil'), ('insert', '', '011abqb12atpara103altaqb')]
+=====3.74
+  A OK 752 []
+  B OK 749 [('delete', '374', '')]
+  C OK 63 [('delete', '374', ''), ('delete', 'partytoanactionstartedbystatem', '')]
+=====3.75
+  A OK 875 [('insert', '', '1quitesimilartoprevious1968r39')]
+  B OK 642 [('delete', '375', '')]
+  C OK 642 [('delete', '375', '')]
+=====3.76
+  A OK 563 []
+  B OK 559 [('delete', '376', '')]
+  C OK 559 [('delete', '376', '')]
+=====3.77
+  A OK 140 []
+  B OK 136 [('delete', '377', '')]
+  C OK 136 [('delete', '377', '')]

@@ -1,0 +1,251 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.13",
+  "title": {
+    "official": "Automatic litigation representatives",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.13   If an individual or estate is required to have a litigation\nrepresentative under rule 2.11, a person is an automatic litigation\nrepresentative for the individual or estate if the person has authority\nto commence, compromise, settle or defend a claim on behalf of\nthe individual or estate under any of the following:\n(a) an enactment;\n(b) an instrument authorized by an enactment;\n(c) an order authorized under an enactment;\n(d) a grant or an order under the Surrogate Rules\n(AR 130/95);\n(e) an instrument, other than a will, made by a person,\nincluding, without limitation, a power of attorney or a\ntrust.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "6efb6f1d21508d7980d315f398201ee152f35e3a8c956a5c479641b365325c9c"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s2.13;140/2013",
+    "amending_regulations": [
+      "140/2013"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;140/13]"
+      ],
+      "BOOK_B": "Alta. Reg. 140/2013, s. 2",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.13 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 140/2013, s. 2]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          40
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Automatic Litigation Representatives",
+      "operative_text_raw": null,
+      "operative_text_sha256": "535509ef221c5a470c4c8c1c8e777baa095a7829bacc01eba868bb5ca295be7e",
+      "related_provisions": "2.19 (authority to settle) ; 2.21 (replacement of litigation representative) ; 11.7 (service on litigation representative).",
+      "commentary": "If a litigant is an adult not under a disability, the court cannot appoint a litigation representative\nfor her, and she can speak to the court only personally or through a lawyer. A relative may give\nthe litigant quiet assistance and advice under R.2.23, but cannot speak for her. Rule 2.13 and a\nsigned power of attorney do not change that.¹\nA strict common-law rule was applied, which is that a foreign executor who has not resealed\nprobate in Alberta cannot be a party to litigation here against the estate.²",
+      "footnotes": [
+        {
+          "page": "2-36",
+          "number": 1,
+          "text": "Nahirney v. Ogilvie & Co.2011 ABQB 586, 525 AR 14."
+        },
+        {
+          "page": "2-36",
+          "number": 2,
+          "text": "Here the Saskatchewan executors refused to attorn to the jurisdiction of Alberta: Hill v. Hill 2010 ABQB 528, 501 AR 227."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          1757,
+          1786
+        ],
+        "book_pages": [
+          "2-35",
+          "2-36"
+        ]
+      },
+      "operative_text_note": "same wording as official; only spacing and the bracketed amendment note '[Alta. Reg.124/10;140/13]'."
+    },
+    "BOOK_B": {
+      "title": "Automatic litigation representatives",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.13:1",
+          "text": "Rule 2.13 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.13. 1. Appointment by Instrument In Nahirney v. Ogilvie & Co., 2011 ABQB 586, 2011 CarswellAlta 2363, 525 A.R. 14, 26 C.P.C. (7th) 425, [2011] A.J. No. 1354, the Plaintiff's father sought to represent his daughter by virtue of a Power of Attorney executed by his daughter. Lee, J. said, at paragraphs 22–28: 22 Rule 2.13(e) allows a person to become an automatic litigation representative by virtue of having an instrument such as a power of attorney, However the Rule should only apply to instances in which a litigation representative is required to be appointed. If the result of Rule 2.13(e) was to allow anyone to appoint a non-lawyer as their de-facto representative in court, then s. 106 of the Legal Profession Act would be rendered meaningless. 23 The Alberta Rules of Court also contemplate a conflict with any other statutes in Rule 1.9, which reads: Conflicts and inconsistencies with enactments 1.9 Except as expressly provided, if there is a conflict or inconsistency between these rules and an enactment, the enactment prevails to the extent of the conflict or inconsistency. 24 Even if Mr. Nahirney is capable of being appointed litigation representative pursuant to the Alberta Rules of Court, he would still be prohibited from representing his daughter's interest in the litigation. The permissibility of litigation representatives to represent others in court has not been dealt with under the current Alberta Rules of Court. Our Court of Appeal has considered the use of Next Friends under the old Rules of Court in the case of a minor as follows: …[A] next friend is not a party to the lawsuit. He is an officer of the court under its control, and cannot even make a binding settlement on behalf of the infants (even as to modes of procedure). It is elementary that a non-lawyer cannot represent someone else as advocate before the superior courts. Salamon v. Alberta (Minister of Education) (1991), 120 AR 298 at para. 3. See also Torrance v. Alberta 2010 ABCA 88 at para. 14 Conclusion 25 Self represented litigants are expressly granted a right of audience before the court pursuant to Rule 2.22, … 26 The Plaintiff's father Mr. Nahirney is permitted to provide limited assistance to his daughter by virtue of Rule 2.23. … 27 Accordingly, the Ogilvie Defendants cannot object to Mr. Nahirney assisting his daughter pursuant to Rule 2.23. However Rule 2.23 does not permit Mr. Nahirney to stand in the place of a lawyer and represent his daughter. Rule 2.23 contains an explicit reference to s. 106(1) of the Legal Profession Act. The conduct of any person assisting a party before the Court must fall short of “acting as a barrister or solicitor” and “commencing, carrying on or defending an action or proceeding before a court or judge on behalf of another person”. 28 I conclude that Rule 2.11, 2.13 and 2.14(1) were intended to grant representation only in cases where a litigation representative was necessary under the Alberta Rules of Court. In the present case, the Plaintiff does not suffer from a disability and is not a minor, therefore there is no basis for the appointment of a Litigation Representative. In Champagne v. Sidorsky, 2012 ABQB 522, 2012 CarswellAlta 1437, 548 A.R. 10, Justice C. M. Jones noted at paragraph 5: 5 On November 17, 2011, Justice Hunt McDonald determined that Rule 2.13(e) should only apply in instances in which a litigation representative is required to be appointed. She determined that the appointment of Cindy and Cheri under the EPA did not automatically mean that Douglas was required or permitted to have a litigation representative."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_009",
+        "part2_rule_2_13_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_010",
+        "part2_alberta_rules_of_court_rule_2_part_2_011",
+        "part2_rule_2_13_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_012"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "0f884631e82caa4134bf95085225daf1584cbb25fa52e4266fb19b11d730b418",
+      "operative_text_note": "same wording as official; only 'Alta. Reg. 130/95' for 'AR 130/95'."
+    },
+    "BOOK_C": {
+      "title": "Automatic litigation representatives",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "50b8fec62137f97493fba723bdc0879d41c988c3af577c64cff46d3c2c94f4d8",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same words as official; 'Surrogate Rules' displaced by extraction. No substantive difference.",
+      "commentary_note": "one sentence cut off mid-way ('the rule should only ...') and ending in a displaced intervenor citation (Grant Thornton 2016 ABCA 238 'at para. 9' - the same pinpoint C's 2.10 commentary gives for the intervenor test; evidence added in 5th pass). Its point - 2.13(e) powers of attorney apply only when a litigation representative is required - is stated in full by Book B (Nahirney 2011 ABQB 586) and Book A. Not retained.",
+      "division_heading_flag": "wrong in Book C: rule 2.13 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official; only spacing and the bracketed amendment note '[Alta. Reg.124/10;140/13]'."
+    },
+    "BOOK_B": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official; only 'Alta. Reg. 130/95' for 'AR 130/95'."
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9804,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.13",
+      "title_official": "Automatic litigation representatives"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "535509ef221c5a470c4c8c1c8e777baa095a7829bacc01eba868bb5ca295be7e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            1757,
+            1786
+          ],
+          "book_pages": [
+            "2-35",
+            "2-36"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "0f884631e82caa4134bf95085225daf1584cbb25fa52e4266fb19b11d730b418",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "50b8fec62137f97493fba723bdc0879d41c988c3af577c64cff46d3c2c94f4d8",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "6efb6f1d21508d7980d315f398201ee152f35e3a8c956a5c479641b365325c9c",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            40
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "7444c01a6d816db60723b053cfcdc5702e5187ebb3dfded35c8b09cc484c81b9"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.3.74 notes (p.3-243): 'On suits by estates and the wrong representative, see Rr.2.11 to 2.16 and notes'.",
+    "BOOK_A 2.11 footnotes: 'Pursuant to Rule 2.13' and 'See Rr.2.13 and 2.15'.",
+    "Rule 2.12(1)(a) (the automatic type); rules 2.19 and 2.21 (BOOK_A related provisions).",
+    "Rule 2.23: BOOK_A's own 2.13 commentary (line 1783) says a relative may give quiet assistance under R.2.23 but cannot speak for the litigant (corrected in 4th pass - an earlier version attributed this to BOOK_A 2.23); BOOK_B 2.13 (Nahirney paras 26-27) says the same.",
+    "Cross-book (4th pass): Nahirney 2011 ABQB 586 is in all three books (A fn 1 p.2-36; B section 1; C's dropped fragment repeats para 22). BOOK_B also cites Torrance 2010 ABCA 88 (= BOOK_A 2.11 fn 11) and Champagne v. Sidorsky 2012 ABQB 522 (cited by BOOK_A under 2.9, 2.11, 2.16, 2.22 and 2.23)."
+  ],
+  "dedupe_log": [
+    "2.13 BOOK_C citation context dropped (2016 ABCA 238): verbatim in kept text",
+    "2.13 BOOK_C commentary sentence split dropped",
+    "2.13 BOOK_C: rule text dropped (manual review)",
+    "2.13 BOOK_C: commentary dropped (manual review)",
+    "2.13 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.13 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.13 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "2.13 BOOK_B: raw text dropped, differences editorial only (manual review)"
+  ]
+}

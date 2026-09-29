@@ -1,0 +1,602 @@
+{
+  "source_file": "161-180_revised.md",
+  "definitions": [],
+  "hierarchy": [
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.67",
+        "title": "Close of pleadings",
+        "text": "(1) This rule applies to pleadings between the following:\n(a) a plaintiff and a defendant;\n(b) a plaintiff-by-counterclaim and a defendant-by-counterclaim;\n(c) a third party plaintiff and a third party defendant;\n(d) a plaintiff and a third party defendant.\n(2) Pleadings close when (a) a reply is filed and served by a plaintiff, plaintiff-by-counterclaim or third party plaintiff, as the case may be, or (b) the time for filing and serving a reply expires, whichever is earlier.\n(3) The close of pleadings against one party represents the close of pleadings against all parties to that pleading.\n\n*[Alta. Reg. 124/2010, r. 3.67 effective November 1, 2010 (Alta. Gaz. August 14, 2010]*",
+        "sentences": [
+          "(1) This rule applies to pleadings between the following:",
+          "(a) a plaintiff and a defendant",
+          "(b) a plaintiff-by-counterclaim and a defendant-by-counterclaim",
+          "(c) a third party plaintiff and a third party defendant",
+          "(d) a plaintiff and a third party defendant.",
+          "(2) Pleadings close when",
+          "(a) a reply is filed and served by a plaintiff, plaintiff-by-counterclaim or third party plaintiff, as the case may be, or",
+          "(b) the time for filing and serving a reply expires, whichever is earlier.",
+          "(3) The close of pleadings against one party represents the close of pleadings against all parties to that pleading. *[Alta. Reg. 124/2010, r. 3.67 effective November 1, 2010 (Alta. Gaz. August 14, 2010]*"
+        ],
+        "citations": [],
+        "info_notes": [
+          "The time for filing and service of a reply is covered in earlier rules in this Part.\nFor example, rule 3.33 requires the plaintiff’s reply to be [Reply to a defence] filed and served on the defendant within  Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 22 (Alta. Q.B. (Master)). days after service of the statement of defence on the plaintiff. See also rule 3.54(2) [Plaintiff’s reply to third party defence]."
+        ],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Close of pleadings is very important. It is the point when all of the issues in the action are framed. It is the starting point for the need for leave of the court or consent of all parties to amend pleadings pursuant to rule 3.62. Pleadings close when any one of the enumerated parties serves a reply, or the time for filing and serving a reply ( Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 22 (Alta. Q.B. (Master)). days from receipt of the statement of defence) expires, whichever is earlier. Importantly, the close of pleadings against one party is the close of pleadings against all parties to that particular pleading.",
+            "sentences": [
+              "Close of pleadings is very important.",
+              "It is the point when all of the issues in the action are framed. It is the starting point for the need for leave of the court or consent of all parties to amend pleadings pursuant to rule 3.62.",
+              "Pleadings close when any one of the enumerated parties serves a reply, or the time for filing and serving a reply ( Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 22 (Alta. Q.B. (Master)). days from receipt of the statement of defence) expires, whichever is earlier. Importantly, the close of pleadings against one party is the close of pleadings against all parties to that particular pleading."
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.68",
+        "title": "Court options to deal with significant deficiencies",
+        "text": "(1) If the circum- stances warrant and a condition under subrule (2) applies, the Court may order one or more of the following:\n(a) that all or any part of a claim or defence be struck out;\n(b) that a commencement document or pleading be amended or set aside;\n(c) that judgment or an order be entered;\n(d) that an action, an application or a proceeding be stayed.\n(2) The conditions for the order are one or more of the following:\n(a) the Court has no jurisdiction;\n(b) a commencement document or pleading discloses no reasonable claim or defence to a claim;\n(c) a commencement document or pleading is frivolous, irrelevant or improper;\n(d) a commencement document or pleading constitutes an abuse of process;\n(e) an irregularity in a commencement document or pleading is so prejudicial to the claim that it is sufficient to defeat the claim.\n(3) No evidence may be submitted on an application made on the basis of the condition set out in subrule (2)(b).\n(4) The Court may (a) strike out all or part of an affidavit that contains frivolous, irrelevant or improper information;\n(b) strike out all or any pleadings if a party without sufficient cause does not (i) serve an affidavit of records in accordance with rule 5.5 [When an affidavit of records must be served], (ii) comply with rule 5.10 , or [Subsequent disclosure of records]\n(iii) comply with an order under rule 5.11 [Order for a record to be produced].\n\n*[Alta. Reg. 124/2010, r. 3.68 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) If the circum- stances warrant and a condition under subrule",
+          "(2) applies, the Court may order one or more of the following:",
+          "(a) that all or any part of a claim or defence be struck out",
+          "(b) that a commencement document or pleading be amended or set aside",
+          "(c) that judgment or an order be entered",
+          "(d) that an action, an application or a proceeding be stayed.",
+          "(2) The conditions for the order are one or more of the following:",
+          "(a) the Court has no jurisdiction",
+          "(b) a commencement document or pleading discloses no reasonable claim or defence to a claim",
+          "(c) a commencement document or pleading is frivolous, irrelevant or improper",
+          "(d) a commencement document or pleading constitutes an abuse of process",
+          "(e) an irregularity in a commencement document or pleading is so prejudicial to the claim that it is sufficient to defeat the claim.",
+          "(3) No evidence may be submitted on an application made on the basis of the condition set out in subrule (2)(b).",
+          "(4) The Court may",
+          "(a) strike out all or part of an affidavit that contains frivolous, irrelevant or improper information",
+          "(b) strike out all or any pleadings if a party without sufficient cause does not",
+          "(i) serve an affidavit of records in accordance with rule 5.5 [When an affidavit of records must be served]",
+          "(ii) comply with rule 5.10 , or [Subsequent disclosure of records]",
+          "(iii) comply with an order under rule 5.11 [Order for a record to be produced]. *[Alta. Reg. 124/2010, r. 3.68 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 3.68 is used when parties are attempting to have part of a claim or defence struck, a document or pleading amended or set aside, to enter judgment or an order, or to stay an action, application or proceeding. Rule 3.68(2) outlines the conditions required.\n3.68(3), no evidence is permitted on whether a reasonable claim has been pleaded within the meaning of rule 3.68(2)(b). Quaye v. Law Society of Alberta, [2021] A.J. No. 629, 2021 ABCA 167 at para. 13 (Alta. C.A.); Parenteau v. Spencer, [2023] A.J. No. 988, 2023 ABCA 268 at para. 9 (Alta. C.A.). The plaintiff is entitled to a broad reading of the pleadings. PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA 16 at para. 74 (Alta. C.A.); , [2012] A.J. Alberta Adolescent Recovery Centre v. Canadian Broadcasting Corp. No. 61, 2012 ABQB 48 at para. 25 (Alta. Q.B.); Harun-ar-Rashid v. Canada (Royal Canadian Mounted Police), [2019] A.J. No. 84, 2019 ABQB 54 at paras. 14, 18 (Alta. Q.B.).\nHowever, bare assertions or allegations are insufficient, and the failure to provide facts to substantiate a reasonable claim is grounds for striking the claim under this rule. Quaye v Law Society of Alberta, [2021] A.J. No. 629, 2021 ABCA 167 at para. 13 (Alta. C.A.); Rana v. Baker Gay v. Alberta (Workers’ , [2022] A.J. No. 632, 2022 ABCA 180 at para. 8 (Alta. C.A.); Essential R. v. Imperial Tobacco Canada Ltd.\n(S.C.C.);\n, [2014] A.J. No. 975, ( Ernst v. EnCana Corp. sub nom. Ernst v. Alberta (Energy Resources Conservation Board) Lameman v. Alberta ) 2014 ABCA 285 at paras. 13- Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 23 (Alta. Q.B. (Master)). (Alta. C.A.);\n, [2013] A.J. No.\n370, 2013 ABCA 148 at para.  Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 22 (Alta. Q.B. (Master)). (Alta. C.A.). See , [2017] A.J. No. 1218, 2017 Al-Ghamdi v. Alberta ABQB 684 at paras. 101-125 (Alta. Q.B.) for a helpful, comprehensive review of the authorities; see also PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA  Davenport Homes Ltd. v. Cassin, [2015] A.J. No. 238, 2015 ABQB 138 at para. 17 (Alta. Q.B.). at paras.\n68-70 (Alta. C.A.); for a more recent summary, see , Green Theme Design Ltd. v. 0974016 B.C. Ltd.",
+            "sentences": [
+              "Rule 3.68 is used when parties are attempting to have part of a claim or defence struck, a document or pleading amended or set aside, to enter judgment or an order, or to stay an action, application or proceeding.",
+              "Rule 3.68(2) outlines the conditions required. 3.68(3), no evidence is permitted on whether a reasonable claim has been pleaded within the meaning of rule 3.68(2)(b).",
+              "Quaye v. Law Society of Alberta, [2021] A.J. No. 629, 2021 ABCA 167 at para. 13 (Alta. C.A.)",
+              "Parenteau v. Spencer, [2023] A.J. No. 988, 2023 ABCA 268 at para. 9 (Alta. C.A.).",
+              "The plaintiff is entitled to a broad reading of the pleadings. PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA 16 at para. 74 (Alta. C.A.)",
+              ", [2012] A.J. Alberta Adolescent Recovery Centre v. Canadian Broadcasting Corp. No. 61, 2012 ABQB 48 at para. 25 (Alta. Q.B.)",
+              "Harun-ar-Rashid v. Canada (Royal Canadian Mounted Police), [2019] A.J. No. 84, 2019 ABQB 54 at paras. 14, 18 (Alta. Q.B.).",
+              "However, bare assertions or allegations are insufficient, and the failure to provide facts to substantiate a reasonable claim is grounds for striking the claim under this rule.",
+              "Quaye v Law Society of Alberta, [2021] A.J. No. 629, 2021 ABCA 167 at para. 13 (Alta. C.A.)",
+              "Rana v. Baker Gay v. Alberta (Workers’ , [2022] A.J. No. 632, 2022 ABCA 180 at para. 8 (Alta. C.A.)",
+              "Essential R. v. Imperial Tobacco Canada Ltd. (S.C.C.)",
+              ", [2014] A.J. No. 975, ( Ernst v. EnCana Corp. sub nom.",
+              "Ernst v. Alberta (Energy Resources Conservation Board) Lameman v. Alberta ) 2014 ABCA 285 at paras. 13- Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 23 (Alta. Q.B. (Master)). (Alta. C.A.)",
+              ", [2013] A.J. No. 370, 2013 ABCA 148 at para. Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 22 (Alta. Q.B. (Master)). (Alta. C.A.).",
+              "See , [2017] A.J. No. 1218, 2017 Al-Ghamdi v. Alberta ABQB 684 at paras. 101-125 (Alta. Q.B.) for a helpful, comprehensive review of the authorities",
+              "see also PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA Davenport Homes Ltd. v. Cassin, [2015] A.J. No. 238, 2015 ABQB 138 at para. 17 (Alta. Q.B.). at paras. 68-70 (Alta. C.A.)",
+              "for a more recent summary, see , Green Theme Design Ltd. v. 0974016 B.C. Ltd."
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2021 ABCA 167",
+                "style_of_cause": "Quaye v. Law Society of Alberta",
+                "context": "the conditions required.\n3.68(3), no evidence is permitted on whether a reasonable claim has been pleaded within the meaning of rule 3.68(2)(b). Quaye v. Law Society of Alberta, [2021] A.J. No. 629, 2021 ABCA 167 at para. 13 (Alta. C.A.); Parenteau v. Spencer, [2023] A.J. No. 988, 2023 ABCA 268 at para. 9 (Alta"
+              },
+              {
+                "neutral_citation": "2023 ABCA 268",
+                "style_of_cause": "Quaye v. Law Society of Alberta",
+                "context": "claim has been pleaded within the meaning of rule 3.68(2)(b). Quaye v. Law Society of Alberta, [2021] A.J. No. 629, 2021 ABCA 167 at para. 13 (Alta. C.A.); Parenteau v. Spencer, [2023] A.J. No. 988, 2023 ABCA 268 at para. 9 (Alta. C.A.). The plaintiff is entitled to a broad reading of the pleadings. Pricewaterh"
+              },
+              {
+                "neutral_citation": "2021 ABCA 16",
+                "style_of_cause": "The plaintiff is entitled to a broad reading of the pleadings. PricewaterhouseCoopers Inc. v. Perpetual Energy Inc.",
+                "context": "r, [2023] A.J. No. 988, 2023 ABCA 268 at para. 9 (Alta. C.A.). The plaintiff is entitled to a broad reading of the pleadings. PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA 16 at para. 74 (Alta. C.A.); , [2012] A.J. Alberta Adolescent Recovery Centre v. Canadian Broadcasting"
+              },
+              {
+                "neutral_citation": "2012 ABQB 48",
+                "style_of_cause": "A.J. Alberta Adolescent Recovery Centre v. Canadian Broadcasting Corp. No. 61",
+                "context": "ricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA 16 at para. 74 (Alta. C.A.); , [2012] A.J. Alberta Adolescent Recovery Centre v. Canadian Broadcasting Corp. No. 61, 2012 ABQB 48 at para. 25 (Alta. Q.B.); Harun-ar-Rashid v. Canada (Royal Canadian Mounted Police), [2019] A.J. No"
+              },
+              {
+                "neutral_citation": "2019 ABQB 54",
+                "style_of_cause": "Harun-ar-Rashid v. Canada",
+                "context": "2] A.J. Alberta Adolescent Recovery Centre v. Canadian Broadcasting Corp. No. 61, 2012 ABQB 48 at para. 25 (Alta. Q.B.); Harun-ar-Rashid v. Canada (Royal Canadian Mounted Police), [2019] A.J. No. 84, 2019 ABQB 54 at paras. 14, 18 (Alta. Q.B.).\nHowever, bare assertions or allegations are insufficient, and the fa"
+              },
+              {
+                "neutral_citation": "2022 ABCA 180",
+                "style_of_cause": "Rana v. Baker Gay v. Alberta",
+                "context": "unds for striking the claim under this rule. Quaye v Law Society of Alberta, [2021] A.J. No. 629, 2021 ABCA 167 at para. 13 (Alta. C.A.); Rana v. Baker Gay v. Alberta (Workers’ , [2022] A.J. No. 632, 2022 ABCA 180 at para. 8 (Alta. C.A.); Essential R. v. Imperial Tobacco Canada Ltd.\n(S.C.C.);\n, [2014] A.J. No. 9"
+              },
+              {
+                "neutral_citation": "2014 ABCA 285",
+                "style_of_cause": "Ernst v. EnCana Corp. sub nom. Ernst v. Alberta",
+                "context": "Alta. C.A.); Essential R. v. Imperial Tobacco Canada Ltd.\n(S.C.C.);\n, [2014] A.J. No. 975, ( Ernst v. EnCana Corp. sub nom. Ernst v. Alberta (Energy Resources Conservation Board) Lameman v. Alberta ) 2014 ABCA 285 at paras. 13- Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 23 (Alta. Q.B. (Master"
+              },
+              {
+                "neutral_citation": "2013 ABCA 148",
+                "style_of_cause": "ABCA 285 at paras. 13- Hislop v. Murray",
+                "context": "rces Conservation Board) Lameman v. Alberta ) 2014 ABCA 285 at paras. 13- Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 23 (Alta. Q.B. (Master)). (Alta. C.A.);\n, [2013] A.J. No.\n370, 2013 ABCA 148 at para.  Hislop v. Murray, [2012] AWLD 4638, 219 ACWS (3d) 248 at para. 22 (Alta. Q.B. (Master))."
+              },
+              {
+                "neutral_citation": "2015 ABQB 138",
+                "style_of_cause": "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc.",
+                "context": "a helpful, comprehensive review of the authorities; see also PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA  Davenport Homes Ltd. v. Cassin, [2015] A.J. No. 238, 2015 ABQB 138 at para. 17 (Alta. Q.B.). at paras.\n68-70 (Alta. C.A.); for a more recent summary, see , Green Them"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.69",
+        "title": "Joining claims",
+        "text": "(1) A party may join  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims in an action unless the Court otherwise orders.\n(2) A party may sue or be sued in different capacities in the same action.\n(3) If there is more than one defendant or respondent, it is not necessary for each to have an interest (a) in all the remedies claimed or sought, or (b) in each claim included in the action.\n\n*[Alta. Reg. 124/2010, r. 3.69 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) A party may join C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims in an action unless the Court otherwise orders.",
+          "(2) A party may sue or be sued in different capacities in the same action.",
+          "(3) If there is more than one defendant or respondent, it is not necessary for each to have an interest",
+          "(a) in all the remedies claimed or sought, or",
+          "(b) in each claim included in the action. *[Alta. Reg. 124/2010, r. 3.69 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2011 ABQB 12",
+            "style_of_cause": null,
+            "context": "(1) A party may join  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims in an action unless the Court otherwise orders.\n(2) A par"
+          }
+        ],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General",
+            "text": "It is permissible to include different claims in the same pleading if they arise out of the\nInformation Note This rule and the following rules of this Division apply to all actions, whether started by statement of claim or by originating application.",
+            "sentences": [
+              "It is permissible to include different claims in the same pleading if they arise out of the Information Note This rule and the following rules of this Division apply to all actions, whether started by statement of claim or by originating application."
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.70",
+        "title": "Parties joining to bring action",
+        "text": "(1) Two or more parties may join to bring an action, and a plaintiff or originating applicant may make a claim against  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more persons as defendants or respondents in an action, if (a) the claim arises out of the same transaction or occurrence or series R. 3.69 (2) This rule applies irrespective of the remedy claimed by the plaintiff or originating applicant and whether or not  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more plaintiffs or originating applicants seek the same remedy.\n\n*[Alta. Reg. 124/2010, r. 3.70 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) Two or more parties may join to bring an action, and a plaintiff or originating applicant may make a claim against C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more persons as defendants or respondents in an action, if",
+          "(a) the claim arises out of the same transaction or occurrence or series R. 3.69",
+          "(2) This rule applies irrespective of the remedy claimed by the plaintiff or originating applicant and whether or not C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more plaintiffs or originating applicants seek the same remedy. *[Alta. Reg. 124/2010, r. 3.70 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2011 ABQB 12",
+            "style_of_cause": null,
+            "context": "parties may join to bring an action, and a plaintiff or originating applicant may make a claim against  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more persons as defendants or respondents in an action, if (a) the cl"
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.71",
+        "title": "Separating claims",
+        "text": "(1) When  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims are made in an action or when  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more parties join or are joined in an action, the Court may make an order under this rule if the Court is satisfied that the joined claims or parties, or both, may (a) unduly complicate or delay the action, or (b) cause undue prejudice to a party.\n(2) The Court may, by order, do one or more of the following:\n(a) order separate trials, hearings, applications or other proceedings;\n(b) order one or more of the claims to be asserted in another action;\n(c) order a party to be compensated by a costs award for having to attend part of a trial, hearing, application or proceeding in which the party has no interest;\n(d) excuse a party from having to attend all or part of a trial, hearing, application or proceeding in which the party has no interest.\n\n*[Alta. Reg. 124/2010, r. 3.71 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) When C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims are made in an action or when C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more parties join or are joined in an action, the Court may make an order under this rule if the Court is satisfied that the joined claims or parties, or both, may",
+          "(a) unduly complicate or delay the action, or",
+          "(b) cause undue prejudice to a party.",
+          "(2) The Court may, by order, do one or more of the following:",
+          "(a) order separate trials, hearings, applications or other proceedings",
+          "(b) order one or more of the claims to be asserted in another action",
+          "(c) order a party to be compensated by a costs award for having to attend part of a trial, hearing, application or proceeding in which the party has no interest",
+          "(d) excuse a party from having to attend all or part of a trial, hearing, application or proceeding in which the party has no interest. *[Alta. Reg. 124/2010, r. 3.71 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2011 ABQB 12",
+            "style_of_cause": null,
+            "context": "(1) When  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims are made in an action or when  C. (L.) v. Alberta (Metis"
+          }
+        ],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General",
+            "text": "Joinder of two or more claims is permissible unless the claim becomes so complex as to be unmanageable. Domenic Construction Ltd. v. Primewest Capital Corp., [2020] A.J. No. 753, 2020 ABCA 265 at para. 22 (Alta. C.A.).\nInformation Note Rule 3.46(3) [Third party defendant becomes a party] says that third party claims are to be tried with the main action unless the Court otherwise orders under this rule.",
+            "sentences": [
+              "Joinder of two or more claims is permissible unless the claim becomes so complex as to be unmanageable.",
+              "Domenic Construction Ltd. v. Primewest Capital Corp., [2020] A.J. No. 753, 2020 ABCA 265 at para. 22 (Alta. C.A.).",
+              "Information Note Rule 3.46(3) [Third party defendant becomes a party] says that third party claims are to be tried with the main action unless the Court otherwise orders under this rule."
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2020 ABCA 265",
+                "style_of_cause": "Domenic Construction Ltd. v. Primewest Capital Corp.",
+                "context": "Joinder of two or more claims is permissible unless the claim becomes so complex as to be unmanageable. Domenic Construction Ltd. v. Primewest Capital Corp., [2020] A.J. No. 753, 2020 ABCA 265 at para. 22 (Alta. C.A.).\nInformation Note Rule 3.46(3) [Third party defendant becomes a party] say"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.72",
+        "title": "Consolidation or separation of claims and actions",
+        "text": "(1) The Court may order one or more of the following:\n(a) that  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims or actions be consolidated;\n(b) that  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims or actions be tried at the same time or one after the other;",
+        "sentences": [
+          "(1) The Court may order one or more of the following:",
+          "(a) that C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims or actions be consolidated",
+          "(b) that C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims or actions be tried at the same time or one after the other"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2011 ABQB 12",
+            "style_of_cause": null,
+            "context": "(1) The Court may order one or more of the following:\n(a) that  C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more claims or actions be consolidated;\n(b) that  C. (L.) v. Alberta"
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.73",
+        "title": "Incorrect parties not fatal to actions",
+        "text": "(1) No claim or action fails solely because (a) C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more parties join in an action that they should not have joined, (b) C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more parties do not join an action that they could or should have joined, or (c) a party was incorrectly named as a party or was incorrectly omitted from being named as a party.\n(2) If subrule (1) applies, a judgment entered in respect of the action is without prejudice to the rights of persons who were not parties to the action.\n\n*[Alta. Reg. 124/2010, r. 3.73 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nSubdivision 2: CHANGES TO PARTIES",
+        "sentences": [
+          "(1) No claim or action fails solely because",
+          "(a) C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more parties join in an action that they should not have joined",
+          "(b) C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more parties do not join an action that they could or should have joined, or",
+          "(c) a party was incorrectly named as a party or was incorrectly omitted from being named as a party.",
+          "(2) If subrule",
+          "(1) applies, a judgment entered in respect of the action is without prejudice to the rights of persons who were not parties to the action. *[Alta. Reg. 124/2010, r. 3.73 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]* Subdivision 2: CHANGES TO PARTIES"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2011 ABQB 12",
+            "style_of_cause": null,
+            "context": "(1) No claim or action fails solely because (a) C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.). or more parties join in an action that they should not have joined, (b)"
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.74",
+        "title": "Adding, removing or substituting parties after close of pleadings",
+        "text": "(1) After close of pleadings, no person may be added, removed or substituted as a",
+        "sentences": [
+          "(1) After close of pleadings, no person may be added, removed or substituted as a"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.75",
+        "title": "Adding, removing or substituting parties to originating application",
+        "text": "(1) In an action started by originating application no party or person may be added or substituted as a party to the action except in accordance with this rule.\n(2) On application of a party or person, the Court may order that a person be added or substituted as a party to the action, (a) in the case of a person to be added or substituted as an originating applicant, if consent of the person proposed to be added or substituted is filed with the application;\n(b) in the case of an application to add or substitute a person as a respondent, or to remove or correct the name of a party, if the Court is satisfied the order should be made.\n(3) The Court may not make an order under this rule if prejudice would result for a party that could not be remedied by a costs award, an adjournment or the imposition of terms.\n\n*[Alta. Reg. 124/2010, r. 3.75 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) In an action started by originating application no party or person may be added or substituted as a party to the action except in accordance with this rule.",
+          "(2) On application of a party or person, the Court may order that a person be added or substituted as a party to the action",
+          "(a) in the case of a person to be added or substituted as an originating applicant, if consent of the person proposed to be added or substituted is filed with the application",
+          "(b) in the case of an application to add or substitute a person as a respondent, or to remove or correct the name of a party, if the Court is satisfied the order should be made.",
+          "(3) The Court may not make an order under this rule if prejudice would result for a party that could not be remedied by a costs award, an adjournment or the imposition of terms. *[Alta. Reg. 124/2010, r. 3.75 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Case law has imported the test from Former Rule 38(3), meaning that the applicant is required to show that the order sought would directly affect the intervenor in the enjoyment of its legal rights, and the question to be settled could not be effectually and completely settled unless the intervenor was a party. This second case involves a two-part test:\n(a) whether the applicant has a legal interest in the outcome of the proceedings, which can be a direct financial or legal interest; and (b) whether it is “just and convenient” to add the person, or whether the interest of the person would not be adequately protected if it is not added to the proceeding. Prosper Petroleum Ltd. v. Alberta, [2020] A.J. No. 238, 2020 ABQB 128 at paras. 7-11 (Alta. Q.B.); see also , [2017] A.J. No. 1214, 2017 ABQB 695 (Alta. McIver v. Alberta (Ethics Commissioner) Q.B.) starting at para. 9.",
+            "sentences": [
+              "Case law has imported the test from Former Rule 38(3), meaning that the applicant is required to show that the order sought would directly affect the intervenor in the enjoyment of its legal rights, and the question to be settled could not be effectually and completely settled unless the intervenor was a party.",
+              "This second case involves a two-part test:",
+              "(a) whether the applicant has a legal interest in the outcome of the proceedings, which can be a direct financial or legal interest",
+              "(b) whether it is “just and convenient” to add the person, or whether the interest of the person would not be adequately protected if it is not added to the proceeding.",
+              "Prosper Petroleum Ltd. v. Alberta, [2020] A.J. No. 238, 2020 ABQB 128 at paras. 7-11 (Alta. Q.B.)",
+              "see also , [2017] A.J. No. 1214, 2017 ABQB 695 (Alta. McIver v. Alberta (Ethics Commissioner) Q.B.) starting at para. 9."
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2020 ABQB 128",
+                "style_of_cause": "Prosper Petroleum Ltd. v. Alberta",
+                "context": "nd convenient” to add the person, or whether the interest of the person would not be adequately protected if it is not added to the proceeding. Prosper Petroleum Ltd. v. Alberta, [2020] A.J. No. 238, 2020 ABQB 128 at paras. 7-11 (Alta. Q.B.); see also , [2017] A.J. No. 1214, 2017 ABQB 695 (Alta. McIver v. Albert"
+              },
+              {
+                "neutral_citation": "2017 ABQB 695",
+                "style_of_cause": "Prosper Petroleum Ltd. v. Alberta",
+                "context": "d not be adequately protected if it is not added to the proceeding. Prosper Petroleum Ltd. v. Alberta, [2020] A.J. No. 238, 2020 ABQB 128 at paras. 7-11 (Alta. Q.B.); see also , [2017] A.J. No. 1214, 2017 ABQB 695 (Alta. McIver v. Alberta (Ethics Commissioner) Q.B.) starting at para. 9."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.76",
+        "title": "Action to be taken when defendant or respondent added",
+        "text": "(1) If a defendant or respondent is added to or substituted in an action, the plaintiff, originating applicant, plaintiff-by-counterclaim or third party plaintiff must, unless the Court otherwise orders, (a) amend the commencement document, as required, to name the new party, and (b) serve the amended commencement document on each of the other parties.\n(2) Unless the Court otherwise orders, (a) in the case of a new defendant, the new defendant has the same time period to serve a statement of defence as the defendant had under rule 3.31 , and [Statement of defence]\n(b) the action against the new defendant or new respondent, as the case may be, starts on the date on which the new party is added to or substituted in the action.\n\n*[Alta. Reg. 124/2010, r. 3.76 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) If a defendant or respondent is added to or substituted in an action, the plaintiff, originating applicant, plaintiff-by-counterclaim or third party plaintiff must, unless the Court otherwise orders",
+          "(a) amend the commencement document, as required, to name the new party, and",
+          "(b) serve the amended commencement document on each of the other parties.",
+          "(2) Unless the Court otherwise orders",
+          "(a) in the case of a new defendant, the new defendant has the same time period to serve a statement of defence as the defendant had under rule 3.31 , and [Statement of defence]",
+          "(b) the action against the new defendant or new respondent, as the case may be, starts on the date on which the new party is added to or substituted in the action. *[Alta. Reg. 124/2010, r. 3.76 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.77",
+        "title": "Subsequent encumbrancers not parties in foreclosure action",
+        "text": "A plaintiff in a foreclosure action must not make any subsequent encumbrancer a party to the claim unless possession is claimed from the subsequent encumbrancer.\n\n*[Alta. Reg. 124/2010, r. 3.77 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A plaintiff in a foreclosure action must not make any subsequent encumbrancer a party to the claim unless possession is claimed from the subsequent encumbrancer. *[Alta. Reg. 124/2010, r. 3.77 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [
+          "In foreclosure actions, a notice of address for service may be filed and served under rule 11.24 [Notice of address for service in foreclosure actions]."
+        ],
+        "commentary": [
+          {
+            "topic": "Unnamed Encumbrancer",
+            "text": "Under rule 3.77 “every encumbrancer on a property is effectively an unnamed party” to foreclosure proceedings. “[T]he rules do not require every encumbrancer to commence a separate action, because all of the claims are dealt with in the",
+            "sentences": [
+              "Under rule 3.77 “every encumbrancer on a property is effectively an unnamed party” to foreclosure proceedings. “[T]he rules do not require every encumbrancer to commence a separate action, because all of the claims are dealt with in the"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "4.1",
+        "title": "Responsibility of parties to manage litigation",
+        "text": "The parties are respon- sible for managing their dispute and for planning its resolution in a timely and cost-effective way.\n\n*[Alta. Reg. 124/2010, r. 4.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "The parties are respon- sible for managing their dispute and for planning its resolution in a timely and cost-effective way. *[Alta. Reg. 124/2010, r. 4.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "4.2",
+        "title": "What the responsibility includes",
+        "text": "The responsibility of the parties to manage their dispute and to plan its resolution requires the parties:\n(a) to act in a manner that furthers the purpose and intention of these rules described in rule 1.2 , [Purpose and intention of these rules]\n(b) in an action categorized as a standard case, to respond in a substantive way and within a reasonable time to any proposal for the conduct of an action, (c) in an action categorized as a complex case, to meet or to adjust dates in a timely way in a complex case litigation plan, (d) when the complexity or the nature of an action requires it, to apply to the Court for direction, or request case management under rule 4.12 , and [Request for case management]\n(e) to consider and engage in one or more dispute resolution processes described in rule 4.16(1) unless the [Dispute resolution processes]\nCourt waives that requirement.\n\n*[Alta. Reg. 124/2010, r. 4.2 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "The responsibility of the parties to manage their dispute and to plan its resolution requires the parties:",
+          "(a) to act in a manner that furthers the purpose and intention of these rules described in rule 1.2 , [Purpose and intention of these rules]",
+          "(b) in an action categorized as a standard case, to respond in a substantive way and within a reasonable time to any proposal for the conduct of an action",
+          "(c) in an action categorized as a complex case, to meet or to adjust dates in a timely way in a complex case litigation plan",
+          "(d) when the complexity or the nature of an action requires it, to apply to the Court for direction, or request case management under rule 4.12 , and [Request for case management]",
+          "(e) to consider and engage in one or more dispute resolution processes described in rule 4.16(1) unless the [Dispute resolution processes] Court waives that requirement. *[Alta. Reg. 124/2010, r. 4.2 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [
+          "This Part does not apply to an action brought by originating application unless the parties otherwise agree or the Court otherwise orders. See rule 3.10 [Application of statement of and rule 3.12 claim rules to originating applications].\nUnder rule 8.4 [Trial date: scheduled by court clerk] no trial date can be scheduled by the court clerk until the parties have engaged in a dispute 4.16(2) can also be given in the course of an application under rule 8.5(1) [Trial date: scheduled by the judge]; see rule 8.5(1)(a)(iii)."
+        ],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 4.2 sets out the specific obligations of the parties under rule 4.1.\nRule 4.1 is a continuation of the expression of the foundational rules and it informs the responsibility of the parties set out in rule 4.1. This rule and the parties’ overriding responsibility is to act in accordance with rule 1.2 — fairly and justly resolving claims in a timely and cost-effective way.",
+            "sentences": [
+              "Rule 4.2 sets out the specific obligations of the parties under rule 4.1.",
+              "Rule 4.1 is a continuation of the expression of the foundational rules and it informs the responsibility of the parties set out in rule 4.1.",
+              "This rule and the parties’ overriding responsibility is to act in accordance with rule 1.2 — fairly and justly resolving claims in a timely and cost-effective way."
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "4.3",
+        "title": "Categories of court action",
+        "text": "(1) For the purpose of these rules, actions are categorized as:\n(a) standard cases, or (b) complex cases.\n(2) In deciding whether an action should be categorized as a standard or complex case, the parties or the Court, as the case requires, must consider the following factors:\n(a) the amount of the claim, the number and nature of the claims, and the complexity of the action;\n(b) the number of parties;\n(c) the number of documents involved;\n(d) the number and complexity of issues and how important they are;\n(e) how long questioning under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. is [Disclosure of Information] likely to take;\n(f) whether expert reports will be required and, if so, the time it will take to exchange reports and to question experts under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point.\n[Disclosure of Information];\n(g) whether medical examinations and reports under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. [Disclosure of Information]\n[Medical Examinations by Health Care , Division  Kent v. Martin, [2013] A.J. No. 68, 2013 ABQB 36 at para. 24 (Alta. Q.B.).\nProfessionals] will be required;\n(h) any other matter that should be considered to meet the purpose and intention of the rules described in rule 1.2 [Purpose and intention of these rules];\n(i) whether a third party claim has been or is likely to be made.",
+        "sentences": [
+          "(1) For the purpose of these rules, actions are categorized as:",
+          "(a) standard cases, or",
+          "(b) complex cases.",
+          "(2) In deciding whether an action should be categorized as a standard or complex case, the parties or the Court, as the case requires, must consider the following factors:",
+          "(a) the amount of the claim, the number and nature of the claims, and the complexity of the action",
+          "(b) the number of parties",
+          "(c) the number of documents involved",
+          "(d) the number and complexity of issues and how important they are",
+          "(e) how long questioning under Part Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. is [Disclosure of Information] likely to take",
+          "(f) whether expert reports will be required and, if so, the time it will take to exchange reports and to question experts under Part Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. [Disclosure of Information]",
+          "(g) whether medical examinations and reports under Part Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. [Disclosure of Information] [Medical Examinations by Health Care , Division Kent v. Martin, [2013] A.J. No. 68, 2013 ABQB 36 at para. 24 (Alta. Q.B.).",
+          "Professionals] will be required",
+          "(h) any other matter that should be considered to meet the purpose and intention of the rules described in rule 1.2 [Purpose and intention of these rules]",
+          "(i) whether a third party claim has been or is likely to be made."
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2016 ABCA 135",
+            "style_of_cause": "Part  Ursa Ventures Ltd. v. Edmonton",
+            "context": "the number of documents involved;\n(d) the number and complexity of issues and how important they are;\n(e) how long questioning under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. is [Discl"
+          },
+          {
+            "neutral_citation": "2013 ABQB 36",
+            "style_of_cause": "Division  Kent v. Martin",
+            "context": "para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. [Disclosure of Information]\n[Medical Examinations by Health Care , Division  Kent v. Martin, [2013] A.J. No. 68, 2013 ABQB 36 at para. 24 (Alta. Q.B.).\nProfessionals] will be required;\n(h) any other matter that should be cons"
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "4.4",
+        "title": "Standard case obligations",
+        "text": "(1) Unless the parties otherwise agree, or the Court otherwise orders, and subject to matters arising beyond the control of the parties, the parties to an action categorized as a standard case must, within a reasonable time considering the nature of the action, complete each of the following steps or stages in the action:\n(a) close of pleadings;\n(b) disclosure of information under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. ;\n[Disclosure of Information]\n(c) at least one of the dispute resolution processes described in rule 4.16(1), unless the requirement is waived by the Court;\n(d) application for a trial date.\n(2) A party to an action categorized as a standard case may serve on the other",
+        "sentences": [
+          "(1) Unless the parties otherwise agree, or the Court otherwise orders, and subject to matters arising beyond the control of the parties, the parties to an action categorized as a standard case must, within a reasonable time considering the nature of the action, complete each of the following steps or stages in the action:",
+          "(a) close of pleadings",
+          "(b) disclosure of information under Part Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point.",
+          "[Disclosure of Information]",
+          "(c) at least one of the dispute resolution processes described in rule 4.16(1), unless the requirement is waived by the Court",
+          "(d) application for a trial date.",
+          "(2) A party to an action categorized as a standard case may serve on the other"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2016 ABCA 135",
+            "style_of_cause": "Part  Ursa Ventures Ltd. v. Edmonton",
+            "context": "the action, complete each of the following steps or stages in the action:\n(a) close of pleadings;\n(b) disclosure of information under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. ;\n[Disclo"
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.67",
+        "title": "[Close of pleadings].",
+        "text": "",
+        "sentences": [],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 4.4(1) compels parties in standard actions to: close pleadings; disclose information under Part 5; attempt one of the dispute resolution processes described in rule 4.16(1) (unless the requirement is waived by the court); and apply for a trial date within a reasonable time. These are the usual steps required in all actions. Rule 4.4(2) permits",
+            "sentences": [
+              "Rule 4.4(1) compels parties in standard actions to: close pleadings",
+              "disclose information under Part 5",
+              "attempt one of the dispute resolution processes described in rule 4.16(1) (unless the requirement is waived by the court)",
+              "and apply for a trial date within a reasonable time.",
+              "These are the usual steps required in all actions. Rule 4.4(2) permits"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "4.5",
+        "title": "Complex case obligations",
+        "text": "(1) The parties to an action categorized as a categorization or the Court determines that the action is a complex case, (a) agree on a complex case litigation plan, and (b) unless reasons are given in the plan not to do so, (i) establish a date by which the real issues in dispute will be identified, (ii) agree on a protocol for the organization and production of records, (iii) set a date by which disclosure of records will be completed under rule 5.5 [When an affidavit of records must be served], (iv) set a date by which questioning under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. [Disclosure of Information] will be completed, (2) When a complex case litigation plan or an amendment to the plan is agreed to, the plaintiff must file it and serve it on all parties.\n\n*[Alta. Reg. 124/2010, r. 4.5 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) The parties to an action categorized as a categorization or the Court determines that the action is a complex case",
+          "(a) agree on a complex case litigation plan, and",
+          "(b) unless reasons are given in the plan not to do so",
+          "(i) establish a date by which the real issues in dispute will be identified",
+          "(ii) agree on a protocol for the organization and production of records",
+          "(iii) set a date by which disclosure of records will be completed under rule 5.5 [When an affidavit of records must be served]",
+          "(iv) set a date by which questioning under Part Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. [Disclosure of Information] will be completed",
+          "(2) When a complex case litigation plan or an amendment to the plan is agreed to, the plaintiff must file it and serve it on all parties. *[Alta. Reg. 124/2010, r. 4.5 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2016 ABCA 135",
+            "style_of_cause": "Part  Ursa Ventures Ltd. v. Edmonton",
+            "context": "of records will be completed under rule 5.5 [When an affidavit of records must be served], (iv) set a date by which questioning under Part  Ursa Ventures Ltd. v. Edmonton (City), [2016] A.J. No. 471, 2016 ABCA 135 at para. 96 (Alta. C.A.), Wakeling J.A. in dissent, although not expressly on this point. [Disclosu"
+          }
+        ],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Complex case classifications do not occur often. Rule 4.5 compels",
+            "sentences": [
+              "Complex case classifications do not occur often.",
+              "Rule 4.5 compels"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "4.6",
+        "title": "Settling disputes about complex case litigation plans",
+        "text": "If no agreement is reached on a complex case litigation plan within the period referred to in rule 4.5(1) , or if the parties cannot agree on an [Complex case obligations] adjustment to a date in the plan, the Court may (a) establish or amend a complex case litigation plan for the action, or (b) make a procedural order with respect to the action generally or to deal with particular issues or issues that may arise.\n\n*[Alta. Reg. 124/2010, r. 4.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "If no agreement is reached on a complex case litigation plan within the period referred to in rule 4.5(1) , or if the parties cannot agree on an [Complex case obligations] adjustment to a date in the plan, the Court may",
+          "(a) establish or amend a complex case litigation plan for the action, or",
+          "(b) make a procedural order with respect to the action generally or to deal with particular issues or issues that may arise. *[Alta. Reg. 124/2010, r. 4.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "This rule gives the court the power to settle disputes about complex litigation plans. For example, a plaintiff may apply for an order under rule 4.6(1) where the plaintiff encounters conditions that may jeopardize meeting the targets under rule 4.33(1), and the defendant is not willing to accept anticipated delays in a litigation plan or other",
+            "sentences": [
+              "This rule gives the court the power to settle disputes about complex litigation plans. For example, a plaintiff may apply for an order under rule 4.6(1) where the plaintiff encounters conditions that may jeopardize meeting the targets under rule 4.33(1), and the defendant is not willing to accept anticipated delays in a litigation plan or other"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "4.7",
+        "title": "Monitoring and adjusting dates",
+        "text": "(1) The parties must monitor progress in their action and adjust the dates by which a stage or step in the action is",
+        "sentences": [
+          "(1) The parties must monitor progress in their action and adjust the dates by which a stage or step in the action is"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    }
+  ]
+}

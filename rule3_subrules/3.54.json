@@ -1,0 +1,226 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.54",
+  "title": {
+    "official": "Plaintiff’s reply to third party defence",
+    "variants": {
+      "BOOK_A": "Plaintiff's Reply toThird Party Defence"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.54(1)  A plaintiff or third party plaintiff may file a reply to a\nstatement of defence filed by a third party defendant.\n(2)  If a plaintiff or third party plaintiff files a reply, the reply must\n(a) be in Form 20,\n(b) comply with the rules about pleadings in Part 13, Division\n3, and\n(c) be filed and served on the third party defendant and each\nof the other parties within 10 days after service of the\nstatement of defence by the third party defendant on the\nplaintiff.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "1915b66d107490662a1d5f448b85e9e5e23901894fed0262621a80f042f8fe70"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.54 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          71
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Plaintiff's Reply toThird Party Defence",
+      "operative_text_raw": null,
+      "operative_text_sha256": "977661023364b3681566ea8040f6300e57eeebb2ae4d0d028df710e1a6deec7a",
+      "defined_terms": "file, plaintiff, pleading, rules, third party defendant, third party plaintiff",
+      "related_provisions": "13.10 (specific requirements for replies) *Application of Rules toThird Party Claims*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-123"
+        ],
+        "offset_in_clean_text": [
+          390819,
+          391516
+        ]
+      },
+      "operative_text_note": "same wording as official 3.54(1)-(2) (read by eye) except: the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings); the text is printed in two pieces (p.3-123 lines 3474-3475); the title in title case ('Plaintiff's Reply to Third Party Defence', straight apostrophe, printed before the rule number); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker. No substantive difference.",
+      "commentary_review_flag": "Read in full, p.3-123 (lines 3474-3477): rule text (two pieces), Defined Terms 'file, plaintiff, pleading, rules, third party defendant, third party plaintiff' (the Appendix defines each), Related Provisions '13.10 (specific requirements for replies)'; no Information Note and no note of its own. The built record: defined_terms, related_provisions (with the heading of 3.55 'Application of Rules to Third Party Claims' after it); commentary is empty; nothing dropped. (1) Related Provisions: '13.10 (specific requirements for replies)' - official 13.10 is 'Pleadings: specific requirements for replies' (shortened label; the same label as in the 3.33 record). (2) Book A prints no commentary for 3.54 and Book B prints none (rule text only); Book C's commentary (386 characters, complete: 'the plaintiff or third party plaintiff may reply to a statement of defence filed by a third party defendant ... The plaintiff has the right to respond to the third party's pleadings about why the defendant is not liable to the plaintiff') agrees with 3.54(1) and with 3.49(1)(c)(i). (3) Pointers to 3.54: Book A p.3-159 (line 4728) 'See also rule 3.54(2) [Plaintiff's reply to third party defence]' (in the note of a rule not identified here; the label is the official title with a straight apostrophe); official Form 20 '[Rule 3.54]' and Form 21's note '(rules 3.54(2)(b) and 13.10)' - 3.54(2)(b) is the Part 13 Division 3 pleading rule, and reply content is 13.10; Book C's 141-160 file prints the running head 'R. 3.54' inside the text of the counterclaim rule (3.56(1)-(2)) and Book C's 161-180 file repeats the 'See also rule 3.54(2)' pointer."
+    },
+    "BOOK_B": {
+      "title": "Plaintiff's reply to third party defence",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_54_001",
+        "part3_part_3_court_actions_020"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "d44a0be8282d93e87d4a2815d328205d5aedbe3887227215dc97d6963959f54a",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Plaintiff’s reply to third party defence",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "996b578dada88f9d3b713953fdd52ce598a60c70162aaaf338f5f0234810d2e3",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Importantly, the plaintiff or third party plaintiff may reply to a statement of defence filed by a third party defendant. This is important in cases where the third party has defended the third party claim by denying the defendant’s liability to the plaintiff. The plaintiff has the right to respond to the third party’s pleadings about why the defendant is not liable to the plaintiff.",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the labels '[Technical Rules]' and '[Pleadings]' are printed as in Book A but '[Pleadings]' is displaced after 'Division 3 , and' at the end of the line; no other difference. The amendment note '[Alta. Reg. 124/2010, r. 3.54 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.54(1)-(2) (read by eye) except: the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings); the text is printed in two pieces (p.3-123 lines 3474-3475); the title in title case ('Plaintiff's Reply to Third Party Defence', straight apostrophe, printed before the rule number); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker. No substantive difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the labels '[Technical Rules]' and '[Pleadings]' are printed as in Book A but '[Pleadings]' is displaced after 'Division 3 , and' at the end of the line; no other difference. The amendment note '[Alta. Reg. 124/2010, r. 3.54 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.54",
+      "title_official": "Plaintiff’s reply to third party defence"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "977661023364b3681566ea8040f6300e57eeebb2ae4d0d028df710e1a6deec7a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-123"
+          ],
+          "offset_in_clean_text": [
+            390819,
+            391516
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "d44a0be8282d93e87d4a2815d328205d5aedbe3887227215dc97d6963959f54a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "996b578dada88f9d3b713953fdd52ce598a60c70162aaaf338f5f0234810d2e3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "1915b66d107490662a1d5f448b85e9e5e23901894fed0262621a80f042f8fe70",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            71
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "3040408a539e5c4ecfde1c025fc0cf7fad321262f670b2076acf7964da730b2b"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.54 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.54 BOOK_C commentary sentence split dropped",
+    "3.54 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.54 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.54 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.1",
+  "title": {
+    "official": "Rules govern Court actions",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Court Actions and Their Venue"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.1   A court action for a claim may only be brought and carried\non, applications may only be filed and proceedings may only be\ntaken in accordance with these rules.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "6c6de7a016dd99cbbee330d0fba7967878e7475d6ad219b58790119727db2148"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          49
+        ]
+      }
+    },
+    "BOOK_A": null,
+    "BOOK_B": {
+      "title": "Rules govern Court actions",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_1_001",
+        "part3_part_3_court_actions_002"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "f0ff5b1e73e1549019e007404487f097a4074bed614f7f2352aceb38b755407a",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Rules govern Court actions",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "f0ff5b1e73e1549019e007404487f097a4074bed614f7f2352aceb38b755407a",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Court actions brought in the Court of King’s Bench are subject to the Rules.\nThe Rules do not contain a definition of “action”. It is an old common law concept that means “nothing other than the right of pursuing in a judicial proceeding what is due to one”.2",
+          "citations": [],
+          "review_flag": "footnote marker '2' ends this commentary but its text is not here: Book C prints it inside its rule 3.2 entry ('2 George E. Woodbine, ed., , , ca. 1250, Bracton on the Laws and Customs of England Volume 2 translated by Samuel E. Thorne (Cambridge: The Belknap Press of Harvard University, 1968-1977) at 282.', followed by the running head 'R. 3.1 48 [Resolving Issues and Preserving Rights]'). No marker '1' is printed in the 3.1 text."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "CARRIER_TEXT_MISSING",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.1",
+      "title_official": "Rules govern Court actions"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "CARRIER_TEXT_MISSING",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 3,
+    "carriers": {
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "f0ff5b1e73e1549019e007404487f097a4074bed614f7f2352aceb38b755407a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "f0ff5b1e73e1549019e007404487f097a4074bed614f7f2352aceb38b755407a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "6c6de7a016dd99cbbee330d0fba7967878e7475d6ad219b58790119727db2148",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            49
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "be99bf7b524d93bd730959637042a0fb8a93a46bb6c19a2c8e4b299bdba30f66"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text searched for 'rule 3.1', 'Rules 3.1' (including line-wrapped forms) and form headings '[Rule 3.1]': the only hit is the running page header 'Rule 3.1 AR 124/2010' (pdf p.49). No official rule cites 3.1 by number. BOOK_B (parts 01-10) has no 'Commentary § 3.1' section; BOOK_C's only text mentioning '3.1' is a displaced running head (see BOOK_C flag).",
+    "FLAG on BOOK_A R.4.3 (p.4-6, line 207, Related Provisions): '3.1 (statement of defence)'. Official 3.1 is 'Rules govern Court actions'; 'Statement of defence' is the official title of rule 3.31, and official 4.3(3) speaks of a statement of defence being filed. The sources do not say which number was meant.",
+    "BOOK_A related provisions that list 3.1 (searched all Book A files, line-wrapped forms included): R.1.1 (p.1-3, lines 45-46, wrapped) and R.1.7 (p.1-33, line 1624), both '3.1 (rules govern all proceedings)' - the label paraphrases the official title 'Rules govern Court actions'. Official 1.1(1): 'These rules govern the practice and procedure in (a) the Court of King's Bench of Alberta, and (b) the Court of Appeal of Alberta'.",
+    "BOOK_A has no rule text or notes for 3.1: its Part 3 file starts at book page 3-4 (pages 3-1 to 3-3 are not in it). Book A pointers into its own missing 3.1 note: p.3-7 (line 85, footnote text) 'See Sabir v. Gill and commentary on it, in R.3.1n.' and p.13-70 (line 3653, under R.13.13) 'See Sabir v. Gill, R.3.1 n.'; the case is cited in full at p.3-43 fn 1 and p.3-45 fn 8 (Sabir v. Gill 2023 ABKB 679) and at p.13-68 fn 3 and p.13-102 fn 4 (Part 13). The 3.1 note itself cannot be checked."
+  ],
+  "dedupe_log": [
+    "3.1 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.1 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.1 BOOK_C commentary sentence split dropped",
+    "3.1 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

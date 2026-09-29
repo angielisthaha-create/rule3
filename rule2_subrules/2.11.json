@@ -1,0 +1,528 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.11",
+  "title": {
+    "official": "Litigation representative required",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.11   Unless otherwise ordered by the Court, the following\nindividuals or estates must have a litigation representative to bring\nor defend an action or to continue or to participate in an action, or\nfor an action to be brought or to be continued against them:\n(a) an individual under 18 years of age;\n(b) an individual declared to be a missing person under\nsection 7 of the Public Trustee Act;\n(c) an adult who, in respect of matters relating to a claim in\nan action, lacks capacity, as defined in the Adult\nGuardianship and Trusteeship Act, to make decisions;\n(d) an individual who is a represented adult under the Adult\nGuardianship and Trusteeship Act in respect of whom no\nperson is appointed to make a decision about a claim;\n(e) an estate for which no personal representative has\nobtained a grant under the Surrogate Rules (AR 130/95)\nand that has an interest in a claim or intended claim.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "491a14c73cd21e9a2914d325ca71e1f9f6ced0fab3f073e1f73bbf06b90da7dc"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s2.11;122/2012",
+    "amending_regulations": [
+      "122/2012"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;122/12]"
+      ],
+      "BOOK_B": "Alta. Reg. 122/2012, s. 2",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 122/2012, s. 2]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          39
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Litigation Representative Required",
+      "operative_text_raw": null,
+      "operative_text_sha256": "32822d58883265f636f237e546862e726fb8efdfaca647c46317f833fa7457c4",
+      "related_provisions": "3.36(2) (noting litigation representative in default) ; 11.7 (service on litigation representative) ; 12.6 (minors involved in family litigation)",
+      "commentary": "A. Transitional\nThe person who was formerly called a “next friend” is now called a “litigation representative”.\nThere are three types, described in R.2.12.\nCase law on next friends or guardians ad litem under the old Rules remains highly inﬂuential\nunder the new.¹\nB. Estates\nThere is a textbook.²\nAn estate (by its legal personal representative) can sue on a right which the deceased had,\nonly if the cause of action survives; in torts cases often now it does not.³\nNeither a deceased person, nor the estate of a deceased person, is a legal entity. But a suit\nby “the estate of John Smith” may be amended to name an executor or administrator who existed\nwhen the suit began.⁴\nA legal entity is required to represent the estate. Ordinarily, this would be\na trustee, executor, or administrator,⁵\nor an administrator ad litem under the Survival of Actions\nAct⁶\nor the Fatal Accidents Act.⁷\nIn a lawsuit (as to a contract between the deceased and Mr. A), a beneﬁciary of the estate has\nno standing to sue Mr. A. That is so whether or not the motive of the beneﬁciary is self-interest. A\nbeneﬁciary can only claim against the executor or trustee.⁸\n\nThe Fatal Accidents Act requires that a suit under it be by an executor or administrator, but not\ndoing so is curable, and not a ground to strike the suit.¹\nIf the bankrupt’s estate will not produce a surplus, the bankrupt himself has no standing to\nseek his trustee’s removal.²\nIn litigation about how to interpret the will of one deceased, one party was the estate of another\ndeceased. The latter estate was denied leave to be represented by a non-lawyer, as contrary to R.\n2.11 about estates. Following R.2.11 was very important, especially as there seemed to be some\nquestion about the latter will.³\nC. Persons Lacking Capacity\nOn litigation representatives generally, see the Civil Procedure Encyclopedia.⁴\nMinors⁵\nand persons of unsound mind are often not capable of instructing counsel or\ncommencing actions. Someone has to do this for them.⁶\nMinors, for example, may sue or\ncounterclaim by a litigation representative.⁷\nNo order is required for this, but an afﬁdavit of the\nlitigation representative must be ﬁled.⁸\nWhen a litigation representative sues, the only person suing is the disabled one, and the\nlitigation representative or guardian is not a separate person or party. The remedy is to have terms\nimposed when a litigation guardian is appointed by the court.⁹\nThe job of the litigation representative is to pay costs¹⁰\nand to give instructions to counsel in\nall matters except concluding a settlement. The litigation representative is not to run the action\nwithout counsel, and if he attempts to do so, the court will require a replacement (e. g. , the Public\nTrustee. )¹¹\nThe litigation representative of a minor is usually a parent, but sometimes the court\nmight appoint a stranger as litigation representative.¹²\nHe or she must be an “interested person”,\nbut that is not deﬁned.¹³\nIf there was a previous litigation representative, no formal resignation is\n\nnecessary, but proper evidence is necessary, and there must be no conﬂict of interest, and often\nthe Public Trustee should be consulted.¹\nThe court has no right to order the Public Trustee, in litigation in which he is otherwise not\ninvolved, to provide or fund a litigation representative for a minor plaintiff, e. g. when his existing\nrepresentative has a conﬂict or does not wish to continue.²\nMentally disabled persons with no trustee or guardian under the Dependent Adults Act³\nmay\nsue or counterclaim by a litigation representative as well. The court can determine whether there\nis capacity. If a mentally incompetent adult sues by himself, the court may later add his trustee\nas a plaintiff, despite a limitation period, if there is no prejudice to the defendant?⁴\nBut something\nmust be done, for appointment (by the court or operation of law) of a representative for a mentally\nincompetent person takes away any capacity which that person had to bring or continue court\nproceedings herself, or to appear personally in court.⁵\nMinors and mentally incompetent persons may defend by a litigation representative, whom\na court may appoint if necessary.⁶\nIf a guardianship or trusteeship order is in place, it should be\nchecked to conﬁrm that it gives authority to the guardian or trustee to represent the dependent\nadult in legal proceedings.\nD. Types of Representative\nThe Public Trustee can perform these roles, though he is not often eager to act as litigation\nrepresentative if there is any suitable alternative, because of the potential exposure to costs. The\nPublic Trustee should be notiﬁed if a lawsuit involves the estate of a minor (e. g. , personal injury\ndamages), and must be notiﬁed if a court application involves the property or estate of a minor,\nmissing person, convict or mentally incompetent person.\nA litigation representative should be indifferent as to the outcome of the proceedings, free\nof conﬂict of interest, and able to give an unbiassed assessment of the legal situation and the\nappropriate actions to take. When it is an estate dispute, a family member who is involved in the\ndispute is not suitable, even though ordinarily family members would be suitable as litigation\nrepresentatives.⁷\nIn litigation over who would disburse trust fund payments for minor members\nof an Indian Band, the courts preferred the Public Trustee to parents, and appointed the Public\nTrustee as litigation representative.⁸\nThe court should appoint counsel for a child only if the parents cannot properly represent the\nchild’s best interests.⁹\nOne parent warring with the other parent over custody cannot unilaterally\nappoint a lawyer for the child, and if the court were later to bless that appointment it would look\nbiassed. If one parent thinks that the child needs independent counsel, a motion to that effect\nshould be made to the court.¹⁰\n\nThe Court of King's Bench has inherent power to make an interim appointment of a person’s\nguardian, in an urgent situation, even if the statutory notice periods under the Dependent Adults\nAct are not met.¹\nParents are automatically the guardians of the person of a minor, but not automatically\nguardians of the estate of minors.²\nParents may be appointed as guardian of the estate of a minor,\nbut they may be required to post a bond.\nThe Miscellaneous Statutes Amendment Act 1996³\nmade a signiﬁcant change to this area\nof the law. Formerly, the Public Trustee would automatically become the guardian ad litem of\nthe estate of a minor, missing person, or mental incompetent once notice was given. Now court\napproval is required. Therefore, one should ﬁrst determine whether a suitable representative\nexists.⁴\nOne cannot assume that the Public Trustee will perform the role of guardian ad litem.\nA suit by a trustee in bankruptcy against third parties is not within Bankruptcy Rules, and\nis primarily ordinary civil litigation, even if the Bankruptcy and Insolvency Act affects some of\nthe rights of the parties. The trustee represents the bankrupt corporation, and has no separate\nexistence or identity.⁵\nE. Authority and Procedure\nIf someone is under a disability, the Limitations Act suspends operation of the Act. That could\nbe indeﬁnite, if the disability is likely permanent. Existence of any kind of guardian for the disabled\nperson is no excuse, given the statute’s clear wording.⁶\nCourt approval is needed for settlement.⁷\nA lawyer with any doubts about his or her client’s ability to give instructions should look ﬁrst\nto see if there is a Guardianship Order, a Trusteeship Order, or a Certiﬁcate of Incapacity. Or if\none is needed. Partway into a suit for personal injury, a plaintiff’s parents were appointed his\nguardians and trustees, only on condition that they undertake to be responsible for costs. Security\nwas unnecessary because they lived in Alberta. The defendants claimed that the plaintiff had had\nno mental capacity to sue, but the court found no prejudice and that the defendant knew of the\ndisability.⁸\n\nIf a lawyer’s client loses mental capacity, the lawyer loses authority to take steps in the existing\nsuit.¹\nWhere an infant defended himself, his statement of defence was not struck out. But there\nbeing no exceptional circumstances, the court appointed the Public Guardian to represent him in\nthe suit.²\nThe style of cause in such an action looks like this:\nPlaintiff: X, a minor, by his Litigation Representative, Y.\nDefendant: A, a minor, by her Litigation Representative, B.\nUnless there is an express exception in the Legal Profession Act (or the court exercises\nits discretion?), a representative of a party under a disability needs a lawyer to represent the\nrepresentative. The old law on that subject continues under the new Rules. It would be pointless\nto appoint a litigation representative when the whole aim was to litigate without a lawyer.³\nWhere a lawyer was removed from a panel of people who would be hired to represent children\nbecause of accusations of incivility, that was not a removal of the right to practice law generally,\nand arguments that there was inconsistency between the “client” (the Ofﬁce of the Children’s\nAdvocate) and a duty of civility, did not make sense.⁴\nF. Costs\nOne of the main functions of a litigation representative is to answer for costs. Indeed, it may be\nthat he or she is primarily liable to pay costs, and can merely later try to get reimbursement from\nthe minor.⁵\nTherefore, if a lawyer is about to issue a statement of claim for a minor, it is important\nto warn the litigation representative about this liability for costs. If the litigation representative is\nnot the infant’s parent or guardian, and would derive no beneﬁt at all from the suit, it might be\nnecessary that he or she get independent advice. He or she should also be warned that he or she\nmust run the minor’s suit for the beneﬁt of the minor, and that any out-of court settlement must\nprobably be approved by the court. He or she should also be warned that if he (or she) and the\ninfant have, or later develop, a conﬂict of interest, the litigation representative’s own interests may\nhave to take second place to the infant’s.\nA court-appointed representative for an infant was liable for costs incurred after she tried to\nresign, because she kept acting (and later discontinued her own claim).⁶\nJudicially-appointed trustees are entitled to reasonable remuneration adjusted from time to\ntime, based on time spent, importance of the task, and similar matters.⁷\n\nG. Representative is Not Party\nA litigation representative is not a party in his or her own right, and making him or her a party\nlater by amendment is the addition of a new party.¹\nGuardians and trustees of an infant plaintiff are\nnot parties in their own right, and their counsel acts only in the interests of the infant. Therefore\nan amendment shortly before trial to add allegations against them of negligence leading to the\naccident would be prejudicial.²",
+      "footnotes": [
+        {
+          "page": "2-30",
+          "number": 1,
+          "text": "Champagne v. Sidorsky 2012 ABQB 522, 548 AR 10 (¶ 26)."
+        },
+        {
+          "page": "2-30",
+          "number": 2,
+          "text": "Hulland Popovic-Montag, Challenging the Validity of Wills (2nd ed. Carswells 2018)."
+        },
+        {
+          "page": "2-30",
+          "number": 3,
+          "text": "F. R. N. v. R. (Alta. ), infra."
+        },
+        {
+          "page": "2-30",
+          "number": 4,
+          "text": "Bailey Est. v. Melanson (2000) 265 AR 186, 2000 Canlii 28200."
+        },
+        {
+          "page": "2-30",
+          "number": 5,
+          "text": "Pursuant to Rule 2.13; referred to as a “personal representative” under the Surrogate Rules."
+        },
+        {
+          "page": "2-30",
+          "number": 6,
+          "text": "RSA 2000 c. S-27."
+        },
+        {
+          "page": "2-30",
+          "number": 7,
+          "text": "RSA 2000 c. F-8."
+        },
+        {
+          "page": "2-30",
+          "number": 8,
+          "text": "MacDonald v. Taubner 2010 ABQB 60, 485 NR 98."
+        },
+        {
+          "page": "2-31",
+          "number": 1,
+          "text": "F. R. N. v. R. (Alta. ) 2014 ABQB 375, [2014] AR Uned 470."
+        },
+        {
+          "page": "2-31",
+          "number": 2,
+          "text": "Prue v. Shen 2014 ABQB 363, [2014] AR Uned 418."
+        },
+        {
+          "page": "2-31",
+          "number": 3,
+          "text": "Re Slater Est.2022 ABKB 859, JCC SES01 125138 (Dec 22) ((¶’s 45-60)."
+        },
+        {
+          "page": "2-31",
+          "number": 4,
+          "text": "Chapter 5, Part A."
+        },
+        {
+          "page": "2-31",
+          "number": 5,
+          "text": "Persons under 18, at common law called “infants”."
+        },
+        {
+          "page": "2-31",
+          "number": 6,
+          "text": "Where a court has found the plaintiff not mentally competent and that she must have a litigation representative, and that order has not been appealed, a later notice of appeal by the plaintiff in person with no counsel or litigation representative, is non-compliant with a Rule or direction or order, under R.14.90(1) (b). Any further document could be ﬁled only after the Court of King's Bench appointed a particular individual as the plaintiff’s litigation representative: Gayton v. Rinholm 2016 ABCA 328, Calg 1601 0212 AC (Oct 21)."
+        },
+        {
+          "page": "2-31",
+          "number": 7,
+          "text": "There may be an exception for wage claims."
+        },
+        {
+          "page": "2-31",
+          "number": 8,
+          "text": "R.2.15",
+          "review_flag": "probable wrong rule number: the text cites 'R.2.15' for 'no order is required ... but an affidavit of the litigation representative must be filed'. That requirement is in rule 2.14(1)(a) (self-appointment), so this probably means R.2.14. Left as printed."
+        },
+        {
+          "page": "2-31",
+          "number": 9,
+          "text": "Innes v. Ferguson (M) 2018 ABQB 959, JCE 1503 07954 (Nov 22)."
+        },
+        {
+          "page": "2-31",
+          "number": 10,
+          "text": "Rules 2.14(2) (f), 10.47. Though occasionally the court could appoint one free of costs: Thomlinson v. R. , infra. See R.2.17.",
+          "review_flag": "probable wrong clause (4th pass): 'Rules 2.14(2) (f), 10.47' is cited for the litigation representative's job 'to pay costs'. Official 2.14(2)(f) is the corporation's place of business; the costs acknowledgment is 2.14(2)(g). Left as printed."
+        },
+        {
+          "page": "2-31",
+          "number": 11,
+          "text": "This was also the common law, before the present R.2.11 was enacted: Balogun v. Pandher 2010 ABCA 40, 474 AR 258; Torrance v. Alta.2010 ABCA 88, 477 AR 343, leave den (SCC 8 Jul ’10)."
+        },
+        {
+          "page": "2-31",
+          "number": 12,
+          "text": "L. C. v. R. (Alta. ) 2011 ABQB 42, 509 AR 72; Thomlinson v. R.2003 ABQB 308, 335 AR 85. The court will not simply add a well-meaning stranger as next friend without exhausting the possibilities of the Public Trustee or the relatives acting, or giving the Public Trustee a chance to comment. If there is already a litigation representative, then there would have to be evidence that she no longer wishes to act or is unable: C. H. S. v. Dir. of Child Welfare (#2) 2008 ABQB 620, 452 AR 98."
+        },
+        {
+          "page": "2-31",
+          "number": 13,
+          "text": "L. C. v. R. , supra."
+        },
+        {
+          "page": "2-32",
+          "number": 1,
+          "text": "L. C. v. R. , supra."
+        },
+        {
+          "page": "2-32",
+          "number": 2,
+          "text": "L. C. v. Métis Settlements Child & Fam. Serv. (#2) 2011 ABQB 236, [2011] AR Uned 326 (Apr 7)"
+        },
+        {
+          "page": "2-32",
+          "number": 3,
+          "text": "RSA 2000 c. D-11."
+        },
+        {
+          "page": "2-32",
+          "number": 4,
+          "text": "Lytton v. R. (#2) (1998) 225 AR 131, 68 Alta LR(3d) 316. This was done only after the plaintiffs had gone through 8 lawyers and had not got a 9th, though told to do so: S. W. v. K. T. (#2) 2006 ABQB 830."
+        },
+        {
+          "page": "2-32",
+          "number": 5,
+          "text": "Leung (Wong) v. Al-Hassan 2003 ABCA 366; C. v. Rockyview Gen. Hosp.2003 ABQB 366, 345 AR 373."
+        },
+        {
+          "page": "2-32",
+          "number": 6,
+          "text": "See Rr.2.13 and 2.15."
+        },
+        {
+          "page": "2-32",
+          "number": 7,
+          "text": "Gronnerud v. Pub. T’ee. for Sask. (Gronnerud Est. ) 2002 SCC 38, [2002] 2 SCR 417."
+        },
+        {
+          "page": "2-32",
+          "number": 8,
+          "text": "1985 Sawridge Tr. v. Pub. T’ee. (Twinn v. Pub. T’ee. ) 2012 ABQB 365, 543 AR 90 (¶’s 16-18)."
+        },
+        {
+          "page": "2-32",
+          "number": 9,
+          "text": "Smith v. Lagace 2011 ABQB 405, 520 AR 269. Case law is reviewed, and need for clarity of role and who gives instructions, are emphasized: J. C. v. K. C.2022 ABKB 707, JCC FL01 36960 (Oct 24) (¶’s 51-61)."
+        },
+        {
+          "page": "2-32",
+          "number": 10,
+          "text": "L. M. H. v. S. R. H.2010 ABQB 769, 507 AR 201."
+        },
+        {
+          "page": "2-33",
+          "number": 1,
+          "text": "Doull v. Pub. Guardian 2008 ABCA 163; cf. S. C. v. Cap. Health Authy. (Re I. H. V. Est. ) 2008 ABQB 250, 449 AR 211."
+        },
+        {
+          "page": "2-33",
+          "number": 2,
+          "text": "Note the Family Law Act Part 2 and the Public Trustee Act."
+        },
+        {
+          "page": "2-33",
+          "number": 3,
+          "text": "1996 c.28 s.5, amending Public Trustee Act s.5, effective January 2, 1997."
+        },
+        {
+          "page": "2-33",
+          "number": 4,
+          "text": "That the administrator ad litem is very keen to sue is not a disqualifying conﬂict of interest, nor is even his own personal interest in suing: Hughes Est. v. Brady 2007 ABCA 277, 417 AR 52. See a review of who can sue for an infant, and roles of guardian (parent), Public Trustee, and next friend. A parent cannot sue if his or her guardianship has been superseded by a guardianship order in favor of the Director: V. B. v. R.2004 ABQB 788, 365 AR 179."
+        },
+        {
+          "page": "2-33",
+          "number": 5,
+          "text": "PricewaterhouseCoopers v. Perpetual Enr.2021 ABCA 16, 20 Alta LR(7th) 23 (¶’s 187-88), leave den (SCC 18 Jul ’21)."
+        },
+        {
+          "page": "2-33",
+          "number": 6,
+          "text": "Innes v. Ferguson, supra, Part C."
+        },
+        {
+          "page": "2-33",
+          "number": 7,
+          "text": "Minors’ Property Act, RSA 2000 c. M-18 s.15, and the inherent jurisdiction of the court. Mere allegations of mental problems are not enough to invoke the court’s parens patriae power and so overcome statutory limitations; strong grounds and clear evidence would be needed: Alta. Mental Health Bd. v. Martin 2003 ABCA 127, 327 AR 366, leave den (SCC 18 Mar ’04)."
+        },
+        {
+          "page": "2-33",
+          "number": 8,
+          "text": "J. G. v. Strathcona (Cty. ) 2004 ABQB 231, 356 AR 103."
+        },
+        {
+          "page": "2-34",
+          "number": 1,
+          "text": "Kocken Est. v. DeLong 2009 ABCA 286. That longstanding rule was questioned in England in 2015 and in 2016."
+        },
+        {
+          "page": "2-34",
+          "number": 2,
+          "text": "Williams v. Sailer 2000 ABQB 495, 269 AR 365."
+        },
+        {
+          "page": "2-34",
+          "number": 3,
+          "text": "Champagne v. Sidorsky 2012 ABQB 522, 548 AR 10."
+        },
+        {
+          "page": "2-34",
+          "number": 4,
+          "text": "Goold v. Ofﬁce of the Children’s Advocate 2011 ABCA 63, 502 AR 298."
+        },
+        {
+          "page": "2-34",
+          "number": 5,
+          "text": "But a litigation representative was given advance costs immunities for the early steps of a suit (a would-be class action for certain minors): L. C. v. R. (Alta. ) 2015 ABQB 713, JCE 0703 10836 (Nov 17)."
+        },
+        {
+          "page": "2-34",
+          "number": 6,
+          "text": "K. S. v. Willox (#2) 2016 ABQB 654, JCE 0403 07714 (Nov 22)."
+        },
+        {
+          "page": "2-34",
+          "number": 7,
+          "text": "Alta. Teachers’ Assn. v. Calg. Bd. of Educ. (#4) 2006 ABQB 817, 411 AR 320 (¶’s 31-4, 43-5)."
+        },
+        {
+          "page": "2-35",
+          "number": 1,
+          "text": "Hu v. Wang 2003 ABCA 171, 327 AR 382."
+        },
+        {
+          "page": "2-35",
+          "number": 2,
+          "text": "J. G. v. Strathcona (Cty. ) 2004 ABQB 378, 356 AR 140."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          1431,
+          1728
+        ],
+        "book_pages": [
+          "2-29",
+          "2-30",
+          "2-31",
+          "2-32",
+          "2-33",
+          "2-34",
+          "2-35"
+        ]
+      },
+      "operative_text_note": "same wording as official; differs only by spacing and the bracketed amendment note '[Alta. Reg.124/10;122/12]' (kept in amendment_history.carrier_notes).",
+      "commentary_review_flag": "5th pass, statements read against the official text: (1) Part C and D (p.2-32, p.2-33) speak of persons 'with no trustee or guardian under the Dependent Adults Act' and its notice periods (fn 3: RSA 2000 c. D-11); official 2.11(c)-(d) refer instead to the Adult Guardianship and Trusteeship Act, and the official Rules never name the Dependent Adults Act. The sources do not say how the two Acts relate; read 2.11(c)-(d). (2) BOOK_B section 1 quotes Public Guardian v C.(K.) para 67: 'Rule 2.11 ... directs that a Represented Adult must have a litigation representative' - official 2.11(d) requires one only for a represented adult 'in respect of whom no person is appointed to make a decision about a claim' (the judge's wording, as printed). Other statements checked and consistent: three types (2.12(1)); settlement needs approval (2.19); 'interested person' not defined (not among Part 2's defined terms). 6th pass: 'The job of the litigation representative is to pay costs' (p.2-31, fn 10) and Part F 'answer for costs ... primarily liable' (p.2-34) must be read with official 10.47: a plaintiff's litigation representative is liable for a costs award; a defendant's is not, unless there was serious misconduct and the Court so orders."
+    },
+    "BOOK_B": {
+      "title": "Litigation representative required",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.11:1",
+          "text": "Rule 2.11 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.11. 1. Lack of Capacity under R. 2.11(c) In Chutskoff Estate v. Bonora, 2013 ABQB 119, Madam Justice Ross said, at paragraph 19: 19 The Adult Guardianship and Trusteeship Act, whose definition of capacity is incorporated in Rule 2.11(c), provides that “an adult is presumed to have the capacity to make decisions until the contrary is determined”: s 2(a). It is in my view appropriate to take the same approach under Rule 2.11(c). The admitted fact that the Respondent suffers from a psychiatric condition does not mean that he lacks capacity as defined in Rule 2.11(c). Lack of capacity in the defined sense must be proved on a balance of probabilities. In Alberta (Public Guardian) v. C. (K.), 2015 ABQB 369, an application was brought under the Adult Guardianship and Trusteeship Act (Alberta) in relation to the guardianship of a 27 year old individual (DC) suffering from Down's Syndrome who lacked “the capacity to make informed decisions relating to such matters as health care; where, with whom and under what circumstances he will live; who he may associate with; participation in social activities; participation in educational, vocational and other training; employment; and the carrying on of any legal proceedings unrelated to financial matters. His judgment and insight were further impacted by a tobogganing accident in 2009 in which he sustained head injuries.” Justice Gates concluded that DC should be permitted to be represented by counsel for the limited purpose of putting forth his/her views on the application. Justice Gates said: 65 DC was represented by counsel throughout these proceedings. Counsel advised the Court that she had been retained to make submissions to the Court with regard to DC's views and wishes. She also indicated that he did not want to participate in the proceedings by way of giving evidence or through the cross examination of any witnesses. 66 DC's counsel relied on s. 28(1) of the AGTA, which directs the Court to consider “the views and wishes of the adult, if ascertainable.” 67 Rule 2.11 of the Alberta Rules of Court directs that a Represented Adult must have a litigation representative in order to bring, defend, continue or participate in an action. However, this rule is qualified by Rule 12.6(2), which provides that a child is not considered to be participating in an action for the purposes of the Rule 2.11 merely by being the subject of the dispute or being served with notice of the proceedings. 68 I accept the argument advanced by DC's counsel that Rule 12.6(2), by analogy, applies in these circumstances so as to obviate the requirement for DC to have a litigation representative appointed to permit him to participate in this action. Like a child, DC lacks the legal capacity to either represent himself or to retain counsel for that purpose. However, he clearly has an interest in these proceedings notwithstanding that he had no role in bringing, defending, or continuing them. His proposed participation in these proceedings is a very limited one—the opportunity to express his views and wishes prior to the rendering of a decision on this application. He does not wish to participate otherwise and, indeed, does not oppose his need of a guardian or, indeed, the Public Guardian's application in this instance. 69 In my view, DC should be permitted to be represented by counsel for this very limited purpose. I would note that counsel are frequently appointed in family law cases to “represent” the views and/or wishes of children relative to legal proceedings in which they are implicated. In such instances, this information can be very helpful to the Court in determining what is in the best interest of the child or children. The same principle should, by analogy, apply here, namely that the expression of DC's views and wishes will, potentially, be very helpful to the Court in determining what is in his best interest in the future. Accordingly, I find that Rule 2.11 does not preclude DC from being represented by counsel in these proceedings so as to allow his voice to be heard. 70 During the course of these proceedings, counsel for Mr. C took the position that DC lacked the capacity to retain or instruct counsel. While this legal issue was not fully argued before me, I would offer the view that I am inclined to agree with this position. However, it seems to me that counsel may reflect the views and wishes of either a child or, as in this instance, a represented adult, without having been formally retained or instructed so long as the child or represented adult has the necessary capacity to understand the nature of the proceedings, generally, and the ability or capacity to provide instruction with regard to his or her views relative to the proceeding. 2. Litigation representative for an estate In Kunkel v. Winquist, 2022 ABQB 367, 2022 CarswellAlta 1305, Justice Leonard said: [23] However, there is nothing in the language of the Rules of Court to suggest that the litigation representative of an estate must be a person who is entitled to apply for a grant of administration. There is also nothing in the case law to suggest that the possible litigation representatives for an estate should be limited to those people who are entitled to apply for a grant of administration. [24] Instead, when appointing a litigation representative, the primary goal of the Court is to ensure the interests of the estate are represented: Hughes Estate v Hughes, 2007 ABCA 277. Most importantly, a litigation representative should not be in conflict with the interests of the estate: Rufenak v Hope Mission, 2005 ABCA 129. The litigation representative should also be able to manage the litigation and be willing to pay the court costs of the litigation: see Rules of Court, r 10.47. [25] When it comes to the relationship between a litigation representative and an estate, a beneficiary of an estate can act as the litigation representative: Lux v Lux, 2021 ABCA 413 at para 5. However, this does not need to be the case: Gonnerud (Litigation Guardians of) v Gonnerud Estate, 2002 SCC 38 at para 21. Ultimately, the driving question for the Court is whether a litigation representative will represent the interests of the estate. [26] Considering these authorities, I conclude that it is not necessary for the litigation representative of an estate to have priority to apply for a grant of administration under the Estate Administration Act. …"
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_003",
+        "part2_rule_2_11_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_004",
+        "part2_alberta_rules_of_court_rule_2_part_2_005",
+        "part2_rule_2_11_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_006"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "e2474aa5d6b70cffc610bf67a7060b65b9eca0749ecd7bb50a5ad01900af6bf6",
+      "operative_text_note": "same wording as official; only 'Alta. Reg. 130/95' for 'AR 130/95' (amendment note kept separately)."
+    },
+    "BOOK_C": {
+      "title": "Litigation representative required",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0006b26bb8f716f36ffaf4f26c776b50b38589d7ffabda0d462ae322088f5469",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "“Represented adult” is defined in the Adult Guardian and Trusteeship Act S.A. 2008, c. A-4.2, s. 1(hh). as an adult in respect of whom a guardianship order, a trusteeship order, or both orders are in effect. Capacity is defined under thatAct to mean, in respect of the making of a decision about a matter, the ability to understand the information that is relevant to the decision and to appreciate the reasonably foreseeable consequences of both a decision, and the failure to make a decision. Adult Guardian and Trusteeship Act, S.A. 2008, c. A-4.2, s. 1(d). This definition is incorporated into rule 2.11. Lack of capacity must be proved on a balance of probabilities. Chutskoff Estate v. Bonora, [2013] A.J. No. 195, 2013 ABQB 119 at para. 19 (Alta. Q.B.).\nRule 2.11 can include situations where a personal representative is already in place arising from an appointment under a will, but a grant of probate has not yet been obtained. 1368276 Alberta Ltd. v. Grotski Estate, [2015] A.J. No. 849, 2015 ABQB 490 at para. 28 (Alta. Q.B. (Master)). It does not preclude a represented adult from being represented by counsel in proceedings where",
+          "citations": [
+            {
+              "neutral_citation": "2013 ABQB 119",
+              "style_of_cause": "Chutskoff Estate v. Bonora, [2013] A.J. No. 195"
+            },
+            {
+              "neutral_citation": "2015 ABQB 490",
+              "style_of_cause": "1368276 Alberta Ltd. v. Grotski Estate, [2015] A.J. No. 849"
+            }
+          ],
+          "review_flag": "useful and unique points (definitions of 'represented adult' s.1(hh) and 'capacity' s.1(d); 2.11 covers a will-appointed personal representative before probate). Last sentence cut off in source. Act name misprinted as 'Adult Guardian and Trusteeship Act' (correct: Adult Guardianship and Trusteeship Act, as in official 2.11(c)). Cross-book: Chutskoff 2013 ABQB 119 para 19 is the same passage BOOK_B 2.11 section 1 quotes."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "garbled in source: (b) has stray text ('[ ]. Payment into Court and Payment out of Court'), (d) and (e) replaced by case citations. Not usable; official text controls.",
+      "citations_note": "the 3 citations in the 2.11 text are displaced: 2008 ABCA 192 ([2008] A.J. No. 543; Book C prints no name here - Books A and B identify 2008 ABCA 192 as Pedersen/Pederson v. Alberta) and Grant Thornton 2016 ABCA 238 are intervenor cases (rule 2.10), Stamos 2018 ABQB 566 is a rule 2.5 case (kept there). Also in the garbled text (4th pass): a bare case name 'Morrow v. Zhang' with no recoverable citation or context; it appears nowhere else in any of the sources, so it cannot be attributed. Dropped. Evidence (5th pass): all three stand where the text of 2.11(d)-(e) should be. Stamos 'at para. 3' is the same pinpoint as in C's 2.5 commentary. Grant Thornton is here 'at para. 11' - that pinpoint appears nowhere else in Book C (C's 2.10 and 2.13 cite para. 9); it is called an intervenor case because C's own 2.10 commentary cites it for the intervenor test. 2008 ABCA 192 appears in Book C only here.",
+      "division_heading_flag": "wrong in Book C: rule 2.11 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official; differs only by spacing and the bracketed amendment note '[Alta. Reg.124/10;122/12]' (kept in amendment_history.carrier_notes)."
+    },
+    "BOOK_B": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official; only 'Alta. Reg. 130/95' for 'AR 130/95' (amendment note kept separately)."
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6258,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.11",
+      "title_official": "Litigation representative required"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "32822d58883265f636f237e546862e726fb8efdfaca647c46317f833fa7457c4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            1431,
+            1728
+          ],
+          "book_pages": [
+            "2-29",
+            "2-30",
+            "2-31",
+            "2-32",
+            "2-33",
+            "2-34",
+            "2-35"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "e2474aa5d6b70cffc610bf67a7060b65b9eca0749ecd7bb50a5ad01900af6bf6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "0006b26bb8f716f36ffaf4f26c776b50b38589d7ffabda0d462ae322088f5469",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "491a14c73cd21e9a2914d325ca71e1f9f6ced0fab3f073e1f73bbf06b90da7dc",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            39
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "9cb696fbdc404c63e3c9a69e50a8163413baf6bb46c759f5522a207a7546b9e4"
+  },
+  "information_notes": [
+    {
+      "text": "The rules for the appointment of a litigation representative would not apply if a personal\nrepresentative of an estate had obtained a grant under the Surrogate Rules.",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "garbled copy; not retained. WARNING: its word order reverses the meaning ('would apply if a not personal representative'); the correct text is BOOK_A's ('would not apply')"
+      }
+    }
+  ],
+  "see_also": [
+    "8th pass: BOOK_A's related-provision label '3.36(2) (noting litigation representative in default)' (under 2.11, 2.12, 2.16 and 2.19) is loose - official 3.36(2) says a judgment in default of defence must not be entered, without the Court's permission, against a person represented by a litigation representative; noting in default (3.36(1)(b)) is not restricted. Read the official text.",
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): listed as a related provision under R.3.74 (p.3-231), R.9.11 (p.9-22), R.10.47 (p.10-138) and, as 2.11(a), R.12.6 (p.12-6); R.3.74 notes (p.3-243): 'On suits by estates and the wrong representative, see Rr.2.11 to 2.16 and notes'; R.10.31 notes (p.10-85) name 'litigation representative under R.2.11'. Official, by subject: 5.9(1)(c) (the litigation representative swears the affidavit of records); 5.17(1)(c) (the litigation representative is questioned; the represented person only with the Court's permission); Appendix: 'litigation representative' includes a guardian ad litem and next friend. BOOK_A's pointer 'R.14.90(1)(b)' (fn 6, p.2-31) checked: official 14.90(1)(b) concerns non-compliance with a rule, direction or order.",
+    "Rules 2.13, 2.14(1) and 2.15(1): their official text refers to an individual or estate 'required to have a litigation representative under rule 2.11'. Rule 2.17(1) refers more narrowly to 'an individual referred to in rule 2.11(a) to (d)' - individuals only, not estates under (e) (corrected in 4th pass).",
+    "Rule 12.6 (official, outside Part 2): 12.6(1) a minor who is or was a spouse or adult interdependent partner need not have a litigation representative 'as required under rule 2.11(a)'; 12.6(2) a child is not 'participating' for rule 2.11(a) merely by being the subject of a dispute or served with notice (added in 4th pass; the only references to rules 2.11-2.20 in other rules - the forms schedule also has Form 1 '[Rule 2.14]' and Form 2 '[Rule 2.14(1)(b)]', corrected in 5th pass).",
+    "Cross-book (4th pass): BOOK_A fn 12 (p.2-31) 'L. C. v. R. (Alta.) 2011 ABQB 42' is the case BOOK_C 2.15/2.17 calls 'C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10)'; BOOK_A p.2-33 fn 4 'Hughes Est. v. Brady 2007 ABCA 277' = BOOK_B 2.11's quoted 'Hughes Estate v Hughes, 2007 ABCA 277' (names differ); BOOK_A p.2-32 fn 7 'Gronnerud ... 2002 SCC 38' = BOOK_B's quoted 'Gonnerud ... 2002 SCC 38' (spelling differs); BOOK_B's Kunkel 2022 ABQB 367 is also BOOK_A 2.21 fn 2 and BOOK_C 2.21.",
+    "BOOK_B 2.13 commentary (Nahirney): rules 2.11, 2.13 and 2.14(1) apply only where representation is required.",
+    "BOOK_C 2.15 commentary: an appointment needs a finding of lack of capacity under 2.11(c).",
+    "Rule 12.6: BOOK_A related provisions ('12.6 (minors involved in family litigation)'); BOOK_B 2.11 section 1 (Public Guardian v C.(K.)) applies 12.6(2) by analogy to a represented adult."
+  ],
+  "dedupe_log": [
+    "2.11 BOOK_C information note dropped: garbled duplicate, no new words",
+    "2.11 BOOK_C citation context dropped (2008 ABCA 192): verbatim in kept text",
+    "2.11 BOOK_C citation context dropped (2018 ABQB 566): verbatim in kept text",
+    "2.11 BOOK_C citation context dropped (2013 ABQB 119): verbatim in kept text",
+    "2.11 BOOK_C citation context dropped (2015 ABQB 490): verbatim in kept text",
+    "2.11 BOOK_C commentary sentence split dropped",
+    "2.11 BOOK_C: rule text dropped (manual review)",
+    "2.11 BOOK_C: displaced citations dropped ['2008 ABCA 192', '2018 ABQB 566', '2016 ABCA 238'] (manual review)",
+    "2.11 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.11 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.11 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "2.11 BOOK_B: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.31",
+  "title": {
+    "official": "Withdrawal after trial date scheduled",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Lawyer of Record"
+  },
+  "operative_text": {
+    "controlling": "2.31   After a trial date is scheduled, a lawyer of record may not,\nwithout the Court’s permission, serve a notice of withdrawal as\nlawyer of record and any notice of withdrawal that is served\nwithout the Court’s permission has no effect.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "63b5558062f392dfdb6900dd9655300fc7aa1effc624745ebce9725da0f43374"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.31 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          48
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Withdrawal After Trial Date Scheduled",
+      "operative_text_raw": null,
+      "operative_text_sha256": "a86b38ead69094711f5512cbc7e219a109a946d1c0e27e5c0f6473b5634be95a",
+      "related_provisions": "2.29 (withdrawal) ; 8.7 (confirmation of trial date).",
+      "commentary": "The law on late resignation by counsel is reviewed, and it was allowed during an adjournment\nof a trial where there would be no prejudice.³",
+      "footnotes": [
+        {
+          "page": "2-65",
+          "number": 2,
+          "text": "Quite similar to previous 1992 R.555(6). It was ﬁrst enacted by Alta. Reg.87/92."
+        },
+        {
+          "page": "2-65",
+          "number": 3,
+          "text": "Behm v. Hansen 2021 ABQB 701, JCE 4803 154552 (Sep 2) (¶’s 12-19)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          3283,
+          3295
+        ],
+        "book_pages": [
+          "2-65"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Withdrawal after trial date scheduled",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.31:1",
+          "text": "Rule 2.31 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.31. In Fitzpatrick v. College of Physical Therapists of Alberta, 2020 ABCA 88, 2020 CarswellAlta 386, after the appeal date was set, the appellants' counsel sought leave to withdraw for non-payment of their account. Justice Hughes granted the application after setting out and balancing the factors to consider: [4] In R v Cunningham, 2010 SCC 10, a case which concerned the withdrawal of counsel, the Supreme Court held that courts have inherent jurisdiction to control their own process, along with the authority to exercise control over counsel when necessary to protect that process. Other principles from Cunningham include the following: 1) Leave to withdraw should be granted where the application is made well in advance of any scheduled proceeding and adjournment is unnecessary: Cunningham at para 47. 2) If timing is an issue the court may grant permission to withdraw if counsel seeks to withdraw for ethical reasons. Ethical reasons do not include the non-payment of fees: Cunningham at para 48. 3) When counsel seek to withdraw because of the non-payment of fees, the court may exercise its discretion to refuse leave to withdraw but should only do so after considering the following non-exhaustive list of factors (Cunningham at para 50): • whether it is feasible for the individual to represent him or herself; • other means of obtaining counsel; • whether counsel gave reasonable notice to the party to allow the individual to seek other means of representation; • impact on the respondent; and • the history of the proceedings including whether the party has changed counsel repeatedly. [5] The Supreme Court also observed that rules enacted by law societies are “essential statements of the appropriate standards of professional conduct”: Cunningham at para 36. [6] The relevant sections of the Law Society of Alberta's Code of Conduct are: 3.7-1 A lawyer must not withdraw from representation of a client except for good cause and on reasonable notice to the client. … 3.7-3 If, after reasonable notice, the client fails to provide a retainer or funds on account of disbursements or fees, a lawyer may withdraw unless serious prejudice to the client would result. … [11] The last factor to consider is harm to the administration of justice should the appeal not proceed on April 9, 2020. This factor weighs against the granting of the application in that the time this appeal is currently scheduled for, may not be able to be used by another appeal. …"
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_059",
+        "part2_rule_2_31_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_060",
+        "part2_alberta_rules_of_court_rule_2_part_2_061",
+        "part2_rule_2_31_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_062"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "bb0d531adef3533229999bcac921688000bccd6017e385214ebb9b5756c0cb73",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Withdrawal after trial date scheduled",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "e0eaddb653667df0123a138a22aea843f25efa3d94bf14d3c10a06c5582b0025",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "same wording as official ('court's' lower case once)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.31",
+      "title_official": "Withdrawal after trial date scheduled"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "a86b38ead69094711f5512cbc7e219a109a946d1c0e27e5c0f6473b5634be95a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            3283,
+            3295
+          ],
+          "book_pages": [
+            "2-65"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "bb0d531adef3533229999bcac921688000bccd6017e385214ebb9b5756c0cb73",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "e0eaddb653667df0123a138a22aea843f25efa3d94bf14d3c10a06c5582b0025",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "63b5558062f392dfdb6900dd9655300fc7aa1effc624745ebce9725da0f43374",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            48
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "3a5098453447a2822c7d7a665d990c9826c70b1a4631e05ccdf187d8058e9ce0"
+  },
+  "information_notes": [
+    {
+      "text": "A trial date is scheduled by the court clerk under rule 8.4 [Trial date: scheduled by court\nclerk] or by the Court under rule 8.5 [Trial date: scheduled by the judge].",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "garbled copy of the same note (word order/brackets); not retained"
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): listed as a related provision under R.8.4 (p.8-10), R.8.5 (p.8-13) and R.8.7 (p.8-17) ('withdrawal of lawyer after trial date set').",
+    "Rule 2.29(1) (official): 'Subject to rule 2.31'; BOOK_A 2.29 related provisions list 2.31.",
+    "BOOK_A 2.24 Part A (p.2-50 fn 3, Cunningham 2010 SCC 10: court may restrain counsel from withdrawing) and BOOK_A 2.29 fn 5 (Kong; Cunningham) - the same case BOOK_B 2.31 relies on (Fitzpatrick 2020 ABCA 88).",
+    "Rules 8.4, 8.5 (BOOK_A information note) and 8.7 (BOOK_A related provisions).",
+    "BOOK_A 2.29 commentary 'Alberta wisely does not require [leave to withdraw] in civil cases' is qualified by this rule (permission needed once a trial date is scheduled) - flagged under 2.29 in the 4th pass."
+  ],
+  "dedupe_log": [
+    "2.31 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.31 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.31 BOOK_C information note dropped: garbled duplicate, no new words",
+    "2.31 BOOK_C: rule text dropped (manual review)",
+    "2.31 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

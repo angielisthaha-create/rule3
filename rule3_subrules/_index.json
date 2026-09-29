@@ -1,0 +1,1817 @@
+{
+  "schema_version": "arc-rule3-three-book-reconciliation-v1",
+  "skill": "arc-rules-production-lifecycle",
+  "mode": "SOURCE_RECONCILIATION",
+  "write_status": "NO_WRITE (no Neo4j/LexGraph mutation; packet only)",
+  "generated_utc": "2026-09-29T04:22:56+00:00",
+  "target": {
+    "instrument": "Alberta Rules of Court, Alta. Reg. 124/2010",
+    "part": 3,
+    "rules": "3.1-3.77",
+    "count": 77
+  },
+  "limits": [
+    "Three-book agreement is not current-law certification; currency rests on the official consolidation's stated current-to date only.",
+    "Book A and Book C titles/editions are not stated in their carriers; roles are inferred from content and recorded as such.",
+    "Book A Part 3 starts at book page 3-4 (rule 3.1 is not in the file) and its text extraction drops many spaces and merges running heads and footnotes into the text.",
+    "Commentary and notes are copied as carried; no burdens, tests, or exceptions were added.",
+    "Discrepancy status values are machine classifications for review, not adjudicated resolutions."
+  ],
+  "source_registry": {
+    "OFFICIAL": {
+      "carrier_id": "OFFICIAL",
+      "title": "Alberta Rules of Court, Alta. Reg. 124/2010 (Alberta King's Printer office consolidation)",
+      "version": "Office Consolidation, Alberta Regulation 124/2010, with amendments up to and including Alberta Regulation 79/2026; current as of June 1, 2026",
+      "artifacts": [
+        {
+          "file": "Alberta rule of court.pdf",
+          "sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+          "branch": "main"
+        },
+        {
+          "file": "Alberta_Rules_of_Court.txt",
+          "sha256": "fd82939fe84c6d2779b471604821e366b9a2a619fb21d4abfda4f35ce4fea203",
+          "derived_from": "Alberta rule of court.pdf",
+          "method": "PyMuPDF page.get_text() (embedded text layer, no OCR)"
+        }
+      ],
+      "source_role": "FIRST_HAND_RULE_CARRIER",
+      "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+      "permitted_use": "operative-text reconciliation anchor; official version/current-to closure"
+    },
+    "BOOK_A": {
+      "carrier_id": "BOOK_A",
+      "title": "Annotated rules text, Part 3 (publisher/title not stated in carrier; page style '**PAGE N' + '3-N', 'Related Provisions', historical-derivation footnotes; text extraction has dropped many spaces)",
+      "version": "unknown edition; latest Alberta case year cited in Part 3 = 2024",
+      "artifacts": [
+        {
+          "file": "combined rule3.txt",
+          "sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-a-annotated-part3",
+      "permitted_use": "corroboration; annotation (information notes, related provisions, commentary, footnotes)"
+    },
+    "BOOK_B": {
+      "carrier_id": "BOOK_B",
+      "title": "Alberta Rules of Court, The Honourable Justice Allan A. Fradsham (per carrier running header)",
+      "version": "Alberta Rules of Court, The Honourable Justice Allan A. Fradsham (Part 3 files carry no edition year; header text found only in some files)",
+      "artifacts": [
+        {
+          "file": "rule3_part01_document.json",
+          "sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977"
+        },
+        {
+          "file": "rule3_part02_document.json",
+          "sha256": "490321bf95a1d1055c52bf52624556dd84f6f13779190f2f0b442c12235e680a"
+        },
+        {
+          "file": "rule3_part03_document.json",
+          "sha256": "5f3644b845628981f081906f35aecc1ba301fd2dc3c6624eb2d67681a31e3c69"
+        },
+        {
+          "file": "rule3_part04_document.json",
+          "sha256": "f6d57984ba62117492ef5db906c24c812c536d932bf5ae2ac6e599ece248a32b"
+        },
+        {
+          "file": "rule3_part05_document.json",
+          "sha256": "28bd6f48eec97a98183be80f522cb473e694239aee5832b8ff5723e940767f7d"
+        },
+        {
+          "file": "rule3_part06_document.json",
+          "sha256": "e6ea41be806387826f7ab81cff886b31bf49632eaf9d403bca3702c797731e6b"
+        },
+        {
+          "file": "rule3_part07_document.json",
+          "sha256": "b6bd3b0e162e5cd9d405e608f178129ebb92c6ad15ee5e0cafc2072eef8a19c2"
+        },
+        {
+          "file": "rule3_part08_document.json",
+          "sha256": "618f3df9b402c1a9b10e8e23883f0f2c117b60a7b99c9b5a1562d5c6b6f64c5e"
+        },
+        {
+          "file": "rule3_part09_document.json",
+          "sha256": "3b2ee3dae5f0ca977ba8d280d53faadfc56b061b3c44f6004f5d69045b7340dc"
+        },
+        {
+          "file": "rule3_part10_document.json",
+          "sha256": "24d8a85ad2dfdba3a9f28e23f9308ed10a47725e0486082e21bf46bc0052ce91"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-b-fradsham",
+      "permitted_use": "corroboration; commentary"
+    },
+    "BOOK_C": {
+      "carrier_id": "BOOK_C",
+      "title": "Annotated rules text, book pages 101-180 (publisher/title not stated in carrier; source files 101-120_revised.md ... 161-180_revised.md)",
+      "version": "unknown edition; latest Alberta case year cited = 2024",
+      "artifacts": [
+        {
+          "file": "101-120_2_28 to 3_18.json",
+          "sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301"
+        },
+        {
+          "file": "121-140_3_19 to 3_43.json",
+          "sha256": "2ec942faae03d3eb4c94c2201af8735e475807916d4dec4a57fe517773049c6f"
+        },
+        {
+          "file": "141-160_3_44 to 3_66.json",
+          "sha256": "d46db8f12ffd5cb446b599d2cd20a847d6077b22f3083fd0ed6e113d8cb11491"
+        },
+        {
+          "file": "161-180_3_67 to 4_7.json",
+          "sha256": "3cae9542062e5231a671e0909afe9bae06905a4edfb75bff814737e89afbc4c8"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-c-annotated-pp101-180",
+      "permitted_use": "corroboration; annotation (information notes, citations, commentary)"
+    }
+  },
+  "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+  "normalization_profile": {
+    "id": "arc-rule3-compare-norm",
+    "version": "1",
+    "strict_steps": [
+      "drop a leading rule number '3.N' (carriers differ on whether the number is part of the text span)",
+      "drop footnote superscript digits (U+2070-U+2079, U+00B9/B2/B3)",
+      "Unicode NFKC (expands ligatures such as U+FB01 'fi')",
+      "curly quotes/apostrophes -> ASCII; en/em dash -> '-'",
+      "remove markdown emphasis '*'",
+      "collapse all whitespace to single space; trim",
+      "remove space before , ; : . )  and after ("
+    ],
+    "alphanumeric_tier": "if the strict and editorial forms still differ, texts that are equal once every character except letters and digits is removed are classed NORMALIZATION_ONLY_DIFFERENCE with basis 'alphanumerics only' (needed for Book A Part 3, whose extraction drops spaces, and for line-break hyphens); a hint, never a pass",
+    "editorial_steps": [
+      "all strict steps",
+      "remove bracketed editorial cross-reference labels '[...]'",
+      "citation style 'Alta. Reg.' -> 'AR'",
+      "case-fold"
+    ],
+    "note": "Raw carrier text is preserved separately; normalization is used only for comparison.",
+    "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+  },
+  "denominators": {
+    "source_closure_denominator": {
+      "definition": "Alta. Reg. 124/2010 rules 3.1-3.77 in the June 1, 2026 consolidation",
+      "count": 77
+    },
+    "pairwise_comparison_denominator": {
+      "definition": "rules x book carriers (A,B,C) compared against OFFICIAL",
+      "count": 231
+    }
+  },
+  "summary": {
+    "pairwise_status_counts": {
+      "EXACT_MATCH": 92,
+      "NORMALIZATION_ONLY_DIFFERENCE": 41,
+      "CARRIER_HAS_EXTRA_TEXT": 0,
+      "CARRIER_MISSING_TEXT": 18,
+      "WORDING_DIFFERENCE": 78,
+      "CARRIER_TEXT_MISSING": 2
+    },
+    "gate_result_counts": {
+      "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED": 69,
+      "THREE_BOOK_SOURCE_RECONCILED": 8
+    },
+    "last_part3_amendment_year": 2022
+  },
+  "part_level": {
+    "official": {
+      "consolidation": "Office Consolidation, Alberta Regulation 124/2010, with amendments up to and including Alberta Regulation 79/2026; current as of June 1, 2026"
+    },
+    "BOOK_A": {
+      "first_page_in_file": "3-4",
+      "last_page_in_file": "3-246",
+      "rules_not_found_in_file": [
+        "3.1"
+      ],
+      "text_before_first_found_rule": "suit commenced without leave given during a federally-legislated moratorium is a nullity. So is a statutory suit (even a proposed class action begun) without the leave to sue which legislation imposes.\n\nOnce litigation has got as far as the Supreme Court of Canada and is at an end, it is proper for the trial court to order that no new documents be filed by the plaintiff. That is ordered from time to time with persistent or vexatious litigants. An existing consent suit by one person for a narrow purpose should not be used by the opposing party for very different new complaints, albeit between the same parties about the same\n\ncompany, but that does not remove the court's jurisdiction to give the new claimant relief. A consent order is enough consent to an Applications Judge hearing a matter like an appeal. An Applications Judge cannot givecertiorari, but can give a declaration. When a suit, even for divorce, is commenced in one judicial centre, any motion in it should\n\nbe brought in the same judicial centre, especially if there are lawyers in that judicial centre experienced in that type of litigation. *How to Start an Action*",
+      "text_before_first_found_rule_note": "probable commentary of a rule whose own text is on pages not in the file; attribution not verified",
+      "page_furniture_removed": [
+        {
+          "page": "3-4",
+          "removed": [
+            "3-4",
+            "*R.3.2(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-5",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.2(3) 3-5"
+          ]
+        },
+        {
+          "page": "3-6",
+          "removed": [
+            "3-6",
+            "*R.3.2(6)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-7",
+          "removed": []
+        },
+        {
+          "page": "3-8",
+          "removed": [
+            "*R.3.2(6)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-9",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.2(6) 3-9"
+          ]
+        },
+        {
+          "page": "3-10",
+          "removed": [
+            "3-10",
+            "*R.3.2(6)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-11",
+          "removed": []
+        },
+        {
+          "page": "3-12",
+          "removed": [
+            "3-12",
+            "*R.3.2(6)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-13",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.2(6) 3-13"
+          ]
+        },
+        {
+          "page": "3-14",
+          "removed": [
+            "3-14",
+            "*R.3.2(6)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-15",
+          "removed": []
+        },
+        {
+          "page": "3-16",
+          "removed": [
+            "3-16",
+            "*R.3.2(6)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-17",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.2(6) 3-17"
+          ]
+        },
+        {
+          "page": "3-18",
+          "removed": [
+            "3-18",
+            "*R.3.2(6)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-19",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.3(1) 3-19"
+          ]
+        },
+        {
+          "page": "3-20",
+          "removed": [
+            "3-20",
+            "*R.3.4(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-21",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.4(2) 3-21"
+          ]
+        },
+        {
+          "page": "3-22",
+          "removed": [
+            "3-22",
+            "*R.3.5PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-23",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.6(1) 3-23"
+          ]
+        },
+        {
+          "page": "3-24",
+          "removed": [
+            "3-24",
+            "*R.3.7(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-25",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.8(2) 3-25"
+          ]
+        },
+        {
+          "page": "3-26",
+          "removed": [
+            "3-26",
+            "*R.3.9PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-27",
+          "removed": []
+        },
+        {
+          "page": "3-28",
+          "removed": [
+            "3-28",
+            "*R.3.11(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-29",
+          "removed": []
+        },
+        {
+          "page": "3-30",
+          "removed": [
+            "3-30",
+            "*R.3.13(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-31",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.13(2) 3-31"
+          ]
+        },
+        {
+          "page": "3-32",
+          "removed": [
+            "3-32",
+            "*R.3.14(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-33",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(1) 3-33"
+          ]
+        },
+        {
+          "page": "3-34",
+          "removed": [
+            "3-34",
+            "*R.3.15(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-35",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(1) 3-35"
+          ]
+        },
+        {
+          "page": "3-36",
+          "removed": [
+            "*R.3.15(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-37",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(1) 3-37"
+          ]
+        },
+        {
+          "page": "3-38",
+          "removed": [
+            "3-38",
+            "*R.3.15(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-39",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(1) 3-39"
+          ]
+        },
+        {
+          "page": "3-40",
+          "removed": [
+            "*R.3.15(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-41",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(1) 3-41"
+          ]
+        },
+        {
+          "page": "3-42",
+          "removed": [
+            "*R.3.15(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-43",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(1) 3-43"
+          ]
+        },
+        {
+          "page": "3-44",
+          "removed": [
+            "3-44",
+            "*R.3.15(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-45",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(2) 3-45"
+          ]
+        },
+        {
+          "page": "3-46",
+          "removed": [
+            "3-46",
+            "*R.3.15(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-47",
+          "removed": []
+        },
+        {
+          "page": "3-48",
+          "removed": [
+            "3-48",
+            "*R.3.15(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-49",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(3) 3-49"
+          ]
+        },
+        {
+          "page": "3-50",
+          "removed": [
+            "*R.3.15(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-51",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.15(4) 3-51"
+          ]
+        },
+        {
+          "page": "3-52",
+          "removed": [
+            "3-52",
+            "*R.3.15(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-53",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.16(2) 3-53"
+          ]
+        },
+        {
+          "page": "3-54",
+          "removed": [
+            "3-54",
+            "*R.3.16(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-55",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.16(2) 3-55"
+          ]
+        },
+        {
+          "page": "3-56",
+          "removed": [
+            "3-56",
+            "*R.3.16(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-57",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.17 3-57"
+          ]
+        },
+        {
+          "page": "3-58",
+          "removed": [
+            "3-58",
+            "*R.3.18(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-59",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.19(1) 3-59"
+          ]
+        },
+        {
+          "page": "3-60",
+          "removed": [
+            "3-60",
+            "*R.3.19(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-61",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.20(1) 3-61"
+          ]
+        },
+        {
+          "page": "3-62",
+          "removed": [
+            "3-62",
+            "*R.3.22PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-63",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.22 3-63"
+          ]
+        },
+        {
+          "page": "3-64",
+          "removed": [
+            "3-64",
+            "*R.3.22PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-65",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.23(1) 3-65"
+          ]
+        },
+        {
+          "page": "3-66",
+          "removed": [
+            "3-66",
+            "*R.3.24(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-67",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.24(3) 3-67"
+          ]
+        },
+        {
+          "page": "3-68",
+          "removed": [
+            "3-68",
+            "*R.3.24(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-69",
+          "removed": []
+        },
+        {
+          "page": "3-70",
+          "removed": [
+            "3-70",
+            "*R.3.25PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-71",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.26(1) 3-71"
+          ]
+        },
+        {
+          "page": "3-72",
+          "removed": [
+            "3-72",
+            "*R.3.26(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-73",
+          "removed": []
+        },
+        {
+          "page": "3-74",
+          "removed": [
+            "3-74",
+            "*R.3.27(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-75",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.27(2) 3-75"
+          ]
+        },
+        {
+          "page": "3-76",
+          "removed": [
+            "3-76",
+            "*R.3.27(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-77",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.27(2) 3-77"
+          ]
+        },
+        {
+          "page": "3-78",
+          "removed": [
+            "3-78",
+            "*R.3.28PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-79",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.29 3-79"
+          ]
+        },
+        {
+          "page": "3-80",
+          "removed": [
+            "3-80",
+            "*R.3.30PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-81",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.31(3) 3-81"
+          ]
+        },
+        {
+          "page": "3-82",
+          "removed": [
+            "3-82",
+            "*R.3.32PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-83",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.34(1) 3-83"
+          ]
+        },
+        {
+          "page": "3-84",
+          "removed": [
+            "3-84",
+            "*R.3.34(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-85",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.35(3) 3-85"
+          ]
+        },
+        {
+          "page": "3-86",
+          "removed": [
+            "3-86",
+            "*R.3.35(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-87",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.35(4) 3-87"
+          ]
+        },
+        {
+          "page": "3-88",
+          "removed": [
+            "3-88",
+            "*R.3.35(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-89",
+          "removed": []
+        },
+        {
+          "page": "3-90",
+          "removed": [
+            "*R.3.35(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-91",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.35(4) 3-91"
+          ]
+        },
+        {
+          "page": "3-92",
+          "removed": [
+            "3-92",
+            "*R.3.35(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-93",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.35(4) 3-93"
+          ]
+        },
+        {
+          "page": "3-94",
+          "removed": [
+            "3-94",
+            "*R.3.36(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-95",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.36(3) 3-95"
+          ]
+        },
+        {
+          "page": "3-96",
+          "removed": [
+            "*R.3.36(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-97",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.36(3) 3-97"
+          ]
+        },
+        {
+          "page": "3-98",
+          "removed": [
+            "3-98",
+            "*R.3.37(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-99",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.37(3) 3-99"
+          ]
+        },
+        {
+          "page": "3-100",
+          "removed": [
+            "3-100",
+            "*R.3.38PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-101",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.39(2) 3-101"
+          ]
+        },
+        {
+          "page": "3-102",
+          "removed": [
+            "*R.3.39(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-103",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.39(2) 3-103"
+          ]
+        },
+        {
+          "page": "3-104",
+          "removed": [
+            "3-104",
+            "*R.3.39(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-105",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.39(2) 3-105"
+          ]
+        },
+        {
+          "page": "3-106",
+          "removed": [
+            "3-106",
+            "*R.3.39(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-107",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.39(2) 3-107"
+          ]
+        },
+        {
+          "page": "3-108",
+          "removed": [
+            "3-108",
+            "*R.3.39(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-109",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.40 3-109"
+          ]
+        },
+        {
+          "page": "3-110",
+          "removed": [
+            "3-110",
+            "*R.3.41(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-111",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.43(2) 3-111"
+          ]
+        },
+        {
+          "page": "3-112",
+          "removed": [
+            "3-112",
+            "*R.3.44PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-113",
+          "removed": []
+        },
+        {
+          "page": "3-114",
+          "removed": [
+            "3-114",
+            "*R.3.44PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-115",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.45 3-115"
+          ]
+        },
+        {
+          "page": "3-116",
+          "removed": [
+            "3-116",
+            "*R.3.45PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-117",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.45 3-117"
+          ]
+        },
+        {
+          "page": "3-118",
+          "removed": [
+            "3-118",
+            "*R.3.46(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-119",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.46(2) 3-119"
+          ]
+        },
+        {
+          "page": "3-120",
+          "removed": [
+            "3-120",
+            "*R.3.47PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-121",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.49(2) 3-121"
+          ]
+        },
+        {
+          "page": "3-122",
+          "removed": [
+            "3-122",
+            "*R.3.51(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-123",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.53(1) 3-123"
+          ]
+        },
+        {
+          "page": "3-124",
+          "removed": [
+            "3-124",
+            "*R.3.56(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-125",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.56(2) 3-125"
+          ]
+        },
+        {
+          "page": "3-126",
+          "removed": [
+            "3-126",
+            "*R.3.57PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-127",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.58 3-127"
+          ]
+        },
+        {
+          "page": "3-128",
+          "removed": [
+            "3-128",
+            "*R.3.59PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-129",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.59 3-129"
+          ]
+        },
+        {
+          "page": "3-130",
+          "removed": [
+            "3-130",
+            "*R.3.60(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-131",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.61(1) 3-131"
+          ]
+        },
+        {
+          "page": "3-132",
+          "removed": [
+            "3-132",
+            "*R.3.61(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-133",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.61(4) 3-133"
+          ]
+        },
+        {
+          "page": "3-134",
+          "removed": [
+            "3-134",
+            "*R.3.62(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-135",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.62(6) 3-135"
+          ]
+        },
+        {
+          "page": "3-136",
+          "removed": [
+            "3-136",
+            "*R.3.63(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-137",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.64(1) 3-137"
+          ]
+        },
+        {
+          "page": "3-138",
+          "removed": [
+            "3-138",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-139",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-139"
+          ]
+        },
+        {
+          "page": "3-140",
+          "removed": [
+            "3-140",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-141",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-141"
+          ]
+        },
+        {
+          "page": "3-142",
+          "removed": [
+            "3-142",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-143",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-143"
+          ]
+        },
+        {
+          "page": "3-144",
+          "removed": [
+            "3-144",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-145",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-145"
+          ]
+        },
+        {
+          "page": "3-146",
+          "removed": [
+            "3-146",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-147",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-147"
+          ]
+        },
+        {
+          "page": "3-148",
+          "removed": [
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-149",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-149"
+          ]
+        },
+        {
+          "page": "3-150",
+          "removed": [
+            "3-150",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-151",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-151"
+          ]
+        },
+        {
+          "page": "3-152",
+          "removed": [
+            "3-152",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-153",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-153"
+          ]
+        },
+        {
+          "page": "3-154",
+          "removed": [
+            "3-154",
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-155",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-155"
+          ]
+        },
+        {
+          "page": "3-156",
+          "removed": [
+            "*R.3.65(5)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-157",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.65(5) 3-157"
+          ]
+        },
+        {
+          "page": "3-158",
+          "removed": [
+            "3-158",
+            "*R.3.66(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-159",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.67(1) 3-159"
+          ]
+        },
+        {
+          "page": "3-160",
+          "removed": [
+            "3-160",
+            "*R.3.68(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-161",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-161"
+          ]
+        },
+        {
+          "page": "3-162",
+          "removed": [
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-163",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-163"
+          ]
+        },
+        {
+          "page": "3-164",
+          "removed": [
+            "3-164",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-165",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-165"
+          ]
+        },
+        {
+          "page": "3-166",
+          "removed": [
+            "3-166",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-167",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-167"
+          ]
+        },
+        {
+          "page": "3-168",
+          "removed": [
+            "3-168",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-169",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-169"
+          ]
+        },
+        {
+          "page": "3-170",
+          "removed": [
+            "3-170",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-171",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-171"
+          ]
+        },
+        {
+          "page": "3-172",
+          "removed": [
+            "3-172",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-173",
+          "removed": []
+        },
+        {
+          "page": "3-174",
+          "removed": [
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-175",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-175"
+          ]
+        },
+        {
+          "page": "3-176",
+          "removed": [
+            "3-176",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-177",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-177"
+          ]
+        },
+        {
+          "page": "3-178",
+          "removed": [
+            "3-178",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-179",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-179"
+          ]
+        },
+        {
+          "page": "3-180",
+          "removed": [
+            "3-180",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-181",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-181"
+          ]
+        },
+        {
+          "page": "3-182",
+          "removed": [
+            "3-182",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-183",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-183"
+          ]
+        },
+        {
+          "page": "3-184",
+          "removed": [
+            "3-184",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-185",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-185"
+          ]
+        },
+        {
+          "page": "3-186",
+          "removed": [
+            "3-186",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-187",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-187"
+          ]
+        },
+        {
+          "page": "3-188",
+          "removed": [
+            "3-188",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-189",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-189"
+          ]
+        },
+        {
+          "page": "3-190",
+          "removed": [
+            "3-190",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-191",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-191"
+          ]
+        },
+        {
+          "page": "3-192",
+          "removed": [
+            "3-192",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-193",
+          "removed": []
+        },
+        {
+          "page": "3-194",
+          "removed": [
+            "3-194",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-195",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-195"
+          ]
+        },
+        {
+          "page": "3-196",
+          "removed": [
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-197",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-197"
+          ]
+        },
+        {
+          "page": "3-198",
+          "removed": [
+            "3-198",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-199",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-199"
+          ]
+        },
+        {
+          "page": "3-200",
+          "removed": [
+            "3-200",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-201",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-201"
+          ]
+        },
+        {
+          "page": "3-202",
+          "removed": [
+            "3-202",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-203",
+          "removed": []
+        },
+        {
+          "page": "3-204",
+          "removed": [
+            "3-204",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-205",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-205"
+          ]
+        },
+        {
+          "page": "3-206",
+          "removed": [
+            "3-206",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-207",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-207"
+          ]
+        },
+        {
+          "page": "3-208",
+          "removed": [
+            "3-208",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-209",
+          "removed": []
+        },
+        {
+          "page": "3-210",
+          "removed": [
+            "3-210",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-211",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-211"
+          ]
+        },
+        {
+          "page": "3-212",
+          "removed": [
+            "3-212",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-213",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-213"
+          ]
+        },
+        {
+          "page": "3-214",
+          "removed": [
+            "3-214",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-215",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.68(4) 3-215"
+          ]
+        },
+        {
+          "page": "3-216",
+          "removed": [
+            "3-216",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-217",
+          "removed": []
+        },
+        {
+          "page": "3-218",
+          "removed": [
+            "3-218",
+            "*R.3.68(4)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-219",
+          "removed": []
+        },
+        {
+          "page": "3-220",
+          "removed": [
+            "3-220",
+            "*R.3.69(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-221",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.69(3) 3-221"
+          ]
+        },
+        {
+          "page": "3-222",
+          "removed": [
+            "3-222",
+            "*R.3.69(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-223",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.70(1) 3-223"
+          ]
+        },
+        {
+          "page": "3-224",
+          "removed": [
+            "3-224",
+            "*R.3.70(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-225",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.71(1) 3-225"
+          ]
+        },
+        {
+          "page": "3-226",
+          "removed": [
+            "3-226",
+            "*R.3.72(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-227",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.72(2) 3-227"
+          ]
+        },
+        {
+          "page": "3-228",
+          "removed": [
+            "3-228",
+            "*R.3.72(2)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-229",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.72(2) 3-229"
+          ]
+        },
+        {
+          "page": "3-230",
+          "removed": [
+            "3-230",
+            "*R.3.73(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-231",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.74(1) 3-231"
+          ]
+        },
+        {
+          "page": "3-232",
+          "removed": [
+            "3-232",
+            "*R.3.74(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-233",
+          "removed": []
+        },
+        {
+          "page": "3-234",
+          "removed": [
+            "*R.3.74(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-235",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.74(3) 3-235"
+          ]
+        },
+        {
+          "page": "3-236",
+          "removed": [
+            "*R.3.74(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-237",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.74(3) 3-237"
+          ]
+        },
+        {
+          "page": "3-238",
+          "removed": [
+            "3-238",
+            "*R.3.74(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-239",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.74(3) 3-239"
+          ]
+        },
+        {
+          "page": "3-240",
+          "removed": [
+            "3-240",
+            "*R.3.74(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-241",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.74(3) 3-241"
+          ]
+        },
+        {
+          "page": "3-242",
+          "removed": [
+            "3-242",
+            "*R.3.74(3)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-243",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.74(3) 3-243"
+          ]
+        },
+        {
+          "page": "3-244",
+          "removed": [
+            "3-244",
+            "*R.3.75(1)PART 3:COURT ACTIONS"
+          ]
+        },
+        {
+          "page": "3-245",
+          "removed": [
+            "PART 3:COURT ACTIONSR.3.75(3) 3-245"
+          ]
+        },
+        {
+          "page": "3-246",
+          "removed": [
+            "3-246",
+            "*R.3.77PART 3:COURT ACTIONS"
+          ]
+        }
+      ]
+    },
+    "BOOK_B": {
+      "edition_header": "Alberta Rules of Court, The Honourable Justice Allan A. Fradsham (Part 3 files carry no edition year; header text found only in some files)",
+      "edition_year": "2025",
+      "edition_year_basis": "latest Alberta case year cited across the Part 3 files (no edition year is printed in them)"
+    },
+    "BOOK_C": {
+      "definitions_used_in_part": [],
+      "misparsed_entries": []
+    }
+  },
+  "files": [
+    "3.1.json",
+    "3.2.json",
+    "3.3.json",
+    "3.4.json",
+    "3.5.json",
+    "3.6.json",
+    "3.7.json",
+    "3.8.json",
+    "3.9.json",
+    "3.10.json",
+    "3.11.json",
+    "3.12.json",
+    "3.13.json",
+    "3.14.json",
+    "3.15.json",
+    "3.16.json",
+    "3.17.json",
+    "3.18.json",
+    "3.19.json",
+    "3.20.json",
+    "3.21.json",
+    "3.22.json",
+    "3.23.json",
+    "3.24.json",
+    "3.25.json",
+    "3.26.json",
+    "3.27.json",
+    "3.28.json",
+    "3.29.json",
+    "3.30.json",
+    "3.31.json",
+    "3.32.json",
+    "3.33.json",
+    "3.34.json",
+    "3.35.json",
+    "3.36.json",
+    "3.37.json",
+    "3.38.json",
+    "3.39.json",
+    "3.40.json",
+    "3.41.json",
+    "3.42.json",
+    "3.43.json",
+    "3.44.json",
+    "3.45.json",
+    "3.46.json",
+    "3.47.json",
+    "3.48.json",
+    "3.49.json",
+    "3.50.json",
+    "3.51.json",
+    "3.52.json",
+    "3.53.json",
+    "3.54.json",
+    "3.55.json",
+    "3.56.json",
+    "3.57.json",
+    "3.58.json",
+    "3.59.json",
+    "3.60.json",
+    "3.61.json",
+    "3.62.json",
+    "3.63.json",
+    "3.64.json",
+    "3.65.json",
+    "3.66.json",
+    "3.67.json",
+    "3.68.json",
+    "3.69.json",
+    "3.70.json",
+    "3.71.json",
+    "3.72.json",
+    "3.73.json",
+    "3.74.json",
+    "3.75.json",
+    "3.76.json",
+    "3.77.json"
+  ],
+  "dedupe_rule": "a value is dropped only when an equal value (under the normalization profile) is kept"
+}

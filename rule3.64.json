@@ -1,0 +1,1427 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T23:10:00Z",
+      "source_manifests": [
+        "page_0124.rtf",
+        "page_0125.rtf",
+        "page_0126.rtf",
+        "page_0127.rtf",
+        "page_0128.rtf",
+        "page_0129.rtf",
+        "page_0130.rtf",
+        "page_0131.rtf",
+        "page_0132.rtf",
+        "page_0133.rtf",
+        "page_0134.rtf",
+        "page_0135.rtf",
+        "page_0136.rtf",
+        "page_0137.rtf",
+        "page_0138.rtf",
+        "page_0139.rtf",
+        "page_0140.rtf",
+        "page_0141.rtf",
+        "page_0142.rtf",
+        "page_0143.rtf",
+        "page_0144.rtf",
+        "page_0145.rtf",
+        "page_0146.rtf",
+        "page_0147.rtf",
+        "page_0148.rtf",
+        "page_0149.rtf",
+        "page_0150.rtf",
+        "page_0151.rtf",
+        "page_0152.rtf",
+        "page_0153.rtf",
+        "page_0154.rtf",
+        "page_0155.rtf",
+        "page_0156.rtf",
+        "page_0157.rtf",
+        "page_0158.rtf",
+        "page_0159.rtf"
+      ],
+      "node_count": 28,
+      "relationship_count": 31,
+      "tactical_play_count": 3,
+      "countermeasure_count": 3,
+      "dedupe_removed_node_count": 4,
+      "dedupe_primary_sources": [
+        "D:\\dev_aiwinsor\\pipelineV6\\hybrid_rule4\\rule3\\rule3.67.json"
+      ]
+    },
+    "nodes": [
+      {
+        "node_id": "fp-r3-65-liberal-amendment-principle",
+        "node_type": "FoundationalPillar",
+        "label": "General Principle: Liberal Amendment of Pleadings",
+        "description": "The accepted general principle is that any pleading can be amended at any time to identify the real issues, prevent multiplicity, and keep suits moving, regardless of the carelessness of the amending party, subject to four firm exceptions.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The accepted general principle is that any pleading can be amended at any time, no matter how careless is the party seeking to amend.",
+              "source_reference": "page_0138.rtf#p138-s1-general-principle"
+            },
+            {
+              "text": "The law favors amendments to pleadings, to help identify the real issues, prevent multiplicity of pleadings, and to keep suits moving promptly, which movement is in the public interest.",
+              "source_reference": "page_0138.rtf#p138-s2-law-favors-amendments"
+            }
+          ],
+          "source_references": [
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This pillar establishes the default-to-yes posture of the court on amendments. It is the foundational argument for any party seeking to amend and the starting point that an opposing party must overcome with specific exceptions.",
+          "litigation_implications": [
+            "Offensive (Amending Party): Frame any amendment application by first citing this liberal principle to create a presumption in favor of the amendment.",
+            "Defensive (Opposing Party): Acknowledge this principle but immediately pivot to one of the four recognized exceptions (prejudice, limitations, bad faith, hopelessness) to argue why the presumption should not apply."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Solosky v. R.",
+              "proposition": "Establishes the general principle that pleadings can be amended at any time, subject to exceptions."
+            },
+            {
+              "case_name": "Balm v. 3512061 Can.",
+              "proposition": "Affirms the general liberal approach to amending pleadings in Alberta."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-65-limitation-period-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Exception 2: Expired Limitation Period Bar",
+        "description": "The common law bars any amendment that would add a new cause of action or a new party outside the applicable limitation period for suing, as amendments are typically retroactive to the date of the original pleading.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "So the common law bars any amendment which would add a new cause of action or a new party outside the limitation period for suing.",
+              "source_reference": "page_0148.rtf#p148-s1-common-law-bar"
+            }
+          ],
+          "source_references": [
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This is a hard, often fatal, procedural barrier. It weaponizes the calendar against an opponent who seeks to expand the scope of the lawsuit after the statutory deadline for that new claim has passed. It forces the amending party to find a statutory exception to survive.",
+          "litigation_implications": [
+            "Defensive (Opposing Party): Immediately raise the limitation period as an absolute bar to any amendment that introduces a new cause of action or party.",
+            "Offensive (Amending Party): Must argue that the amendment does not add a 'new' cause of action but merely particularizes an existing one, or must pivot to the statutory exception under the Limitations Act.",
+            "Cost/Risk: For the amending party, failing to overcome this bar is usually fatal to the amendment and results in adverse costs."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Neis v. Yancey",
+              "proposition": "The 'functional approach' which merely asks whether there is prejudice, is not law in Alberta; an expired limitation period is a bar in itself."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-la-s6-related-matters-exception",
+        "node_type": "ControlMechanism",
+        "label": "Counter: Limitations Act 'Related Matters' Exception",
+        "description": "Section 6 of the Limitations Act overrides the common law bar, allowing the addition of new, related claims or parties after a limitation period has expired. The test for what is 'related' is very wide and lax.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Section 6 of the Limitations Act allowing later addition of related matters after the limitation has expired, is based on the whole factual and legal context, and no one factor governs.",
+              "source_reference": "page_0151.rtf#p151-s1-la-s6"
+            },
+            {
+              "text": "'Related to' has a very wide meaning.",
+              "source_reference": "page_0151.rtf#p151-s3-wide-meaning"
+            }
+          ],
+          "source_references": [
+            "Limitations Act, R.S.A. 2000, c. L-12, s. 6",
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This is the primary offensive weapon for an amending party facing a limitations defence. It creates a statutory safe harbor, transforming the debate from a hard 'yes/no' on the expiry date to a more flexible, fact-dependent argument over whether the new claim is 'related' to the old one.",
+          "litigation_implications": [
+            "Offensive (Amending Party): When faced with a limitations argument, immediately invoke s. 6 of the Limitations Act and argue the new claim arises from the same 'transaction or occurrence' as the original claim.",
+            "Defensive (Opposing Party): Must argue that the new claim is factually and legally distinct, involving different events, duties, or evidence, and is therefore not 'related' enough to benefit from the statutory exception.",
+            "Battleground: The fight shifts to defining the scope of the 'original plea' and whether the new matter is sufficiently connected to it."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Haymour v. Acielo",
+              "proposition": "The statutory test of relation to the original claim is much laxer than the common-law test."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-bad-faith-bar",
+        "node_type": "ControlMechanism",
+        "label": "Exception 3: Bad Faith Bar",
+        "description": "An amendment will be denied if the failure to plead earlier, or the amendment itself, involves bad faith, which is defined as an intent to harm, conceal, or deceive.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "No amendment will be permitted where the failure to plead earlier, or the amendment itself, involves bad faith.",
+              "source_reference": "page_0144.rtf#p144-s1-bad-faith-bar"
+            },
+            {
+              "text": "Bad faith barring amendments means intent (not necessarily the sole or primary intent, but a significant part of the intent) to inflict financial or emotional harm on the opponent, to conceal relevant information, or to deceive another party or the court.",
+              "source_reference": "page_0144.rtf#p144-s2-bad-faith-definition"
+            }
+          ],
+          "source_references": [
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This is a high-impact, but difficult to prove, defensive weapon. It allows a party to argue that the amendment is not a genuine attempt to clarify issues but a malicious tactic. Success requires showing improper motive, turning the focus onto the amending party's conduct and intent.",
+          "litigation_implications": [
+            "Defensive (Opposing Party): Argue that the timing of the amendment (e.g., on the eve of trial or to derail a summary judgment motion) demonstrates an intent to harm or delay, not to litigate the merits.",
+            "Defensive (Opposing Party): Point to a pattern of conduct suggesting concealment or deception to meet the definition of bad faith.",
+            "Offensive (Amending Party): Must demonstrate a legitimate reason for the delay (e.g., new information from discovery) to counter allegations of bad faith. Emphasize that mere delay or carelessness is not bad faith."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Club Indl. Trailers v. Paramount Structures",
+              "proposition": "Amending to defeat a summary judgment application is, absent any more, not evidence of bad faith. This case cites the commentary's definition with approval."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-evidence-for-amendment",
+        "node_type": "ControlMechanism",
+        "label": "Evidentiary Hurdle for Substantive Amendments",
+        "description": "Where an amendment after the close of pleadings adds or deletes facts, the amending party must provide some admissible evidence to show the proposed plea is arguable. The degree of proof is higher for allegations of fraud or malicious conduct.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where the amendment comes after close of pleadings, and is of any real substance, and adds or deletes facts, the party seeking to amend must give some admissible evidence to get permission to amend, maybe even evidence that the plea sought to be added is arguable.",
+              "source_reference": "page_0154.rtf#p154-s1-evidence-required"
+            },
+            {
+              "text": "The degree of proof necessary is higher, however, where the amendment will allege fraud, high-handedness or malicious conduct...",
+              "source_reference": "page_0154.rtf#p154-s2-higher-proof-fraud"
+            }
+          ],
+          "source_references": [
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This mechanism prevents parties from amending pleadings based on pure speculation, especially for serious allegations. It forces the amending party to 'show their work' and provide a factual basis for the new plea, acting as a check against frivolous or tactical amendments designed solely to increase pressure.",
+          "litigation_implications": [
+            "Defensive (Opposing Party): Attack the sufficiency of the evidence filed in support of the amendment. Argue it is mere hearsay, speculation, or fails to meet the higher standard required for allegations of fraud.",
+            "Offensive (Amending Party): Must file an affidavit attaching evidence (e.g., documents from discovery, expert reports) that provides an 'air of reality' to the proposed new allegations.",
+            "Cost/Risk: Failure to provide adequate evidence will be fatal to the amendment application, resulting in wasted costs."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Cdn. Natural Res. v. Fluor Can.",
+              "proposition": "Establishes that a higher degree of proof is needed to amend a pleading to allege fraud or malicious conduct."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-62-unilateral-amendment-right",
+        "node_type": "ControlMechanism",
+        "label": "Unilateral Amendment Right (Pre-Close of Pleadings)",
+        "description": "Under Rule 3.62(1)(a), a party may amend their pleading any number of times without court permission before the pleadings close. This provides maximum flexibility in the early stages of litigation.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may amend the party's pleading... before pleadings close, any number of times without the Court's permission;",
+              "source_reference": "page_0134.rtf#r3-62-1-a"
+            }
+          ],
+          "source_references": [
+            "Rule 3.62(1)(a)"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This rule is a powerful offensive tool early in a lawsuit. It allows a party to refine their case, add causes of action, or correct errors without the cost and delay of a court application, forcing the opponent to react to a changing pleading landscape.",
+          "litigation_implications": [
+            "Offensive Tactic: Use this right to quickly add new claims or facts discovered in initial document exchanges before the opponent has filed a defence, maximizing pressure.",
+            "Defensive Tactic: If served with a unilateral amendment, immediately assess if it violates any rules (e.g., adding a claim previously struck out) and apply to disallow it under R. 3.64 within the strict 10-day time limit.",
+            "Procedural Trap: The right evaporates the moment pleadings close, making the timing of the close of pleadings a critical strategic milestone."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-67-close-of-pleadings",
+        "node_type": "ProceduralTrap",
+        "label": "Trigger: Close of Pleadings",
+        "description": "Under Rule 3.67, pleadings close when a reply is filed or the time for filing a reply expires, whichever is earlier. This event is a critical procedural trigger that terminates the right to unilateral amendment.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Pleadings close when (a) a reply is filed and served... or (b) the time for filing and serving a reply expires, whichever is earlier.",
+              "source_reference": "page_0159.rtf#r3-67-2"
+            }
+          ],
+          "source_references": [
+            "Rule 3.67(2)"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This rule creates a procedural tripwire. The close of pleadings is not an active event but often happens passively when a deadline expires. A party who is unaware of this can lose their absolute right to amend, suddenly finding themselves needing court permission and facing the four major exceptions.",
+          "litigation_implications": [
+            "Strategic Timing (Plaintiff): A plaintiff can strategically file a Reply to close pleadings early, forcing a defendant to seek court permission for any further amendments to their defence.",
+            "Strategic Timing (Defendant): A defendant aware of a potential need to amend their defence may delay filing it until the last possible day to maximize their window for unilateral amendment.",
+            "Trap for the Unwary: A party assuming they can unilaterally amend may miss the deadline, file an improper amendment, and be forced to bring a costly application for permission."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-65-court-permission-required",
+        "node_type": "ControlMechanism",
+        "label": "Court Permission for Amendment (Post-Close of Pleadings)",
+        "description": "After pleadings close, a party may only amend their pleading (for reasons other than changing parties) with the Court's prior permission under Rule 3.65.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may amend the party's pleading... after pleadings close... for any other amendment, with the Court's prior permission in accordance with rule 3.65",
+              "source_reference": "page_0134.rtf#r3-62-1-b-ii"
+            }
+          ],
+          "source_references": [
+            "Rule 3.62(1)(b)(ii)",
+            "Rule 3.65"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This rule shifts control over the pleadings from the parties to the court. It forces the amending party to justify their changes and allows the opposing party to formally object based on the established exceptions (prejudice, limitations, etc.), turning what was once a right into a contested application.",
+          "litigation_implications": [
+            "Procedural Requirement: Any amendment after pleadings close must be brought by formal application, supported by evidence.",
+            "Defensive Opportunity: This provides the non-amending party with a formal opportunity to oppose the amendment and seek costs, using the exceptions as grounds for opposition.",
+            "Cost Implication: Transforms a free, unilateral action into a potentially expensive and time-consuming contested court application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-58-counterclaim-independent-action",
+        "node_type": "FoundationalPillar",
+        "label": "Counterclaim as an Independent Action",
+        "description": "Rule 3.58 establishes that a counterclaim is an independent action, distinct from the main claim, even though it may be tried with it.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "3.58 A counterclaim is an independent action.",
+              "source_reference": "page_0127.rtf#r3-58"
+            }
+          ],
+          "source_references": [
+            "Rule 3.58"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This pillar is strategically critical. By defining a counterclaim as independent, it allows the counterclaim to survive even if the main action is dismissed. It also creates jurisdictional hooks and procedural complexities regarding severance, stays of execution, and forum arguments.",
+          "litigation_implications": [
+            "Offensive (Counterclaiming Party): Argue that the counterclaim should proceed to trial even if the plaintiff's main claim is struck or discontinued.",
+            "Defensive (Plaintiff): If facing a powerful counterclaim, argue for severance or a stay of the main action's judgment pending the outcome of the counterclaim, especially if set-off is claimed.",
+            "Jurisdictional Tactic: A plaintiff who sues in a jurisdiction attorns to it and becomes subject to a counterclaim, preventing them from arguing the forum is inappropriate for the counterclaim."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "1297835 Alta. v. Xtreme Coil Drilling",
+              "proposition": "A plaintiff who sues in Alberta attorns to the jurisdiction and becomes subject to a counterclaim; the court refused to sever or stay the counterclaim on grounds of inappropriate forum."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-59-set-off-pleading-option",
+        "node_type": "ControlMechanism",
+        "label": "Pleading Set-Off: Defence vs. Counterclaim",
+        "description": "Rule 3.59 provides a defendant with the strategic choice to plead a set-off either as a defence or as a counterclaim. Pleading it only as a defence prevents the defendant from recovering any excess amount.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "3.59 A matter that might be claimed by set-off may be claimed by counterclaim or by pleading set-off as a defence.",
+              "source_reference": "page_0128.rtf#r3-59"
+            },
+            {
+              "text": "The big difference is that if set-off is pleaded only as a defence, then no judgment can be entered for the defendant if it turns out that the set-off exceeds the original claim.",
+              "source_reference": "page_0128.rtf#p128-s2-commentary"
+            }
+          ],
+          "source_references": [
+            "Rule 3.59"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This rule grants a defendant procedural control. Choosing to plead set-off as a defence is a purely defensive shield. Pleading it as a counterclaim transforms it into an offensive sword, allowing for a positive recovery. The choice depends on the value of the set-off relative to the main claim and the defendant's strategic goals.",
+          "litigation_implications": [
+            "Strategic Choice (Defendant): If the set-off amount is less than the plaintiff's claim, pleading it as a defence is simpler and sufficient.",
+            "Strategic Choice (Defendant): If the set-off amount exceeds the plaintiff's claim, it MUST be pleaded as a counterclaim to enable recovery of the difference.",
+            "Trap: A defendant who pleads a large set-off only as a defence forfeits the right to recover the excess, a potentially costly error."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Quinney v. 1075398 Alta.",
+              "proposition": "Any kind of set-off (if valid) is a defence."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-59-legal-set-off",
+        "node_type": "FoundationalPillar",
+        "label": "Legal Set-Off Standard",
+        "description": "Legal set-off, derived from old English statutes, allows for the netting out of cross-debts. It applies only to liquidated claims (debts) and requires continued mutuality between the same parties.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Set-off under those statutes only applies to debts, i.e., liquidated claims.",
+              "source_reference": "page_0129.rtf#p129-s1-legal-set-off-liquidated"
+            },
+            {
+              "text": "But such legal set-off requires continued mutuality, which ends if one debt is assigned.",
+              "source_reference": "page_0129.rtf#p129-s2-mutuality"
+            }
+          ],
+          "source_references": [
+            "Rule 3.59 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This pillar defines a narrow but powerful right. Its strict requirements (liquidated debt, mutuality) provide clear grounds for attack and defence. A party can defeat a claim of legal set-off by showing the claim is for unliquidated damages or that mutuality has been broken.",
+          "litigation_implications": [
+            "Offensive (Claiming Set-Off): Ensure both claims are for specific, calculable sums of money and that no assignment has occurred.",
+            "Defensive (Opposing Set-Off): Argue that the opponent's claim is for unliquidated damages (e.g., 'loss of profit') and therefore does not qualify for legal set-off.",
+            "Defensive (Opposing Set-Off): If the plaintiff's debt was assigned to a third party, argue that mutuality is broken and legal set-off is no longer available."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Re Cdn. Airlines Corp.",
+              "proposition": "For legal set-off, there is no actual debt until there is an assessment for a specific amount of money."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-59-equitable-set-off",
+        "node_type": "FoundationalPillar",
+        "label": "Equitable Set-Off Standard",
+        "description": "Equitable set-off applies to both liquidated and unliquidated claims that are so closely related that it would be inequitable to allow one to be collected without considering the other.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Equitable set-off requires that the two claims be so closely related that one action goes to the root of the other, and that it be inequitable to allow one to be collected without set-off.",
+              "source_reference": "page_0129.rtf#p129-s3-equitable-set-off-test"
+            }
+          ],
+          "source_references": [
+            "Rule 3.59 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This pillar provides a flexible, fairness-based alternative to the rigidity of legal set-off. It is a weapon for defendants whose cross-claim is for damages but is inextricably linked to the plaintiff's claim (e.g., a claim for price of goods vs. a cross-claim for damages because those goods were defective).",
+          "litigation_implications": [
+            "Offensive (Claiming Set-Off): Argue that the plaintiff's claim and the defendant's cross-claim arise from the same contract or transaction and it would be manifestly unjust to grant judgment on the claim without accounting for the damages on the cross-claim.",
+            "Defensive (Opposing Set-Off): Argue that the two claims are not sufficiently related and arise from separate transactions or duties, making it equitable to decide them separately.",
+            "Procedural Tactic: A valid claim for equitable set-off is a strong argument against severing a counterclaim from the main action."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Alta. Treas. Brs. v. COGI",
+              "proposition": "Recites the tests for equitable set-off, especially the need for a clear connection between the claims."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-59-mutuality-trap-legal-set-off",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Broken Mutuality in Legal Set-Off",
+        "description": "The requirement for 'continued mutuality' in legal set-off creates a trap. If one of the debts is assigned to a third party, mutuality is broken and the right to legal set-off is extinguished.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But such legal set-off requires continued mutuality, which ends if one debt is assigned.",
+              "source_reference": "page_0129.rtf#p129-s2-mutuality"
+            }
+          ],
+          "source_references": [
+            "Rule 3.59 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This is a tactical kill-switch for a legal set-off defence. A plaintiff can defeat a defendant's set-off claim by assigning their receivable (the debt owed by the defendant) to another entity, thereby breaking the 'same parties' requirement.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If facing a valid legal set-off defence, consider assigning the claim to a related company to break mutuality and destroy the defence.",
+            "Defensive (Defendant): Before relying on legal set-off, confirm that the plaintiff has not assigned and does not plan to assign the debt. Contractual clauses prohibiting assignment can protect against this tactic.",
+            "Risk: This tactic may have other commercial or tax implications and should be carefully considered."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Chubak v. Corner Brook Farms",
+              "proposition": "Confirms that continued mutuality is required for legal set-off and is broken by assignment."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-66-costs-of-amendment",
+        "node_type": "ControlMechanism",
+        "label": "Cost Sanction for Amendment",
+        "description": "Rule 3.66(1) presumptively assigns the costs resulting from an amendment to the amending party, unless the amendment is a response or the Court orders otherwise. This creates a 'pay-to-play' cost for changing pleadings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Subject to subrule (2), the costs, if any, as a result of an amendment to a pleading are to be borne by the party filing the amendment unless (a) the amendment is a response to an amended pleading, or (b) the Court otherwise orders.",
+              "source_reference": "page_0158.rtf#r3-66-1"
+            }
+          ],
+          "source_references": [
+            "Rule 3.66(1)"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This rule acts as a deterrent to frivolous or careless amendments by attaching a direct financial consequence. It forces the amending party to weigh the necessity of the change against the certainty of bearing the associated costs, while giving the opposing party a right to be compensated for the disruption.",
+          "litigation_implications": [
+            "Cost Recovery (Opposing Party): When an opponent amends, immediately quantify and claim all 'throw-away' costs, such as time spent reviewing the old pleading and drafting responsive materials that are now wasted.",
+            "Risk Assessment (Amending Party): Before amending, budget for the likelihood of paying the other side's costs for the amendment.",
+            "Strategic Argument: An opposing party can argue for enhanced costs (e.g., solicitor-client costs) if the amendment is very late and causes significant disruption, framing it as a form of prejudice that can be compensated by a higher cost award."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Rodd v. Alta. Health Serv. (#2)",
+              "proposition": "The costs awarded for a late amendment may include solicitor-client costs of anticipated amendments by the opposing party to meet the late amendment."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-61-particulars-as-weapon",
+        "node_type": "WarfareFramework",
+        "label": "Weaponizing Demands for Particulars",
+        "description": "A demand for particulars under Rule 3.61 can be used offensively to force an opponent to commit to a specific factual theory early, or defensively as a delaying tactic. Resisting a reasonable demand is risky.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is rarely worth resisting your opponent's request for further and better particulars. ... Resisting particulars makes you look untrustworthy or unreasonable, so an application for particulars is likely to succeed unless it is unreasonable at first blush.",
+              "source_reference": "page_0132.rtf#p132-s1-commentary"
+            }
+          ],
+          "source_references": [
+            "Rule 3.61 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This framework highlights the dual-use nature of particulars. A well-crafted demand can pin an opponent down, limiting their room to maneuver later. Conversely, an overly broad demand can be used to bog down the litigation. The commentary warns that courts view resistance to reasonable requests unfavorably, making it a powerful tool for the demanding party.",
+          "litigation_implications": [
+            "Offensive Tactic (Demanding Party): Demand particulars on key allegations (e.g., fraud, conspiracy) to force the opponent to lay out their case or reveal its weakness.",
+            "Defensive Tactic (Demanding Party): Use a demand for particulars to delay the need to file a defence, although R. 3.61(4) states the obligation to plead continues.",
+            "Risk (Receiving Party): Refusing to provide particulars on the grounds that 'you already know the facts' is a losing argument and will likely result in a court order compelling particulars with costs against you."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "U.F.C.W. U. Local 401 v. Westfair Foods",
+              "proposition": "It is fallacious to argue a defendant doesn't need particulars of their own conduct, as they need to know what is being alleged against them."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-withdrawing-admission",
+        "node_type": "ControlMechanism",
+        "label": "Withdrawing an Admission: Higher Scrutiny",
+        "description": "Withdrawing an admission in a pleading is more difficult than other amendments. The classic test requires showing the admission was inadvertent, the withdrawal creates a triable issue, and there is no irreparable harm.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is often said that it is harder to get permission to withdraw an admission in a pleading than to make other amendments.",
+              "source_reference": "page_0153.rtf#p153-s1-harder-to-withdraw"
+            }
+          ],
+          "source_references": [
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This mechanism protects the integrity of admissions in pleadings, which are foundational to narrowing issues. The higher bar prevents parties from strategically making and withdrawing admissions to gain tactical advantages. It forces a party seeking to withdraw an admission to provide a compelling explanation for the original 'error'.",
+          "litigation_implications": [
+            "Offensive (Seeking Withdrawal): Must provide evidence explaining why the admission was made in error or by inadvertence. A mere change of strategy is insufficient.",
+            "Defensive (Opposing Withdrawal): Argue that the admission was a conscious, strategic choice by the other party. Demonstrate reliance on the admission (e.g., by not pursuing discovery on that issue), arguing that its withdrawal would now cause irreparable prejudice.",
+            "Risk: An attempt to withdraw a deliberate admission made with full knowledge of the facts is highly likely to fail."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Douziech v. Petra Corp.",
+              "proposition": "An admission made repeatedly by someone knowing the facts, cannot be withdrawn if no new knowledge has come out."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-62-responsive-amendment-right",
+        "node_type": "ControlMechanism",
+        "label": "Automatic Right to Responsive Amendment",
+        "description": "Under Rule 3.62(3), a party has an automatic right, without court permission, to amend their own pleading in response to an opponent's amendment.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may, without the Court's permission, amend that party's pleading before or after pleadings close if that amended pleading is (a) a statement of defence in response to an amended statement of claim...",
+              "source_reference": "page_0134.rtf#r3-62-3"
+            }
+          ],
+          "source_references": [
+            "Rule 3.62(3)"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This rule ensures procedural fairness. When one party changes the goalposts by amending their pleading, this gives the other party a free and automatic right to adjust their position in response, without needing to apply to the court. It maintains the 'pleading equilibrium'.",
+          "litigation_implications": [
+            "Defensive Right: When served with an amended Statement of Claim, a defendant can automatically file an Amended Statement of Defence to address the new allegations, without cost or delay of an application.",
+            "Strategic Consideration: The scope of this responsive amendment is not entirely clear. A party may try to include unrelated amendments, but the commentary suggests this is questionable.",
+            "Default Position: If no responsive pleading is filed, Rule 3.62(5) deems the original pleading to stand as the response, which can be a trap if the new allegations require a specific denial."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-56-clear-case-to-strike-tpn",
+        "node_type": "FoundationalPillar",
+        "label": "High Bar: 'Clear Case' to Strike Third Party Notice",
+        "description": "A heightened standard applies to striking a third party notice; it requires a 'clear case' to succeed, making such applications more difficult than typical strike motions.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But it takes a clear case to strike out a third party notice.",
+              "source_reference": "page_0124.rtf#p124-s1-clear-case"
+            }
+          ],
+          "source_references": [
+            "Rule 3.56 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This pillar provides a powerful defensive shield for a third party plaintiff. By establishing a higher-than-normal threshold, it discourages frivolous strike applications and forces the third party defendant to demonstrate an exceptionally strong case for dismissal.",
+          "litigation_implications": [
+            "Defensive (Third Party Plaintiff): Vigorously defend against a motion to strike by emphasizing this 'clear case' standard to the court, arguing the opponent has not met their heavy burden.",
+            "Offensive (Third Party Defendant): Before bringing a motion to strike a third party notice, ensure the grounds are exceptionally clear and obvious, as a failed motion will result in adverse costs and may signal weakness to the court."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Al Scherbarth Prof. Corp. v. Clarica Life Ins. Co.",
+              "proposition": "Supports the principle that it takes a clear case to strike out a third party notice."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-57-premature-malicious-prosecution-cc",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Premature Malicious Prosecution Counterclaim",
+        "description": "A counterclaim alleging that the main claim itself constitutes malicious prosecution, defamation, or abuse of process is premature and may be struck out for disclosing no cause of action, as the main suit must first be dismissed.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But a counterclaim alleging that the main claim is malicious prosecution or defamation or an abuse of process, may be struck out as disclosing no cause of action.",
+              "source_reference": "page_0126.rtf#p126-s1-premature-cc"
+            },
+            {
+              "text": "Pleadings themselves cannot be actionable, and a collateral motive would be necessary, as would dismissal of the previous suit.",
+              "source_reference": "page_0126.rtf#p126-s2-actionable-pleadings"
+            }
+          ],
+          "source_references": [
+            "Rule 3.57 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This is a procedural trap for an overly aggressive defendant and a weapon for the plaintiff. It prevents a defendant from turning the litigation back on the plaintiff with a 'slap-back' counterclaim before the merits of the original claim have been decided. It enforces the proper sequence of litigation.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If a defendant files a counterclaim for malicious prosecution based on the current action, immediately bring a motion to strike that counterclaim as premature and legally untenable.",
+            "Defensive (Defendant): Do not plead a counterclaim for malicious prosecution within the same action. Wait until you have successfully defended the main claim, then commence a separate action.",
+            "Cost/Risk: A defendant who files such a counterclaim will likely have it struck and be ordered to pay costs."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "A.M. v. Matthews",
+              "proposition": "A counterclaim for malicious prosecution based on the main claim may be struck for disclosing no cause of action."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-draft-amendment-required",
+        "node_type": "ControlMechanism",
+        "label": "Requirement: Attach Draft Amended Pleading",
+        "description": "A formal application for permission to amend a pleading must include or attach a draft of the precise proposed amendment. Failure to do so is a procedural defect.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An application for permission to amend pleadings must contain or attach a draft of the precise proposed amendment.",
+              "source_reference": "page_0156.rtf#p156-s1-draft-required"
+            }
+          ],
+          "source_references": [
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This rule prevents ambiguity and forces the amending party to be specific. It provides the opposing party and the court with the exact wording to be debated, preventing 'amendment by ambush' where the scope of the change is unclear. It is a control mechanism ensuring clarity and fairness.",
+          "litigation_implications": [
+            "Defensive (Opposing Party): If an opponent files an application to amend without attaching the draft pleading, object on procedural grounds. This can force an adjournment and potentially result in a costs award.",
+            "Offensive (Amending Party): Always attach a clean, underlined copy of the proposed amended pleading to the application materials to avoid procedural challenges and demonstrate preparedness.",
+            "Cost/Risk: Failing to follow this simple procedure can result in a wasted court appearance and adverse costs."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Sarnelli v. Fraietta",
+              "proposition": "Supports the practice that an application to amend must include the precise proposed amendment."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-65-barred-claim-not-a-nullity",
+        "node_type": "FoundationalPillar",
+        "label": "Edge Case: Barred Claim Does Not Nullify Pleading",
+        "description": "A statement of claim that contains a claim barred by a limitation period is not a nullity. It can still be amended to add a second, valid claim, even after the original barred claim has been summarily dismissed.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a statement of claim makes a claim which is barred by expiry of a limitation period, that does not make the statement of claim a nullity, nor impossible to amend, and it can be amended by adding a second claim which is not statute barred, even after the original claim was summarily dismissed...",
+              "source_reference": "page_0156.rtf#p156-s2-barred-claim-not-nullity"
+            }
+          ],
+          "source_references": [
+            "Rule 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This principle is a critical lifeline for a plaintiff whose initial claim is flawed. It establishes that the 'container' (the Statement of Claim) remains valid even if its initial 'contents' (the cause of action) are defective. This allows for the action to be salvaged by amendment rather than requiring a new, separate lawsuit.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If your primary claim is struck on a limitations basis, immediately seek to amend the now-'empty' statement of claim to add any other viable, related claims, relying on this principle.",
+            "Defensive (Defendant): Cannot argue that the entire action should be dismissed just because the sole initial claim was statute-barred. The fight shifts to whether any proposed amendment is itself valid (e.g., not hopeless, not prejudiced).",
+            "Strategic Importance: Preserves the original commencement date of the action for the purposes of any new, validly added claims."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "926 Cap. Corp. v. Petro R. Oil Corp.",
+              "proposition": "A statement of claim containing a statute-barred claim is not a nullity and can be amended to add a valid claim."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-prejudice-counters-liberal-amendment",
+        "source_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "COUNTERS",
+        "description": "The bar on amendments causing irreparable prejudice is a primary exception that directly counters the general principle of allowing liberal amendments.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There were four firm exceptions to that general rule...",
+              "source_reference": "page_0138.rtf#p138-s3-exceptions"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship defines the core adversarial dynamic in amendment applications: the proponent's appeal to the liberal default rule versus the opponent's argument that the specific, overriding exception of irreparable prejudice applies.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-limitations-counters-liberal-amendment",
+        "source_node_id": "pt-r3-65-limitation-period-bar",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "COUNTERS",
+        "description": "The common law bar on amendments that add claims outside an expired limitation period is a firm exception that counters the general liberal amendment principle.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "So the common law bars any amendment which would add a new cause of action or a new party outside the limitation period for suing.",
+              "source_reference": "page_0148.rtf#p148-s1-common-law-bar"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link establishes the limitation period as a non-discretionary, hard counter to the court's general willingness to permit amendments, forcing the amending party to find a statutory workaround.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-la-s6-counters-limitations-bar",
+        "source_node_id": "cm-la-s6-related-matters-exception",
+        "target_node_id": "pt-r3-65-limitation-period-bar",
+        "relationship_type": "COUNTERS",
+        "description": "The statutory exception in Section 6 of the Limitations Act for 'related matters' provides a direct countermeasure to the common law bar on amendments outside the limitation period.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Furthermore, the Limitations Act overrides the common law in many areas, and allows even more late amendments by substituting entirely new tests of relation and notice, etc.",
+              "source_reference": "page_0150.rtf#p150-s1-la-overrides-common-law"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship models the classic legal dynamic of statute overriding common law. It represents the primary escape hatch for a party trapped by a limitations defence, shifting the battleground from the calendar to the interpretation of 'related'.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-bad-faith-counters-liberal-amendment",
+        "source_node_id": "cm-r3-65-bad-faith-bar",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "COUNTERS",
+        "description": "A finding of bad faith on the part of the amending party is a firm exception that counters and defeats the general principle of liberal amendments.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "No amendment will be permitted where the failure to plead earlier, or the amendment itself, involves bad faith.",
+              "source_reference": "page_0144.rtf#p144-s1-bad-faith-bar"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship highlights that the court's liberal approach is not a license for abuse. It establishes that a party's improper motive can override the general policy of allowing amendments to ensure the real issues are tried.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-hopelessness-counters-liberal-amendment",
+        "source_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "COUNTERS",
+        "description": "The principle that hopeless amendments should be denied acts as a gatekeeping exception to the general rule of allowing amendments, preventing the addition of legally non-viable claims.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But there is to be no amendment where the amendment would be hopeless, i.e., it could have been struck out or summarily dismissed had it been part of the pleadings from the outset.",
+              "source_reference": "page_0146.rtf#p146-s1-hopeless-bar"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link shows how the principle of judicial economy (not wasting time on doomed claims) overrides the principle of allowing parties to fully formulate their case. It's a check on the liberal amendment rule.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-close-of-pleadings-terminates-unilateral-right",
+        "source_node_id": "pt-r3-67-close-of-pleadings",
+        "target_node_id": "cm-r3-62-unilateral-amendment-right",
+        "relationship_type": "TERMINATES",
+        "description": "The close of pleadings is the procedural event that terminates a party's right to amend their pleadings unilaterally without court permission.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may amend the party's pleading... before pleadings close, any number of times without the Court's permission;",
+              "source_reference": "page_0134.rtf#r3-62-1-a"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship models a critical state change in the litigation lifecycle. It defines the precise moment when a party's autonomy over their own pleadings is lost and judicial oversight becomes mandatory.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-close-of-pleadings-triggers-permission-requirement",
+        "source_node_id": "pt-r3-67-close-of-pleadings",
+        "target_node_id": "cm-r3-65-court-permission-required",
+        "relationship_type": "TRIGGERS",
+        "description": "The close of pleadings triggers the requirement for a party to seek the court's permission under Rule 3.65 for any subsequent amendments.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may amend the party's pleading... after pleadings close... for any other amendment, with the Court's prior permission in accordance with rule 3.65",
+              "source_reference": "page_0134.rtf#r3-62-1-b-ii"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship defines the consequence of the 'close of pleadings' trigger. It marks the transition from a permissive procedural environment to a controlled one where judicial discretion is paramount.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-permission-requirement-governed-by-liberal-principle",
+        "source_node_id": "cm-r3-65-court-permission-required",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "IS_GOVERNED_BY",
+        "description": "The court's decision to grant permission for an amendment is governed by the foundational principle of allowing amendments liberally, subject to the main exceptions.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The accepted general principle is that any pleading can be amended at any time...",
+              "source_reference": "page_0138.rtf#p138-s1-general-principle"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link establishes the legal framework within which a judge exercises their discretion on an amendment application. It confirms that even after pleadings close, the default position favors granting the amendment.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-evidence-requirement-enforces-hopelessness-bar",
+        "source_node_id": "cm-r3-65-evidence-for-amendment",
+        "target_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The requirement to provide evidence for a substantive amendment operationalizes the bar against hopeless amendments by forcing the amending party to demonstrate that the new plea has an arguable factual basis.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the party seeking to amend must give some admissible evidence to get permission to amend, maybe even evidence that the plea sought to be added is arguable.",
+              "source_reference": "page_0154.rtf#p154-s1-evidence-required"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship shows the practical connection between two rules. The court doesn't just guess if a plea is hopeless; it uses the evidence requirement as the tool to test for arguability and enforce the gatekeeping function.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-legal-set-off-requires-mutuality",
+        "source_node_id": "fp-r3-59-legal-set-off",
+        "target_node_id": "pt-r3-59-mutuality-trap-legal-set-off",
+        "relationship_type": "IS_SUBJECT_TO",
+        "description": "The right of Legal Set-Off is subject to the strict requirement of continued mutuality, creating a potential trap if mutuality is broken.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But such legal set-off requires continued mutuality, which ends if one debt is assigned.",
+              "source_reference": "page_0129.rtf#p129-s2-mutuality"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link defines a critical vulnerability in the Legal Set-Off doctrine. It highlights that the right is not absolute and can be defeated by a specific procedural event (assignment).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-equitable-set-off-alternative-to-legal",
+        "source_node_id": "fp-r3-59-equitable-set-off",
+        "target_node_id": "fp-r3-59-legal-set-off",
+        "relationship_type": "IS_AN_ALTERNATIVE_TO",
+        "description": "Equitable Set-Off provides a more flexible alternative to Legal Set-Off, particularly when claims are unliquidated but closely related.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Equity creates another kind of set-off, where two cross-claims are very closely related...",
+              "source_reference": "page_0129.rtf#p129-s5-equity-creates-another"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship maps the strategic choice available to a defendant. If the strict requirements for Legal Set-Off cannot be met, Equitable Set-Off offers a different path to the same goal, based on fairness rather than rigid rules.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-set-off-option-operationalizes-doctrines",
+        "source_node_id": "cm-r3-59-set-off-pleading-option",
+        "target_node_id": "fp-r3-59-legal-set-off",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The pleading options in Rule 3.59 provide the procedural mechanism to operationalize the substantive legal doctrine of set-off.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A matter that might be claimed by set-off may be claimed by counterclaim or by pleading set-off as a defence.",
+              "source_reference": "page_0128.rtf#r3-59"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link connects the 'how' (the rule) with the 'what' (the legal principle). It shows that the abstract doctrines of set-off are brought into the litigation battle through the specific pleading choices offered by the Rules of Court.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-set-off-option-operationalizes-equitable",
+        "source_node_id": "cm-r3-59-set-off-pleading-option",
+        "target_node_id": "fp-r3-59-equitable-set-off",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The pleading options in Rule 3.59 provide the procedural mechanism to operationalize the substantive equitable doctrine of set-off.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A matter that might be claimed by set-off may be claimed by counterclaim or by pleading set-off as a defence.",
+              "source_reference": "page_0128.rtf#r3-59"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link connects the 'how' (the rule) with the 'what' (the legal principle). It shows that the abstract doctrines of set-off are brought into the litigation battle through the specific pleading choices offered by the Rules of Court.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-costs-mitigate-prejudice",
+        "source_node_id": "cm-r3-66-costs-of-amendment",
+        "target_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "relationship_type": "MODIFIES",
+        "description": "The court's power to award costs for an amendment modifies the prejudice analysis; prejudice that can be compensated by costs is not considered 'irreparable'.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Prejudice to the opposite party of any real consequence which cannot be compensated by costs is a fatal bar to amendment...",
+              "source_reference": "page_0143.rtf#p143-s1-prejudice-and-costs"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship defines the threshold for 'irreparable' prejudice. It establishes that financial harm or procedural disruption caused by an amendment is generally considered reparable, forcing an opponent to demonstrate a higher level of harm (like lost evidence) to defeat the amendment.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-deadline-enforces-unilateral-amendment-rules",
+        "source_node_id": "pt-r3-64-disallow-amendment-deadline",
+        "target_node_id": "cm-r3-62-unilateral-amendment-right",
+        "relationship_type": "ENFORCES_LIMITS_ON",
+        "description": "The 10-day deadline to disallow an amendment is the enforcement mechanism that polices the limits of the unilateral amendment right.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The application must be filed within 10 days after service on the applicant of the amended pleading.",
+              "source_reference": "page_0137.rtf#r3-64-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link shows how a procedural time limit gives teeth to substantive rules. Without this deadline, a party could challenge an improper unilateral amendment at any time; the deadline forces an immediate response and provides certainty.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-responsive-right-counters-unilateral-amendment",
+        "source_node_id": "cm-r3-62-responsive-amendment-right",
+        "target_node_id": "cm-r3-62-unilateral-amendment-right",
+        "relationship_type": "IS_A_RESPONSE_TO",
+        "description": "The automatic right to file a responsive amendment is a direct procedural response to an opponent exercising their right to amend.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may, without the Court's permission, amend that party's pleading... if that amended pleading is (a) a statement of defence in response to an amended statement of claim...",
+              "source_reference": "page_0134.rtf#r3-62-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship models the action-reaction dynamic of pleading amendments, ensuring that one party's unilateral action is met with an equal and opposite procedural right for the other.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-withdrawing-admission-higher-bar-than-liberal-amendment",
+        "source_node_id": "cm-r3-65-withdrawing-admission",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "IS_A_MODIFICATION_OF",
+        "description": "The higher scrutiny applied to withdrawing an admission is a specific modification of the general liberal principle for amending pleadings.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is often said that it is harder to get permission to withdraw an admission in a pleading than to make other amendments.",
+              "source_reference": "page_0153.rtf#p153-s1-harder-to-withdraw"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link highlights a key exception within the amendment framework. It shows that not all amendments are created equal; those that seek to undo a formal admission are subject to a stricter, more demanding test than ordinary amendments.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-particulars-define-pleading-scope",
+        "source_node_id": "wf-r3-61-particulars-as-weapon",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "REFINES",
+        "description": "Demanding and providing particulars refines the scope of the pleadings, which is the subject of the amendment rules.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Particulars are required to allow a proper defence...",
+              "source_reference": "page_0132.rtf#p132-s3-purpose"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship connects the process of defining a pleading (particulars) with the process of changing it (amendment). A well-particularized pleading is harder to amend with contradictory facts later, while a vague pleading is more vulnerable to being defined by a demand for particulars.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-counterclaim-independence-impacts-set-off",
+        "source_node_id": "fp-r3-58-counterclaim-independent-action",
+        "target_node_id": "cm-r3-59-set-off-pleading-option",
+        "relationship_type": "IMPACTS",
+        "description": "The status of a counterclaim as an independent action impacts the strategic decision of whether to plead set-off as a counterclaim or a mere defence.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "3.58 A counterclaim is an independent action.",
+              "source_reference": "page_0127.rtf#r3-58"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link shows how one foundational rule informs a strategic choice under another. Because a counterclaim can survive on its own, pleading a set-off that way is a more robust, offensive strategy than pleading it as a defence that dies if the main action is dismissed.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-hopelessness-requires-evidence",
+        "source_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "target_node_id": "cm-r3-65-evidence-for-amendment",
+        "relationship_type": "IS_ASSESSED_BY",
+        "description": "Whether an amendment is 'hopeless' is assessed by the court based on the evidence provided by the amending party.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Hopelessness can be found only in an obvious case...",
+              "source_reference": "page_0146.rtf#p146-s3-hopelessness-test"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship clarifies the process of adjudication. The 'hopelessness' bar isn't an abstract concept; it's a conclusion a judge reaches after evaluating the evidence (or lack thereof) presented in the amendment application.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-021-prejudice-assessed-by-costs-reparability",
+        "source_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "target_node_id": "cm-r3-66-costs-of-amendment",
+        "relationship_type": "IS_DEFINED_BY",
+        "description": "The concept of 'irreparable' prejudice is defined by whether the harm can be adequately compensated by an award of costs.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Prejudice compensable in costs is likely no bar to amending.",
+              "source_reference": "page_0143.rtf#p143-s2-compensable-prejudice"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link provides the specific legal test for a key concept. It transforms the abstract idea of 'prejudice' into a concrete financial and procedural analysis, focusing the argument on what money can and cannot fix.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-022-collateral-attack-counters-liberal-amendment",
+        "source_node_id": "pt-r3-65-collateral-attack-bar",
+        "target_node_id": "fp-r3-65-liberal-amendment-principle",
+        "relationship_type": "COUNTERS",
+        "description": "The bar on amendments that constitute a collateral attack on a prior order is a specific exception that counters the general principle of liberal amendment.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Amendments to the statement of claim were disallowed because they would constitute collateral attacks on previous orders...",
+              "source_reference": "page_0147.rtf#p147-s1-collateral-attack"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship establishes the principle of judicial finality as a hard counter to the flexibility of pleadings. It prevents the amendment process from being used to undermine the authority of previous court decisions.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-023-draft-amendment-required-for-permission",
+        "source_node_id": "cm-r3-65-draft-amendment-required",
+        "target_node_id": "cm-r3-65-court-permission-required",
+        "relationship_type": "IS_A_REQUIREMENT_FOR",
+        "description": "Providing a draft of the proposed amendment is a procedural requirement for an application seeking the court's permission to amend.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An application for permission to amend pleadings must contain or attach a draft of the precise proposed amendment.",
+              "source_reference": "page_0156.rtf#p156-s1-draft-required"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link models a mandatory procedural step. Failure to comply with this requirement can derail an otherwise meritorious application, making it a key control point in the amendment process.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-024-barred-claim-salvages-action",
+        "source_node_id": "fp-r3-65-barred-claim-not-a-nullity",
+        "target_node_id": "pt-r3-65-limitation-period-bar",
+        "relationship_type": "MODIFIES",
+        "description": "The principle that a barred claim does not nullify the entire pleading modifies the effect of the limitation period bar, allowing the action to survive and be amended with other valid claims.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a statement of claim makes a claim which is barred by expiry of a limitation period, that does not make the statement of claim a nullity, nor impossible to amend...",
+              "source_reference": "page_0156.rtf#p156-s2-barred-claim-not-nullity"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This relationship captures a crucial nuance. While the limitation bar can kill a specific cause of action, this principle ensures it doesn't kill the entire lawsuit, providing a path to recovery for the plaintiff.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-025-premature-cc-is-hopeless",
+        "source_node_id": "pt-r3-57-premature-malicious-prosecution-cc",
+        "target_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "relationship_type": "IS_AN_INSTANCE_OF",
+        "description": "A premature counterclaim for malicious prosecution is a specific instance of a 'hopeless' pleading that would be struck out.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...may be struck out as disclosing no cause of action.",
+              "source_reference": "page_0126.rtf#p126-s1-premature-cc"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This link provides a concrete example for an abstract principle, connecting the specific trap of a premature counterclaim to the broader category of 'hopeless' pleadings that are subject to being struck.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-limitation-ambush",
+        "title": "The Limitation Ambush",
+        "objective": "To defeat a late amendment adding a new cause of action by leveraging an expired limitation period and claims of irreparable prejudice.",
+        "prerequisites": [
+          "Opponent files an application to amend their pleading after the close of pleadings.",
+          "The proposed amendment adds a new cause of action or party.",
+          "The limitation period for the new cause of action has expired."
+        ],
+        "expected_outcome": "The court denies the application to amend, preventing the expansion of the lawsuit and awarding costs to the defending party.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "pt-r3-65-limitation-period-bar"
+            ],
+            "action": "File a response to the amendment application, arguing the amendment is absolutely barred by the common law because it adds a new cause of action outside the expired limitation period.",
+            "justification": "So the common law bars any amendment which would add a new cause of action or a new party outside the limitation period for suing."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "cm-la-s6-related-matters-exception"
+            ],
+            "action": "Anticipate the opponent's reliance on the 'related matters' exception. Argue that the new claim is factually and legally distinct from the original pleading and therefore not 'related' enough to qualify for the statutory safe harbor.",
+            "justification": "But different events may well not be 'related'."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-65-irreparable-prejudice-bar"
+            ],
+            "action": "Argue in the alternative that the extreme delay in bringing the amendment has caused irreparable prejudice that costs cannot fix. Provide evidence of this prejudice.",
+            "justification": "Another example is death of a key defendant or witness in the meantime."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-early-pleading-lockdown",
+        "title": "The Early Pleading Lockdown",
+        "objective": "To force an opponent with a vague pleading to commit to specific facts early, limiting their future ability to change their story.",
+        "prerequisites": [
+          "Opponent has filed a pleading with vague or conclusory allegations (e.g., 'conspired to cause harm').",
+          "Pleadings have not yet closed."
+        ],
+        "expected_outcome": "The opponent is forced to provide detailed particulars, which can then be used to limit the scope of discovery and prevent contradictory amendments later. Alternatively, their inability to provide particulars reveals the weakness of their claim.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-61-particulars-as-weapon"
+            ],
+            "action": "Serve a detailed and specific Demand for Particulars under Rule 3.61, targeting every vague allegation in the opponent's pleading.",
+            "justification": "A party on whom a pleading is served may serve on the party who served the pleading a request for particulars about anything in the pleading."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-r3-61-particulars-as-weapon"
+            ],
+            "action": "If the opponent refuses or provides insufficient particulars, immediately file an application to compel them. In court, argue that resistance is unreasonable and you cannot properly plead or prepare without the requested details.",
+            "justification": "Resisting particulars makes you look untrustworthy or unreasonable, so an application for particulars is likely to succeed unless it is unreasonable at first blush."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-67-close-of-pleadings"
+            ],
+            "action": "Once sufficient particulars are received, immediately file and serve your responsive pleading and a Reply (if plaintiff) to trigger the 'Close of Pleadings'.",
+            "justification": "Pleadings close when (a) a reply is filed and served... whichever is earlier."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-action-salvage-operation",
+        "title": "The Action Salvage Operation",
+        "objective": "To save a lawsuit after the primary claim has been struck on a limitations basis by amending the pleading to add a new, viable cause of action.",
+        "prerequisites": [
+          "The sole or primary cause of action in your Statement of Claim has been struck by summary dismissal due to an expired limitation period.",
+          "Another related, viable cause of action exists for which the limitation period has not expired."
+        ],
+        "expected_outcome": "The court permits the amendment, allowing the lawsuit to continue on the basis of the new cause of action, preserving the original filing date.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "fp-r3-65-barred-claim-not-a-nullity"
+            ],
+            "action": "Immediately after the dismissal, prepare an application to amend the now 'empty' Statement of Claim. Argue that the dismissal of the original claim does not render the pleading a nullity and it remains a valid 'proceeding previously commenced'.",
+            "justification": "If a statement of claim makes a claim which is barred by expiry of a limitation period, that does not make the statement of claim a nullity, nor impossible to amend..."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "cm-r3-65-draft-amendment-required",
+              "cm-r3-65-evidence-for-amendment"
+            ],
+            "action": "File the application with a precise draft of the new pleading and supporting affidavit evidence demonstrating the new claim is arguable.",
+            "justification": "An application for permission to amend pleadings must contain or attach a draft of the precise proposed amendment."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "fp-r3-65-liberal-amendment-principle"
+            ],
+            "action": "Frame the application around the court's liberal amendment principles, arguing that allowing the amendment serves the interests of justice by permitting the real issues between the parties to be tried.",
+            "justification": "The law favors amendments to pleadings, to help identify the real issues, prevent multiplicity of pleadings..."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-defeating-the-hopeless-amendment-strike",
+        "scenario": "A plaintiff seeks to amend their Statement of Claim to add a novel but arguable cause of action. The defendant opposes, arguing the amendment is 'hopeless' and should be denied at the outset.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant files a brief opposing the amendment, arguing it should be denied under the 'hopeless amendment' exception because the new cause of action is not recognized in law and is doomed to fail.",
+            "node_refs": [
+              "pt-r3-65-hopeless-amendment-bar"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Plaintiff files a reply brief arguing that the test for 'hopelessness' is not whether the claim will succeed, but whether it is merely 'arguable.' Cite case law that novel claims should be allowed to proceed.",
+            "node_refs": [
+              "pt-r3-65-hopeless-amendment-bar"
+            ],
+            "justification": "An amendment will be allowed if its merits are arguable but doubtful, or novel."
+          }
+        ],
+        "decision_points": [
+          "Does the plaintiff's evidence, however minimal, create an 'arguable' case?",
+          "Is the defendant improperly trying to turn an amendment application into a summary judgment motion?"
+        ],
+        "likely_resolution": "The court will likely grant the amendment. So long as the plaintiff can show the new claim is not 'doomed to fail' and provides some minimal evidence, the court will follow the liberal amendment principle and allow the claim to be pleaded, leaving the ultimate determination of its merits for a later stage."
+      },
+      {
+        "simulation_id": "cms-002-countering-the-irreparable-prejudice-claim",
+        "scenario": "A plaintiff brings a very late application to amend their claim, adding a new theory of liability. The defendant opposes, claiming irreparable prejudice due to the 8-year delay and faded memories.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant files an affidavit from a key corporate representative stating that due to the passage of time, they have no specific recollection of the events related to the new theory of liability and that key documents from that period were destroyed under a routine document retention policy 3 years ago.",
+            "node_refs": [
+              "pt-r3-65-irreparable-prejudice-bar"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Plaintiff argues that the onus is on the defendant to prove prejudice and that vague claims of 'faded memories' are insufficient. Plaintiff points to other available evidence, such as third-party records or other witnesses, that could be used to defend the claim.",
+            "node_refs": [
+              "pt-r3-65-irreparable-prejudice-bar"
+            ],
+            "justification": "The onus of proof is on the party asserting prejudice."
+          }
+        ],
+        "decision_points": [
+          "Is the defendant's evidence of lost documents and memory credible and specific enough to constitute irreparable prejudice?",
+          "Can procedural accommodations and significant cost awards adequately repair the prejudice?"
+        ],
+        "likely_resolution": "This is a highly fact-dependent scenario. If the defendant can concretely demonstrate the loss of specific, critical evidence directly related to the new claim, the court is likely to find irreparable prejudice and deny the amendment. If the prejudice is less clear, the court may allow the amendment on strict terms, including a large award of solicitor-client costs against the plaintiff."
+      },
+      {
+        "simulation_id": "cms-003-countering-the-collateral-attack-amendment",
+        "scenario": "A plaintiff, having lost an interlocutory application for a pre-judgment attachment order, now seeks to amend their Statement of Claim to add a claim for fraudulent conveyance based on the same facts argued in the failed application.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Plaintiff files an application to amend their Statement of Claim to add a claim for fraudulent conveyance, relying on facts and arguments previously rejected by the court in an application for a pre-judgment attachment order.",
+            "node_refs": [
+              "fp-r3-65-liberal-amendment-principle"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant opposes the amendment, arguing it is an impermissible collateral attack on the court's previous order dismissing the attachment application.",
+            "node_refs": [
+              "pt-r3-65-collateral-attack-bar"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "Defendant argues that the plaintiff's proper remedy was to appeal the initial order, not to attempt to re-litigate the same issue under the guise of a pleading amendment. The prior order is conclusive and binding.",
+            "node_refs": [
+              "pt-r3-65-collateral-attack-bar"
+            ],
+            "justification": "That order could be attacked only by appeal or judicial review; without that, the order is conclusive and binding."
+          }
+        ],
+        "decision_points": [
+          "Does the proposed amendment seek to re-litigate the central issue already decided in the prior application?",
+          "Is the plaintiff attempting to circumvent the appeal process?"
+        ],
+        "likely_resolution": "The court will almost certainly deny the amendment. The principle against collateral attacks is strong, and courts will not permit parties to use the amendment process to undermine the finality of prior rulings. The plaintiff will be told their only recourse was to appeal the original order and will be ordered to pay costs for the failed amendment application."
+      }
+    ]
+  }
+}

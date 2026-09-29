@@ -1,0 +1,1723 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "3.0.0",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-04T00:01:00Z",
+      "source_manifests": [
+        "page_0184.rtf",
+        "page_0185.rtf",
+        "page_0186.rtf",
+        "page_0187.rtf",
+        "page_0188.rtf",
+        "page_0189.rtf",
+        "page_0190.rtf",
+        "page_0191.rtf",
+        "page_0192.rtf",
+        "page_0193.rtf",
+        "page_0194.rtf",
+        "page_0195.rtf",
+        "page_0196.rtf",
+        "page_0197.rtf",
+        "page_0198.rtf",
+        "page_0199.rtf",
+        "page_0200.rtf",
+        "page_0201.rtf",
+        "page_0202.rtf",
+        "page_0203.rtf",
+        "page_0204.rtf",
+        "page_0205.rtf",
+        "page_0206.rtf",
+        "page_0207.rtf",
+        "page_0208.rtf",
+        "page_0209.rtf",
+        "page_0210.rtf",
+        "page_0211.rtf",
+        "page_0212.rtf",
+        "page_0213.rtf",
+        "page_0214.rtf",
+        "page_0215.rtf",
+        "page_0216.rtf",
+        "page_0217.rtf",
+        "page_0218.rtf"
+      ],
+      "node_count": 32,
+      "relationship_count": 35,
+      "tactical_play_count": 3,
+      "countermeasure_count": 3,
+      "dedupe_removed_node_count": 3,
+      "dedupe_primary_sources": [
+        "D:\\dev_aiwinsor\\pipelineV6\\hybrid_rule4\\rule3\\rule3.68V4.json"
+      ]
+    },
+    "nodes": [
+      {
+        "node_id": "wf-r3-68-strike-test-reasonable-prospect",
+        "node_type": "WarfareFramework",
+        "label": "Strike Test: 'Any Reasonable Prospect of Success'",
+        "description": "The modern test for striking a claim under Rule 3.68 for disclosing no cause of action is whether there is 'any reasonable prospect that the plaintiff's claim will succeed.' This framework sets a high bar for the moving party.",
+        "source_sentence_ids": [
+          "p0185-para2-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The case law on the test is reviewed, and the test is now 'any reasonable prospect that the [plaintiff's] claim will succeed.'",
+              "source_reference": "page_0185.rtf#p0185-para2-sent2"
+            }
+          ],
+          "source_references": [
+            "Rule 3.68(2)(b)"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This framework establishes the high threshold a defendant must meet, making a strike application a difficult 'kill shot'. It forces the defendant to demonstrate that the claim is legally impossible, not just factually weak.",
+          "litigation_implications": [
+            "Offensive (Defendant): Frame the application to show the claim is legally impossible, not just improbable. Avoid factual arguments.",
+            "Defensive (Plaintiff): Emphasize that only claims with 'no reasonable prospect' can be struck, and any arguable legal basis, however novel, is sufficient to survive."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "1158997 Alta. v. Maple Tr. Co.",
+              "proposition": "The 2010 Alberta Rules have not changed the test for lack of a cause of action."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-facts-assumed-true",
+        "node_type": "FoundationalPillar",
+        "label": "Core Assumption: Pleaded Facts are True",
+        "description": "On an application to strike a pleading for disclosing no reasonable cause of action, the court must assume that all facts alleged in the pleading are true and provable.",
+        "source_sentence_ids": [
+          "p0190-para1-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The facts pled are usually assumed (on such an application) to be true.",
+              "source_reference": "page_0190.rtf#p0190-para1-sent1"
+            }
+          ],
+          "source_references": [
+            "Rule 3.68(3)"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This pillar is the plaintiff's primary shield. It forces the debate onto a pure question of law based on the plaintiff's best-case factual scenario, preventing the defendant from introducing contradictory evidence to challenge the claim's factual basis at this early stage.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): Repeatedly emphasize this assumption to the court to shut down any attempts by the defendant to argue the facts.",
+            "Offensive (Defendant): Acknowledge this rule but immediately pivot to exceptions, such as 'bald allegations' or facts that are legally impossible."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Grenon v. Can. Rev. Agy.",
+              "proposition": "The facts pled are assumed to be true on a strike application."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-bald-assertions-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: The 'Bald Assertions' Exception",
+        "description": "A critical exception to the 'facts assumed true' principle. Mere conclusions, bald assertions, speculation, or absurdly implausible facts are not assumed to be true and can be disregarded by the court.",
+        "source_sentence_ids": [
+          "p0189-para3-sent3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "And mere conclusions, bald assertions, speculation, facts incapable of proof, or absurd or highly implausible assertions, or facts pled contradicting each other, or facts contrary to statutory deeming provisions, are not to be assumed true.",
+              "source_reference": "page_0189.rtf#p0189-para3-sent3"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This is a procedural trap for plaintiffs who plead conclusions instead of material facts, and a powerful weapon for defendants. It allows a defendant to pierce the plaintiff's primary shield ('assume facts as true') without filing evidence, by arguing the pleading is factually deficient on its face.",
+          "litigation_implications": [
+            "Offensive (Defendant): Scrutinize the Statement of Claim for conclusory language (e.g., 'the defendant was negligent') without supporting material facts and argue these are 'bald assertions' not entitled to the presumption of truth.",
+            "Defensive (Plaintiff): Ensure every legal conclusion is supported by specific, pleaded material facts to preemptively neutralize this attack."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Grenon v. Can. Rev. Agy.",
+              "proposition": "Bald assertions, speculation, and facts incapable of proof are not assumed to be true on a strike motion."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-evidence-for-abuse-of-process",
+        "node_type": "ProceduralTrap",
+        "label": "Trap Door: Evidence Admissible for Abuse of Process",
+        "description": "A critical exception to the 'no evidence' rule. Evidence, such as affidavits and court records, is admissible on a motion to strike a pleading as an abuse of process under Rule 3.68(2)(d), including for reasons of res judicata or improper motive.",
+        "source_sentence_ids": [
+          "p0212-para4-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Evidence can be led for an application under R. 3.68(2)(d) (abuse of process).",
+              "source_reference": "page_0212.rtf#p0212-para4-sent1"
+            }
+          ],
+          "source_references": [
+            "Rule 3.68(3)"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This exception is a procedural trap door. It allows a defendant to introduce factual evidence, which is normally barred, by framing the strike application as an 'abuse of process' rather than 'no cause of action'. This is the primary vector for attacking claims based on prior litigation (res judicata) or improper purpose.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a claim is a relitigation, frame the motion under R. 3.68(2)(d) for abuse of process and file affidavit evidence exhibiting the prior court records.",
+            "Defensive (Plaintiff): If facing such a motion, scrutinize the defendant's evidence to ensure it strictly relates to the abuse of process allegation and isn't a disguised attempt to challenge the merits of the current claim's facts."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Heikkila v. Apex Land Corp.",
+              "proposition": "Evidence can be led for an application under R. 3.68(2)(d) for abuse of process."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-limitations-defence-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Limitations Defence vs. No Cause of Action",
+        "description": "An expired limitation period does not mean there is no cause of action; it means there is a defence. A strike application under R. 3.68(2)(b) is the wrong procedure to raise a limitations defence, which must be pleaded and is typically addressed via summary judgment.",
+        "source_sentence_ids": [
+          "p0184-para5-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But the tardiness does not mean there is no cause of action; there is nothing the matter with the statement of claim. Rather, it means that there is a defence, which is not the same thing.",
+              "source_reference": "page_0184.rtf#p0184-para5-sent2"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This is a procedural trap for defendants who misuse a strike application. It distinguishes between a claim that is legally non-existent (no cause of action) and a claim that is legally barred (a defence). Choosing the wrong procedural tool can lead to a failed motion with adverse costs.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If a defendant brings a strike motion based on limitations, argue it is procedurally improper and should be dismissed with costs. Force them to use the correct summary judgment procedure.",
+            "Strategic Choice (Defendant): To raise a limitations defence, plead it in the Statement of Defence and then bring an application for summary dismissal under Rule 7.3, not a strike motion under 3.68(2)(b)."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Cdn. Natural Res. v. Arcelormittal Tubular Prod. Roman",
+              "proposition": "An expired limitation period provides a defence but does not mean there is no cause of action, making a strike application improper."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-68-res-judicata-framework",
+        "node_type": "WarfareFramework",
+        "label": "Warfare Framework: Res Judicata & Relitigation",
+        "description": "The doctrine preventing the relitigation of matters already decided. This includes cause of action estoppel (barring a second suit on the same matter) and issue estoppel (barring relitigation of a specific issue decided in a prior case). It is a form of abuse of process.",
+        "source_sentence_ids": [
+          "p0197-para1-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This usually arises in the case of res judicata, or something very similar.",
+              "source_reference": "page_0197.rtf#p0197-para1-sent2"
+            }
+          ],
+          "source_references": [
+            "Rule 3.68(2)(d)"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This framework provides a powerful 'kill shot' for defendants facing a lawsuit that attempts to relitigate a previously decided matter. It leverages the court's interest in finality to terminate proceedings without addressing the merits of the current claim.",
+          "litigation_implications": [
+            "Offensive (Defendant): If the current lawsuit involves the same parties and issues as a prior, finally decided case, bring a motion to strike for abuse of process and file evidence of the prior proceedings.",
+            "Defensive (Plaintiff): To defeat a res judicata argument, demonstrate that the parties are different, the issues are distinct, the prior decision was not final, or that a recognized exception applies."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "A.-G. Qué. v. Laroche",
+              "proposition": "Establishes the rationale for the doctrine of res judicata as preventing the evil of relitigation."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-should-have-been-raised-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: What 'Should Have Been Raised' Before",
+        "description": "A party must put forward their entire case in one proceeding. A second lawsuit based on claims, issues, or defences that could and should have been raised in the first proceeding is an abuse of process and can be struck out, even if not technically res judicata.",
+        "source_sentence_ids": [
+          "p0201-para1-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "a party cannot now litigate an issue or claim which it properly, with due diligence, could have raised in previous proceedings.",
+              "source_reference": "page_0201.rtf#p0201-para1-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This trap, also known as cause of action estoppel or the rule against claim splitting, prevents litigants from having 'two bites at the apple'. It forces parties to be comprehensive in their initial litigation, creating a significant risk for those who hold back claims or defences for strategic reasons.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a plaintiff brings a new claim arising from the same facts as a prior lawsuit, argue it's an abuse of process because the claim should have been included in the first action.",
+            "Defensive (Plaintiff): Before starting a lawsuit, ensure all possible claims arising from the transaction or event are included to avoid being barred from raising them later."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Behn (B.C.) v. Moulton Contr.",
+              "proposition": "A party should raise a defence in the primary proceeding, not wait to raise it in a collateral suit."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-68-no-jurisdiction-framework",
+        "node_type": "WarfareFramework",
+        "label": "Warfare Framework: Lack of Jurisdiction",
+        "description": "A framework for striking claims where the court lacks jurisdiction because a statute grants exclusive authority to another body, such as a labor arbitrator, a specific administrative tribunal, or the Federal Court.",
+        "source_sentence_ids": [
+          "p0193-para4-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A statement of claim can also be struck out, in a suit where it is very clear that the court has no jurisdiction.",
+              "source_reference": "page_0193.rtf#p0193-para4-sent1"
+            }
+          ],
+          "source_references": [
+            "Rule 3.68(2)(a)"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This framework provides a definitive 'kill shot' that bypasses the merits of the claim entirely. If jurisdiction is exclusive to another forum, the court has no power to hear the case, and it must be struck. This is often faster and more decisive than arguing about the cause of action.",
+          "litigation_implications": [
+            "Offensive (Defendant): If the subject matter falls under a collective agreement or a specific regulatory statute, immediately move to strike for lack of jurisdiction, providing evidence of the relevant agreement or statute.",
+            "Defensive (Plaintiff): To survive, argue that the 'essential character' of the dispute falls outside the scope of the specialized tribunal's authority, or that the tribunal cannot grant the specific relief sought."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Weber v. Ont. Hydro",
+              "proposition": "The seminal case establishing that if the essential character of a dispute arises from a collective agreement, courts have no jurisdiction; it must be arbitrated."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-labor-arbitration-jurisdiction-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Exclusive Jurisdiction of Labor Arbitration",
+        "description": "Courts lack jurisdiction over disputes whose essential character arises from the interpretation, application, or violation of a collective labor agreement. Such claims must be struck and pursued through the grievance and arbitration process.",
+        "source_sentence_ids": [
+          "p0195-para1-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The courts have no jurisdiction over disputes which can be or should be decided by grievance or arbitration under a labor collective agreement; not even concurrent or overlapping jurisdiction.",
+              "source_reference": "page_0195.rtf#p0195-para1-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This is a powerful jurisdictional trap for employees covered by a collective agreement who attempt to sue in court. For employers, it is a swift and effective mechanism to terminate a lawsuit and force the dispute into the more contained and specialized labor arbitration forum.",
+          "litigation_implications": [
+            "Offensive (Defendant Employer): Upon being served with a civil claim by a unionized employee, immediately file a motion to strike for lack of jurisdiction, attaching the collective agreement as evidence.",
+            "Defensive (Plaintiff Employee): Before suing, determine if the claim can be framed as a tort independent of the collective agreement or if the arbitrator cannot grant the necessary relief."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Weber v. Ont. Hydro",
+              "proposition": "Establishes the 'essential character of the dispute' test for determining if a court has jurisdiction over a matter covered by a collective agreement."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-strike-is-permissive",
+        "node_type": "ControlMechanism",
+        "label": "Control: Striking a Pleading is Discretionary",
+        "description": "Rule 3.68 is permissive, not mandatory. Even if grounds for striking a pleading are established, the court retains the discretion not to strike and may choose an alternative remedy, such as ordering an amendment.",
+        "source_sentence_ids": [
+          "p0184-para2-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "R. 3.68 is merely permissive, and never requires the court to strike out.",
+              "source_reference": "page_0184.rtf#p0184-para2-sent1"
+            }
+          ],
+          "source_references": [
+            "Rule 3.68(1)"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This mechanism provides a safety valve against the harshness of striking a claim. It gives the responding party a final line of defense by appealing to the court's discretion and fairness, arguing that a less drastic remedy like amendment would be more just.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If the strike application has merit, argue in the alternative that the court should exercise its discretion to permit an amendment to cure the defect rather than striking the entire claim.",
+            "Offensive (Defendant): Argue that the flaws in the pleading are so fundamental that they cannot be cured by amendment, making striking the only appropriate remedy."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "First Mtge. Fund (V) v. Boychuk",
+              "proposition": "Rule 3.68 is merely permissive and never requires the court to strike a pleading."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-statutory-immunity-weapon",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Striking Claims Barred by Statutory Immunity",
+        "description": "A claim can be struck if a statute provides clear immunity from suit for the defendant, such as for judges, witnesses, or regulatory bodies acting within their statutory function.",
+        "source_sentence_ids": [
+          "p0192-para1-sent3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Or the law may give immunity from suit, e.g. to witnesses, or judges, or custodians of certain persons and bodies from suit",
+              "source_reference": "page_0192.rtf#p0192-para1-sent3"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "Statutory immunity is a powerful 'shield' that can be weaponized to terminate a lawsuit at the earliest stage. Where immunity is clear, the claim has no reasonable prospect of success and can be struck efficiently.",
+          "litigation_implications": [
+            "Offensive (Defendant): If you are a defendant covered by a statutory immunity clause (e.g., a regulator), bring a motion to strike citing the specific statutory provision.",
+            "Defensive (Plaintiff): To overcome an immunity argument, plead facts showing the defendant acted outside their statutory authority, in bad faith, or with malice, as these actions often fall outside the scope of immunity protections."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Ernst v. Alta. Enr. Regulator",
+              "proposition": "A statute may bar suits against tribunal members, providing grounds to strike a claim."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-missing-vital-elements-strikeable",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Striking Claims Missing Vital Elements",
+        "description": "Courts are increasingly willing to strike a cause of action that omits one or more of its essential legal elements, or where a mere bald conclusion is pleaded for a vital element without supporting facts.",
+        "source_sentence_ids": [
+          "p0191-para4-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Increasingly the courts are willing to strike out a cause of action pled which omits one or more vital elements, if there is no motion to amend to add it.",
+              "source_reference": "page_0191.rtf#p0191-para4-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This mechanism allows a defendant to attack the structural integrity of the plaintiff's legal argument. It moves beyond simple 'bald assertions' to a more sophisticated analysis of whether the pleaded facts, even if true, can legally constitute the cause of action alleged.",
+          "litigation_implications": [
+            "Offensive (Defendant): Deconstruct the plaintiff's cause of action into its required legal elements. If the pleaded facts fail to support even one element, argue the claim is legally incomplete and must be struck.",
+            "Defensive (Plaintiff): Use a checklist for each cause of action to ensure that specific facts are pleaded to support every required legal element (e.g., for negligence: duty, breach, causation, damages)."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Clark v. Hunka",
+              "proposition": "Courts are increasingly willing to strike claims that omit vital elements or plead them as bald conclusions."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-issue-estoppel-requirements",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: The Three Requirements for Issue Estoppel",
+        "description": "For issue estoppel to apply, three requirements must be met: the issue must be the same as the one decided in the prior proceeding, the prior judicial decision must have been final, and the parties to both proceedings must be the same or their privies.",
+        "source_sentence_ids": [
+          "p0203-para2-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The requirements for issue estoppel are set out: same issue, final decision, and same parties (or their privies).",
+              "source_reference": "page_0203.rtf#p0203-para2-sent2"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This pillar provides the precise legal test for applying issue estoppel. It serves as a checklist for both the party asserting the estoppel (the attacker) and the party resisting it (the defender), focusing the argument on these three specific criteria.",
+          "litigation_implications": [
+            "Offensive (Defendant): Structure your argument to prove each of the three elements: demonstrate the issue is identical, the prior order was final, and the parties are the same or in privity.",
+            "Defensive (Plaintiff): Attack the defendant's argument by showing that at least one of the three elements is not met (e.g., 'the issue is different,' 'the prior order was interlocutory, not final,' or 'we are not a privy to the party in the first case')."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "S.G. v. LaRochelle",
+              "proposition": "Sets out the three requirements for issue estoppel."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-default-judgment-is-final-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Default Judgment Creates Res Judicata",
+        "description": "A default judgment is considered a final decision for the purposes of res judicata. A party who is noted in default and has judgment entered against them cannot later start a new proceeding to challenge the issues decided by that judgment.",
+        "source_sentence_ids": [
+          "p0212-para1-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A default judgment creates res judicata.",
+              "source_reference": "page_0212.rtf#p0212-para1-sent2"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This is a severe trap for litigants who ignore legal proceedings. It elevates a judgment obtained without a hearing on the merits to the same level of finality as a judgment after trial, allowing it to be used as a shield against any future relitigation of the same issues.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If you have a default judgment against a party, use it as a basis to strike any subsequent claim they file that attempts to relitigate the matter.",
+            "Defensive (Defendant): The only way to escape this trap is to apply to have the default judgment set aside. Do not ignore the judgment and start a new lawsuit."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Goodswimmer (Sturgeon L. I.B.) v. A.-G. Can.",
+              "proposition": "A default judgment creates res judicata."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-68-functus-officio-framework",
+        "node_type": "WarfareFramework",
+        "label": "Warfare Framework: Functus Officio",
+        "description": "The doctrine that once a court has entered a formal order, it has fulfilled its function ('functus officio') and lacks the power to amend or correct its order, even if it appears to be wrong. This principle enforces the finality of judgments.",
+        "source_sentence_ids": [
+          "p0208-para6-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Generally speaking, once a formal order is entered, the Court is functus officio, and cannot correct its order, even if it appears to be wrong.",
+              "source_reference": "page_0208.rtf#p0208-para6-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Finality"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This framework is the ultimate enforcement mechanism for finality. It prevents parties from endlessly returning to the original judge to re-argue a decided matter. It forces the losing party's recourse into the formal appeal process, creating a clear and structured end to litigation at the trial level.",
+          "litigation_implications": [
+            "Offensive (Winning Party): If the losing party tries to bring a motion to 'reconsider' or 'clarify' a final entered order, argue the court is functus officio and has no jurisdiction to hear the motion.",
+            "Strategic Choice (Losing Party): Once a formal order is entered, your only remedy is to file an appeal. Do not waste time and money trying to get the original judge to change their mind."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Dow Chem. Can. v. NOVA Chem. Corp.",
+              "proposition": "Finality is a practical necessity; litigation must end. The functus officio doctrine serves this purpose."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-stay-for-parallel-litigation",
+        "node_type": "ControlMechanism",
+        "label": "Control: Staying Action for Parallel Litigation",
+        "description": "The court has the power to stay a lawsuit where another suit is pending in the same court for substantially the same thing, to avoid multiplicity of proceedings and the risk of conflicting judgments.",
+        "source_sentence_ids": [
+          "p0213-para3-sent3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where the plaintiff has another suit pending in this court for substantially the same thing.",
+              "source_reference": "page_0213.rtf#p0213-para3-sent3"
+            }
+          ],
+          "source_references": [
+            "Rule 3.68(1)(d)"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This mechanism allows the court and the parties to manage litigation efficiently. It can be used offensively to halt a weaker or duplicative lawsuit, or defensively to consolidate efforts and resources into a single, more appropriate proceeding.",
+          "litigation_implications": [
+            "Offensive (Defendant): If you are sued in two separate actions by the same plaintiff for the same issue, bring a motion to stay or strike one of the actions as duplicative and an abuse of process.",
+            "Defensive (Plaintiff): If you have filed two similar suits (e.g., a precautionary one), be prepared to justify why both are necessary or elect which one to proceed with."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hamm v. A.-G. Can.",
+              "proposition": "The tests for staying one suit when two or more are pending often use the tests for an injunction (arguable case, irreparable harm, balance of convenience)."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-stay-for-arbitration-clause",
+        "node_type": "ControlMechanism",
+        "label": "Control: Staying Action for Arbitration",
+        "description": "Where parties have a valid and enforceable contract to arbitrate their disputes, the court will typically stay a lawsuit brought in breach of that agreement, deferring to the arbitral process.",
+        "source_sentence_ids": [
+          "p0215-para2-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where one party objects that it has a right to arbitrate the dispute, though an existing motion for summary judgment bars a stay.",
+              "source_reference": "page_0215.rtf#p0215-para2-sent2"
+            }
+          ],
+          "source_references": [
+            "Arbitration Act"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This mechanism enforces the contractual bargain between parties to use arbitration instead of the courts. It allows a party to force the dispute out of the public court system and into the private, often more specialized, forum they agreed to.",
+          "litigation_implications": [
+            "Offensive (Defendant): If the contract at issue has an arbitration clause, bring a motion to stay the court action immediately, before taking any steps that could be seen as waiving the right to arbitrate.",
+            "Defensive (Plaintiff): To avoid a stay, argue that the dispute falls outside the scope of the arbitration clause, that the clause is invalid, or that a statutory exception (e.g., consumer protection legislation) applies."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "TELUS Comm'ns. v. Wellman",
+              "proposition": "A court must grant a stay for arbitration unless a statutory exception applies."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-court-records-not-evidence-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Edge Case: Court Records Are Not 'Evidence'",
+        "description": "A controversial appellate decision suggests a court on a strike motion can look at court records from a closely-related suit to find a binding decision, reasoning that this is not 'evidence' in the prohibited sense but rather a matter of law or judicial notice.",
+        "source_sentence_ids": [
+          "p0218-para4-sent3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The court can look at the decision or pleadings in a closely-related suit to find a binding decision; that is not evidence?",
+              "source_reference": "page_0218.rtf#p0218-para4-sent3"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This represents a high-value tactical edge case. It creates a potential crack in the otherwise solid wall of the 'no evidence' rule, allowing a party to introduce a dispositive court order from another file on a strike motion, bypassing the need for a more complex summary judgment application.",
+          "litigation_implications": [
+            "Offensive (Defendant): In a rare case where a prior court order creates a complete defence (e.g., res judicata), attempt to introduce it on a strike motion by citing this principle, arguing you are not introducing 'evidence' but asking the court to take notice of its own records.",
+            "Defensive (Plaintiff): Vigorously oppose this, arguing it is a disguised attempt to introduce evidence contrary to the plain wording of Rule 3.68(3). Characterize the supporting case law as a narrow, controversial exception that should not be expanded."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "HOOPP Realty v. Guar. Co. of N. Amer.",
+              "proposition": "A court can look at decisions or pleadings in a closely-related suit on a strike motion, as this may not constitute 'evidence' in the sense prohibited by the rule."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-shareholder-wrong-strikeable",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Striking Shareholder Claims for Corporate Wrongs",
+        "description": "It is a trite law that only a company can sue for wrongs done to it. A claim brought by a shareholder for a wrong to the company is improper and may be struck out.",
+        "source_sentence_ids": [
+          "p0191-para3-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is trite law that only a company can sue for wrongs to it (with a few narrow exceptions), and so a claim or defence by a shareholder or a related company raising such a wrong may be struck out.",
+              "source_reference": "page_0191.rtf#p0191-para3-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This mechanism, based on the rule in Foss v Harbottle, provides a clear basis for striking claims brought by the wrong plaintiff. It protects companies from a multiplicity of suits by individual shareholders and forces such actions into the proper procedural channels, such as derivative actions.",
+          "litigation_implications": [
+            "Offensive (Defendant): If sued by a shareholder for a loss suffered by the company, move to strike the claim on the basis that the shareholder lacks standing to sue for a corporate wrong.",
+            "Strategic Choice (Plaintiff): If you are a shareholder wanting to sue for a wrong to the company, you must bring a derivative action or an oppression remedy claim, not a personal action."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-68-pleading-viewed-as-whole",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Pleading Must Be Viewed As a Whole",
+        "description": "On a strike application, the judge must look at the entire pleading as a whole, not just isolated paragraphs selected by counsel, to determine if a cause of action is disclosed.",
+        "source_sentence_ids": [
+          "p0184-para5-sent6"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The justice or applications judge looks at the whole pleading, not just the passages selected by either counsel in argument.",
+              "source_reference": "page_0184.rtf#p0184-para5-sent6"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This pillar prevents parties from taking sentences out of context to support a strike application. It forces a holistic reading of the claim, allowing a plaintiff to rely on facts pleaded in one section to support a cause of action described in another, thereby strengthening the pleading against piecemeal attacks.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If a defendant attacks one paragraph as deficient, point the court to other paragraphs in the pleading that provide the necessary context or supporting facts.",
+            "Offensive (Defendant): When attacking a pleading, you must demonstrate that even when read as a whole, it fails to disclose a cause of action; you cannot succeed by simply cherry-picking weak sentences."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Guccione v. Bell",
+              "proposition": "Individual paragraphs need not themselves disclose a cause of action, so long as they are arguably relevant to others which do."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-discretion-not-to-apply-res-judicata",
+        "node_type": "ControlMechanism",
+        "label": "Control: Discretion Not to Apply Res Judicata",
+        "description": "Even if all the technical elements of res judicata are present, the court retains a discretion not to apply the doctrine to prevent a significant injustice. This discretion is narrow when the prior decision was from a court.",
+        "source_sentence_ids": [
+          "p0200-para1-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Conversely, even if the elements of res judicata are all present, the court is not bound to enforce that rule.",
+              "source_reference": "page_0200.rtf#p0200-para1-sent2"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This provides a crucial 'safety valve' against the rigid application of res judicata. It allows a party facing a strike motion to make a fairness-based argument, contending that barring their claim due to a prior proceeding would result in a clear injustice, giving the judge a basis to allow the claim to proceed.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If facing a strong res judicata argument, argue in the alternative that the court should exercise its discretion to prevent an injustice, especially if the prior proceeding was procedurally limited or unfair.",
+            "Offensive (Defendant): Argue that the discretion is very narrow and should only be exercised in the clearest of cases, and that the interest in finality should prevail."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Remington v. Peters",
+              "proposition": "Even if the elements of res judicata are present, the court is not bound to enforce the rule."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-fraud-exception-to-res-judicata",
+        "node_type": "ProceduralTrap",
+        "label": "Exception: Fraud or New Evidence to Defeat Res Judicata",
+        "description": "Res judicata can be overcome by showing the original judgment was obtained by fraud, or by the discovery of new evidence that is practically conclusive and could not have been obtained earlier with due diligence. This exception is very narrow.",
+        "source_sentence_ids": [
+          "p0207-para7-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The exception to res judicata for new evidence is narrow and requires a high degree of proof. The new evidence must be practically conclusive.",
+              "source_reference": "page_0207.rtf#p0207-para7-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This provides a high-risk, high-reward method to overcome the finality of a prior judgment. It is a trap for those who rely on it without meeting the extremely high evidentiary burden, but a powerful tool if compelling evidence of fraud or truly new, decisive facts emerges.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): To reopen a decided matter, you must plead and be prepared to prove either that the prior judgment was obtained by fraud or that you have discovered new, conclusive evidence that was previously undiscoverable.",
+            "Defensive (Defendant): When facing such a claim, attack the plaintiff's new evidence by arguing it is not conclusive or that it could have been found with due diligence during the first trial."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hill v. Hill (#2)",
+              "proposition": "The exception to res judicata for new evidence is narrow, requires a high degree of proof, and the evidence must be practically conclusive and not merely an additional ingredient."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-res-judicata-interlocutory-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Exception: Interlocutory Decisions and Res Judicata",
+        "description": "Interlocutory procedural applications are often an exception to res judicata. A decision on a procedural motion, especially one that does not finally decide the merits of an issue, may not bar a later application if circumstances change or new evidence becomes available.",
+        "source_sentence_ids": [
+          "p0206-para8-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Interlocutory procedural applications can also be an exception to res judicata, but a repeated application may be dismissed as abusive, frivolous or vexatious, and it likely will be, unless the first decision went off on a technicality or want of evidence, or circumstances since materially changed.",
+              "source_reference": "page_0206.rtf#p0206-para8-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This exception provides a crucial vector for re-litigating procedural matters that were not decided with finality. It is a trap for a party who assumes any prior ruling is final, and a weapon for a party who can demonstrate a material change in circumstances justifying a second look.",
+          "litigation_implications": [
+            "Offensive (Party seeking to re-litigate): Argue that the prior order was merely procedural or interlocutory and that new facts or a change in circumstances warrant a new decision.",
+            "Defensive (Party opposing re-litigation): Argue that the prior order, while interlocutory, was a final determination of that specific procedural issue and that bringing the motion again is an abuse of process."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Anderson v. Airsprint",
+              "proposition": "An ex parte order is no bar to a later inter partes motion to strike the statement of claim."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-res-judicata-jurisdiction-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Exception: No Res Judicata if Court Lacked Jurisdiction",
+        "description": "A judgment from a court or tribunal on an issue outside its jurisdiction is a nullity and cannot create res judicata. A party is not barred from litigating that issue in a court of competent jurisdiction.",
+        "source_sentence_ids": [
+          "p0206-para3-sent3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A judgment creates no res judicata on an issue outside the court’s jurisdiction.",
+              "source_reference": "page_0206.rtf#p0206-para3-sent3"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This exception is a fundamental check on judicial power and a powerful tool to escape the preclusive effect of a decision from a limited-jurisdiction body. It allows a party to argue that the prior decision is void and has no binding effect.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If a tribunal made an adverse finding on an issue it had no power to decide, you can bring a new action in the proper court and argue the prior finding is not binding.",
+            "Defensive (Defendant): To enforce a prior decision, you must be prepared to demonstrate that the original court or tribunal had the statutory or inherent jurisdiction to make the finding."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Pong v. Quong",
+              "proposition": "A judgment on an issue outside the court's jurisdiction does not create res judicata."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-arbitrator-cannot-grant-relief-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Exception: Court Jurisdiction if Arbitrator Lacks Remedy",
+        "description": "A plaintiff can sue in court, despite a collective agreement, if the labor arbitrator cannot provide the necessary legal relief. This creates a narrow but critical exception to the exclusive jurisdiction of labor arbitration.",
+        "source_sentence_ids": [
+          "p0195-para2-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But a plaintiff can sue in court if arbitration cannot give the relief necessary, and the statement of claim cannot be struck out if there is doubt whether the collective agreement covers this kind of dispute.",
+              "source_reference": "page_0195.rtf#p0195-para2-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This is a key 'escape hatch' for plaintiffs trapped by a collective agreement. It allows them to access the courts by framing their claim around a remedy (e.g., a specific type of injunction) that is beyond the arbitrator's powers, thereby bypassing the jurisdictional bar.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If the required remedy is unavailable through arbitration, plead this explicitly and argue the court retains residual jurisdiction to provide a complete solution.",
+            "Defensive (Defendant): Argue that the arbitrator has broad remedial powers and can fashion a solution equivalent to what the court could offer, thus keeping the dispute within the arbitration framework."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Kniss v. Stenberg",
+              "proposition": "A statement of claim cannot be struck out if there is doubt whether the collective agreement covers this kind of dispute."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-unfounded-prayer-for-relief-strikeable",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Striking Unfounded Prayer for Relief",
+        "description": "A prayer for relief that has no arguable foundation in the facts pleaded in the body of the Statement of Claim can be struck out, even if the rest of the claim survives.",
+        "source_sentence_ids": [
+          "p0184-para3-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the prayer plainly has no arguable foundation in the body of the Statement of Claim, then it should be struck out.",
+              "source_reference": "page_0184.rtf#p0184-para3-sent2"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This provides a surgical tool for defendants to prune a plaintiff's claim. By striking an unsupported or inflammatory remedy (like punitive damages), a defendant can manage risk and narrow the scope of the litigation without needing to defeat the entire cause of action.",
+          "litigation_implications": [
+            "Offensive (Defendant): Scrutinize the prayer for relief. If a remedy like punitive damages is claimed but no facts supporting bad faith are pleaded, move to strike only that part of the prayer.",
+            "Defensive (Plaintiff): Ensure every remedy sought in the prayer for relief is logically and legally supported by the facts alleged in the body of the claim."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-68-res-judicata-reversed-on-appeal-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Exception: No Res Judicata if Reversed on Appeal",
+        "description": "A ruling from a first trial does not create res judicata if an appellate court orders a new trial in an unrestricted manner or otherwise reverses the earlier decision. The original decision is effectively nullified.",
+        "source_sentence_ids": [
+          "p0207-para4-sent1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A ruling at the first trial is not res judicata if an appeal court orders a new trial in an unrestricted manner? Or otherwise reverses the earlier decision.",
+              "source_reference": "page_0207.rtf#p0207-para4-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This is a critical exception that prevents a party from relying on a trial decision that has been invalidated by a higher court. It is a trap for any litigant who fails to check the full appellate history of a judgment before relying on it for an estoppel argument.",
+          "litigation_implications": [
+            "Offensive (Party opposing estoppel): If the opponent relies on a trial judgment, immediately research its appellate history. If it was reversed or a new trial was ordered, argue that the judgment has no preclusive effect.",
+            "Defensive (Party asserting estoppel): Before relying on a prior judgment, you must verify that it was not successfully appealed, or that the appeal was restricted and did not overturn the specific finding you are relying on."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Kinney v. Fisher",
+              "proposition": "A ruling is not res judicata if it has been reversed on appeal or a new trial has been ordered."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-res-judicata-family-law-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Exception: Modified Res Judicata in Family Law",
+        "description": "The doctrine of res judicata is applied differently in some family law matters, particularly child welfare and support, where the court's power to vary orders based on changing circumstances may override the principle of finality.",
+        "source_sentence_ids": [
+          "p0207-para5-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There may not be res judicata in child welfare matters?",
+              "source_reference": "page_0207.rtf#p0207-para5-sent2"
+            },
+            {
+              "text": "There is an extended discussion of when a decision on support in a family law matter is res judicata, and how that squares with power to vary such orders.",
+              "source_reference": "page_0207.rtf#p0207-para5-sent1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Res Judicata"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This exception reflects the unique nature of family law, where the court often retains an ongoing supervisory role. It's a trap for a party who assumes a standard commercial litigation approach to finality will apply to a support or parenting order, which are often inherently variable.",
+          "litigation_implications": [
+            "Offensive (Party seeking variation): Argue that in family law, especially concerning children, the court's duty to respond to material changes in circumstances outweighs the strict application of res judicata.",
+            "Defensive (Party opposing variation): Argue that while orders can be varied, the underlying factual findings of the original order are still subject to issue estoppel unless a material change is proven."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Dir. of Child Welfare v. M.L.",
+              "proposition": "Suggests that res judicata may not apply in child welfare matters."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-labor-negotiation-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Exception: Labor Dispute Arose from Negotiation",
+        "description": "A subtle exception to the exclusive jurisdiction of labor arbitration exists where the dispute arises not from the operation or application of a collective agreement, but from its negotiation.",
+        "source_sentence_ids": [
+          "p0196-para1-sent2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Proceedings in a human rights tribunal were proper, and tripartite labour arbitration was not the exclusive forum to determine the issues there, where the dispute did not so much arise out of the operation of the collective agreement as its negotiation.",
+              "source_reference": "page_0196.rtf#p0196-para1-sent2"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This is a sophisticated countermeasure to a 'Weber Wall' jurisdictional strike. It allows a plaintiff to argue that their claim predates or exists outside the four corners of the collective agreement itself, relating instead to the formation of the employment relationship, which may keep the claim in court.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If the claim relates to pre-contractual misrepresentation or issues during bargaining, frame the dispute as arising from the 'negotiation' phase to argue the court retains jurisdiction.",
+            "Defensive (Defendant): Argue that even issues arising during negotiation are fundamentally connected to the employment relationship and thus fall under the 'essential character' of the dispute governed by the agreement."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Comm. des droits de la personne etc. v. A.-G. Que.",
+              "proposition": "A dispute arising from the negotiation of a collective agreement, rather than its operation, may not fall under the exclusive jurisdiction of a labor arbitrator."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-bald-assertions-is-exception-to-facts-assumed-true",
+        "source_node_id": "pt-r3-68-bald-assertions-trap",
+        "target_node_id": "fp-r3-68-facts-assumed-true",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The 'bald assertions' rule is a direct exception to the foundational pillar that all pleaded facts must be assumed true.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "And mere conclusions, bald assertions, speculation... are not to be assumed true.",
+              "source_reference": "page_0189.rtf#p0189-para3-sent3"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship represents the core adversarial dynamic in a strike motion: the plaintiff's shield (assume facts true) versus the defendant's spear (bald assertions). A successful 'bald assertion' argument pierces the shield without requiring evidence."
+        }
+      },
+      {
+        "relationship_id": "rel-002-no-evidence-rule-reinforces-facts-assumed-true",
+        "source_node_id": "cm-r3-68-no-evidence-rule",
+        "target_node_id": "fp-r3-68-facts-assumed-true",
+        "relationship_type": "REINFORCES",
+        "description": "The 'no evidence' rule operationally reinforces the 'facts assumed true' pillar by prohibiting the defendant from introducing factual evidence to contradict the pleading.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Another misuse of R. 3.68 is trying to file affidavits to show that there is no cause of action because the facts alleged in the statement of claim are not true.",
+              "source_reference": "page_0217.rtf#p0217-para3-sent2"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link shows how procedural rules and legal principles work in concert. The 'no evidence' rule is the practical enforcement mechanism for the 'assume facts true' principle."
+        }
+      },
+      {
+        "relationship_id": "rel-003-evidence-for-abuse-is-exception-to-no-evidence-rule",
+        "source_node_id": "pt-r3-68-evidence-for-abuse-of-process",
+        "target_node_id": "cm-r3-68-no-evidence-rule",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The admissibility of evidence for abuse of process motions is a critical exception to the general 'no evidence' rule.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Evidence can be led for an application under R. 3.68(2)(d) (abuse of process).",
+              "source_reference": "page_0212.rtf#p0212-para4-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship highlights a key procedural fork in the road. By choosing to frame a strike as an 'abuse of process' instead of 'no cause of action', a litigant can unlock the ability to file evidence, fundamentally changing the nature of the application."
+        }
+      },
+      {
+        "relationship_id": "rel-004-novelty-is-not-fatal-modifies-strike-test",
+        "source_node_id": "fp-r3-68-novelty-is-not-fatal",
+        "target_node_id": "wf-r3-68-strike-test-reasonable-prospect",
+        "relationship_type": "MODIFIES",
+        "description": "The principle that novelty is not fatal modifies the application of the 'reasonable prospect of success' test, making it much harder to strike claims in developing areas of law.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the statement of claim sets up a fact situation or a legal proposition which would mean that the defendant’s liability to the plaintiff would be novel or dubious, the claim cannot be struck out.",
+              "source_reference": "page_0186.rtf#p0186-para1-sent3"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship shows how a foundational principle acts as a constraint on a broader framework. The court cannot find a novel claim has 'no reasonable prospect' simply because no precedent exists; it must consider the possibility of legal evolution."
+        }
+      },
+      {
+        "relationship_id": "rel-005-limitations-trap-requires-summary-judgment",
+        "source_node_id": "pt-r3-68-limitations-defence-trap",
+        "target_node_id": "wf-r3-68-strike-test-reasonable-prospect",
+        "relationship_type": "REQUIRES",
+        "description": "The procedural trap of misusing a strike motion for a limitations defence requires the moving party to instead use a different procedure, typically summary judgment.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Again the remedy is summary dismissal under R. 7.3.",
+              "source_reference": "page_0184.rtf#p0184-para5-sent3"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This highlights the importance of selecting the correct procedural weapon. A valid defence (limitations) will fail if brought using the wrong tool (strike motion), forcing the party to restart with the correct one (summary judgment)."
+        }
+      },
+      {
+        "relationship_id": "rel-006-res-judicata-operationalizes-abuse-of-process",
+        "source_node_id": "wf-r3-68-res-judicata-framework",
+        "target_node_id": "pt-r3-68-evidence-for-abuse-of-process",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The res judicata framework is operationalized through a motion to strike for abuse of process, which permits the introduction of evidence of the prior proceeding.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This usually arises in the case of res judicata, or something very similar.",
+              "source_reference": "page_0197.rtf#p0197-para1-sent2"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link connects the substantive legal doctrine (res judicata) with the specific procedural mechanism (abuse of process motion with evidence) required to enforce it."
+        }
+      },
+      {
+        "relationship_id": "rel-007-should-have-been-raised-is-a-component-of-res-judicata",
+        "source_node_id": "pt-r3-68-should-have-been-raised-trap",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The rule against raising what should have been raised before (cause of action estoppel) is a key component of the broader res judicata framework.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This type of res judicata gets different names: part of cause of action estoppel, merger, exhaustion, or claim preclusion.",
+              "source_reference": "page_0200.rtf#p0200-para7-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship clarifies the taxonomy of legal doctrines, showing that the specific trap of 'claim splitting' is a subset of the overarching principle of finality embodied in res judicata."
+        }
+      },
+      {
+        "relationship_id": "rel-008-collateral-attack-is-a-component-of-res-judicata",
+        "source_node_id": "pt-r3-68-collateral-attack-trap",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The prohibition on collateral attacks is a core component of the res judicata framework, enforcing the finality of prior orders.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Collateral attack and functus officio overlap.",
+              "source_reference": "page_0199.rtf#p0199-para2-sent6"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link shows that a collateral attack is a specific type of abuse of process that violates the principles of finality and res judicata."
+        }
+      },
+      {
+        "relationship_id": "rel-009-labor-arbitration-is-a-component-of-no-jurisdiction",
+        "source_node_id": "pt-r3-68-labor-arbitration-jurisdiction-trap",
+        "target_node_id": "wf-r3-68-no-jurisdiction-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The rule ousting court jurisdiction in favor of labor arbitration is a specific and common application of the general framework for striking claims for lack of jurisdiction.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The courts have no jurisdiction over disputes which can be or should be decided by grievance or arbitration under a labor collective agreement",
+              "source_reference": "page_0195.rtf#p0195-para1-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship provides a concrete example of the abstract 'no jurisdiction' framework, illustrating how a specific statutory scheme (labor relations) divests the courts of their inherent authority."
+        }
+      },
+      {
+        "relationship_id": "rel-010-strike-is-permissive-modifies-strike-test",
+        "source_node_id": "cm-r3-68-strike-is-permissive",
+        "target_node_id": "wf-r3-68-strike-test-reasonable-prospect",
+        "relationship_type": "MODIFIES",
+        "description": "The court's discretion modifies the outcome of the strike test; even if a claim has no reasonable prospect of success, the court can choose a remedy other than striking, such as allowing an amendment.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "R. 3.68 is merely permissive, and never requires the court to strike out.",
+              "source_reference": "page_0184.rtf#p0184-para2-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link represents the 'human element' or judicial discretion layered on top of the strict legal test. It creates an opportunity for a plaintiff to salvage a deficient claim by appealing to fairness and proportionality."
+        }
+      },
+      {
+        "relationship_id": "rel-011-missing-elements-operationalizes-bald-assertions",
+        "source_node_id": "cm-r3-68-missing-vital-elements-strikeable",
+        "target_node_id": "pt-r3-68-bald-assertions-trap",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The tactic of striking a claim for missing vital elements is a specific way to operationalize an attack on a pleading for containing bald assertions or conclusions.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Or where a mere bald conclusion is given for one of those vital elements, with no facts to support that.",
+              "source_reference": "page_0191.rtf#p0191-para4-sent2"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship connects a general principle (no bald assertions) to a specific, actionable tactic (check for missing legal elements). It provides a structured method for analyzing and attacking a pleading's sufficiency."
+        }
+      },
+      {
+        "relationship_id": "rel-012-issue-estoppel-requires-res-judicata-framework",
+        "source_node_id": "fp-r3-68-issue-estoppel-requirements",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "REQUIRES",
+        "description": "The application of issue estoppel requires the overarching legal framework of res judicata, which provides the rationale for barring relitigation.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There are various branches of res judicata. For a discussion of issue estoppel and cause of action estoppel, see the Civil Procedure Encyclopedia.",
+              "source_reference": "page_0198.rtf#p0198-para3-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This clarifies that issue estoppel is not a standalone rule but a specific doctrine within the broader family of rules designed to ensure finality in litigation."
+        }
+      },
+      {
+        "relationship_id": "rel-013-default-judgment-trap-reinforces-res-judicata",
+        "source_node_id": "pt-r3-68-default-judgment-is-final-trap",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "REINFORCES",
+        "description": "The rule that a default judgment creates res judicata strongly reinforces the principle of finality at the core of the res judicata framework.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The test is not whether there is a decision on the merits, but a final decision.",
+              "source_reference": "page_0212.rtf#p0212-para1-sent3"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link demonstrates the uncompromising nature of the finality principle. It shows that the system prioritizes ending litigation so highly that even a judgment obtained without a merits hearing is given preclusive effect."
+        }
+      },
+      {
+        "relationship_id": "rel-014-functus-officio-reinforces-res-judicata",
+        "source_node_id": "wf-r3-68-functus-officio-framework",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "REINFORCES",
+        "description": "The functus officio doctrine reinforces the res judicata framework by preventing a judge from revisiting their own final decision, thereby forcing the matter into the appeal process or making it final.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This topic is all about finality. Finality is not just a technical rule; finality is a practical necessity, and perfection is unattainable. Litigation must end.",
+              "source_reference": "page_0208.rtf#p0208-para7-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship shows two sides of the same coin: res judicata prevents parties from relitigating, while functus officio prevents the judge from doing so. Together, they create a robust system of finality."
+        }
+      },
+      {
+        "relationship_id": "rel-015-court-records-trap-is-exception-to-no-evidence-rule",
+        "source_node_id": "pt-r3-68-court-records-not-evidence-trap",
+        "target_node_id": "cm-r3-68-no-evidence-rule",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The edge case allowing a court to look at its own records on a strike motion provides a potential, high-risk exception to the strict 'no evidence' rule.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The court can look at the decision or pleadings in a closely-related suit to find a binding decision; that is not evidence?",
+              "source_reference": "page_0218.rtf#p0218-para4-sent3"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This highlights a tactical ambiguity in the rules. A litigant can attempt to exploit this ambiguity to introduce a dispositive document on a strike motion, which is a faster and simpler procedure than a summary judgment motion."
+        }
+      },
+      {
+        "relationship_id": "rel-016-pleading-as-whole-counters-missing-elements",
+        "source_node_id": "fp-r3-68-pleading-viewed-as-whole",
+        "target_node_id": "cm-r3-68-missing-vital-elements-strikeable",
+        "relationship_type": "COUNTERS",
+        "description": "The principle that a pleading must be read as a whole is a direct countermeasure to an attack based on a single paragraph allegedly missing a vital element.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Individual paragraphs need not themselves disclose a cause of action (or defence), so long as they are arguably relevant to others which do.",
+              "source_reference": "page_0184.rtf#p0184-para6-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship illustrates a common defensive tactic. It allows a plaintiff to defeat a 'missing element' attack by pointing to facts pleaded elsewhere in the document, forcing a more generous and holistic interpretation of the claim."
+        }
+      },
+      {
+        "relationship_id": "rel-017-discretion-on-res-judicata-is-exception-to-res-judicata-framework",
+        "source_node_id": "cm-r3-68-discretion-not-to-apply-res-judicata",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The court's residual discretion to prevent injustice acts as an exception to the otherwise rigid application of the res judicata framework.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Conversely, even if the elements of res judicata are all present, the court is not bound to enforce that rule.",
+              "source_reference": "page_0200.rtf#p0200-para1-sent2"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link represents the ultimate 'safety valve' in the system, where fairness can override procedural finality. It provides a last-ditch argument for a party facing a technically correct but unjust res judicata argument."
+        }
+      },
+      {
+        "relationship_id": "rel-018-fraud-exception-is-exception-to-res-judicata-framework",
+        "source_node_id": "pt-r3-68-fraud-exception-to-res-judicata",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The narrow exception for fraud or new evidence provides a direct, though difficult, exception to the res judicata framework.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The exception to res judicata for fraud is discussed.",
+              "source_reference": "page_0207.rtf#p0207-para7-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship highlights a fundamental principle: finality, while important, does not protect a judgment obtained by fraud. This provides a mechanism to attack the very foundation of the prior decision that a defendant is relying on."
+        }
+      },
+      {
+        "relationship_id": "rel-019-stay-for-arbitration-is-component-of-no-jurisdiction",
+        "source_node_id": "cm-r3-68-stay-for-arbitration-clause",
+        "target_node_id": "wf-r3-68-no-jurisdiction-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "Staying a suit in favor of arbitration is a specific remedy applied under the broader framework where a court declines jurisdiction in favor of a more appropriate forum.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But there are limits to how far private contracts can oust the courts’ jurisdiction in favour of private tribunals.",
+              "source_reference": "page_0196.rtf#p0196-para3-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link clarifies that while the outcome is a stay rather than a strike, the underlying legal principle is the same: the court is ceding jurisdiction to the forum chosen by the parties or by statute."
+        }
+      },
+      {
+        "relationship_id": "rel-020-stay-for-parallel-litigation-is-component-of-abuse-of-process",
+        "source_node_id": "cm-r3-68-stay-for-parallel-litigation",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "Staying an action due to parallel litigation is a remedy to prevent the abuse of process that arises from duplicative proceedings, which is related to the principles of res judicata.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the other suit has reached a finding of liability, the other one should be stayed.",
+              "source_reference": "page_0214.rtf#p0214-footnote10-sent6"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This connects the management of current, parallel cases to the principles governing past, decided cases. Both are aimed at preventing wasted resources and conflicting decisions, which are forms of abuse of process."
+        }
+      },
+      {
+        "relationship_id": "rel-021-collateral-attack-reinforces-functus-officio",
+        "source_node_id": "pt-r3-68-collateral-attack-trap",
+        "target_node_id": "wf-r3-68-functus-officio-framework",
+        "relationship_type": "REINFORCES",
+        "description": "The rule against collateral attacks reinforces the functus officio doctrine. Since the original judge cannot revisit the order (functus), a party is also barred from attacking it in a new proceeding (collateral attack), leaving a direct appeal as the only option.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Collateral attack and functus officio overlap.",
+              "source_reference": "page_0199.rtf#p0199-para2-sent6"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship shows how two doctrines work together to create a procedural chokepoint, funnelling all challenges to a final order into the formal appeal process and shutting down all other avenues of attack."
+        }
+      },
+      {
+        "relationship_id": "rel-022-interlocutory-exception-is-exception-to-res-judicata",
+        "source_node_id": "pt-r3-68-res-judicata-interlocutory-exception",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The principle that interlocutory orders often do not create res judicata provides a direct exception to a claim of finality.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Interlocutory procedural applications can also be an exception to res judicata...",
+              "source_reference": "page_0206.rtf#p0206-para8-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship models a key defensive tactic against a res judicata strike. It allows a party to argue that the prior decision was not 'final' for estoppel purposes, thereby keeping the current claim alive."
+        }
+      },
+      {
+        "relationship_id": "rel-023-jurisdiction-exception-is-exception-to-res-judicata",
+        "source_node_id": "pt-r3-68-res-judicata-jurisdiction-exception",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "A prior judgment rendered without jurisdiction is a nullity and cannot be used to ground a res judicata argument, providing a powerful exception.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A judgment creates no res judicata on an issue outside the court’s jurisdiction.",
+              "source_reference": "page_0206.rtf#p0206-para3-sent3"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link provides a fundamental counterattack to a res judicata claim by invalidating the prior decision itself. If the first court had no power to decide, its decision has no legal effect."
+        }
+      },
+      {
+        "relationship_id": "rel-024-no-remedy-exception-is-exception-to-labor-arbitration-trap",
+        "source_node_id": "pt-r3-68-arbitrator-cannot-grant-relief-exception",
+        "target_node_id": "pt-r3-68-labor-arbitration-jurisdiction-trap",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The inability of an arbitrator to grant the necessary relief provides a direct exception to the jurisdictional bar of a collective agreement.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But a plaintiff can sue in court if arbitration cannot give the relief necessary...",
+              "source_reference": "page_0195.rtf#p0195-para2-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This models a critical 'escape hatch' from the otherwise strict jurisdictional trap of labor arbitration, allowing a plaintiff to argue for the court's residual jurisdiction."
+        }
+      },
+      {
+        "relationship_id": "rel-025-unfounded-prayer-is-component-of-missing-elements",
+        "source_node_id": "cm-r3-68-unfounded-prayer-for-relief-strikeable",
+        "target_node_id": "cm-r3-68-missing-vital-elements-strikeable",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "Striking an unfounded prayer for relief is a specific application of the broader principle of striking parts of a claim that lack factual support or are missing vital elements.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A prayer for relief has no independent force, and is of no use to the plaintiff unless he or she pleads and proves facts which will support it.",
+              "source_reference": "page_0184.rtf#p0184-para3-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This link shows the tactical relationship between the body of the pleading and the relief sought. A claim for relief is essentially a conclusion that must be supported by the pleaded facts; if the supporting 'elements' are missing, the conclusion can be struck."
+        }
+      },
+      {
+        "relationship_id": "rel-026-reversed-on-appeal-is-exception-to-res-judicata",
+        "source_node_id": "pt-r3-68-res-judicata-reversed-on-appeal-exception",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "A judgment that has been reversed on appeal is a clear exception to the res judicata framework, as it is no longer a final, binding decision.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A ruling at the first trial is not res judicata if an appeal court orders a new trial in an unrestricted manner? Or otherwise reverses the earlier decision.",
+              "source_reference": "page_0207.rtf#p0207-para4-sent1"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship models a fundamental check on the application of estoppel. It ensures that only truly final and subsisting judgments can be used to bar future litigation."
+        }
+      },
+      {
+        "relationship_id": "rel-027-family-law-is-exception-to-res-judicata",
+        "source_node_id": "pt-r3-68-res-judicata-family-law-exception",
+        "target_node_id": "wf-r3-68-res-judicata-framework",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "The unique, ongoing nature of family law matters, especially concerning children, creates an exception to the strict application of res judicata.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There may not be res judicata in child welfare matters?",
+              "source_reference": "page_0207.rtf#p0207-para5-sent2"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This relationship captures a domain-specific modification of a general legal principle, highlighting that the goal of finality can be subordinated to other policy goals, like the best interests of the child."
+        }
+      },
+      {
+        "relationship_id": "rel-028-labor-negotiation-is-exception-to-labor-arbitration-trap",
+        "source_node_id": "pt-r3-68-labor-negotiation-exception",
+        "target_node_id": "pt-r3-68-labor-arbitration-jurisdiction-trap",
+        "relationship_type": "IS_AN_EXCEPTION_TO",
+        "description": "A dispute arising from the negotiation of a collective agreement, rather than its operation, is an exception to the rule of exclusive arbitral jurisdiction.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...where the dispute did not so much arise out of the operation of the collective agreement as its negotiation.",
+              "source_reference": "page_0196.rtf#p0196-para1-sent2"
+            }
+          ],
+          "verified_at": "2025-11-04T00:01:00Z",
+          "strategic_rationale": "This models a subtle but critical distinction that can determine the forum for a dispute. It provides a vector for a plaintiff to argue their claim is about the formation of the contract, not its breach, thereby keeping the matter in court."
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-weber-wall",
+        "title": "The Weber Wall: Jurisdictional Strike on Labor Dispute",
+        "objective": "To strike a plaintiff's civil claim for wrongful dismissal or a related tort where a collective agreement governs the employment relationship, forcing the matter into labor arbitration.",
+        "prerequisites": [
+          "The defendant is an employer.",
+          "The plaintiff is an employee or former employee.",
+          "A collective bargaining agreement was in force and covered the plaintiff."
+        ],
+        "expected_outcome": "The Statement of Claim is struck in its entirety for lack of jurisdiction, with costs awarded to the defendant. The plaintiff is forced to pursue their claim through the union's grievance procedure, if the time limits have not expired.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-68-no-jurisdiction-framework"
+            ],
+            "action": "File a motion to strike the claim, explicitly stating the ground is the court's lack of jurisdiction.",
+            "justification": "A statement of claim can also be struck out, in a suit where it is very clear that the court has no jurisdiction."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-68-labor-arbitration-jurisdiction-trap"
+            ],
+            "action": "Argue that the 'essential character of the dispute' arises from the interpretation, application, or administration of the collective agreement, invoking the principles from Weber v. Ontario Hydro.",
+            "justification": "The courts have no jurisdiction over disputes which can be or should be decided by grievance or arbitration under a labor collective agreement; not even concurrent or overlapping jurisdiction."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [],
+            "action": "File an affidavit attaching a true copy of the collective agreement and confirming the plaintiff's employment status under it. This evidence is admissible on a jurisdictional motion.",
+            "justification": "But if the statement of claim is to be struck out for want of jurisdiction, evidence is necessary... Court jurisdiction or not depends on the facts surrounding dispute, not how the legal issues are framed."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-res-judicata-ambush",
+        "title": "The Res Judicata Ambush",
+        "objective": "To strike a plaintiff's claim as an abuse of process because it attempts to relitigate an issue or cause of action that was, or should have been, decided in a prior proceeding.",
+        "prerequisites": [
+          "A prior legal proceeding involving the same parties (or their privies) has concluded with a final order.",
+          "The current lawsuit raises the same cause of action or a fundamental issue that was decided in the prior proceeding."
+        ],
+        "expected_outcome": "The new Statement of Claim is struck as an abuse of process, with enhanced costs potentially awarded against the plaintiff for bringing a duplicative action.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-68-res-judicata-framework"
+            ],
+            "action": "File a motion to strike the claim under Rule 3.68(2)(d) on the grounds that it is an abuse of process.",
+            "justification": "One motion to strike which has a reasonable chance is a request to strike out a statement of claim (or defence) which is an abuse of process. This usually arises in the case of res judicata"
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-68-evidence-for-abuse-of-process"
+            ],
+            "action": "File an affidavit exhibiting the pleadings, relevant evidence, and the final, entered order from the previous proceeding to prove what was litigated and decided.",
+            "justification": "Evidence can be led for an application under R. 3.68(2)(d) (abuse of process)."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "fp-r3-68-issue-estoppel-requirements",
+              "pt-r3-68-should-have-been-raised-trap"
+            ],
+            "action": "In argument, demonstrate how the current claim meets the test for either issue estoppel (same issue, final decision, same parties) or cause of action estoppel (the claim should have been raised in the first suit).",
+            "justification": "A party must put forward his or her whole claim or defence in one suit, and cannot later sue for the rest of it"
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-res-judicata-escape",
+        "title": "The Res Judicata Escape",
+        "objective": "To defeat a motion to strike for res judicata by invoking a recognized exception to the doctrine of finality.",
+        "prerequisites": [
+          "The opposing party has filed a motion to strike your claim based on res judicata or issue estoppel."
+        ],
+        "expected_outcome": "The motion to strike is dismissed, allowing the claim to proceed. The opponent is forced to defend the action on its merits.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-68-res-judicata-framework"
+            ],
+            "action": "Acknowledge the existence of the prior proceeding but frame it as non-dispositive by immediately pivoting to an exception.",
+            "justification": "Conversely, even if the elements of res judicata are all present, the court is not bound to enforce that rule."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-68-res-judicata-interlocutory-exception",
+              "pt-r3-68-res-judicata-reversed-on-appeal-exception"
+            ],
+            "action": "Argue that the prior order was not 'final' because it was either interlocutory in nature or was subsequently reversed on appeal, and therefore cannot create estoppel.",
+            "justification": "A ruling at the first trial is not res judicata if an appeal court...reverses the earlier decision."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-68-fraud-exception-to-res-judicata"
+            ],
+            "action": "Alternatively, if facts permit, argue that the prior judgment is vitiated because it was obtained by fraud or perjury, thus falling into a narrow but powerful exception.",
+            "justification": "The exception to res judicata for fraud is discussed."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "cm-r3-68-discretion-not-to-apply-res-judicata"
+            ],
+            "action": "As a final alternative, appeal to the court's inherent discretion, arguing that applying res judicata in this specific case would amount to a significant injustice that the court ought to prevent.",
+            "justification": "The court has a discretion not to apply issue estoppel."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-novelty-shield-vs-hopeless-claim-sword",
+        "title": "Countering a Strike on a Novel Claim",
+        "scenario": "A plaintiff brings a claim based on a novel or developing area of law (e.g., a new privacy tort). The defendant moves to strike the claim, arguing it discloses no reasonable cause of action because no such tort is currently recognized.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-68-strike-test-reasonable-prospect"
+            ],
+            "action": "Defendant files a motion to strike under R. 3.68(2)(b), arguing it is 'plain and obvious' the claim has no reasonable prospect of success as it is not a recognized cause of action."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "fp-r3-68-facts-assumed-true"
+            ],
+            "action": "Plaintiff's brief begins by reminding the court that for the purpose of the motion, all pleaded facts must be assumed true."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "fp-r3-68-novelty-is-not-fatal"
+            ],
+            "action": "Plaintiff invokes the 'novelty is not fatal' principle, arguing that the common law evolves and that a claim should not be struck simply because it is new."
+          }
+        ],
+        "decision_points": [
+          "Can the plaintiff point to any legal trend or academic support for their novel claim?",
+          "Is the proposed cause of action a logical extension of existing principles, or a radical departure?"
+        ],
+        "likely_resolution": "The motion to strike is likely to be dismissed. Courts are very reluctant to strike novel but arguable claims, preferring to allow the law to develop based on a full factual record established at trial. The defendant will be forced to defend the action on its merits."
+      },
+      {
+        "simulation_id": "cms-002-countering-the-bald-assertion-attack",
+        "title": "Countering the 'Bald Assertion' Attack",
+        "scenario": "A plaintiff pleads a claim for conspiracy. The defendant moves to strike, arguing that the allegations of agreement and unlawful conduct are 'bald assertions' and 'conclusions of law' unsupported by material facts.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-68-bald-assertions-trap",
+              "cm-r3-68-missing-vital-elements-strikeable"
+            ],
+            "action": "Defendant moves to strike, arguing the core allegations are 'bald assertions' not entitled to the presumption of truth, leaving the claim with missing vital elements."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "fp-r3-68-pleading-viewed-as-whole"
+            ],
+            "action": "Plaintiff argues the pleading must be read as a whole, and that facts pleaded in various paragraphs, when taken together, provide the necessary factual basis for the conspiracy claim."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "cm-r3-68-strike-is-permissive"
+            ],
+            "action": "In the alternative, plaintiff argues that if the court finds the pleading deficient, it should exercise its discretion to grant leave to amend to add further particulars, rather than striking the claim entirely."
+          }
+        ],
+        "decision_points": [
+          "Are there any pleaded facts, even circumstantial, that could support an inference of the vital elements?",
+          "Would an amendment be able to cure the defect?"
+        ],
+        "likely_resolution": "The outcome is uncertain and fact-dependent. If the plaintiff has pleaded some circumstantial facts, the claim will likely survive. If the pleading is truly nothing more than 'the defendants conspired', it is at high risk of being struck, possibly with leave to amend."
+      },
+      {
+        "simulation_id": "cms-003-the-arbitration-escape-hatch",
+        "title": "The Arbitration Escape Hatch",
+        "scenario": "An employer brings a 'Weber Wall' motion to strike a former employee's civil claim, citing an exclusive arbitration clause in the collective agreement.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-68-labor-arbitration-jurisdiction-trap"
+            ],
+            "action": "Employer files a motion to strike for lack of jurisdiction, providing the collective agreement as evidence and arguing the 'essential character' of the dispute falls under it."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-68-arbitrator-cannot-grant-relief-exception"
+            ],
+            "action": "The employee's counsel concedes the existence of the agreement but argues the specific remedy sought—an urgent interlocutory injunction to prevent ongoing reputational harm—is a remedy the arbitrator cannot grant in a timely manner, if at all."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "pt-r3-68-labor-negotiation-exception"
+            ],
+            "action": "Alternatively, counsel argues the dispute arises from misrepresentations made during the hiring process, and thus stems from the 'negotiation' of the agreement, not its operation, keeping it within the court's jurisdiction."
+          }
+        ],
+        "decision_points": [
+          "Does the collective agreement or relevant labor legislation grant the arbitrator the power to issue interlocutory injunctions?",
+          "Can the employee's claim be credibly separated from the administration of the collective agreement?"
+        ],
+        "likely_resolution": "This is a difficult but viable countermeasure. The 'lack of remedy' argument is often stronger, as courts are protective of their inherent jurisdiction to grant equitable remedies. The 'negotiation' argument is more subtle and fact-dependent. Success hinges on convincing the judge that the claim is not just a disguised workplace grievance."
+      },
+      {
+        "simulation_id": "cms-004-the-finality-clash",
+        "title": "The Finality Clash: Res Judicata vs. Reversed on Appeal",
+        "scenario": "Plaintiff sues Defendant for breach of contract. Defendant moves to strike the claim, arguing that the validity of the contract was already determined in their favor in a prior lawsuit (Suit #1).",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-68-res-judicata-framework",
+              "pt-r3-68-evidence-for-abuse-of-process"
+            ],
+            "action": "Defendant files a motion to strike for abuse of process, attaching the final judgment from the trial division in Suit #1 which found the contract was valid."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "fp-r3-68-issue-estoppel-requirements"
+            ],
+            "action": "Defendant argues that the issue of contract validity is identical, the trial judgment was final, and the parties are the same, so the Plaintiff is estopped from re-litigating the issue."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-68-res-judicata-reversed-on-appeal-exception"
+            ],
+            "action": "Plaintiff files a responding affidavit attaching the Court of Appeal judgment from Suit #1, which overturned the trial decision and ordered a new trial."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [],
+            "action": "Plaintiff argues that because the trial judgment was reversed, it is a nullity and has no final or preclusive effect. Therefore, the core requirement for issue estoppel—a final decision—is not met."
+          }
+        ],
+        "decision_points": [
+          "Was the trial judgment in Suit #1 actually reversed, or was the appeal dismissed?",
+          "Did the Court of Appeal order a new trial on all issues, or was it restricted in a way that left the original finding intact?"
+        ],
+        "likely_resolution": "The Defendant's motion to strike will be dismissed with costs, likely on an enhanced scale. Relying on a judgment for res judicata without confirming its appellate status is a significant error. The Plaintiff's countermeasure is decisive, as a reversed judgment cannot ground an estoppel argument. This highlights the critical importance of thorough research before launching a finality-based attack."
+      }
+    ]
+  }
+}

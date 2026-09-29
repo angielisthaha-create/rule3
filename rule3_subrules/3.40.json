@@ -1,0 +1,225 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.40",
+  "title": {
+    "official": "Continuation of action following judgment",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Failure to Defend"
+  },
+  "operative_text": {
+    "controlling": "3.40   If judgment is entered against some but not all defendants\nunder\n(a) rule 3.36,\n(b) rule 3.37,\n(c) rule 3.38, or\n(d) rule 3.39,\nthe plaintiff may continue the action in respect of any defendant\nagainst whom judgment is not entered.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "52b687f206192c9c762901a385202ab5f641fc4248b90451a1437932c6550010"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.40 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          66
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "8f44b3db114e4f22c873300c67d51bf1da07bd3be70665341e2d1b2915805c3c",
+      "defined_terms": "defendant, judgment, plaintiff What if some defendants defend and others do not? Rules 3.37, 3.38 and 3.39 expressly allow the plaintiff to enter default judgment against those who did not defend, and then go on with the lawsuit against those who did.That may not have been possible at common law, but this subrule presumably reverses that.Rule 15.2(1) means that the 2010 Rules apply if after default judgment against one defendant the suit continued against other defendants. However, there is a large exception to R.3.40.New Rr.3.39 and 3.40 make doubtful the old rule that one cannot take judgment against the principal and his agent, and that taking judgment against one bars judgment against the other.But that rule of election still holds if the two are only alternatively liable. One can use R.3.40 only if the defendants are concurrently liable, e.g., if they have signed a joint and several note, or one is a debtor and the other the guarantor (or they are sued in one statement of claim for different debts).If two defendants arealternativelyliable, a plaintiff who signs judgment against one elects to abandon the claim against the other.One example of such alternative liability is (or was) when principal and agent are the two defendants. Another common (overlapping) example is a case where it is not clear whether the goods were bought by the business corporation or by the individual who seemed to be the proprietor.Where two people could only bealternativelyliable to pay the money, taking judgment against one bars a claim against the other.The court should itself refuse judgment against both.Taking judgment against the mortgagor necessarily asserted that the monies which he had paid to a third person were not paid on account of the mortgage, and so barred a claim against the payee to account for them;merger is not the reason, the causes of action being different. If default judgment is given against two defendants who are not alternately liable, and one gets it opened up, the plaintiff has not elected to take judgment against one, and the one who opened up is not thereby freed of liability.Especially if the contract says that liability is joint and several. 1Quite similar to previous 1996 R.686(6), (7), first enacted by Alta.Reg.3/96. 2Gauthier v. Starr2016 ABQB 213, 86 CPC(7th) 348 (¶ 13). *When No Defence is Filed in Foreclosure Action *",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-109",
+          "3-110"
+        ],
+        "offset_in_clean_text": [
+          348421,
+          351496
+        ]
+      },
+      "operative_text_note": "same wording as official 3.40 (read by eye) except: the bracket labels '[Judgment in default of defence and noting in default]' after 'rule 3.36', '[Application for judgment against defendant noted in default]' after 'rule 3.37', '[Judgment for recovery of property]' after 'rule 3.38' and '[Judgment for debt or liquidated demand]' after 'rule 3.39' (all four match the official titles); the text is printed in pieces with footnote blocks between them (lead-in and (a) at p.3-109 line 3059, then (b) at line 3066, then (c), (d) and the closing words at line 3067); a stray repeat '**default],' after (a); the title in title case ('Continuation of Action Following Judgment'); missing spaces; '*' line marks; the footnote marker '1' after the last word. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: '1Quite similar to previous 1968 R.148(2), 149(2).It came from part of 1944 C.R.113.Similar to 1914 R.153. 2And a judgment against one joint tortfeasor barred any later judgment against the other tortfeasor:Longmore Cf.Eng.O.3 r.6 (am.Jan.1902).' (fn 1 is this rule's history; fn 2 'And a judgment against one joint tortfeasor barred any later judgment against the other tortfeasor: Longmore' ends inside the citation and belongs to the note on alternative liability; the last words 'Cf. Eng. O.3 r.6 (am. Jan. 1902)' continue fn 1).",
+      "commentary_review_flag": "Read in full, p.3-109 (line 3059) to p.3-110 (line 3084): rule text (in pieces), Defined Terms 'defendant, judgment, plaintiff' (the Appendix defines each), no Information Note, no Related Provisions, and a note of five paragraphs ('What if some defendants defend and others do not?'), with footnotes as printed. The built record: the Defined Terms line and the whole note are in defined_terms (2,375 characters, nothing dropped), followed by two footnotes and the heading of 3.41: '1Quite similar to previous 1996 R.686(6), (7), first enacted by Alta.Reg.3/96' (the history of 3.41, not of 3.40) and '2Gauthier v. Starr 2016 ABQB 213, 86 CPC(7th) 348 (¶ 13)' and the title 'When No Defence is Filed in Foreclosure Action'; related_provisions and commentary are empty; the raw-text field held footnote blocks (kept in the text note). (1) Statements read against the official text: 'Rules 3.37, 3.38 and 3.39 expressly allow the plaintiff to enter default judgment against those who did not defend, and then go on with the lawsuit against those who did' agrees with the effect of 3.40 (plaintiff may continue against defendants against whom judgment is not entered) - only 3.38 and 3.39 let the plaintiff 'enter' judgment; under 3.37 the plaintiff applies to the Court; 'Rule 15.2(1) means that the 2010 Rules apply if after default judgment against one defendant the suit continued against other defendants' agrees in substance with official 15.2(1) ('these rules apply to every existing proceeding') read with 15.2(2) (orders and things done under the former rules are considered done under these rules); 'One can use R.3.40 only if the defendants are concurrently liable ... If two defendants are alternatively liable, a plaintiff who signs judgment against one elects to abandon the claim against the other' is a statement of law not in the rule text; Book B's one commentary (Signature Finance v. Golden Key Rental (1982) 38 AR 495: a separate cause of action against each defendant, so judgment against one is not a bar) is consistent with it and is a decision under the former Rules. (2) Footnotes: fn 1 (1968 R.148(2), 149(2); 1944 C.R.113; 1914 R.153; Eng. O.3 r.6 (am. Jan. 1902)) is this rule's history (marker '1' after the last word; 3.39's history cites R.148(1)); fn 2 (joint tortfeasors, Longmore) is cut off inside the citation and its remainder is not in this record; footnotes 3-4 (Sanderson Est. v. Potter 2012 ABQB 593; Domenic Constr. v. Primewest 2019 ABQB 58) are printed before the 3.40 marker (line 3057) and sit in the 3.39 record; cases were not checked. (3) Other rules' pointers to this rule: only two were found by the cross-reference helper (official, all Book A, B, C files searched, the rule's own text skipped): Book A's 3.39 note p.3-102 (line 2831) 'On when taking default judgment against one defendant bars suing or taking judgment against another defendant, see R.3.40 and notes' (lands on this note) and Book C's 3.39 commentary 'Rules 3.39 and 3.40 provide that where two parties are jointly liable ...' (agrees with 3.40). The official table of contents lists 3.40 with its title."
+    },
+    "BOOK_B": {
+      "title": "Continuation of action following judgment",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.40:1",
+          "text": "Rule 3.40 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.40. Where Separate Causes of Action If there are two causes of action, taking judgment against one defendant will not bar judgment against the other. Even if the same subject-matter is involved in the claim against the corporate defendant and the claim against Deslaurier a judgment against one is not a bar to a claim against the other as long as there is a separate cause of action against each. Signature Finance Ltd. v. Golden Key Rental Co. (1982), 38 A.R. 495 at 507 (Master)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_40_001",
+        "part3_part_3_court_actions_018",
+        "part3_rule_3_40_002",
+        "part3_part_3_court_actions_020"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "df2862d1ff63aeaa9769341d17f96f66d33ca2e5b0d8f21a9bc0c8888905cf51",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Continuation of action following judgment",
+      "division_heading": "Division 3 – ACTIONS STARTED BY STATEMENT OF CLAIM",
+      "operative_text_raw": null,
+      "operative_text_sha256": "1358414060ffacb4b4767650844fb0c8f229448208f77629238a8fea852a8279",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the four bracket labels ('[Judgment in default of defence and noting in default]', '[Application for judgment against defendant noted in default]', '[Judgment for recovery of property]', '[Judgment for debt or liquidated demand]') are printed as in Book A, but the labels of rules 3.36, 3.38 and 3.39 are displaced after the comma or after 'or' (e.g. '(c) rule 3.38 , or [Judgment for recovery of property]', '(d) rule 3.39 , [Judgment for debt or liquidated demand] the plaintiff may continue ...'); spaces before commas. The amendment note '[Alta. Reg. 124/2010, r. 3.40 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). No information note and no commentary are printed for 3.40 in Book C (Book C's 3.39 commentary discusses Rules 3.39 and 3.40)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.4571,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.40 (read by eye) except: the bracket labels '[Judgment in default of defence and noting in default]' after 'rule 3.36', '[Application for judgment against defendant noted in default]' after 'rule 3.37', '[Judgment for recovery of property]' after 'rule 3.38' and '[Judgment for debt or liquidated demand]' after 'rule 3.39' (all four match the official titles); the text is printed in pieces with footnote blocks between them (lead-in and (a) at p.3-109 line 3059, then (b) at line 3066, then (c), (d) and the closing words at line 3067); a stray repeat '**default],' after (a); the title in title case ('Continuation of Action Following Judgment'); missing spaces; '*' line marks; the footnote marker '1' after the last word. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: '1Quite similar to previous 1968 R.148(2), 149(2).It came from part of 1944 C.R.113.Similar to 1914 R.153. 2And a judgment against one joint tortfeasor barred any later judgment against the other tortfeasor:Longmore Cf.Eng.O.3 r.6 (am.Jan.1902).' (fn 1 is this rule's history; fn 2 'And a judgment against one joint tortfeasor barred any later judgment against the other tortfeasor: Longmore' ends inside the citation and belongs to the note on alternative liability; the last words 'Cf. Eng. O.3 r.6 (am. Jan. 1902)' continue fn 1)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the four bracket labels ('[Judgment in default of defence and noting in default]', '[Application for judgment against defendant noted in default]', '[Judgment for recovery of property]', '[Judgment for debt or liquidated demand]') are printed as in Book A, but the labels of rules 3.36, 3.38 and 3.39 are displaced after the comma or after 'or' (e.g. '(c) rule 3.38 , or [Judgment for recovery of property]', '(d) rule 3.39 , [Judgment for debt or liquidated demand] the plaintiff may continue ...'); spaces before commas. The amendment note '[Alta. Reg. 124/2010, r. 3.40 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). No information note and no commentary are printed for 3.40 in Book C (Book C's 3.39 commentary discusses Rules 3.39 and 3.40)."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.40",
+      "title_official": "Continuation of action following judgment"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "8f44b3db114e4f22c873300c67d51bf1da07bd3be70665341e2d1b2915805c3c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-109",
+            "3-110"
+          ],
+          "offset_in_clean_text": [
+            348421,
+            351496
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "df2862d1ff63aeaa9769341d17f96f66d33ca2e5b0d8f21a9bc0c8888905cf51",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "1358414060ffacb4b4767650844fb0c8f229448208f77629238a8fea852a8279",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "52b687f206192c9c762901a385202ab5f641fc4248b90451a1437932c6550010",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            66
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "7e67b4bd0e3a9bc810a3460fa7fcb49ae92ee7213057a893aca471bd1795b843"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.40 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.40 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.40 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.40 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

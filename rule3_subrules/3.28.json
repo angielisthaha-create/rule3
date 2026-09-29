@@ -1,0 +1,243 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.28",
+  "title": {
+    "official": "Effect of not serving statement of claim in time",
+    "variants": {
+      "BOOK_A": "Effect of Not Serving Statement of Claim inTime"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Time Limit for Service of Statement of Claim"
+  },
+  "operative_text": {
+    "controlling": "3.28   If a statement of claim is not served on a defendant within\nthe time or extended time for service,\n(a) no further proceeding may be taken in the action against a\ndefendant who was not served in time, and\n(b) a statement of claim served on any defendant in time is\nunaffected by the failure to serve any other defendant in\ntime.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "aa062f85155c080ef3382aa7dc72061ddfbfc00d9522554de6ca1083e3a1a00e"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.28 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          61
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Effect of Not Serving Statement of Claim inTime",
+      "operative_text_raw": null,
+      "operative_text_sha256": "003103e96125584efb4ce1c6f5246d833ab94cec4f6e044bd71ae28c6b4f1dff",
+      "defined_terms": "defendant Rule 3.28(a) regarding the effect of failing to serve was new in 2010. If a statement of claim is not served on one defendant within the time limit for service, the suit is exhausted against him or her.It cannot be revived except by strict compliance with the Rules. So this suit is dead against these defendants. If the statement of claim has been served on some but not all of the defendants, it expiresvis-?-visthe unserved defendants only. ABQB 667, 2 Alta LR(7th) 207 (¶'s 23-28),affd2020 ABQB 154, JCE 1803 00203 (Feb 28) (¶'s 16-21). 4Quite similar to previous 1991 R.11(8).It was first enacted by Alta.Reg.308/91. If a defendant is added after the expiry of one year, it is not necessary to renew the statement of claim;time to serve starts afresh with respect to the new defendant. The same is true of any substitution of parties, even though the statement of claim is more than one year old. A person served with a statement of claim should check to see if R.3.26 has been complied with.See R.3.29.If the statement of claim has expired, the defendant should move expeditiously to have it or service set aside.Orders have been granted\"striking\" expired statements of claim An expired statement of claim is not a nullity, but for many purposes an irregularity. The pursuant to R.3.68, but strictly the defendant should move to\"set aside\" the expired claim (and if it was purportedly served, to set aside the service). expired statement of claim is not brought within a reasonable time, the defendant may also be caught by R.1.5(3). If there is no formal service of a statement of claim within a year, apart from R.3.27 there is an independent ground for the plaintiff to get relief.Rule 11.27 allows validation of service if the method of service used brought or was likely to have brought the statement of claim to the defendant could voluntarily defend after expiry, for example.If the application to set aside the defendant's attention. The time to serve the defendant's personal representatives would only start running when they were added as parties:McLaughlin v. Broddy(M) 2006 ABQB 675, butrevd2006 ABQB 914. 3An insurer got a copy of the statement of claim twice.The defendant knew that the plaintiff intended to sue, *Notice of Extension ofTime for Service*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-78",
+          "3-79"
+        ],
+        "offset_in_clean_text": [
+          251029,
+          253673
+        ]
+      },
+      "operative_text_note": "same wording as official 3.28(a)-(b) (read by eye) except missing spaces, '*' line marks, the title in title case ('Effect of Not Serving Statement of Claim in Time', printed 'inTime') and the footnote marker '9' after (b). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 9 ('Quite similar to previous 1968 R.11(10) first enacted by Alta.Reg.269/97') is printed at the foot of p.3-78 (line 2133) inside the built 3.27 record and is kept there.",
+      "commentary_review_flag": "Read in full, p.3-78 (line 2137) to p.3-79 (line 2165): rule text, Defined Terms 'defendant' (the Appendix defines it, line 40701), a one-sentence history note and a note of four short paragraphs, with footnotes as printed. The built record has no related-provisions or commentary field for Book A 3.28: the Defined Terms and the note are in defined_terms (2,285 characters, nothing dropped); it ends with the title and opening words of 3.29 ('Notice of Extension of Time for Service', line 2165). (1) History note: 'Rule 3.28(a) regarding the effect of failing to serve was new in 2010' (p.3-78, line 2138); the history footnote 9 (1968 R.11(10) first enacted by Alta.Reg.269/97) sits in the 3.27 record; Book C's amendment note gives 3.28 as 'effective November 1, 2010'. (2) Statements read against the official text: 'If a statement of claim is not served on one defendant within the time limit for service, the suit is exhausted against him or her ... it expires vis-a-vis the unserved defendants only' agrees with 3.28(a) and (b); 'If a defendant is added after the expiry of one year, it is not necessary to renew the statement of claim; time to serve starts afresh with respect to the new defendant' agrees with official 3.76(2)(b) (the action against a new defendant starts on the date the party is added), which the footnote 'R.3.76(2)(b)' (printed after the 3.29 title, line 2166) cites; 'Orders have been granted \"striking\" expired statements of claim pursuant to R.3.68, but strictly the defendant should move to \"set aside\"' agrees with official 3.68(1)(a) (struck out) and (b) (set aside); 'Rule 11.27 allows validation of service if the method of service used brought or was likely to have brought the statement of claim to the defendant's attention' agrees with official 11.27(1); 'R.1.5(3)' lands (official 1.5(3): no application by a party who has taken a further step knowing of the prejudice); 'See R.3.29' lands. (3) Pieces of other notes in this record: p.3-79 line 2147 begins mid-citation ('ABQB 667, 2 Alta LR(7th) 207 (¶'s 23-28), affd 2020 ABQB 154, JCE 1803 00203 (Feb 28) (¶'s 16-21)') and completes 'Reyes v. Dyck (M) 2019 ABQB 667, 2 Alta LR(7th)' printed in the 3.27 note (p.3-77, line 2075); footnote 4 in the same line ('Quite similar to previous 1991 R.11(8). It was first enacted by Alta.Reg.308/91') is the history of 3.29 (marker '4' follows the 3.29 text, line 2166). The footnotes of the 3.28 note that follow the 3.29 title (line 2166: '1 R.3.76(2)(b). See the C.P.E., Chapter 24, Parts A.3 and A.21. On the new statutory time for adding parties, ...') are in the 3.29 record. (4) Citation as printed: 'McLaughlin v. Broddy (M) 2006 ABQB 675, but revd 2006 ABQB 914' (line 2163). (5) Statements of law (the defendant can defend voluntarily after expiry; an insurer that got a copy of the statement of claim twice) and the cases were not checked; 'C.P.E., Chapter 24, Parts A.3 and A.21' point to another work."
+    },
+    "BOOK_B": {
+      "title": "Effect of not serving statement of claim in time",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_28_001",
+        "part3_part_3_court_actions_010"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "53171943bb4345e54583414b3073473acf0655b3e20c1b5208fa273285473e43",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Effect of not serving statement of claim in time",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "53171943bb4345e54583414b3073473acf0655b3e20c1b5208fa273285473e43",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "Limit on Service of Statement of Claim",
+          "text": "Rule 3.28 imposes a strict and mandatory limit on the service of a statement of claim. Sanderson Estate v. Potter, [2012] A.J. No. 1014, 2012 ABQB 593 at para. 27 (Alta. Q.B.). If the statement of claim is not served in time, it is dead as against defendants not served Foster v. Robb, [2011] A.J. No. 1497, 2011 ABQB 776 at para. 6 (Alta. Q.B.). and a plaintiff’s only option is to commence a new proceeding by filing a new claim. Of course, if limitation periods have expired in the interim, that can affect the overall viability of such a “follow-up” claim.",
+          "citations": [
+            {
+              "neutral_citation": "2012 ABQB 593",
+              "style_of_cause": "Sanderson Estate v. Potter",
+              "note": "printed 'Sanderson Estate v. Potter, [2012] A.J. No. 1014, 2012 ABQB 593 at para. 27 (Alta. Q.B.)': the built name began with the sentence before it; Book A cites it as 'Sanderson Est. v. Potter 2012 ABQB 593, 550 AR 33'"
+            },
+            {
+              "neutral_citation": "2011 ABQB 776",
+              "style_of_cause": "Foster v. Robb"
+            }
+          ],
+          "review_flag": "(1) The item is headed 'Limit on Service of Statement of Claim' (Book C's commentary items for 3.25 and 3.27 are headed 'General Principles'). Its statements 'Rule 3.28 imposes a strict and mandatory limit on the service of a statement of claim' (Sanderson Estate v. Potter, 2012 ABQB 593, para. 27) and 'it is dead as against defendants not served' (Foster v. Robb, 2011 ABQB 776, para. 6) are the courts' words, not the rule's; they agree with Book B's Foster and McGowan passages ('Rules 3.26-3.28 impose a strict and mandatory limit') and with Book A's 'the suit is dead against these defendants'. (2) 'a plaintiff's only option is to commence a new proceeding by filing a new claim' and the remark that expired limitation periods can affect a follow-up claim are not in the rule text; not checked. (3) Rule text: EXACT_MATCH; amendment note agrees."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8475,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.28(a)-(b) (read by eye) except missing spaces, '*' line marks, the title in title case ('Effect of Not Serving Statement of Claim in Time', printed 'inTime') and the footnote marker '9' after (b). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 9 ('Quite similar to previous 1968 R.11(10) first enacted by Alta.Reg.269/97') is printed at the foot of p.3-78 (line 2133) inside the built 3.27 record and is kept there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.28",
+      "title_official": "Effect of not serving statement of claim in time"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "003103e96125584efb4ce1c6f5246d833ab94cec4f6e044bd71ae28c6b4f1dff",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-78",
+            "3-79"
+          ],
+          "offset_in_clean_text": [
+            251029,
+            253673
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "53171943bb4345e54583414b3073473acf0655b3e20c1b5208fa273285473e43",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "53171943bb4345e54583414b3073473acf0655b3e20c1b5208fa273285473e43",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "aa062f85155c080ef3382aa7dc72061ddfbfc00d9522554de6ca1083e3a1a00e",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            61
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "bf081831bf223d2c6e654081844c71cc5ba71ddf379de67b58cf7da8d67b1dd6"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule14_part01_document.json (a 14.x commentary quoting a judgment: 'The standard of review with respect to the proper interpretation of rr 3.15, 3.28, 3.68 and 7.3 is correctness'), and rule3_part03_document.json (the 3.26 and 3.27 commentaries cite 'Rules 3.26-3.28' as strict and mandatory: Foster v. Robb, McGowan v. Lang). BOOK_B 3.28: rule text (paragraph part3_part_3_court_actions_010) EXACT_MATCH with the official; no amendment note and NO commentary section for 3.28 (the next paragraph is the running head for Subdivision 2, then 3.29). BOOK_C 121-140 file: no other Book C entry cites 3.28 by number. BOOK_C 3.28: rule text EXACT_MATCH; amendment note '[Alta. Reg. 124/2010, r. 3.28 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010'; one commentary item kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.25 note p.3-71 (line 1892) 'Nixon v. Timms 2012 ABQB 315 ... See further, R.3.28 and notes to it' (printed before the 3.26 title, so in the 3.25 record; which rule's note it belongs to is not shown), 3.26 note p.3-71 (line 1907) 'See R.3.28' and p.3-73 (line 1964) 'See further R.3.28n.below' (lands); 3.27 note p.3-78 (line 2125) '11 R.3.28(b). As against those defendants not served, the suit is dead: Calliou v. Bouchard'; combined_rule13.txt p.13-94 (lines 4878-4879) related provisions '3.26 (time for service); 3.28 (effect of not serving)' (label matches the official title in substance).",
+    "OFFICIAL text (searched for 'rule 3.28', 'rules 3.28', lists, line-wrapped forms and form headings): no other official rule cites 3.28 by number (the only hit is the running page header 'Rule 3.28'); no form heading names it. By subject (read): 3.26 and 3.27 (time and extended time for service), 3.29 (notice of extension), 3.76(2)(b) (new defendant: the action starts when added), 3.68(1) (strike out, set aside), 11.27 (validating service), 1.5(3)."
+  ],
+  "dedupe_log": [
+    "3.28 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.28 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.28 BOOK_C citation context dropped (2012 ABQB 593): verbatim in kept text",
+    "3.28 BOOK_C citation context dropped (2011 ABQB 776): verbatim in kept text",
+    "3.28 BOOK_C commentary sentence split dropped",
+    "3.28 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.28 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

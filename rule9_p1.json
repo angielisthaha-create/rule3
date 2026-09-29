@@ -1,0 +1,1751 @@
+
+{
+  "metadata": {
+    "blueprint_version": "1.1.0",
+    "schema_version": "HWGS_1.0",
+    "generated_at": "2024-07-27T11:00:00+00:00",
+    "source_manifest": "rule9_part01_document.json",
+    "document_title": "Alberta Rules of Court – Rule 9 (Part 1)",
+    "rule_coverage": "Alberta Rules of Court, Rules 9.1 to 9.13",
+    "node_count": 29,
+    "relationship_count": 24
+  },
+  "nodes": [
+    {
+      "node_id": "cm-r9-1-mandatory-form-requirements",
+      "node_type": "ControlMechanism",
+      "label": "Mandatory Form Requirements for Judgments/Orders",
+      "description": "Orders must follow Rule 9.1 format—numbered paragraphs plus pronouncement date, location, judge, and entry date.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_002_s001",
+        "part9_part_9_judgments_and_orders_002_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_002_s001",
+            "text": "(1) Judgments and orders must be divided into consecutively numbered paragraphs.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_002",
+            "section_heading": "Rule 9.1 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_002_s002",
+            "text": "(2) Every judgment and order must include (a) the date on which and the location at which it was pronounced, (b) the name of the applications judge or judge who made it, and (c) the date of entry.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_002",
+            "section_heading": "Rule 9.1 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.1(1)",
+          "Rule 9.1(2)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Rule 9.1 provides technical grounds to attack an opponent’s draft order. A formally defective order may be refused, forcing redrafting and delay.",
+        "litigation_implications": [
+          "Offensive: Reject an opponent’s draft lacking any mandatory element, buying time and leverage.",
+          "Defensive: Use templates to ensure full compliance, avoiding avoidable disputes.",
+          "Strategic: A perfect form signals professionalism and curtails objections.",
+          "Cost: Forcing redraft shifts small costs and inconvenience to the opponent.",
+          "Risk: Trivial objections risk judicial irritation."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Draft orders must satisfy Rule 9.1(2).",
+          "risk_assessment": "Low; non-compliance triggers redraft, not penalties.",
+          "audit_trigger": "Any order returned by clerk for form defects."
+        },
+        "automation_hooks": {
+          "order_template_validator": "Validate draft order against Rule 9.1 checklist."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-10-net-judgment-on-counterclaim",
+      "node_type": "ControlMechanism",
+      "label": "Net Judgment on Counterclaim",
+      "description": "Rule 9.10 lets the court issue one money judgment showing the balance after claim and counterclaim are netted.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_032_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_032_s001",
+            "text": "The Court may give judgment for the balance of money to be paid by one party to the other when determining a counterclaim.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_032",
+            "section_heading": "Rule 9.10 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.10"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Produces a single enforceable figure, impacting who is seen as ‘winner’ for costs and simplifying enforcement.",
+        "litigation_implications": [
+          "Offensive: Emphasise net judgment to frame yourself as ultimate victor for costs.",
+          "Defensive: Argue for separate judgments if optics of individual wins matter.",
+          "Strategic: Net $10k win beats ‘$1 M minus $990 k’ narrative.",
+          "Cost: Reduces parallel enforcement steps.",
+          "Risk: Can mask success on discrete issues affecting costs."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Consider net vs separate judgments when drafting.",
+          "risk_assessment": "Low.",
+          "audit_trigger": "All cases with counterclaims."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Recovery Production Equipment Ltd. v. McKinney Machine Co. (1998), 223 A.R. 24 (C.A.)"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-11-judgment-against-beneficiaries",
+      "node_type": "ControlMechanism",
+      "label": "Judgment Against Beneficiaries in Trust/Estate Actions",
+      "description": "Rule 9.11 lets fiduciaries bind beneficiaries by naming them in an administration judgment or order.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_036_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_036_s001",
+            "text": "A personal representative or trustee entitled to a judgment or order for the administration of an estate or the execution of a trust may have the judgment or order made against any person beneficially interested in the estate or trust.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_036",
+            "section_heading": "Rule 9.11 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.11"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Binding beneficiaries via court order shields fiduciaries from later attacks and creates res judicata.",
+        "litigation_implications": [
+          "Offensive: Name at least one beneficiary to bind all and secure finality.",
+          "Defensive: Beneficiary must engage or be bound by result.",
+          "Strategic: Reduces future litigation risk for trustees.",
+          "Cost: Minor extra service cost; big future savings.",
+          "Risk: Omission may leave order open to later challenge."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Include representative beneficiary in administration applications.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "Trust/estate files without beneficiary defendant."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-12-slip-rule-correction",
+      "node_type": "ControlMechanism",
+      "label": "Slip Rule for Correcting Errors",
+      "description": "Rule 9.12 lets the court fix clerical or accidental mistakes in an entered order.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_038_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_038_s001",
+            "text": "On application, the Court may correct a mistake or error in a judgment or order arising from an accident, slip or omission.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_038",
+            "section_heading": "Rule 9.12 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.12"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Provides quick, low-cost means to align formal order with judge’s actual intent without appeal.",
+        "litigation_implications": [
+          "Offensive: Use to fix typos or omitted figures disadvantaging you.",
+          "Defensive: Oppose attempts that alter substance, not clerical error.",
+          "Strategic: Distinguish true slip from re-litigation efforts.",
+          "Cost: Cheaper than appeal.",
+          "Risk: Misuse invites costs penalties."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Slip rule limited to clerical errors.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "Every Rule 9.12 application."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "First Calgary Financial Credit Union Ltd. v. Inspired Luxury Homes Inc., 2014 ABQB 787",
+          "Ensign Estate v. Hart (1998), 209 A.R. 392 (C.A.)"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-13-reopen-before-entry",
+      "node_type": "ControlMechanism",
+      "label": "Re-opening Case Before Entry",
+      "description": "Rule 9.13 lets a judge vary reasons or hear more evidence any time before order entry when ‘good reason’ exists.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_042_s001",
+        "part9_part_9_judgments_and_orders_042_s003"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_042_s001",
+            "text": "At any time before a judgment or order is entered, the Court may",
+            "paragraph_id": "part9_part_9_judgments_and_orders_042",
+            "section_heading": "Rule 9.13 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_042_s003",
+            "text": "(b) on application, and if the Court is satisfied there is good reason to do so, hear more evidence and change or modify its judgment or order or reasons for it.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_042",
+            "section_heading": "Rule 9.13 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.13"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Creates a short window to fix major errors without appeal but requires strong justification to protect finality.",
+        "litigation_implications": [
+          "Offensive: Move fast when new decisive evidence surfaces.",
+          "Defensive: Enter order promptly to end reopening risk.",
+          "Strategic: Less costly than appeal yet high threshold.",
+          "Cost: Formal application required.",
+          "Risk: Failed bid attracts costs and weakens appeal stance."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Applications must show ‘good reason’.",
+          "risk_assessment": "High.",
+          "audit_trigger": "All Rule 9.13 filings."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Paniccia Estate v. Toal, 2012 ABQB 11",
+          "Lewis Estates Communities Inc. v. Brownlee LLP, 2013 ABQB 731"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-2-electronic-signature-acceptance",
+      "node_type": "ControlMechanism",
+      "label": "Acceptance of Electronic Signatures on Orders",
+      "description": "Courts accept counsel’s electronic signatures; no wet-ink proviso is needed.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s134",
+        "part9_part_9_judgments_and_orders_008_s135"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s134",
+            "text": "184, the Court said, at paragraph 7: 7 The appellant's form of judgment states that it may be approved by counsel “by facsimile or electronic signature”.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s135",
+            "text": "This proviso is not necessary, as civil practice must keep up with technological advances, and the Court accepts electronic signatures of counsel.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.2:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Neutralises frivolous objections to signature form, speeding approval of drafts.",
+        "litigation_implications": [
+          "Defensive: Quash objections based on e-signatures by citing authority.",
+          "Strategic: Enables quick remote approvals.",
+          "Cost: Saves courier fees.",
+          "Risk: Minimal; accepted practice."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Electronic signatures valid on draft approvals.",
+          "risk_assessment": "Low.",
+          "audit_trigger": "Any dispute over e-signature validity."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Thompson Brothers (Construction) Ltd. v. Alberta (Workers' Compensation Board Appeals Commission), 2012 ABCA 150"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-2-successful-party-drafts",
+      "node_type": "ControlMechanism",
+      "label": "Successful Party Controls Initial Draft",
+      "description": "Absent court direction, successful party must draft the judgment or order (Rule 9.2(1)).",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s001",
+            "text": "(1) The Court may direct which party is to prepare a draft of the judgment or order pronounced by the Court, but if the Court does not do so, the successful party is responsible for preparing the draft.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.2(1)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "First draft shapes the battlefield—wording sets baseline for later disputes.",
+        "litigation_implications": [
+          "Offensive: Draft swiftly to keep narrative control.",
+          "Defensive: Opponent may seize draft if you miss deadline.",
+          "Strategic: Ambiguities can be framed favourably in the draft.",
+          "Cost: Drafting cost recoverable as successful party.",
+          "Risk: Mis-stating judgment risks sanctions."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Successful party drafts unless court orders otherwise.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "When non-successful party drafts order."
+        },
+        "automation_hooks": {
+          "drafting_assignment_tracker": "Assign drafting task and 10-day countdown."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-3-application-to-settle-dispute",
+      "node_type": "ControlMechanism",
+      "label": "Application to Settle Disputed Order",
+      "description": "Rule 9.3 lets parties ask court to resolve disagreements over draft order wording.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_010_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_010_s001",
+            "text": "If there is a dispute about the contents of a judgment or order, the disputants may apply to the Court to resolve the dispute.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_010",
+            "section_heading": "Rule 9.3 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.3"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Escalation mechanism pressures parties to compromise to avoid costs of a settling hearing.",
+        "litigation_implications": [
+          "Offensive: Threaten application to force opponent to accept correct draft.",
+          "Defensive: Use to defeat improper draft from opponent.",
+          "Strategic: Costs risk encourages swift settlement.",
+          "Cost: One short hearing; lower than prolonged correspondence.",
+          "Risk: Judge may penalise unreasonable party."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Use Rule 9.3 when draft impasse arises.",
+          "risk_assessment": "Low.",
+          "audit_trigger": "Every Rule 9.3 filing."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-6-nunc-pro-tunc-power",
+      "node_type": "ControlMechanism",
+      "label": "Nunc Pro Tunc Power (Backdating Orders)",
+      "description": "Rule 9.6(b) & inherent power let court date judgment earlier or later to cure prejudice.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_020_s003",
+        "part9_part_9_judgments_and_orders_022_s018"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_020_s003",
+            "text": "(b) if the Court orders the judgment or order to come into effect before or after the date of pronouncement, the date so ordered.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_020",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_022_s018",
+            "text": "In addition, where legal rights turn on the date of a formal judgment or order, a party may request a nunc pro tunc order which allows the effective back-dating of an order or judgment: Leister v.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_022",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.6(b)",
+          "Commentary § 9.6:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Extraordinary tool to salvage rights threatened by procedural delay, e.g., limitation expiry.",
+        "litigation_implications": [
+          "Offensive: Apply to backdate when delay not your fault and prejudice looms.",
+          "Defensive: Oppose by showing prejudice or applicant fault.",
+          "Strategic: ‘Hail-mary’ to avoid limitation defeat.",
+          "Cost: Formal application with heavy affidavit burden.",
+          "Risk: High bar; court reluctant if applicant caused delay."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Must satisfy two-part *Green* test.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Any nunc pro tunc request."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "CIBC v Green, 2015 SCC 60",
+          "Kennett v. Superior Millwork Ltd., 2004 ABCA 56"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-8-duty-to-serve-entered-order",
+      "node_type": "ControlMechanism",
+      "label": "Duty to Serve Entered Order",
+      "description": "Rule 9.8: party entering an order must serve it on all other parties unless court orders otherwise.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_026_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_026_s001",
+            "text": "Unless these rules otherwise provide or the Court otherwise orders, the party who enters the judgment or order must serve a copy of the entered judgment or order on each of the other parties.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_026",
+            "section_heading": "Rule 9.8 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.8"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Service starts appeal and enforcement clocks; omission can invalidate later steps.",
+        "litigation_implications": [
+          "Offensive: Challenge enforcement taken before service.",
+          "Defensive: Serve promptly and document proof.",
+          "Strategic: Completes ‘closing the loop’ on judgment.",
+          "Cost: Minimal; failure costly later.",
+          "Risk: Missed service may derail appeal timelines."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Entered orders must be served.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "File-closing checklist."
+        },
+        "automation_hooks": {
+          "service_reminder": "Generate task post-entry to serve order."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-9-damages-for-continuing-claims",
+      "node_type": "ControlMechanism",
+      "label": "Assessment of Damages for Continuing Claims",
+      "description": "Rule 9.9 requires damages for continuing wrongs be assessed to date of determination, not claim filing.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_028_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_028_s001",
+            "text": "The Court must determine damages for a continuing claim to the time the Court makes its determination of the amount.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_028",
+            "section_heading": "Rule 9.9 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.9"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Allows plaintiffs to claim full ongoing loss in one action, maximising recovery and efficiency.",
+        "litigation_implications": [
+          "Offensive: Plead cause as continuing to recover post-writ damages.",
+          "Defensive: Argue acts discrete to cap damages.",
+          "Strategic: Essential for nuisance, IP infringement, etc.",
+          "Cost: Saves multiple suits.",
+          "Risk: Mis-characterisation may limit damages."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Plead continuing cause where appropriate.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "Claims alleging ongoing harm."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Condominium Corp. No. 0825873 v. 1246153 Alberta Ltd., 2011 ABQB 178"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-13-reopening-factors-test",
+      "node_type": "FoundationalPillar",
+      "label": "Test for Re-opening a Case (Good Reason)",
+      "description": "Case law sets high-bar factors—error must be clear, finality valued, appeals avoided, no ‘second kick’.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_044_s007",
+        "part9_part_9_judgments_and_orders_044_s008"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_044_s008",
+            "text": "In deciding whether to exercise this discretion, a court should keep in mind a number of factors, including: • the desirability of avoiding unnecessary and costly appeals; • the desirability of the appeal court having a fully developed factual and legal record; • the need for finality and certainty in legal proceedings; • that errors to be corrected should be objectively demonstrable (such as an incorrect statement of law or interpretation of a contract which all parties agree is incorrect); • the rule is not a vehicle for seeking reconsideration of a judgment call; and • the threshold for a court to exercise its discretion should be high to avoid applications which are in reality, a “second kick at the can”.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_044",
+            "section_heading": "Rule 9.13 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.13:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Defines narrow gateway for reopening, arming both sides with objective criteria.",
+        "litigation_implications": [
+          "Offensive: Align application with each factor.",
+          "Defensive: Highlight finality and ‘second kick’ prohibition.",
+          "Strategic: Forces parties to weigh appeal vs reopen pragmatically.",
+          "Cost: Failed bid costly.",
+          "Risk: High rejection probability."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Address factors in any Rule 9.13 brief.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Draft Rule 9.13 applications."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Aubin v. Petrone, 2020 ABQB 708"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-2-order-is-governing-document",
+      "node_type": "FoundationalPillar",
+      "label": "Primacy of the Formal Order",
+      "description": "Entered order, not reasons, is binding; reasons cannot vary dispositive text.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s119",
+        "part9_part_9_judgments_and_orders_008_s124"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s119",
+            "text": "Lindsay, 2017 ABCA 21, 2017 CarswellAlta 41 the Court said: 8 A judgment or order of the court, not the reasons given, is the governing document.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s124",
+            "text": "… The reasons of judgment are mere opinions … they cannot vary the text or dispositif of the formal judgment.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.2:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Focuses battle on draft wording; favourable commentary in reasons is useless unless captured in order.",
+        "litigation_implications": [
+          "Offensive: Exclude opponent reliance on reasons when order clear.",
+          "Defensive: Draft precisely; reasons cannot fix ambiguity later.",
+          "Strategic: Order control equals legal control.",
+          "Cost: Ambiguities spawn interpretation motions.",
+          "Risk: Poor drafting creates unintended burdens."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Enforcement relies solely on order text.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Advice referencing reasons not order."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Chisholm v. Lindsay, 2017 ABCA 21"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-2-reasons-clarify-ambiguity",
+      "node_type": "FoundationalPillar",
+      "label": "Exception: Reasons Clarify Ambiguous Order",
+      "description": "If order ambiguous, reasons may be consulted to resolve meaning.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s120",
+        "part9_part_9_judgments_and_orders_008_s126"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s120",
+            "text": "However, when the judgment contains an ambiguity it can be resolved by reviewing the reasons …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s126",
+            "text": "Where … the formal order contains an ambiguity, the ambiguity can be resolved by reviewing the reasons …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.2:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Provides escape hatch to rely on favourable reasons when order unclear.",
+        "litigation_implications": [
+          "Offensive: Identify ambiguity to re-introduce helpful reasons.",
+          "Defensive: Draft clearly to block this tactic.",
+          "Strategic: Ambiguous drafting can be double-edged.",
+          "Cost: Ambiguity hearings add expense.",
+          "Risk: Court may find no ambiguity and award costs."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Test for ambiguity before citing reasons.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "Interpretation disputes."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Chisholm v. Lindsay, 2017 ABCA 21"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-4-counsels-duty-to-approve",
+      "node_type": "FoundationalPillar",
+      "label": "Counsel's Duty to Approve Accurate Orders",
+      "description": "Lawyers must approve accurate orders despite client wishes; duty persists after discharge.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_014_s006",
+        "part9_part_9_judgments_and_orders_014_s007",
+        "part9_part_9_judgments_and_orders_014_s011"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_014_s006",
+            "text": "… obligation of counsel to approve an order if it accurately sets out the court's decision …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_014",
+            "section_heading": "Rule 9.4 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_014_s011",
+            "text": "Except in exceptional circumstances, that obligation cannot be countermanded by the client, nor does it expire if counsel is discharged.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_014",
+            "section_heading": "Rule 9.4 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.4:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Weapon against obstructionist parties—lawyer can’t refuse approval for tactical delay.",
+        "litigation_implications": [
+          "Offensive: Cite duty to compel opposing counsel’s sign-off.",
+          "Defensive: Explain duty to client when order unfavourable.",
+          "Strategic: Prevents client-driven stalling.",
+          "Cost: Saves settling application costs.",
+          "Risk: Alleging breach is serious; ensure record."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Counsel approve accurate drafts regardless of client.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Allegations of unreasonable refusal."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Hansen v. Hansen, 2023 ABCA 335"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-6-effective-on-pronouncement",
+      "node_type": "FoundationalPillar",
+      "label": "Order Effective on Pronouncement",
+      "description": "Rule 9.6: oral pronouncement binds parties immediately; entry not required for effect.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_020_s001",
+        "part9_part_9_judgments_and_orders_020_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_020_s001",
+            "text": "Every judgment and every order, whether or not it has been entered, comes into effect on",
+            "paragraph_id": "part9_part_9_judgments_and_orders_020",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_020_s002",
+            "text": "(a) the date of pronouncement, or",
+            "paragraph_id": "part9_part_9_judgments_and_orders_020",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.6(a)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Prevents delay tactics—parties must comply immediately.",
+        "litigation_implications": [
+          "Offensive: Enforce obligations right away.",
+          "Defensive: Advise client compliance cannot wait for entry.",
+          "Strategic: Removes argument over start date.",
+          "Cost: Non-compliance risks contempt.",
+          "Risk: High if party ignores oral ruling."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Comply from pronouncement.",
+          "risk_assessment": "Critical.",
+          "audit_trigger": "Alleged immediate non-compliance."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Morguard Trust Co. v. Doonanco (1980), 32 A.R. 384 (Master)"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-6-irregular-orders-valid-until-set-aside",
+      "node_type": "FoundationalPillar",
+      "label": "Irregular Orders are Valid Until Set Aside",
+      "description": "Even defective superior-court orders bind until formally stayed or vacated.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s093",
+        "part9_part_9_judgments_and_orders_022_s105",
+        "part9_part_9_judgments_and_orders_022_s107"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_022_s093",
+            "text": "… reiterated the court's view that an order, even if improperly granted, is valid and binding until set aside.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_022",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_022_s107",
+            "text": "They are, nevertheless, valid orders of the court until they are set aside.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_022",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.6:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Forces formal challenges; bars self-help nullity arguments, preserving court authority.",
+        "litigation_implications": [
+          "Offensive: Demand compliance despite alleged defects.",
+          "Defensive: Apply to set aside—don’t ignore order.",
+          "Strategic: Channels disputes into proper procedural lanes.",
+          "Cost: Ignoring order invites contempt.",
+          "Risk: High for party treating order as void."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Obey until stayed.",
+          "risk_assessment": "Critical.",
+          "audit_trigger": "Non-compliance allegations."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Mazepa v. Embree, 2014 ABCA 438"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-6-nunc-pro-tunc-test",
+      "node_type": "FoundationalPillar",
+      "label": "Test for Granting Nunc Pro Tunc Orders",
+      "description": "SCC’s *Green* case: seek leave before limitation expires and satisfy prejudice-focused factors.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s059"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_022_s059",
+            "text": "[20] To this end, the Court in Green established a two-part test …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_022",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.6:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Sets stringent gatekeeping for back-dating, safeguarding defendants from stale claims.",
+        "litigation_implications": [
+          "Offensive: Structure application to meet both prongs.",
+          "Defensive: Attack timeliness or prejudice factors.",
+          "Strategic: Hard barrier of pre-limitation leave critical.",
+          "Cost: Evidence-heavy motion.",
+          "Risk: Post-limitation requests usually fail."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Address each *Green* factor in brief.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Nunc pro tunc filings."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "CIBC v Green, 2015 SCC 60"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-6-service-required-for-contempt",
+      "node_type": "FoundationalPillar",
+      "label": "Service Prerequisite for Contempt (Positive Acts)",
+      "description": "Personal service needed before contempt for orders requiring affirmative acts.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s073",
+        "part9_part_9_judgments_and_orders_022_s082",
+        "part9_part_9_judgments_and_orders_022_s087"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_022_s087",
+            "text": "… because the order required the respondent to do an act, the order had to be served on her before it could be enforced by contempt proceedings.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_022",
+            "section_heading": "Rule 9.6 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.6:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Protects liberty by ensuring clear notice before harsh contempt sanction for positive duties.",
+        "litigation_implications": [
+          "Offensive: Secure personal service before contempt motion.",
+          "Defensive: Challenge contempt if no proof of personal service.",
+          "Strategic: Distinguish prohibitive vs mandatory orders.",
+          "Cost: Extra service fee; essential safeguard.",
+          "Risk: Premature contempt motion fails."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Positive-act contempt requires personal service.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Contempt proceedings review."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Mathews v. Mathews (1987), 51 Alta. L.R. (2d) 369"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-7-certified-copy-equivalence",
+      "node_type": "FoundationalPillar",
+      "label": "Certified Copy Equivalence to Original",
+      "description": "Rule 9.7(2): certified copy of order has same force as original.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_024_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_024_s002",
+            "text": "(2) A certified copy of a judgment or order has the same effect as the original.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_024",
+            "section_heading": "Rule 9.7 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.7(2)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Facilitates rapid multi-venue enforcement; prevents technical attacks on lack of ‘original’.",
+        "litigation_implications": [
+          "Offensive: File multiple certified copies for parallel enforcement.",
+          "Defensive: Cannot object to certified copy validity.",
+          "Strategic: Removes single-document bottleneck.",
+          "Cost: Minor certification fee.",
+          "Risk: None."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Use certified copies for enforcement.",
+          "risk_assessment": "Low.",
+          "audit_trigger": "Challenges to certified copy."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-2-10-day-drafting-deadline",
+      "node_type": "ProceduralTrap",
+      "label": "10-Day Deadline to Draft and Serve Order",
+      "description": "Responsible party has 10 days post-pronouncement to draft/serve; miss it and others may draft.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s003"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s003",
+            "text": "(a) within 10 days … the responsible party must prepare a draft … but if the responsible party does not … any other party may do so",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.2(2)(a)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Tripwire punishes drafting delay, enabling opponent to seize wording control.",
+        "litigation_implications": [
+          "Offensive: Calendar and pounce if deadline missed.",
+          "Defensive: Draft quickly to keep control.",
+          "Strategic: Leverage missed deadline in negotiations.",
+          "Cost: Missing deadline cedes control.",
+          "Risk: High for drafting party."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Track 10-day drafting deadlines.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Deadline alert day 8 and 10."
+        },
+        "automation_hooks": {
+          "deadline_alert_system": "High-priority drafting alerts."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-2-deemed-approval-trap",
+      "node_type": "ProceduralTrap",
+      "label": "Deemed Approval on Failure to Object",
+      "description": "If party fails to object within 10 days of service, order may be entered as approved.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s007",
+        "part9_part_9_judgments_and_orders_006_s008"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s007",
+            "text": "(c) if a party does not approve or object to the draft judgment or order within the 10 days …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s008",
+            "text": "… the judgment or order may be signed and entered.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.2(2)(c)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Weaponises inaction—silence equals consent allowing swift entry of favourable order.",
+        "litigation_implications": [
+          "Offensive: Serve draft, prove service, wait 10 days then file.",
+          "Defensive: Calendar 10-day response as critical.",
+          "Strategic: Slightly aggressive wording may slide through.",
+          "Cost: Failure to object costly to fix.",
+          "Risk: Critical for receiving party."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Review and respond within 10 days.",
+          "risk_assessment": "Critical.",
+          "audit_trigger": "Orders entered via deemed approval."
+        },
+        "automation_hooks": {
+          "incoming_document_classifier": "Auto-deadline on draft order receipt."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-5-3-month-entry-deadline",
+      "node_type": "ProceduralTrap",
+      "label": "3-Month Deadline for Order Entry",
+      "description": "Orders not entered within 3 months need court permission—risk of staleness.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_016_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_016_s002",
+            "text": "(2) A judgment or order is not to be entered more than 3 months after it is pronounced except with the Court's permission …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_016",
+            "section_heading": "Rule 9.5 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.5(2)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Creates ambush opportunity against disorganised opponent and forces diligence.",
+        "litigation_implications": [
+          "Offensive: Assert staleness to block enforcement.",
+          "Defensive: Enter order promptly.",
+          "Strategic: ‘Lie in weeds’ then challenge stale order.",
+          "Cost: Late entry requires application.",
+          "Risk: High for party holding unentered order."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Enter within 3 months.",
+          "risk_assessment": "Critical.",
+          "audit_trigger": "90-day countdown on all orders."
+        },
+        "automation_hooks": {
+          "order_entry_deadline_tracker": "90-day timer on pronouncement."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "wf-r9-12-slip-rule-is-not-a-redo",
+      "node_type": "WarfareFramework",
+      "label": "Slip Rule Is Not a 'Re-Do'",
+      "description": "Doctrine: Rule 9.12 corrects clerical slips only—cannot re-argue merits or fix evidence gaps.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_040_s013",
+        "part9_part_9_judgments_and_orders_040_s100"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_040_s013",
+            "text": "It does not apply if the order correctly sets out what the court decided …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_040",
+            "section_heading": "Rule 9.12 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_040_s100",
+            "text": "A litigant cannot use the rule to ‘re-do’ his case.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_040",
+            "section_heading": "Rule 9.12 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.12:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Preserves finality; blocks abuse of slip rule to reopen merits.",
+        "litigation_implications": [
+          "Offensive: Defeat opponent’s improper Rule 9.12 bid.",
+          "Defensive: Ensure your slip application is clerical only.",
+          "Strategic: Forces appeals for substantive change.",
+          "Cost: Misuse draws adverse costs.",
+          "Risk: Courts quick to reject ‘redo’ attempts."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Vet slip applications for clerical scope.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Failed Rule 9.12 motions."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "HSBC Bank Canada v. Billett, 2012 ABQB 782"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-13-sparingly-exercised-discretion",
+      "node_type": "WarfareFramework",
+      "label": "Re-opening is a Sparing and Cautious Discretion",
+      "description": "Courts exercise Rule 9.13 power sparingly to protect litigation finality.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_044_s127",
+        "part9_part_9_judgments_and_orders_044_s186",
+        "part9_part_9_judgments_and_orders_044_s232"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_044_s127",
+            "text": "… discretion to do so should be exercised cautiously.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_044",
+            "section_heading": "Rule 9.13 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_044_s186",
+            "text": "… Courts should be very sparing in their reopening …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_044",
+            "section_heading": "Rule 9.13 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_044_s232",
+            "text": "The discretion must be exercised “sparingly and with great care” …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_044",
+            "section_heading": "Rule 9.13 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.13:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Sets defensive high bar against frequent reopening, bolstering certainty of judgments.",
+        "litigation_implications": [
+          "Offensive: Acknowledge high bar; show exceptional case.",
+          "Defensive: Stress finality and caution mandate.",
+          "Strategic: Frames narrative against routine reopening.",
+          "Cost: Winning defence may secure costs.",
+          "Risk: Over-reliance without engaging merits weak."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Warn clients reopening rarely granted.",
+          "risk_assessment": "Low.",
+          "audit_trigger": "N/A"
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "671122 Ontario Ltd v Sagaz Industries Canada Inc, 2001 SCC 59"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-2-exception-for-secondary-issues",
+      "node_type": "WarfareFramework",
+      "label": "Exception: Itemize Rulings on Secondary Issues",
+      "description": "Allows formal order to list determinations on discrete secondary issues to preserve cross-appeal rights.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s067",
+        "part9_part_9_judgments_and_orders_008_s070",
+        "part9_part_9_judgments_and_orders_008_s071"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s071",
+            "text": "For that reason, the result on each of the secondary issues should be itemized in the judgment.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.2:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Counteracts minimalist doctrine by recording adverse findings essential for cross-appeal.",
+        "litigation_implications": [
+          "Offensive: Insist on itemising secondary rulings to secure appeal rights.",
+          "Defensive: Oppose inclusion unless determinative.",
+          "Strategic: Forces opponent to weigh risk of cross-appeal.",
+          "Cost: May require settling application.",
+          "Risk: Court may reject over-broad recitals."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Assess need to record secondary issues.",
+          "risk_assessment": "High.",
+          "audit_trigger": "Order drafting where secondary rulings disputed."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Paterson v. Hamilton (1996), 199 A.R. 239 (Q.B.)"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-2-minimalist-judgment-doctrine",
+      "node_type": "WarfareFramework",
+      "label": "Minimalist Judgment Doctrine",
+      "description": "Formal orders should state only ultimate result, not reasons or recitals.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s010",
+        "part9_part_9_judgments_and_orders_008_s020"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s010",
+            "text": "… formal judgment is intended to record the outcome … not … replicate reasons …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s020",
+            "text": "The formal judgment only records the result of the appeal, and should not replicate or summarize the reasons …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.2 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.2:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Prevents embedding favourable commentary into enforceable order, restricting preclusive effect.",
+        "litigation_implications": [
+          "Offensive: Object to recitals in opponent draft.",
+          "Defensive: Draft ‘clean’ order to avoid challenges.",
+          "Strategic: Limits future issue estoppel.",
+          "Cost: May require settling application.",
+          "Risk: Over-minimalism may cause ambiguity."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Orders should state only disposition.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "Drafts rejected for excessive reasons."
+        },
+        "automation_hooks": {
+          "draft_order_analyzer": "Flag reason-style language."
+        },
+        "case_law_anchors": [
+          "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., 2021 ABCA 92"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-5-delaying-entry-is-disfavored",
+      "node_type": "WarfareFramework",
+      "label": "Delaying Order Entry is Disfavored",
+      "description": "Courts criticise deliberate delay in entering orders; counsel have duty to enter promptly.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_018_s025",
+        "part9_part_9_judgments_and_orders_018_s028"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_018_s025",
+            "text": "Thus, delaying entry of an order does not in fact achieve the proclaimed goal …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_018",
+            "section_heading": "Rule 9.5 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_018_s028",
+            "text": "… case law goes so far as to suggest that a barrister has a duty to enter orders promptly.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_018",
+            "section_heading": "Rule 9.5 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.5:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Reinforces need for procedural momentum; weapon against stalling tactics.",
+        "litigation_implications": [
+          "Offensive: Apply to compel entry when opponent delays.",
+          "Defensive: Advise prompt entry even if order unfavourable.",
+          "Strategic: Undermines game-playing with appeal periods.",
+          "Cost: Delay applications may yield costs.",
+          "Risk: Court may still permit delay rarely."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Enter orders without undue delay.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "Orders not entered 30 days post-pronouncement."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Alberta Treasury Branches v. Leahy (1999), 74 Alta. L.R. (3d) 210 (Q.B.)"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-9-continuing-cause-of-action-doctrine",
+      "node_type": "WarfareFramework",
+      "label": "Continuing Cause of Action Doctrine",
+      "description": "Defines continuing cause as repetition of similar acts, enabling post-writ damages.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_030_s017",
+        "part9_part_9_judgments_and_orders_030_s024"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_030_s017",
+            "text": "… one instance … where damages arise from a continuing cause of action … repetition … of the same kind …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_030",
+            "section_heading": "Rule 9.9 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_030_s024",
+            "text": "Speaking accurately, there is no such thing; but what is called a continuing cause of action is a cause … arising from the repetition of acts …",
+            "paragraph_id": "part9_part_9_judgments_and_orders_030",
+            "section_heading": "Rule 9.9 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part01_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 1)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.9:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Legal backbone supporting Rule 9.9; defeats defence argument limiting damages to commencement date.",
+        "litigation_implications": [
+          "Offensive: Frame wrongdoing as continuous repetition.",
+          "Defensive: Characterise acts as discrete to cap damages.",
+          "Strategic: Key in environmental and IP cases.",
+          "Cost: N/A—argument not procedure.",
+          "Risk: Factual misfit weakens claim."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Ground continuing claims in doctrine case law.",
+          "risk_assessment": "Medium.",
+          "audit_trigger": "Claims seeking post-writ damages."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Hole v. Chard Union, [1894] 1 Ch. 293"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "rel-001-drafting-control-exploited-by-delay",
+      "source_node_id": "pt-r9-2-10-day-drafting-deadline",
+      "target_node_id": "cm-r9-2-successful-party-drafts",
+      "relationship_type": "EXPLOITS",
+      "description": "Non-drafting party can hijack drafting if deadline missed.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s003"
+      ]
+    },
+    {
+      "relationship_id": "rel-002-deemed-approval-operationalizes-objection-deadline",
+      "source_node_id": "pt-r9-2-deemed-approval-trap",
+      "target_node_id": "pt-r9-2-10-day-drafting-deadline",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Deemed approval weaponises failure to object within 10 days.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s007",
+        "part9_part_9_judgments_and_orders_006_s008"
+      ]
+    },
+    {
+      "relationship_id": "rel-003-secondary-issues-counters-minimalism",
+      "source_node_id": "wf-r9-2-exception-for-secondary-issues",
+      "target_node_id": "wf-r9-2-minimalist-judgment-doctrine",
+      "relationship_type": "COUNTERS",
+      "description": "Itemising secondary issues counters minimalist approach.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s071"
+      ]
+    },
+    {
+      "relationship_id": "rel-004-reasons-clarify-governing-order",
+      "source_node_id": "fp-r9-2-reasons-clarify-ambiguity",
+      "target_node_id": "fp-r9-2-order-is-governing-document",
+      "relationship_type": "MODIFIES",
+      "description": "Ambiguity exception modifies order primacy rule.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s120"
+      ]
+    },
+    {
+      "relationship_id": "rel-005-dispute-application-resolves-drafting-fights",
+      "source_node_id": "cm-r9-3-application-to-settle-dispute",
+      "target_node_id": "cm-r9-2-successful-party-drafts",
+      "relationship_type": "RESOLVES",
+      "description": "Rule 9.3 resolves drafting impasses.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_010_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-006-counsel-duty-overrides-client-objection",
+      "source_node_id": "fp-r9-4-counsels-duty-to-approve",
+      "target_node_id": "cm-r9-3-application-to-settle-dispute",
+      "relationship_type": "PREVENTS",
+      "description": "Counsel duty prevents needless settle applications.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_014_s011"
+      ]
+    },
+    {
+      "relationship_id": "rel-007-disfavored-delay-counters-stale-order-tactic",
+      "source_node_id": "wf-r9-5-delaying-entry-is-disfavored",
+      "target_node_id": "pt-r9-5-3-month-entry-deadline",
+      "relationship_type": "COUNTERS",
+      "description": "Duty to enter counters stale-order ambush.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_018_s028"
+      ]
+    },
+    {
+      "relationship_id": "rel-008-nunc-pro-tunc-modifies-effective-date",
+      "source_node_id": "cm-r9-6-nunc-pro-tunc-power",
+      "target_node_id": "fp-r9-6-effective-on-pronouncement",
+      "relationship_type": "MODIFIES",
+      "description": "Backdating power modifies default effective date.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_020_s003"
+      ]
+    },
+    {
+      "relationship_id": "rel-009-nunc-pro-tunc-controlled-by-test",
+      "source_node_id": "cm-r9-6-nunc-pro-tunc-power",
+      "target_node_id": "fp-r9-6-nunc-pro-tunc-test",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Use of power governed by *Green* test.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s059"
+      ]
+    },
+    {
+      "relationship_id": "rel-010-slip-rule-limited-by-no-redo-framework",
+      "source_node_id": "cm-r9-12-slip-rule-correction",
+      "target_node_id": "wf-r9-12-slip-rule-is-not-a-redo",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Doctrine limits slip rule scope.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_040_s100"
+      ]
+    },
+    {
+      "relationship_id": "rel-011-reopening-controlled-by-good-reason-test",
+      "source_node_id": "cm-r9-13-reopen-before-entry",
+      "target_node_id": "fp-r9-13-reopening-factors-test",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Reopening requires satisfying good-reason factors.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_044_s008"
+      ]
+    },
+    {
+      "relationship_id": "rel-012-reopening-test-informed-by-sparing-discretion",
+      "source_node_id": "fp-r9-13-reopening-factors-test",
+      "target_node_id": "wf-r9-13-sparingly-exercised-discretion",
+      "relationship_type": "INFORMED_BY",
+      "description": "Factors test framed by sparing-discretion doctrine.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_044_s232"
+      ]
+    },
+    {
+      "relationship_id": "rel-013-contempt-requires-service",
+      "source_node_id": "fp-r9-6-service-required-for-contempt",
+      "target_node_id": "cm-r9-8-duty-to-serve-entered-order",
+      "relationship_type": "REQUIRES",
+      "description": "Personal service prerequisite relies on service duty.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s087"
+      ]
+    },
+    {
+      "relationship_id": "rel-014-finality-of-entered-order",
+      "source_node_id": "cm-r9-13-reopen-before-entry",
+      "target_node_id": "pt-r9-5-3-month-entry-deadline",
+      "relationship_type": "ENDS_AT",
+      "description": "Reopening window closes on entry; entry subject to 3-month rule.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_042_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-015-validity-principle-forces-application",
+      "source_node_id": "fp-r9-6-irregular-orders-valid-until-set-aside",
+      "target_node_id": "cm-r9-13-reopen-before-entry",
+      "relationship_type": "MANDATES",
+      "description": "Irregular-order validity mandates formal application not defiance.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s107"
+      ]
+    },
+    {
+      "relationship_id": "rel-016-minimalism-supports-order-primacy",
+      "source_node_id": "wf-r9-2-minimalist-judgment-doctrine",
+      "target_node_id": "fp-r9-2-order-is-governing-document",
+      "relationship_type": "SUPPORTS",
+      "description": "Minimalist doctrine underpins order primacy.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s010"
+      ]
+    },
+    {
+      "relationship_id": "rel-017-form-requirements-prevent-ambiguity",
+      "source_node_id": "cm-r9-1-mandatory-form-requirements",
+      "target_node_id": "fp-r9-2-reasons-clarify-ambiguity",
+      "relationship_type": "PREVENTS",
+      "description": "Proper form reduces ambiguity needing reasons.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_002_s002"
+      ]
+    },
+    {
+      "relationship_id": "rel-018-slip-rule-is-post-entry-tool",
+      "source_node_id": "cm-r9-12-slip-rule-correction",
+      "target_node_id": "cm-r9-13-reopen-before-entry",
+      "relationship_type": "DISTINGUISHED_FROM",
+      "description": "Slip rule applies after entry; reopening before entry.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_040_s033"
+      ]
+    },
+    {
+      "relationship_id": "rel-019-duty-to-approve-enforces-minimalism",
+      "source_node_id": "fp-r9-4-counsels-duty-to-approve",
+      "target_node_id": "wf-r9-2-minimalist-judgment-doctrine",
+      "relationship_type": "ENFORCES",
+      "description": "Duty to approve accurate order enforces minimalist drafting.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_014_s007"
+      ]
+    },
+    {
+      "relationship_id": "rel-020-stale-order-trap-exploits-duty-to-enter",
+      "source_node_id": "pt-r9-5-3-month-entry-deadline",
+      "target_node_id": "wf-r9-5-delaying-entry-is-disfavored",
+      "relationship_type": "EXPLOITS",
+      "description": "Three-month rule exploits delay contrary to entry duty.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_016_s002",
+        "part9_part_9_judgments_and_orders_018_s028"
+      ]
+    },
+    {
+      "relationship_id": "rel-021-continuing-damages-operationalizes-doctrine",
+      "source_node_id": "cm-r9-9-damages-for-continuing-claims",
+      "target_node_id": "wf-r9-9-continuing-cause-of-action-doctrine",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Rule 9.9 proceduralises continuing-cause doctrine.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_028_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-022-certified-copy-supports-service-duty",
+      "source_node_id": "fp-r9-7-certified-copy-equivalence",
+      "target_node_id": "cm-r9-8-duty-to-serve-entered-order",
+      "relationship_type": "SUPPORTS",
+      "description": "Certified copies ease fulfilment of service duty.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_024_s002"
+      ]
+    },
+    {
+      "relationship_id": "rel-023-net-judgment-relates-to-minimalism",
+      "source_node_id": "cm-r9-10-net-judgment-on-counterclaim",
+      "target_node_id": "wf-r9-2-minimalist-judgment-doctrine",
+      "relationship_type": "RELATES_TO",
+      "description": "Net judgment reflects minimalist philosophy.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_034_s007"
+      ]
+    },
+    {
+      "relationship_id": "rel-024-e-signature-prevents-drafting-attacks",
+      "source_node_id": "cm-r9-2-electronic-signature-acceptance",
+      "target_node_id": "cm-r9-2-successful-party-drafts",
+      "relationship_type": "PREVENTS",
+      "description": "E-signature rule blocks frivolous signature-format objections.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s135"
+      ]
+    }
+  ],
+  "tactical_playbook": {
+    "plays": [
+      {
+        "play_id": "tp-001-drafting-seizure",
+        "play_name": "The Drafting Seizure",
+        "objective": "Take control of order wording when successful party misses 10-day drafting deadline.",
+        "control_mechanisms": [
+          "cm-r9-2-successful-party-drafts"
+        ],
+        "procedural_traps": [
+          "pt-r9-2-10-day-drafting-deadline",
+          "pt-r9-2-deemed-approval-trap"
+        ],
+        "prerequisites": [
+          "Opponent succeeds on application.",
+          "Court did not expressly direct drafting party."
+        ],
+        "execution_sequence": [
+          "Calendar opponent’s 10-day drafting limit immediately.",
+          "Prepare your own favourable draft the day after deadline passes.",
+          "Serve draft with proof of service on all parties.",
+          "Calendar their 10-day objection period.",
+          "If no objection received, file draft for entry citing deemed approval."
+        ],
+        "success_metrics": [
+          "Court enters your draft.",
+          "Opponent forced to negotiate from your text.",
+          "Opponent incurs cost if they contest via Rule 9.3."
+        ]
+      },
+      {
+        "play_id": "tp-002-stale-order-ambush",
+        "play_name": "The Stale Order Ambush",
+        "objective": "Neutralise opponent’s order by letting it go stale then challenging enforcement.",
+        "control_mechanisms": [],
+        "procedural_traps": [
+          "pt-r9-5-3-month-entry-deadline"
+        ],
+        "prerequisites": [
+          "Adverse order pronounced against client.",
+          "More than 3 months pass without entry."
+        ],
+        "execution_sequence": [
+          "Diary pronouncement plus 90 days.",
+          "Monitor court file for entry status.",
+          "Allow 90 days to lapse without reminding opponent.",
+          "When opponent seeks enforcement, assert order stale under Rule 9.5(2).",
+          "If necessary, apply for declaration blocking enforcement pending late-entry permission."
+        ],
+        "success_metrics": [
+          "Enforcement halted.",
+          "Opponent forced into costly permission application.",
+          "Client gains delay or settlement leverage."
+        ]
+      }
+    ]
+  },
+  "countermeasure_simulation": {
+    "scenarios": [
+      {
+        "scenario_id": "cms-001-overreaching-draft",
+        "scenario_name": "Countering the Overreaching Draft",
+        "initial_position": "Opponent’s draft order includes lengthy recitals beyond ruling.",
+        "adversary_move": "Serves draft with embedded favourable reasons.",
+        "countermeasure": "Object within 10 days, invoke minimalist doctrine, supply spare draft, threaten Rule 9.3 application.",
+        "counter_countermeasure": "Opponent cites secondary-issues exception to justify recitals.",
+        "outcome_analysis": "Court likely prefer minimalist version; opponent risks costs for overreach.",
+        "lessons_learned": [
+          "Act within objection window.",
+          "Minimalist doctrine is strong shield.",
+          "Be ready to rebut ‘secondary issue’ rationale."
+        ]
+      },
+      {
+        "scenario_id": "cms-002-post-judgment-revelation",
+        "scenario_name": "The Post-Judgment Revelation",
+        "initial_position": "Lost summary judgment; order not yet entered.",
+        "adversary_move": "Opponent serves draft order.",
+        "countermeasure": "Discover dispositive new binding case; apply under Rule 9.13 to reopen citing good-reason factors.",
+        "counter_countermeasure": "Opponent argues second-kick and finality per sparing-discretion doctrine.",
+        "outcome_analysis": "Success depends on demonstrating clear legal error; high bar but court may reopen to avoid certain appeal.",
+        "lessons_learned": [
+          "Reopen window is brief; act fast.",
+          "Application must show objectively demonstrable error.",
+          "Prepare for significant costs risk if unsuccessful."
+        ]
+      }
+    ]
+  },
+  "integration_touchpoints": {
+    "neo4j_ingestion": {
+      "node_label_mapping": {
+        "FoundationalPillar": "CREATE (n:FoundationalPillar:LegalNode {node_id: $node_id}) SET n += $properties",
+        "WarfareFramework": "CREATE (n:WarfareFramework:LegalNode {node_id: $node_id}) SET n += $properties",
+        "ControlMechanism": "CREATE (n:ControlMechanism:LegalNode {node_id: $node_id}) SET n += $properties",
+        "ProceduralTrap": "CREATE (n:ProceduralTrap:LegalNode {node_id: $node_id}) SET n += $properties"
+      },
+      "relationship_type_mapping": {
+        "OPERATIONALIZES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:OPERATIONALIZES]->(b) SET r += $properties",
+        "CONTROLLED_BY": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:CONTROLLED_BY]->(b) SET r += $properties",
+        "EXPLOITS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:EXPLOITS]->(b) SET r += $properties",
+        "REQUIRES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:REQUIRES]->(b) SET r += $properties",
+        "COUNTERS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:COUNTERS]->(b) SET r += $properties",
+        "SUPPORTS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:SUPPORTS]->(b) SET r += $properties",
+        "PREVENTS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:PREVENTS]->(b) SET r += $properties",
+        "MODIFIES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:MODIFIES]->(b) SET r += $properties",
+        "RESOLVES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:RESOLVES]->(b) SET r += $properties",
+        "MANDATES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:MANDATES]->(b) SET r += $properties",
+        "ENDS_AT": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:ENDS_AT]->(b) SET r += $properties",
+        "INFORMED_BY": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:INFORMED_BY]->(b) SET r += $properties",
+        "DISTINGUISHED_FROM": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:DISTINGUISHED_FROM]->(b) SET r += $properties",
+        "RELATES_TO": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:RELATES_TO]->(b) SET r += $properties",
+        "ENFORCES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:ENFORCES]->(b) SET r += $properties"
+      },
+      "provenance_indexing": "CREATE INDEX ON :LegalNode(source_sentence_ids)"
+    },
+    "automation_api_endpoints": {
+      "draft_order_deadline_calculator": "/api/v1/deadlines/calculate?rule=9.2",
+      "stale_order_checker": "/api/v1/orders/check_staleness?rule=9.5"
+    }
+  },
+  "omitted_nodes": []
+}
+

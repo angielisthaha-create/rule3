@@ -1,0 +1,257 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.2",
+  "title": {
+    "official": "Actions by or against partners and partnerships",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.2(1)  An action by or against 2 or more persons as partners may\nbe brought using the name of the partnership.\n(2)  Subrule (1) also applies to an action between partnerships\nhaving one or more partners in common.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "e810c06aad3965deebf02c096cf51346a27ac270d66562cd28cb9f25600182a7"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          37
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Actions By or Against Partners and Partnerships",
+      "operative_text_raw": null,
+      "operative_text_sha256": "feb6ed6a6f13aa61dea651710149420bbd5a07f3b0bbb50a9038c44de35d754d",
+      "related_provisions": "9.23 (enforcement against partnerships) ; 11.10 and 11.11 (service on partnerships)",
+      "commentary": "Odd puzzles ﬂow from the anomalous status and relations of partners.¹\nPartnerships are awkward because they are often treated as separate entities, whereas in law\nthey are not persons. A partnership is just a collective name for its members. Rule 2.2 lets one\nuse the partnership name if the ﬁrm still exists, whether the ﬁrm is plaintiff or defendant. In theory\nit is not necessary to name the members.²\nEven if a ﬁrm was a co-defendant in the ﬁrst suit, it does not follow that the ﬁrst judgment\ndecided whether the individual was a member of the ﬁrm.\nEven if a partnership has since been dissolved, and certain of its alleged partners sued\nhave defended, but deny that they were partners, that does not excuse them from discovery and\nproduction of records.³",
+      "footnotes": [
+        {
+          "page": "2-3",
+          "number": 7,
+          "text": "Quite similar to previous 1968 R.80(1). It came from 1944 C. R.97(c) and 1962 English O.81 r.1. Similar to 1914 R.146(c) (ﬁrst half) ; English O.48A r.1 passed June 1891; pt. Judic. Ord. s.37."
+        },
+        {
+          "page": "2-4",
+          "number": 1,
+          "text": "See the C. P. E. , Chapter 69, passim."
+        },
+        {
+          "page": "2-4",
+          "number": 2,
+          "text": "But it is prudent for a plaintiff suing the ﬁrm to name the individuals also, in case there is or was no ﬁrm at the relevant time, or the name or the members were not in fact exactly as one believes, and to avoid later having to prove who were the members."
+        },
+        {
+          "page": "2-4",
+          "number": 3,
+          "text": "Stepper v. Merchant Law Grp.2013 ABCA 158, Calg 1201 0277 AC (May 28) (¶ 5)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          58,
+          95
+        ],
+        "book_pages": [
+          "2-3",
+          "2-4"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "5th pass: 'Rule 2.2 lets one use the partnership name if the firm still exists' - official 2.2(1) states no such condition (an action by or against 2 or more persons as partners may be brought using the partnership name; (2) extends it to actions between partnerships with a partner in common). The 'still exists' condition is Book A's gloss; its own fn 2 and the dissolved-partnership sentence treat that as a practical risk. Left as printed; read the official text."
+    },
+    "BOOK_B": {
+      "title": "Actions by or against partners and partnerships",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_005",
+        "part2_rule_2_2_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_006"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "ff7c48c3de1e44ef3ffc6e7b2845af8fa3c340fa4ea6a65e1480eed5cf24ab5c",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Actions by or against partners and partnerships",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "91804282b7e37eb42fb49a69b81716efa4b99863c751d5fb35a4a03693edbb29",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 2.2(1) “is a permissive rule that allows an action to be brought against partners using the name of the partnership, to avoid having to name each individual",
+          "citations": [],
+          "note": "fragment cut off in source; Book C mis-parsed it under a heading read as rule '11.10'"
+        }
+      ],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "garbled in source: (1) cut off mid-sentence, '2' replaced by a stray case citation, (2) missing. Not usable; official text controls.",
+      "dropped_citation_notes": {
+        "2017 ABQB 76": "Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 - dropped in 5th pass (of 2.21-2.32) so that 2.2, 2.14 and 2.23 get the same decision. It was found inside Book C's garbled 2.2 rule text. The same citation also appears in Book C's 2.14 and 2.23 text. In every occurrence it stands where a number should be ('[2] or more persons' here; 'Form [1]', 'Form [2]' in 2.14; 's. [2]' in 2.23's amendment note) - the extraction pattern also seen with Stamos ('3', 2.12), Champagne ('6', 2.10 note) and the Part 3 cases ('Form 3', 'Form 4', '10', 2.28-2.29). So no occurrence shows which rule it belongs to, and nothing links it to the 2.2 commentary quote (5th pass removed an earlier 'may be the source' guess). Unverified - do not cite."
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.5205,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.2",
+      "title_official": "Actions by or against partners and partnerships"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "feb6ed6a6f13aa61dea651710149420bbd5a07f3b0bbb50a9038c44de35d754d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            58,
+            95
+          ],
+          "book_pages": [
+            "2-3",
+            "2-4"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "ff7c48c3de1e44ef3ffc6e7b2845af8fa3c340fa4ea6a65e1480eed5cf24ab5c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "91804282b7e37eb42fb49a69b81716efa4b99863c751d5fb35a4a03693edbb29",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "e810c06aad3965deebf02c096cf51346a27ac270d66562cd28cb9f25600182a7",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            37
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b050338419ea45b6af591ff35fc2c1824f5918032d4c66e0619c9c7bc33b09f2"
+  },
+  "information_notes": [
+    {
+      "text": "Rules for service of commencement documents on partners are contained in rule 11.10\n[Service on limited partnerships] and 11.11 [Service on partnerships other than limited\npartnerships].",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "copy survives only as a garbled heading; not retained"
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A; 7th pass): R.11.10 information note (p.11-15) cites Rule 2.2; listed under R.9.23 (p.9-68, 'action against partners'); R.3.70 notes (p.3-224): same person cannot be both plaintiff and defendant, 'R.2.2(2) on overlapping partnerships is an exception' (consistent with official 2.2(2)); R.13.12 checklist (p.13-65): trade names or partnerships, 'Rr.2.2(1)-2.5(1)'.",
+    "Official, by subject (6th pass): the Appendix defines 'partnership' as a partnership to which the Partnership Act applies; rule 5.17(1)(f) and (2)(d) let a partner or former partner of a partnership that is an adverse party be questioned.",
+    "BOOK_A 2.5 commentary (combined_rule2.txt lines 174-177): 'Rule 2.5 now extends the benefits of R.2.2 to an individual defendant who carried on business under a different name ... It now extends to a plaintiff doing that.' (sole proprietors, either side; quote completed in 4th pass).",
+    "BOOK_B 2.1 commentary part 2 ('Limited Partners', 155569 Canada v. 248524 Alberta 2000 CA): a general partner may sue in its own name only as trustee of the partnership property.",
+    "Rules 2.3 (suing individual partners) and 2.4 (disclosure of partners) complete the partnership scheme."
+  ],
+  "dedupe_log": [
+    "2.2 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.2 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.2 BOOK_C citation context dropped (2017 ABQB 76): verbatim in kept text",
+    "2.2 BOOK_C commentary sentence split dropped",
+    "2.2 BOOK_C: rule text dropped (manual review)",
+    "2.2 BOOK_C: misparsed entry folded into commentary; garbled heading dropped (manual review)",
+    "2.2 BOOK_C: citation 2017 ABQB 76 dropped (manual review)"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.20",
+  "title": {
+    "official": "Other circumstances when record of proceedings may be required",
+    "variants": {
+      "BOOK_A": "Other CircumstancesWhen Record of Proceedings May Be Required"
+    }
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.20(1)  The Court may make an order for the production of the\ncertified record of proceedings of a person or body if the conditions\ndescribed in subrule (2) are met.\n(2)  The conditions are:\n(a) the originating application for judicial review is for an\norder other than an order to set aside a decision or act;\n(b) the certified record of proceedings is required to establish\nthe claim;\n(c) the person or body that is the subject of the originating\napplication has not sent to the court clerk the certified\nrecord of proceedings within a reasonable time after the\noriginating applicant’s written request for the person or\nbody to do so.\n(3)  If the Court orders the certified record of proceedings to be\nsent to the court clerk, rules 3.18(3) and 3.19 apply, unless the\nCourt otherwise orders.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "4f77263206690479d951c99c9ea4fcd2776e461148a2f9ef848b92af08d420c7"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.20 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          58
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Other CircumstancesWhen Record of Proceedings May Be Required",
+      "operative_text_raw": null,
+      "operative_text_sha256": "570d2d7a322abb2ed123fd10456696f7a114ecc5af97289d04b3a4112b37b8e9",
+      "defined_terms": "claim, Court, court clerk, order This certified record is traditionally called\"the return\".On trying to add to it, see R.3.21 and notes. The court used its discretion under R.3.20 to call for a return where the relief sought against that respondent wasmandamusonly. If there is a dispute whether some relevant records are privileged, the court hearing judicial review can and should call for the papers and inspect them. *Limit on Questioning*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-61"
+        ],
+        "offset_in_clean_text": [
+          192259,
+          193600
+        ]
+      },
+      "operative_text_note": "same wording as official 3.20(1)-(2) (read by eye); in (3) Book A prints 'rule 3.18(3) [Notice to obtain record of proceedings] and 3.19 [Sending in certified copy of record of proceedings] apply' where the official says 'rules 3.18(3) and 3.19 apply' ('rule' for 'rules'; two bracket labels added; the label for 3.19 has 'copy of', which is not in the official title 'Sending in certified record of proceedings'; the label for 3.18 matches the official title). Also: the title in title case ('Other Circumstances When Record of Proceedings May Be Required', printed 'Other CircumstancesWhen ...'), missing spaces, '*' line marks and the footnote marker '3' before 'Defined Terms'. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). This rule's history footnote 3 ('Quite similar to previous 1987 R.753.14, new in 1987') is printed at the top of p.3-61 (line 1611) inside the built 3.19 record and is kept verbatim there.",
+      "commentary_review_flag": "Read in full, p.3-61 (lines 1615-1621): rule text, Defined Terms and a short note (three sentences). The built record holds no commentary field for Book A 3.20: the Defined Terms line and the note are together in the defined_terms field (443 characters, nothing dropped); the text ends with the title and first line of 3.21 (line 1621). No Related Provisions or information note is printed for 3.20. (1) Wording: (3) 'rule' for 'rules' and the two bracket labels, one with 'copy of' (see the text note). (2) Defined Terms 'claim, Court, court clerk, order': the Appendix defines 'claim' (line 40612), 'Court' (40688), 'court clerk' (40697) and 'order'. (3) Statements read against the official text: 'This certified record is traditionally called \"the return\"' is a gloss (the Rules say 'certified record of proceedings'); 'On trying to add to it, see R.3.21 and notes' - official 3.21 is 'Limit on questioning' (no person may be questioned as a witness to obtain a transcript for use at the hearing without the Court's permission), which lands as a limit on adding evidence; 'The court used its discretion under R.3.20 to call for a return where the relief sought against that respondent was mandamus only' agrees with 3.20(1) and (2)(a) (an order other than an order to set aside); 'the court hearing judicial review can and should call for the papers and inspect them' (privilege) - the Rules do not say this; not checked against a case (the footnotes 4 and 5 on p.3-61, Patterson v. Alta. Dental Assn. 2004 ABQB 210, 355 AR 116 and Calg. Police Service Chief v. Info. & Privacy Comm'r. 2018 ABCA 114, follow the history footnote 3 in numbering and so belong to this note; they are printed at line 1611 inside the built 3.19 record). (4) The sentences before this rule's title on p.3-61 (line 1613: French translation; 'A body need not file a Record for judicial review, if the body is not subject to judicial review') belong to 3.19's note (see the 3.19 flag). (5) Book C prints the same 3.19 label with 'copy of'; the official table of contents (line 289) and the official text of 3.19 (line 4182) read 'Sending in certified record of proceedings'. (6) Statements of law and the cases were not checked."
+    },
+    "BOOK_B": {
+      "title": "Other circumstances when record of proceedings may be required",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_20_001",
+        "part3_part_3_court_actions_014"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "f0c1411e616ed729d724ef0e8938feb33ce214e2a7e618179de4fe2b9848941a",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Other circumstances when record of proceedings may be required",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "f6755fffcc07fae503a2595cb4fd514e5c623bff4eee546846eb64a8c5f82daf",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule provides a mechanism to compel the record of a person or body, but where the conditions in sub-rule 2 are met. only Rules 3.18 to 3.20 can apply to originating applications for matters other than judicial review. In Campbell v. Alberta (Chief Electoral Offıcer),  [2018] A.J. No. 390, 2018 ABQB 248 (Alta. Q.B.). Feehan J. (now J.A.) reasoned that rules 3.18 to 3.20 can apply to originating applications for statutory reviews. This is because there is no guidance in the rules regarding the form and remedies for certified record production in originating applications for statutory reviews. Therefore, the court can, pursuant to rule 1.7(2), elect to apply rules 3.18 to 3.20 by analogy. However, this is subject to any",
+          "citations": [
+            {
+              "neutral_citation": "2018 ABQB 248",
+              "style_of_cause": "Campbell v. Alberta (Chief Electoral Officer)",
+              "note": "printed 'In Campbell v. Alberta (Chief Electoral Offıcer),  [2018] A.J. No. 390, 2018 ABQB 248 (Alta. Q.B.)': the built name 'In Campbell v. Alberta' was cut before the bracket; Book A cites it as 'Campbell v. Chief Electoral Officer 2018 ABQB 248, JCE 1703 07561/3 (Mar 29)'"
+            }
+          ],
+          "review_flag": "(1) 'This rule provides a mechanism to compel the record of a person or body, but where the conditions in sub-rule 2 are met.' agrees with 3.20(1)-(2); the next words 'only Rules 3.18 to 3.20 can apply to originating applications for matters other than judicial review' follow a full stop and do not form a sentence with what precedes (the order of the printed words is disturbed; the wording is kept as printed). (2) The account of Campbell v. Alberta (Chief Electoral Officer), 2018 ABQB 248 (rules 3.18 to 3.20 applied by analogy to a statutory review under rule 1.7(2)) agrees with official 1.7(2) ('may be applied by analogy') and with Book A's 3.18 note ('Rr.3.18 to 3.20 can be applied to R.3.14 by analogy under R.1.7'); the same neutral citation is in Book A. (3) The commentary is cut off at 'However, this is subject to any' (731 characters, the page end); Book C's next entry (3.21) begins with its own rule text, so nothing completes it. (4) The name printed inside the citation is 'In Campbell v. Alberta' ('(Chief Electoral Offıcer)' follows with a ligature 'ı' for 'i')."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same wording as official 3.20(1)-(3) (read by eye) except that in (3) two bracket labels are printed after 'rules 3.18(3) and 3.19' on separate lines: '[Notice to obtain record of proceedings]' (matches the official title of 3.18) and '[Sending in certified copy of record of proceedings]' ('copy of' is not in the official title of 3.19; Book A prints the same words). The amendment note '[Alta. Reg. 124/2010, r. 3.20 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8249,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.20(1)-(2) (read by eye); in (3) Book A prints 'rule 3.18(3) [Notice to obtain record of proceedings] and 3.19 [Sending in certified copy of record of proceedings] apply' where the official says 'rules 3.18(3) and 3.19 apply' ('rule' for 'rules'; two bracket labels added; the label for 3.19 has 'copy of', which is not in the official title 'Sending in certified record of proceedings'; the label for 3.18 matches the official title). Also: the title in title case ('Other Circumstances When Record of Proceedings May Be Required', printed 'Other CircumstancesWhen ...'), missing spaces, '*' line marks and the footnote marker '3' before 'Defined Terms'. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). This rule's history footnote 3 ('Quite similar to previous 1987 R.753.14, new in 1987') is printed at the top of p.3-61 (line 1611) inside the built 3.19 record and is kept verbatim there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.20(1)-(3) (read by eye) except that in (3) two bracket labels are printed after 'rules 3.18(3) and 3.19' on separate lines: '[Notice to obtain record of proceedings]' (matches the official title of 3.18) and '[Sending in certified copy of record of proceedings]' ('copy of' is not in the official title of 3.19; Book A prints the same words). The amendment note '[Alta. Reg. 124/2010, r. 3.20 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.20",
+      "title_official": "Other circumstances when record of proceedings may be required"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "570d2d7a322abb2ed123fd10456696f7a114ecc5af97289d04b3a4112b37b8e9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-61"
+          ],
+          "offset_in_clean_text": [
+            192259,
+            193600
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "f0c1411e616ed729d724ef0e8938feb33ce214e2a7e618179de4fe2b9848941a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "f6755fffcc07fae503a2595cb4fd514e5c623bff4eee546846eb64a8c5f82daf",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "4f77263206690479d951c99c9ea4fcd2776e461148a2f9ef848b92af08d420c7",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            58
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "ed6f4c19b47e341bd515bd9ea0ee2ca848cece32a210442d99e140378c490c36"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): no Book B file cites 3.20 by number outside its own paragraphs. BOOK_B: rule text only (paragraph part3_part_3_court_actions_014), equal to the official 3.20; no commentary and no amendment note; the next paragraph is the running head for Subdivision 2. BOOK_C 121-140 file: its own entry only (its 3.19 commentary, 3.18 commentary in the 101-120 file, and the 3.20 commentary all speak of rules 3.18 to 3.20 together; the Campbell v. Alberta (Chief Electoral Officer) 2018 ABQB 248 passage is only in the 3.20 commentary). BOOK_C 3.20: rule text NORMALIZATION_ONLY_DIFFERENCE (two displaced bracket labels; noted); amendment note agrees with the official; commentary kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.18 note p.3-58 (line 1544) 'Where the Originating Application does not seek to set aside a decision, but some other relief (e.g. prohibition), R.3.20 allows King's Bench to order the record below sent up' (agrees with 3.20(2)(a)); 3.18 note p.3-59 (line 1573) 'Rr.3.18 to 3.20 can be applied to R.3.14 by analogy under R.1.7' (agrees with 1.7(2)); 3.22 note p.3-64 (line 1698) 'a return under Rr.3.19 and 3.20'; no other Book A file cites 3.20 by number.",
+    "OFFICIAL text (searched for 'rule 3.20', 'rules 3.20', lists, line-wrapped forms and form headings): no other official rule cites 3.20 by number (the only hit is the running page header 'Rule 3.20'); no form heading names it. By subject (read): 3.18(3) and 3.19 (applied by 3.20(3)), 3.15(1)(a) (the remedies: mandamus, prohibition, certiorari, quo warranto, habeas corpus), 3.21 (limit on questioning), 1.7(2) (analogy), Forms 9 and 10."
+  ],
+  "dedupe_log": [
+    "3.20 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.20 BOOK_C citation context dropped (2018 ABQB 248): verbatim in kept text",
+    "3.20 BOOK_C commentary sentence split dropped",
+    "3.20 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.20 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.20 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

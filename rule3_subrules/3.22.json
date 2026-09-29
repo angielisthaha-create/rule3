@@ -1,0 +1,305 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.22",
+  "title": {
+    "official": "Evidence on judicial review",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.22   When making a decision about an originating application for\njudicial review, the Court may consider the following evidence\nonly:\n(a) the certified copy of the record of proceedings of the\nperson or body that is the subject of the application, if\nany;\n(b) if questioning was permitted under rule 3.21, a transcript\nof that questioning;\n(b.1) if the originating application is for relief other than an\norder in the nature of certiorari or an order to set aside a\ndecision or act, an affidavit from any party to the\napplication;\n(c) anything permitted by any other rule or by an enactment;\n(d) any other evidence permitted by the Court.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "9f32ac336aff35577b1c45816c76d618c9307943f7c3a2db65209b76dd67a3d5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s3.22;72/2022",
+    "amending_regulations": [
+      "72/2022"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta.Reg.124/10;72/22]"
+      ],
+      "BOOK_B": "Alta. Reg. 72/2022, s. 2",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r, 3.22 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 72/2022 (Alta. Gaz. May 31, 2022]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          58
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Evidence on Judicial Review",
+      "operative_text_raw": null,
+      "operative_text_sha256": "312ee0e3fc950b647f6838572f5824738ce03be721930b60f550216d89e4f766",
+      "defined_terms": "Court, enactment",
+      "related_provisions": "R.3.68(4) (striking out affidavits). *A.History The May 2022 amendment adding paragraph (b.1) in effect largely seems to permit any evidence by the applicant if the application is for judicial review, is not likecertiorarior to quash anything.For example, it is for prohibition ormandamusorhabeas corpus.Presumably some reply to such evidence might be possible in the right circumstances. *B.General Rule Despite wide references to evidence in R.3.16, R.3.22 much limits the evidence admissible. This application should usually be on the existing record, with extra evidence only in exceptional 1Oleynik v.Univ.of Calg. (#1)2013 ABCA 105, 66 Alta LR(5th) 136,affg2012 ABQB 189, JCC 1101 09075 (Mar 23), seeMilner Power v. A.E.U.B.2007 ABCA 265, 417 AR 115, andOperative Plasterers'and *Cement Masons'Int. Assn.v. R.2007 ABQB 34, 413 AR 184.Abuse of process, inadmissibility, immunity (non-compellability), absence of relevance, and a bar on fishing, all limit or bar the right to use them.A circumstances. and fresh evidence on the Judicial review is generally conducted on the record, merits that was not before the tribunal is not allowed. After all, often the merits, or re-deciding them, are not the issue. On appeal, a decision on judicial review was sent back to King's Bench 1401 05661 (Feb 19). 8Syncrude v. Min.of Enr.2023 ABKB 317, JCC 2001 08134 (May 26) (¶'s 47, 57-63).Quaere. *of Can.2016 ABQB 673, file 1607 13004 X1 (Nov 30).A citation of some cases begins with some brief because affidavits before King's Bench contained facts which may or may not have been before the administrative tribunal.One could not tell, because (by agreement) the record filed was Where the return filed by the tribunal is incomplete, the record can be supplemented by affidavits. incomplete. And an affidavit may set out or call attention to a limited amount of background information merely to orient the reviewing court. wide scope for such exceptions, in theSyncrudecase. 310 (¶'s 26-27).Even if aboriginal rights or honor of the Crown is involved:Ft. McKay F.N. v. R.(Alta.)2014 ABQB 32, 581 AR 124 (¶'s 23 ff.).If the tribunal gives no transcripts, an affidavit describing the course of the hearing is proper:U.F.C.W.U.Local 401 v.Westfair Foods2010 ABCA 120, 477 AR 315.The A number of exceptions, allowing moreevidence for judicial review, are listed, butgiving a very JCE 1003 10565 (¶'s 34-42);Tran v. College of Physicians & Surgeons2017 ABQB 337, 55 Alta LR(6th)",
+      "commentary": "*supra.And seeDodd v.Registrar,infra.A government's refusal to implement judicial pay raises may make\n*& Surgeons (#_)2019 ABQB 582, JCE 1803 01472 (Jul 31) (¶'s 3-8);Bergman v. Innisfree,supra;\n(¶ 46).\n\ntrue even ofhabeas corpus, despite references to\"evidence\"in R.3.16:McLean v. Correctional Serv. vague words, doubtless not intended to create new exceptions to the general bar on new evidence:Yuill *v.Workers'Comp. App.Comm.2016 ABQB 369, JCRD 1510 00389 (Jun 30) (¶ 60).See also R.3.21n., the economic data, similar in form but not always in content, to the following Budget relevant.An affidavit\n\ncase law is reviewed inUniv.of Alta.v.Info.& Privacy Comm'r.2011 ABQB 699, 528 AR 58.That is\n\n5Sarcee Gravel Prod.v.W.C.B.(CA 1997) 209 AR 156. 1McLean v. Correctional Serv.of Can.2016 ABQB 673, file 1607 13004 X1 (Nov 30) (¶'s 34-36);Jones v. *Chaffin (Chief of Police)2018 ABQB 918, JCC 1701 14336 (¶'s 13-18);Makis v.College of Physicians*Lethbridge & Dist. Pro-Life Assn.v. Lethbridge (City)2020 ABQB 654, JCL 1906 00035 (Oct 29) (¶'s 9-13);Oleynik v.Univ.of Calg.2023 ABKB 43, JCC 2201 04192;N.Air Charters v.Alta. Health Serv.\n\n2023 ABCA 114, Calg 2201 0220 AC (Mar 31) (¶ 8);Koester v.Wheatland (County)2024 ABKB 103, JCC 2201 08686 (Jan 22) (¶'s 34 f.f).\"The record\" refers to the formal Return filed by the tribunal:Thurm v. Alta. *Labour Rel.Bd.2018 ABQB 300, JCC 1701 05121 (Apr 17). 2Parties should not give the judge information not in the record, but that is no ground to reverse the judge if the information did not found any of his or her reasoning.The judge can rely on facts in the record, but not in the tribunal's reasons:Imp. Oil v. Calgary (City) (Info.& Privacy Comm'r.)2014 ABCA 231, 580 AR 125\n\n3White v.W.C.B.Appeals Comm.2006 ABQB 359, 400 AR 183;Alta.Liquor Store Assn.v. Gaming & *Liquor Comm.,infra;Silverman v.Human Rts. Comm.2012 ABQB 152, [2012] AR Uned 216 (Mar 13);*Cold L.F.N. v.R.(Alta.) 2012 ABQB 579, 543 AR 198;Alta.Liquor Store Assn. v.Gaming & Liquor*Comm.2006 ABQB 904, 406 AR 104 (¶'s 34-51);Re Agric. Finances Serv.Act (F. Prins Potatoes v.*Agric.Finl. Serv.Corp.)2015 ABQB 335, 617 AR 308;Taylor v.Workers'Comp.Bd.2016 ABQB 123, showing the differences was relevant, though it was too early to see if it had much weight:Alta. Prov'l.JJ.\n\n*Assn.v.R. (Alta.)2021 ABQB 199, JCE 1903 24109 (Mar 16) (¶'s 45-53). 4Cold L.F.N. v.R.,supra;Thurm v. Alta.Labour Rel.Bd.,supra;Koester v.Wheatland,supra. 6N.Air Charters v.Alta. Health,supra(¶ 15). 7Brar v. Calgary (City)2006 ABQB 426, 403 AR 270,revdby consent on othergrds2006 ABCA 396, 69 Alta LR(4th) 13.But an affidavit exhibiting the affiant's own contemporaneous notes of the hearing in question was not received in one case:Telecom.Workers U. v.Telus Comm'ns.2016 ABQB 106, JCC\n\n4Swan R.F.N. v.R.(Agric. & Forestry)2022 ABQB 194, JCE 2003 19318 (Mar 7) (¶'s 51-58). 5Dodd v.Regis. of MotorVehicle Serv.2010 ABQB 184, 500 AR 194. 6Abdulghafoor (Mays) v.Univ. of Calg.,supra(¶'s 62 ff.). 7See the C.P.E., Chapter 79, Part Q.5. 8Jones v. Chaffin,supra;Oleynik v.Univ. of Calg.,infra. 9 SeeMilner PowerandOperative Plasterers'decisions,supra,and R.3.21.\n\n10Apotex v.R.2006 ABCA 133, 384 AR 88,leave den(SCC 12 Oct '06). \n*C.Special Events Not in the Record\nerror is among the grounds in the originating notice:Alta. Fedn.of Lab. v.Min. of Fin.2008 ABQB 274, 61\n\n1Abdulghafoor (Mays) v.Univ. of Calg.2021 ABQB 187, JCC 2001 09498 (Mar 15) (¶'s 62-66);N. Air *Charters v. Alta.Health,supra(¶'s 9-16) (dicta);Koester v.Wheatland, supra(dicta). 2O'Malley v.Calg. Sep.S.D. (#1)2006 ABQB 126, 398 AR 74;Alta.Teachers'Assn.v. Info. & Privacy *Comm'r.2011 ABQB 19, 509 AR 92 (¶'s 62-4);dictainRe Agric.Finances Serv. Act,supra;dictain*Taylor v.Workers'Comp. Bd.,supra; dictainThurm v.Alta. Labour Rel.Bd.2018 ABQB 300, JCC 1701 05121 (Apr 17);Alta.Teachers'Assn.v.Info.& Privacy Comm'r.2011 ABQB 19, 509 AR 92 (¶'s\n\n62-64);dictuminLethbridge & Dist. v. Lethbridge,supra(¶'s 14-18).On conducting examinations to supplement the record, see R.3.21.There is no automatic right to use R.6.8 to examine witnesses.It takes some clear evidence of an error of law or jurisdiction which the existing record does not fully disclose, which CPC(6th) 386;cf.TsuuT'ina Nation v. Min.of Env.2008 ABQB 547, 453 AR 114. 3Ag Pro Grain Mgmt.Serv. v.Lacombe (Cty.)2006 ABQB 351, 402 AR 199;cf.dictuminLethbridge & *Dist.v.Lethbridge,supra(¶'s 14-18).\nExtra evidence is not used for judicial review where the issue is the merits of the impugned decision, but it may be necessary if the process followed below is challenged.That could be standing, bias, natural justice, or what evidence the decision maker actually had (if there is no adequate record to show that). The record can be supplemented by affidavits to show bias or breach of natural justice. Where a tribunal does not keep an adequate record of its proceeding,\n\npermission is given.See R.3.21.It would be wise to get the permission before arguing or adducing the evidence. a return under Rr.3.19 and 3.20.The Court should not have to guess whether a return would have added more.\n\naffidavit evidence of what transpired is admissible. More evidence on judicial review may be allowed, if failure to consult on an aboriginal right or its impairment, as the law required, is alleged.The record might suffice if there were adequate consultation, but likely would not suffice if there were not adequate consultation.\n\nRules 6.8 and 6.11(1)(g) do apply to motions for judicial review, but the evidence sought must be relevant to the issue, and there are considerable limits on how much evidence outside the record of the tribunal can be adduced.Previous decisions of the tribunal on cases of other unrelated people are not relevant. See R.3.21. *D. Procedure\nAn examination's transcript cannot be considered at a judicial review hearing, without the court's permission.But the examination and transcript and argument can occur before the Judicial review to quash a decision should not proceed solely upon affidavit evidence, without If new evidence is to be admitted, a prior application to do so is needed.\n\nThere may not be examination for discovery (questioning) in judicial review, but there is examination for discovery (questioning) in a suit against the government for damages with no attack on the jurisdiction to make the decision in question;that is not disguised judicial review.\n\nUnder Rr.3.8(2), 13.18, judicial review is final, not interlocutory.The need for \"source\"and \"grounds\"in an affidavit is important, not technical.Use of someone else's notes is hearsay unless the affiant really recalls, or unless he or she checked those notes by someone else for accuracy\n\nIf R.3.22 is violated and there is not even a request for permission to adduce the forbidden\n\n(¶'s 27-28).Administrative penalties based on impaired driving or the like pursue an object of public safety (¶'s 33-37):Zarysky v.Dir. of SafeRoads2022 ABQB 142, JCE 2103 10933.and seeGarcia-Ahmad v. *SafeRoads2023 ABKB 713, JCC 2301 14842 (Dec 13).\n5Dhillon v. Gen.Faculty Council etc.,supra.A stay was given of administrative proceedings pending a\n\nback when he or she recalled.Violation of Rr.3.8(2), 13.18 bars the offending parts, not the whole affidavit. evidence, the affidavit exhibiting it, and the accompanying brief of argument describing it, may be expunged.\n\n*Surgeons of Alta.2021 ABCA 320, 35 Alta LR(7th) 259 (one JA Sep 24).Contra,AlphaBow Enr. v.Alta.*Enr.Regulator2023 ABCA 164, Calg 2301 0111 AC (one JA May 18) (¶'s 15-17, 29-47). decision as to whether to reopen the King's Bench proceedings to hear a constitutional question:Alta. *Turkey Producers v. Leth (#2)2006 ABQB 497, 398 AR 216. 6Johnston v. Dir. ofVital Statistics,supra.The applicant failed on all 3, inSkydive Ranch v. Fatality *Review Bd.2004 ABQB 298, 356 AR 210, and inSturt v. Chartered Prof. Accountants &c.(#2)2023\nABKB 299, JCE 2103 14281 (one JA May 11) (¶'s 30-39);Akinnawonu v.College of Physicians & *Surgeons2024 ABCA 167, Calg 2301 0249 AC (May 22) (¶'s 9-12).An administrative driving suspension can create irreparable harm if it would have all been served before a judicial review application can be heard\n\n*Stay of Decision*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-62",
+          "3-65"
+        ],
+        "offset_in_clean_text": [
+          194607,
+          206037
+        ]
+      },
+      "operative_text_note": "same wording as official 3.22 lead-in and (a), (b), (b.1), (c), (d) (read by eye) except the bracket label '[Limit on questioning]' after 'rule 3.21' (matches the official title of 3.21), the title in title case ('Evidence on Judicial Review'), missing spaces and '*' line marks. The amendment bracket '[Alta.Reg.124/10;72/22]' agrees with the official 'AR 124/2010 s3.22;72/2022'. No substantive difference. The Defined Terms ('Court, enactment') and Related Provisions ('R.3.68(4) (striking out affidavits)') follow the rule text; the note that follows them is inside the built related_provisions and commentary fields (nothing dropped).",
+      "commentary_review_flag": "Read in full, p.3-62 (line 1635) to p.3-65 (line 1722): rule text, Defined Terms, Related Provisions and the note (A History, B General Rule, C Special Events Not in the Record, D Procedure), with its footnotes as printed. The built record puts the Related Provisions line and the first half of the note in the related_provisions field (up to 'Tran v. College of Physicians & Surgeons 2017 ABQB 337') and the rest in the commentary field (to the title of 3.23, 'Stay of Decision', line 1724); nothing was dropped. The extraction interleaves columns and footnotes on pp.3-63 to 3-65, so many sentences are split across lines that are not adjacent (for example the sentence 'If the tribunal gives no transcripts, an affidavit describing the course of the hearing is proper' is printed in pieces at lines 1660 and 1674-1680); the wording is kept as printed and the order of the pieces was not repaired. (1) Defined Terms 'Court, enactment': the Appendix defines both ('Court' line 40688, 'enactment' line 40727). Related Provisions 'R.3.68(4) (striking out affidavits)': official 3.68(4)(a) lets the Court 'strike out all or part of an affidavit that contains frivolous, irrelevant or improper information' (agrees). (2) History note (p.3-62, line 1639): 'The May 2022 amendment adding paragraph (b.1)' agrees with the official amendment line 'AR 124/2010 s3.22;72/2022' and with (b.1) in the text; the gloss 'in effect largely seems to permit any evidence by the applicant' goes beyond (b.1), which permits 'an affidavit from any party to the application' (not any evidence, and from any party, not only the applicant) when the relief is other than certiorari or an order to set aside. (3) Statements read against the official text: 'Despite wide references to evidence in R.3.16, R.3.22 much limits the evidence admissible' agrees with 3.22 ('the following evidence only') and 3.16(2) ('affidavit or other evidence'); 'An examination's transcript cannot be considered at a judicial review hearing, without the court's permission' agrees with 3.22(b) and 3.21; 'Rules 6.8 and 6.11(1)(g) do apply to motions for judicial review' - official 6.8 is 'Questioning witness before hearing' and official 6.11(1)(g) is oral evidence with the Court's permission; 'Under Rr.3.8(2), 13.18, judicial review is final, not interlocutory' and 'the need for \"source\" and \"grounds\" in an affidavit': official 13.18(2) requires the source of the information and 13.18(3) personal knowledge for an application that may dispose of all or part of a claim; the current 13.18(1)-(3) does not use the word 'grounds' (it says 'information known to the person swearing the affidavit and that person's belief'). (4) Pointers: 'See R.3.21' and 'R.3.21n.' land (3.21 and its note); 'a return under Rr.3.19 and 3.20' lands; 'C.P.E., Chapter 79, Part Q.5' points to another work; 'R.3.16' lands. (5) Other rules' pointers to this rule: 3.15 note p.3-44 (line 1088) 'See further R.3.22 and notes to it', p.3-52 (line 1372) 'On which evidence is admissible, see R.3.22', 3.16 note p.3-55 (line 1463) 'On \"the evidence\", see R.3.22n.' and 3.21 note p.3-62 (line 1630) 'See also R.3.22n., infra' all land. Book A's R.4.31 note (combined_rule4.txt, p.4-74, line 3836) says 'On a defendant participating in or contributing to the delay in the suit, see new R.3.22(b.1)' and that 'The May 2022 amendment adds a new topic ... whether the applicant (defendant) \"participated in or contributed to\" the delay': the words 'participated in or contributed to the delay' are in official 4.31(3) (also amended by 72/2022: 'AR 124/2010 s4.31;140/2013;72/2022'); official 3.22(b.1) is about affidavits on judicial review, so '3.22(b.1)' in that note looks like a slip for 4.31(3) (evidence: official 4.31(3) text and the R.4.31 note's own words). (6) Citations: 'Univ. of Alta. v. Info. & Privacy Comm'r. 2011 ABQB 699, 528 AR 58' (p.3-63, line 1672) - Book B prints the same case as '2011 ABQB 699, 2011 CarswellAlta 2050, 525 A.R. 58' (528 v. 525 AR; not decided here); '... & Surgeons (#_) 2019 ABQB 582, JCE 1803 01472 (Jul 31)' has a blank '#_' placeholder (p.3-63, line 1667; the name 'Makis v. College of Physicians' is printed at line 1674); 'White v. W.C.B. Appeals Comm. 2006 ABQB 359, 400 AR 183' (Book B gives 57 Alta. L.R. (4th) 282, 41 Admin. L.R. (4th) 141 and no AR); 'Operative Plasterers' ... v. R. 2007 ABQB 34, 413 AR 184' agrees with Book B's 3.19 commentary; 'Alta. Liquor Store Assn. v. Gaming & Liquor Comm. 2006 ABQB 904, 406 AR 104' agrees with Book B and the 3.15 note; 'Dodd v. Regis. of Motor Vehicle Serv. 2010 ABQB 184, 500 AR 194' agrees with Book B's neutral citation; 'Oleynik v. Univ. of Calg.' appears as '(#1) 2013 ABCA 105, 66 Alta LR(5th) 136, affg 2012 ABQB 189' and '2023 ABKB 43' here and '2023 ABCA 265' in the 3.15 note. (8) Corrected in the 3.23 pass: the last pieces of the 3.22 record (p.3-65 lines 1714-1722: Zarysky and Garcia-Ahmad on public safety; footnote 5 Dhillon and Alta. Turkey Producers v. Leth (#2) on a stay; footnote 6 Johnston, Skydive Ranch, Sturt, Akinnawonu; the driving-suspension irreparable-harm sentence) are 3.23's stay note printed before 3.23's title; and 3.23's built record holds 3.22's hearsay paragraph with footnotes 1-2 (Westfair Foods, Oleynik 2023 ABKB 43). (7) Statements of law and the cases were not checked; the first-half text 'Abuse of process, inadmissibility, immunity (non-compellability), absence of relevance, and a bar on fishing, all limit or bar the right to use them' is Book A's summary."
+    },
+    "BOOK_B": {
+      "title": "Evidence on judicial review",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.22:1",
+          "text": "Rule 3.22 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.22. 1. New Evidence In University of Alberta v. Alberta (Information & Privacy Commissioner), 2011 ABQB 699, 2011 CarswellAlta 2050, 525 A.R. 58, Lee, J. discussed the topic of putting new evidence before a court conducting a judicial review. At paragraphs 14–23, his Lordship said: 14 Finally, Alberta jurisprudence has clearly set out a more restrictive approach to admitting new documents and evidence in a judicial review. Alberta case law clearly establishes that additional evidence is only admissible in judicial review in limited situations. Slatter J, as he then was, noted in Alberta Liquor Store Assn v. Alberta (Gaming and Liquor Commission), 2006 ABQB 904 at para. 40: The general rule is that judicial review is conducted based on the Return filed by the tribunal. Neither Rule 406 nor Rule 753.08 require an affidavit in support. The record before the tribunal is generally the record before the Court, and additional affidavits and evidence are exceptional: White v. Alberta (Workers' Compensation Board Appeals Commission), 2006 ABQB 359, 57 Alta. L.R. (4th) 282, 41 Admin. L.R. (4th) 141, at para. 35. 15 Slatter J then went on to note the limited instances where supplementary evidence may be allowed: a. to show bias, or a reasonable apprehension of bias, if the facts in support of the allegation do not appear on the record. b. to demonstrate a breach of the rules of natural justice not apparent from the record, c. to address issues like standing; d. where the tribunal makes no, or an inadequate, record of its proceedings, affidavits are permissible to show what evidence was actually placed before the tribunal; (sic) 16 Slatter J. then quoted S. Blake in Administrative Law in Canada, (4th ed.), at pg. 198: Only material that was considered by the tribunal in coming to its decision is relevant on judicial review. It is not the role of the court to decide the matter anew. The court simply conducts a review of the tribunal decision. For this reason, the only evidence that is admissible before the court is the record that was before the tribunal. Evidence that was not before the tribunal is not admissible without leave of the court. If the issue to be decided on the application involves a question of law, or concerns the tribunal's statutory authority, the court will refuse leave to file additional evidence. Evidence challenging the wisdom of the decision is not admissible. The tribunal's findings of fact may not be challenged with evidence that was not put before the tribunal. Fresh evidence, discovered since the tribunal made its decision, is not admissible on judicial review. … (footnotes omitted). (Emphasis added) 17 Slatter J concluded (at para. 42) that: Attempting to introduce fresh evidence respecting the merits of the challenged decision on an application for judicial review misapprehends the nature of judicial review. 18 This general rule is necessary given the nature of judicial review. In judicial review, the tribunal's decision is not subject to appeal, but to a determination of whether the decision meets the requisite standard of review. The judge on review is looking at the tribunal's reasons to determine whether, based on the evidence before the tribunal, it reached a rational decision (reasonableness standard) or a correct decision (correctness standard). Slatter J addressed this point (at para. 43):— Whatever the standard of review, the review must be conducted on the record that the tribunal had … Whether there is a rational basis for the decision can only be determined by examining the evidence the tribunal had to work with: Western Canada Wilderness Committee v. British Columbia (Ministry of Forests, South Island Forest District)[2002] B.C.J. No. 2036, supra, at paras. 32-33; Alberta Union of Provincial Employees v. Alberta (Provincial Health Authorities), [2006] A.J. No. 1480, 2006 ABCA 356, at para. 18; Memorial University of Newfoundland v. Canadian Union of Public Employees, Local 1615 (2000), 194 Nfld. & P.E.I.R. 190, at para. 9, 29 Admin. L.R. (3d) 100 at para. 63; CAIMAW, Local 14 v. Paccar of Canada Ltd., [1989] 2 S.C.R. 983, at para. 43 (Sopinka J. concurring.) … Whether a decision is reasonable is not a search for some sort of universal truth: Ryan, [2003] 1 S.C.R. 247, supra, at para. 51. Any tribunal or court can only work with the evidence before it, and a decision may well prove to be reasonable, even though it can arguably be shown to be factually flawed. It follows that new evidence relating to the merits of the decision will seldom be admissible, as it is irrelevant to the issues before the court on judicial review. (Emphasis added) 19 Slatter J also rejected the submission that the test for new evidence in judicial review was that set out in R v. Palmer, [1980] 1 SCR 759. Palmer concerned fresh evidence in an appeal. He noted (at para. 44):— … the analogy between the two types of proceedings [judicial review and appeal] is inapt. When an application for judicial review is brought, all of the evidence is “fresh”, in the sense that there is no evidence on the record of the Court prior to the commencement of the application, and there is no prior record to “refresh”… It, however, confuses the entire concept of judicial review to suggest that evidence that was not before the tribunal can be brought forward on judicial review simply because it is “fresh” within the Palmer rule. Such evidence can never be “decisive” of the application, because the issues are different. The Board had to decide whether to grant a retail liquor license. The Court has to decide whether the granting of the license meets the appropriate standard of review, and complies with the rules of natural justice. The Court does not decide whether the license should have been granted, and it is not helpful to say that the new evidence will be “decisive” in this context. On the other hand, evidence might be admitted on judicial review even if it is not “decisive” of anything previously decided. For example, if subsequently obtained evidence shows a reasonable apprehension of bias, it might well be admitted on judicial review. Such evidence is not decisive of any issue that the Board has previously decided, but it is a valid ground for judicial review. I therefore conclude (contrary to my earlier assumption in White v. Alberta (Workers' Compensation Board), supra, at para. 34) that the Palmer test for fresh evidence on appeal has no application in this context. 20 Similarly here, the Court is not to decide whether documents sought were within the custody and control of the University of Alberta; the Court's role is to determine whether the Adjudicator's decision met the requisite standard of review and complies with the principles of natural justice and the duty to be fair. 21 Perhaps most importantly, Slatter J noted (at para. 46):— Whenever it may be appropriate to file affidavits on judicial review applications one thing is clear: the applicants are not entitled to turn the judicial review application in a trial de novo on the merits of the issue before the tribunal. Here, the Applicants are entitled to show that the Board was incorrect, unreasonable, or patently unreasonable, depending on the ultimate standard of review that is selected. They are not however entitled to ask the Court to usurp the jurisdiction of the Board, and decide de novo … (Emphasis added) 22 These issues were also considered in Dodd v. Alberta (Registrar of Motor Vehicle Services), 2010 ABQB 184 where the Court noted at paras. 16 -17:— The relevance of evidence on a judicial review application depends on the grounds for review that have been alleged: Dechant v. Law Society of Alberta, [2000] A.J. No. 1163, at para. 17. For example, where the grounds are bias or reasonable apprehension of bias, or breach of natural justice, the relevant circumstances may not appear on the record and evidence relating to these issues will be admitted … Evidence is also admissible on a judicial review application where the record of proceedings is inadequate, in which case evidence may be admitted to “show what evidence was actually placed before the tribunal”… 23 See also 979899 Alberta Ltd. v. Alberta, 2008 ABQB 57 at para. 5; 1254582 Alberta Ltd. (c.o.b. Airport Taxi Service) v. Miscellaneous Employees Teamsters, Local Union 987 of Alberta, 2009 ABQB 127 at paras. 26 and 27; McClary v. Geophysical Services Inc., 2011 ABQB 112 at paras. 23 to 26; O'Malley v. Calgary Separate School District No. 1, 2006 ABQB 126 at para. 9; and Czerwinski v. Mulaner, 2007 ABQB 536 at paras. 21 and 22. In Caron v. Alberta (Human Rights Commission, Chief Commissioner), 2013 ABQB 13, 2013 CarswellAlta 2955, 551 A.R. 355, Madam Justice Moreau, in referring to Rule 3.22, said, at paragraphs 24–26: 24 Slatter J. (as he then was) discussed the equivalent rule in Alberta Liquor Store Assn v. Alberta (Gaming and Liquor Commission), 2006 ABQB 904, 406 AR 104, paras 40 to 42. He concluded that a reviewing court is bound by the record which was before the tribunal whose decision is being reviewed. The admission of new evidence on a judicial review is exceptional, for example, to demonstrate bias. See also Sarg Oils Ltd v. (Alberta) Environmental Appeal Board, 2007 ABCA 215, 75 Admin LR (4th) 314, para 15; Silverman v. Alberta (Human Rights Commission), 2012 ABQB 152, paras 9 to 14. 25 Slatter J. commented in Alberta Liquor Stores: 46 Whenever it may be appropriate to file affidavits on judicial review applications one thing is clear: the applicants are not entitled to turn the judicial review application[into] a trial de novo on the merits of the issue before the tribunal … 26 In other words, the main purpose of judicial review is to review a decision, not to replace the decision with that of the reviewing court. See also Bauhuis v. Association of Professional Engineers and Geoscientists, 2024 ABKB 603 at paragraphs 24-25. 2. When is permission required? In Dr. Mays Abdulghafoor v. University of Calgary, 2021 ABQB 187, 2021 CarswellAlta 617, Justice Jeffrey said: [63] The wording of Rule 3.22(d) says the court's permission is required before questioning, if a transcript of such questioning is intended to be used at the judicial review hearing (“no one may be questioned … without the Court's permission”). Under Rule 3.22, however, the Court's permission is only required before the Court considers the additional evidence; it does not appear that the permission must precede the preparation, swearing, filing, service or even a party's reliance upon the evidence, only before the Court considers it. Prudent practice would dictate, of course, a party request the Court's permission before relying on the added evidence, since reliance suggests they commend it to the Court for its consideration. … [65] Rule 3.22(d) provides the Court broad discretion to permit supplementary evidence on judicial review. When the merits of a decision are challenged, the reviewing Court considers just the information before the decision maker; when the challenge is to the process followed by the decision maker, it may be necessary to permit additional evidence: Bergman v Innisfree (Village), 2020 ABQB 661 paras 41 to 48. The limited circumstances under which supplementary information may be permitted include (Bergman, at para 45): a) to address standing; b) to show bias or a reasonable apprehension of bias where the facts in support of the allegation do not appear on the record; c) to demonstrate a breach of the rules of natural justice not apparent on the record; d) to reveal the evidence actually placed before the decision maker where the decision maker provided an inadequate or no record of its proceedings."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_22_001",
+        "part3_part_3_court_actions_018",
+        "part3_rule_3_22_002",
+        "part3_part_3_court_actions_020"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "7c9878864ed468c9d6b4bed2642ed4ca289972515ca78234caed17bc4b4573b2",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Evidence on judicial review",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "6d9e08a9c4a3dd3f6f41078d612ce5a6d1378bb8b989c3817c5fe330fb314ec6",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 3.22 limits the type of evidence that can be submitted on an originating application for judicial review. Telecommunications Workers Union v. Telus Communications Inc., [2016] A.J. No. 170, 2016 ABQB 106 at para. 5 (Alta. Q.B.). See also, Eastern Irrigation District v. Alberta (Irrigation Council Appeal Panel), [2019] A.J. No. 1385, 2019 ABQB 809 at paras. 29 30 (Alta. Q.B.). ‐ The general rule is that the court considers the same record that was before the tribunal; judicial review is not a trial . de novo  University of Alberta (Governors) v. Alberta (Information and Privacy Commissioner), [2011] A.J. No. 1303, 2011 ABQB 699 at paras. 14-18 (Alta. Q.B.). See also, Allergan Inc. v. Alberta (Minister of Justice and Solicitor General), [2019] A.J. No. 1073, 2019 ABQB 610 at para. 50 (Alta. Q.B.). The use of additional affidavit evidence before the reviewing judge is exceptional. Reinink v. Alberta (Labour Relations Board), [2022] A.J. No. 1246, 2022 ABCA 343 at para. 12 (Alta. C.A.); see also , [2023] A.J. No. 987, 2023 ABCA 265 at para. Oleynik v. University of Calgary 7 (Alta. C.A.). Important evidence that could not have been led before the initial decision-maker upon an exercise of reasonable diligence is not, for that reason, admissible as new evidence on judicial review. Metis Nation of Alberta Assn. v. Alberta, [2021] A.J. No. 500, 2021 ABQB 282 at para. 89 (Alta. Q.B.); see also , [2019] A.J. No. 1167, 2019 ABCA 316 at para. 60 (Alta. C.A.); JK v. Gowrishankar Reinink v. Alberta (Labour Relations Board), [2022] A.J. No. 1246, 2022 ABCA 343 at para. 12 (Alta. C.A.). There are limited circumstances where courts consider additional evidence. These circumstances include allowing evidence: (1) that shows bias or a reasonable apprehension of bias; (2) that will help demonstrate the grounds of the application because it is not apparent on the record that there was a breach of natural justice; (3) because there is an issue of standing; (4) because the tribunal has no record or an insufficient record of the proceedings; (5) to address standing; or, we suggest more rarely (6) to provide background information to assist the court in understanding the issues or to provide opinion evidence on technical matters. (Alta. Q.B.).\n[2012] F.C.J. No. 93, 2012 FCA 22 at para. 20 (F.C.A.); Telecommunications Workers Union v. Telus Communications Inc.\nAlberta Liquor , [2016] A.J. No. 170, 2016 ABQB  TLA Food Services Ltd. v. 1144707 Alberta Ltd., [2011] A.J. No. 975, 2011 ABQB 550 at para. 50 (Alta. Q.B.). at para. 7 (Alta. Q.B.), citing Store Assn. v. Alberta (Gaming and Liquor Commission), [2006] A.J. No. 1597, 2006 ABQB 904 at",
+          "citations": [
+            {
+              "neutral_citation": "2016 ABQB 106",
+              "style_of_cause": "Telecommunications Workers Union v. Telus Communications Inc."
+            },
+            {
+              "neutral_citation": "2019 ABQB 809",
+              "style_of_cause": "Eastern Irrigation District v. Alberta (Irrigation Council Appeal Panel)",
+              "note": "printed 'Eastern Irrigation District v. Alberta (Irrigation Council Appeal Panel), [2019] A.J. No. 1385, 2019 ABQB 809 at paras. 29 30': the built name stopped at 'Alberta'"
+            },
+            {
+              "neutral_citation": "2011 ABQB 699",
+              "style_of_cause": "University of Alberta (Governors) v. Alberta (Information and Privacy Commissioner)",
+              "note": "printed 'University of Alberta (Governors) v. Alberta (Information and Privacy Commissioner), [2011] A.J. No. 1303, 2011 ABQB 699 at paras. 14-18': no name was built"
+            },
+            {
+              "neutral_citation": "2019 ABQB 610",
+              "style_of_cause": "Allergan Inc. v. Alberta (Minister of Justice and Solicitor General)",
+              "note": "printed 'Allergan Inc. v. Alberta (Minister of Justice and Solicitor General), [2019] A.J. No. 1073, 2019 ABQB 610 at para. 50': the built name stopped at 'Alberta'"
+            },
+            {
+              "neutral_citation": "2022 ABCA 343",
+              "style_of_cause": "Reinink v. Alberta (Labour Relations Board)",
+              "note": "printed 'Reinink v. Alberta (Labour Relations Board), [2022] A.J. No. 1246, 2022 ABCA 343 at para. 12 (Alta. C.A.)' twice"
+            },
+            {
+              "neutral_citation": "2023 ABCA 265",
+              "style_of_cause": "Oleynik v. University of Calgary",
+              "note": "printed 'see also , [2023] A.J. No. 987, 2023 ABCA 265 at para. Oleynik v. University of Calgary 7 (Alta. C.A.)': the name is displaced after 'para.' (para. 7); the built name 'Reinink v. Alberta' was wrong; Book A's 3.15 note cites it as 'Oleynik v. Univ. of Calg. 2023 ABCA 265'"
+            },
+            {
+              "neutral_citation": "2021 ABQB 282",
+              "style_of_cause": "Metis Nation of Alberta Assn. v. Alberta"
+            },
+            {
+              "neutral_citation": "2019 ABCA 316",
+              "style_of_cause": "JK v. Gowrishankar",
+              "note": "printed 'see also , [2019] A.J. No. 1167, 2019 ABCA 316 at para. 60 (Alta. C.A.); JK v. Gowrishankar Reinink v. ...': the name 'JK v. Gowrishankar' stands after the citation in the gap left by 'see also ,'; the built name 'Metis Nation of Alberta Assn. v. Alberta' was wrong (the Metis case is 2021 ABQB 282)"
+            },
+            {
+              "neutral_citation": "2011 ABQB 550",
+              "style_of_cause": "TLA Food Services Ltd. v. 1144707 Alberta Ltd.",
+              "note": "printed 'TLA Food Services Ltd. v. 1144707 Alberta Ltd., [2011] A.J. No. 975, 2011 ABQB 550 at para. 50 (Alta. Q.B.)': no name was built"
+            },
+            {
+              "neutral_citation": "2006 ABQB 904",
+              "style_of_cause": "Alberta Liquor Store Assn. v. Alberta (Gaming and Liquor Commission)",
+              "note": "printed 'Alberta Liquor , ... citing Store Assn. v. Alberta (Gaming and Liquor Commission), [2006] A.J. No. 1597, 2006 ABQB 904 at': 'Alberta Liquor' is displaced to the previous line; Book A and Book B print 'Alberta Liquor Store Assn.'; the built name was 'Store Assn. v. Alberta'"
+            }
+          ],
+          "review_flag": "(1) The commentary is one item (the raw text is interleaved: two lines after 'ABQB 106' hold displaced pieces). It begins 'Rule 3.22 limits the type of evidence that can be submitted on an originating application for judicial review' (agrees with the official 'the following evidence only'). (2) The list of circumstances is printed with 'standing' twice, as '(3) because there is an issue of standing' and '(5) to address standing' (Book A and Book B list standing once); item (6) 'to provide background information ... or to provide opinion evidence on technical matters' is preceded by 'or, we suggest more rarely' (Book A's note allows 'a limited amount of background information merely to orient the reviewing court'). (3) Pieces are displaced: the FCA citation '[2012] F.C.J. No. 93, 2012 FCA 22 at para. 20 (F.C.A.)' has no case name in the file; 'Telecommunications Workers Union v. Telus Communications Inc. ... [2016] A.J. No. 170, 2016 ABQB [ ] at para. 7' repeats the earlier citation (2016 ABQB 106, para. 5) with the number '106' lost; 'Alberta Liquor' is separated from 'Store Assn. v. Alberta (Gaming and Liquor Commission), [2006] A.J. No. 1597, 2006 ABQB 904'; the text stops at 'ABQB 904 at' (page end). (4) The neutral citations that Book A or Book B also print agree (2016 ABQB 106 with Book A's 'Telecom. Workers U. v. Telus Comm'ns.'; 2011 ABQB 699; 2006 ABQB 904; 2021 ABQB 282 (Métis Nation, also in Book A's 3.21 note); 2023 ABCA 265 (Oleynik, also in Book A's 3.15 note)). The citation names were rebuilt from the pieces (see the citation notes)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): the lead-in stops after 'the Court may consider the' and the words 'following evidence only: (a) the certified copy of the record of proceedings of the person or body that is the subject of the application, if any; (b) if questioning was permitted under rule 3.21,' are missing; the bracket label '[Limit on questioning]' stands in their place, followed by the tail of (b) 'a transcript of that questioning;'. Paragraphs (b.1), (c) and (d) equal the official text. The amendment note '[Alta. Reg. 124/2010, r, 3.22 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta. Reg. 72/2022 (Alta. Gaz. May 31, 2022]' agrees with the official 'AR 124/2010 s3.22;72/2022' (printed 'r, 3.22' and without the closing parenthesis after '2022')."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.22 lead-in and (a), (b), (b.1), (c), (d) (read by eye) except the bracket label '[Limit on questioning]' after 'rule 3.21' (matches the official title of 3.21), the title in title case ('Evidence on Judicial Review'), missing spaces and '*' line marks. The amendment bracket '[Alta.Reg.124/10;72/22]' agrees with the official 'AR 124/2010 s3.22;72/2022'. No substantive difference. The Defined Terms ('Court, enactment') and Related Provisions ('R.3.68(4) (striking out affidavits)') follow the rule text; the note that follows them is inside the built related_provisions and commentary fields (nothing dropped)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.8152,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.22",
+      "title_official": "Evidence on judicial review"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "312ee0e3fc950b647f6838572f5824738ce03be721930b60f550216d89e4f766",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-62",
+            "3-65"
+          ],
+          "offset_in_clean_text": [
+            194607,
+            206037
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "7c9878864ed468c9d6b4bed2642ed4ca289972515ca78234caed17bc4b4573b2",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "6d9e08a9c4a3dd3f6f41078d612ce5a6d1378bb8b989c3817c5fe330fb314ec6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "9f32ac336aff35577b1c45816c76d618c9307943f7c3a2db65209b76dd67a3d5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            58
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "8c07536bf2c80a35610edd23a186110502cca161893beaed345e43b770d064f1"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): no Book B file other than rule3_part02_document.json cites 3.22 by number; no Book C file other than its own 3.22 entry (121-140 file). BOOK_B 3.22: rule text (paragraph part3_part_3_court_actions_018) EXACT_MATCH with the official; amendment note 'Alta. Reg. 72/2022, s. 2' agrees with 'AR 124/2010 s3.22;72/2022'; one commentary section 'Commentary § 3.22:1' (11,811 characters, READ IN FULL): two numbered parts, no gap: 1 New Evidence (University of Alberta v. Alberta (Information & Privacy Commissioner), 2011 ABQB 699, quoting Slatter J. in Alberta Liquor Store Assn v. Alberta (Gaming and Liquor Commission), 2006 ABQB 904, and Caron v. Alberta (Human Rights Commission, Chief Commissioner), 2013 ABQB 13), 2 When is permission required? (Abdulghafoor v. University of Calgary, 2021 ABQB 187, quoting Bergman v Innisfree (Village), 2020 ABQB 661). Cautions: part 2 quotes Jeffrey J.: 'The wording of Rule 3.22(d) says the court's permission is required before questioning, if a transcript ... (\"no one may be questioned ... without the Court's permission\")' - those quoted words are the sense of official 3.21 ('no person may be questioned as a witness ... without the Court's permission'), not 3.22(d) ('any other evidence permitted by the Court'), and the quotation says 'no one' where the official 3.21 says 'no person' (quoted as printed in the judgment); part 1 refers to the former 'Rule 406' and 'Rule 753.08'; Book B prints Univ. of Alta. as '525 A.R. 58', Book A as '528 AR 58'. BOOK_C 3.22: rule text CARRIER_MISSING_TEXT (lead-in and (a), first part of (b) missing; dropped with note); amendment note agrees with the official; commentary kept with a flag and ten citation names rebuilt.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers; the citing rule from the marker lines): 3.15 note p.3-44 (line 1088, note E.8 Evidence) 'See further R.3.22 and notes to it' and p.3-52 (line 1372) 'On which evidence is admissible, see R.3.22' (both land: 3.22's note is the evidence note); 3.16 note p.3-55 (line 1463) 'On \"the evidence\", see R.3.22n.' (lands); 3.21 note p.3-62 (line 1630) 'See also R.3.22n., infra' and 'See Apotex v. R., R.3.22n., infra' (land; full cite in the 3.22 note, p.3-64, line 1689); combined_rule4.txt p.4-74 (line 3836), R.4.31 note: 'On a defendant participating in or contributing to the delay in the suit, see new R.3.22(b.1), and the commentary on it near the end of Part B above' (does not land: the words 'participated in or contributed to' are in official 4.31(3); see the flag); no other Book A file cites 3.22 (the hits in combined_rule13.txt are rule 13.22).",
+    "OFFICIAL text (searched for '3.22' and 'rule 3.22', 'rules 3.22', lists, line-wrapped forms and form headings): no other official rule cites 3.22 by number (hits: the table of contents, its own heading and the running page header 'Rule 3.22'; '13.22' is a different rule); no form heading names it. By subject (read): 3.21 (questioning; permission), 3.19 and 3.20 (certified record), 3.16(2) and 3.15(5) (affidavit or other evidence), 3.8(2) (affidavit confined to), 3.68(4)(a) (striking out affidavits), 6.8 and 6.11(1) (evidence and questioning at applications), 13.18 (affidavits), 4.31(3) (participated in or contributed to the delay: amended by the same AR 72/2022)."
+  ],
+  "dedupe_log": [
+    "3.22 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.22 BOOK_C citation context dropped (2016 ABQB 106): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2019 ABQB 809): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2011 ABQB 699): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2019 ABQB 610): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2022 ABCA 343): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2023 ABCA 265): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2021 ABQB 282): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2019 ABCA 316): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2011 ABQB 550): verbatim in kept text",
+    "3.22 BOOK_C citation context dropped (2006 ABQB 904): verbatim in kept text",
+    "3.22 BOOK_C commentary sentence split dropped",
+    "3.22 BOOK_C: rule text dropped (manual review)",
+    "3.22 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.22 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.22 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

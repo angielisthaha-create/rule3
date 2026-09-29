@@ -1,0 +1,365 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.23",
+  "title": {
+    "official": "Assistance before the Court",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Representation or Assistance Before the Court"
+  },
+  "operative_text": {
+    "controlling": "2.23(1)  The Court may permit a person to assist a party before the\nCourt in any manner and on any terms and conditions the Court\nconsiders appropriate.\n(2)  Without limiting subrule (1), assistance may take the form of\n(a) quiet suggestions,\n(b) note-taking,\n(c) support, or\n(d) addressing the particular needs of a party.\n(3)  Despite subrule (1), no assistance may be permitted\n(a) that would contravene section 106(1) of the Legal\nProfession Act,\n(b) if the assistance would or might be disruptive, or\n(c) if the assistance would not meet the purpose and intention\nof these rules.\n(4)  This rule does not affect the discretion of the Court, subject to\nany limits imposed under the Legal Profession Act, to grant a right\nof audience to any agent, other than a lawyer, to speak on behalf of\nan individual or corporation.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "3abfbaa7ba0a135effedddf689b9cc9b3f21b713b65ea6a2d8b4f66dec1fbb13"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s2.23;36/2020",
+    "amending_regulations": [
+      "36/2020"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;36/20]"
+      ],
+      "BOOK_B": "Alta. Reg. 36/2020, s. 2",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 36/2020, s.  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. effective May 26,  ABCA 169 at para. 15 (Alta. C.A.); PurpleRung Foundation v. Peace River (Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014, 2020 ABCA 341 at paras. 11-12 (Alta. C.A.); Vizor v. 383501 Alberta Ltd. (c.o.b. Val Brig Equipment Sales), [2022] A.J. No. 6, 2022 ABQB 5 at para. (Alta. Gaz. April 15, 2020)]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "garbled: Book C's case list for 2.23 was extracted into this note. Readable facts: amended by Alta. Reg. 36/2020 (agrees with official), 'effective May 26' (year cut off), gazetted April 15, 2020."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          44,
+          45
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Assistance Before the Court",
+      "operative_text_raw": null,
+      "operative_text_sha256": "6b82261af2f80673eb743fa3762a86a7e9e7c105c089dab1bcf48c107d517d90",
+      "related_provisions": "1.1(2) (rules bind all parties) ; 2.22 (self-representation).",
+      "commentary": "A. Basic Law\nThe 2020 amendment to this Rule (new subrule 4) is designed to restore the court's discretion\nto let a non-lawyer have a right of audience in suits involving other persons, but always subject to\nthe limits imposed by the Legal Profession Act.\nThe 2020 amendment was said to give judges a discretion to let a non-lawyer represent a\ncorporation with which he or she is connected, but such a non-lawyer cannot represent another\nperson in respect of legal matters generally.¹\nOn the limits on representation by a non-lawyer, see also the Legal Profession Act, s.106.\nSomeone not called to the Bar of Alberta or a reciprocating province or territory, formerly could\nnot be allowed to appear as counsel in court, even if he or she did not charge a fee.²\nAn adult\nparty not under a disability can be helped by a non-lawyer, but that person cannot speak for or\nrepresent that party.³\nThe court could at one time let a non-lawyer agent appear and argue orally for someone else;\nit cannot let him prepare documents.⁴\nBut the 2010 amendments to the Rules of Court end that\nright of agents, and it has always contravened the Legal Profession Act.⁵\nA company cannot be\nrepresented by one of its ofﬁcers if he is not a lawyer.⁶\nThe Court of King’s Bench has a duty to\nprevent such conduct before it, especially repeatedly and for pay.⁷\nA party who is a human being\ncan represent himself and ﬁle documents prepared by anyone. The contract hiring a non-lawyer\nto do a lawyer’s work is void, but the documents produced under it ﬁled in court and the resulting\nsuit, are not nullities.⁸\n\nRule 2.23(4) does not let a non-lawyer run a trial for someone else, even for a company which\nthe individual owns. He incorporated the company and must live with the consequences of its\nseparate personality, and the court had repeatedly told him to get a lawyer.¹\nWhere the law does not let a non-lawyer represent another (even his own company) before\nthe courts, the Court may refuse to consider his appearance or purported appeal.²\nBut federal\nlegislation on a federal topic may allow a non-lawyer to act as a paid advocate under that legislation.\nA judge can prevent an abuse of process.\nB. Policy\nLetting non-lawyers act as advocates for others does not advance justice, and legislation\nforbidding that is wise.³\nCourts have forbidden those with insufﬁcient ability or obedience to the\ncourt, to represent others.⁴\nC. Miscellaneous\nSubrule (2) is about “McKenzie friends”, on whom also see R.2.22 n. F.\nA non-lawyer ﬁled various documents claiming to represent parties in the suit, despite an\nearlier ruling that he could not represent these parties. Nor could he force counsel for other parties\nto prove their authority. These documents were rejected, and the Clerk was directed to refuse at\nthe counter any more papers the non-lawyer tendered relating to this action, and to ignore any\narriving by other means.⁵\nAny party to a suit can be heard on the question of whether his or her opponent is using an\nimproper representative such as an unadmitted (uncalled) barrister.⁶\n\nUnless there is an express exception in the Legal Profession Act or the court exercises\nits discretion, a representative of a party under a disability needs a lawyer to represent the\nrepresentative. The old law on that subject continues under the new Rules. It would be pointless\nto appoint a litigation representative when the whole aim was to litigate without a lawyer.¹\nThe Workers’ Compensation Board and Appeals Commission did not tell the litigant that he\nhad to serve within 6 months, but employers always have to be so served, so there was no legal\nobligation to tell him that, though in future it might be a good idea to do so. Self-represented\nlitigants are presumed to know the law. And this time limit cannot be extended or waived by the\ncourt.²\nThe Criminal Code restricts the use of an agent where a person is liable, on summary\nconviction, to imprisonment for a term of more than six months, unless the agent is authorized\nunder an approved program.³",
+      "footnotes": [
+        {
+          "page": "2-47",
+          "number": 1,
+          "text": "Van Vuong Tai Hldg. v. Min. of Justice 2020 ABCA 169, Edm 1903 0105 AC (May 1) (¶ 15)."
+        },
+        {
+          "page": "2-47",
+          "number": 2,
+          "text": "Lameman v. R. (Alta. ) 2012 ABCA 59, 522 AR 140. But cf. dicta in R. v. Crooks 2011 ABCA 239, 510 AR 364 (one JA)."
+        },
+        {
+          "page": "2-47",
+          "number": 3,
+          "text": "Nahirney v. Ogilvie & Co.2011 ABQB 586, 525 AR 14; Bus. Dev. Bank of Can. v.1959980 Alta. (M) 2018 ABQB 189, JCE 1703 13509 (Mar 14)."
+        },
+        {
+          "page": "2-47",
+          "number": 4,
+          "text": "Bus. Dev. Bank v.1959980 Alta. , supra. See Pacer Ent. v. Cummings 2004 ABCA 28, 346 AR 161 (giving some criteria) ; but cf. Fortin v. Chrétien, supra; and cf. Ostrowski v. Ward 2004 ABCA 188, and cf. Landmass Dirtworx v. Prairie, infra. It seems to be implied that whether to allow a lawyer to represent a company in which he has a big interest or is the “leading actor” is discretionary and is allowed a good deal of deference on appeal: Beacon Hill Service (2000) v. Esso Petr. Can.2012 ABCA 269, 536 AR 221, affg 2011 ABQB 138."
+        },
+        {
+          "page": "2-47",
+          "number": 5,
+          "text": "908077 Alta. v.1313608 Alta.2015 ABQB 108, 610 AR 270 (¶’s 23, 26-29, 25, 39-49) ; Park Ave. Flooring v. EllisDon Constr. Serv.2016 ABCA 211, 2 CPC(8th) 212 (one JA Jul 4) ; Real Est. Strategies Grp. v. Prairie Communities Corp.2016 ABCA 286, 3 CPC(8th) 284 (one JA Sep 26). Whether the 2020 amendment to R.2.23(4) changes that again, must be considered now."
+        },
+        {
+          "page": "2-47",
+          "number": 6,
+          "text": "908077 Alta. v.1313608 Alta.2015 ABCA 117, [2015] 8 WWR 310, 20 Alta LR(5th) 430 (one JA) ; Landmass Dirtworx v. Prairie Mtn. Constr.2015 ABQB 362, 618 AR 270. A Master criticized such decisions, in Nat. Leasing Grp. v. Acme Ent. (M) 2015 ABQB 631, JCE 1403 03713 (Oct 8). But cf. Jin v. Ren 2014 ABQB 250, JCE 0703 07538 (Apr 28)."
+        },
+        {
+          "page": "2-47",
+          "number": 7,
+          "text": "Tican v. Alamgir 2022 ABKB 843, JCC 2001 14447 (Dec 14) (¶’s 25 ff. )."
+        },
+        {
+          "page": "2-47",
+          "number": 8,
+          "text": "Fortin v. Chrétien (Barreau du Qué. ), supra."
+        },
+        {
+          "page": "2-48",
+          "number": 1,
+          "text": "Debut Devs. v. Redcliff (Town) 2022 ABKB 809, JCMH 1108 00105 (Dec 2) (¶’s 25-75)."
+        },
+        {
+          "page": "2-48",
+          "number": 2,
+          "text": "A defence ﬁled by a corporation through an ofﬁcer, with no lawyer, was struck out: Drucker v. KP Mfrs. (Calg. ) (M) 2006 ABQB 644, 399 AR 398. And see EXP Mining etc. v. Caterpillar Finl. Serv. , supra, R. 2.22n. But see the Legal Profession Act, R. S. A.2000, c. L-8, s.106(2) (j), which permits the preparation of legal documents by an ofﬁcer, but not an appearance in court?"
+        },
+        {
+          "page": "2-48",
+          "number": 3,
+          "text": "Lameman v. R. , supra. Note on the subject of rights of audience generally, the C. P. E. , Chapter 4, and Abrams and McGuinness, Canadian Civil Procedure Law, 184-91, 207-10 (2008) ; Fortin v. Chrétien (Barreau du Qué. ) 2001 SCC 45, [2001] 2 SCR 500. Cf. Hoff v. Gerk (1999) 252 AR 86, 40 CPC(4th) 206, 14 CBR(4th) 59, which discusses Part 1.1 generally. A company could not use an agent without proof of lack of funds: Cascade Pressure Serv. v. Gen. Motors of Can. (M) 2001 ABQB 928, 308 AR 192. An agent with a bad track record was barred, in Westmount Travel Assoc. v. Medquest (M) 2003 ABQB 301 (Apr 2). But cf. Wong v. Misericordia Hosp.1999 ABQB 579, 248 AR 249; 786372 Alta. v. Mohawk Can. (M) 2002 ABQB 785, 324 AR 192; Strilets v. Vicom Multimedia (#1) 2000 ABQB 598, 272 AR 376. In Québec, outside small-claims court, a non-lawyer cannot represent another person, even a close relative physically and mentally unable to represent himself properly: Bibaud (Boisvert) v. Régie de l’assurance maladie du Qué.2004 SCC 35, [2004] 2 SCR 3. Someone who was not a lawyer was not allowed, despite a power of attorney, to represent a practising dentist with a good education. Large amounts were involved. There did not appear to be any family or other relationship with the self-employed paralegal in business. This agent also sounded like a tax protester? Alta. Treas. Br. v. Klassen 2004 ABQB 463, 364 AR 230."
+        },
+        {
+          "page": "2-48",
+          "number": 4,
+          "text": "R. v. Main 2000 ABQB 56, 259 AR 163; Pobran-Jorgenson v. Grey Nuns (1997) 215 AR 197; Westmount Travel v. Medquest, supra; Balogun v. Pandher 2009 ABCA 409; del Valle v. N. W. T. Govt.2011 NWTCA 3, [2011] AR Uned 139 (Jun 20) ; Potts v. R.2011 ABQB 816, 528 AR 223. A company which ignored such an order had to pay costs, in Re Rahall (1997) 215 AR 145, 7 CBR(4th) 267."
+        },
+        {
+          "page": "2-48",
+          "number": 5,
+          "text": "Peddle v. Alta. Treas. Br.2004 ABQB 608; cf. Drucker v. KP Mfrs. , supra."
+        },
+        {
+          "page": "2-48",
+          "number": 6,
+          "text": "Lameman v. R. (Alta. ) 2012 ABCA 59, 522 AR 140 (Part H)."
+        },
+        {
+          "page": "2-49",
+          "number": 1,
+          "text": "Champagne v. Sidorsky 2012 ABQB 522, 548 AR 10; Nahirney v. Ogilvie & Co. , supra, R.2.13n."
+        },
+        {
+          "page": "2-49",
+          "number": 2,
+          "text": "Julien v. Appeals Comm’n. for W. C. B.2023 ABCA 81, Edm 2103 0275 AC (Mar 10)."
+        },
+        {
+          "page": "2-49",
+          "number": 3,
+          "text": "Criminal Code s.802.1. By O. C.334/2003, Alberta approved the following programs: articles by a student- at-law; Student Legal Services of Edmonton (SLS) ; Student Legal Assistance Association Society (Calgary) ; Calgary Legal Guidance; and the Criminal Court Worker Program. On criminal cases, see also Potts v. R. , supra; and R. v. Trudeau 2012 ABQB 14, 530 AR 336."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          2274,
+          2430
+        ],
+        "book_pages": [
+          "2-46",
+          "2-47",
+          "2-48",
+          "2-49"
+        ]
+      },
+      "operative_text_note": "same wording as official except (2)(a) and (b) end with ';' (official ','), plus bracketed labels and amendment bracket '[Alta. Reg.124/10;36/20]'. No substantive difference.",
+      "commentary_review_flag": "short-form cites checked (footnotes run 1-8 p.2-47, 1-6 p.2-48, 1-3 p.2-49). Direction wrong (Book A drafting): p.2-47 fn 4 and fn 8 'Fortin v. Chretien ... supra' - the full cite comes later, p.2-48 fn 3: Fortin v. Chretien (Barreau du Que.) 2001 SCC 45, [2001] 2 SCR 500. All others resolve correctly (Bus. Dev. Bank -> p.2-47 fn 3; Landmass infra -> fn 6; EXP Mining -> R.2.22 p.2-46 fn 2; Lameman -> p.2-47 fn 2; Westmount Travel -> p.2-48 fn 3; Drucker -> fn 2; Nahirney -> R.2.13; Potts -> p.2-48 fn 4). Case-name variant: fn 1 'Van Vuong Tai Hldg. v. Min. of Justice' 2020 ABCA 169 = BOOK_B 'Vuong Van Tai Holding v. Alberta (Minister of Justice and Solicitor General)' (same citation, same para 15); order of the first two words differs between the books - not resolved here."
+    },
+    "BOOK_B": {
+      "title": "Assistance before the Court",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.23:1",
+          "text": "Rule 2.23 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.23. 1. Inherent Jurisdiction In MD v. Alberta (Director of Child and Family Services), 2024 ABKB 565, Justice Feasby discussed the Court's inherent jurisdiction to permit laypersons to act as litigation representatives. Justice Feasby said: [15] The Legal Profession Act, RSA 2000, c L-8 s 106 provides that no person other than a lawyer who is a member of the Law Society of Alberta shall “act as a barrister or solicitor in any court of civil or criminal jurisdiction.” There are two exceptions to this prohibition. First, lawyers from most other provinces may appear in Alberta courts on a temporary basis pursuant to the National Mobility Agreement. Second, courts have the inherent jurisdiction to permit laypersons to act as litigation representatives: R v Dick, 2002 BCCA 27 at para 6 and 1985 Sawridge Trust v Alberta (Public Trustee), 2017 ABQB 530 at para 55. This latter exception is subject to limits and does not permit the proposed representative engage in the practice of law: Pacer Enterprises Ltd. v Cummings, 2004 ABCA 28 at para 14. [16] The discretion to allow a layperson to act as a litigation representative should be exercised “rarely and with caution”: R v Dick, at para 6 quoting B.C. Telephone Co. v Rueben, 1982 CanLII 588 (BC SC), [1982] 5 WWR 428 (BCSC) at 434. Rule 2.23(2) specifies the type of assistance that may be given by a lay representative: (a) quiet suggestions, (b) note-taking, (c) support, or (d) addressing the particular needs of a party. [17] Rule 2.23(3) provides that no assistance may be permitted: (a) that would contravene section 106(1) of the Legal Profession Act, (b) if the assistance would or might be disruptive, or (c) if the assistance would not meet the purpose and intention of these rules. [18] A court must consider whether the proposed litigation representative's presence is necessary for the unrepresented litigant to have a fair hearing and evaluate the risk that the litigation representative poses to the court process. A potential litigation representative who has a track record of using pseudo-legal arguments is not an appropriate litigation representative: Bonville v President's Choice Financial, 2024 ABKB 483 at para 88. 2. Right of Audience In Lameman v. Alberta, 2011 ABQB 396, 2011 CarswellAlta 2287, 521 A.R. 99; affirmed 2012 ABCA 59, 2012 CarswellAlta 355, 522 A.R. 140, 348 D.L.R. (4th) 45, Justice Yamauchi had before him an application for a right of audience to be granted to certain British barristers (“the Tooks barristers”) so that they might assist the Plaintiffs in their action against the Defendants. The Tooks barristers were not members of the Law Society of Alberta. In ruling that he would not grant a right of audience to the Tooks barristers, his Lordship said, at paragraphs 34–39, 41: 34 The Alberta Court of Appeal in Pacer Enterprises, held that whether a non-lawyer is practising law is a question of degree. As mentioned earlier, no one takes issue with Tooks barristers providing support to Woodco through research and drafting, provided Woodco, as counsel of record, assumes ultimate responsibility for the work product. 35 Beyond this area of consensus, there was little agreement. Significant time was spent in oral argument on what constitutes the “practice of law.” It is not the task of this Court to delineate the limits of the practice of law; nor would it be desirable so to do. The law, as a profession, evolves along with societal needs and desires. 36 However, we are dealing here with represented Plaintiffs proposing to engage trained foreign lawyers who are non-members. This Court finds that the proposed involvement of Tooks barristers, including questioning of witnesses, preparation of argument, and advocacy before the Court, clearly encompasses matters in respect of which law students receive training and which the public understands to form part of a litigator's stock and trade. It involves acts which in the usual course, if performed improperly, might appropriately draw comment or sanction from the Law Society. If these tasks do not form part of the practice of law, what does? 37 The Alberta Legislature has chosen to grant the privilege of self-regulation to the legal profession in Alberta. The Alberta Legislature enacted LPA s. 106(1) for the purpose of ensuring, among other things, that lawyers practising in Alberta be competent and proficient, adequately insured by the Alberta Lawyers' Insurance Association, and bound by the CPC. While Tooks barristers may well be competent and proficient, there was no evidence before this Court that they are insured, nor did the Plaintiffs present evidence to establish that Tooks barristers would be bound by the CPC. 38 The Plaintiffs rely heavily on Professional Signcrafters. That decision addressed Old Rules r. 5.4. It is noteworthy that the issue before O'Leary J., as he then was, was whether the director of the plaintiff corporation had contravened the LPA by commencing an action on behalf of the plaintiff corporation. The director had already lost on an appeal of a Master's decision denying him standing to make representations on behalf of the plaintiffs at the hearing of the motion to strike out the plaintiffs' pleadings. Although O'Leary J. in obiter dictum distinguished between the right of audience in Old Rules r. 5.4, and the right to practice law under the equivalent of LPA s. 106(1), there is no suggestion that he intended his comments to extend so as to allow trained lawyers to circumvent the regime of self-regulation established by the Alberta Legislature, particularly where the party seeking this relief is already represented by counsel of record. 39 Further, New Rules r. 2.23 speaks not of “represent” and “representation,” but of “assist” and “assistance.” While the list of forms of assistance set forth in New Rules r. 2.23(2) is not exhaustive, New Rules r. 2.23(3) is absolutely clear that, despite the apparent broadness of New Rules r. 2.23(1), a court has no discretion to permit assistance where the court's ruling would contravene LPA s. 106(1). This Court has no inherent jurisdiction to make an order negating the unambiguous expression of the will of the Alberta Legislature: Baxter Student Housing Ltd. v. College Housing Co-Operative Ltd., [1976] 2 S.C.R. 475 at 480. If this language left any room for doubt, the Information Note that one finds in the New Rules emphasizes that the “assistance” must fall short of “acting as a barrister or solicitor.” This Court need not determine the broadness (or narrowness) of New Rules r. 2.23. In particular, it need not determine whether New Rules r. 2.23 is or is not limited to self-represented litigants by virtue of the fact that New Rules r. 2.22 is headed “Self-represented litigants,” New Rules r. 2.23 is headed “Assistance before the Court,” and there is no mention of self-represented litigants in the title of the division of the New Rules in which New Rules r. 2.23 appears. … 41 This Court finds that the LPA and New Rules r. 2.23 prohibit Tooks barristers' proposed expanded participation in these proceedings and, in particular, in the Applications to Strike. The LPA and New Rules r. 2.23 do not provide an alternative basis for this participation. In the Court of Appeal (Lameman v. Alberta, 2012 ABCA 59, 2012 CarswellAlta 355, 522 A.R. 140, 348 D.L.R. (4th) 45), Justice Côté said, at paragraphs 25–27: 25 It might be objected that I am distorting the argument of the appellant, and that he does not call for an unregulated situation. He relies on R 2.23, which says that “The Court may permit a person to assist a party before the Court …”. If that is the suggestion, it seems to me at best to embrace a new system far feebler than the present system. Could a judge screen who appears? Would it be desirable to bypass the entire elaborate screening and evaluation system by Canada's various law societies and national accreditation bodies, set up by or under legislation, and instead hand that accrediting and disciplinary work to an individual chambers judge with no administrative assistance or records, nor training in this specialized field? Surely not. And it is clearly not the policy of the Legislature. 26 Besides, relying on individual judges to screen misses a bigger point. If there is an exception to s 106 of the Legal Profession Act, then no screening may be possible. There may be nothing to stop anyone at all from walking into a courtroom and acting as the advocate for one of the parties. Nothing in the Rules of Court directly or independently bars non-lawyers from acting as advocates (or otherwise practising law). It is only the Legal Profession Act which does that. Rule 2.23(1) lets the Court permit a non-party non-lawyer to assist a party. But if no such request is made, the Court may have no role to play, if s 106 of the Legal Profession Act truly does not apply. If the appellant's argument were right, maybe the unqualified person could appear as an advocate as of right, no matter what the judge said or thought. So what the appellant argues here would prove too much. 27 On the other hand, if the court has an inherent power to give an unqualified person audience, maybe the court has inherent power to exclude unqualified persons acting as advocates. But that question arises only because of the postulated hole in s 106. To invent a hole in an unqualified prohibition in a public statute, just to invoke a supposed ancient and inherent power in someone else partly to plug that hole, would be very roundabout. That is like postulating that the Legislature had deliberately built a dyke against the sea with a hole in it, because they knew that a little boy might come along and stick his finger in the hole. 3. Consequences of Violating Legal Professions Act In Professional Sign Crafters (1988) Ltd. v. Wedekind, 1994 CarswellAlta 90, 153 A.R. 358, 19 Alta. L.R. (3d) 53, 24 C.P.C. (3d) 387 (Q.B.), the statement of claim of the corporate plaintiff was prepared and issued by David Stanley, the sole director and officer of the plaintiffs. When considering the consequences of corporations violating the Legal Professions Act regarding the commencement of an action, O'Leary J. said at pp. 63-64: Section 103(1) of the Act forbids the commencement of an action in the Court of Queen's Bench by an individual who is not a member of the Law Society. Subsection (2) exempts certain individuals and circumstances from that prohibition. A corporation cannot act “in person” within subs. (2)(h) and no other exemption applies. A corporation is a legal entity separate from its shareholders, directors, officers and employees and none of them can commence an action on behalf of the corporation without contravening s. 103. I agree with the Master's conclusion that Stanley violated the Act when he prepared, issued and served the Statement of Claim on behalf of the Plaintiffs … The purpose of the Act is to protect the public by preventing unqualified individuals from practicing law. Those who contravene the Act are subject to penalties. There is nothing express or implied in the statute imposing any sanctions on those for whom unqualified individuals purport to act. In many cases the “clients” will be ignorant of the lack of qualifications and it would be harsh to strike out their actions as nullities. I cannot imagine a valid reason for doing so … In my opinion, there is no justification in principle or practice for declaring the action a nullity. The Court has jurisdiction over the parties and the subject-matter. It is not suggested that the Statement of Claim is defective in form or that it does not disclose a cause of action. The Defendants have suffered no prejudice which cannot be remedied in costs. There is no policy reason for declaring the action a nullity. The provisions of the Act can be enforced against those who contravene its terms without the necessity of striking out the underlying proceedings. In my opinion the proper disposition of this application is to direct a stay of the action until such time as the Plaintiffs are represented on the record by a qualified agent as required by the Act and the Rules of Court. 4. The Rule Does Not Permit Violation of the Legal Profession Act In Chapman Estate v. Ramjohn, 2015 ABCA 58, 2015 CarswellAlta 187, 3 E.T.R. (4th) 211, an individual was the co-executor of an estate which had as one of its assets a judgment obtained by Mr. Chapman prior to his death. The co-executor was not permitted to appear in Court to represent the estate in judgment enforcement proceedings. Madam Justice Veldhuis said, at paragraphs 2–4: 2 Mr. Oommen appeared before several justices of the Court of Queen's Bench without incident. However, at one appearance before Michalyshyn J, Mr. Oommen was told that the Legal Profession Act, RSA 2000, c L-8 prevented him from appearing in court on behalf of the estate. The Court issued an order to that effect which also dismissed Mr. Oommen's substantive application to review a garnishment order. Mr. Oommen appealed that order, and appeared before me in chambers seeking the right to appear on behalf of the estate in the Court of Appeal. I dismissed his application: Oommen v Ramjohn, 2015 ABCA 34. Mr. Oommen is now applying for permission to appeal my decision to a panel of this Court. 3 It is unfortunate that Mr. Oommen was permitted to appear in the Court of Queen's Bench on several occasions prior to being told that he could not represent the Chapman estate. The Legal Profession Act does not permit Mr. Oommen, either as a co-executor, co-beneficiary, personal representative or litigation representative to appear in court on behalf of the estate of Mr. Chapman. This action can only proceed through the courts if the estate is represented by someone authorized to appear for others in accordance with the Legal Profession Act. Mr. Oommen is not one of these people. There is also no authority in the Survival of Actions Act, RSA 2000, c S-27, for the proposition that Mr. Oommen can act for the estate in court. That Act only establishes that a cause of action survives for the benefit of an estate, and allows for the appointment of a litigation representative. It says nothing of who can appear in court for an estate. 4 Rule 2.23 of the Rules of Court allows a court to grant permission to a person to assist a litigant, but this appointment cannot conflict with s 106(1) of the Legal Profession Act. The law is clear that Mr. Oommen cannot act for this estate in court. There are many reasons why only those licenced to practice law may appear on behalf of others (amongst them the fact that lawyers are professionally trained, and insured against negligence for the benefit of clients). These are sound policy reasons that support the legislative framework. 5. Discretion to grant right of audience to non-lawyer In Vuong Van Tai Holding v. Alberta (Minister of Justice and Solicitor General), 2020 ABCA 169, 2020 CarswellAlta 793, Justice Slatter noted the effect of the 2020 amendment to the rule: [15] Rule 2.23(4) of the Rules of Court has now restored the discretion of the Court to allow a right of audience to a non-lawyer: see Pacer Enterprises Ltd v Cummings, 2004 ABCA 28 at para. 8, 26 Alta LR (4th) 241, 346 AR 161, citing Professional Sign Crafters (1988) Ltd. v Wedekind (1994), 1994 CanLII 9245 (AB QB), 19 Alta LR (3d) 53 at pp. 57-8, 153 AR 358: In order to place the issues in perspective it is important to distinguish between the inherent discretion of a superior Court to permit a non-lawyer to appear physically in Court or before a judge as a representative or advocate of another person (the “right of audience”), and the right of an individual to represent another person in respect of legal matters generally, that is, the right to practice law The Court now has a discretion to permit an individual to speak in court on behalf of a corporation. Clause 5 of the order of October 8, 2015 is accordingly rescinded. To be clear, the enactment of R. 2.23(4) does not mean that non-lawyers have an unlimited right to represent corporations. The presumption is still that corporations must be represented by lawyers. Rule 2.23(4) merely restores the discretion of judges to give a right of audience in court to non-lawyers connected to the corporation: Pacer Enterprises at para. 13."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_037",
+        "part2_rule_2_23_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_038",
+        "part2_alberta_rules_of_court_rule_2_part_2_039",
+        "part2_rule_2_23_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_040"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "8812711edeb1ff578a0de0804f6f981f110a9f0d4cb2e41032d4a4aacd188504",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Assistance before the Court",
+      "division_heading": "Division 3 – REPRESENTATION OR ASSISTANCE BEFORE THE COURT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "dcdcb37692b6f9330bca5662579995027684585810a8193bb2ec2dfa6cae7187",
+      "citations": [
+        {
+          "neutral_citation": "2020 ABCA 341",
+          "style_of_cause": "PurpleRung Foundation v. Peace River (Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014",
+          "context": ".J. No. 264, 2017 ABQB 76 at para. effective May 26,  ABCA 169 at para. 15 (Alta. C.A.); PurpleRung Foundation v. Peace River (Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014, 2020 ABCA 341 at paras. 11-12 (Alta. C.A.); Vizor v. 383501 Alberta Ltd. (c.o.b. Val Brig Equipment Sales), [2022",
+          "note": "paras 11-12."
+        },
+        {
+          "neutral_citation": "2022 ABQB 5",
+          "style_of_cause": "Vizor v. 383501 Alberta Ltd. (c.o.b. Val Brig Equipment Sales), [2022] A.J. No. 6",
+          "context": "Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014, 2020 ABCA 341 at paras. 11-12 (Alta. C.A.); Vizor v. 383501 Alberta Ltd. (c.o.b. Val Brig Equipment Sales), [2022] A.J. No. 6, 2022 ABQB 5 at para. (Alta. Gaz. April 15, 2020)]",
+          "note": "pinpoint lost. Also cited by Book A (2.22 fn, p.2-46 #4: company told to use a lawyer)."
+        },
+        {
+          "neutral_citation": "2020 ABCA 169",
+          "style_of_cause": "Van Vuong Tai Hldg. v. Min. of Justice (name as cited in Book A)",
+          "note": "only 'ABCA 169 at para. 15' survives in Book C; identified from Book A 2.23 fn 1 (same case, same para. 15): 2020 amendment lets a judge allow a non-lawyer to represent a connected corporation."
+        }
+      ],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same words as official; 'Legal Profession Act' displaced twice by extraction. No substantive difference.",
+      "citations_note": "Book C's 2.23 commentary text is lost; these citations survive only inside the garbled amendment note. Pinpoints partly lost.",
+      "dropped_citation_notes": {
+        "2017 ABQB 76": "Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 (pinpoint lost) - dropped in 5th pass for consistency with 2.2 and 2.14: here it stands where the number '2' of 'Reg. 36/2020, s. 2' should be, the same extraction pattern as its other occurrences, and nothing in the sources ties it to 2.23."
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9858,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official except (2)(a) and (b) end with ';' (official ','), plus bracketed labels and amendment bracket '[Alta. Reg.124/10;36/20]'. No substantive difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9574,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.23",
+      "title_official": "Assistance before the Court"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "6b82261af2f80673eb743fa3762a86a7e9e7c105c089dab1bcf48c107d517d90",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            2274,
+            2430
+          ],
+          "book_pages": [
+            "2-46",
+            "2-47",
+            "2-48",
+            "2-49"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "8812711edeb1ff578a0de0804f6f981f110a9f0d4cb2e41032d4a4aacd188504",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "dcdcb37692b6f9330bca5662579995027684585810a8193bb2ec2dfa6cae7187",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "3abfbaa7ba0a135effedddf689b9cc9b3f21b713b65ea6a2d8b4f66dec1fbb13",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            44,
+            45
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "1abdf878fc6c10737d66aec96b587dd57e64880464f67c930c213004e2503a1a"
+  },
+  "information_notes": [
+    {
+      "text": "Under section 106(1) of the Legal Profession Act assistance permitted by this rule must fall\nshort of “acting as a barrister or solicitor” or “commencing, carrying on or defending an action\nor proceeding before a court or judge on behalf of another person”.",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "same note as BOOK_A, cut off mid-sentence and ending in a citation - Chutskoff Estate v. Bonora 2013 ABQB 119 at para. 19, the same citation and pinpoint Book C gives under 2.11 (lack of capacity); nothing links it to 2.23 (reworded in 5th pass - earlier called 'unrelated'). Not retained."
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_A 2.13 commentary: a relative may give quiet assistance under R.2.23 but cannot speak for the litigant; BOOK_B 2.13 (Nahirney: limited assistance under Rule 2.23, not speaking).",
+    "Rule 2.22: BOOK_A related provisions and fn 9 (p.2-44: 'some basic help is covered in R.2.23'); BOOK_B 2.22 (908077 QB summary: 2.23 allows only a 'McKenzie Friend' role; Real Estate Strategies para 8 on 2.23(1)).",
+    "BOOK_B 2.14 and BOOK_B 2.23 section 4 both quote Chapman Estate/Oommen v Ramjohn (2015 ABCA 34 and 58).",
+    "Legal Profession Act s.106 (official 2.23(3)(a); BOOK_A information note).",
+    "Cross-book (4th pass): BOOK_B section 4 (Chapman Estate v. Ramjohn 2015 ABCA 58) is the leave decision BOOK_A 2.22 fn 8 records ('Oommen (Chapman Est.) v. Ramjohn 2015 ABCA 34 ... leave den 2015 ABCA 58'). BOOK_C's Vizor 2022 ABQB 5 is BOOK_A 2.22 fn 4 (p.2-46); PurpleRung 2020 ABCA 341 is cited only by BOOK_C. BOOK_A's statements on the 2020 amendment (new 2.23(4)) agree with the official text and with BOOK_B's Vuong 2020 ABCA 169 para 15 quote. Fortin 'supra' flag re-verified by citation (2001 SCC 45 only at p.2-48 fn 3)."
+  ],
+  "dedupe_log": [
+    "2.23 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.23 BOOK_C: rule text dropped (manual review)",
+    "2.23 BOOK_C information note dropped (manual review)",
+    "2.23 BOOK_C: citation 2017 ABQB 76 dropped (manual review)",
+    "2.23 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.23 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.23 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

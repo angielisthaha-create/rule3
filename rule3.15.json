@@ -1,0 +1,1923 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T11:55:00Z",
+      "source_manifests": [
+        "05119.rtf",
+        "05123.rtf",
+        "05121.rtf",
+        "05125.rtf",
+        "05133.rtf",
+        "05127.rtf",
+        "05122.rtf",
+        "05124.rtf",
+        "05130.rtf",
+        "05129.rtf",
+        "05126.rtf",
+        "05131.rtf",
+        "05132.rtf",
+        "05128.rtf",
+        "05120.rtf",
+        "page_0033.rtf",
+        "page_0034.rtf",
+        "page_0036.rtf",
+        "page_0035.rtf",
+        "page_0038.rtf",
+        "page_0040.rtf",
+        "page_0039.rtf",
+        "page_0044.rtf",
+        "page_0041.rtf",
+        "page_0043.rtf",
+        "page_0037.rtf",
+        "page_0045.rtf",
+        "page_0049.rtf",
+        "page_0048.rtf",
+        "page_0047.rtf",
+        "page_0050.rtf",
+        "page_0052.rtf",
+        "page_0053.rtf",
+        "page_0054.rtf",
+        "page_0055.rtf",
+        "page_0058.rtf",
+        "page_0059.rtf",
+        "page_0057.rtf",
+        "page_0056.rtf",
+        "page_0060.rtf",
+        "page_0063.rtf",
+        "page_0061.rtf",
+        "page_0062.rtf",
+        "page_0064.rtf",
+        "page_0067.rtf",
+        "page_0066.rtf",
+        "page_0065.rtf",
+        "page_0068.rtf",
+        "page_0069.rtf"
+      ],
+      "node_count": 26,
+      "relationship_count": 32,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Julien v. Alberta (Appeals Commission for Alberta Workers’ Compensation), 2023 ABCA 81",
+          "Tartal v. Alberta (Human Rights Commission), 2023 ABKB 381",
+          "ENMAX Corporation v. Alberta (Labour Relations Board), 2018 ABQB 431",
+          "Sedgwick v. Edmonton Real Estate Board Co-Operative Listing Bureau Limited, 2021 ABQB 59",
+          "Silver Willow Water Co-op Ltd. v. Vermillion River (County), 2018 ABQB 952",
+          "R. v. Hosack (1988), 85 A.R. 98 (Q.B.)",
+          "IMS Health Canada Ltd. v. Information and Privacy Commissioner, 2005 ABCA 325",
+          "Robertson v. Edmonton (City) Police Service, 2004 ABQB 243",
+          "University of Alberta v. Alberta (Information & Privacy Commissioner), 2011 ABQB 699",
+          "Alberta Liquor Store Assn v. Alberta (Gaming and Liquor Commission), 2006 ABQB 904",
+          "Dr. Mays Abdulghafoor v. University of Calgary, 2021 ABQB 187",
+          "Fawcett v. College of Physicians and Surgeons of the Province of Alberta, 2019 ABQB 788",
+          "RJR-MacDonald v Canada (Attorney General)",
+          "Morawetz v. Alberta (Director of SafeRoads), 2024 ABKB 588",
+          "United Nurses of Alberta v Alberta Health Services, 2021 ABCA 194",
+          "Khela v. Mission Inst. 2014 SCC 24",
+          "Public Safety &c. v. Chhina 2019 SCC 29",
+          "May v. Ferndale Institution 2005 SCC 82",
+          "Vavilov v. Min. of Citizenship 2019 SCC 65",
+          "Dunsmuir v. New Brunswick, 2008 SCC 9",
+          "Brewer v. Fraser Milner Casgrain LLP, 2008 ABCA 160",
+          "Okotoks (Town) v. Foothills (Municipal District) No. 31, 2013 ABCA 222",
+          "Yatar v. TD Ins. Meloche Monnex 2024 SCC 8"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3, Division 2, Subdivision 2"
+        ],
+        "manifest_references": [
+          "05119.rtf",
+          "05120.rtf",
+          "05121.rtf",
+          "05122.rtf",
+          "05123.rtf",
+          "05124.rtf",
+          "05125.rtf",
+          "05126.rtf",
+          "05127.rtf",
+          "05128.rtf",
+          "05129.rtf",
+          "05130.rtf",
+          "05131.rtf",
+          "05132.rtf",
+          "05133.rtf",
+          "page_*.rtf"
+        ]
+      },
+      "tactical_play_count": 3,
+      "countermeasure_count": 3
+    },
+    "nodes": [
+      {
+        "node_id": "fp-r3-15-1-prerogative-remedy-triggers",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Jurisdictional Triggers for Judicial Review",
+        "description": "Rule 3.15(1) establishes the jurisdictional gateway for the entire judicial review subdivision. An action MUST be commenced as an originating application for judicial review if it seeks specific prerogative remedies (mandamus, prohibition, certiorari, etc.) or a declaration/injunction against a body subject to judicial review.",
+        "source_sentence_ids": [
+          "05119.rtf#r3-15-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An originating application must be filed in the form of an originating application for judicial review if the originating applicant seeks from the Court any one or more of the following remedies against a person or body whose decision, act or omission is subject to judicial review: (a) an order in the nature of mandamus, prohibition, certiorari, quo warranto or habeas corpus; (b) a declaration or injunction.",
+              "source_reference": "05119.rtf#r3-15-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.15(1)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule defines the battlefield. Understanding these triggers is crucial for both initiating an attack (choosing the correct procedural vehicle) and defending against one (arguing the opponent used the wrong procedure). Using the wrong form of commencement can be a fatal procedural error if not corrected.",
+          "litigation_implications": [
+            "Offensive (Applicant): If seeking to quash a decision or compel a public body to act, you must use this procedure. Failure to do so can lead to your action being struck.",
+            "Defensive (Respondent): If an applicant seeks a prerogative remedy via a standard Statement of Claim, you can bring a motion to strike the action for being improperly commenced, forcing delay and costs on the opponent."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-15-2-absolute-limitation-period",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: The 6-Month 'File AND Serve' Absolute Limitation",
+        "description": "Rule 3.15(2) imposes a mandatory, non-extendable 6-month period to both file AND serve an originating application for judicial review. Failure to meet both requirements for all required parties is fatal to the application.",
+        "source_sentence_ids": [
+          "05119.rtf#r3-15-2",
+          "05120.rtf#tartal-para33"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Subject to rule 3.16, an originating application for judicial review to set aside a decision or act of a person or body must be filed and served within 6 months after the date of the decision or act, and rule 13.5 does not apply to this time period.",
+              "source_reference": "05119.rtf#r3-15-2"
+            },
+            {
+              "text": "Compliance with Rule 3.15 is mandatory and the six-month time period to both file and serve the Originating Application cannot be extended or varied... Failure to either file or serve within the limitation period is fatal and the desired remedy - setting aside the decision - cannot be granted.",
+              "source_reference": "05120.rtf#tartal-para33"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.15(2)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is the primary kill-switch for judicial review applications. It is an absolute, unforgiving deadline that provides respondents with a powerful procedural weapon to dismiss applications without addressing the merits. The explicit exclusion of Rule 13.5 removes any judicial discretion to grant an extension.",
+          "litigation_implications": [
+            "Offensive (Respondent): Immediately upon receipt of an application, verify the date of the decision, the filing date, and the date of service. If either filing or service is outside the 6-month window, bring a summary dismissal application.",
+            "Defensive (Applicant): Meticulously calculate and diarize the 6-month deadline from the date of the decision. Ensure all parties, including the Crown and all 'directly affected' persons, are served with the FILED copy of the application well within the deadline.",
+            "Cost/Counter: A failed application is fatal. The cost of missing the deadline is the complete loss of the right to judicial review. There is no effective counter once the deadline is missed."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Julien v. Alberta (Appeals Commission for Alberta Workers’ Compensation), 2023 ABCA 81",
+              "proposition": "Confirms that compliance with Rule 3.15 is mandatory and the six-month time period to file and serve cannot be extended."
+            },
+            {
+              "case_name": "Tartal v. Alberta (Human Rights Commission), 2023 ABKB 381",
+              "proposition": "The obligation is sequential: after filing, the filed document must be served within the same six-month period. Service of an unfiled version is not sufficient."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-15-3-failure-to-serve-all-parties",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Failure to Serve All 'Directly Affected' Parties & Crown",
+        "description": "Rule 3.15(3) mandates service on the decision-maker, the appropriate Attorney General, and 'every person or body directly affected'. Failure to serve any one of these parties within the 6-month limitation period is a fatal defect that cannot be waived by the unserved party.",
+        "source_sentence_ids": [
+          "05119.rtf#r3-15-3",
+          "05120.rtf#enmax-para18",
+          "05120.rtf#enmax-para29"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An originating application for judicial review must be served on (a) the person or body in respect of whose act or omission a remedy is sought, (b) the Minister of Justice or the Attorney General for Canada, or both, as the circumstances require, and (c) every person or body directly affected by the application.",
+              "source_reference": "05119.rtf#r3-15-3"
+            },
+            {
+              "text": "Rule 3.15(3) states that an originating application for judicial review must be served on every person or body directly affected by the application. This is a mandatory requirement.",
+              "source_reference": "05120.rtf#enmax-para18"
+            },
+            {
+              "text": "APEGA and the EITs may waive their right to participate in the proceedings but they cannot waive ENMAX's mandatory service obligations.",
+              "source_reference": "05120.rtf#enmax-para29"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.15(3)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This trap weaponizes the diligence of opposing counsel. Any party who was properly served can seek dismissal based on the applicant's failure to serve another required party. The non-waivable nature of the obligation means even if the unserved party doesn't care, the application can still be killed.",
+          "litigation_implications": [
+            "Offensive (Respondent): Conduct due diligence to identify all potentially 'directly affected' parties. If the applicant missed one, even if that party is aligned with the applicant, move to strike the application for failure to comply with a mandatory, non-waivable service requirement.",
+            "Defensive (Applicant): Before filing, conduct a thorough analysis of who is 'directly affected'. This includes competitors, beneficiaries, and any party whose rights or obligations would be altered by a successful review. When in doubt, serve.",
+            "Trap Detail: Service on the Minister of Justice is not discretionary. The phrase 'as the circumstances require' refers to whether the matter is provincial or federal, not whether service is needed at all."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "ENMAX Corporation v. Alberta (Labour Relations Board), 2018 ABQB 431",
+              "proposition": "The mandatory service requirement in Rule 3.15(3) cannot be waived by the party who was not served."
+            },
+            {
+              "case_name": "Silver Willow Water Co-op Ltd. v. Vermillion River (County), 2018 ABQB 952",
+              "proposition": "The phrase 'as the circumstances require' in Rule 3.15(3)(b) dictates which Attorney General to serve (provincial or federal), not if service can be skipped."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-15-bylaw-as-decision",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Municipal Bylaw as a 'Decision or Act'",
+        "description": "Case law has established that the enactment of a municipal bylaw is considered a 'decision or act' of a municipality for the purposes of Rule 3.15, making bylaws subject to the judicial review process and its strict 6-month limitation period.",
+        "source_sentence_ids": [
+          "05120.rtf#okotoks-para9"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "First, Okotoks submits that the enactment of a bylaw is not a “decision or act” of a body; hence Rule 3.15(2) does not apply. In our view, the Rule should not be read so narrowly. A municipal council can only act by resolution or bylaw: MGA section 180. Accordingly, we conclude that a bylaw is a decision or act of the municipality subject to the remedies in Rules 3.15(1)(a) and (b).",
+              "source_reference": "05120.rtf#okotoks-para9"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.15"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This principle expands the battlefield of judicial review to include municipal legislative acts. It provides a clear procedural path for challenging bylaws but also subjects those challenges to the unforgiving 6-month limitation period, creating a trap for those who might assume a longer period applies to challenging legislation.",
+          "litigation_implications": [
+            "Offensive (Challenger): To challenge a new bylaw, you must use the judicial review process and adhere to the 6-month file-and-serve deadline from the date of enactment.",
+            "Defensive (Municipality): If a challenge to a bylaw is brought after 6 months, immediately move to dismiss the action as statute-barred under Rule 3.15(2)."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Okotoks (Town) v. Foothills (Municipal District) No. 31, 2013 ABCA 222",
+              "proposition": "Establishes that a municipal bylaw is a 'decision or act' subject to the judicial review rules, including the 6-month limitation period."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-15-tribunal-argument-limit",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Silencing the Tribunal on the Merits",
+        "description": "A statutory tribunal whose decision is under judicial review is restricted to arguing its own jurisdiction and explaining the record. It cannot argue the merits of its decision, effectively preventing it from acting as a true adversary on the substantive issues.",
+        "source_sentence_ids": [
+          "05120.rtf#brewer-para30"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Northwestern Utilities case says that in the superior court or the Court of Appeal, the statutory tribunal is restricted to arguing its own jurisdiction and explaining the record. The tribunal cannot argue the merits.",
+              "source_reference": "05120.rtf#brewer-para30"
+            },
+            {
+              "text": "The policy of Canadian law (and doubtless English law) is plain. The statutory tribunal should be patently neutral. It cannot do that if it dons the uniform of one army, still less if it enters that army's front line and joins its bayonet charge.",
+              "source_reference": "05120.rtf#brewer-para37"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.15"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a powerful offensive weapon for an applicant. It neutralizes the decision-maker, who is often the most knowledgeable party, preventing them from defending the substance of their decision. This forces the other respondent (if any) to carry the full burden of the defense on the merits.",
+          "litigation_implications": [
+            "Offensive (Applicant): If the tribunal files a brief arguing the merits of its decision, bring a motion to strike those portions of the brief. Remind the court that the tribunal's role is limited to jurisdiction and explaining the record to maintain its neutrality.",
+            "Defensive (Tribunal): Your submissions must be carefully crafted to address only jurisdictional questions or to provide neutral explanations of the record. Do not advocate for the correctness or reasonableness of the outcome."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Brewer v. Fraser Milner Casgrain LLP, 2008 ABCA 160",
+              "proposition": "A tribunal whose decision is impugned can only appeal or participate in a review to protect its jurisdiction; it cannot argue the merits."
+            },
+            {
+              "case_name": "Northwestern Utilities v. Edmonton (City), [1979] 1 S.C.R. 684",
+              "proposition": "The leading Supreme Court of Canada case establishing that a statutory tribunal's participation in a judicial review is restricted to arguing its jurisdiction."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-16-2-accelerated-evidence-deadline",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Habeas Corpus Accelerated Evidence Deadline",
+        "description": "Rule 3.16(2) imposes a short 10-day deadline before the hearing for filing and serving evidence in a habeas corpus application. This contrasts sharply with the standard one-month deadline under Rule 3.15(5) for other judicial reviews, creating a potential trap for practitioners.",
+        "source_sentence_ids": [
+          "05121.rtf#r3-16-2",
+          "05119.rtf#r3-15-5"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An affidavit or other evidence to be used to support the originating application must be filed and served on each of the other parties 10 days or more before the date scheduled for hearing the application.",
+              "source_reference": "05121.rtf#r3-16-2"
+            },
+            {
+              "text": "An affidavit or other evidence to be used to support the originating application for judicial review... must be filed and served on every other party one month or more before the date scheduled for hearing the application.",
+              "source_reference": "05119.rtf#r3-15-5"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.16(2)",
+            "Alberta Rules of Court, r. 3.15(5)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule reflects the urgency of habeas corpus matters but creates a procedural trap. An applicant accustomed to the standard one-month timeline could miss the 10-day deadline, potentially having their crucial evidence struck. For the respondent, it's an opportunity to attack the applicant's evidence on procedural grounds.",
+          "litigation_implications": [
+            "Offensive (Respondent): If an applicant in a habeas corpus matter serves their evidence late (e.g., 15 days before the hearing), bring a motion to strike the evidence for non-compliance with the mandatory 10-day rule.",
+            "Defensive (Applicant): When bringing a habeas corpus application, be acutely aware of the compressed timeline. Prepare and file all supporting affidavits at least 10 days before the scheduled hearing date."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-18-compel-record",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Compelling the Record of Proceedings",
+        "description": "Rule 3.18 provides the applicant with the mandatory mechanism (Form 8 Notice) to compel the decision-maker to produce the entire record of proceedings, defining the evidentiary battlefield for the judicial review.",
+        "source_sentence_ids": [
+          "05123.rtf#r3-18-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An originating applicant for judicial review who seeks an order to set aside a decision or act must include with the originating application a notice in Form 8... to send the record of proceedings to the court clerk named in the notice.",
+              "source_reference": "05123.rtf#r3-18-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.18(1)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule is the applicant's primary tool for discovery in a judicial review. It forces the tribunal to reveal the basis for its decision, preventing it from hiding behind a bare decision letter. A broad interpretation of the record can be used to uncover procedural flaws or unstated reasons.",
+          "litigation_implications": [
+            "Offensive (Applicant): Serve the Form 8 Notice with the originating application. If the returned record seems incomplete, immediately bring an application under Rule 3.19(3) to compel a more complete record, arguing for a broad definition of what 'touches the matter'.",
+            "Defensive (Tribunal): When responding to a Form 8 Notice, carefully delineate what was actually before the decision-maker versus what is internal deliberative material. Prepare to argue deliberative secrecy or privilege over certain documents."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-18-scope-of-record-framework",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Defining the Scope of the Record ('Touching the Matter')",
+        "description": "The scope of the compellable record is defined by what is 'in issue' in the judicial review and what 'touches the matter'. This framework allows for a broad, relevance-based inquiry beyond just the final decision document, but requires the applicant to meet a threshold to pierce deliberative secrecy.",
+        "source_sentence_ids": [
+          "05126.rtf#ims-health-matter-in-issue",
+          "05126.rtf#ims-health-touching-matter"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "“The matter” is determined by what has been put in issue by the originating notice... challenges can be made to procedural choices and prior, related decisions.",
+              "source_reference": "05126.rtf#ims-health-matter-in-issue"
+            },
+            {
+              "text": "I conclude that the items which “touch” the matter are broader than the items specifically enumerated...",
+              "source_reference": "05126.rtf#ims-health-touching-matter"
+            },
+            {
+              "text": "Thus a party must show that there is a valid reason for belief in the allegation before records related to that matter must be included in the return.",
+              "source_reference": "05126.rtf#ims-health-valid-reason"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.19"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This framework governs the crucial battle over the scope of discovery. For an applicant, a broad interpretation is a weapon to uncover hidden flaws. For a respondent, a narrow interpretation and the 'valid reason for belief' threshold are shields to protect deliberative processes and prevent fishing expeditions.",
+          "litigation_implications": [
+            "Offensive (Applicant): Draft the originating application to put specific procedural steps 'in issue', thereby expanding the scope of 'the matter' and justifying a broader request for the record.",
+            "Defensive (Respondent): Argue that the applicant's requests go beyond the specific decision challenged and constitute a 'fishing expedition'. Insist they provide a factual foundation or 'valid reason for belief' before producing sensitive or internal documents."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "IMS Health Canada Ltd. v. Information and Privacy Commissioner, 2005 ABCA 325",
+              "proposition": "Establishes that 'the matter' is determined by what the applicant puts in issue, and 'touching the matter' is a broad, expansive test similar to relevance for discovery."
+            },
+            {
+              "case_name": "Tremblay v. Commission des affaires sociales et autre, [1992] 1 S.C.R. 952",
+              "proposition": "Administrative tribunals have a right to deliberative secrecy, which can only be lifted if a litigant presents valid reasons for believing the process did not comply with natural justice."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-19-3-compel-deficient-record",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Enforcing Production of a Deficient Record",
+        "description": "Rule 3.19(3) provides the court with explicit enforcement powers if a tribunal fails to provide a complete record of proceedings, allowing the court to order a better explanation, compel the sending of the record, or take any other appropriate action.",
+        "source_sentence_ids": [
+          "05125.rtf#r3-19-3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the Court is not satisfied with the explanation for not sending all or part of the record of proceedings, the Court may order any or all of the following: (a) the person or body to provide a better explanation; (b) the person or body to send a certified copy of a record to the court clerk; (c) the person or body to take any other action the Court considers appropriate.",
+              "source_reference": "05125.rtf#r3-19-3"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.19(3)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is the applicant's enforcement mechanism for the right to the record. It prevents a tribunal from stonewalling or providing a self-servingly incomplete record. It ensures that the principle of review on the record is backed by a procedural tool with teeth.",
+          "litigation_implications": [
+            "Offensive (Applicant): If a tribunal's 'return' is incomplete or their explanation for omissions is unsatisfactory, immediately bring an application under this subrule to compel full production before the main hearing.",
+            "Defensive (Tribunal): Ensure that any explanation for not providing part of the record (e.g., claims of privilege, deliberative secrecy) is thorough, credible, and provided in the proper Form 9 to withstand scrutiny under this subrule."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-22-no-new-evidence-rule",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: The General Prohibition on New Evidence",
+        "description": "Judicial review is conducted on the record that was before the tribunal. The introduction of new or 'fresh' evidence relating to the merits of the decision is exceptional and generally prohibited, as the court's role is to review the tribunal's decision, not to conduct a trial de novo.",
+        "source_sentence_ids": [
+          "05130.rtf#slatter-j-para14",
+          "05130.rtf#slatter-j-para17"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The general rule is that judicial review is conducted based on the Return filed by the tribunal. ... The record before the tribunal is generally the record before the Court, and additional affidavits and evidence are exceptional...",
+              "source_reference": "05130.rtf#slatter-j-para14"
+            },
+            {
+              "text": "Attempting to introduce fresh evidence respecting the merits of the challenged decision on an application for judicial review misapprehends the nature of judicial review.",
+              "source_reference": "05130.rtf#slatter-j-para17"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.22",
+            "Commentary on r. 3.22"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This pillar fundamentally constrains the scope of a judicial review, forcing the fight onto the existing record. For a respondent with a favorable record, it is a powerful shield. For an applicant with an unfavorable or incomplete record, it is a major obstacle that must be overcome via narrow exceptions.",
+          "litigation_implications": [
+            "Offensive (Respondent): Vigorously oppose any attempt by the applicant to file affidavit evidence that goes to the merits of the case. Move to strike any such evidence as inadmissible.",
+            "Defensive (Applicant): If the record is insufficient, do not attempt to re-argue the merits with new facts. Instead, frame the new evidence as necessary to prove a procedural defect that falls within one of the recognized exceptions."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "University of Alberta v. Alberta (Information & Privacy Commissioner), 2011 ABQB 699",
+              "proposition": "Provides a comprehensive summary of the Alberta jurisprudence establishing the restrictive approach to admitting new evidence on judicial review."
+            },
+            {
+              "case_name": "Alberta Liquor Store Assn v. Alberta (Gaming and Liquor Commission), 2006 ABQB 904",
+              "proposition": "The foundational case articulating the general rule against new evidence and its limited exceptions."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-22-new-evidence-exceptions",
+        "node_type": "ProceduralTrap",
+        "label": "Counter: Exceptions to the 'No New Evidence' Rule",
+        "description": "New evidence is exceptionally admissible on judicial review, but only for limited procedural purposes, such as showing bias, a breach of natural justice not apparent on the record, addressing standing, or establishing the record where the tribunal's is inadequate.",
+        "source_sentence_ids": [
+          "05130.rtf#slatter-j-para15",
+          "05130.rtf#abdulghafoor-para65"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Slatter J then went on to note the limited instances where supplementary evidence may be allowed: a. to show bias, or a reasonable apprehension of bias... b. to demonstrate a breach of the rules of natural justice not apparent from the record, c. to address issues like standing; d. where the tribunal makes no, or an inadequate, record of its proceedings...",
+              "source_reference": "05130.rtf#slatter-j-para15"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.22"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "These exceptions are the only gateways for an applicant to introduce facts outside a hostile or incomplete record. They transform a merits-based argument (which is impermissible) into a procedural one (which is permissible). Mastering these exceptions is key to overcoming a deficient record.",
+          "litigation_implications": [
+            "Offensive (Applicant): If the record is damaging, pivot the entire case to a procedural fairness argument. File an affidavit with new evidence framed explicitly to prove one of the exceptions, e.g., 'This evidence of an ex-parte communication demonstrates a breach of natural justice not apparent from the formal record.'",
+            "Defensive (Respondent): When faced with new evidence, argue it does not fit squarely within an exception. Characterize it as a disguised attempt to re-litigate the merits, which is improper."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Dr. Mays Abdulghafoor v. University of Calgary, 2021 ABQB 187",
+              "proposition": "When the challenge is to the process followed by the decision maker, it may be necessary to permit additional evidence."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-21-permission-to-question",
+        "node_type": "ControlMechanism",
+        "label": "Constraint: Questioning Witnesses Requires Court Permission",
+        "description": "Rule 3.21 acts as a gatekeeper, prohibiting any questioning of witnesses for the purpose of creating a transcript for the hearing unless the Court grants specific permission. This prevents judicial review from turning into a discovery-heavy process.",
+        "source_sentence_ids": [
+          "05128.rtf#r3-21"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On an originating application for judicial review, no person may be questioned as a witness for the purpose of obtaining a transcript for use at the hearing without the Court's permission.",
+              "source_reference": "05128.rtf#r3-21"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.21"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule reinforces the principle that judicial review is not a trial. It provides a strong control against fishing expeditions and attempts to cross-examine decision-makers on their reasons, preserving the integrity of the administrative process and the focus on the existing record.",
+          "litigation_implications": [
+            "Offensive (Applicant): To get permission, an applicant must make a strong case that questioning is essential to prove a procedural flaw (like bias) that cannot be established through the record or affidavits alone.",
+            "Defensive (Respondent): Vigorously oppose any application for permission to question. Argue that it is an improper attempt to go behind the record, challenge the merits, or harass the decision-maker."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-23-stay-test",
+        "node_type": "WarfareFramework",
+        "label": "Framework: The Three-Part Test for a Stay",
+        "description": "A stay of a tribunal's decision pending judicial review is governed by the three-part test for an interlocutory injunction: (1) a serious issue to be tried, (2) irreparable harm to the applicant if the stay is refused, and (3) the balance of convenience favors the applicant.",
+        "source_sentence_ids": [
+          "05132.rtf#fawcett-para7"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "the test for a stay under Rule 3.23 is the same as for an interlocutory injunction as set out in RJR-MacDonald v Canada (Attorney General) and which may be summarized as follows: 1. Whether there is a serious issue to be tried. 2. Whether the applicant would suffer irreparable harm if the application were refused. 3. Whether the balance of convenience favours the applicant.",
+              "source_reference": "05132.rtf#fawcett-para7"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.23"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This framework provides the battlefield for the critical early fight over whether a decision's effects are paused. For the applicant, winning a stay neutralizes the immediate threat. For the respondent, defeating a stay can render the entire judicial review moot by allowing the decision to take full effect.",
+          "litigation_implications": [
+            "Offensive (Applicant): Focus heavily on proving 'irreparable harm' – harm that cannot be compensated by money, such as the loss of a professional license or the destruction of a business.",
+            "Defensive (Respondent): Argue that the harm is not irreparable (it can be compensated by damages) and that the 'balance of convenience' favors upholding the decision, especially if public interest or safety is at stake."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Fawcett v. College of Physicians and Surgeons of the Province of Alberta, 2019 ABQB 788",
+              "proposition": "Confirms that the test for a stay under Rule 3.23 is the RJR-MacDonald test for an interlocutory injunction."
+            },
+            {
+              "case_name": "RJR-MacDonald v Canada (Attorney General)",
+              "proposition": "The seminal Supreme Court of Canada case establishing the three-part test for interlocutory injunctions and stays."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-23-2-public-interest-override",
+        "node_type": "ControlMechanism",
+        "label": "Counter: The Public Interest Veto on Stays",
+        "description": "Rule 3.23(2) provides a powerful override to the standard stay analysis. A court cannot grant a stay, regardless of the merits or harm to the applicant, if it would be detrimental to the public interest or public safety.",
+        "source_sentence_ids": [
+          "05131.rtf#r3-23-2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite subrule (1), no order to stay is to be made if, in the Court's opinion, the stay would be detrimental either to the public interest or to public safety.",
+              "source_reference": "05131.rtf#r3-23-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.23(2)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a trump card for government bodies and regulators. It allows them to reframe the 'balance of convenience' argument into a non-negotiable matter of public good, making it extremely difficult for an applicant to obtain a stay in cases involving health, safety, or significant public policy.",
+          "litigation_implications": [
+            "Offensive (Respondent/Regulator): Frame the decision under review as essential for public safety (e.g., suspending a dangerous professional) or the public interest (e.g., enforcing environmental regulations). Argue that any stay would create an unacceptable risk.",
+            "Defensive (Applicant): To counter this, argue that the specific harm from the decision is minimal and that the public interest is also served by ensuring regulatory bodies act lawfully and fairly, which can only be determined after the review."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-24-remedial-discretion-framework",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Court's Remedial Discretion on Review",
+        "description": "Rule 3.24 grants the court a wide, flexible arsenal of remedies beyond simply quashing a decision. The court can set aside a decision, remit it for reconsideration with specific directions, or validate a decision with technical flaws if no substantial injustice occurred.",
+        "source_sentence_ids": [
+          "05133.rtf#morawetz-para30"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rules 3.24(2)(a) and (b) provide the Court a wide discretion to direct an administrative tribunal to reconsider a whole or part of a matter, or to reconsider whole or part of a decision where the Court quashes the decision.",
+              "source_reference": "05133.rtf#morawetz-para30"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.24",
+            "Commentary on r. 3.24"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This framework allows a successful applicant to strategically shape the outcome beyond a simple 'win'. By requesting specific directions on reconsideration (e.g., a new panel, limited issues), the applicant can control the subsequent process and prevent the tribunal from simply reaching the same result through a different flawed process.",
+          "litigation_implications": [
+            "Offensive (Applicant): If success is likely, don't just ask for the decision to be quashed. Proactively ask for specific directions using nodes like cm-r3-24-remit-to-new-panel or cm-r3-24-limit-reconsideration-scope.",
+            "Defensive (Respondent): If a loss is likely, argue for the matter to be remitted without extensive directions, preserving the tribunal's discretion. Argue that practicalities and efficiency favor reconsideration by the same panel."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Morawetz v. Alberta (Director of SafeRoads), 2024 ABKB 588",
+              "proposition": "Provides a comprehensive overview of the court's wide discretion under Rule 3.24 to give specific directions to a tribunal upon remitting a matter for reconsideration."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-24-remit-to-new-panel",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Forcing Reconsideration by a New Panel",
+        "description": "As part of its remedial discretion, the court can direct that a reconsideration be conducted by a different person or panel, which is a powerful tool to combat perceived or actual bias from the original decision-maker.",
+        "source_sentence_ids": [
+          "05133.rtf#morawetz-para33a"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...courts outside the SafeRoads context have confirmed the discretion to direct that a reconsideration: (a) be conducted by a different person or panel: United Nurses of Alberta v Alberta Health Services, 2021 ABCA 194 at para 102.",
+              "source_reference": "05133.rtf#morawetz-para33a"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.24"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This mechanism prevents a biased tribunal from getting a 'second bite at the apple'. It ensures that a successful judicial review leads to a genuinely fresh look at the matter, rather than a rubber-stamping of the original flawed decision.",
+          "litigation_implications": [
+            "Offensive (Applicant): If the original decision involved a strong finding of bias or a closed-minded approach, specifically request that the matter be remitted to a differently constituted panel.",
+            "Defensive (Respondent): Argue that a new panel is inefficient and impractical, and that the original panel is capable of applying the court's directions fairly and professionally."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "United Nurses of Alberta v Alberta Health Services, 2021 ABCA 194",
+              "proposition": "Confirms the court's discretion to order that a reconsideration be conducted by a different panel, considering factors like fairness, impartiality, and efficiency."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-24-limit-reconsideration-scope",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Limiting the Scope of Reconsideration",
+        "description": "As part of its remedial discretion, the court can direct that a reconsideration be limited to specific issues, preventing the entire matter from being re-litigated and preserving favorable findings from the original hearing.",
+        "source_sentence_ids": [
+          "05133.rtf#morawetz-para33c"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...courts outside the SafeRoads context have confirmed the discretion to direct that a reconsideration: ... (c) be limited to specific issues, excluding specific issues, or directing that specifically identified issues must be addressed...",
+              "source_reference": "05133.rtf#morawetz-para33c"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.24"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a high-value strategic tool for a partially successful applicant. It allows them to surgically correct a specific error in a decision while locking in other parts of the decision that were favorable, preventing the opponent from re-opening the entire case on remand.",
+          "litigation_implications": [
+            "Offensive (Applicant): If you won on several factual issues but lost on a legal error, ask the court to quash the decision and remit it for reconsideration *only* on the legal issue, with a direction that the tribunal is bound by its original factual findings.",
+            "Defensive (Respondent): Argue that the issues are intertwined and that a fair reconsideration requires the entire matter to be heard afresh."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Shuchuk v Alberta (Workers' Compensation Board), 2012 ABCA 50",
+              "proposition": "Supports the court's authority to limit the issues on a directed reconsideration."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-24-3-technical-defect-shield",
+        "node_type": "ControlMechanism",
+        "label": "Shield: Validating Decisions with Minor Technical Defects",
+        "description": "Rule 3.24(3) provides a shield for decisions that are substantively correct but suffer from a defect in form or a technical irregularity. The court can refuse a remedy or validate the decision if no substantial wrong or miscarriage of justice has occurred.",
+        "source_sentence_ids": [
+          "05133.rtf#r3-24-3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the sole ground for a remedy is a defect in form or a technical irregularity, the Court may, if the Court finds that no substantial wrong or miscarriage of justice has occurred, despite the defect, (a) refuse a remedy, or (b) validate the decision made...",
+              "source_reference": "05133.rtf#r3-24-3"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.24(3)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a defensive mechanism to prevent an entire administrative process from being invalidated by a trivial, harmless error. It allows a respondent to concede a minor procedural misstep while arguing that the outcome was just and should be upheld, saving the decision from being quashed.",
+          "litigation_implications": [
+            "Offensive (Applicant): Frame any procedural error, no matter how small, as causing a 'substantial wrong' or a 'miscarriage of justice' to avoid this rule being triggered. Argue that procedural integrity is itself a matter of substance.",
+            "Defensive (Respondent): If a minor procedural error is identified, concede it but immediately pivot to Rule 3.24(3). Argue that the error had no impact on the outcome and that quashing the decision would be a disproportionate remedy."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-15-discretionary-remedy",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Judicial Review is a Discretionary Remedy",
+        "description": "Unlike an action for debt, judicial review is a discretionary remedy. A court may refuse relief even if a legal error is proven, for reasons such as the applicant's misconduct, delay, the issue being moot, or the existence of a more suitable alternative remedy like a statutory appeal.",
+        "source_sentence_ids": [
+          "page_0034.rtf#discretion-general",
+          "page_0035.rtf#other-remedy-as-good"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Unlike actions for debt, negligence, etc., most forms of prerogative relief or judicial review do not ordinarily lie as of right. They are said to be 'discretionary', and an applicant with clearly proven cause of action may be refused relief for good reason.",
+              "source_reference": "page_0034.rtf#discretion-general"
+            },
+            {
+              "text": "A commonly-used ground for refusing judicial review is the existence of another remedy at least as efficacious, such as a substantive appeal...",
+              "source_reference": "page_0035.rtf#other-remedy-as-good"
+            }
+          ],
+          "source_references": [
+            "page_0034.rtf",
+            "page_0035.rtf"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This pillar provides the court with an 'off-ramp' and gives respondents multiple avenues to defeat an application on grounds other than the substantive merits. It forces applicants to not only prove their case but also demonstrate why the court's extraordinary, discretionary power should be exercised in their favor.",
+          "litigation_implications": [
+            "Offensive (Respondent): Argue that even if there is an error, the court should exercise its discretion to deny relief because the applicant has an alternative remedy (appeal), has delayed, or the issue is moot.",
+            "Defensive (Applicant): In the application, proactively address why judicial review is the only appropriate remedy and why the court's discretion should be exercised. Explain why statutory appeals are inadequate for the specific issue raised."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Yatar v. TD Ins. Meloche Monnex 2024 SCC 8",
+              "proposition": "Confirms that the court has discretion to decline judicial review where an adequate alternative remedy, such as a statutory appeal, exists."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-15-inadequate-alternative-remedy-gateway",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Gateway via Inadequate Alternative Remedy",
+        "description": "An applicant can justify seeking the discretionary remedy of judicial review by demonstrating that an existing alternative remedy, such as a statutory appeal, is not adequate or effective because it is not broad enough to cover the specific issue being pursued (e.g., bias, breach of natural justice, issues requiring new evidence).",
+        "source_sentence_ids": [
+          "page_0035.rtf#inadequate-appeal-remedy"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "One cannot use a statutory appeal from a county council to resolve allegations of bias or breach of natural justice, and so one can get judicial review: Wood v. Wetaskiwin (Cty.) 2001 ABQB 681, 290 AR 37, affd 2003 ABCA 67, 320 AR 286.",
+              "source_reference": "page_0035.rtf#inadequate-appeal-remedy"
+            },
+            {
+              "text": "An applicant need not exhaust an appeal right, when the appeal right is not broad enough to cover the issue pursued on judicial review: St. Albert (City) v. Sturgeon (Cty.) 2004 ABQB 620, 370 AR 51.",
+              "source_reference": "page_0035.rtf#inadequate-appeal-remedy"
+            }
+          ],
+          "source_references": [
+            "page_0035.rtf"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This framework provides the primary counter-argument to a respondent's claim that judicial review should be denied in favor of an alternative remedy. It is the applicant's key to unlocking the courthouse door when a statutory appeal process exists but is procedurally or jurisdictionally insufficient to grant the required relief.",
+          "litigation_implications": [
+            "Offensive (Applicant): If a statutory appeal exists, your primary argument must be to demonstrate its inadequacy. Argue that the appeal is limited to questions of law on the record, while your case involves procedural fairness or bias which requires extrinsic evidence.",
+            "Defensive (Respondent): Argue that the statutory appeal is a complete and effective remedy. Point to provisions that allow the appeal body to consider the relevant issues or receive new evidence, thereby making judicial review an unnecessary duplication."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Wood v. Wetaskiwin (Cty.), 2001 ABQB 681",
+              "proposition": "A statutory appeal may not be an adequate remedy for allegations of bias or breach of natural justice, justifying judicial review."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-16-habeas-corpus-non-discretionary",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Habeas Corpus is Non-Discretionary",
+        "description": "Unlike other forms of judicial review, habeas corpus is not a discretionary remedy. It is a cornerstone right to challenge the legality of one's detention, and exceptions to the right to seek it are construed restrictively.",
+        "source_sentence_ids": [
+          "page_0034.rtf#habeas-not-discretionary",
+          "05121.rtf#r3-16-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But habeas corpus is not discretionary.",
+              "source_reference": "page_0034.rtf#habeas-not-discretionary"
+            },
+            {
+              "text": "An originating application for an order in the nature of habeas corpus may be filed at any time...",
+              "source_reference": "05121.rtf#r3-16-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.16(1)",
+            "page_0034.rtf"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This pillar elevates habeas corpus above other remedies, removing the court's ability to deny it on discretionary grounds like mootness or delay. For an applicant challenging detention, it is the most powerful and direct tool available. It also bypasses the strict 6-month limitation period.",
+          "litigation_implications": [
+            "Offensive (Applicant): If a client is detained or their liberty is restricted, frame the application as one for habeas corpus to bypass the 6-month limitation period and discretionary bars to relief.",
+            "Defensive (Respondent): The only way to defeat a habeas corpus application is on the merits of the detention's legality or by proving the existence of a statutory review mechanism that is 'as broad and advantageous as habeas corpus'."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Khela v. Mission Inst. 2014 SCC 24",
+              "proposition": "Discusses the fundamental nature of habeas corpus and the standard of review."
+            },
+            {
+              "case_name": "Public Safety &c. v. Chhina 2019 SCC 29",
+              "proposition": "An alternative statutory remedy bars habeas corpus only if it is as broad and advantageous as habeas corpus, both in grounds and process."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-17-ag-right-to-be-heard",
+        "node_type": "ControlMechanism",
+        "label": "Mechanism: Attorney General's Absolute Right to Be Heard",
+        "description": "Rule 3.17 grants the Minister of Justice or Attorney General for Canada an absolute right to be heard on any judicial review application, reflecting the Crown's inherent interest in the administration of justice and the oversight of statutory bodies.",
+        "source_sentence_ids": [
+          "05122.rtf#r3-17"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Minister of Justice or the Attorney General for Canada, or both, as the case requires, is entitled as of right to be heard on an originating application for judicial review.",
+              "source_reference": "05122.rtf#r3-17"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.17"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule ensures the Crown can protect its interests, which may differ from those of the specific tribunal or the private parties. It can be a powerful ally or a formidable adversary, capable of bringing significant resources and a broader public policy perspective to the litigation.",
+          "litigation_implications": [
+            "Strategic Consideration (All Parties): The AG's intervention can fundamentally alter the dynamics of the case. Their submissions on jurisdiction, standard of review, or public interest can be highly influential.",
+            "Offensive (Applicant): If the tribunal's actions conflict with broader government policy, the AG might support the application. Frame arguments to appeal to the Crown's interest in lawful administration.",
+            "Defensive (Respondent Tribunal): The AG may intervene to defend the statutory scheme as a whole, even if it disagrees with the specific decision, providing a powerful ally."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-15-suspension-of-jurisdiction",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Service Suspends Lower Court's Jurisdiction",
+        "description": "Upon service of a judicial review application on a lower court (like the Alberta Court of Justice), that court's jurisdiction to continue with the matter is suspended by operation of law until the judicial review is resolved. This is distinct from a stay of the decision itself.",
+        "source_sentence_ids": [
+          "05120.rtf#hosack-para18"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Supreme Court of Canada in the case of R. v. Batchelor... makes it clear that the lower Court's jurisdiction to act is dormant from the time of service of the writ... The Judge, compelled to make the return, cannot, unless he risks disobedience with its attendant consequences, go on with the matter before him until the application to the superior Court is disposed of by dismissal thereof.",
+              "source_reference": "05120.rtf#hosack-para18"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.15"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is an automatic, powerful tactical tool for an applicant to halt proceedings in a lower court without needing to meet the three-part test for a stay. Simply serving the application freezes the lower court action, buying time and preventing further adverse steps.",
+          "litigation_implications": [
+            "Offensive (Applicant): To immediately halt a proceeding in the Alberta Court of Justice, file and serve an originating application for judicial review on the court. This provides an automatic suspension of proceedings without needing to argue for a stay.",
+            "Defensive (Respondent): Be aware that once the lower court is served, it cannot take further steps. The focus of the battle immediately shifts to the King's Bench and the judicial review application.",
+            "Distinction: This is not a stay of the *decision* under Rule 3.23, but a suspension of the lower court's *ability to proceed further*."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "R. v. Hosack (1988), 85 A.R. 98 (Q.B.)",
+              "proposition": "Upon service of a notice of application for judicial review on the Provincial Court (now Alberta Court of Justice), that court's jurisdiction to act in the matter is suspended."
+            },
+            {
+              "case_name": "R. v. Batchelor (1977), 1978 CanLII 35 (SCC)",
+              "proposition": "The seminal Supreme Court of Canada authority establishing that an inferior court's jurisdiction is suspended upon service of an application for certiorari."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-15-standard-of-review-analysis",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Standard of Review Analysis (Vavilov)",
+        "description": "The framework for determining the level of deference a reviewing court owes to a tribunal's decision. The presumptive standard is 'reasonableness', where the court looks for a rational and justified outcome. 'Correctness' applies to constitutional questions, general questions of law of central importance, and true jurisdictional questions.",
+        "source_sentence_ids": [
+          "page_0039.rtf#vavilov-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Vavilov test of reasonableness on judicial review itself means a decision based on an internally coherent and rational chain of analysis and that is justified in relation to the facts and law that constrain the decision maker. It is not enough for the outcome of the decision to be justifiable; it must also be justified by way of the reasons given by the decision maker.",
+              "source_reference": "page_0039.rtf#vavilov-test"
+            }
+          ],
+          "source_references": [
+            "page_0039.rtf",
+            "05120.rtf"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "The standard of review is the lens through which the entire case is viewed and is often the most critical legal battle. Convincing a court to apply 'correctness' review is a major offensive victory for an applicant, as it allows the court to substitute its own opinion. Securing 'reasonableness' review is a major defensive victory for a respondent, as the tribunal's decision will be upheld as long as it falls within a range of acceptable outcomes.",
+          "litigation_implications": [
+            "Offensive (Applicant): Frame the issue as a true question of jurisdiction or a general question of law of central importance to the legal system (e.g., interpretation of a statute applicable to many tribunals) to argue for the 'correctness' standard.",
+            "Defensive (Respondent): Argue that the issue is one of fact, mixed fact and law, or an interpretation of the tribunal's home statute, engaging its expertise and warranting the deferential 'reasonableness' standard."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Vavilov v. Min. of Citizenship 2019 SCC 65",
+              "proposition": "The leading Supreme Court of Canada decision that established the modern framework for standard of review in Canadian administrative law."
+            },
+            {
+              "case_name": "Dunsmuir v. New Brunswick, 2008 SCC 9",
+              "proposition": "The prior leading case that simplified the standard of review analysis into 'reasonableness' and 'correctness', parts of which remain influential."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-15-interlocutory-review-discouraged",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Premature Review of Interlocutory Decisions",
+        "description": "Courts strongly discourage judicial review of interim or interlocutory rulings by administrative tribunals, preferring to let the administrative process conclude before intervening. Such applications are typically dismissed as premature unless exceptional circumstances exist.",
+        "source_sentence_ids": [
+          "page_0033.rtf#interlocutory-review-discouraged",
+          "page_0034.rtf#interlocutory-review-evils"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Only in exceptional circumstances should there be judicial review of an interim ruling by an administrative tribunal...",
+              "source_reference": "page_0033.rtf#interlocutory-review-discouraged"
+            },
+            {
+              "text": "A decision to hold a formal hearing is merely preliminary, and not merits. Ordinarily judicial review should not be allowed... The evils of such early review are listed: Halifax (R.M.) v. N.S. Human Rts. Comm. 2012 SCC 10...",
+              "source_reference": "page_0034.rtf#interlocutory-review-evils"
+            }
+          ],
+          "source_references": [
+            "page_0033.rtf",
+            "page_0034.rtf"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a procedural trap for applicants who try to challenge every procedural ruling of a tribunal. It serves as a powerful defensive tool for respondents to dismiss such challenges as an improper fragmentation of the administrative process, forcing the applicant to wait for a final decision.",
+          "litigation_implications": [
+            "Offensive (Respondent): If an applicant seeks judicial review of a non-final, procedural ruling, bring a motion to strike the application as premature and an abuse of process that fragments the administrative proceeding.",
+            "Defensive (Applicant): Only seek review of an interlocutory decision if it is a true jurisdictional error that the tribunal cannot correct and that will taint the entire subsequent proceeding. Frame it as an 'exceptional circumstance' to avoid the prematurity bar."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Halifax (R.M.) v. N.S. Human Rts. Comm. 2012 SCC 10",
+              "proposition": "Lists the evils of premature judicial review of interlocutory tribunal decisions, such as delay and fragmentation."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-15-private-body-review",
+        "node_type": "ControlMechanism",
+        "label": "Mechanism: Limited Judicial Review of Private Bodies",
+        "description": "While historically a public law remedy, judicial review is available in Alberta for decisions of private, domestic, or consensual tribunals (e.g., professional boards, co-operatives) for limited purposes: to ensure they act within their jurisdiction, are not patently unreasonable, and do not breach natural justice or fairness.",
+        "source_sentence_ids": [
+          "05120.rtf#falk-para13",
+          "05120.rtf#homestead-para27"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "I find that although the Board's disciplinary tribunals are domestic, their decisions are subject to judicial review for the limited purposes discussed in Kaplan, supra. The court is entitled to review the decisions to determine whether the tribunals have acted within their jurisdiciton; to ensure that decisions within their jurisdiction are not patently unreasonable; and to prevent breaches of natural justice or fairness.",
+              "source_reference": "05120.rtf#falk-para13"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.15"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This mechanism extends the court's supervisory power into the private sphere, providing a crucial check on the power of domestic tribunals that can significantly impact individuals' livelihoods and rights. It provides a cause of action where a simple breach of contract claim might be insufficient.",
+          "litigation_implications": [
+            "Offensive (Applicant): When challenging a decision by a private board (e.g., a real estate board, a co-op), use the judicial review procedure to attack jurisdictional errors or breaches of fairness, rather than being limited to a standard civil claim.",
+            "Defensive (Respondent Private Body): Argue that the court's supervisory role is highly limited and deferential. Emphasize that the court should not interfere with the substantive merits of a decision made by a consensual tribunal, as long as it acted within its jurisdiction and followed fair procedures."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Falk v. Calgary Real Estate Board Co-Operative Ltd., 2000 ABQB 296",
+              "proposition": "Establishes that decisions of domestic tribunals are subject to judicial review for limited purposes, including jurisdiction, patent unreasonableness, and breaches of natural justice."
+            },
+            {
+              "case_name": "Highwood Congregation of Jehovah's Witnesses (Judicial Ctee.) v. Wall 2018 SCC 26",
+              "proposition": "The leading Supreme Court case on the justiciability of decisions by private religious organizations, emphasizing that judicial review is generally not available for matters of religious doctrine."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-service-trap-operationalizes-limitation",
+        "source_node_id": "pt-r3-15-3-failure-to-serve-all-parties",
+        "target_node_id": "pt-r3-15-2-absolute-limitation-period",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The requirement to serve all parties is a key operational component of the absolute 6-month limitation period, as failure to serve is a failure to comply with the rule.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.15(2) requires the Originating Application to be “filed and served within 6 months.” The obligation is sequential: after filing the Originating Application, the filed commencement document must be served within the same six-month period.",
+              "source_reference": "05120.rtf#tartal-para50"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link highlights that the limitation period is not just about filing; it's a complex trap involving both filing and perfect service. An attack on one front is an attack on the entire limitation compliance.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-habeas-corpus-counters-limitation",
+        "source_node_id": "fp-r3-16-habeas-corpus-non-discretionary",
+        "target_node_id": "pt-r3-15-2-absolute-limitation-period",
+        "relationship_type": "COUNTERS",
+        "description": "The special status of habeas corpus, which can be 'filed at any time' under Rule 3.16, provides a direct counter to the strict 6-month limitation period imposed by Rule 3.15(2) in cases involving detention.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An originating application for an order in the nature of habeas corpus may be filed at any time and must be served under rule 3.15(3) as soon as practicable after filing.",
+              "source_reference": "05121.rtf#r3-16-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship identifies a critical procedural escape hatch. For matters involving deprivation of liberty, an applicant can bypass the fatal 6-month deadline by framing the application as one for habeas corpus.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-new-evidence-exceptions-counter-general-rule",
+        "source_node_id": "pt-r3-22-new-evidence-exceptions",
+        "target_node_id": "fp-r3-22-no-new-evidence-rule",
+        "relationship_type": "COUNTERS",
+        "description": "The narrow exceptions for admitting new evidence (e.g., for bias, breach of natural justice) provide a direct, albeit limited, counter to the general prohibition on introducing evidence outside the tribunal's record.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "When the merits of a decision are challenged, the reviewing Court considers just the information before the decision maker; when the challenge is to the process followed by the decision maker, it may be necessary to permit additional evidence...",
+              "source_reference": "05130.rtf#abdulghafoor-para65"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This highlights the primary adversarial dynamic regarding evidence: the general rule versus the exceptions. An applicant's success often depends on their ability to fit their new evidence into one of these exceptional categories.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-permission-to-question-reinforces-no-new-evidence",
+        "source_node_id": "cm-r3-21-permission-to-question",
+        "target_node_id": "fp-r3-22-no-new-evidence-rule",
+        "relationship_type": "REINFORCES",
+        "description": "The requirement to get court permission before questioning witnesses reinforces the general rule against new evidence by preventing parties from creating new testimonial evidence through a back-door discovery process.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Judicial review is conducted on the existing record, and allowing discovery or oral evidence is exceptional.",
+              "source_reference": "page_0062.rtf#discovery-exceptional"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link shows how different rules work in concert to achieve a strategic objective: confining the review to the existing record. Rule 3.21 acts as a procedural barrier that supports the evidentiary principle of Rule 3.22.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-compel-record-operationalizes-no-new-evidence",
+        "source_node_id": "cm-r3-18-compel-record",
+        "target_node_id": "fp-r3-22-no-new-evidence-rule",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The mechanism to compel the record under Rule 3.18 operationalizes the 'no new evidence' rule by formally defining the body of evidence upon which the review will be conducted.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The record before the tribunal is generally the record before the Court, and additional affidavits and evidence are exceptional...",
+              "source_reference": "05130.rtf#slatter-j-para14"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship clarifies that the 'record' is not an abstract concept; it is a tangible collection of documents produced via the Rule 3.18 process. Controlling the contents of the record is therefore the primary way to control the application of the 'no new evidence' rule.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-scope-of-record-modifies-compel-record",
+        "source_node_id": "wf-r3-18-scope-of-record-framework",
+        "target_node_id": "cm-r3-18-compel-record",
+        "relationship_type": "MODIFIES",
+        "description": "The legal framework defining the scope of the record ('touching the matter') modifies and defines the practical power of the mechanism to compel the record, setting the boundaries for what a tribunal must produce.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The requirement to produce “all other papers or documents touching the matter” does not mean that the tribunal has to make full disclosure of all records in its possession or power. For the purposes of the Return the “matter” is the decision and the way it was made.",
+              "source_reference": "05126.rtf#robertson-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This shows the interplay between a procedural tool (compelling the record) and the legal test that governs its use. A litigator cannot just use the tool; they must win the argument about the scope framework to use it effectively.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-public-interest-veto-counters-stay-test",
+        "source_node_id": "cm-r3-23-2-public-interest-override",
+        "target_node_id": "wf-r3-23-stay-test",
+        "relationship_type": "COUNTERS",
+        "description": "The public interest override in Rule 3.23(2) acts as a direct counter or 'veto' to the standard three-part test for a stay, allowing a court to refuse a stay even if the applicant meets the RJR-MacDonald criteria.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite subrule (1), no order to stay is to be made if, in the Court's opinion, the stay would be detrimental either to the public interest or to public safety.",
+              "source_reference": "05131.rtf#r3-23-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship maps a critical trump card in litigation involving regulators. It shows that the standard legal test for a stay is not the end of the analysis; it can be defeated by a successful public interest argument.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-technical-defect-shield-counters-remedy-framework",
+        "source_node_id": "cm-r3-24-3-technical-defect-shield",
+        "target_node_id": "wf-r3-24-remedial-discretion-framework",
+        "relationship_type": "COUNTERS",
+        "description": "The court's power to validate a decision with a mere technical defect acts as a countermeasure to the applicant's request for a remedy, allowing the court to refuse to quash a decision even when a flaw is found.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the sole ground for a remedy is a defect in form or a technical irregularity, the Court may, if the Court finds that no substantial wrong or miscarriage of justice has occurred, despite the defect, (a) refuse a remedy...",
+              "source_reference": "05133.rtf#r3-24-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This maps a key defensive tactic. It shows that proving an error (winning the liability phase) does not automatically lead to a remedy. The respondent can still win by minimizing the error's significance.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-discretionary-nature-modifies-remedy-framework",
+        "source_node_id": "fp-r3-15-discretionary-remedy",
+        "target_node_id": "wf-r3-24-remedial-discretion-framework",
+        "relationship_type": "MODIFIES",
+        "description": "The foundational principle that judicial review is discretionary modifies the entire remedial framework, giving the court an overarching power to refuse any remedy even if grounds are established.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "They are said to be 'discretionary', and an applicant with clearly proven cause of action may be refused relief for good reason.",
+              "source_reference": "page_0034.rtf#discretion-general"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship establishes the ultimate judicial 'safety valve'. It shows that even a successful argument on the merits and a request for a specific remedy can be defeated by broader discretionary factors like delay or the existence of an alternative remedy.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-habeas-corpus-counters-discretionary-nature",
+        "source_node_id": "fp-r3-16-habeas-corpus-non-discretionary",
+        "target_node_id": "fp-r3-15-discretionary-remedy",
+        "relationship_type": "COUNTERS",
+        "description": "The non-discretionary nature of habeas corpus directly counters the general principle that judicial review remedies are discretionary.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But habeas corpus is not discretionary.",
+              "source_reference": "page_0034.rtf#habeas-not-discretionary"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This highlights the unique and powerful status of habeas corpus. It is an exception to the court's usual off-ramps, forcing a decision on the legality of detention.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-ag-right-to-be-heard-reinforces-service-on-crown",
+        "source_node_id": "cm-r3-17-ag-right-to-be-heard",
+        "target_node_id": "pt-r3-15-3-failure-to-serve-all-parties",
+        "relationship_type": "REINFORCES",
+        "description": "The Attorney General's absolute right to be heard under Rule 3.17 reinforces the critical importance of the mandatory service requirement on the Crown under Rule 3.15(3)(b).",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Failure to serve the Minister of Justice under R. 3.15(3)(b) is enough ground to refuse mandamus.",
+              "source_reference": "page_0052.rtf#failure-to-serve-minister"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link connects the procedural requirement (service) with the substantive right (to be heard), explaining *why* failure to serve the Crown is treated as a fatal, non-curable defect.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-suspension-of-jurisdiction-counters-stay-test",
+        "source_node_id": "fp-r3-15-suspension-of-jurisdiction",
+        "target_node_id": "wf-r3-23-stay-test",
+        "relationship_type": "COUNTERS",
+        "description": "The automatic suspension of a lower court's jurisdiction upon service provides a powerful alternative and counter to seeking a discretionary stay, as it achieves the goal of halting proceedings without needing to meet the three-part test.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The effect of the law as explained by Justice Cooke should not be confused with the provisions of Rule 3.23 which provide a mechanism for the reviewing Court to stay the operation of the decision...",
+              "source_reference": "05120.rtf#hosack-distinction"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship identifies a key tactical choice for an applicant. Instead of a difficult stay motion, an applicant can achieve a similar result (halting the lower court) automatically through the act of service.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-standard-of-review-modifies-remedy-framework",
+        "source_node_id": "wf-r3-15-standard-of-review-analysis",
+        "target_node_id": "wf-r3-24-remedial-discretion-framework",
+        "relationship_type": "MODIFIES",
+        "description": "The applicable standard of review profoundly modifies the court's exercise of its remedial discretion. A finding of unreasonableness may lead to remission, while a finding of incorrectness on a legal question may lead the court to substitute its own answer.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "By contrast, in applying the correctness standard, a reviewing court will show no deference, but will instead undertake its own analysis of the question. The court will then decide if it agrees with the determination of the decision maker; if not, it will substitute its own view and provide the correct answer.",
+              "source_reference": "05120.rtf#dunsmuir-para50"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link connects the core legal test (standard of review) to the ultimate outcome (remedy). It shows that the choice of standard is not an academic exercise but a critical factor that shapes the range of possible remedies.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-interlocutory-review-trap-reinforces-discretion",
+        "source_node_id": "pt-r3-15-interlocutory-review-discouraged",
+        "target_node_id": "fp-r3-15-discretionary-remedy",
+        "relationship_type": "REINFORCES",
+        "description": "The judicial policy of discouraging review of interlocutory decisions is a specific application and reinforcement of the broader principle that judicial review is a discretionary remedy exercised with restraint.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Splitting or fragmenting administrative process should be avoided, and so a decision about an interlocutory ruling may be postponed.",
+              "source_reference": "page_0067.rtf#fragmenting-avoided"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship shows how a general principle is operationalized into a specific procedural bar. The court's discretion is not abstract; it manifests as concrete rules like the one against premature review.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-private-body-review-modifies-limitation-period",
+        "source_node_id": "cm-r3-15-private-body-review",
+        "target_node_id": "pt-r3-15-2-absolute-limitation-period",
+        "relationship_type": "MODIFIES",
+        "description": "The application of judicial review procedures to private bodies means that the strict 6-month limitation period likely also applies to these challenges, modifying the traditional, longer limitation periods that might apply in private law.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Were it necessary to decide in this case, in my view the six month time limit would apply ….",
+              "source_reference": "05120.rtf#lee-v-yeung-para38"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This highlights a crucial and potentially unexpected trap. Parties dealing with private tribunals might assume standard limitation periods apply, but by using the judicial review mechanism, they are likely bound by its much shorter, stricter deadline.",
+          "litigation_implications": [],
+          "case_law_anchors": [
+            {
+              "case_name": "Lee v. Yeung, 2012 ABQB 40",
+              "proposition": "Suggests in obiter that the six-month time limit for judicial review would apply to challenges against private bodies brought under the judicial review rules."
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-016-limitation-period-is-component-of-private-body-review",
+        "source_node_id": "pt-r3-15-2-absolute-limitation-period",
+        "target_node_id": "cm-r3-15-private-body-review",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The absolute 6-month limitation period is a critical procedural component that must be satisfied when seeking judicial review of a private body's decision.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It would be difficult to argue that the reasoning of Slatter J in Papaschase would not apply equally to review of private bodies.",
+              "source_reference": "05120.rtf#lee-v-yeung-para37"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship reinforces the idea that choosing the judicial review path for a private body dispute imports all of its procedural baggage, most notably the unforgiving limitation period.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-remedial-framework-operationalizes-standard-of-review",
+        "source_node_id": "wf-r3-24-remedial-discretion-framework",
+        "target_node_id": "wf-r3-15-standard-of-review-analysis",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The court's remedial powers under Rule 3.24 operationalize the findings from the standard of review analysis, providing the concrete tools to implement the court's judgment.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The discretion to provide directions to an administrative tribunal is part of the multi-faceted question of the appropriate remedy that engages consideration of the Court's common law and statutory jurisdiction...",
+              "source_reference": "05133.rtf#morawetz-para32"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link connects the abstract legal conclusion (e.g., 'the decision was unreasonable') to the concrete action the court takes (e.g., 'the matter is remitted to a new panel to consider only X').",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-service-trap-requires-ag-right-to-be-heard",
+        "source_node_id": "pt-r3-15-3-failure-to-serve-all-parties",
+        "target_node_id": "cm-r3-17-ag-right-to-be-heard",
+        "relationship_type": "REQUIRES",
+        "description": "The procedural trap of failing to serve all parties is predicated on the substantive requirement that certain parties, like the Attorney General, have an absolute right to be heard and therefore must be served.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A Crown or statutory body always is implicated in administrative law and thus must be given notice of applications that ask the court to contemplate a judicial review; an order cannot be granted without such notice...",
+              "source_reference": "05120.rtf#kyambadde-para13"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship provides the underlying 'why' for the service trap. It's not just a technicality; it's about protecting a fundamental right of the Crown to participate.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-stay-test-is-component-of-discretionary-remedy",
+        "source_node_id": "wf-r3-23-stay-test",
+        "target_node_id": "fp-r3-15-discretionary-remedy",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The three-part test for a stay is a specific, structured application of the court's broader discretionary power to manage proceedings and grant interim relief.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "At the end, a fundamental question is whether a stay would be just and equitable in all the circumstances.",
+              "source_reference": "page_0042.rtf#stay-just-and-equitable"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link shows how a broad legal principle (discretion) is channeled through a specific, predictable legal test (the RJR-MacDonald framework) to provide structure to the decision-making process.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-no-new-evidence-rule-requires-compel-record",
+        "source_node_id": "fp-r3-22-no-new-evidence-rule",
+        "target_node_id": "cm-r3-18-compel-record",
+        "relationship_type": "REQUIRES",
+        "description": "The principle of being confined to the record requires a mechanism to first establish and obtain that record from the tribunal.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The general rule is that judicial review is conducted based on the Return filed by the tribunal.",
+              "source_reference": "05130.rtf#slatter-j-para14"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship shows the logical dependency between the evidentiary rule and the procedural tool. One cannot enforce the 'no new evidence' rule without first having a defined record obtained through the compulsion mechanism.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-021-triggers-are-subject-to-limitation",
+        "source_node_id": "fp-r3-15-1-prerogative-remedy-triggers",
+        "target_node_id": "pt-r3-15-2-absolute-limitation-period",
+        "relationship_type": "IS_SUBJECT_TO",
+        "description": "The ability to seek prerogative remedies, which triggers the judicial review process, is subject to the absolute 6-month limitation period for filing and serving.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "an originating application for judicial review to set aside a decision or act of a person or body must be filed and served within 6 months after the date of the decision or act...",
+              "source_reference": "05119.rtf#r3-15-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This fundamental link connects the 'what' (the remedies sought) with the 'when' (the deadline). It establishes that the choice to pursue these powerful remedies automatically engages the corresponding procedural trap of the limitation period.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-022-tribunal-limit-modifies-review-analysis",
+        "source_node_id": "cm-r3-15-tribunal-argument-limit",
+        "target_node_id": "wf-r3-15-standard-of-review-analysis",
+        "relationship_type": "MODIFIES",
+        "description": "The rule limiting a tribunal's participation modifies the entire dynamic of the review by silencing a key party on the merits, forcing the court and the remaining parties to conduct the analysis without the tribunal's advocacy.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The statutory tribunal should be patently neutral. It cannot do that if it dons the uniform of one army...",
+              "source_reference": "05120.rtf#brewer-para37"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link highlights a significant tactical advantage. By enforcing this limit, an applicant can prevent the tribunal from defending its reasoning, making it easier to attack the decision as unreasonable or incorrect.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-023-habeas-evidence-is-component-of-habeas-remedy",
+        "source_node_id": "pt-r3-16-2-accelerated-evidence-deadline",
+        "target_node_id": "fp-r3-16-habeas-corpus-non-discretionary",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The accelerated evidence deadline is a specific procedural component of the unique, urgent nature of the habeas corpus remedy.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Habeas corpus is rightly regarded as almost sacred, and a cornerstone of the subject’s defence against the monarch (government). Such applications are presumed to be urgent.",
+              "source_reference": "page_0053.rtf#habeas-sacred"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship explains the 'why' behind the procedural trap: the urgency of liberty interests dictates faster timelines than standard administrative law matters.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-024-enforce-record-reinforces-compel-record",
+        "source_node_id": "cm-r3-19-3-compel-deficient-record",
+        "target_node_id": "cm-r3-18-compel-record",
+        "relationship_type": "REINFORCES",
+        "description": "The court's enforcement power under Rule 3.19(3) reinforces the applicant's initial right to compel the record under Rule 3.18 by providing a mechanism to address non-compliance.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the Court is not satisfied with the explanation for not sending all or part of the record of proceedings, the Court may order... the person or body to send a certified copy of a record to the court clerk...",
+              "source_reference": "05125.rtf#r3-19-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link shows the two-stage nature of obtaining the record: the initial demand and the subsequent enforcement. It maps the complete procedural path for an applicant facing a recalcitrant tribunal.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-025-inadequate-remedy-counters-discretionary-denial",
+        "source_node_id": "wf-r3-15-inadequate-alternative-remedy-gateway",
+        "target_node_id": "fp-r3-15-discretionary-remedy",
+        "relationship_type": "COUNTERS",
+        "description": "The argument that an alternative remedy is inadequate provides a direct counter to a respondent's attempt to have the court exercise its discretion to deny judicial review.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An applicant need not exhaust an appeal right, when the appeal right is not broad enough to cover the issue pursued on judicial review...",
+              "source_reference": "page_0035.rtf#inadequate-appeal-remedy"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This maps the central argument and counter-argument regarding the court's discretion. The respondent argues 'there's another way,' and the applicant counters with 'that way is a dead end for my issue.'",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-026-remedy-framework-is-comprised-of-new-panel",
+        "source_node_id": "wf-r3-24-remedial-discretion-framework",
+        "target_node_id": "cm-r3-24-remit-to-new-panel",
+        "relationship_type": "IS_COMPRISED_OF",
+        "description": "The specific power to remit a matter to a new panel is a component of the court's broader remedial discretion under Rule 3.24.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.24(c) provides the Court jurisdiction to give any other direction it considers necessary in addition to remitting the matter back to the tribunal for reconsideration...",
+              "source_reference": "05133.rtf#morawetz-para30"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This structural link breaks down the general remedial framework into its specific, actionable parts, allowing for more granular tactical planning.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-027-remedy-framework-is-comprised-of-limit-scope",
+        "source_node_id": "wf-r3-24-remedial-discretion-framework",
+        "target_node_id": "cm-r3-24-limit-reconsideration-scope",
+        "relationship_type": "IS_COMPRISED_OF",
+        "description": "The specific power to limit the scope of a reconsideration is a component of the court's broader remedial discretion under Rule 3.24.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The discretion to provide directions to an administrative tribunal is part of the multi-faceted question of the appropriate remedy...",
+              "source_reference": "05133.rtf#morawetz-para32"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This structural link breaks down the general remedial framework into its specific, actionable parts, allowing for more granular tactical planning.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-028-bylaw-as-decision-is-subject-to-limitation",
+        "source_node_id": "fp-r3-15-bylaw-as-decision",
+        "target_node_id": "pt-r3-15-2-absolute-limitation-period",
+        "relationship_type": "IS_SUBJECT_TO",
+        "description": "The principle that a municipal bylaw is a 'decision or act' means that any challenge to it is subject to the absolute 6-month limitation period.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Accordingly, we conclude that a bylaw is a decision or act of the municipality subject to the remedies in Rules 3.15(1)(a) and (b).",
+              "source_reference": "05120.rtf#okotoks-para9"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link highlights a critical trap for municipal law practitioners. By classifying a bylaw challenge under the judicial review rules, it imports the much shorter and stricter limitation period, overriding what might be assumed to be a longer period for challenging legislation.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-029-triggers-are-subject-to-discretion",
+        "source_node_id": "fp-r3-15-1-prerogative-remedy-triggers",
+        "target_node_id": "fp-r3-15-discretionary-remedy",
+        "relationship_type": "IS_SUBJECT_TO",
+        "description": "Even when an applicant correctly identifies the triggers for judicial review and seeks a prerogative remedy, the granting of that remedy is ultimately subject to the court's overarching discretion.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Unlike actions for debt, negligence, etc., most forms of prerogative relief or judicial review do not ordinarily lie as of right. They are said to be 'discretionary'...",
+              "source_reference": "page_0034.rtf#discretion-general"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship establishes that meeting the jurisdictional threshold is not enough to guarantee a remedy. It connects the procedural gateway to the substantive discretionary hurdles that follow.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-030-limit-scope-counters-re-litigation",
+        "source_node_id": "cm-r3-24-limit-reconsideration-scope",
+        "target_node_id": "wf-r3-24-remedial-discretion-framework",
+        "relationship_type": "COUNTERS",
+        "description": "The power to limit the scope of reconsideration is a tool to counter the risk that a respondent will use the reconsideration process to re-litigate issues that were already decided in the applicant's favor.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...be bound by the previous findings of the tribunal: Shuchuk v Alberta (Workers' Compensation Board), 2012 ABCA 50 at para 43 [Shuchuk 2012].",
+              "source_reference": "05133.rtf#morawetz-para33b"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This highlights the offensive use of a remedial direction. It's not just about correcting an error; it's about strategically ring-fencing the victory to prevent the opponent from unwinding it in the next stage.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-031-remit-new-panel-counters-bias",
+        "source_node_id": "cm-r3-24-remit-to-new-panel",
+        "target_node_id": "pt-r3-22-new-evidence-exceptions",
+        "relationship_type": "COUNTERS",
+        "description": "The remedy of remitting to a new panel is the ultimate countermeasure for a successful argument of bias, which is often established using the exceptions to the 'no new evidence' rule.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There is no fixed rule but, factors considered include fairness and the appearance of impartiality, practicality, and efficiency...",
+              "source_reference": "05133.rtf#morawetz-para33a"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This connects the evidentiary fight (proving bias with new evidence) to its logical remedial conclusion (removing the biased decision-maker from the process).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-032-private-body-review-is-subject-to-triggers",
+        "source_node_id": "cm-r3-15-private-body-review",
+        "target_node_id": "fp-r3-15-1-prerogative-remedy-triggers",
+        "relationship_type": "IS_SUBJECT_TO",
+        "description": "The ability to seek judicial review of a private body is operationalized through the same procedural triggers (seeking a declaration, etc.) as a review of a public body.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.15(1)(b) provides that an originating application for a declaration or injunction must be filed in the form of an originating application for judicial review.",
+              "source_reference": "05120.rtf#lee-v-yeung-para33"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link clarifies that while the *scope* of review for private bodies is limited, the *procedure* for initiating that review is the same, thereby engaging all the associated rules and traps.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-limitation-kill-shot",
+        "title": "The Limitation Kill Shot",
+        "objective": "To achieve summary dismissal of a judicial review application by exploiting a failure to comply with the absolute 6-month 'file and serve' limitation period.",
+        "prerequisites": [
+          "Opponent has filed an Originating Application for Judicial Review.",
+          "More than 6 months have passed since the date of the decision being challenged."
+        ],
+        "expected_outcome": "The Originating Application is struck or summarily dismissed with costs, terminating the litigation without any need to address the merits.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "pt-r3-15-2-absolute-limitation-period"
+            ],
+            "action": "Upon receipt of the application, immediately identify the date of the decision under review and calculate the 6-month deadline.",
+            "justification": "The Alberta Court of Appeal previously confirmed, under the predecessor to Rule 3.15(2), that 'the six-month limitation runs from the date of the decision': Athabasca CA at para 27."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-15-2-absolute-limitation-period",
+              "pt-r3-15-3-failure-to-serve-all-parties"
+            ],
+            "action": "Verify the filing date on the court-stamped copy and the date of service on your client. Crucially, verify or inquire about the date of service on all other required parties, including the Minister of Justice and any other 'directly affected' body.",
+            "justification": "Rule 3.15(2) requires the Originating Application to be 'filed and served within 6 months.' The obligation is sequential: after filing the Originating Application, the filed commencement document must be served within the same six-month period."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-15-2-absolute-limitation-period"
+            ],
+            "action": "If either the filing or the service on any required party occurred after the 6-month deadline, file an application for summary dismissal.",
+            "justification": "Compliance with Rule 3.15 is mandatory and the six-month time period to both file and serve the Originating Application cannot be extended or varied... Failure to either file or serve within the limitation period is fatal and the desired remedy - setting aside the decision - cannot be granted."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "pt-r3-15-3-failure-to-serve-all-parties"
+            ],
+            "action": "In argument, emphasize that the requirement is absolute, non-waivable (even by the unserved party), and that the court has no discretion to grant an extension.",
+            "justification": "Rule 3.15 does not address waiver... APEGA and the EITs may waive their right to participate in the proceedings but they cannot waive ENMAX's mandatory service obligations."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-procedural-fairness-pivot",
+        "title": "The Procedural Fairness Pivot",
+        "objective": "To overcome an unfavorable administrative record by introducing new evidence under the guise of a procedural fairness challenge.",
+        "prerequisites": [
+          "The administrative record produced under Rule 3.18 is factually weak or damaging to the applicant's case on the merits.",
+          "There is extrinsic evidence of a procedural flaw (e.g., an email showing ex-parte communication, evidence of bias)."
+        ],
+        "expected_outcome": "The new evidence is admitted, the tribunal's decision is quashed for procedural unfairness, and the matter is remitted for reconsideration, neutralizing the unfavorable record.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "fp-r3-22-no-new-evidence-rule"
+            ],
+            "action": "Acknowledge the general rule that judicial review is confined to the record that was before the tribunal.",
+            "justification": "The general rule is that judicial review is conducted based on the Return filed by the tribunal. ... The record before the tribunal is generally the record before the Court, and additional affidavits and evidence are exceptional."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-22-new-evidence-exceptions"
+            ],
+            "action": "File an affidavit containing the new evidence, but frame the entire argument not as a challenge to the merits, but as proof of a breach of natural justice that is not apparent from the formal record.",
+            "justification": "Slatter J then went on to note the limited instances where supplementary evidence may be allowed: ... b. to demonstrate a breach of the rules of natural justice not apparent from the record..."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-22-new-evidence-exceptions"
+            ],
+            "action": "Argue that the court's role is to ensure the process was fair, and it cannot do so without considering the extrinsic evidence of the procedural defect.",
+            "justification": "When the merits of a decision are challenged, the reviewing Court considers just the information before the decision maker; when the challenge is to the process followed by the decision maker, it may be necessary to permit additional evidence."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "cm-r3-24-remit-to-new-panel"
+            ],
+            "action": "If successful, request that the matter be remitted for reconsideration before a new, untainted panel to cure the appearance of bias.",
+            "justification": "...courts outside the SafeRoads context have confirmed the discretion to direct that a reconsideration: (a) be conducted by a different person or panel..."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-jurisdictional-purity-play",
+        "title": "The Jurisdictional Purity Play",
+        "objective": "To control the litigation battlefield by silencing the respondent tribunal on the merits and forcing the remaining respondent to defend the decision alone.",
+        "prerequisites": [
+          "The respondent tribunal has filed a brief or affidavit that argues in favor of the reasonableness or correctness of its own decision."
+        ],
+        "expected_outcome": "The offending portions of the tribunal's materials are struck, weakening the overall defense and reinforcing the tribunal's required neutrality in the eyes of the court.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "cm-r3-15-tribunal-argument-limit"
+            ],
+            "action": "Analyze the tribunal's filed materials to identify any arguments that go beyond explaining the record or defending its jurisdiction.",
+            "justification": "The Northwestern Utilities case says that in the superior court or the Court of Appeal, the statutory tribunal is restricted to arguing its own jurisdiction and explaining the record. The tribunal cannot argue the merits."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "cm-r3-15-tribunal-argument-limit"
+            ],
+            "action": "Bring an application to strike the portions of the tribunal's materials that argue the merits of the case.",
+            "justification": "The policy of Canadian law (and doubtless English law) is plain. The statutory tribunal should be patently neutral. It cannot do that if it dons the uniform of one army, still less if it enters that army's front line and joins its bayonet charge."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-r3-15-standard-of-review-analysis"
+            ],
+            "action": "Argue that allowing the tribunal to argue the merits prejudices the applicant and undermines the appearance of impartiality, which is critical, especially if the matter may be remitted back to the same tribunal.",
+            "justification": "Therefore, very often the Court of Queen's Bench sends the matter back to the tribunal to try again... On the danger of bias thereby created, see Clayre v. Assn. of Prof. Eng. etc., 2005 ABCA 59, 363 A.R. 114."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-defending-the-stay-application",
+        "title": "Defending the Stay Application via Public Interest Veto",
+        "scenario": "An applicant, whose professional license was suspended by a regulator for public safety reasons, brings an application for judicial review and an urgent application for a stay of the suspension pending the review. The applicant argues they will suffer irreparable harm (loss of livelihood).",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-23-stay-test"
+            ],
+            "action": "Applicant files for a stay, arguing a serious issue to be tried, irreparable harm (inability to work), and that the balance of convenience favors them as an individual against a large regulator."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-23-stay-test"
+            ],
+            "action": "Concede for the sake of argument that there may be a serious issue and irreparable harm to the applicant."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "cm-r3-23-2-public-interest-override"
+            ],
+            "action": "Pivot the entire defense to Rule 3.23(2). Argue that the balance of convenience is not between the two parties, but between the applicant's private interest and the broader public interest in safety."
+          },
+          {
+            "move_number": 3,
+            "node_refs": [
+              "cm-r3-23-2-public-interest-override"
+            ],
+            "action": "Submit evidence and argument that the original suspension was necessary to protect the public from harm and that staying the suspension would be 'detrimental to public safety', thereby triggering the absolute prohibition on granting a stay.",
+            "justification": "Despite subrule (1), no order to stay is to be made if, in the Court's opinion, the stay would be detrimental either to the public interest or to public safety."
+          }
+        ],
+        "decision_points": [
+          "The key decision point for the judge is whether the applicant's private harm outweighs the potential risk to the public. In cases involving clear public safety mandates (e.g., medical professionals, drivers), the public interest argument is extremely potent."
+        ],
+        "likely_resolution": "The stay application is denied. The court finds that even if the applicant meets the first two parts of the test, the public safety override in Rule 3.23(2) is engaged, and the court has no discretion to grant the stay. The suspension remains in effect during the judicial review."
+      },
+      {
+        "simulation_id": "cms-002-countering-the-incomplete-record-gambit",
+        "title": "Countering the 'Incomplete Record' Gambit",
+        "scenario": "An applicant, unhappy with the certified record provided by a tribunal, brings an application to compel production of the tribunal members' personal notes and internal draft reasons, arguing they 'touch the matter' under the broad IMS Health framework.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "cm-r3-18-compel-record",
+              "wf-r3-18-scope-of-record-framework",
+              "cm-r3-19-3-compel-deficient-record"
+            ],
+            "action": "Applicant files an application under Rule 3.19(3) to compel a further and better record, arguing that internal notes and drafts are necessary to understand the 'real' reasons for the decision and therefore 'touch the matter'."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-18-scope-of-record-framework"
+            ],
+            "action": "Argue that the requested documents were not 'before the decision-maker' as part of the formal record, but are part of the deliberative process itself. Cite Robertson v. Edmonton Police Service.",
+            "justification": "Generally only documents that were actually before the decision-maker at the time the decision was made need be included..."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "wf-r3-18-scope-of-record-framework"
+            ],
+            "action": "Invoke the principle of 'deliberative secrecy'. Argue that compelling production of internal notes and drafts would have a chilling effect on administrative decision-making and that the applicant has not met the high threshold to pierce this secrecy.",
+            "justification": "Administrative decision-makers are to be granted limited deliberative secrecy... secrecy remains the rule, but it may nonetheless be lifted when the litigant can present valid reasons for believing that the process followed did not comply with the rules of natural justice."
+          },
+          {
+            "move_number": 3,
+            "node_refs": [
+              "wf-r3-18-scope-of-record-framework"
+            ],
+            "action": "Characterize the request as a 'fishing expedition' and argue the applicant has failed to provide a 'valid reason for belief' (e.g., affidavit evidence of impropriety) to justify such an intrusive request.",
+            "justification": "Thus a party must show that there is a valid reason for belief in the allegation before records related to that matter must be included in the return."
+          }
+        ],
+        "decision_points": [
+          "The judge must decide if the applicant has provided a sufficient evidentiary basis to suggest procedural impropriety, which would justify piercing deliberative secrecy. Absent such evidence, the request will be seen as a fishing expedition."
+        ],
+        "likely_resolution": "The application to compel the internal notes and drafts is dismissed. The court upholds the principle of deliberative secrecy and finds that the applicant has not provided a valid reason to believe an impropriety occurred that would justify compelling production of such materials. The judicial review is confined to the formal record already produced."
+      },
+      {
+        "simulation_id": "cms-003-defeating-the-inadequate-remedy-gambit",
+        "title": "Defeating the 'Inadequate Remedy' Gambit",
+        "scenario": "An applicant seeks judicial review of a tribunal decision, despite a clear statutory right of appeal to a specialized appeal body. The applicant argues the appeal is an inadequate remedy.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-15-inadequate-alternative-remedy-gateway"
+            ],
+            "action": "Applicant files for judicial review, arguing that the statutory appeal is inadequate because it is limited to questions of law and cannot address the alleged procedural unfairness in their case."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "fp-r3-15-discretionary-remedy"
+            ],
+            "action": "Bring a preliminary motion to strike or stay the judicial review application, arguing the court should exercise its discretion to decline jurisdiction in favor of the specialized appeal process."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "fp-r3-15-discretionary-remedy",
+              "wf-r3-15-inadequate-alternative-remedy-gateway"
+            ],
+            "action": "Directly counter the 'inadequacy' argument. Scrutinize the enabling statute of the appeal body. Argue that the appeal body has the power, either explicitly or implicitly, to address procedural fairness issues and that the legislative scheme intended for such matters to be handled by the expert appeal body.",
+            "justification": "A commonly-used ground for refusing judicial review is the existence of another remedy at least as efficacious, such as a substantive appeal to somebody, or a statutory review by an independent body..."
+          },
+          {
+            "move_number": 3,
+            "node_refs": [
+              "pt-r3-15-interlocutory-review-discouraged"
+            ],
+            "action": "Argue that allowing the judicial review to proceed would lead to fragmentation and undermine the authority and expertise of the specialized appeal body, contrary to legislative intent and judicial policy.",
+            "justification": "Running both an appeal and judicial review risks fragmentation, delay, expense, and a judicial process which might have been academic..."
+          }
+        ],
+        "decision_points": [
+          "The court's decision will hinge on its interpretation of the appeal body's statutory powers. If the statute is silent, the court will look to case law to determine if similar appeal bodies have been found to have jurisdiction over procedural fairness."
+        ],
+        "likely_resolution": "If the respondent can demonstrate that the appeal body has a track record of, or the statutory authority to, deal with procedural fairness, the court will likely exercise its discretion to stay or dismiss the judicial review. The applicant will be forced back into the statutory appeal channel, which may have different timelines, standards of review, and remedial powers."
+      }
+    ]
+  }
+}

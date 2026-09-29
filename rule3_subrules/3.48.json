@@ -1,0 +1,224 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.48",
+  "title": {
+    "official": "Plaintiff’s options",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.48   A plaintiff in an action in which a third party claim is filed\nmay apply to the Court for an order under rule 3.68 with respect to\nthe third party claim.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d6c62c863d3fb08ac00cf9b087122b66f07135d3c78f26ed7485795d0a466cab"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.48 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          69
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Plaintiff's Options",
+      "operative_text_raw": null,
+      "operative_text_sha256": "cb4437c4582f2afc1606c55d763747db4d16ac8155905a16f5ad9d53319f5fb9",
+      "defined_terms": "Court, file, order, plaintiff",
+      "related_provisions": "3.55 (status of parties on third party claims) *Third Party Statement of Defence and Additional Options*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-120"
+        ],
+        "offset_in_clean_text": [
+          384935,
+          385316
+        ]
+      },
+      "operative_text_note": "same wording as official 3.48 (read by eye) except: the bracket label '[Court options to deal with significant deficiencies]' after 'rule 3.68' (matches the official 3.68 title); 'rule3.68' with the space missing; the title in title case ('Plaintiff's Options', straight apostrophe, printed before the rule number); '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker. No substantive difference.",
+      "commentary_review_flag": "Read in full, p.3-120 (lines 3419-3421): rule text, Defined Terms 'Court, file, order, plaintiff' (the Appendix defines each), Related Provisions '3.55 (status of parties on third party claims)'; no Information Note and no note of its own. The built record: defined_terms, related_provisions (with the heading of 3.49 'Third Party Statement of Defence and Additional Options' after it); commentary is empty; nothing dropped. (1) Related Provisions: '3.55 (status of parties on third party claims)' - the official title of 3.55 is 'Application of rules to third party claims'; the label is not the official title (its content was not re-read here). (2) Book A prints no commentary for 3.48; Book B prints none (rule text only, no commentary paragraph); Book C's commentary is complete (see its flag). (3) Pointers to 3.48: Book A p.3-161 (line 4765) '3.47-48 (third party claims)' in the related provisions of a rule not identified here; the cross-reference helper found no other pointer in the official text or in Book A, B or C."
+    },
+    "BOOK_B": {
+      "title": "Plaintiff's options",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_48_001",
+        "part3_part_3_court_actions_004"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "a9adb529cd19fba5b6a6e682756457da5cbd8c053a9bee77f3b248f88fca7fc0",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Plaintiff’s options",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "32b17fb37afbfae781b4265ea213256576092aad85c68532c5d2bab2d14c2111",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The plaintiff is entitled to apply under rule 3.68 in relation to any aspect of a third party claim. This permits a plaintiff to attack such issues as causes of action, jurisdiction, and other infirmities that may exist in the third party claim.",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text, with the bracket label '[Court options to deal with significant deficiencies]' as printed in Book A. The amendment note '[Alta. Reg. 124/2010, r. 3.48 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.48 (read by eye) except: the bracket label '[Court options to deal with significant deficiencies]' after 'rule 3.68' (matches the official 3.68 title); 'rule3.68' with the space missing; the title in title case ('Plaintiff's Options', straight apostrophe, printed before the rule number); '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker. No substantive difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text, with the bracket label '[Court options to deal with significant deficiencies]' as printed in Book A. The amendment note '[Alta. Reg. 124/2010, r. 3.48 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.48",
+      "title_official": "Plaintiff’s options"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "cb4437c4582f2afc1606c55d763747db4d16ac8155905a16f5ad9d53319f5fb9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-120"
+          ],
+          "offset_in_clean_text": [
+            384935,
+            385316
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "a9adb529cd19fba5b6a6e682756457da5cbd8c053a9bee77f3b248f88fca7fc0",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "32b17fb37afbfae781b4265ea213256576092aad85c68532c5d2bab2d14c2111",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d6c62c863d3fb08ac00cf9b087122b66f07135d3c78f26ed7485795d0a466cab",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            69
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "8fbf6b7966f510e95fed6c459363a0146701315c8bf2e5f9f65641740454eeb4"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.48 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.48 BOOK_C commentary sentence split dropped",
+    "3.48 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.48 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.48 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

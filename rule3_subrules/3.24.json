@@ -1,0 +1,235 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.24",
+  "title": {
+    "official": "Additional remedies on judicial review",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.24(1)  If an originating applicant is entitled to a declaration that a\ndecision or act of a person or body is unauthorized or invalid, the\nCourt may, instead of making a declaration, set aside the decision\nor act.\n(2)  The Court may\n(a) direct a person or body to reconsider the whole or any part\nof a matter,\n(b) direct a person or body to reconsider the whole or any part\nof a decision if the Court has set aside the decision under\nsubrule (1), and\n(c) give any other directions it considers necessary.\n(3)  If the sole ground for a remedy is a defect in form or a\ntechnical irregularity, the Court may, if the Court finds that no\nsubstantial wrong or miscarriage of justice has occurred, despite\nthe defect,\n(a) refuse a remedy, or\n(b) validate the decision made to have effect from a date and\nsubject to any terms and conditions that the Court\nconsiders appropriate.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d623ed7717e3420f4daf355877f7d6a082e7a3e7a813926d26d3a27853ac5d03"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.24 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          59
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Additional Remedies on Judicial Review",
+      "operative_text_raw": null,
+      "operative_text_sha256": "6dec08ef6139c9aafa0fbd066f942df0f4990019e333cdc3d84296b31115c78d",
+      "defined_terms": "Court, remedy *A.Split Issues 11Craig v. H.M.Advocate[2022] UKSC 6, [2022] 1WLR 1270. 7Fort McKay M?tis Community Assn.v. M?tis Nation etc.,supra(¶ 54). A judicial review motion was filed with little or no evidence, so both sides asked the supervising judge to split issues and try a preliminary issue as to whether judicial review lay.A judge decided that it did, and sent the matter forward.Then, facts changed and there was other important law. Under what is now R.14.71, the Court of Appeal set aside the order for trial of a preliminary issue. Splitting or fragmenting administrative process should be avoided, and so a decision about an interlocutory ruling may be postponed. 4Fort McKay M?tis Community Assn.v. M?tis Nation etc.(¶'s 46-47, 63-66). British Columbia a compulsory British Columbia government agent.Especially as suing in British Columbia would attorn and thereby let any British Columbia judgment for sales tax owing be enforced in Alberta:Fitter *Int.v.B.C.2019 ABQB 990, JCC 1801 08160 (Dec 20) (¶'s 45-55). 1Knox v. Conservative Party of Can. (#1)2006 ABCA 342. 10Alberta courts could consider constitutionality of British Columbia legislation making any vendor outside uncertainty. Seeking an advisory opinion with no private right, or none different from anyone To get a declaratory judgment, the plaintiff must show that the defendant has a true interest in opposing the declaration proposed, i.e.is a\"proper contradictor\". *B.Declarations On the purpose and limits on granting declarations, see R.3.2 n.C. The grounds for a pure declaration by the court are narrow (and there are 4 or 5 tests for it). It is not normally given if the dispute is over and academic, or has not yet arisen and may not arise. Where declaratory relief is sought, it cannot be said to be moot simply because no other form of relief is sought alongside it. The person seeking the declaration needs a legal interest or right in jeopardy or grave else's, is not enough. An estate beneficiary may not have the right to seek advice and directions from the court, but the Surrogate Rules allow those interested to seek directions.It may be treated as a motion for a declaration. Many Canadian courts have power to consider the constitutionality of legislation, and provincial superior courts have inherent jurisdiction over both federal and provincial matters, including constitutionality.If extra-territorial effects are alleged, those challenging constitutionality of a statute need not go to the province which enacted it, to question its validity, so long as their local courts have a legitimate ground to consider its effects.A declaration is possible. Traditionally, courts do not issue coercive judgments against the Crown because of the long- standing tradition that the Crown will respect declaratory on decisions.But the court's reluctance to coerce depends on such government compliance with declarations. 2Dir.of Pub. Lands Disposition &c.v.Syncrude Can.2023 ABKB 447, JCE 2203 15598 (Jul 27) (¶'s 25- 32). 3Fort McKay M?tis Community Assn.v. M?tis Nation of Alta.Assn.2019 ABQB 892, JCFtMcM 1813 00165 (Nov 23) (¶'s 42-45). 5Dubois v. Sask.2022 SKCA 15, 467 DLR(4th) 651 (31 Jan). 6Fort McKay M?tis Community Assn.v. M?tis Nation etc.(¶'s 52-53). 8The two\"opposing\" parties were associations, each sayingthat it had the right to represent M?tis in a certain area when the Crown had a duty to consult.But the obligation to consult rested solely on the Crown, and a declaration would bind the Crown.And maybe the Crown could have a duty to consult both, and maybe others:Fort McKay M?tis Community Assn.v. M?tis Nation etc.,supra(¶'s 57-62). 9Re Anderson Est.2017 ABQB 422, JCC ES01 119128 (Jul 5). 7Edm.Chief of Police v.Furlong (#2)2013 ABCA 177, 553 AR 126.A labor arbitration decision was quashed and remitted to a new arbitrator despite the expense.The first arbitrator had made a value-added decision re the fundamental issues of fact, even if that was not technically bias:U.F.C.W.Can. U. v. Sobey's-Safeway *(#2)2018 ABQB 470, JCC 1601 17105 (Jun 18). 8Gendre v. Ft.Macleod (Town) (#2)2016 ABQB 111, 97 Admin LR(5th) 324. 9Including denial of costs for tardiness or irrelevant materials:Morris v.Wetaskiwin (Cty.) (#2)2002 ABQB 1090, 326 AR 281. *Habeas corpuscannot be used to get a declaration. AR 1. 1Crane v. Grande Cache Inst.2020 ABQB 677, JCE 2003 0891 (Nov 3) (¶'s 14-17).Especially against a federal board:id.at ¶'s 28-30. 2Utd.Nurses of Alta.v.Cap. Health Authy.,infra.What deference must be shown to original fact findings? cf.R.P. v.Dir. of Child,Youth & Fam.Enhancement Act2015 ABCA 171, 386 DLR(4th) 81;cf.Engel v. *SafeRoads Dir.2022 ABQB 377, JCC 2101 0752 (May 30) (¶'s 41-57) (with criteria for who decides).The Rule allowing the court to overlook technical irregularities does not apply where no hearing is held and the procedure is unfair:Rankin v. Alta.Curling Fedn.Appeals Ctee.2005 ABQB 938, 390 AR 246. 3Gonzalez v. Driver Control Bd.2001 ABQB 757, 328 AR 111.See the C.P.E., Chapter 79, Part O.Cf. decisions on similar wording about appeals:see the C.P.E., Chapter 75, Parts C.6, K.3, P.3, P.4 and P.6, and cf.the examples in a large annotatedCriminal Codediscussing the similar proviso in s.686(1) (b) (iii).See the discussion by Slatter JA, concurring, inEdm.Police Assn. v.Edmonton (City)2007 ABCA 184, 409 4Alexis v.Alta. Environment & Parks2020 ABCA 188, Calg 1801 0379 AC (May 6) (¶'s 36-37). 5Windels v. Reddekopp2023 SKCA 38 (Mar 20) (¶'s 65-92). 6Utd.Nurses of Alta.v.Cap. Health Authy.2001 ABCA 175, 286 AR 178, 181. of fairness.Granting or refusing an adjournment is part of that set of rules.It is discretionary, and *C.Reconsideration If the court finds a legal flaw, but cannot tell whether it had or should have any effect, the court has to send the matter back to the tribunal to reconsider. Rule 3.24(3) can be used to overlook an error by the tribunal which did not affect the outcome. But if there is only one rational solution to the question before the tribunal, sending the matter back to reconsider is pointless and dangerous, and the court should make the decision. There is a discussion of what is fairness or unfairness and its link to natural justice.The more the tribunal's process, its nature, and the things it must decide, resemble judicial decision making, the more likely it is that procedural protections closer to the trial model will be required by the duty so is whether to permit cross-examination.Usually cross-examination on affidavits for a pending hearing is allowed, and that is even more so when some of the issues are complex or difficult. Another aspect of fairness is whether the party has enough information and time to defend himself. A matter was sent back to a labor arbitration board to reconsider. Where a matter is sent back to the tribunal to reconsider, there is no fixed rule about whether a new panel or the original one should decide it.Fairness and its appearance may have to be balanced against practicality and efficiency. *D. Costs A number of criteria for the scale of costs on judicial review are given (with a review of some case law):length, importance to parties and public, whether winner had any personal interest, and novelty of issues. Apart from the partial exception for the tribunal itself, it seems proper to apply ordinary principles of costs. Courts have sometimes rejected pleas for costs immunity by non-profit organizations A plaintiff may get double fees for commencement if the Originating Application for judicial PART 3:COURT ACTIONSR.3.24(3) 3-69 which have sought judicial review and failed. A person added later to judicial review proceedings, who takes an active part, can be liable for costs. facts are complex, because it is important to the parties, or underlying large taxes would be affected. In an appeal as to the validity of an arbitration, it is proper for the court in setting costs in court to take into account the amount that had been in issue in the arbitration. If the Court of 3R.v.Telus Comm'ns.(Min. of Mun.Affairs v.Mun. Govt. Bd.) (#2)2003 ABCA 260, [2004] 2WWR 434; *Gendre v. Ft.McLeod,supra. 4Clarke v. Bean2010 ABCA 201, 87 CPC(6th) 229. 5Hansen v. Hansen2023 ABCA 335, Edm 2303 0145 AC (Nov 24) (¶'s 3-7). 8See the C.P.E., Chapter 79, Part D.5.(c). 9Human Rts.& Citizenship Comm. v.Tequila Bar & Grill2009 ABQB 226, 470 AR 265;cf.Bus.Watch Int. *v. Info. & Privacy Comm.(#2)2009 ABQB 79 (Feb 26). 10Bus.Watch Int.v.Info.& Privacy Comm'r.(#2)2009 ABQB 79, 470 AR 265.But it was unreasonable for a delegate of the Information and Privacy Commissioner to try to use subtle distinctions to ignore or distinguish a Supreme Court of Canada decision in this very litigation and again call for production of privileged papers. Even if the arguments were new, they could have been raised at the earlier stage.So the Commissioner had to pay costs on Schedule C, column 2:Univ. of Calg.v. Info. & Privacy Comm'r.,supra(¶'s 59, 62, 84). 11Bodner v. R.2002 ABCA 274, 317 AR 112,leave granted(SCC 15 May '03). Costs of judicial review will not necessarily be increased beyond Column 1 just because the 6663073 Alta.v.Treasurer (#2)2021 ABCA 430, Edm 2003 0178 AC (Dec 22). 7Univ. of Calg.v. Info.& Privacy Comm'r.2021 ABQB 795, JCC 1801 01021 (Oct 5) (¶'s 75-84). King's Bench gave lump-sum costs, the Court of Appeal cannot use the presumption of using the \"same scale\"of costs, and usually Schedule C would be used (or half of it if the appeal ended before a hearing on the merits). parties, may back a duty to be neutral and at the ministerial end of the scale, and so be able to claim costs when he wins. Costs on quashing by judicial review, even quashing a judicial salary commission on constitutional grounds, are discretionary.So a Court of Appeal will interfere only for error in principle or law, or a clear palpable and overriding error (of fact). 1See further the C.P.E., Chapter 79, Parts B and S. 2Court v.Alta. Env'l. Appeal Bd.2003 ABQB 912, 345 AR 179. The Information and Privacy Commissioner purported to rule on, and deny, privilege in a lawsuit, after a Queen's Bench judge and the Supreme Court of Canada had ruled on it.On the same privilege in the same lawsuit, the Commissioner's delegate again disagreed and ruled that there was no privilege.That was improper.Though tribunals do not normally pay costs, the Commissioner had to pay costs here on Schedule C, column 2. review is ordered restarted by Statement of Claim under R.3.2(4), so that the work is done twice. behaviour, and rarely against tribunals.The mere fact that a superior court has quashed the decision of a tribunal and ordered a new hearing, so that one of the parties has incurred thrown- A Cabinet Minister ruling on an ill-founded claim against the Crown, not between two opposing There should be solicitor-client costs only for reprehensible, scandalous, or outrageous away costs, is no ground for ordering reimbursement of such expenses from the tribunal. activity as an intervener, see R.2.10n.E. usually it does not pay costs even if its action is nullified by the court. But on partisan or careless The tribunal or body whose decision or jurisdiction is attacked is usually made a party, but ABPC 70, 25 Alta LR(5th) 92.Generally on this topic of following pleadings, see R.13.6, n.A. 3Lafarge Can.v. Edmonton (City)2013 ABCA 376, 561 AR 305;HOOPP Realty v.A.G. Clark Hldg.2014 ABCA 20, 31 Constr LR(4th) 173. 4Dushenski v. Lymer2010 ABQB 605, 500 AR 48 (¶'s 24-37). The question of costs may well be within the central core competence of a statutory tribunal and its decision subject to deference on appeal, but that refers to costs of the proceedings, not to separate freestanding compensation, and Parliament did not intend that. of Justice, absence of mention of an issue in one pleading did not bar considering it, where the opponent's pleading did, and the evidence and the argument covered it expressly:Barth v. Axxess etc. Dev.2010 1Cdn.Human Rts. Comm.v. A.-G.Can.2011 SCC 53, [2011] 3 SCR 471. *DIVISION 3 ACTIONS STARTED BY STATEMENT OF CLAIM *Subdivision 1 Statement of Claim *Contents of Statement of Claim*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-66",
+          "3-70"
+        ],
+        "offset_in_clean_text": [
+          209151,
+          222246
+        ]
+      },
+      "operative_text_note": "same wording as official 3.24(1)-(3) (read by eye) except: the lead-in of (2) prints 'The court may' where the official says 'The Court may' (lower-case 'court'); the footnote markers '6' after (1), '7' after (2) and '8' after (3); the title in title case ('Additional Remedies on Judicial Review'); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). This rule's history footnotes 6, 7 and 8 ('Quite similar to previous 1987 R.753.05 / R.753.06 / R.753.07. It was new in 1987') are printed at p.3-66 (line 1744) inside the built 3.23 commentary and are kept there; Book B's quotations tie them to the subrules (former Rule 753.05 is the text of 3.24(1); the Brewer quotation in Book B's 3.15 commentary speaks of R. 753.06 as the power to send the matter back and R. 753.07 as the power to amend).",
+      "commentary_review_flag": "Read in full, p.3-66 (line 1752) to p.3-70 (line 1876): rule text, Defined Terms 'Court, remedy' (the Appendix defines both) and the note (A Split Issues, B Declarations, C Reconsideration, D Costs) with footnotes as printed. The built record puts the Defined Terms and the whole note in the defined_terms field (12,163 characters, nothing dropped); there is no related-provisions or commentary field for Book A 3.24. The field ends with the Division 3 heading ('DIVISION 3 ACTIONS STARTED BY STATEMENT OF CLAIM Subdivision 1 Statement of Claim Contents of Statement of Claim'), which matches the official Division 3 / Subdivision 1 headings and the title of 3.25. Pieces at the end belong to 3.25's note, printed before its title (p.3-70, after the running head 'R.3.25', lines 1868-1876: 'Generally on this topic of following pleadings, see R.13.6, n.A' with footnotes 3 Lafarge Can. v. Edmonton (City) 2013 ABCA 376 and 4 Dushenski v. Lymer 2010 ABQB 605, and 'of Justice, absence of mention of an issue in one pleading did not bar considering it ... Barth v. Axxess etc. Dev. 2010 ...', 'Cdn. Human Rts. Comm. v. A.-G. Can. 2011 SCC 53'); the sentence 'The question of costs may well be within the central core competence of a statutory tribunal ...' continues 3.24's costs note. (1) Wording: (2) has 'The court may' (see the text note). (2) Statements read against the official text: 'That is now enacted by R.3.24(3)' (3.15 note) and 'Rule 3.24(3) can be used to overlook an error by the tribunal which did not affect the outcome' - official 3.24(3) is limited to 'the sole ground for a remedy is a defect in form or a technical irregularity' with no substantial wrong or miscarriage of justice; the note's 'error ... which did not affect the outcome' is wider than that text; 'The Rule allowing the court to overlook technical irregularities does not apply where no hearing is held and the procedure is unfair: Rankin' has no rule text behind it; 'if there is only one rational solution ... sending the matter back to reconsider is pointless' and 'no fixed rule about whether a new panel or the original one should decide it' agree in substance with Book B's Morawetz passage (United Nurses; Furlong 2013 ABCA 177) and Book C. (3) Pointers: 'R.3.2 n.C' lands (3.2 note C Declarations); 'R.14.71' ('Under what is now R.14.71, the Court of Appeal set aside the order for trial of a preliminary issue'): official 14.71 is 'Interlocutory decisions' (an interlocutory order does not restrict the Court of Appeal's ability to decide an appeal); 'R.14.75' exists; 'R.2.10n.E' lands (Book A's 2.10 note, combined_rule2.txt p.2-28, line 1357, round-trips: 'See further R.3.24 n. D. Case law on costs against interveners is reviewed'); 'R.13.6, n.A' and 'C.P.E., Chapter 79 Parts B, D.5(c), O, S; Chapter 75' point to other notes or works and were not opened; 'R.3.2(4)' (p.3-69, line 1851: 'A plaintiff may get double fees for commencement if the Originating Application for judicial review is ordered restarted by Statement of Claim under R.3.2(4)'): official 3.2(4) covers appeals and references in the form prescribed by an enactment or Form 5, and the power to correct a proceeding started in the wrong form is 3.2(6) - the same pointer slip already recorded in the 3.2 pass (this is one more place). (4) Other rules' pointers to this rule: 3.2 note p.3-13 (line 239) 'See also R.3.24n.B' and p.3-16 (line 333) 'On setting aside a decision instead of giving the declaration asked for, see R.3.24(1)' (agree with official 3.24(1)); 3.15 note p.3-37 (lines 882, 889) 'R.3.24(3)' and 'See R.3.24n.'. (5) Citations as printed: 'Human Rts. & Citizenship Comm. v. Tequila Bar & Grill 2009 ABQB 226, 470 AR 265' and 'Bus. Watch Int. v. Info. & Privacy Comm'r. (#2) 2009 ABQB 79, 470 AR 265' (footnotes 9 and 10, p.3-69, line 1835) carry the same AR reference for two different neutral citations; one of them is wrong in the book (not decided here). 'Edm. Chief of Police v. Furlong (#2) 2013 ABCA 177, 553 AR 126' agrees with Book B's 'Edmonton Police Service v Furlong, 2013 ABCA 177'. 'Engel v. SafeRoads Dir. 2022 ABQB 377, JCC 2101 0752 (May 30) (¶'s 41-57)' and 'Crane v. Grande Cache Inst. 2020 ABQB 677 (¶'s 14-17; 28-30)' agree with the 3.15 and 3.16 notes. The accented names print as 'M?tis' (Fort McKay M?tis Community Assn. v. M?tis Nation ...). (6) Statements of law, costs scales ('Schedule C, column 2'), and the cases were not checked."
+    },
+    "BOOK_B": {
+      "title": "Additional remedies on judicial review",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": null,
+          "text": "1. Overview of Court's Discretion In Morawetz v. Alberta (Director of SafeRoads), 2024 ABKB 588, Justice Marion discussed the Court's discretion to direct an administrative tribunal to reconsider its decision. His Lordship said: [30] Rules 3.24(2)(a) and (b) provide the Court a wide discretion to direct an administrative tribunal to reconsider a whole or part of a matter, or to reconsider whole or part of a decision where the Court quashes the decision. Rule 3.24(c) provides the Court jurisdiction to give any other direction it considers necessary in addition to remitting the matter back to the tribunal for reconsideration: Penn v St Stephen's College, 2024 ABCA 99 at para 65. [31] The Court's findings and directions must be considered by and are binding on the tribunal (unless the law changes subsequent to the directions): Régie des rentes du Québec v Canada Bread Company Ltd, 2013 SCC 46 at para 46; Canada (Citizenship and Immigration) v Yansane, 2017 FCA 48 at paras 19, 23, 25; Mohammed v Canada (Citizenship and Immigration), 2022 FC 980 at para 44. [32] The discretion to provide directions to an administrative tribunal is part of the multi-faceted question of the appropriate remedy that engages consideration of the Court's common law and statutory jurisdiction and the “great diversity of elements that may influence” the Court's decision in respect of available remedies: Vavilov at para 139. [33] For example, courts outside the SafeRoads context have confirmed the discretion to direct that a reconsideration: (a) be conducted by a different person or panel: United Nurses of Alberta v Alberta Health Services, 2021 ABCA 194 at para 102. There is no fixed rule but, factors considered include fairness and the appearance of impartiality, practicality, and efficiency, the proper administration of justice, cost-efficient decision making and access to justice: United Nurses at paras 103-104; Edmonton Police Service v Furlong, 2013 ABCA 177 at para 3; Vavilov at paras 139-140; (b) be bound by the previous findings of the tribunal: Shuchuk v Alberta (Workers' Compensation Board), 2012 ABCA 50 at para 43 [Shuchuk 2012]. In Sharif v Canada (Attorney General), 2018 FCA 205, at para 54, the Court implied that the tribunal would be bound by its earlier factual findings when the Court decided not to remit the matter due to the inevitable result based on those findings; (c) be limited to specific issues, excluding specific issues, or directing that specifically identified issues must be addressed: Shuchuk 2012 at para 43; Shell Canada Limited v Alberta (Energy), 2023 ABCA 230 at para 59; Yatar v TD Insurance Meloche Monnex, 2024 SCC 8 at para 77; Shuchuk v Alberta (Workers' Compensation Board), 2007 ABCA 213 at para 50; Clark v City of Medicine Hat, 2024 ABKB 513 at paras 71-72; Hannora (Re), 2020 ONCA 161 at para 3; Dr Mays Abdulghafoor v University of Calgary, 2021 ABQB 187 at para 124; Pincher Creek (Town of) v Municipal Government Board, 2006 ABQB 513 at para 18; Shields v Information and Privacy Commissioner, 2004 ABQB 353 at para 74; Schroder v Alberta (Workers' Compensation Board), 2009 ABQB 583 at para 22; Thornhill v Superintendent of Motor Vehicles, 2016 BCSC 1202 at paras 30-31[1]; Kessler v British Columbia (Superintendent of Motor Vehicles), 2017 BCSC 809 at para 20; David Burr Ltd v Zahm, 2012 BCSC 897 at paras 10-13; (d) be based on the original record, or permitting or directing a different or augmented record: Chartrand v Alberta (Human Rights and Citizenship Commission), 2008 ABQB 207 at para 28; Hamilton v Alberta (Labour Relations Board), 1993 CanLII 7143 (AB KB) at para 32; Garnett v British Columbia (Superintendent of Motor Vehicles), 2015 BCSC 1395 at paras 66-67; Byron v British Columbia (Superintendent of Motor Vehicles), 2017 BCSC 1125 at para 81; Cheung v Moorley, 2011 BCSC 1641 at para 77; Alsilmi (Re), 2010 BCSC 282 at para 32-33; Turner v Canada (Attorney General), 2022 FCA 192 at para 9. In Gehl v Canada (Attorney General), 2017 ONCA 319 at para 88, the Court implied the same record would be used in a new hearing when the Court decided that it would be pointless to remit the matter since there was only one possible outcome; and (e) be based on other specific directions of the Court: Shuchuk 2012 at para 42; Dr Mays Abdulghafoor v University of Calgary, 2021 ABQB 187 at paras 121-122; Al-Naami v College of Physicians and Surgeons of Alberta, 2021 ABQB 549 at para 212; Northern Inter-Tribal Health Authority Inc v Yang, 2023 FCA 47 at paras 85-86; Chenjelani v Institute of Chartered Professional Accountants of Saskatchewan, 2022 SKCA 66 at para 55; Chevron Canada Resources v Alberta (Minister of Energy), 1998 ABQB 504 at para 44; Great Canadian Casinos Inc v City of Surrey et al, 2000 BCSC 664 at para 21; Brandt Tractor Ltd v Claypool, 2015 BCSC 759 at para 47; Cheung at para 77; Sunshine Coast Conservation Assn v Sunshine Coast Forest District, 2002 BCSC 145 at para 25. [34] The legislature's ability to limit the Court's remedial powers must be carefully considered in the context of judicial review and its constitutionally enshrined role. See, for example, Dunsmuir v New Brunswick, 2008 SCC 9 at para 31. As pointed out in a different context in Smit v Alberta (Director of SafeRoads), 2023 ABKB 435at para 175, it has long been recognized that “the jurisdiction of the superior courts is not taken away, except by express words or necessary implication”, citing: Albon v Pyke (1842), 4 Man & G 421; Canada (Attorney General) v Telezone Inc, 2010 SCC 62 at paras 42-43.",
+          "note": "printed in the same source paragraph as the rule text, with no 'Commentary §' header; split at '1. Overview of Court's Discretion' (manual review)"
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_24_001",
+        "part3_part_3_court_actions_026"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "5468110eac22a9d314fc066ab518b330883105fb5f21e12f3b16304f39afbf4b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Additional remedies on judicial review",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "9d6bbb6df9de3ad7ee6a453318e4f4024559ec9dd0c951b7d7a7c972a5314cc4",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule gives the court broad powers on judicial review to permit it to craft a remedy appropriate to the circumstances. Ordinarily, having found an administrative decision is unreasonable, the reviewing court should remit the matter for rehearing, unless, “. . . in light of the circumstances and the evidence in the record, only one interpretation or solution is possible, that is, where any other interpretation or solution would be unreason- able”, in which case the court may determine the matter on the merits.\nPursuant to rule 3.24(2)(c), the types of additional remedies the court may give include: (1) ordering a Director to obtain an attachment assessment, make further considerations while taking into account the assessment, and applying deference to an Appeal Panel’s findings of",
+          "citations": [],
+          "review_flag": "(1) The first paragraph agrees in substance with official 3.24(2)(a)-(c) and with Book A's C Reconsideration note ('if there is only one rational solution ... sending the matter back to reconsider is pointless'); the quotation '... in light of the circumstances and the evidence in the record, only one interpretation or solution is possible, that is, where any other interpretation or solution would be unreasonable' is printed with no source (the page-break hyphen 'unreason- able' is in the file). (2) The second paragraph 'Pursuant to rule 3.24(2)(c), the types of additional remedies the court may give include: (1) ordering a Director to obtain an attachment assessment, make further considerations while taking into account the assessment, and applying deference to an Appeal Panel's findings of' is cut off at the page end (794 characters); Book C's next entry (3.25) begins with its own rule text; the case that the list comes from is not named in what is printed. (3) Official 3.24(2)(c) reads 'give any other directions it considers necessary' (agrees with 'pursuant to rule 3.24(2)(c)')."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8068,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.24(1)-(3) (read by eye) except: the lead-in of (2) prints 'The court may' where the official says 'The Court may' (lower-case 'court'); the footnote markers '6' after (1), '7' after (2) and '8' after (3); the title in title case ('Additional Remedies on Judicial Review'); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). This rule's history footnotes 6, 7 and 8 ('Quite similar to previous 1987 R.753.05 / R.753.06 / R.753.07. It was new in 1987') are printed at p.3-66 (line 1744) inside the built 3.23 commentary and are kept there; Book B's quotations tie them to the subrules (former Rule 753.05 is the text of 3.24(1); the Brewer quotation in Book B's 3.15 commentary speaks of R. 753.06 as the power to send the matter back and R. 753.07 as the power to amend)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.24",
+      "title_official": "Additional remedies on judicial review"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "6dec08ef6139c9aafa0fbd066f942df0f4990019e333cdc3d84296b31115c78d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-66",
+            "3-70"
+          ],
+          "offset_in_clean_text": [
+            209151,
+            222246
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "5468110eac22a9d314fc066ab518b330883105fb5f21e12f3b16304f39afbf4b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "9d6bbb6df9de3ad7ee6a453318e4f4024559ec9dd0c951b7d7a7c972a5314cc4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d623ed7717e3420f4daf355877f7d6a082e7a3e7a813926d26d3a27853ac5d03",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            59
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "8bba1066f37f389fc8b4db2c16ba578066cbac26ccb2ca7bb52e1fae800e0be1"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule3_part02_document.json 3.15 commentary part 16 (Lee v. Yeung, paras 32-37: 'rule 3.24(1) provides, like the old rule 753.05, that where an applicant is entitled to a declaration that an act is unauthorized or invalid, the Court may set aside the act instead of making the declaration' (agrees with 3.24(1)); 'given the wording of rules 3.15 and 3.24(1)'); no other Book B or Book C file cites 3.24 by number. BOOK_B 3.24: the rule-text paragraph (part3_part_3_court_actions_026, 6,446 characters) holds the rule text and, after it with no 'Commentary §' header, a commentary part '1. Overview of Court's Discretion' (Morawetz v. Alberta (Director of SafeRoads), 2024 ABKB 588, paras 30-34, with the lists (a)-(e) of directions); split off by a manual decision (MANUAL_BOOK_B_SPLIT), so the rule text is then EXACT_MATCH; it is the only numbered part. The quoted passage says 'Rule 3.24(c)' where the official rule is 3.24(2)(c) (as quoted; the same passage says 'Rules 3.24(2)(a) and (b)'); a footnote marker '[1]' is printed inside a citation ('2016 BCSC 1202 at paras 30-31[1]'); no amendment note for 3.24. BOOK_C 3.24: rule text EXACT_MATCH; amendment note '[Alta. Reg. 124/2010, r. 3.24 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010'; commentary kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.2 note p.3-13 (line 239) '(a) Introduction See also R.3.24n.B' and p.3-16 (line 333) 'On setting aside a decision instead of giving the declaration asked for, see R.3.24(1)' (agree with 3.24(1)); 3.15 note p.3-37 (line 882, note B technical flaws) 'That is now enacted by R.3.24(3), which is analogous to R.14.75' and (line 889) 'See R.3.24n.'; combined_rule2.txt p.2-28 (line 1357), R.2.10 note: 'See further R.3.24 n. D. Case law on costs against interveners is reviewed' (lands: 3.24 note D Costs); no other Book A file cites 3.24 by number.",
+    "OFFICIAL text (searched for 'rule 3.24', 'rules 3.24', lists, line-wrapped forms and form headings): no other official rule cites 3.24 by number (hits: the table of contents and the running page header); no form heading names it. By subject (read): 3.2(6) (procedural order to correct a proceeding started in the wrong form), 3.15(1)(b) (declaration or injunction), 3.23 (stay), 3.68 (Court options), 14.75 (analogous provision on appeals: unless an enactment otherwise provides), 1.5 (irregularities), 2.10 (intervenor status; costs against interveners in Book A), 14.71 (interlocutory decisions)."
+  ],
+  "dedupe_log": [
+    "3.24 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.24 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.24 BOOK_C commentary sentence split dropped",
+    "3.24 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.24 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

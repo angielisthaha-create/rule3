@@ -1,0 +1,1408 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T11:55:00Z",
+      "source_manifests": [
+        "05134.rtf",
+        "05135.rtf",
+        "05136.rtf",
+        "05137.rtf",
+        "05138.rtf",
+        "05139.rtf",
+        "05140.rtf",
+        "05141.rtf",
+        "05142.rtf",
+        "05143.rtf",
+        "05144.rtf",
+        "05145.rtf",
+        "05146.rtf",
+        "05147.rtf",
+        "05148.rtf",
+        "05149.rtf",
+        "05150.rtf",
+        "05151.rtf",
+        "05152.rtf",
+        "page_0070.rtf",
+        "page_0071.rtf",
+        "page_0072.rtf",
+        "page_0073.rtf",
+        "page_0074.rtf",
+        "page_0075.rtf",
+        "page_0076.rtf",
+        "page_0077.rtf",
+        "page_0078.rtf",
+        "page_0079.rtf",
+        "page_0080.rtf",
+        "page_0081.rtf",
+        "page_0082.rtf",
+        "page_0083.rtf",
+        "page_0084.rtf",
+        "page_0085.rtf",
+        "page_0086.rtf",
+        "page_0087.rtf",
+        "page_0088.rtf",
+        "page_0089.rtf",
+        "page_0090.rtf",
+        "page_0091.rtf",
+        "page_0092.rtf",
+        "page_0093.rtf"
+      ],
+      "node_count": 17,
+      "relationship_count": 16,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Martinez v. Hogeweide, 1998 ABCA 34",
+          "Scott v. Westwinds Communities, 2021 ABCA 30",
+          "681219 Alberta Ltd. v. 1335422 Alberta Ltd., 2015 ABQB 11",
+          "McGowan v. Lang, 2014 ABQB 403",
+          "Sanderson Estate v. Potter, 2012 ABQB 593",
+          "Jelonek v Monterrosa-Renaud, 2022 ABKB 738",
+          "Nixon v. Timms, 2013 ABCA 84",
+          "Mazepa v. Embree, 2014 ABCA 438",
+          "Wagner v. Wagner, 2014 ABCA 428",
+          "Canada Permanent Trust Co. v. King Art Developments Ltd. (1984), 52 A.R. 139",
+          "Rozinsky v. Rozinsky, 2013 ABCA 113",
+          "Calgary (City) v Bagaric, 2022 ABKB 635",
+          "Mikisew Cree First Nation v. Canada, 2004 ABCA 279",
+          "Martin v. Dukart (1997), 58 Alta. L.R. (3d) 171 (Master)"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court"
+        ],
+        "manifest_references": [
+          "All provided RTF files"
+        ]
+      },
+      "tactical_play_count": 3,
+      "countermeasure_count": 3
+    },
+    "nodes": [
+      {
+        "node_id": "pt-r3-26-one-year-service-expiry",
+        "node_type": "ProceduralTrap",
+        "label": "The One-Year Service Expiry Trap",
+        "description": "A Statement of Claim must be served within one year of its filing date. Failure to do so, without a court-ordered extension obtained *before* expiry, renders the claim effectively dead against any unserved defendant.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A statement of claim must be served on the defendant within one year after the date that the statement of claim is filed unless the Court, on application filed before the one-year time limit expires, grants an extension of time for service.",
+              "source_reference": "05136.rtf#r3.26(1)"
+            },
+            {
+              "text": "If a statement of claim is not served on a defendant within the time or extended time for service, no further proceeding may be taken in the action against a defendant who was not served in time...",
+              "source_reference": "05140.rtf#r3.28(a)"
+            },
+            {
+              "text": "The consequences of R. 3.26 are neither optional nor discretionary: they are mandatory.",
+              "source_reference": "page_0072.rtf"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.26(1)",
+            "Alberta Rules of Court, r. 3.28(a)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule creates a hard, secondary limitation period that is purely procedural. It is a defendant's primary weapon to dispose of a stale-dated action without engaging with the merits of the claim. For a plaintiff, it is a critical, unforgiving deadline.",
+          "litigation_implications": [
+            "Defendant's Tactic: Diarize the one-year service deadline for every Statement of Claim. If it passes without service or a filed extension order, immediately bring an application under R. 3.28 to have the action declared expired.",
+            "Plaintiff's Defense: Treat the one-year service deadline with the same gravity as a statutory limitation period. Do not rely on informal agreements. If service is proving difficult, apply for an extension under R. 3.26 well before the deadline.",
+            "Cost/Risk: For a defendant, the cost is a single application with a high probability of success if the facts are clear. For a plaintiff, the cost of missing the deadline is the complete loss of their cause of action."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Martinez v. Hogeweide, 1998 ABCA 34",
+              "proposition": "The court cannot cure a failure to serve under the service rule; it is not optional or discretionary."
+            },
+            {
+              "case_name": "Foster v. Robb, 2011 ABQB 776",
+              "proposition": "Rules 3.26–3.28 impose a strict and mandatory limit on service of a Statement of Claim."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-26-in-year-extension-mechanism",
+        "node_type": "ControlMechanism",
+        "label": "Pre-Expiry Extension Application (R. 3.26)",
+        "description": "A plaintiff's primary tool to avoid the one-year service trap. An application for an extension of up to 3 months can be granted if filed *before* the one-year deadline expires. This is a discretionary remedy with a low evidentiary threshold.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...unless the Court, on application filed before the one-year time limit expires, grants an extension of time for service.",
+              "source_reference": "05136.rtf#r3.26(1)"
+            },
+            {
+              "text": "The extension of time for service under this rule must not exceed 3 months.",
+              "source_reference": "05136.rtf#r3.26(2)"
+            },
+            {
+              "text": "The threshold for obtaining an extension of time to serve a statement of claim is low. There is no need for the plaintiff to provide evidence as to why it was unable to serve during the first one year period.",
+              "source_reference": "05137.rtf#para21"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.26(1), (2)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This mechanism provides a plaintiff with a straightforward, low-cost method to gain a crucial 3-month buffer for service, provided they act proactively before the deadline. It shifts the focus from 'why couldn't you serve' to 'is this just a stalling tactic'.",
+          "litigation_implications": [
+            "Plaintiff's Tactic: If service has not been effected by the 11-month mark, automatically file an application under R. 3.26 for a 3-month extension. The evidentiary burden is minimal.",
+            "Defendant's Counter: Oppose the extension by arguing it is a stalling tactic or that specific, demonstrable prejudice will result from the additional 3-month delay. This is a difficult argument to win given the low threshold.",
+            "Cost/Risk: Low cost for the plaintiff. The primary risk is failing to file the application before the one-year expiry, at which point this remedy is lost forever."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "681219 Alberta Ltd. v. 1335422 Alberta Ltd., 2015 ABQB 11",
+              "proposition": "The threshold for an in-year extension is low, and the plaintiff does not need to prove inability to serve; showing a reason for delay (e.g., amending the claim) is sufficient."
+            },
+            {
+              "case_name": "Scott v. Westwinds Communities, 2021 ABCA 30",
+              "proposition": "An extension under R. 3.26 is a discretionary remedy, not a unilateral right, and requires some affidavit evidence explaining why an extension is needed."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-27-post-expiry-salvage-grounds",
+        "node_type": "ControlMechanism",
+        "label": "Post-Expiry Extension Grounds (R. 3.27)",
+        "description": "A set of narrow, high-threshold exceptions that allow a court to grant an extension of time for service *after* the one-year deadline has passed. These are extraordinary remedies, not routine options.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may, at any time, grant an extension of time for service of a statement of claim in any of the following circumstances...",
+              "source_reference": "05138.rtf#r3.27(1)"
+            },
+            {
+              "text": "(a) if a defendant...has caused the plaintiff...to reasonably believe and to rely on the belief that...a time limit...will not be relied on or will be waived;",
+              "source_reference": "05138.rtf#r3.27(1)(a)(iii)"
+            },
+            {
+              "text": "(c) special or extraordinary circumstances exist resulting solely from the defendant's conduct or from the conduct of a person who is not a party to the action.",
+              "source_reference": "05138.rtf#r3.27(1)(c)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule provides the only possible escape hatches for a plaintiff who has missed the one-year service deadline. Each sub-rule is a distinct tactical avenue: (a) is for estoppel/waiver arguments, (b) is for failed service orders, and (c) is the 'Act of God' or third-party fault exception. Mastering these exceptions is critical for salvaging a potentially dead claim.",
+          "litigation_implications": [
+            "Plaintiff's Tactic: If the deadline is missed, immediately review all communications for evidence of a standstill agreement or conduct that induced reliance to ground an application under R. 3.27(1)(a).",
+            "Plaintiff's Tactic: If a process server or other third party is at fault for non-service, frame this as a 'special circumstance' under R. 3.27(1)(c).",
+            "Defendant's Counter: Vigorously attack the factual basis for any R. 3.27 application. Argue that any 'belief' of waiver was not reasonable, or that the 'special circumstances' were not the sole cause of the failure to serve."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Sanderson Estate v. Potter, 2012 ABQB 593",
+              "proposition": "Rule 3.27 contains the rare exceptions that alter the strict and mandatory limit on service, including new grounds for 'special or extraordinary circumstances'."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-27-1c-mcgowan-two-step-test",
+        "node_type": "WarfareFramework",
+        "label": "The McGowan Two-Step Test for 'Special Circumstances'",
+        "description": "A judicial framework for analyzing applications under R. 3.27(1)(c). A plaintiff must first prove that special circumstances exist and are causally linked to the non-service. Only then will the court exercise its discretion, considering factors like prejudice.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In my view, the analysis under Rule 3.27(1)(c) requires a two-step process. The Plaintiff must first bring itself within the requirement that special or extraordinary circumstances exist... As part of that first step, the Plaintiff must demonstrate that the special or extraordinary circumstances are connected in some way to the lack of service.",
+              "source_reference": "05139.rtf#para32"
+            },
+            {
+              "text": "It is only after the first step of the analysis confirms the existence of the type of special or extraordinary circumstances contemplated by Rule 3.27(1)(c), that the court can go on to consider if is it appropriate to exercise its discretion to extend time for service",
+              "source_reference": "05139.rtf#para33"
+            },
+            {
+              "text": "It is in this second step that the policy considerations of the limitations legislation and prejudice should be considered.",
+              "source_reference": "05139.rtf#para34"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This framework weaponizes the rule for defendants by creating two distinct hurdles for the plaintiff. It prevents a plaintiff from simply arguing 'no prejudice' to win. The plaintiff must first win on the high-threshold 'special circumstances' gateway issue before the court will even consider prejudice and discretion.",
+          "litigation_implications": [
+            "Defendant's Tactic: Structure arguments to mirror the two-step test. Focus heavily on attacking the first step: argue the circumstances are not 'special' or that they did not *solely* cause the non-service.",
+            "Plaintiff's Tactic: Structure evidence and arguments to explicitly satisfy both steps. First, prove the extraordinary event and its direct causal link to non-service. Second, address the discretionary factors, emphasizing lack of prejudice to the defendant."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "McGowan v. Lang, 2014 ABQB 403",
+              "proposition": "Establishes the two-step analytical process for R. 3.27(1)(c): first, establish the qualifying circumstances and causation; second, address the court's discretion, including prejudice."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-27-standstill-agreement-doctrine",
+        "node_type": "WarfareFramework",
+        "label": "The Standstill Agreement Doctrine",
+        "description": "A legal doctrine, partially codified in R. 3.27(1)(a), where a defendant's conduct (often via their insurer) induces a plaintiff to believe that service deadlines will not be strictly enforced, thereby estopping the defendant from later relying on the expiry of the claim.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where, as here, a party seeks and obtains an indulgence with respect to compliance with a time limit under the Rules of Court from an adversary, it is inequitable for that party to strictly enforce other time limits in the Rules of Court against the adversary without first giving notice...",
+              "source_reference": "05139.rtf#para3"
+            },
+            {
+              "text": "Rule 3.27(1)(a)(iii) can be viewed as a sort of codification and modification of promissory estoppel in the limited context of extensions for the filing of a Statement of Claim.",
+              "source_reference": "05139.rtf#para30"
+            },
+            {
+              "text": "Therefore, neither the parties' words [in this case] nor equity nor necessity support a true stand-still which would automatically add the waived time to the end of the 12 months. Solicitors wishing that should say so clearly.",
+              "source_reference": "05139.rtf#martinez-quote"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This doctrine is a plaintiff's primary equitable weapon against a strict, procedural defense. It turns the defendant's own (or their agent's) communications and conduct into the key that unlocks the R. 3.27(1)(a) escape hatch. For defendants, it's a trap created by imprecise communication.",
+          "litigation_implications": [
+            "Plaintiff's Tactic: Scrutinize all pre-expiry communications from the defendant or their insurer for any language requesting delays, promising information, or implying that formal steps are unnecessary while negotiations are ongoing.",
+            "Defendant's Tactic: All communications with plaintiff's counsel must be precise. Explicitly state that communications are without prejudice to any time limits under the Rules of Court and do not constitute a waiver or standstill agreement.",
+            "Cost/Risk: The risk for defendants is that informal, seemingly cooperative communications can be weaponized by the plaintiff to defeat a fatal procedural defense. The cost for plaintiffs is that relying on an implied standstill is a high-risk gamble."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Jelonek v Monterrosa-Renaud, 2022 ABKB 738",
+              "proposition": "An agreement to suspend a time limit for one party gives rise to a reasonable belief that the time limit for service will not be strictly enforced against the other party."
+            },
+            {
+              "case_name": "Martinez v. Hogeweide (1998), 209 A.R. 388 (C.A.)",
+              "proposition": "A true standstill agreement is not automatic; it is a matter of interpreting the specific communications, and solicitors who want one should state it clearly."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-27-false-affidavit-of-service",
+        "node_type": "ProceduralTrap",
+        "label": "The False Affidavit of Service Trap",
+        "description": "A scenario where a plaintiff relies on a fraudulent or incorrect affidavit of service, only to discover after the service deadline (and often after obtaining default judgment) that service was never effected. This can be fatal to the claim.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In Nixon v. Timms, 2013 ABCA 84, 2013 CarswellAlta 259, 544 A.R. 21, the Plaintiff unwittingly relied on a falsely sworn affidavit of service. The Court of Appeal held that service had not been effected within the required time, and that the Statement of Claim had expired and no further action could be taken under it.",
+              "source_reference": "05139.rtf#nixon-summary"
+            },
+            {
+              "text": "Accordingly, in these circumstances the new Alberta Rules of Court cannot retroactively revive an action that expired in 2008.",
+              "source_reference": "05139.rtf#para8"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a catastrophic trap for a plaintiff, as it creates a false sense of security. The plaintiff believes they have met the deadline, proceeds with the action, and only discovers the fatal flaw when the defendant moves to set aside the default judgment, by which time all extension possibilities are gone. It highlights the risk of relying on third-party process servers without verification.",
+          "litigation_implications": [
+            "Defendant's Tactic: If a default judgment is entered, investigate the circumstances of service. If there is any doubt service was proper, move to set aside the judgment and challenge the affidavit of service, arguing the claim has expired.",
+            "Plaintiff's Defense: Use reputable process servers. If possible, obtain independent verification of service. If a process server's error is discovered, immediately assess if it constitutes a 'special circumstance' under R. 3.27(1)(c) per the *Sanderson Estate* reasoning (mistaken, not fraudulent, affidavit)."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Nixon v. Timms, 2013 ABCA 84",
+              "proposition": "A claim that expired under the old rules due to reliance on a fraudulent affidavit of service cannot be revived by the new rules (R. 3.27), as the claim is dead."
+            },
+            {
+              "case_name": "Sanderson Estate v. Potter, 2012 ABQB 593",
+              "proposition": "A mistaken (but not fraudulent) affidavit of service sworn by a process server (a non-party) can constitute a 'special circumstance' under R. 3.27(1)(c), creating a discretionary basis to grant an extension."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-25-remedy-limited-by-pleadings",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Remedies Limited by Pleadings",
+        "description": "A core principle of justice that a court should not decide a case on a matter not pleaded or grant remedies beyond what is sought in the pleadings. This ensures the opposing party has fair notice of the case they must meet.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is well-established that a trial or chambers judge should not decide a case on a matter not pleaded, and specifically should not grant remedies beyond the pleadings...",
+              "source_reference": "05135.rtf#para8"
+            },
+            {
+              "text": "A court's jurisdiction to grant a remedy is limited by the pleadings of the party.",
+              "source_reference": "05135.rtf#para8"
+            },
+            {
+              "text": "Natural justice requires that the opposing party know what is being sought, and why.",
+              "source_reference": "05135.rtf#para27"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.25, Commentary"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This pillar provides a powerful defensive shield. It allows a party to confine the scope of the litigation and prevent 'trial by ambush,' where an opponent raises new issues or seeks new remedies at a late stage. It forces discipline in pleading.",
+          "litigation_implications": [
+            "Defensive Tactic: At trial or on an application, object to any argument, evidence, or request for relief that falls outside the scope of the opposing party's pleadings. Argue it is procedurally unfair and the court lacks the 'jurisdiction' to grant it.",
+            "Offensive Tactic: Ensure your own Statement of Claim is drafted broadly enough to encompass all potential remedies, including a claim for 'further and other relief as this Honourable Court may deem just'."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Mazepa v. Embree, 2014 ABCA 438",
+              "proposition": "Establishes the general rule that a judge should not grant remedies beyond the pleadings."
+            },
+            {
+              "case_name": "Wild Rose School Division No. 66 v. Bert Pratch Const. Co., 1998 ABQB 831",
+              "proposition": "A court's jurisdiction to grant a remedy is limited by the pleadings."
+            },
+            {
+              "case_name": "Wagner v. Wagner, 2014 ABCA 428",
+              "proposition": "Natural justice requires that the opposing party know what relief is being sought from the pleadings or notice of application."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-25-mazepa-exceptions-to-pleading-limits",
+        "node_type": "ControlMechanism",
+        "label": "Exceptions to the 'Limited by Pleadings' Pillar",
+        "description": "A set of crucial exceptions that counter the strict rule that remedies are limited by pleadings. These include the court's power to amend pleadings at any time (R. 3.65), the treatment of procedural defects as 'mere irregularities' (R. 1.5), and the ability of parties to consent to resolving unpleaded issues.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "While it is well-established that relief should be limited to what is pleaded, that rule is not absolute or truly 'jurisdictional'.",
+              "source_reference": "05135.rtf#para9"
+            },
+            {
+              "text": "...the effect of the rule is reduced by the concurrent ability of the court to amend the pleadings at any time: R. 3.65.",
+              "source_reference": "05135.rtf#para9b"
+            },
+            {
+              "text": "Procedural shortcomings are considered to be 'mere irregularities', not jurisdictional in nature...",
+              "source_reference": "05135.rtf#para9c"
+            },
+            {
+              "text": "Fifthly, the parties can always consent to matters of procedure, such as amendments to the pleadings, or the resolution of the case on issues not strictly pleaded. That consent can be express or implied.",
+              "source_reference": "05135.rtf#para9e"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.25"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "These exceptions are the offensive weapons used to overcome the 'limited by pleadings' defense. They provide flexibility and prevent litigation from becoming a rigid, formalistic game. Understanding when to invoke amendment, consent, or the 'mere irregularity' rule is key to adapting a case as it evolves.",
+          "litigation_implications": [
+            "Offensive Tactic: If faced with an objection that an issue is 'not pleaded,' immediately apply to amend the pleading under R. 3.65, arguing no prejudice to the other side.",
+            "Defensive Tactic: If the other party attempts to rely on an unpleaded issue, argue that allowing an amendment at a late stage would cause incurable prejudice (e.g., inability to gather evidence or conduct discovery on the new issue).",
+            "Observational Tactic: Pay close attention to the conduct of opposing counsel. If they engage with an unpleaded issue without objection, argue that they have given implied consent to its inclusion in the litigation."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Mazepa v. Embree, 2014 ABCA 438",
+              "proposition": "The rule limiting relief to the pleadings is not absolute and is qualified by the court's power to amend, the concept of procedural irregularities, and party consent."
+            },
+            {
+              "case_name": "Stout Estate v Golinowski Estate, 2002 ABCA 49",
+              "proposition": "Procedural shortcomings are considered 'mere irregularities' and are not jurisdictional in nature."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-34-demand-for-notice-liability-admission",
+        "node_type": "ControlMechanism",
+        "label": "Demand for Notice: A Strategic Admission of Liability",
+        "description": "A procedural tool allowing a defendant to admit liability for the cause of action but preserve the right to be heard on the quantum of damages or other remedies. It prevents default judgment but forfeits the right to contest liability.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the defendant files a demand for notice and serves it on the plaintiff, the defendant must be served with notice of any application or proceeding in which the defendant is named as respondent, but filing and service of the notice does not give the defendant a right to contest liability.",
+              "source_reference": "05149.rtf#r3.34(4)"
+            },
+            {
+              "text": "Its purpose … is to give to a defendant who admits his liability under the cause of action sued on a chance to see that he is not held for more than he should be for that purpose...",
+              "source_reference": "05150.rtf#para2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.34",
+            "Commentary on Alberta Rules of Court, r. 3.34"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a cost-saving and strategic focusing tool. For a defendant with no viable defense on liability, it avoids the expense of a full trial on the merits and concentrates all resources on minimizing the damages award. It is an explicit trade-off: give up the fight on liability to control the fight on quantum.",
+          "litigation_implications": [
+            "Defendant's Tactic: Use in cases where liability is undeniable (e.g., rear-end collision, defaulted loan with clear records) to signal cooperation and focus the court on the reasonableness of the plaintiff's claimed damages.",
+            "Plaintiff's Tactic: When a Demand for Notice is filed, immediately pivot to proving damages. Consider a summary judgment application for the quantum of damages, as liability is no longer an issue.",
+            "Risk: The defendant gives up all leverage on liability and cannot change their mind without court permission, which is not guaranteed."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Stone v. Vulcan Municipal Hospital District, [1930] 1 W.W.R. 839",
+              "proposition": "The purpose of a Demand of Notice is to allow a defendant who admits liability to ensure the remedy granted is appropriate."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-34-permission-required-to-file-defence-later",
+        "node_type": "ProceduralTrap",
+        "label": "The Demand for Notice 'No-Return' Trap",
+        "description": "A defendant who files a Demand for Notice cannot unilaterally withdraw it and file a Statement of Defence. They must seek the Court's permission, which is not guaranteed and requires showing a good defence on the merits.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a defendant files a demand for notice and serves it on the plaintiff, the defendant may subsequently file a statement of defence only with the Court's permission.",
+              "source_reference": "05149.rtf#r3.34(5)"
+            },
+            {
+              "text": "To withdraw a Demand of Notice and replace it by a Statement of Defence is no different than the ordinary amendment of a pleading and the same rules apply.",
+              "source_reference": "05150.rtf#para1"
+            },
+            {
+              "text": "The defendants must also show that they have a good defence on the merits. It would be entirely unproductive to permit the filing of a statement of defence in circumstances where a summary judgment application would be granted...",
+              "source_reference": "05150.rtf#bell-quote"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.34(5)",
+            "Commentary on Alberta Rules of Court, r. 3.34"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule creates a significant barrier to changing strategy. It prevents a defendant from using a Demand for Notice as a delaying tactic and then trying to fight liability later. The admission of liability is treated as a formal pleading, and withdrawing it requires overcoming a significant evidentiary burden.",
+          "litigation_implications": [
+            "Defendant's Risk: Filing a Demand for Notice is a binding strategic decision. If new facts emerge that create a defense to liability, the defendant faces an uphill battle to get permission to withdraw the admission.",
+            "Plaintiff's Tactic: If a defendant applies to withdraw a Demand for Notice, vigorously oppose it. Argue that the defendant has made a binding admission, that you have relied on it, and that they cannot demonstrate a meritorious defense sufficient to justify the withdrawal."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Canada Permanent Trust Co. v. King Art Developments Ltd. (1984), 52 A.R. 139",
+              "proposition": "Withdrawing a Demand of Notice to file a Defence is treated like an amendment to a pleading, and the court is less likely to grant it when a formal admission has been made."
+            },
+            {
+              "case_name": "Bell v. Grande Mountain Apartments (1983), 29 Alta. L.R. (2d) 270",
+              "proposition": "To get leave to replace a Demand of Notice with a Defence, the defendant must show a good defence on the merits."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-35-consent-judgment-protocol",
+        "node_type": "ControlMechanism",
+        "label": "Consent Judgment Protocol",
+        "description": "A rule establishing the formal requirements for obtaining a judgment by agreement. It mandates that the lawyer of record must be a party to or consent to the agreement, protecting represented parties from being circumvented.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a lawyer files a statement of defence or demand for notice on behalf of a defendant, no judgment or order may be obtained by agreement of the parties unless the defendant's lawyer of record is a party to the agreement or consents to the agreement.",
+              "source_reference": "05151.rtf#r3.35(1)"
+            },
+            {
+              "text": "Rule 3.35(1) is designed to prevent an opponent from going behind the back of a lawyer and making a deal directly with the lawyer’s client.",
+              "source_reference": "page_0085.rtf"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.35"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule acts as a procedural safeguard, ensuring the integrity of the settlement process and reinforcing the role of counsel. It prevents parties from being pressured into settlements without legal advice and ensures that any consent judgment has the formal imprimatur of the lawyers involved.",
+          "litigation_implications": [
+            "Procedural Requirement: Always ensure the opposing lawyer of record has signed the consent order or provided written consent before submitting it to the court. Failure to do so will result in rejection.",
+            "Defensive Shield: If an opposing party attempts to enforce a settlement allegedly made directly with your client, this rule provides a basis to argue the resulting 'agreement' cannot be entered as a judgment."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-35-consent-cannot-create-jurisdiction",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Consent Cannot Create Jurisdiction",
+        "description": "A fundamental legal principle that parties cannot, by agreement, grant a court power or jurisdiction that it does not otherwise possess under statute or common law.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A court cannot grant an order simply because parties present it with a consent order. The order must be something within the jurisdiction and power of the Court, because parties cannot confer jurisdiction to a court by agreement where no jurisdiction exists...",
+              "source_reference": "05152.rtf#para58"
+            },
+            {
+              "text": "Consent cannot give the court jurisdiction which it would not otherwise have.",
+              "source_reference": "page_0088.rtf"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.35"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This pillar acts as an ultimate check on the power of parties to settle. It prevents the court from being used to rubber-stamp illegal or ultra vires agreements. It can be used as a weapon to invalidate a consent order that purports to do something the court has no authority to do.",
+          "litigation_implications": [
+            "Attack Vector: Scrutinize any proposed or existing consent order to determine if it requires the court to exercise a power it lacks. If so, the order is vulnerable to being set aside for lack of jurisdiction.",
+            "Defensive Check: Before finalizing a consent order, ensure that every provision is something the court could have ordered after a contested hearing. Avoid terms that fall outside the court's statutory or inherent powers."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Calgary (City) v Bagaric, 2022 ABKB 635",
+              "proposition": "Parties cannot confer jurisdiction to a court by agreement where no jurisdiction exists."
+            },
+            {
+              "case_name": "Transalta Utilities Corporation v Young Estate, 1997 ABCA 349",
+              "proposition": "Reinforces the principle that jurisdiction cannot be created by consent."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-35-setting-aside-consent-judgment",
+        "node_type": "ProceduralTrap",
+        "label": "High Bar for Setting Aside Consent Judgments",
+        "description": "A consent judgment has the same force as a judgment after trial and is not lightly set aside. The grounds are narrow, typically requiring proof of fraud, deceit, mutual mistake, or counsel acting without authority.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A consent judgment is not lightly to be set aside. To do so in our view would involve proof of it having been obtained by fraud or deceit.",
+              "source_reference": "05152.rtf#para6"
+            },
+            {
+              "text": "Although the judgment is a consent judgment, it has the same force and effect as a judgment after trial.",
+              "source_reference": "05152.rtf#para5"
+            },
+            {
+              "text": "We appreciate that a lawyer is presumed to have ostensible or apparent authority to settle a claim which he has been retained to commence or defend. Lawyers acting within the scope of their ostensible authority bind their clients even if they are acting without actual authority...",
+              "source_reference": "05152.rtf#para7"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.35"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This creates a trap of finality. A party who consents to judgment, perhaps hastily, finds it nearly impossible to undo. This high bar encourages careful consideration before settlement and provides certainty to the party benefiting from the consent judgment.",
+          "litigation_implications": [
+            "Defensive Shield: Once a consent judgment is entered in your favor, it is highly durable. You can resist attempts to set it aside by emphasizing the high threshold of fraud or mistake.",
+            "Attack Vector (High Risk): To set aside a consent judgment, you must attack the formation of the agreement itself. The most viable, though difficult, route is to prove your own lawyer acted without your actual authority and that the circumstances warrant the court's intervention."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "L. (D.P.) v. E. (P.A.) (1984), 60 A.R. 87",
+              "proposition": "Setting aside a consent judgment requires proof it was obtained by fraud or deceit."
+            },
+            {
+              "case_name": "Rozinsky v. Rozinsky, 2013 ABCA 113",
+              "proposition": "A consent judgment may be set aside where counsel acted without actual authority in defiance of a client's express instructions, particularly where court approval is a condition precedent."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-33-reply-cannot-raise-new-claim",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Reply Cannot Raise New Cause of Action",
+        "description": "A Reply to a Statement of Defence cannot be used to raise a new ground of claim or plead facts inconsistent with the Statement of Claim. Doing so is a pleading error that can lead to the Reply being struck.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "No pleading shall, except by way of amendment, raise any new ground of claim or contain any allegation of fact inconsistent with the previous pleadings of the party pleading it.",
+              "source_reference": "05148.rtf#rule110(2)"
+            },
+            {
+              "text": "...a reply is not the place to put a cause of action.",
+              "source_reference": "05148.rtf#stevenson-cote"
+            },
+            {
+              "text": "New causes of action were not permitted in a reply in Udovitch Estate v. Helm Estate (2000), 276 A.R. 147, 2000 ABQB 796, and Kaup v. Weir et al. (1998), 224 A.R. 347 (Q.B.).",
+              "source_reference": "05148.rtf#udovitch-kaup"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.33"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule prevents 'pleading creep' where a plaintiff tries to expand the scope of their lawsuit in a responsive pleading. It forces plaintiffs to formally amend their Statement of Claim to add new causes of action, which gives the defendant proper notice and an opportunity to respond directly.",
+          "litigation_implications": [
+            "Defendant's Tactic: Scrutinize any Reply filed by the plaintiff. If it contains new claims or allegations that should have been in the Statement of Claim, bring an application to strike the offending portions of the Reply.",
+            "Plaintiff's Tactic: If a Statement of Defence raises issues that give rise to a new cause of action (e.g., a defamation claim based on the wording of the Defence), the proper procedure is to apply to amend the Statement of Claim, not to plead it in the Reply."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Mikisew Cree First Nation v. Canada, 2004 ABCA 279",
+              "proposition": "A reply cannot raise a new cause of action; the proper procedure is to amend the statement of claim."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-28b-service-severability",
+        "node_type": "ControlMechanism",
+        "label": "Weaponized Severability: Failure to Serve One Defendant",
+        "description": "Rule 3.28(b) establishes that a failure to serve one defendant in time does not affect the validity of the action against other defendants who were properly served. This severs the procedural fate of each defendant, protecting the plaintiff's action against a total collapse.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "a statement of claim served on any defendant in time is unaffected by the failure to serve any other defendant in time.",
+              "source_reference": "05140.rtf#r3.28(b)"
+            },
+            {
+              "text": "If the statement of claim has been served on some but not all of the defendants, it expires vis-à-vis the unserved defendants only.",
+              "source_reference": "page_0078.rtf"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.28(b)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule acts as a firewall in multi-defendant litigation. It prevents a single point of failure (failure to serve one party) from causing a catastrophic, cascading failure of the entire action. It allows the plaintiff to contain the damage and proceed against the parties they successfully brought into the action.",
+          "litigation_implications": [
+            "Plaintiff's Shield: If an unserved defendant moves to have the action dismissed, the plaintiff can rely on R. 3.28(b) to ensure the order is limited to that defendant only, preserving the action against all others.",
+            "Defendant's Limitation: A defendant cannot use a co-defendant's non-service as a basis for their own dismissal application. Their procedural fate is independent.",
+            "Strategic Triage: This allows a plaintiff to make strategic decisions to abandon the claim against a hard-to-serve defendant without jeopardizing the claims against the primary targets."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-31-preemptive-defense-filing",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case Tactic: Pre-emptive Defence Filing",
+        "description": "A defendant who learns of a filed but unserved Statement of Claim can seize the procedural initiative by filing and serving a Statement of Defence, forcing the plaintiff to either engage in the litigation (e.g., discovery) or apply for a stay.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A defendant can file a defence at any time he or she has notice of a claim.",
+              "source_reference": "05145.rtf#para-alberstat"
+            },
+            {
+              "text": "The plaintiff's action at that time, if the plaintiff does not want to proceed, would be to apply to the court for a stay, which if the circumstances dictate would be granted.",
+              "source_reference": "05145.rtf#para-alberstat"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.31"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This tactic completely reverses the normal procedural dynamic. It takes control away from the plaintiff, who may be using the unserved claim as leverage or waiting for injuries to mature, and forces them to actively prosecute or justify their delay to the court. It's an aggressive move to call the plaintiff's bluff.",
+          "litigation_implications": [
+            "Defendant's Offensive Tactic: Use this to accelerate the litigation, trigger discovery obligations, or force a plaintiff who is hesitating to commit to the action. Particularly useful to clear a claim that may be affecting credit or business operations.",
+            "Plaintiff's Counter: If a defendant files a pre-emptive defence, the plaintiff must immediately decide whether to proceed or file for a stay. To get a stay, the plaintiff will need to provide a good reason for the delay (e.g., 'requiring an injury to resolve itself before proceeding')."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Martin v. Dukart (1997), 58 Alta. L.R. (3d) 171 (Master)",
+              "proposition": "A defendant with notice of a claim can file a defence without being formally served, forcing the plaintiff to either proceed or apply for a stay."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-gen-prejudice-as-decisive-factor",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Prejudice as a Decisive Discretionary Factor",
+        "description": "The presence or absence of actual, demonstrable prejudice to a party is a central and often decisive factor in the court's exercise of procedural discretion, particularly in applications to extend time or amend pleadings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Prejudice to the defendant, if any, is a factor to consider.",
+              "source_reference": "05137.rtf#para37-6"
+            },
+            {
+              "text": "the Court should only extend the time for service where there is no prejudice to the defendant;",
+              "source_reference": "05139.rtf#para52a"
+            },
+            {
+              "text": "the defendant has at least an evidentiary obligation to provide some details of prejudice which would flow from an extension of the time for service.",
+              "source_reference": "05139.rtf#para52c"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.26, 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This pillar is the gateway to most discretionary remedies in the Rules of Court. The entire contest in many procedural applications boils down to one side demonstrating a lack of prejudice and the other attempting to prove its existence. Mastering the argument around prejudice is fundamental to procedural warfare.",
+          "litigation_implications": [
+            "Party Seeking Discretion (e.g., Plaintiff): Must proactively address prejudice in their application, arguing that the other side's ability to defend the case has not been meaningfully harmed by the procedural issue.",
+            "Party Opposing Discretion (e.g., Defendant): Must provide specific, concrete evidence of prejudice. General allegations of faded memories are weak; pointing to a specific deceased witness or lost key documents is strong.",
+            "Strategic Note: The loss of a procedural advantage (like an expired claim) is generally *not* considered prejudice for these purposes. The prejudice must relate to the ability to advance or defend the case on its merits."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Sanderson Estate v. Potter, 2012 ABQB 593",
+              "proposition": "Sets out key factors for assessing prejudice, including the plaintiff's onus to show no prejudice and the defendant's evidentiary obligation to provide details of it."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-in-year-extension-counters-expiry-trap",
+        "source_node_id": "cm-r3-26-in-year-extension-mechanism",
+        "target_node_id": "pt-r3-26-one-year-service-expiry",
+        "relationship_type": "COUNTERS",
+        "description": "The pre-expiry extension mechanism under R. 3.26 is the primary and most effective countermeasure to the one-year service expiry trap.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A statement of claim must be served on the defendant within one year after the date that the statement of claim is filed unless the Court, on application filed before the one-year time limit expires, grants an extension of time for service.",
+              "source_reference": "05136.rtf#r3.26(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.26(1)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship represents the plaintiff's first and best line of defense against a procedural dismissal for delay in service.",
+          "litigation_implications": [
+            "A plaintiff who foresees a service issue must utilize this countermeasure before the one-year deadline to avoid having to meet the much higher threshold of Rule 3.27."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-post-expiry-salvage-counters-expiry-trap",
+        "source_node_id": "cm-r3-27-post-expiry-salvage-grounds",
+        "target_node_id": "pt-r3-26-one-year-service-expiry",
+        "relationship_type": "COUNTERS",
+        "description": "The post-expiry salvage grounds under R. 3.27 provide a high-threshold, extraordinary countermeasure to the one-year service expiry trap for plaintiffs who have already missed the deadline.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may, at any time, grant an extension of time for service of a statement of claim in any of the following circumstances...",
+              "source_reference": "05138.rtf#r3.27(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.27(1)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship represents the plaintiff's last-ditch effort to revive a claim that is otherwise procedurally dead. It is an attack on the finality of the expiry trap.",
+          "litigation_implications": [
+            "This is a high-risk, high-reward application. Success revives the entire action; failure confirms its demise."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-mcgowan-test-operationalizes-salvage",
+        "source_node_id": "wf-r3-27-1c-mcgowan-two-step-test",
+        "target_node_id": "cm-r3-27-post-expiry-salvage-grounds",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The McGowan Two-Step Test provides the specific analytical framework that courts must use when a plaintiff attempts to use the 'special circumstances' ground in R. 3.27(1)(c) to salvage an expired claim.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In my view, the analysis under Rule 3.27(1)(c) requires a two-step process.",
+              "source_reference": "05139.rtf#para32"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship shows how case law creates a mandatory process for applying a rule, turning a general rule into a specific, weaponized test.",
+          "litigation_implications": [
+            "Any party arguing for or against a R. 3.27(1)(c) extension must frame their submissions according to this two-step test or risk their argument being dismissed as legally incorrect."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-standstill-doctrine-operationalizes-salvage",
+        "source_node_id": "wf-r3-27-standstill-agreement-doctrine",
+        "target_node_id": "cm-r3-27-post-expiry-salvage-grounds",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The Standstill Agreement Doctrine operationalizes the waiver and estoppel provisions of R. 3.27(1)(a), providing the legal basis for a plaintiff to argue that a defendant's conduct prevents them from relying on the service deadline.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.27(1)(a)(iii) can be viewed as a sort of codification and modification of promissory estoppel...",
+              "source_reference": "05139.rtf#para30"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link connects the abstract legal concept of estoppel to a concrete procedural remedy, showing how a party's informal conduct can have direct, formal consequences under the Rules.",
+          "litigation_implications": [
+            "A plaintiff's success under R. 3.27(1)(a) depends entirely on their ability to apply the facts of their case to this doctrine."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-false-affidavit-triggers-salvage-attempt",
+        "source_node_id": "pt-r3-27-false-affidavit-of-service",
+        "target_node_id": "cm-r3-27-post-expiry-salvage-grounds",
+        "relationship_type": "TRIGGERS",
+        "description": "The discovery of a false or mistaken affidavit of service after the service deadline has passed triggers the need for the plaintiff to attempt a salvage operation using the 'special circumstances' provision of R. 3.27(1)(c).",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In my view, the mistaken affidavit sworn by the process server and relied upon by the Plaintiff, is a 'special' circumstance such as contemplated by the Rule.",
+              "source_reference": "05139.rtf#para43"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship models a cause-and-effect procedural sequence: a specific type of failure (the trap) necessitates the use of a specific, high-risk remedy (the control mechanism).",
+          "litigation_implications": [
+            "The viability of this salvage attempt depends on whether the affidavit was fraudulent (likely fatal per *Nixon*) or merely mistaken (potentially salvageable per *Sanderson Estate*)."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-mazepa-exceptions-counter-pleading-pillar",
+        "source_node_id": "cm-r3-25-mazepa-exceptions-to-pleading-limits",
+        "target_node_id": "fp-r3-25-remedy-limited-by-pleadings",
+        "relationship_type": "COUNTERS",
+        "description": "The exceptions outlined in Mazepa v. Embree, such as the power to amend pleadings, directly counter the strict foundational pillar that a court's power is limited by the pleadings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "While it is well-established that relief should be limited to what is pleaded, that rule is not absolute or truly 'jurisdictional'.",
+              "source_reference": "05135.rtf#para9"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.25"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship represents a fundamental tension in civil procedure between certainty (what's in the pleadings) and justice (allowing cases to be decided on their true merits). The exceptions are the tools used to argue for justice over rigid formality.",
+          "litigation_implications": [
+            "A litigator must be prepared to argue both sides: invoking the pillar for defense and the exceptions for offense."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-demand-notice-creates-risk-of-no-return-trap",
+        "source_node_id": "cm-r3-34-demand-for-notice-liability-admission",
+        "target_node_id": "pt-r3-34-permission-required-to-file-defence-later",
+        "relationship_type": "CREATES_RISK_OF",
+        "description": "The strategic decision to file a Demand for Notice, thereby admitting liability, creates the subsequent risk of being trapped in that admission, as court permission is required to later file a Statement of Defence.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a defendant files a demand for notice and serves it on the plaintiff, the defendant may subsequently file a statement of defence only with the Court's permission.",
+              "source_reference": "05149.rtf#r3.34(5)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.34(5)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This models the cause-and-effect of a binding procedural choice. The initial action (filing the Demand) directly enables the subsequent trap (inability to unilaterally withdraw).",
+          "litigation_implications": [
+            "Counsel must advise clients that filing a Demand for Notice is effectively an irreversible strategic decision unless a meritorious defense can later be proven to the court."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-consent-judgment-is-constrained-by-jurisdiction",
+        "source_node_id": "cm-r3-35-consent-judgment-protocol",
+        "target_node_id": "fp-r3-35-consent-cannot-create-jurisdiction",
+        "relationship_type": "IS_CONSTRAINED_BY",
+        "description": "The ability of parties to obtain a consent judgment is fundamentally constrained by the principle that they cannot by agreement grant the court a jurisdiction it does not possess.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A court cannot grant an order simply because parties present it with a consent order. The order must be something within the jurisdiction and power of the Court...",
+              "source_reference": "05152.rtf#para58"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.35"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship establishes a hierarchical legal constraint. The procedural mechanism (consent order) is subordinate to the foundational pillar (jurisdiction).",
+          "litigation_implications": [
+            "This provides a basis to attack an otherwise valid consent order if it purports to make a ruling that is ultra vires the court."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-consent-judgment-creates-finality-trap",
+        "source_node_id": "cm-r3-35-consent-judgment-protocol",
+        "target_node_id": "pt-r3-35-setting-aside-consent-judgment",
+        "relationship_type": "LEADS_TO",
+        "description": "Properly entering a consent judgment leads to a state of high finality, creating a trap for any party who later wishes to set it aside due to the extremely narrow grounds available.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Although the judgment is a consent judgment, it has the same force and effect as a judgment after trial.",
+              "source_reference": "05152.rtf#para5"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.35"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship shows the intended outcome of the consent judgment mechanism: to create a binding and durable resolution, which in itself becomes a procedural barrier to reopening the matter.",
+          "litigation_implications": [
+            "Parties must be advised of the near-total finality of a consent judgment before agreeing to one."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-reply-trap-reinforces-pleading-pillar",
+        "source_node_id": "pt-r3-33-reply-cannot-raise-new-claim",
+        "target_node_id": "fp-r3-25-remedy-limited-by-pleadings",
+        "relationship_type": "REINFORCES",
+        "description": "The prohibition against raising new claims in a Reply reinforces the foundational pillar that the scope of the action is defined by the originating pleading (Statement of Claim), not subsequent responsive documents.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...a reply is not the place to put a cause of action.",
+              "source_reference": "05148.rtf#stevenson-cote"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.33"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship demonstrates how specific procedural rules are designed to uphold broader legal principles, ensuring procedural fairness and preventing litigation from becoming chaotic.",
+          "litigation_implications": [
+            "This rule forces a plaintiff to be deliberate about expanding their case, requiring a formal amendment which can have costs consequences and give the defendant a clear opportunity to respond."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-expiry-trap-is-mandatory",
+        "source_node_id": "pt-r3-26-one-year-service-expiry",
+        "target_node_id": "pt-r3-26-one-year-service-expiry",
+        "relationship_type": "IS_MANDATORY",
+        "description": "The one-year service expiry rule is mandatory and not subject to the court's general discretion to vary time periods under Rule 13.5.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 13.5 does not apply to this rule or to an extension of time ordered under this rule.",
+              "source_reference": "05136.rtf#r3.26(3)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.26(3)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This self-referential relationship highlights the exceptional rigidity of the rule. It explicitly removes a common tool (R. 13.5) that lawyers might use to seek relief, making the deadline even more perilous.",
+          "litigation_implications": [
+            "A lawyer cannot argue for a general, discretionary extension of the one-year service deadline; they MUST bring themselves within the specific gateways of R. 3.26 or R. 3.27."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-no-further-extension-trap",
+        "source_node_id": "cm-r3-27-post-expiry-salvage-grounds",
+        "target_node_id": "cm-r3-27-post-expiry-salvage-grounds",
+        "relationship_type": "IS_A_ONE_TIME_REMEDY",
+        "description": "Once an extension is granted under the extraordinary circumstances of Rule 3.27, no further extensions may be granted under that rule, creating a final, hard deadline.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If an extension of time is granted under subrule (1), no further extension of time may be granted under this rule and rule 13.5 does not apply unless different or new circumstances described in subrule (1) are established to the Court's satisfaction.",
+              "source_reference": "05138.rtf#r3.27(2)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.27(2)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship highlights the 'one-shot' nature of the R. 3.27 remedy. It prevents a plaintiff from repeatedly using the extraordinary exceptions to prolong the life of a claim indefinitely. It imposes finality even on the exceptions.",
+          "litigation_implications": [
+            "If a plaintiff successfully obtains a R. 3.27 extension, they must treat the new deadline as absolute. There is no further recourse for delay."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-amendment-power-modifies-pleading-pillar",
+        "source_node_id": "cm-r3-25-mazepa-exceptions-to-pleading-limits",
+        "target_node_id": "fp-r3-25-remedy-limited-by-pleadings",
+        "relationship_type": "MODIFIES",
+        "description": "The court's broad power to permit amendments to pleadings at any time modifies the strictness of the pillar that remedies are limited by the pleadings, allowing the scope of the litigation to evolve.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the effect of the rule is reduced by the concurrent ability of the court to amend the pleadings at any time: R. 3.65.",
+              "source_reference": "05135.rtf#para9b"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.25"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship shows how one procedural rule (amendment) acts as a safety valve for another (pleading limits), balancing the need for procedural certainty with the need for substantive justice.",
+          "litigation_implications": [
+            "The power of amendment is the primary tool to cure pleading deficiencies and respond to new information discovered during the litigation process."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-prejudice-factor-in-in-year-extension",
+        "source_node_id": "fp-gen-prejudice-as-decisive-factor",
+        "target_node_id": "cm-r3-26-in-year-extension-mechanism",
+        "relationship_type": "IS_A_FACTOR_IN",
+        "description": "The assessment of prejudice to the defendant is a key factor the court considers when exercising its discretion to grant a pre-expiry extension of time for service under Rule 3.26.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Prejudice to the defendant, if any, is a factor to consider.",
+              "source_reference": "05137.rtf#para37-6"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.26"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link explicitly connects the general principle of prejudice to a specific, low-threshold discretionary remedy, showing that even in 'easy' applications, prejudice remains a relevant consideration for the court.",
+          "litigation_implications": [
+            "While the plaintiff's burden is low, a defendant can still defeat a R. 3.26 application if they can demonstrate clear and significant prejudice from the requested 3-month delay."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-prejudice-factor-in-mcgowan-test",
+        "source_node_id": "fp-gen-prejudice-as-decisive-factor",
+        "target_node_id": "wf-r3-27-1c-mcgowan-two-step-test",
+        "relationship_type": "IS_A_FACTOR_IN",
+        "description": "Prejudice is the core consideration in the second step of the McGowan test, where the court decides whether to exercise its discretion to grant an extension under R. 3.27(1)(c) after special circumstances have been established.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is in this second step that the policy considerations of the limitations legislation and prejudice should be considered.",
+              "source_reference": "05139.rtf#para34"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.27"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship highlights the critical role of prejudice in the highest-stakes extension applications. It shows that even if a plaintiff proves 'special circumstances,' their application can still fail at the discretionary stage if significant prejudice to the defendant is found.",
+          "litigation_implications": [
+            "In a R. 3.27(1)(c) application, the battle is fought on two fronts: first causation, then prejudice. A party must be prepared to win both."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-prejudice-factor-in-mazepa-exceptions",
+        "source_node_id": "fp-gen-prejudice-as-decisive-factor",
+        "target_node_id": "cm-r3-25-mazepa-exceptions-to-pleading-limits",
+        "relationship_type": "IS_A_FACTOR_IN",
+        "description": "The determination of whether a party will suffer prejudice is a key factor in the court's decision to allow a late amendment to pleadings, one of the core exceptions to the rule that remedies are limited by the pleadings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court in Wild Rose could have amended the pleadings, even during argument, if it was satisfied that there was no surprise or prejudice involved.",
+              "source_reference": "05135.rtf#para9b"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.25"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link demonstrates the universal importance of the prejudice analysis across different procedural domains, connecting time limit extensions with pleading amendments through this common legal test.",
+          "litigation_implications": [
+            "The argument against a late amendment almost always centers on proving incurable prejudice. The party seeking the amendment must demonstrate how any potential prejudice can be compensated by costs or other orders."
+          ],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-service-deadline-kill-shot",
+        "title": "The Service Deadline Kill Shot",
+        "objective": "For a defendant to terminate a lawsuit on a purely procedural basis by exploiting the plaintiff's failure to serve the Statement of Claim within the mandatory one-year period.",
+        "prerequisites": [
+          "One year has passed since the Statement of Claim was filed.",
+          "The defendant has not been served.",
+          "No court order extending the time for service was filed before the one-year anniversary."
+        ],
+        "expected_outcome": "An order declaring that no further proceedings may be taken in the action against the defendant, effectively dismissing the plaintiff's claim with prejudice due to the expiry of the limitation period.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "pt-r3-26-one-year-service-expiry"
+            ],
+            "action": "Identify that the one-year service deadline under Rule 3.26 has passed without service.",
+            "justification": "A statement of claim must be served on the defendant within one year after the date that the statement of claim is filed..."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [],
+            "action": "Confirm with the court clerk that no application to extend time for service was filed before the deadline expired.",
+            "justification": "...unless the Court, on application filed before the one-year time limit expires, grants an extension of time for service."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-26-one-year-service-expiry"
+            ],
+            "action": "File an application to the Court seeking an order under Rule 3.28 that no further proceedings may be taken against the defendant.",
+            "justification": "If a statement of claim is not served on a defendant within the time or extended time for service, no further proceeding may be taken in the action against a defendant who was not served in time..."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [],
+            "action": "In argument, emphasize that the rule is mandatory and not discretionary, and that the claim is now dead.",
+            "justification": "The consequences of R. 3.26 are neither optional nor discretionary: they are mandatory."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-standstill-agreement-salvage",
+        "title": "The Standstill Agreement Salvage Operation",
+        "objective": "For a plaintiff who has missed the one-year service deadline to revive their claim by proving the defendant's conduct induced a reasonable belief that the deadline would not be enforced.",
+        "prerequisites": [
+          "The one-year service deadline has passed.",
+          "There is written or strong circumstantial evidence of communications with the defendant or their insurer that suggested formal service was not required while discussions were ongoing."
+        ],
+        "expected_outcome": "A discretionary court order under R. 3.27(1)(a) extending the time for service, thereby reviving the action and allowing it to proceed.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "pt-r3-26-one-year-service-expiry"
+            ],
+            "action": "Acknowledge that the one-year deadline for service has been missed.",
+            "justification": "A statement of claim must be served on the defendant within one year after the date that the statement of claim is filed..."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "cm-r3-27-post-expiry-salvage-grounds",
+              "wf-r3-27-standstill-agreement-doctrine"
+            ],
+            "action": "File an application for an extension of time under R. 3.27(1)(a)(iii), arguing promissory estoppel.",
+            "justification": "The Court may, at any time, grant an extension...if a defendant...has caused the plaintiff...to reasonably believe and to rely on the belief that...a time limit...will not be relied on or will be waived."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-r3-27-standstill-agreement-doctrine"
+            ],
+            "action": "File affidavit evidence annexing all relevant communications (emails, letters) and detailing conversations that created the belief that the deadline was waived.",
+            "justification": "For the purposes of Rule 3.27, an agreement to suspend a time limit for one party gives rise to a reasonable belief that the time limit for service will not be strictly enforced against the other party in the absence of a clear indication to the contrary."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "fp-gen-prejudice-as-decisive-factor"
+            ],
+            "action": "Argue that the defendant would not be prejudiced by the extension, as they were aware of the claim and engaged in discussions throughout the period.",
+            "justification": "The plaintiff bears the onus of proving that the defendant would not be prejudiced by the extension."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-procedural-reversal",
+        "title": "The Procedural Reversal: Forcing a Plaintiff's Hand",
+        "objective": "For a defendant to seize control of the litigation timeline when a plaintiff has filed but not served a Statement of Claim, forcing them to either prosecute the claim or justify their delay.",
+        "prerequisites": [
+          "Defendant has become aware of a filed Statement of Claim (e.g., through industry contacts, credit checks, or informal notice).",
+          "Defendant has not been formally served.",
+          "Defendant wishes to accelerate the resolution of the claim."
+        ],
+        "expected_outcome": "The plaintiff is forced to either actively litigate the claim (including participating in discovery) or seek a stay of proceedings, thereby putting the reasons for their delay on the official court record and under judicial scrutiny.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "cm-r3-31-preemptive-defense-filing"
+            ],
+            "action": "Upon learning of the unserved claim, immediately file a Statement of Defence.",
+            "justification": "A defendant can file a defence at any time he or she has notice of a claim."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [],
+            "action": "Serve the filed Statement of Defence on the plaintiff's counsel of record.",
+            "justification": "If a defendant files a defence without having been served a statement of claim and the plaintiff decides to discontinue the action the question then arises as to the allocation of costs."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [],
+            "action": "Immediately serve a Notice to Attend for Questioning or other discovery requests on the plaintiff to signal intent to move the action forward.",
+            "justification": "A defendant in such a case in the absence of service of the statement of claim can file a defence and press on to trial if the debt is denied."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "cm-r3-31-preemptive-defense-filing"
+            ],
+            "action": "If the plaintiff objects or fails to respond, advise them that their only recourse is to apply to the court for a stay of the action.",
+            "justification": "The plaintiff's action at that time, if the plaintiff does not want to proceed, would be to apply to the court for a stay..."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-service-deadline-expiry",
+        "title": "Simulation: The Service Deadline Expiry Conflict",
+        "scenario": "A plaintiff's lawyer has been in informal settlement talks with a defendant's insurance adjuster. The one-year service deadline passes. The adjuster goes silent. The defendant then brings an application to dismiss the action for non-service.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "party": "Defendant",
+            "action_description": "Files application to have the action declared expired under R. 3.28, citing failure to serve within the mandatory one-year period.",
+            "node_refs": [
+              "pt-r3-26-one-year-service-expiry"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "party": "Plaintiff",
+            "action_description": "Files a cross-application for a retroactive extension of time under R. 3.27(1)(a)(iii).",
+            "node_refs": [
+              "cm-r3-27-post-expiry-salvage-grounds"
+            ]
+          },
+          {
+            "move_number": 2,
+            "party": "Plaintiff",
+            "action_description": "Submits affidavit evidence of all communications with the adjuster, arguing the ongoing negotiations and requests for information created a reasonable belief that the service deadline was waived (a standstill).",
+            "node_refs": [
+              "wf-r3-27-standstill-agreement-doctrine"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-001-clarity-of-waiver",
+            "description": "The central issue for the judge: Were the adjuster's communications sufficiently clear to create a *reasonable* belief of a waiver? Or were they just standard negotiation tactics?",
+            "key_factor": "The presence or absence of explicit language. Did the adjuster say 'don't serve us while we talk' or was it just implied? The defense will cite *Martinez*: 'Solicitors wishing that should say so clearly.'"
+          },
+          {
+            "point_id": "dp-002-prejudice",
+            "description": "If the plaintiff establishes a potential standstill, the court will assess prejudice. Can the defendant demonstrate actual prejudice to their ability to defend the case on the merits caused by the delay beyond the one-year mark?",
+            "key_factor": "The defendant must provide concrete details of prejudice. The plaintiff will argue that since the defendant (via their insurer) was aware of the claim and investigating, no prejudice exists. This decision point is governed by `fp-gen-prejudice-as-decisive-factor`."
+          }
+        ],
+        "likely_resolution": "Highly fact-dependent. If the plaintiff has written evidence of the adjuster requesting they 'hold off on formal steps', their chances are good. If the evidence is ambiguous, the court will likely favor the defendant, upholding the mandatory nature of the service deadline. This simulation highlights the extreme risk of relying on informal understandings."
+      },
+      {
+        "simulation_id": "cms-002-unpleaded-remedy-at-trial",
+        "title": "Simulation: The Unpleaded Remedy Ambush",
+        "scenario": "At the conclusion of a trial, plaintiff's counsel, in final arguments, asks for a remedy (e.g., an accounting of profits) that was never mentioned in their Statement of Claim, which only sought damages.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "party": "Plaintiff",
+            "action_description": "During closing submissions, requests a new, unpleaded remedy based on the evidence that came out at trial.",
+            "node_refs": []
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "party": "Defendant",
+            "action_description": "Immediately object, arguing the Court's jurisdiction is limited by the pleadings and granting the new remedy would be a denial of natural justice.",
+            "node_refs": [
+              "fp-r3-25-remedy-limited-by-pleadings"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-003-plaintiff-counter",
+            "description": "How does the plaintiff respond to the objection? The plaintiff's only viable counter is to move orally to amend their pleadings to conform with the evidence.",
+            "key_factor": "The plaintiff will invoke the court's power to amend at any time (`cm-r3-25-mazepa-exceptions-to-pleading-limits`), arguing the defendant is not prejudiced because the evidence supporting the new remedy was fully canvassed at trial."
+          },
+          {
+            "point_id": "dp-004-prejudice-assessment",
+            "description": "The judge must decide if allowing a last-minute amendment is fair. Would the defendant have conducted their case differently (called different witnesses, asked different questions) if they had known this remedy was in play from the start?",
+            "key_factor": "This is a direct application of `fp-gen-prejudice-as-decisive-factor`. If the defendant can show any credible prejudice, the amendment will be denied. If the new remedy flows naturally from the pleaded facts and evidence, the amendment may be granted."
+          }
+        ],
+        "likely_resolution": "The defendant's objection will likely be sustained unless the plaintiff can make a very strong case for a late amendment without prejudice. Courts are reluctant to grant remedies that a party has not had fair notice of. The plaintiff's failure to plead correctly creates a high risk of being denied a potentially valid remedy."
+      },
+      {
+        "simulation_id": "cms-003-the-multi-defendant-service-failure",
+        "title": "Simulation: The Multi-Defendant Service Failure",
+        "scenario": "A plaintiff sues three defendants (A, B, and C). They successfully serve A and B within one year, but despite diligent efforts, fail to serve C. After the one-year deadline passes, Defendant C learns of the action and brings an application to have the *entire action* dismissed, arguing the failure to serve a necessary party is fatal.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "party": "Defendant C",
+            "action_description": "Files an application to dismiss the action against themself for failure to serve in time, and argues for a dismissal of the entire action against A and B as well.",
+            "node_refs": [
+              "pt-r3-26-one-year-service-expiry"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "party": "Plaintiff",
+            "action_description": "Concedes that the action against Defendant C has expired and cannot proceed.",
+            "node_refs": [
+              "pt-r3-26-one-year-service-expiry"
+            ]
+          },
+          {
+            "move_number": 2,
+            "party": "Plaintiff",
+            "action_description": "Vigorously opposes the dismissal of the action against A and B, relying on the severability provision of Rule 3.28(b).",
+            "node_refs": [
+              "cm-r3-28b-service-severability"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-005-severability-rule",
+            "description": "The judge must apply Rule 3.28(b). Is there any reason why the clear text of the rule should not apply?",
+            "key_factor": "The rule is unambiguous. Defendant C's argument is extremely weak unless they can prove that they are a legally indispensable party without whom the action cannot possibly proceed against A and B, which is a very high bar."
+          }
+        ],
+        "likely_resolution": "The court will grant Defendant C's application in part, ordering that no further proceedings may be taken against C. However, the court will dismiss the application as it relates to A and B, confirming that the action against them is valid and unaffected. The plaintiff's action is damaged but not destroyed, thanks to the firewall provided by `cm-r3-28b-service-severability`."
+      }
+    ],
+    "integration_touchpoints": []
+  }
+}

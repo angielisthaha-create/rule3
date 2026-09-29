@@ -1,0 +1,239 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.7",
+  "title": {
+    "official": "Post-judgment transfer of action",
+    "variants": {
+      "BOOK_A": "Post-judgmentTransfer of Action"
+    }
+  },
+  "division": {
+    "number": 1,
+    "heading": "Court Actions and Their Venue"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.7(1)  After judgment or an order has been entered in a judicial\ncentre, a judgment creditor, on notice to each of the other parties,\nmay request a temporary transfer of the action to a different judicial\ncentre for purposes of an application to enforce the judgment or\norder.\n(2)  An order granting a temporary transfer of an action under\nsubrule (1), and any order resulting from an application referred to\nin subrule (1), must be filed in the judicial centre from which the\naction has temporarily been transferred.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "8f8e01783403b40c99a337a49b12106c6c7123c5e20a880c867cc5b68d17d016"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          52
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Post-judgmentTransfer of Action",
+      "operative_text_raw": null,
+      "operative_text_sha256": "d548ac76e568899876b2c9f3b3be2ddf3aa30d84f05c902b76726f690c1a8e24",
+      "defined_terms": "judgment, judgment creditor, judicial centre, order",
+      "related_provisions": "9.5 (entry of judgments and orders) *DIVISION 2 ACTIONS STARTED BY ORIGINATING APPLICATION *Subdivision 1 General Rules *Originating Applications and associated evidence*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-24"
+        ],
+        "offset_in_clean_text": [
+          69033,
+          69895
+        ]
+      },
+      "operative_text_note": "same wording as official 3.7(1)-(2) (read by eye) except missing spaces and '*' line marks; the title is printed 'Post-judgmentTransfer of Action'. No amendment bracket; the official text lists no amendment for 3.7. No substantive difference. This rule's history footnote is presumably p.3-24 fn 3 ('Quite similar to previous 1968 R.405. It was new in 1968.'), which is printed in the built 3.6 commentary and kept verbatim there; the book does not show which of the two rules it belongs to.",
+      "commentary_review_flag": "Read in full, p.3-24 (lines 542-545): rule text, information note, defined terms, related provision; no commentary. The built related-provisions field runs on into 'DIVISION 2 ACTIONS STARTED BY ORIGINATING APPLICATION *Subdivision 1 General Rules *Originating Applications and associated evidence*': these are headings printed after this rule (they match the official Division 2 'Actions Started by Originating Application', Subdivision 1 'General Rules' and the title of 3.8) and are not 3.7 material. Information note 'For enforcement of judgments and orders see Part 9 [Judgments and Orders]' - official Part 9 is 'Judgments and Orders'; related provision '9.5 (entry of judgments and orders)' - official 9.5 is 'Entry of judgments and orders'; Defined Terms 'judgment, judgment creditor, judicial centre, order' - the Appendix defines each. Pointer from elsewhere: R.13.44 (p.13-104, line 5365) says 'On backlogs in accepting documents submitted for filing, see Rr.3.7 n. J, and 13.41 n.'; Book A has no note at 3.7 and no Part J in its 3.2 note (headings A-D), so the pointer lands on nothing in the file (the backlog passage is in R.13.41's note, p.13-102, lines 5269-5271)."
+    },
+    "BOOK_B": {
+      "title": "Post-judgment transfer of action",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_7_001",
+        "part3_part_3_court_actions_022"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "88b040c41f42b5bfa2e735c0a5bc692dbb57527703d308ddb4e4cfdfea262c51",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Post-judgment transfer of action",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "57e0733a736e0e627005e2e08e01616c5d1d3c6f27e1b31679f43e4195337fa9",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule permits a judgment creditor to temporarily move an action for the purposes of enforcement. It allows the judgment creditor, if required, to move the action to the judicial centre in which the enforcement is to take place.",
+          "citations": [],
+          "review_flag": "'It allows the judgment creditor, if required, to move the action to the judicial centre in which the enforcement is to take place': official 3.7(1) says the judgment creditor 'may request' (on notice to the other parties) a temporary transfer 'to a different judicial centre for purposes of an application to enforce the judgment or order'; it does not say the centre is the one where enforcement will take place. Books A and B have no 3.7 commentary to compare."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.7(1)-(2) (read by eye) except missing spaces and '*' line marks; the title is printed 'Post-judgmentTransfer of Action'. No amendment bracket; the official text lists no amendment for 3.7. No substantive difference. This rule's history footnote is presumably p.3-24 fn 3 ('Quite similar to previous 1968 R.405. It was new in 1968.'), which is printed in the built 3.6 commentary and kept verbatim there; the book does not show which of the two rules it belongs to."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.7",
+      "title_official": "Post-judgment transfer of action"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "d548ac76e568899876b2c9f3b3be2ddf3aa30d84f05c902b76726f690c1a8e24",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-24"
+          ],
+          "offset_in_clean_text": [
+            69033,
+            69895
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "88b040c41f42b5bfa2e735c0a5bc692dbb57527703d308ddb4e4cfdfea262c51",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "57e0733a736e0e627005e2e08e01616c5d1d3c6f27e1b31679f43e4195337fa9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "8f8e01783403b40c99a337a49b12106c6c7123c5e20a880c867cc5b68d17d016",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            52
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "eb7166097519cdd4621d3f30100e384c959b8ee37b8ce752a8a4fcce8ad265dd"
+  },
+  "information_notes": [
+    {
+      "text": "For enforcement of judgments and orders see Part 9 [Judgments and Orders].",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "garbled copy of Book A's information note ('For enforcement of judgments and orders see Part 9 [Judgments and Orders]'): the number '9' is lost and this text stands in its place: 'Odland v. Odland Sobeys , [2017] A.J. No. 1265, 2017 ABCA 397 at paras. 19-23 (Alta. C.A.); Capital Inc. v. Gulf & Pacific Equities Corp., [2018] A.J. No. 231, 2018 ABQB 151 at paras. 13-25 (Alta. Q.B.); and , [2016] A.J. No. 1042, 2016 ABQB 570 at para. 7 (Alta. Q.B.). Regular v. Regular'. These are the citations and paragraph numbers that Book C prints in its 3.5 commentary ('Balance of Convenience Test'), so the text is displaced 3.5 material; not retained here."
+      }
+    }
+  ],
+  "see_also": [
+    "Official text (searched for 'rule 3.7', 'rules 3.6 and 3.7', lists, line-wrapped forms and form headings): no other official rule cites 3.7 by number and no form heading names it. By subject: 3.4-3.6 (transfer and place of action), Part 9 (9.5 entry of judgments and orders; enforcement rules 9.17-9.29 that BOOK_A links to 3.7), 3.37 (named in BOOK_A R.9.17's related provisions with 3.7), Appendix definitions of judgment, judgment creditor, judicial centre and order.",
+    "BOOK_A statements about 3.7 (all combined*.txt searched, line-wrapped forms included; pages from the page markers): R.9.5 note p.9-16 (line 710) and R.9.17 note p.9-50 (line 2618): 'Rule 3.7 [Post-judgment transfer of action] permits a judgment creditor to apply to the Court, on notice to each of the other parties, for a temporary transfer of the action to a different judicial centre for purposes of an application to enforce the judgment or order' (title matches the official; official 3.7(1) says the creditor 'may request' a temporary transfer and 3.7(2) speaks of 'an order granting' it, so 'apply to the Court' is a paraphrase); R.9.20 note p.9-63 (line 3314): 'Rule 3.7 allows enforcement other than by writ to take place at a different judicial centre' - 'other than by writ' is not in the official 3.7, which speaks of 'an application to enforce the judgment or order' (FLAG: gloss). Related provisions: R.9.17 p.9-50 (line 2623) and R.9.20 p.9-62 (line 3282) '3.7 (venue of enforcement proceedings)', R.9.29 p.9-73 (line 3780) '3.7 (venue of enforcement)' - short paraphrases; R.13.41 note p.13-103 (line 5292) lists 3.7 among rules that 'seem to require filing' (official 3.7(2): the order 'must be filed in the judicial centre from which the action has temporarily been transferred'; consistent). FLAG: R.13.44 (p.13-104) pointer 'Rr.3.7 n. J' (see the Book A flag).",
+    "BOOK_B: rule text only (paragraph part3_part_3_court_actions_022), equal to the official 3.7, no commentary, no amendment note on either side; BOOK_B's next paragraph is the running head 'Part 3. Court Actions Division 2. Actions Started by Originating Application Subdivision 1. General Rules'. BOOK_C: rule text and amendment note ('Alta. Reg. 124/2010, r. 3.7 effective November 1, 2010') agree with the official text; one 'General Principles' paragraph (flagged); its information note is garbled (see BOOK_C note). No Book B or Book C file cites 3.7 by number."
+  ],
+  "dedupe_log": [
+    "3.7 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.7 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.7 BOOK_C commentary sentence split dropped",
+    "3.7 BOOK_C information note dropped (manual review)",
+    "3.7 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.7 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,50 @@
+WORKFLOW - Part 3 (rules 3.1-3.77)
+
+The method, checklists 3A/3B/3C and the pass plan (6A) are in rule2_subrules/WORKFLOW.txt and apply unchanged.
+Part 3 is built by tools/build_rule3_reconciliation.py into rule3_subrules/. Helpers: source tools/qa_display_helpers.sh
+(gate_all3, pg3 ...), and ARC_PART=3 python3 tools/show_rule_notes.py / extract_note_refs.py / edit_helpers.py.
+
+STATUS
+   Builder pass: 2026-09-28. Built 77 rules, gate_all3 -> 77 x valid. No manual pass has started (Pass 1 is next).
+
+SOURCES (all in the repository root)
+   OFFICIAL  Alberta_Rules_of_Court.txt (Part 3 = second "Part 3" heading to second "Part 4" heading; Subdivision
+             headings are read from the table of contents and stripped from the preceding rule)
+   BOOK_A    "combined rule3.txt" - book pages 3-4 to 3-246 (RULE 3.1 IS NOT IN THE FILE: pages 3-1 to 3-3 are missing)
+   BOOK_B    rule3_part01_document.json ... rule3_part10_document.json (Fradsham; headings "3.N. Title", commentary
+             "Commentary section 3.N:k"; the same heading is repeated at the start of the next file)
+   BOOK_C    "101-120_2_28 to 3_18.json", "121-140_3_19 to 3_43.json", "141-160_3_44 to 3_66.json",
+             "161-180_3_67 to 4_7.json" (rule 3.10 is not in any of them)
+   Not used: second_book.zip (a regex "logic layer" of Book C; same pages, no new text) and the rule3.*.json files in the
+   root (graph blueprints, not a book).
+
+BUILDER DIFFERENCES FROM PART 2 (read before trusting a status)
+   1. Book A Part 3 is a different extraction: pages open with "**PAGE N"; the running head is a line "3-N" or
+      "PART 3:COURT ACTIONSR.3.x(y) 3-N" and is also printed inline as "*R.3.x(y)PART 3:COURT ACTIONS". The builder
+      removes these heads (the removed text is listed in part_level.BOOK_A.page_furniture_removed). Many spaces are
+      missing, footnote numbers are glued to words, footnotes are NOT split out (footnotes = [] with a note), and
+      columns are sometimes out of order. Book A rule start = "*Title*3.N" or "*3.N".
+   2. compare() has a new tier: texts equal when only letters and digits are compared are NORMALIZATION_ONLY_DIFFERENCE
+      with a "basis" note. A status is still only a hint.
+   3. parse_official reads Subdivisions; each rule JSON has a "subdivision" field.
+   4. Book B: edition year is not printed in the Part 3 files; the builder uses the latest case year cited (2025).
+   5. Book A "defined_terms" is a new field (the "Defined Terms" line under Information Note).
+   6. All MANUAL_* tables start empty.
+   6a. Book A identity (found in the 3.12 pass): Book A is very probably a later edition of Stevenson & Cote, Alberta Civil Procedure Handbook - Book B quotes
+      the Handbook 2017 (at 3-21) with the same wording as Book A's 3.12 note, and Book A calls itself 'this Handbook'. No file states the title or edition.
+   7. Book B: when the source prints a rule's text twice (heading repeated across a page/file break: seen at 3.4 and 3.12) the parser keeps
+      one copy and lists the skipped paragraph ids in sources.BOOK_B.duplicate_rule_text_paragraphs_skipped (added in the 3.4 pass).
+   8. Book A: when a rule has no amendment bracket, its text now ends at the first 'Information Note' / 'Defined Terms' / 'Related Provisions'
+      heading (before, at the first blank line, which page breaks put inside the rule text). Result: rule text can hold page-end footnote blocks,
+      so text notes keep them verbatim. Changed 3.4 and 25 other files; every rule is re-read in its own pass.
+
+BUILD RESULT (before any manual review): pairwise statuses vs official over 231 comparisons -
+   EXACT_MATCH 88, NORMALIZATION_ONLY_DIFFERENCE 45, WORDING_DIFFERENCE 74, CARRIER_MISSING_TEXT 18,
+   CARRIER_HAS_EXTRA_TEXT 4, CARRIER_TEXT_MISSING 2 (Book A 3.1 and Book C 3.10, both not in the files).
+   Gate results: 10 THREE_BOOK_SOURCE_RECONCILED, 67 SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED.
+   Book C lists rules 3.27, 3.61 and 3.67 twice (rule text in one entry, annotation or a displaced fragment in the other);
+   the builder merges them and keeps every part (sources.BOOK_C.merged_duplicate_entries). Check these three in Pass 1.
+
+NEXT: Pass 1 (full read, checklists 3A+3B+3C, write-after-search rule), then Pass 2 verification (plan 6A).
+
+PASS 2 (Part 3): done for 3.1-3.77 - see tools/pass2/PASS2_PROGRESS.txt and the [2nd pass] lines in REVIEW_NOTES.txt. Errors found in 3.6 3.12 3.15 3.16 3.22 3.34 3.36 3.69 3.75 (corrected). NEXT: pass 3 (confirmation) on those rules; then Part 4.

@@ -1,0 +1,238 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.3",
+  "title": {
+    "official": "Determining the appropriate judicial centre",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Court Actions and Their Venue"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.3(1)   The appropriate judicial centre for the purpose of these\nrules is\n(a) the closest judicial centre, by road, to the Alberta\nresidences or Alberta places of business of all the parties,\nor\n(b) if a single judicial centre cannot be determined under\nclause (a), the judicial centre that is, by road, the closest to\nthe Alberta residence or Alberta place of business of one\nof the parties, that party being selected by the party\nstarting the action.\n(2)  If a party carries on business in more than one Alberta location,\nthe place of business in Alberta of that party for the purpose of this\nrule is the place of business that is nearest to the location at which\nthe matters in issue in the action arose or were transacted.\n(3)  Despite subrules (1) and (2), the parties may agree on a judicial\ncentre in which to start and carry on the action, in which case the\njudicial centre agreed on by the parties is the appropriate judicial\ncentre unless the Court otherwise orders.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "3f1d709d4ec98ea7b2518ed81a6fe49785d0cb177ece062c1a871e19a83f977e"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.3 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          50,
+          51
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "5823703e9ff1d06d6580272d55d11f01b23d4d34a90d1f45d933bd7ef21ff959",
+      "defined_terms": "Court, judicial centre, party, rules",
+      "related_provisions": "3.2 (how to start an action); 3.4 (claimingland); 3.5 (moving action);3.6(2) (movement of motions and trials);6.11 (electronic hearings);8.18 (electronic trials);11.21 (electronic service); 13.41 (fax filing);14.8(5) (venue of appeals);14.84 (place of filing); 15.13 (transitional rule)",
+      "commentary": "Rule 3.3 sets out how to determine the appropriate judicial centre in which to commence and\n\ncarry on, or to transfer, an action.On when a suit once in the appropriate centre now should be moved to another, see R.3.5 and notes. The Rules were heavily amended in 1996, and pre-1996 cases giving the plaintiff's choice great weight are no longer law, but the new 2010 Rules make no real change to the 1996 Rules. No longer do the odd boundaries of judicialdistrictsgovern;now the test is distance to judicial\n\n*centresby usual methods of travel. The Rules are designed to prevent a plaintiff's picking a venue for the suit which has no connection at all with the location of either party. If the relevant parties to the lawsuit clearly are in or close to one judicial centre, that is where the plaintiff must start the lawsuit.The defendants\n\nhave a right to have it moved there if it was not started there.That the non-resident plaintiff wants to run all its foreclosure actions in one judicial centre and use one counsel, is not enough to depart from the Rule. Calgary cannot be the proper judicial centre if both parties reside in Edmonton, and the court should transfer the suit under R.3.5, if R.3.3 was not complied with;the place in R. 3.3 is presumed correct.\n\n1Quite similar to previous 1996 R.6.1, first enacted by Alta.Reg.243/96.The history is reviewed, inPac. Inv. *& Dev.v.Wood Buffalo (R.M.)2017 ABQB 469, JC FtMcM 1713 00116 (Jul 26).This Rule on closeness to residence etc.is similar to the previous R.6.1:ibid.\n\nRule 3.2(1) requires commencement in the judicial centre specified, without waiting for the\n\nLR(4th) 275,vard2007 ABCA 162, 81 Alta LR(4th) 11.Quaere. 8Abou-Morad v. Aboumourad2015 ABQB 584, 2015 CarswellAlta 1731 (Sep 16). 9Acciona Infrastructure v. Daewoo Corp.2017 ABQB 707, JCC 1703 07216 (Nov 20).\n\n5See n.4,supra.325303 Alta.v.Prime,supra.\n\n1Limv.Young(M) 2004 ABQB 489, 360 AR 277;Nat.Hldg. v.Blair,supra. 2Ferguson v.Rubik(M) 2002 ABQB 779, 324 AR 349. 3Nat.Hldg. v.Blair(M) 2009 ABQB 351. 4Apache Can.v. Johnson,supra. 6Parties can agree to depart from R.3.3 and can adopt a different judicial centre for their lawsuit, even after commencement:Tuckanow v. Bowden Penitentiary2014 ABQB 563, 591 AR 348.Rule 3.3(3)(c) on suing\n\nin the \"wrong\"Judicial Centre by consent, includes a clause in the mortgage sued on.But a defence, which objects to the Judicial District must be disclosed to the court when seeking an order nisi.Costs payable to the Clerk were assessed against counsel for the mortgagee:Baxter v.Darby(M) 2009 ABQB 559. 7See R.3.5.The rule is not mandatory, and the judge has a discretion, and should not transfer it if she is in the \"wrong\"city and has heard the certification motion:Kristal v.Nicholl & Akers2006 ABQB 168, 54 Alta\n\ncontext. If there is any real doubt as to which of two places is proper, the plaintiff may choose.\n\ndefendant to complain and have the suit moved.The court can transfer the suit to the right judicial centre on its own motion, with costs under R.10.47. Residence of the parties for purposes of R.3.3 is determined at the time the action starts, and it is irrelevant that bythe time of the trial or the eve of trial, both parties now reside in a different judicial centre?\n\nAnd if the plaintiff has no place of business in Alberta, its location is irrelevant to choosing which courthouse to sue in. Where a plaintiff has more than one branch, the one where the dealings occurred is the relevant one.What is meant by\"carries on business\"depends on the\n\nBut if convenience does not significantly favour the judicial centre chosen, then R.3.3 sets the appropriate judicial district. The parties can contract out of this Rule, before or after: R.3.3(3).And the court can waive it. The effect of R.3.3 is also mitigated by Rr.3.6(2) (movement of motions and trials);6.11\n\n(electronic hearings);8.18 (electronic trials);11.21 (electronic service), and 13.41 (fax filing). Poverty of one party is no ground to move a suit, especially if it is not proved:that is what conduct money is for. If a contract provides for arbitration in Calgary and under one of two Alberta statutes about\n\narbitration, then the Court of King's Bench has exclusive jurisdiction to deal with consolidating arbitrations and appointing arbitrators. *Claim for Possession of Land*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-19",
+          "3-20"
+        ],
+        "offset_in_clean_text": [
+          52488,
+          58139
+        ]
+      },
+      "operative_text_note": "same wording as official 3.3(1)-(3) (read by eye) except missing spaces, '*' line marks and the footnote marker '1' printed after subrule (3). No amending regulation on either side (the official text carries none for 3.3). No substantive difference.",
+      "commentary_review_flag": "Read in full, pp.3-19 to 3-20. (1) Title and footnotes: the Book A title 'Determining the Appropriate Judicial Centre' (p.3-19 line 406) and footnotes 2-6 of this commentary (lines 404-407) are printed BEFORE the rule text and so sit at the end of the built 3.2 commentary (see the 3.2 flag); footnote 1 (history: 'Quite similar to previous 1996 R.6.1, first enacted by Alta.Reg.243/96 ...', line 421) follows the text; p.3-19 has footnotes 1-6 and p.3-20 has footnotes 1-9 (1 Lim v. Young; 2 Ferguson v. Rubik; 3 Nat. Hldg. v. Blair; 4 Apache Can. v. Johnson supra; 5 'See n.4, supra' and 325303 Alta. v. Prime supra; 6 Tuckanow v. Bowden Penitentiary; 7 'See R.3.5' and Kristal v. Nicholl & Akers; 8 Abou-Morad; 9 Acciona). Their supra/infra references resolve: Blair, Apache and 325303 Alta. supra (p.3-20) go back to p.3-19 fn 5, 4 and 2. The paragraphs are out of order (a sentence resumes after a footnote block, e.g. 'Rule 3.2(1) requires commencement ... without waiting for the' / 'defendant to complain'). (2) p.3-20: 'Rule 3.3(3)(c) on suing in the \"wrong\" Judicial Centre by consent' - official 3.3(3) has no clauses; the summary of rule 3.3 quoted in Book B (Odland, para 7) cites only 3.3(1)(a), (1)(b), (2) and (3). (3) p.3-20: 'with costs under R.10.47' - official 10.47 is 'Liability of litigation representative for costs'; Book A's R.10.49 note (p.10-140, official 10.49 'Penalty for contravening rules') carries the same sentence ('Rule 3.3 requires commencement in the judicial centre specified, without waiting for the defendant to complain ... with costs under R.10.49'), so the number here looks wrong; not shown which was meant. (4) Related Provisions read against the official titles and text: '6.11 (electronic hearings)' (also in the commentary, p.3-20) - official 6.11 is 'Evidence at application hearings'; the electronic hearing rule is 6.10 ('Electronic hearing'; official 8.18 says 'On application under rule 6.10, the Court may permit an electronic hearing'); '13.41 (fax filing)' - official 13.41 is 'Authority of court clerk' and (2)(a) says 'if sent by electronic means, including by electronic mail'; the word 'fax' is not in 13.41; '3.4 (claimingland)' as printed lacks a space. In subject they agree with the official: 3.2, 3.4, 3.5 ('Transfer of action'), 3.6(2) (an application or originating application may be heard, or a trial held, in a place specified by the Court other than the judicial centre), 8.18 ('Trial conducted by electronic hearing'), 11.21, 14.8(5) (appeals from Calgary, Drumheller, Lethbridge, Medicine Hat and Red Deer are filed in Calgary, others in Edmonton), 14.84 ('Place of filing') and 15.13. (5) p.3-19: 'The defendants have a right to have it moved there if it was not started there' - official 3.5 says the Court 'may order' a transfer (a) if it would be unreasonable for the action to be carried on where it is, or (b) at the request of the parties; a defendant's right to have an action moved by request (Form 6) is in 3.4 and only for claims for possession of land. The same page says (p.3-20 fn 7) that the rule 'is not mandatory, and the judge has a discretion'. (6) File number of Pac. Inv. & Dev. v. Wood Buffalo (R.M.) 2017 ABQB 469: p.3-19 fn 1 prints 'JC FtMcM 1713 00116', footnote 2 on p.3-21 (3.5's history note: its marker '2' is printed after 3.5's text) prints 'JC FtMcM 1713 0016'; which is right is not shown. (7) Statements of law without a source in the repository (not checked): residence is fixed when the action starts; poverty is no ground to move a suit; exclusive King's Bench jurisdiction over consolidating arbitrations (last paragraph). The Defined Terms line (Court, judicial centre, party, rules) matches Appendix definitions of 'Court', 'judicial centre' and 'party'."
+    },
+    "BOOK_B": {
+      "title": "Determining the appropriate judicial centre",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.3:1",
+          "text": "Rule 3.3 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.3. 1. Old Cases Apply to R. 3.3(2) In 325303 Alberta Ltd. v. Prime Property Management, 2011 ABQB 817, 2011 CarswellAlta 2313, 531 A.R. 204, there was an application under R. 3.3(2) to transfer the action from Edmonton to the Judicial Centre to Grande Prairie. Justice Michalyshyn said, at paragraph 5: 5 Rule 3.3(2) repeats previous Rule 6.1(2)(d) virtually verbatim. And for the purpose of what I have to decide, the balance of changes from the previous rules to the whole of Rule 3.3 (and for that matter Rule 3.5 which is similar to previous Rule 12) are of no consequence. As such, on the face of it cases decided under previous Rules 6.1 and 237 are relevant to my consideration of Rule 3.3(2) in particular. In Apache Canada Ltd. v. Johnson, 2005 ABCA 71, 2005 CarswellAlta 190, 363 A.R. 100, Fruman J.A. discussed previous Rule 6.1(2). At pp. 102-103, her Ladyship said: Rule 6.1 changed the procedure for determining where an action is to be instituted. Essentially, the rule directs a plaintiff to commence its legal action in the closest judicial centre as determined under R. 6.1(2) … Notwithstanding the other rules, the parties may agree in writing to a particular judicial district. In addition, a chambers judge may select the judicial district that is most appropriate (R. 6.1(3)). See also R. 12. However, a judicial district selected by a plaintiff in accordance with R. 6.1(2) will not be set aside lightly. The defendant must show the balance of convenience clearly favours transferring the action to another judicial district. The parties agree that Apache carries on business in Calgary, where its regional office is located. The appellants contend Apache also carries on business in Provost, where Apache has a gas plant and a field office with 50 employees and where many interactions between the appellants and Apache relating to the lawsuit took place. The appellants say that Provost is closer than Calgary to the location at which the matters in question in the action—the wrongful conversion of gas—arose. They therefore submit R. 6.1(2)(a) and (d) apply and Wetaskiwin is the appropriate judicial district. The term “carries on business” is not defined in the Alberta Rules of Court. The term appears in many statutes and its meaning is coloured by the legislative context. It is therefore inappropriate to simply import a definition from another statute. Instead, it is necessary to look at the purpose of R. 6.1, which is to make a lawsuit more convenient and fair to all parties. See Lim et al. v. Young et al. (2004), 360 A.R. 277, 2004 ABQB 489. This is done by requiring a significant connection between the parties and the judicial district in which the action is commenced. In order to establish whether a significant connection exists in a particular case, it is necessary to examine the particular structure of the corporation's operations, the nature of and issues in the lawsuit, and the relationship between the parties in respect of those issues. Such examinations are fact specific. In this case, the chambers judge stated that a field operation was not what was intended by R. 6.1. In doing so, he did not consider the appropriate contextual factors, which was an error of law. In Odland v. Odland, 2017 ABCA 397, 2017 CarswellAlta 2490, 63 Alta. L.R. (6th) 55, 12 C.P.C. (8th) 24, the Court said: 1 Once a plaintiff commences an action in a particular judicial centre and the defendant wishes to transfer the action to another judicial centre on the basis that the plaintiff's choice was inappropriate, who bears the onus to establish that the plaintiff's choice of venue was reasonable? We conclude that the onus is on the defendant if the plaintiff's selection of judicial centre was in compliance with rule 3.3. However, if the plaintiff's selection of judicial centre did not comply with rule 3.3, the plaintiff has the onus of proving the choice was reasonable. … 7 The leading case under the now-repealed Rules on the appropriate judicial centre in which to commence an action is Apache Canada Ltd v Johnson, 2005 ABCA 71, 363 AR 100. The Apache Canada test must be modified to conform to rule 3.3, which governs. More specifically: i. A statement of claim must be filed in the judicial centre that is closest to the Alberta residences or places of business of all parties: r 3.3(1)(a). ii. If a single judicial centre cannot be so determined, the statement of claim must be filed in the judicial centre that is closest by road to the Alberta residence or place of business of one of the parties, as selected by the party starting the action: r 3.3(1)(b). iii. If there is more than one place of business in Alberta, the place of business for the purposes of this rule is the one nearest the location where the matters in the action arose or were transacted: r 3.3(2). iv. The parties may otherwise agree on a judicial centre to start and carry on the action: r 3.3(3). 8 The purpose of the repealed rule was to make a lawsuit “convenient and fair to all parties”: Apache Canada at para 7. That is also the purpose of rule 3.3. 9 The plaintiff submits that she has the discretion to select the judicial centre as long as her choice is not “arbitrary or capricious”, citing Wade Investment Ltd v Hat Travel Ltd (1979), 21 AR 454, 1979 CarswellAlta 433 (WL Can) (QB). 10 Apache and cases since rejected this approach: Apache Canada at paras 3-4; 325303 Alberta Ltd v Prime Property Management, 2011 ABQB 817 at paras 14-15, 531 AR 204. 11 Rule 3.3 requires that when there is no single closest judicial centre to the Alberta residences of all the parties, the plaintiff must select the closest judicial centre to the residence of one of them: r 3.3(1)(a) and (b), with emphasis. 12 The plaintiff's selection of Calgary is not a judicial centre contemplated by rule 3.3 because neither party resides in Calgary. 13 The court has the discretion to transfer the action if the plaintiff's selection of judicial centre was incorrect: r 3.5; 325303 Alberta Ltd at paras 21-22. Since both parties' Alberta residences are in the judicial centre of Edmonton, that is the proper judicial centre."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_3_001",
+        "part3_part_3_court_actions_008",
+        "part3_rule_3_3_002",
+        "part3_part_3_court_actions_010"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "255186557fc9d1ed7324810293ac8e2b1af265deddb1c998815f9be11a1c5568",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Determining the appropriate judicial centre",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "9e17e0796844e15ea3aeaa77fcfbd8e28715ff0c4222bc3712e4f398a5e7f5f7",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 3.3 provides guidance to determine which judicial centre is the most appropriate to start a legal action. It has nothing to do with determining the appropriate forum in the face of competing jurisdictions. Parties can agree on a judicial centre. If an agreement cannot be reached, a party may apply to court to have an action moved from one judicial centre to another. Also, the justices of the Court of King’s Bench have jurisdiction over the entirety of the province and can, on occasion, make orders in one judicial centre that affect an action filed in another.",
+          "citations": [],
+          "review_flag": "the sentences that the rule 'has nothing to do with determining the appropriate forum in the face of competing jurisdictions' and that the justices of the Court of King's Bench 'have jurisdiction over the entirety of the province' are not in the official 3.3 text and are not repeated in Books A or B (both read for 3.3); not checked against any source in the repository. Rule text, amendment note and (empty) information notes agree with the official 3.3 and Book A."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8282,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.3(1)-(3) (read by eye) except missing spaces, '*' line marks and the footnote marker '1' printed after subrule (3). No amending regulation on either side (the official text carries none for 3.3). No substantive difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.3",
+      "title_official": "Determining the appropriate judicial centre"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "5823703e9ff1d06d6580272d55d11f01b23d4d34a90d1f45d933bd7ef21ff959",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-19",
+            "3-20"
+          ],
+          "offset_in_clean_text": [
+            52488,
+            58139
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "255186557fc9d1ed7324810293ac8e2b1af265deddb1c998815f9be11a1c5568",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "9e17e0796844e15ea3aeaa77fcfbd8e28715ff0c4222bc3712e4f398a5e7f5f7",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "3f1d709d4ec98ea7b2518ed81a6fe49785d0cb177ece062c1a871e19a83f977e",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            50,
+            51
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "271097730a33c78605247619430f8f5325c5599660712121cdc465cd3cd21ed8"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 3.3', 'rules 3.3', lists such as 'and 3.3', line-wrapped forms and form headings '[Rule 3.3]'): 3.2(1) ('determined under rule 3.3'), 3.4(1) ('Despite rule 3.3, if possession of land is claimed ...') and 15.13 ('The coming into force of rules 3.3 and 3.4 does not operate to require an existing proceeding to be carried on in a different judicial centre ...'); no form heading names 3.3. By subject: 3.5 (transfer of action), 3.6 (where an action is carried on; 3.6(2) place of hearing or trial), 3.7 (post-judgment transfer), 14.8(5) and 14.84 (place of filing appeals) and the Appendix definition of 'judicial centre' (the office of the Court in Calgary, ...).",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the page markers): R.15.13 (p.15-9, text 'rules 3.3 and 3.4' and related provision '3.3 (venue)'; official 15.13 confirms the text); R.10.49 note (p.10-140, line 7485) 'Rule 3.3 requires commencement in the judicial centre specified, without waiting for the defendant to complain. The court can transfer the suit ... with costs under R.10.49' (the same sentence as in 3.3 p.3-20 with R.10.47; see the 3.3 flag); R.13.15 information note (p.13-72, line 3750) 'The appropriate judicial centre is determined under rule 3.3 [Determining the appropriate judicial centre] and rule 3.4 [Claim for possession of land]' (both titles match the official); R.13.12 checklist (see FLAG). Inside Part 3: 3.2(1) text (p.3-4); 3.4 text (p.3-20, 'Despite rule 3.3 [Determining the appropriate judicial centre]') and related provision '3.3 (determining the appropriate judicial centre)' (p.3-21, line 463); notes at p.3-22 (lines 475 and 489: 'Rule 3.3 creates a presumption that the location R.3.3 dictates is the suitable one'; 'Rule 3.3 does not allow a chambers judge to pick the place of trial on wide or ...') and p.3-23 (line 521: 'Rule 3.3 prevents abusive choice of a plainly unsuitable court-house') - the first two are in 3.5's note (under the running head R.3.5), the third in 3.6's note (it opens 'Different Rules and tests apply to three different questions'); corrected/settled in the 3.4 pass.",
+    "FLAG on BOOK_A R.13.12 (p.13-66, lines 3475-3477, checklist for a statement of claim): '2. Is the Judicial Centre selected by the statement of claim suitable? Should one move to change it? (Rr.3.3, 3.36)'. Official 3.36 is 'Judgment in default of defence and noting in default'; the transfer rules are 3.4 and 3.5. The sources do not say which number was meant. In the same checklist '1. Is the place of trial suggested in the Statement of Claim acceptable? (R.3.3)' is consistent with 3.3.",
+    "BOOK_B: one commentary section (§ 3.3:1) with one numbered part ('1. Old Cases Apply to R. 3.3(2)'), ending at Odland para 13. Its list of what rule 3.3 requires (Odland para 7, i-iv: r 3.3(1)(a), (1)(b), (2), (3)) and the quoted paragraphs match the official 3.3 subrules; the rule 3.5 it mentions ('similar to previous Rule 12') is 'Transfer of action' in the official text.",
+    "Cross-book links: 325303 Alberta Ltd. v. Prime Property Management, 2011 ABQB 817, 531 AR 204 (BOOK_B 3.3 commentary; BOOK_A p.3-19 fn 2 and p.3-20 fn 5 'supra'); Apache Canada Ltd. v. Johnson, 2005 ABCA 71, 363 AR 100 (BOOK_B; BOOK_A p.3-19 fn 4, p.3-20 fn 4 'supra'); Odland v. Odland, 2017 ABCA 397 (BOOK_B 3.3 and 3.5 commentary; BOOK_A p.3-19 fn 6 and p.3-22 fn 2; BOOK_C 3.5); Lim v. Young 2004 ABQB 489, 360 AR 277 (BOOK_B inside the Apache quotation; BOOK_A p.3-20 fn 1); Nat. Hldg. v. Blair, 2009 ABQB 351 (BOOK_A only: p.3-19 fn 5, p.3-20 fn 1 and 3). BOOK_A 'Calgary cannot be the proper judicial centre if both parties reside in Edmonton' matches Odland paras 12-13 in BOOK_B; BOOK_A 'the place in R.3.3 is presumed correct' matches Odland (onus on the defendant if the plaintiff complied with 3.3, on the plaintiff if not). BOOK_B rule text = official and BOOK_C rule text = official (both read by eye); the amendment note in BOOK_C ('Alta. Reg. 124/2010, r. 3.3 effective November 1, 2010') and the absence of one in BOOK_A and BOOK_B agree with the official text, which lists no amendment.",
+    "BOOK_B and BOOK_C other Parts (all Book B files and all Book C page files searched): BOOK_B rule 15.13 text and BOOK_C rule 15.13 (file 721-740) 'The coming into force of rules 3.3 and 3.4 does not operate to require an existing proceeding to be carried on in a different judicial centre ...'; BOOK_B 3.5 commentary (§ 3.5:1) quotes Odland v. Odland para 19 ('rule 3.3 operates much like a presumption'); BOOK_C's 3.5 entry cites Regular v. Regular 2016 ABQB 570 para 5 and Odland for the same point ('Rule 3.3 operates \"much like a presumption\"') [corrected in the 3.4 pass: an earlier version of this note put both under 3.4]; BOOK_C's 3.4 entry also has the running head 'R. 3.3 50' inside 3.4(1)(b) (to note in the 3.4 pass). BOOK_C 3.2 commentary says the originating application may be used only where 'the requirements of rule 3.3(2) are met' - flagged under 3.2 (the exceptions are in 3.2(2))."
+  ],
+  "dedupe_log": [
+    "3.3 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.3 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.3 BOOK_C commentary sentence split dropped",
+    "3.3 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.3 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

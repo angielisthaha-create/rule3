@@ -1,0 +1,222 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.20",
+  "title": {
+    "official": "Money received by litigation representative",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.20(1)  If as a result of an action a litigation representative\nreceives money, other than under a costs award, that money must\nbe paid into Court unless the Court otherwise orders or an\nenactment or instrument otherwise provides.\n(2)  A payment made to a litigation representative on account of\nmoney due to a party represented by the litigation representative,\nother than under a costs award, is not a valid discharge as against\nthat party unless otherwise provided by an instrument, order or\nenactment.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "4f7cbb8c94cb4199b4e6f9d1a88353c2ac92e1c1885b39af50d15f0e66e0df22"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          44
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Money Received by Litigation Representative",
+      "operative_text_raw": null,
+      "operative_text_sha256": "e143bfc3c69f8a3b7ae7bddd2e7a5ba6835fc1203de34bf8e71d94f8f5aa5a28",
+      "related_provisions": "9.22 (application that judgment satisfied) ;13.49 (payment into court).",
+      "commentary": null,
+      "footnotes": [
+        {
+          "page": "2-41",
+          "number": 4,
+          "text": "Quite similar to previous 1968 R.344. Very similar to 1968 R.343, 1914 R.581, and 1944 C. R.388. Cf. Ont. 1897 R.840."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          2021,
+          2050
+        ],
+        "book_pages": [
+          "2-41",
+          "2-42"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Money received by litigation representative",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_027",
+        "part2_rule_2_20_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_028"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "0832cc2b9143dac25f70d6d2562a45b1c4f76c1fb80c4b1555817506fefdf703",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Money received by litigation representative",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "d9e9816915854b760ca9802e62d4d432996fe1b2af17228e3bd75ac35fd1ff64",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "(2) cut off and ends with a stray statute citation from rule 2.11's commentary ('S.A. 2008, c. A-4.2, s. 1(hh)'). Not usable. Book C has nothing else for 2.20.",
+      "division_heading_flag": "wrong in Book C: rule 2.20 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8366,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.20",
+      "title_official": "Money received by litigation representative"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "e143bfc3c69f8a3b7ae7bddd2e7a5ba6835fc1203de34bf8e71d94f8f5aa5a28",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            2021,
+            2050
+          ],
+          "book_pages": [
+            "2-41",
+            "2-42"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "0832cc2b9143dac25f70d6d2562a45b1c4f76c1fb80c4b1555817506fefdf703",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "d9e9816915854b760ca9802e62d4d432996fe1b2af17228e3bd75ac35fd1ff64",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "4f7cbb8c94cb4199b4e6f9d1a88353c2ac92e1c1885b39af50d15f0e66e0df22",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            44
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c8d5b6631d0542596dd7d38b44b2033dfc82499e4c41b2dbf9e39f1cf6d63460"
+  },
+  "information_notes": [
+    {
+      "text": "Money paid into Court is subject to rules in Part 13 [Technical Rules] Division 7 [Payment into\nCourt and Payment out of Court].",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.9.17 notes (p.9-50): 'Note R.2.20, which addresses payments recovered by litigation representatives'; listed as a related provision under R.9.19 (p.9-62), R.9.22 (p.9-67) and R.13.48 (p.13-106).",
+    "Part 13 Division 7 (payment into and out of Court) and rule 13.49: BOOK_A information note and related provisions. (An earlier note said no other commentary cites 2.20 - CORRECTED in 6th pass, see the first item.)"
+  ],
+  "dedupe_log": [
+    "2.20 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.20 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.20 BOOK_C: rule text dropped (manual review)"
+  ]
+}

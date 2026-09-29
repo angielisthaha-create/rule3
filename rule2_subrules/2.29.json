@@ -1,0 +1,278 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.29",
+  "title": {
+    "official": "Withdrawal of lawyer of record",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Lawyer of Record"
+  },
+  "operative_text": {
+    "controlling": "2.29(1)  Subject to rule 2.31, a lawyer or firm of lawyers may\nwithdraw as lawyer of record by\n(a) serving on the client and each of the other parties a notice\nof withdrawal in Form 4 that states\n(i) the client’s last known address, and\n(ii) that on the expiry of 10 days after the date on which\nthe affidavit of service of the notice is filed, the\nwithdrawing lawyer will no longer be the lawyer of\nrecord,\nand\n(b) filing an affidavit of service of the notice.\n(2)  The withdrawal of the lawyer of record takes effect 10 days\nafter the affidavit of service of the notice is filed.\n(3)  The address of the party stated in the notice of withdrawal is\nthe party’s address for service after the lawyer of record withdraws\nunless another address for service is provided or the Court\notherwise orders.\n(4)  The Court may on application order that a lawyer need not\ndisclose the last known address of a client and instead may provide\nan alternative address for service for the client in a notice of\nwithdrawal served under this rule where the Court considers it\nnecessary to protect the safety and well-being of the client.\n(5)  An application under subrule (4) may be made without notice.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "641076faa8625c619dac5bc3b34fdf6784456d47bc0e4fe4156db77ba024e010"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          47
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Withdrawal of Lawyer of Record",
+      "operative_text_raw": null,
+      "operative_text_sha256": "107f3a7af5de85e31b7e4bb2b59f2b15c6a51db0b7bdeb1ed3a2273e578c7a8e",
+      "related_provisions": "2.31 (withdrawal after trial scheduled) ; 2.32 (lawyer ceasing to practice) ; 9.2 (duty to prepare orders); 11.17 (service on lawyer of record) ; 11.18 (service on self-represented person).",
+      "commentary": "This commentary is mostly about the law. For some advice and practical tips, see Côté,\nSystematic Advocacy, Chapter 2, Part Q (Juriliber 2017).\nCounsel can withdraw and bill for work to date, if his legal advice is rejected by his client.¹\nIf counsel’s withdrawal or dismissal causes a mistrial, that client should pay his opponent’s\ncosts of the abortive trial, though usually he should not lose his suit if he does not pay them\npromptly.²\nThat a solicitor later withdrew does not affect the validity of earlier service upon him instead of\npersonal service upon his client.³\nSome provinces require leave of the court before a lawyer can withdraw. Alberta wisely does\nnot require that in civil cases. A lawyer cannot withdraw when that would mean serious harm to\nthe client, but that is normally conﬁned to times shortly before a scheduled trial or appeal.⁴\nIn a\ncriminal case, a lawyer does need leave to get off the record.⁵\nFew lawyers follow all the necessary steps to take themselves off the record. The lawyer\nremains solicitor of record until the 11th day after the last of those steps is complete,⁶\nwhich\nproduces many artiﬁcial legal results and much uncertainty. The necessary steps are that\n(a) the notice contain the right wording, especially the notice under R.2.29(1) (c) and the last\nknown address of the client, and\n(b) it be properly served on all the necessary persons, and\n(c) afﬁdavits of such service be ﬁled.⁷\nThere was some discrepancy between the body and backer of a notice of ceasing to act. It\nwas interpreted as meaning that it did not take effect until 10 days after ﬁling evidence proving\nservice on the former client, so service on him at the new address was ineffective (as he claimed\nnot to have got it).⁸\nA lawyer who is unable to locate his client may not be able to cease to act, because he cannot\ngive the client notice.⁹\n\nOn the lawyer’s duty to approve the form of an order after ceasing to act, see R.9.2n.",
+      "footnotes": [
+        {
+          "page": "2-63",
+          "number": 4,
+          "text": "Quite similar to previous 1968 R.555. It came from 1944 C. R.646, much of which came from Sask. R.16 (pt. ), and Ont.1928 R.389, 1883 Eng. O.7 r.3, and Judic. Ord. s.11, and 1914 Rr.463, and 563a."
+        },
+        {
+          "page": "2-64",
+          "number": 1,
+          "text": "Ashton & Co. v. Pullishy (CA 1 Dec) [1997] AUD 277."
+        },
+        {
+          "page": "2-64",
+          "number": 2,
+          "text": "Hrycoy Est. v. Hrycoy Est. (CA 1999) 244 AR 338."
+        },
+        {
+          "page": "2-64",
+          "number": 3,
+          "text": "N. -S. Trade & Inv. v. Aquanorth Farms 2002 ABQB 553, 321 AR 140, revg (M) 2002 ABQB 74. See R. 11.17."
+        },
+        {
+          "page": "2-64",
+          "number": 4,
+          "text": "See further the C. P. E. , Chapter 4, Part J.4."
+        },
+        {
+          "page": "2-64",
+          "number": 5,
+          "text": "R. v. Kong 2003 ABQB 192, 12 Alta LR(4th) 187. The court’s power to force the lawyer to remain and act is sparingly used, and a statement that the problem is either ethics or non-payment, is not gone behind: R. (Lilles) v. Cunningham 2010 SCC 10, [2010] 1 SCR 331. It was not done where a long jury trial was 2 months away and the only problem was nonpayment of fees: Kong and Cunningham cases. There is a discussion of whether it is sufﬁcient ground to get such leave that the lawyer has lost contact with the client in Re A. L.2003 ABQB 905, 345 AR 201. See further R.2.24n. A."
+        },
+        {
+          "page": "2-64",
+          "number": 6,
+          "text": "Josza v. Josza 2010 ABCA 282, [2010] AR Uned 409, 2010 CarswellAlta 1940 (Sep 30)."
+        },
+        {
+          "page": "2-64",
+          "number": 7,
+          "text": "See the C. P. E. , Chapter 4, Part J.2."
+        },
+        {
+          "page": "2-64",
+          "number": 8,
+          "text": "Olsen v. Groome 2004 ABQB 923, 365 AR 188."
+        },
+        {
+          "page": "2-64",
+          "number": 9,
+          "text": "Neddow v. Weidemann 2008 ABQB 378, 92 Alta LR(4th) 331."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          3191,
+          3276
+        ],
+        "book_pages": [
+          "2-63",
+          "2-64",
+          "2-65"
+        ]
+      },
+      "operative_text_note": "same wording as official plus the bracketed label for rule 2.31.",
+      "commentary_review_flag": "probable wrong subrule reference: 'especially the notice under R.2.29(1) (c) and the last known address of the client'. Official 2.29(1) has only clauses (a) and (b); the notice's contents are in 2.29(1)(a)(i) (last known address) and (ii) (10-day statement). Left as printed. Checked: the last sentence ('On the lawyer's duty ... see R.9.2n.') is printed at the top of p.2-65 before the 2.30 heading and belongs to 2.29; footnotes p.2-63 fn 4 and p.2-64 fns 1-9 consecutive; 'Kong and Cunningham cases' (fn 5) resolve within the same footnote. Case-name variant: fn 5 'R. (Lilles) v. Cunningham' and 2.24 p.2-50 fn 3 'Cunningham v. Lilles (R. v. Cunningham)' are the same 2010 SCC 10. 4th pass: the statement 'Some provinces require leave of the court before a lawyer can withdraw. Alberta wisely does not require that in civil cases' must be read with official rule 2.31 - after a trial date is scheduled, a notice of withdrawal needs the Court's permission or has no effect. Book A's next sentence (serious harm, 'shortly before a scheduled trial') points that way but does not cite 2.31."
+    },
+    "BOOK_B": {
+      "title": "Withdrawal of lawyer of record",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.29:1",
+          "text": "Rule 2.29 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.29. How Not to Withdraw as Counsel In Baron Real Estate Investments Ltd. v. Edmonton (Subdivision and Development Appeal Board), 2018 ABCA 67, 2018 CarswellAlta 301, a lawyer purported to withdraw as counsel of record by delivering a letter to the Court of Appeal on the day of a scheduled hearing before the Court. Justice Wakeling pointed out the error in that procedure. 22 Counsel for Baron Real Estate did not appear on Wednesday. Instead, counsel informed the Court in a letter received by the Registry at 9:39 am that he withdrew as lawyer of record. 23 A lawyer does not withdraw as lawyer of record by delivering a letter to the court. Rule 2.29(1) of the Alberta Rules of Court23 provides an unambiguous protocol. The lawyer who wishes to withdraw must file a notice of withdrawal and serve it on the parties and file an affidavit of service. Rule 2.29(2) provides that “[t]he withdrawal of the lawyer of record takes effect 10 days after the affidavit of service of the notice is filed”. 24 As a result, Baron Real Estate's lawyer of record was not in attendance when his client's application was called. Given that Baron Real Estate is a corporation, neither its officers nor shareholders were entitled to speak on its behalf …."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_053",
+        "part2_rule_2_29_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_054",
+        "part2_alberta_rules_of_court_rule_2_part_2_055",
+        "part2_rule_2_29_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_056"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "d33e377fda7e3eaa0816acf1b7887e6063263bda47fd6fb4c65dbd21ae2514c1",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Withdrawal of lawyer of record",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "71ca442d3564f287f170ad3432d759c81aed1f3113151bc7af1a197c777f673f",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "'Form 4' and '10' replaced by case citations; (5) missing. Not usable; official text controls.",
+      "citations_note": "Regular v. Regular 2016 ABQB 570, Patrus v. Alberta (WCB) and Behiels v. Tibu are place-of-trial / venue cases displaced from Book C's Part 3 commentary. Evidence (5th pass): they stand where '4' of 'Form 4' and '10' should be; Regular and Behiels recur in C's rule 3.4 entry and Patrus in 3.9, and C's own text calls Regular a change-of-venue case. Nothing in the sources ties them to 2.29 (earlier wording 'not about 2.29' replaced)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official plus the bracketed label for rule 2.31."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7145,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.29",
+      "title_official": "Withdrawal of lawyer of record"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "107f3a7af5de85e31b7e4bb2b59f2b15c6a51db0b7bdeb1ed3a2273e578c7a8e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            3191,
+            3276
+          ],
+          "book_pages": [
+            "2-63",
+            "2-64",
+            "2-65"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "d33e377fda7e3eaa0816acf1b7887e6063263bda47fd6fb4c65dbd21ae2514c1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "71ca442d3564f287f170ad3432d759c81aed1f3113151bc7af1a197c777f673f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "641076faa8625c619dac5bc3b34fdf6784456d47bc0e4fe4156db77ba024e010",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            47
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e8aec9873e1873f881eedb309699d70e06e952beb47a16e9e03323a6b28f0b60"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.12.6 information note (p.12-6) cites 2.29(4) (address need not be disclosed); listed as a related provision under R.11.16 (p.11-21) and R.11.17 (p.11-22). BOOK_A 2.29's pointer 'R.9.2n' checked: R.9.2 notes say a lawyer who appears and later ceases to act keeps a continuing obligation (matches).",
+    "Rule 2.31: official 2.29(1) is 'Subject to rule 2.31'; BOOK_A 2.31 related provisions list 2.29.",
+    "Rule 2.32(4) (official) and BOOK_A 2.32 related provisions; rule 2.26: BOOK_A related provisions.",
+    "Rule 2.24: BOOK_A 2.29 fn 5 'See further R.2.24n. A'; rule 9.2: BOOK_A 2.29 commentary 'see R.9.2n.'",
+    "Rule 2.30 (service after the lawyer ceases to be lawyer of record) and BOOK_A 2.29 fn 3 (earlier service on the lawyer stays valid; see R.11.17).",
+    "Official Form 4 is headed '[Rule 2.29]' (notice of withdrawal). BOOK_C's displaced citations re-verified in the 4th pass: Regular and Behiels recur in BOOK_C's rule 3.4 entry, Patrus in 3.9; BOOK_C's own text calls Regular a change-of-venue case."
+  ],
+  "dedupe_log": [
+    "2.29 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.29 BOOK_C citation context dropped (2016 ABQB 570): verbatim in kept text",
+    "2.29 BOOK_C: rule text dropped (manual review)",
+    "2.29 BOOK_C: displaced citations dropped ['2016 ABQB 570'] (manual review)",
+    "2.29 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,1494 @@
+{
+  "metadata": {
+    "blueprint_version": "1.1.0",
+    "schema_version": "HWGS_1.0",
+    "generated_at": "2024-07-27T11:00:00+00:00",
+    "source_manifest": "rule9_part02_document.json",
+    "document_title": "Alberta Rules of Court – Rule 9 (Part 2)",
+    "rule_coverage": "Rules 9.14, 9.15",
+    "node_count": 24,
+    "relationship_count": 24
+  },
+  "nodes": [
+    {
+      "node_id": "cm-r9-14-further-order-power",
+      "node_type": "ControlMechanism",
+      "label": "Power to Make Further Order Post-Judgment",
+      "description": "Grants the Court authority to issue a further order after entry of judgment, provided it does not vary that judgment and is needed to supply a remedy already entitled.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_2_001_s001",
+        "part9_alberta_rules_of_court_rule_9_part_2_001_s002",
+        "part9_alberta_rules_of_court_rule_9_part_2_001_s003"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_alberta_rules_of_court_rule_9_part_2_001_s001",
+            "text": "On application, the Court may, after a judgment or order has been entered, make any further or other order that is required, if",
+            "paragraph_id": "part9_alberta_rules_of_court_rule_9_part_2_001",
+            "section_heading": "Rule 9.14 – Alberta Rules of Court – Rule 9 (Part 2)",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.14"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Rule 9.14 offers a post-judgment ‘finishing tool’: winners can secure ancillary directions on enforcement, interest calculation, or performance mechanics without appealing or re-litigating.  Opponents can resist by characterising the requested order as an impermissible variation of the judgment.",
+        "litigation_implications": [
+          "Offensive: Apply to clarify ambiguous enforcement mechanics embedded in a complex judgment.",
+          "Offensive: Seek an ancillary order calculating interest or timelines for performance.",
+          "Defensive: Argue the requested relief impermissibly varies the judgment’s substance.",
+          "Defensive: Contend the party is not ‘entitled’ to the new remedy on the existing judgment.",
+          "Strategic: A quick, low-cost alternative to appeal when only consequential relief is needed."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Application must show entitlement and assure the order will not vary substantive findings.",
+          "risk_assessment": "Low if purely ancillary; high if disguised re-argument triggers adverse costs.",
+          "audit_trigger": "Applications brought more than 60 days post-judgment."
+        },
+        "automation_hooks": {
+          "post_judgment_remedy_check": "Analyzes a judgment for enforcement gaps addressable by Rule 9.14."
+        },
+        "case_law_anchors": [
+          "G. (D.) v. Canada (Correctional Service), 2015 ABQB 539",
+          "Doucet-Boudreau v AG NS, 2003 SCC 62"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-15-challenge-affidavit-via-crossexamination",
+      "node_type": "ControlMechanism",
+      "label": "Challenge Affidavit Evidence via Cross-Examination",
+      "description": "On a set-aside motion, an applicant’s affidavit stands unless the respondent cross-examines; filing a contradictory affidavit alone is insufficient.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s225",
+        "part9_part_9_judgments_and_orders_008_s226"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s225",
+            "text": "But that is not the way to counter an applicant's affidavit.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s226",
+            "text": "In the absence of cross-examination of the defendant that would tend to show that he is either mistaken or worse, I must accept the contents of it at face value.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §5"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "This procedural rule weaponises the cost and risk of cross-examination: applicants can rely on uncontested affidavits, while respondents must commit resources to probing credibility. It discourages ‘battle-of-affidavits’ tactics and ensures live questioning for material factual disputes.",
+        "litigation_implications": [
+          "Offensive: Point out that respondent filed no notice for cross-examination; your evidence is unchallenged.",
+          "Defensive: Serve appointment and cross-examine to undermine credibility, not merely file counter-affidavits.",
+          "Strategic: Threat of costly cross-examination can deter weak factual challenges.",
+          "Defensive: Failure to cross-examine may be fatal if facts are central to court’s discretion."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Parties disputing affidavit facts must undertake cross-examination.",
+          "risk_assessment": "High for respondents who omit cross-examination; court adopts applicant’s narrative.",
+          "audit_trigger": "Contradictory affidavits filed with no cross-examination."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Ash Temple Ltd. v. Tkachyk (1999), 258 A.R. 355 (Master)"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-15-set-aside-power",
+      "node_type": "ControlMechanism",
+      "label": "Power to Set Aside, Vary, or Discharge Judgments/Orders",
+      "description": "Rule 9.15 grants broad discretion to set aside, vary, or discharge final or interlocutory judgments and orders in specified situations such as no notice, non-appearance, or default.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s001",
+        "part9_part_9_judgments_and_orders_004_s007",
+        "part9_part_9_judgments_and_orders_004_s011"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_004_s001",
+            "text": "(1) On application, the Court may set aside, vary or discharge a judgment or an order, whether final or interlocutory, that was made",
+            "paragraph_id": "part9_part_9_judgments_and_orders_004",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.15(1)",
+          "Rule 9.15(3)",
+          "Rule 9.15(4)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Rule 9.15 is litigation’s emergency ‘undo’ switch—critical for defendants blindsided by default judgments, parties affected by ex parte orders, or litigants needing to adjust interlocutory rulings as facts evolve.  Success turns on satisfying distinct sub-rule tests and timeliness.",
+        "litigation_implications": [
+          "Offensive: Apply to nullify a default judgment entered without defence.",
+          "Offensive: Vary an interlocutory order when new evidence surfaces.",
+          "Defensive: Argue applicant failed required criteria or delayed unreasonably.",
+          "Strategic: Threat of meritorious 9.15 motion can spur settlement.",
+          "Defensive: Highlight prejudice and need for finality to resist relief."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Application must cite correct sub-rule and be affidavit-supported on each test element.",
+          "risk_assessment": "Moderate; outcomes are fact-driven and discretionary.",
+          "audit_trigger": "Any motion to set aside a final judgment."
+        },
+        "automation_hooks": {
+          "set_aside_eligibility_screener": "Guides users through rule-based eligibility checklist."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-15-vary-interlocutory-order",
+      "node_type": "ControlMechanism",
+      "label": "Power to Vary Interlocutory Orders",
+      "description": "Allows the Court to set aside or vary interlocutory orders when new facts arise, all parties consent, or justice otherwise requires.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s011"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_004_s011",
+            "text": "(4) The Court may set aside, vary or discharge an interlocutory order (a) because information arose or was discovered after the order was made, (b) with the agreement of every party, or (c) on other grounds that the Court considers just.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_004",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.15(4)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Recognises litigation fluidity: interlocutory rulings made on incomplete records shouldn’t ossify proceedings. Parties can seek course corrections when circumstances change, ensuring procedural fairness and efficient case management.",
+        "litigation_implications": [
+          "Offensive: Move to vary if late-breaking evidence undermines an earlier procedural ruling.",
+          "Offensive: Rely on clause (c) to craft fairness-based adjustments to litigation plans.",
+          "Defensive: Argue ‘new’ information is immaterial or could have been discovered earlier.",
+          "Strategic: Use to renegotiate procedural timelines when realities shift."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Motion must identify grounds in R 9.15(4) and supply supporting affidavit.",
+          "risk_assessment": "Moderate; success hinges on materiality of new facts.",
+          "audit_trigger": "All interlocutory variation motions."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Custom Metal Installations Ltd. v. Winspia Windows (Canada) Inc, 2020 ABCA 333"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-accident-or-mistake-standard",
+      "node_type": "FoundationalPillar",
+      "label": "'Accident or Mistake' Standard for Non-Appearance",
+      "description": "Under R 9.15(1)(b) a party must show non-attendance was inadvertent—an accident or mistake satisfying a ‘but for’ test—not a choice or mere negligence.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s003",
+        "part9_part_9_judgments_and_orders_006_s189",
+        "part9_part_9_judgments_and_orders_006_s190",
+        "part9_part_9_judgments_and_orders_006_s249"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s190",
+            "text": "Whether called an “accident” or a “mistake”, the reason must satisfy a “but for” test: “but for (or except for) [insert reason], I would have attended.” As the Rule states, the focus is non-attendance appear “because of accident or mistake.” [11] In this context, the reason must be something other than failure to receive notice or insufficient notice.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.15(1)(b)",
+          "Commentary § 9.15:1 §7"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Defines the evidentiary burden for non-appearance cases, separating excusable inadvertence (calendar error, health emergency) from intentional or negligent absences.  Correct framing of facts is pivotal to unlock relief under R 9.15(1)(b).",
+        "litigation_implications": [
+          "Offensive: Craft affidavit satisfying ‘but-for’ causation: clerical error prevented attendance.",
+          "Defensive: Portray absence as choice or lack of diligence, not accident.",
+          "Offensive: Distinguish from no-notice situations; accident relates to attendance after notice.",
+          "Defensive: Cross-examine to expose awareness yet intentional absence."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Applicant affidavit must align with accepted ‘accident/mistake’ jurisprudence.",
+          "risk_assessment": "High; mis-characterised excuse likely fails.",
+          "audit_trigger": "Applications citing vague ‘miscommunication’ reasons."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Hammond v. Hammond, 2019 ABQB 522",
+          "Alliance Concrete Ltd v Robertson, 2014 ABQB 401"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-affected-person-definition",
+      "node_type": "FoundationalPillar",
+      "label": "Definition of 'Affected Person'",
+      "description": "‘Affected person’ in Rule 9.15 means someone legally—not merely reputationally—impacted by the judgment or order.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s098",
+        "part9_part_9_judgments_and_orders_006_s099"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s098",
+            "text": "Properly read, the term “affected persons” in Rule 9.15 means someone who is legally affected by a judgment or Order of the Court.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §2"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Tight standing requirement prevents collateral attacks by non-parties merely displeased with court remarks, preserving finality and judicial resources.",
+        "litigation_implications": [
+          "Defensive: Move to strike motions by parties lacking direct legal impact.",
+          "Offensive: Demonstrate concrete legal consequence (e.g., property interest) to establish standing.",
+          "Strategic: Shields judgments from reputational or moral challengers."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Applicants must plead specific legal effects.",
+          "risk_assessment": "High dismissal risk for non-parties.",
+          "audit_trigger": "R 9.15 motions by entities not on the original style of cause."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Gunda v. Allied Shortridge Civil Enforcement Agency, 2022 ABKB 638"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-arguable-defence-requirement",
+      "node_type": "FoundationalPillar",
+      "label": "Requirement to Show an Arguable Defence",
+      "description": "Applicants to set aside default judgment must present facts which, if proven, disclose a triable or meritorious defence.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s032",
+        "part9_part_9_judgments_and_orders_006_s034",
+        "part9_part_9_judgments_and_orders_006_s124",
+        "part9_part_9_judgments_and_orders_006_s126"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s124",
+            "text": "9.15(3)(a) states, the Court can open up a noting in default “on any terms the Court considers just”. … [14] The most important of the criteria for opening up a noting in default is the presence or absence of an arguable defence.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Prevents defendants from reopening cases solely to delay; litigants must demonstrate a live controversy. Courts often weigh this factor most heavily among the three-part test.",
+        "litigation_implications": [
+          "Offensive: Provide detailed facts and supporting documents establishing a plausible defence.",
+          "Defensive: Attack vague or bald assertions as lacking triable issue.",
+          "Defensive: Argue alleged facts, even if true, fail to constitute a legal defence.",
+          "Strategic: Strong defence can mitigate weaker explanations for default."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Affidavit must state defence particulars, not conclusions.",
+          "risk_assessment": "Critical; absence is usually fatal.",
+          "audit_trigger": "Affidavit with only general denials."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Fort McKay Métis Community Association v. Morin, 2020 ABCA 311"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-fairness-test-noting-in-default",
+      "node_type": "FoundationalPillar",
+      "label": "Overarching 'Fairness' Test for Noting in Default",
+      "description": "When setting aside a noting in default, court applies a broad fairness assessment; three-part test offers guidance but is not decisive.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s112",
+        "part9_part_9_judgments_and_orders_006_s139",
+        "part9_part_9_judgments_and_orders_006_s146",
+        "part9_part_9_judgments_and_orders_006_s162"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s112",
+            "text": "The test for setting aside a noting in default is fairness In Fort McKay Métis Community Association v.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s146",
+            "text": "The true essence of the question is what is fair in the circumstances.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §5"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Recognises a noting in default is only an administrative act; fairness favours resolving disputes on merits unless prejudice or abuse outweighs.",
+        "litigation_implications": [
+          "Offensive: Emphasise minimal prejudice and importance of a merits-based resolution.",
+          "Defensive: Characterise delay or conduct as unfair to diligent plaintiff.",
+          "Strategic: Useful when one prong of formal test is weak but equities favour relief."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Motion materials must articulate equitable factors supporting fairness.",
+          "risk_assessment": "Outcome highly discretionary.",
+          "audit_trigger": "Applications resting solely on fairness with substantial delay."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Fort McKay Métis Community Association v. Morin, 2020 ABCA 311"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-no-deliberate-default-requirement",
+      "node_type": "FoundationalPillar",
+      "label": "Requirement of No Deliberate Default",
+      "description": "Applicants must prove they did not intentionally allow judgment to pass; a deliberate default bars relief.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s030",
+        "part9_part_9_judgments_and_orders_006_s038",
+        "part9_part_9_judgments_and_orders_006_s068"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s038",
+            "text": "(as he then was) observed that “usually if a defendant deliberately allows a default judgment to go against him, knowing the effect of failing to defend, he will not be allowed to set aside the default judgment.”[Edwards v.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §7"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Protects finality and deters strategic inaction; courts refuse to reward litigants who knowingly ignore proceedings.",
+        "litigation_implications": [
+          "Offensive: Provide credible excuse—illness, solicitor error—to negate wilfulness.",
+          "Defensive: Prove knowledge of claim and conscious choice to default.",
+          "Strategic: Emails or acknowledgements can be decisive evidence of deliberateness."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Affidavit must detail circumstances showing absence of intent.",
+          "risk_assessment": "Deliberate default finding is fatal.",
+          "audit_trigger": "Evidence applicant told plaintiff they would not defend."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Edwards v. Ferris, 2001 ABQB 1125"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-procedural-flaw-as-of-right",
+      "node_type": "FoundationalPillar",
+      "label": "Right to Set Aside Irregular Default Judgment",
+      "description": "A non-trivial procedural flaw entitles prompt applicant to set aside judgment ‘as of right’, bypassing merits test.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s102",
+        "part9_part_9_judgments_and_orders_006_s103",
+        "part9_part_9_judgments_and_orders_006_s178"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s103",
+            "text": "Where there is a procedural flaw, a defendant, proceeding promptly, is entitled to open up the judgment as of right.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §3 & §6"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Shifts battleground from merits to procedural integrity; even strong claims collapse if basic service rules violated.",
+        "litigation_implications": [
+          "Offensive: Scrutinise record for service or notice defects; move promptly.",
+          "Defensive: Argue flaw is trivial or delay waives right.",
+          "Strategic: Deterrence—plaintiffs must perfect procedure before default."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Applicant must prove material procedural defect.",
+          "risk_assessment": "High reward; judgment collapses regardless of defence strength.",
+          "audit_trigger": "Affidavits of service with apparent deficiencies."
+        },
+        "automation_hooks": {
+          "procedural_flaw_scanner": "Audits default packages for common errors."
+        },
+        "case_law_anchors": [
+          "Yehya v. Thomas, 2019 ABCA 164"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-promptness-requirement",
+      "node_type": "FoundationalPillar",
+      "label": "Requirement to Promptly Apply to Set Aside",
+      "description": "Applicants must act quickly after learning of default; unexplained delay weighs heavily against relief.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s031",
+        "part9_part_9_judgments_and_orders_006_s040",
+        "part9_part_9_judgments_and_orders_006_s089"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s031",
+            "text": "(c) after learning of the default judgment, they moved promptly to open it up.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Prevents prejudice and gamesmanship; diligence signals bona fide intent while delay undermines credibility.",
+        "litigation_implications": [
+          "Offensive: Document timeline from discovery to filing motion.",
+          "Defensive: Emphasise applicant’s inaction causing prejudice.",
+          "Strategic: Delays over a month without cogent reason are perilous."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Application should be filed expeditiously.",
+          "risk_assessment": "High; delay alone can defeat motion.",
+          "audit_trigger": "Applications filed >30 days post-knowledge."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Don Reid Upholstery Ltd. v. Patrie, 1995 ABQB"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-15-three-part-test-regular-default",
+      "node_type": "FoundationalPillar",
+      "label": "Three-Part Test to Set Aside Regular Default Judgment",
+      "description": "Applicant must prove: (1) arguable defence; (2) no deliberate default with valid excuse; (3) prompt application after learning.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s029",
+        "part9_part_9_judgments_and_orders_006_s030",
+        "part9_part_9_judgments_and_orders_006_s031",
+        "part9_part_9_judgments_and_orders_006_s104"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s104",
+            "text": "In the absence of a procedural flaw, a defendant must demonstrate that there is an arguable defence, he did not deliberately let judgment go by default and has a valid excuse for the default, and he promptly attempted to open up the default judgment: Anstar Enterprises Ltd v Transamerica Life Canada, 2009 ABCA 196 (CanLII) at para13, 457 AR 68.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Core doctrinal test balancing defendant’s right to a trial on merits against plaintiff’s entitlement to finality.  Each prong can block relief; all must align unless procedural flaw found.",
+        "litigation_implications": [
+          "Offensive: Address each prong specifically in affidavit.",
+          "Defensive: Identify weakest prong and attack relentlessly.",
+          "Strategic: Robust defence evidence can offset marginal delay.",
+          "Defensive: Highlight prejudice and costs caused by reopening."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Supporting evidence for every prong is mandatory.",
+          "risk_assessment": "Failure on any factor often decisive.",
+          "audit_trigger": "Motions omitting defence particulars or timeline."
+        },
+        "automation_hooks": {
+          "affidavit_template_generator": "Builds affidavit with dedicated sections for each prong."
+        },
+        "case_law_anchors": [
+          "Anstar Enterprises Ltd v Transamerica Life Canada, 2009 ABCA 196"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-15-20-day-application-limit",
+      "node_type": "ProceduralTrap",
+      "label": "20-Day Limit for Setting Aside Orders (R 9.15(1))",
+      "description": "Applications to set aside orders made without notice or for non-appearance must be filed within 20 days of service or awareness, unless court extends time.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s004",
+        "part9_part_9_judgments_and_orders_004_s005",
+        "part9_part_9_judgments_and_orders_004_s006"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_004_s004",
+            "text": "(2) Unless the Court otherwise orders, the application must be made within 20 days after the earlier of",
+            "paragraph_id": "part9_part_9_judgments_and_orders_004",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.15(2)"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Creates urgency and a tactical trap: prompt service starts clock; opponent’s inaction cements ex parte advantage.",
+        "litigation_implications": [
+          "Offensive: Serve order immediately to trigger deadline.",
+          "Defensive: Track and diarise 20-day window upon learning.",
+          "Defensive: Seek extension with compelling explanation if missed."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Strict filing within 20 days absent court order.",
+          "risk_assessment": "Missing deadline often fatal.",
+          "audit_trigger": "Applications filed outside 20-day period."
+        },
+        "automation_hooks": {
+          "deadline_calculator_r9_15_2": "Calendars 20-day expiry."
+        },
+        "case_law_anchors": [
+          "Palin v. Duxbury, 2010 ABQB 833"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-15-deliberate-default-bar",
+      "node_type": "ProceduralTrap",
+      "label": "Bar to Setting Aside Deliberate Default",
+      "description": "Defendant who knowingly chose not to defend cannot later set aside default; deliberate default is an almost absolute bar.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s076",
+        "part9_part_9_judgments_and_orders_008_s326"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s326",
+            "text": "43 The general legal principle, which “has been authoritatively laid down in a number of decisions, [is] that a defendant cannot succeed if he has deliberately lain by and allowed judgment to go by default”: Atlantic at para 19.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §2 & §7"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Ensures integrity of process and finality; deters defendants from tactical inaction followed by attempted reset.",
+        "litigation_implications": [
+          "Defensive: Prove deliberate default to defeat motion outright.",
+          "Offensive: Provide evidence showing default was accidental or solicitor-caused."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Evidence of intentional neglect bars relief.",
+          "risk_assessment": "Critical; finding ends application.",
+          "audit_trigger": "Emails acknowledging claim yet declining to defend."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Yehya v. Las Palmas Estate Homes Ltd., 2018 ABQB 374"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-15-financial-difficulty-not-excuse",
+      "node_type": "ProceduralTrap",
+      "label": "Trap: Financial Difficulty is Not an Excuse for Default",
+      "description": "Canadian case law rejects financial or business hardship as a valid excuse for failing to defend; relying on it invites dismissal.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s108"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s108",
+            "text": "Las Palmas Estate Homes Ltd., 2018 ABQB 374, 2018 CarswellAlta 865, Justice Manderscheid said: 44 Further, contemporary Canadian jurisprudence confirms that neither the impending bankruptcy of the Applicants, at the point the Statement of Claim was served on them, nor their financial troubles constitute a sound basis or excuse for not filing a defence: see, Landmass Dirtworx at para 57, where Graesser, J categorically concluded that “business difficulties do not create a defence, nor do they warrant opening up a default judgment.”",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §3"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Blocks a common but weak justification; upholds principle that economic distress doesn’t excuse ignoring legal obligations.",
+        "litigation_implications": [
+          "Defensive: Cite case law to invalidate hardship excuse.",
+          "Offensive: Avoid relying on financial difficulty; pair with valid mistake or solicitor error."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Counsel must warn clients hardship excuse is ineffective.",
+          "risk_assessment": "High dismissal risk when sole excuse.",
+          "audit_trigger": "Affidavits citing business troubles as primary reason."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Yehya v. Las Palmas Estate Homes Ltd., 2018 ABQB 374"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-14-attack-supplemental-reasons",
+      "node_type": "WarfareFramework",
+      "label": "Attack on Supplemental or Delayed Written Reasons",
+      "description": "Strategy to challenge written reasons issued long after oral decision when they materially diverge, asserting appellate review on oral rationale only.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_002_s015",
+        "part9_part_9_judgments_and_orders_002_s016",
+        "part9_part_9_judgments_and_orders_002_s027",
+        "part9_part_9_judgments_and_orders_002_s033",
+        "part9_part_9_judgments_and_orders_002_s035",
+        "part9_part_9_judgments_and_orders_002_s051"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_002_s016",
+            "text": "The reversal of any line of analysis in the oral reasons, or the addition of whole new lines of analysis, are highly undesirable.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_002",
+            "section_heading": "Rule 9.14 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.14:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Undermines result-driven post-hoc reasoning.  By discrediting supplemental analysis, appellant restricts review to original oral reasons, often weaker and more reversible.",
+        "litigation_implications": [
+          "Offensive: Argue supplemental reasons vary judgment contrary to finality.",
+          "Defensive: Characterise written reasons as clarifications, not new analysis."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Factum must isolate discrepancies between oral and written reasons.",
+          "risk_assessment": "High potential appeal success when divergence stark.",
+          "audit_trigger": "Written reasons issued >30 days post-pronouncement."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "R. v Teskey, 2007 SCC 25"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-20-day-limit-inapplicable-to-default",
+      "node_type": "WarfareFramework",
+      "label": "Countermeasure: 20-Day Limit Inapplicable to Default Judgments",
+      "description": "Clarifies 20-day limit in R 9.15(2) does not govern motions to set aside default judgments under R 9.15(3).",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s010",
+        "part9_part_9_judgments_and_orders_006_s011",
+        "part9_part_9_judgments_and_orders_006_s012",
+        "part9_part_9_judgments_and_orders_006_s022"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s012",
+            "text": "(2) does not include an application to set aside a default judgment under rule 9.15(3).",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Neutralises plaintiffs’ frequent, but incorrect, timeliness objection, keeping door open for substantive justice.",
+        "litigation_implications": [
+          "Defensive: Pre-empt timeliness argument in application materials.",
+          "Offensive: Discredit opponent’s use of 20-day bar, enhancing credibility."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Briefs should cite Palin v Duxbury to confirm inapplicability.",
+          "risk_assessment": "Low; law is settled.",
+          "audit_trigger": "Any response invoking 20-day bar against R 9.15(3) motion."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Palin v. Duxbury, 2010 ABQB 833"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-20-day-limit-inapplicable-to-noting-in-default",
+      "node_type": "WarfareFramework",
+      "label": "Countermeasure: 20-Day Limit Inapplicable to Noting in Default",
+      "description": "Explains 20-day limit doesn’t apply to setting aside a Clerk’s noting in default because it’s not a court order or judgment.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s109",
+        "part9_part_9_judgments_and_orders_006_s110"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s109",
+            "text": "He cites r 9.15. … 88 First, noting in default is not a judgment or an order; it is not made by a judge or master, but is merely an administrative notation by the Clerk of the Court.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §4"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Removes artificial time bar and supports fairness-based reopening before judgment entered.",
+        "litigation_implications": [
+          "Defensive: Use to defeat 20-day objection when only notation exists.",
+          "Offensive: Clarify distinction to court early."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Materials must differentiate noting versus judgment.",
+          "risk_assessment": "Low; principle settled.",
+          "audit_trigger": "Plaintiff raises 20-day bar on notation motion."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Al-Ghamdi v. Alberta, 2017 ABQB 169"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-de-novo-review-for-ex-parte",
+      "node_type": "WarfareFramework",
+      "label": "De Novo Review for Setting Aside Ex Parte Orders",
+      "description": "On motion to set aside ex parte order, hearing proceeds de novo; original applicant bears onus on full, two-sided record.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s352",
+        "part9_part_9_judgments_and_orders_008_s364",
+        "part9_part_9_judgments_and_orders_008_s391",
+        "part9_part_9_judgments_and_orders_008_s398"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s391",
+            "text": "89-90, Madam Justice Paperny said: A judge who hears a motion to rescind or vary an ex parte injunction should hear the matter de novo as to both the law and the facts involved.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §10"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Levels playing field by stripping original order of deference; challenger gains fresh hearing with full evidence.",
+        "litigation_implications": [
+          "Offensive: File comprehensive evidence; insist on de novo standard.",
+          "Defensive: Prepare to re-argue merits ab initio."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Application should state de novo standard explicitly.",
+          "risk_assessment": "High for ex parte applicant as prior advantage evaporates.",
+          "audit_trigger": "All ex parte rescind/vary motions."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Alberta Treasury Branches v. Leahy, 2000 ABQB 575"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-distinction-interlocutory-final-consent-orders",
+      "node_type": "WarfareFramework",
+      "label": "Varying Interlocutory vs. Final Consent Orders",
+      "description": "Highlights that procedural consent orders may be varied under R 9.15(4); final consent judgments reflecting settlements are treated as contracts and rarely disturbed.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s542",
+        "part9_part_9_judgments_and_orders_008_s545",
+        "part9_part_9_judgments_and_orders_008_s552"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s545",
+            "text": "There is a marked distinction between a consent judgment that implements a settlement on the merits and creates res judicata and an interlocutory consent order that purports to engage the powers of the court and governs the conduct of the litigation.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §11"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Equips litigants to amend outdated procedural orders without undermining settlements, balancing flexibility and certainty.",
+        "litigation_implications": [
+          "Offensive: Characterise order as procedural to invoke broad discretion.",
+          "Defensive: Emphasise substantive, contractual nature to resist variation."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Motion must classify order type and apply correct test.",
+          "risk_assessment": "Moderate; outcome hinges on classification.",
+          "audit_trigger": "Variations sought for consent orders."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Custom Metal Installations Ltd. v. Winspia Windows (Canada) Inc, 2020 ABCA 333"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-duty-of-disclosure-ex-parte",
+      "node_type": "WarfareFramework",
+      "label": "Attack Based on Breach of Utmost Good Faith in Ex Parte Applications",
+      "description": "Strategy to set aside ex parte orders by proving material non-disclosure, often sufficient ground alone for rescission.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s427",
+        "part9_part_9_judgments_and_orders_008_s436",
+        "part9_part_9_judgments_and_orders_008_s438"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s436",
+            "text": "92: It is trite law that a party applying to the court ex parte has a duty of disclosure; it is sometimes said to be a duty of the utmost good faith.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §10"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Deters one-sided presentations by imposing severe consequence—loss of order—for withholding adverse facts, reinforcing candour duty.",
+        "litigation_implications": [
+          "Offensive: Scrutinise affidavit for omitted material facts; argue punitive rescission.",
+          "Defensive: Ensure full disclosure in ex parte materials; respond that omission immaterial."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Counsel must disclose all material facts when proceeding ex parte.",
+          "risk_assessment": "Breaching duty invites set-aside and costs.",
+          "audit_trigger": "Challenges alleging non-disclosure."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Duke Energy Corp. v. Duke/Louis Dreyfus Canada Corp., 1998 ABCA"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-lower-bar-for-noting-in-default",
+      "node_type": "WarfareFramework",
+      "label": "Lower Bar for Setting Aside Noting in Default vs. Judgment",
+      "description": "Courts more readily set aside a noting in default, viewing it as reversible administration and applying fairness leniently.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s109",
+        "part9_part_9_judgments_and_orders_006_s112",
+        "part9_part_9_judgments_and_orders_008_s199"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s199",
+            "text": "The case law is to the effect that if the defendant can explain the delay satisfactorily, applies promptly and has an arguable defence, then the scales of fairness tip in the defendant's favour and he is given a “Mulligan”.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §4 & §5"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Encourages adjudication on merits by allowing easy reversal before judgment entered, keeping litigation alive at low prejudice stage.",
+        "litigation_implications": [
+          "Offensive: Stress administrative nature and limited prejudice.",
+          "Defensive: Move swiftly from notation to judgment to harden position."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Motion should frame relief as minor procedural correction.",
+          "risk_assessment": "Lower; fairness usually favours reopening.",
+          "audit_trigger": "Prolonged plaintiff delay obtaining judgment."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Atlantic (HS) Financial Ltd. v. Punjabi, 2017 ABQB 87"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-plaintiff-diligence-counter-to-solicitor-neglect",
+      "node_type": "WarfareFramework",
+      "label": "Counter: Plaintiff's Lack of Diligence Overrides Solicitor Neglect",
+      "description": "Defence tactic: show plaintiff’s own inactivity despite solicitor error to defeat bid to revive dismissed claim.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s333",
+        "part9_part_9_judgments_and_orders_006_s336",
+        "part9_part_9_judgments_and_orders_006_s342"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s333",
+            "text": "35 One reason for coming to this conclusion is that I am not convinced on the evidence before me the Applicant demonstrated an intention to participate in the action.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §9"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Shifts responsibility back to litigant; courts won’t excuse persistent inattention solely on lawyer’s faults.",
+        "litigation_implications": [
+          "Defensive: Compile timeline showing plaintiff’s prolonged inaction.",
+          "Offensive: Demonstrate proactive conduct to counter diligence attack."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Applicants must evidence personal diligence.",
+          "risk_assessment": "High dismissal risk for passive litigants.",
+          "audit_trigger": "Files showing year-long inactivity then revival motion."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Alliance Concrete Ltd. v. Robertson, 2014 ABQB 401"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-plaintiff-no-merits-affidavit-required",
+      "node_type": "WarfareFramework",
+      "label": "Plaintiff Not Required to Prove Merits to Set Aside Dismissal",
+      "description": "For plaintiff’s dismissal due to non-appearance, affidavit of merits generally unnecessary; focus is on excusable absence.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s280",
+        "part9_part_9_judgments_and_orders_006_s294",
+        "part9_part_9_judgments_and_orders_006_s314"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s280",
+            "text": "Judge LeGrandeur found that while a defendant seeking to set aside a default judgment must demonstrate by way of evidence that the defendant has an arguable defence, a plaintiff need not demonstrate by way of evidence that he or she has an arguable cause of action.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:1 §9"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Recognises plaintiff’s pleaded claim already outlines merits; key inquiry is whether justice demands revival after excusable absence.",
+        "litigation_implications": [
+          "Offensive: Concentrate affidavit on accident/mistake causing non-appearance.",
+          "Defensive: Argue persistent lack of prosecution shows disinterest."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Evidence should explain failure to attend, not prove cause of action.",
+          "risk_assessment": "Lower evidentiary burden for plaintiffs.",
+          "audit_trigger": "Dismissal-revival motions invoking merits debate."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Graziano v. Soroka Developments Ltd., 2011 ABPC 80"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-plaintiff-set-aside-own-judgment",
+      "node_type": "WarfareFramework",
+      "label": "Plaintiff's Application to Set Aside Own Default Judgment",
+      "description": "Tactic for plaintiffs to vacate self-obtained default judgments to avoid merger or other unintended legal consequences.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s045",
+        "part9_part_9_judgments_and_orders_008_s059",
+        "part9_part_9_judgments_and_orders_008_s079",
+        "part9_part_9_judgments_and_orders_008_s080"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s080",
+            "text": "These cases arise where for some reason the default judgment has disposed of the cause of action, preventing the plaintiff from additional relief against other parties.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §2"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Corrects strategic missteps where quick default forecloses broader litigation options; must convince court fairness outweighs finality.",
+        "litigation_implications": [
+          "Offensive: Show unintended merger prejudice greater than prejudice to defendant.",
+          "Defensive: Argue plaintiff made informed choice; finality should prevail."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Plaintiff must present compelling rationale beyond regret.",
+          "risk_assessment": "Courts sceptical; success fact-specific.",
+          "audit_trigger": "Plaintiff motions to vacate own judgment."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Kohn v. Devon Mortgage Ltd., 1983"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-15-solicitor-neglect-excuse",
+      "node_type": "WarfareFramework",
+      "label": "Using Solicitor Neglect as an Excuse for Default",
+      "description": "Framework arguing default occurred due to former solicitor’s inadvertence; courts often spare diligent client from lawyer’s error.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s030",
+        "part9_part_9_judgments_and_orders_008_s138",
+        "part9_part_9_judgments_and_orders_008_s142",
+        "part9_part_9_judgments_and_orders_008_s161"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s161",
+            "text": "In any event, the neglect of Groening's then solicitor should not be visited upon him.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part02_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+          }
+        ],
+        "manifest_references": [
+          "Commentary § 9.15:2 §4"
+        ],
+        "verified_at": "2024-07-27T11:00:00+00:00",
+        "strategic_rationale": "Channels court’s inclination to protect innocent litigants from professional errors, while maintaining responsibility for litigant diligence.",
+        "litigation_implications": [
+          "Offensive: Swear detailed affidavit outlining counsel error and personal diligence.",
+          "Defensive: Show client aware of issue yet inert, undermining excuse."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Applicant must particularise solicitor’s negligence and own prompt action.",
+          "risk_assessment": "Moderate; success tempered by client diligence.",
+          "audit_trigger": "R 9.15 motions blaming former counsel."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Winkler Credit Union Ltd. v. Muz and Groening, 1982 MBCA"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "rel-001-further-order-controlled-by-no-variation",
+      "source_node_id": "cm-r9-14-further-order-power",
+      "target_node_id": "cm-r9-14-further-order-power",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Further-order power is limited by prohibition on varying original judgment.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_2_001_s002"
+      ]
+    },
+    {
+      "relationship_id": "rel-002-attack-supplemental-reasons-exploits-finality",
+      "source_node_id": "wf-r9-14-attack-supplemental-reasons",
+      "target_node_id": "cm-r9-14-further-order-power",
+      "relationship_type": "EXPLOITS",
+      "description": "Framework leverages finality principle underlying Rule 9.14 to attack rewritten reasons.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_002_s015",
+        "part9_part_9_judgments_and_orders_002_s016"
+      ]
+    },
+    {
+      "relationship_id": "rel-003-set-aside-power-controlled-by-20-day-limit",
+      "source_node_id": "cm-r9-15-set-aside-power",
+      "target_node_id": "pt-r9-15-20-day-application-limit",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Applications under R 9.15(1) are governed by 20-day deadline.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s004"
+      ]
+    },
+    {
+      "relationship_id": "rel-004-countermeasure-counters-20-day-trap",
+      "source_node_id": "wf-r9-15-20-day-limit-inapplicable-to-default",
+      "target_node_id": "pt-r9-15-20-day-application-limit",
+      "relationship_type": "COUNTERS",
+      "description": "Clarification neutralises misuse of 20-day limit against default-judgment motions.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s012"
+      ]
+    },
+    {
+      "relationship_id": "rel-005-set-aside-power-operationalizes-three-part-test",
+      "source_node_id": "cm-r9-15-set-aside-power",
+      "target_node_id": "fp-r9-15-three-part-test-regular-default",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Rule 9.15(3) exercise is guided by three-part test.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s104"
+      ]
+    },
+    {
+      "relationship_id": "rel-006-three-part-test-requires-arguable-defence",
+      "source_node_id": "fp-r9-15-three-part-test-regular-default",
+      "target_node_id": "fp-r9-15-arguable-defence-requirement",
+      "relationship_type": "REQUIRES",
+      "description": "Three-part test includes arguable defence prong.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s029"
+      ]
+    },
+    {
+      "relationship_id": "rel-007-three-part-test-requires-no-deliberate-default",
+      "source_node_id": "fp-r9-15-three-part-test-regular-default",
+      "target_node_id": "fp-r9-15-no-deliberate-default-requirement",
+      "relationship_type": "REQUIRES",
+      "description": "Second prong demands absence of deliberate default.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s030"
+      ]
+    },
+    {
+      "relationship_id": "rel-008-three-part-test-requires-promptness",
+      "source_node_id": "fp-r9-15-three-part-test-regular-default",
+      "target_node_id": "fp-r9-15-promptness-requirement",
+      "relationship_type": "REQUIRES",
+      "description": "Third prong requires prompt motion.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s031"
+      ]
+    },
+    {
+      "relationship_id": "rel-009-as-of-right-counters-three-part-test",
+      "source_node_id": "fp-r9-15-procedural-flaw-as-of-right",
+      "target_node_id": "fp-r9-15-three-part-test-regular-default",
+      "relationship_type": "COUNTERS",
+      "description": "Procedural flaw bypasses three-part merits test.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s102"
+      ]
+    },
+    {
+      "relationship_id": "rel-010-set-aside-power-controlled-by-accident-standard",
+      "source_node_id": "cm-r9-15-set-aside-power",
+      "target_node_id": "fp-r9-15-accident-or-mistake-standard",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Applications for non-appearance judged against accident/mistake standard.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s003"
+      ]
+    },
+    {
+      "relationship_id": "rel-011-fairness-test-operationalizes-set-aside-power",
+      "source_node_id": "fp-r9-15-fairness-test-noting-in-default",
+      "target_node_id": "cm-r9-15-set-aside-power",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Fairness test guides court when addressing noting in default.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s146"
+      ]
+    },
+    {
+      "relationship_id": "rel-012-de-novo-review-operationalizes-set-aside",
+      "source_node_id": "wf-r9-15-de-novo-review-for-ex-parte",
+      "target_node_id": "cm-r9-15-set-aside-power",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "De novo framework dictates method for rescinding ex parte orders.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s391"
+      ]
+    },
+    {
+      "relationship_id": "rel-013-breach-of-duty-exploits-de-novo-review",
+      "source_node_id": "wf-r9-15-duty-of-disclosure-ex-parte",
+      "target_node_id": "wf-r9-15-de-novo-review-for-ex-parte",
+      "relationship_type": "EXPLOITS",
+      "description": "Non-disclosure attack weaponises de novo hearing.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s427"
+      ]
+    },
+    {
+      "relationship_id": "rel-014-vary-interlocutory-operationalizes-consent-order-distinction",
+      "source_node_id": "cm-r9-15-vary-interlocutory-order",
+      "target_node_id": "wf-r9-15-distinction-interlocutory-final-consent-orders",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Variation power applies to interlocutory consent orders distinguished by framework.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s552"
+      ]
+    },
+    {
+      "relationship_id": "rel-015-set-aside-power-controlled-by-standing",
+      "source_node_id": "cm-r9-15-set-aside-power",
+      "target_node_id": "fp-r9-15-affected-person-definition",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Only legally affected persons may invoke Rule 9.15.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s095",
+        "part9_part_9_judgments_and_orders_006_s098"
+      ]
+    },
+    {
+      "relationship_id": "rel-016-noting-in-default-counter-counters-20-day-trap",
+      "source_node_id": "wf-r9-15-20-day-limit-inapplicable-to-noting-in-default",
+      "target_node_id": "pt-r9-15-20-day-application-limit",
+      "relationship_type": "COUNTERS",
+      "description": "Framework rebuts 20-day limit for notings.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s110"
+      ]
+    },
+    {
+      "relationship_id": "rel-017-plaintiff-no-merits-counters-arguable-defence-req",
+      "source_node_id": "wf-r9-15-plaintiff-no-merits-affidavit-required",
+      "target_node_id": "fp-r9-15-arguable-defence-requirement",
+      "relationship_type": "COUNTERS",
+      "description": "Plaintiff revival motions need not satisfy defence-merits equivalent.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s280"
+      ]
+    },
+    {
+      "relationship_id": "rel-018-deliberate-default-bar-counters-set-aside-power",
+      "source_node_id": "pt-r9-15-deliberate-default-bar",
+      "target_node_id": "cm-r9-15-set-aside-power",
+      "relationship_type": "COUNTERS",
+      "description": "Deliberate default negates discretionary relief.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s076"
+      ]
+    },
+    {
+      "relationship_id": "rel-019-solicitor-neglect-counters-deliberate-default-bar",
+      "source_node_id": "wf-r9-15-solicitor-neglect-excuse",
+      "target_node_id": "pt-r9-15-deliberate-default-bar",
+      "relationship_type": "COUNTERS",
+      "description": "Solicitor neglect argument rebuts deliberate default allegation.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s161"
+      ]
+    },
+    {
+      "relationship_id": "rel-020-plaintiff-set-aside-exploits-set-aside-power",
+      "source_node_id": "wf-r9-15-plaintiff-set-aside-own-judgment",
+      "target_node_id": "cm-r9-15-set-aside-power",
+      "relationship_type": "EXPLOITS",
+      "description": "Plaintiff uses R 9.15 to reverse own judgment.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s059"
+      ]
+    },
+    {
+      "relationship_id": "rel-021-three-part-test-controlled-by-cross-examination",
+      "source_node_id": "fp-r9-15-three-part-test-regular-default",
+      "target_node_id": "cm-r9-15-challenge-affidavit-via-crossexamination",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "Factual assessment under three-part test depends on cross-examination rule.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s226"
+      ]
+    },
+    {
+      "relationship_id": "rel-022-lower-bar-operationalizes-fairness-test",
+      "source_node_id": "wf-r9-15-lower-bar-for-noting-in-default",
+      "target_node_id": "fp-r9-15-fairness-test-noting-in-default",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Lower bar concept informs fairness analysis.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s112"
+      ]
+    },
+    {
+      "relationship_id": "rel-023-financial-difficulty-counters-excuse-requirement",
+      "source_node_id": "pt-r9-15-financial-difficulty-not-excuse",
+      "target_node_id": "fp-r9-15-no-deliberate-default-requirement",
+      "relationship_type": "COUNTERS",
+      "description": "Financial hardship deemed invalid excuse against no-deliberate-default prong.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s108"
+      ]
+    },
+    {
+      "relationship_id": "rel-024-plaintiff-diligence-counters-solicitor-neglect",
+      "source_node_id": "wf-r9-15-plaintiff-diligence-counter-to-solicitor-neglect",
+      "target_node_id": "wf-r9-15-solicitor-neglect-excuse",
+      "relationship_type": "COUNTERS",
+      "description": "Evidence of plaintiff’s own inactivity neutralises solicitor-neglect excuse.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s333"
+      ]
+    }
+  ],
+  "tactical_playbook": {
+    "plays": [
+      {
+        "play_id": "tp-001-default-judgment-reversal",
+        "play_name": "The Default Judgment Reversal",
+        "objective": "Set aside a regularly obtained default judgment on grounds of solicitor error or misunderstanding.",
+        "control_mechanisms": [
+          "cm-r9-15-set-aside-power",
+          "cm-r9-15-challenge-affidavit-via-crossexamination"
+        ],
+        "warfare_frameworks": [
+          "wf-r9-15-20-day-limit-inapplicable-to-default",
+          "wf-r9-15-solicitor-neglect-excuse"
+        ],
+        "prerequisites": [
+          "Client recently discovered default judgment.",
+          "Default was not deliberate.",
+          "Arguable defence exists."
+        ],
+        "execution_sequence": [
+          "Step 1: File R 9.15 application promptly, evidencing discovery date.",
+          "Step 2: Prepare affidavit addressing each prong of three-part test; avoid hardship excuse.",
+          "Step 3: Detail solicitor error to negate deliberate default.",
+          "Step 4: Provide facts and documents supporting arguable defence.",
+          "Step 5: Rely on cross-examination rule if respondent files contradictory affidavit without questioning."
+        ],
+        "success_metrics": [
+          "Judgment set aside.",
+          "Defence filed and action reopened.",
+          "Costs awarded in cause or minimal."
+        ]
+      },
+      {
+        "play_id": "tp-002-ex-parte-order-ambush",
+        "play_name": "The Ex Parte Order Ambush",
+        "objective": "Rescind ex parte order by proving material non-disclosure during de novo hearing.",
+        "control_mechanisms": [
+          "cm-r9-15-set-aside-power"
+        ],
+        "warfare_frameworks": [
+          "wf-r9-15-de-novo-review-for-ex-parte",
+          "wf-r9-15-duty-of-disclosure-ex-parte"
+        ],
+        "prerequisites": [
+          "Ex parte order currently restrains client.",
+          "Evidence applicant withheld material facts."
+        ],
+        "execution_sequence": [
+          "Step 1: File motion (within or beyond 20 days if default judgment not involved) seeking de novo review.",
+          "Step 2: Serve full evidentiary record exposing omissions.",
+          "Step 3: Argue breach of utmost good faith warrants automatic rescission.",
+          "Step 4: In alternative, contend merits fail on complete record.",
+          "Step 5: Seek costs against original applicant for misconduct."
+        ],
+        "success_metrics": [
+          "Order rescinded.",
+          "Court finds breach of disclosure duty.",
+          "Favourable cost award."
+        ]
+      }
+    ]
+  },
+  "countermeasure_simulation": {
+    "scenarios": [
+      {
+        "scenario_id": "cms-001-the-procedural-flaw-gambit",
+        "scenario_name": "The Procedural Flaw Gambit",
+        "initial_position": "Plaintiff holds default judgment; affidavit of service defective.",
+        "adversary_move": "Plaintiff argues motion fails for lack of arguable defence.",
+        "countermeasure": "Invoke fp-r9-15-procedural-flaw-as-of-right to bypass merits requirement.",
+        "counter_countermeasure": "Plaintiff contends six-week delay negates promptness.",
+        "outcome_analysis": "Judgment likely set aside; costs may penalise delay.",
+        "lessons_learned": [
+          "Procedural flaws trump merits but promptness still scrutinised.",
+          "Opponents quickly pivot to delay arguments."
+        ]
+      },
+      {
+        "scenario_id": "cms-002-the-unacceptable-excuse",
+        "scenario_name": "The 'Unacceptable Excuse' Defence",
+        "initial_position": "Corporate defendant moves to set aside default judgment citing financial troubles.",
+        "adversary_move": "Applicant satisfies defence and promptness prongs.",
+        "countermeasure": "Rely on pt-r9-15-financial-difficulty-not-excuse and pt-r9-15-deliberate-default-bar.",
+        "counter_countermeasure": "Applicant pleads overarching fairness.",
+        "outcome_analysis": "Court likely dismisses application; hardship excuse invalid.",
+        "lessons_learned": [
+          "Target weakest prong—excuse—to defeat motion.",
+          "Fairness rarely rescues inherently invalid excuse."
+        ]
+      }
+    ]
+  },
+  "integration_touchpoints": {
+    "neo4j_ingestion": {
+      "node_label_mapping": {
+        "FoundationalPillar": "CREATE (n:FoundationalPillar:LegalNode {node_id: $node_id}) SET n += $properties",
+        "WarfareFramework": "CREATE (n:WarfareFramework:LegalNode {node_id: $node_id}) SET n += $properties",
+        "ControlMechanism": "CREATE (n:ControlMechanism:LegalNode {node_id: $node_id}) SET n += $properties",
+        "ProceduralTrap": "CREATE (n:ProceduralTrap:LegalNode {node_id: $node_id}) SET n += $properties"
+      },
+      "relationship_type_mapping": {
+        "OPERATIONALIZES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:OPERATIONALIZES]->(b) SET r += $properties",
+        "CONTROLLED_BY": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:CONTROLLED_BY]->(b) SET r += $properties",
+        "EXPLOITS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:EXPLOITS]->(b) SET r += $properties",
+        "REQUIRES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:REQUIRES]->(b) SET r += $properties",
+        "COUNTERS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:COUNTERS]->(b) SET r += $properties"
+      },
+      "provenance_indexing": "CREATE INDEX ON :LegalNode(source_sentence_ids)"
+    },
+    "automation_api_endpoints": {
+      "set_aside_analyzer": "/api/v1/applications/set-aside/analyze",
+      "procedural_flaw_checker": "/api/v1/default-judgment/audit",
+      "deadline_alert_system": "/api/v1/deadlines/monitor"
+    }
+  },
+  "omitted_nodes": []
+}

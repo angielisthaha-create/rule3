@@ -1,0 +1,221 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.30",
+  "title": {
+    "official": "Defendant’s options",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 3,
+    "heading": "Defence to Statement of Claim, Reply to Defence and Demand for Notice"
+  },
+  "operative_text": {
+    "controlling": "3.30   A defendant who is served with a statement of claim may do\none or more of the following:\n(a) apply to the Court to set aside service in accordance with\nrule 11.31;\n(b) apply to the Court for an order under rule 3.68;\n(c) file and serve a statement of defence or demand for notice.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "7a608e2158c4f10546f3e76b9492e84ac86598d226f9bef2d739458d92dfb5e3"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          61
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Defendant's Options",
+      "operative_text_raw": null,
+      "operative_text_sha256": "63d16fdf52d52a11e17659505895ed3044f7aada33e4edea59bfac9030b7144d",
+      "defined_terms": "Court, defendant, file, order",
+      "related_provisions": "3.34 (demand for notice)",
+      "commentary": "This Rule makes it clear that adefendant can move to strike the statement of claim before filing a defence. *Statement of Defence*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-80"
+        ],
+        "offset_in_clean_text": [
+          254959,
+          255800
+        ]
+      },
+      "operative_text_note": "same wording as official 3.30 lead-in and (a)-(c) (read by eye) except the bracket labels '[Setting aside service]' after 'rule 11.31' and '[Court options to deal with significant deficiencies]' after 'rule 3.68' (both match the official titles of 11.31 and 3.68), the title in title case ('Defendant's Options', straight apostrophe), missing spaces and '*' line marks, and the footnote marker '1' printed between (b) and (c). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The Subdivision 3 heading printed before the title ('Subdivision 3 Defence to Statement of Claim, Reply to Defence and Demand for Notice', p.3-80 lines 2176-2178) matches the official Subdivision 3 heading. This rule's history footnote 1 ('Quite similar to previous 1968 R.27. It came from 1944 C.R.29, and Eng.1883 O.12 r.30') and footnote 2 ('McMeekin v. A.-G. Alta. 2012 ABQB 144, 537 AR 136') are printed at p.3-80 (line 2175) inside the built 3.29 record and are kept there.",
+      "commentary_review_flag": "Read in full, p.3-80 (line 2178) to line 2183: rule text, Information Note, Defined Terms 'Court, defendant, file, order' (the Appendix defines each), Related Provisions '3.34 (demand for notice)' (official 3.34 is 'Demand for notice by defendant') and a one-sentence note. The built record holds the information note (Book A only), defined_terms, related_provisions and the commentary field (130 characters: the note, then the title of 3.31 'Statement of Defence'). (1) Information Note: 'The rule relating to a demand for notice is rule 3.34 [Demand for notice by defendant]. In foreclosure actions a notice of address for service may be filed and served under rule 11.24 [Notice of address for service in foreclosure actions]' - both labels match the official titles of 3.34 and 11.24. (2) Note: 'This Rule makes it clear that a defendant can move to strike the statement of claim before filing a defence' agrees with 3.30(b) (an order under 3.68) and official 3.68(1)(a) ('that all or any part of a claim or defence be struck out'); footnote 2 (McMeekin v. A.-G. Alta. 2012 ABQB 144, 537 AR 136) is printed in the 3.29 record (which sentence it belongs to is not shown). (3) The history footnote 1 (1968 R.27; 1944 C.R.29; Eng. 1883 O.12 r.30) is in the 3.29 record (its marker '1' is printed between (b) and (c) in the 3.30 text). (4) No other rule's note in Book A cites 3.30 by number (searched all combined*.txt files); Book C's 3.47 commentary and a Book C commentary in the 541-560 file cite it (see see_also)."
+    },
+    "BOOK_B": {
+      "title": "Defendant's options",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_30_001",
+        "part3_part_3_court_actions_016"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "e7612ddf92c335c8a925e6b29558c9eba4da418e4b4d16950d3afb6b57718b5b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Defendant’s options",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "77d8775a9576851d5d92b499a597f63f9666a1bbffd5e09a95ca1617fa2f10ef",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it holds the lead-in and (a)-(b) only ((a) with the label '[Setting aside service]' and (b) with the label '[Court options to deal with significant deficiencies]'); paragraph (c) 'file and serve a statement of defence or demand for notice.' is missing. No amendment note, no information note and no commentary are printed for 3.30 in Book C (the entry ends after (b)). Book A's information note ('The rule relating to a demand for notice is rule 3.34 ...') has no counterpart in Book C."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8654,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.30 lead-in and (a)-(c) (read by eye) except the bracket labels '[Setting aside service]' after 'rule 11.31' and '[Court options to deal with significant deficiencies]' after 'rule 3.68' (both match the official titles of 11.31 and 3.68), the title in title case ('Defendant's Options', straight apostrophe), missing spaces and '*' line marks, and the footnote marker '1' printed between (b) and (c). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The Subdivision 3 heading printed before the title ('Subdivision 3 Defence to Statement of Claim, Reply to Defence and Demand for Notice', p.3-80 lines 2176-2178) matches the official Subdivision 3 heading. This rule's history footnote 1 ('Quite similar to previous 1968 R.27. It came from 1944 C.R.29, and Eng.1883 O.12 r.30') and footnote 2 ('McMeekin v. A.-G. Alta. 2012 ABQB 144, 537 AR 136') are printed at p.3-80 (line 2175) inside the built 3.29 record and are kept there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.8776,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.30",
+      "title_official": "Defendant’s options"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "63d16fdf52d52a11e17659505895ed3044f7aada33e4edea59bfac9030b7144d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-80"
+          ],
+          "offset_in_clean_text": [
+            254959,
+            255800
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "e7612ddf92c335c8a925e6b29558c9eba4da418e4b4d16950d3afb6b57718b5b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "77d8775a9576851d5d92b499a597f63f9666a1bbffd5e09a95ca1617fa2f10ef",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "7a608e2158c4f10546f3e76b9492e84ac86598d226f9bef2d739458d92dfb5e3",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            61
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "d05b89a8349a9265cd0cbfaf7c9edb7d60888328e080e6c0f2760c4bb08f6a35"
+  },
+  "information_notes": [
+    {
+      "text": "The rule relating to a demand for notice is rule 3.34 [Demand for notice by defendant].In foreclosure actions a notice of address for service may be filed and served under rule 11.24 [Notice of address for service in foreclosure actions].",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): no Book B file cites 3.30 by number outside its own paragraphs. BOOK_C 141-160 file, 3.47 commentary: 'Similar to rule 3.30, applying to a defendant served with a statement of claim, rule 3.47 summarizes the options available to third party defendants' (agrees with the shape of 3.30); BOOK_C 541-560 file (a commentary under the 11.x/12.x rules): 'Interaction With Other Rules - ... Rule 3.30 allows a defendant who is served with a statement of claim to apply to the court to set aside service in accordance with rule 11.31' (agrees with 3.30(a)). BOOK_B 3.30: rule text (rule3_part03_document.json paragraph part3_part_3_court_actions_016) EXACT_MATCH with the official; no amendment note and NO commentary section for 3.30 (the next paragraph is the running head for Subdivision 3). BOOK_C 3.30: rule text CARRIER_MISSING_TEXT ((c) missing; dropped with note); no amendment note, information note or commentary.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included): no Book A file cites 3.30 by number outside its own record.",
+    "OFFICIAL text (searched for 'rule 3.30', 'rules 3.30', lists, line-wrapped forms and form headings): no other official rule cites 3.30 by number (the search found no hit); no form heading names it. By subject (read): 11.31 (setting aside service), 3.68 (Court options to deal with significant deficiencies), 3.31 (statement of defence), 3.34 (demand for notice by defendant), 11.24 (notice of address for service in foreclosure actions), 3.47 (third party defendant's options: Book C says it is similar to 3.30)."
+  ],
+  "dedupe_log": [
+    "3.30 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.30 BOOK_C: rule text dropped (manual review)",
+    "3.30 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.19",
+  "title": {
+    "official": "Court approval of settlement, discontinuance, and abandonment of actions",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.19   Unless a litigation representative has express authority under\nan instrument, order or enactment to settle, discontinue or abandon\nan action, the litigation representative may do so only with the\nCourt’s approval.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "907b83b6fd171d90b0c3e2c0a75df4cfd523b68f5af3e041be09119166a70ef1"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          44
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Court Approval of Settlement, Discontinuance, and Abandonment of Actions",
+      "operative_text_raw": null,
+      "operative_text_sha256": "08158b296f081e7be363a7910ae73a542e34666c860c2103347df861e013cfdd",
+      "related_provisions": "2.13 (automatic litigation representatives) ; 2.16 (unascertained or unborn classes) ; 2.18 (settlements re persons not before the court) ; 3.36(2) (noting litigation representative in default).",
+      "commentary": "There is a discussion of the criteria for court approval of a settlement of a suit by a minor.¹\nThe court can approve or disapprove a settlement, but cannot vary it.²\nThe court approved a\nsettlement for far less than the independent trustee recommended, as the court found it fair and\nthe plaintiffs had psychological problems.³",
+      "footnotes": [
+        {
+          "page": "2-41",
+          "number": 1,
+          "text": "Doe v. Church of Jesus Christ of the L. D. S.2003 ABQB 794, 341 AR 395. An infant’s settlement need involve no money, and can let the suit be dropped without costs; approved: M. H. v. Smith 2008 ABQB 434."
+        },
+        {
+          "page": "2-41",
+          "number": 2,
+          "text": "Milne v. Pﬁzer 2005 ABQB 236, 379 AR 345. The Public Trustee opposed the lump sum settlement urging a structured settlement instead. The child was young, so tax advantages of a structure would mean little. The Public Trustee gave rates of return on money hard to ﬁnd in the private sector. The court had then no power to force a structured settlement on persons. The criteria for approving an infant’s settlement are reviewed: Milne v. Pﬁzer, supra."
+        },
+        {
+          "page": "2-41",
+          "number": 3,
+          "text": "S. W. v. K. T.2007 ABQB 38, 414 AR 47."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          2002,
+          2020
+        ],
+        "book_pages": [
+          "2-41"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Court approval of settlement, discontinuance, and abandonment of actions",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_025",
+        "part2_rule_2_19_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_026"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "e803de19aeae37cba85fb84ebd2dbf7bd118dc2cd85318d66bf6c757d60945b5",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Court approval of settlement, discontinuance, and abandonment of actions",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "52458683822b91ba52fca538a3349b59f1925e03229cd756e41c30388cfcaeb1",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 2.19 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.19",
+      "title_official": "Court approval of settlement, discontinuance, and abandonment of actions"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "08158b296f081e7be363a7910ae73a542e34666c860c2103347df861e013cfdd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            2002,
+            2020
+          ],
+          "book_pages": [
+            "2-41"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "e803de19aeae37cba85fb84ebd2dbf7bd118dc2cd85318d66bf6c757d60945b5",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "52458683822b91ba52fca538a3349b59f1925e03229cd756e41c30388cfcaeb1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "907b83b6fd171d90b0c3e2c0a75df4cfd523b68f5af3e041be09119166a70ef1",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            44
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "4c3b1d4fa950b4c9e43ecbc071c003b206e7a8d91c60a0dfcb578b9ffd895614"
+  },
+  "information_notes": [
+    {
+      "text": "Under rule 3.36(2) [Judgment in default of defence and noting in default], a judgment in\ndefault of filing a statement of defence may be entered against a defendant represented by\na litigation representative only with the Court’s permission.",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "garbled copy of the same note (word order/brackets); not retained"
+      }
+    }
+  ],
+  "see_also": [
+    "8th pass: BOOK_A's related-provision label '3.36(2) (noting litigation representative in default)' (under 2.11, 2.12, 2.16 and 2.19) is loose - official 3.36(2) says a judgment in default of defence must not be entered, without the Court's permission, against a person represented by a litigation representative; noting in default (3.36(1)(b)) is not restricted. Read the official text. Also: BOOK_A 2.18's list labels this rule '2.19 (settling estate litigation)'; official 2.19 covers court approval of any settlement, discontinuance or abandonment for a represented person, not only estates.",
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.3.35 notes: 'See R.3.35 n.D, and R.2.19' (p.3-86, fn 10), and 'The court can approve a compromise rejected by a party who is not sui juris: S.W. v. K.T. 2007 ABQB 38 ... See R.2.19' (p.3-87, fn 5) - the same case as BOOK_A 2.19 fn 3.",
+    "Rule 2.18: BOOK_A 2.18 commentary ('Rule 2.19 allows the court to approve a compromise in trust or estate proceedings') and related provisions. That Book A sentence is narrower than official 2.19, which covers any litigation representative (flagged under 2.18, 4th pass).",
+    "BOOK_A 2.11 Part E (p.2-33 fn 7): 'Court approval is needed for settlement' - Minors' Property Act s.15 and the court's inherent jurisdiction (added in 4th pass). BOOK_A 2.19 fn 3 'S. W. v. K. T. 2007 ABQB 38' and BOOK_A 2.11 p.2-32 fn 4 'S. W. v. K. T. (#2) 2006 ABQB 830' are different decisions.",
+    "Rule 3.36(2): BOOK_A information note."
+  ],
+  "dedupe_log": [
+    "2.19 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.19 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.19 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.19 BOOK_C information note dropped: garbled duplicate, no new words",
+    "2.19 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

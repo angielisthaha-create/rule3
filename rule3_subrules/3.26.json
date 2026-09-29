@@ -1,0 +1,240 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.26",
+  "title": {
+    "official": "Time for service of statement of claim",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Time Limit for Service of Statement of Claim"
+  },
+  "operative_text": {
+    "controlling": "3.26(1)  A statement of claim must be served on the defendant\nwithin one year after the date that the statement of claim is filed\nunless the Court, on application filed before the one-year time limit\nexpires, grants an extension of time for service.\n(2)  The extension of time for service under this rule must not\nexceed 3 months.\n(3)  Rule 13.5 does not apply to this rule or to an extension of time\nordered under this rule.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "f400d93eb2e8e7c69256c6f1d0d3d317548a8cf05bfcfcb76d9d6ddebad2f8f3"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.26 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          60
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Time for Service of Statement of Claim",
+      "operative_text_raw": null,
+      "operative_text_sha256": "85db46f9a5e03b020abd307034ba6548185e4a6498dc8830934f6da1502749dd",
+      "defined_terms": null,
+      "related_provisions": "3.76(2)(b) (new parties to action); 11.4 (service of commencement documents);13.4 (calculating time);13.15 (time of filing) *A.Introduction Beware of this Rule! Delay in serving a statement of claim can make a plaintiff's claim disappear.If a statement of claim is not served, and if the time is not extended within one year of the anniversary of its issue, and if the limitation period of the claim has also expired, usually the action and cause of action in effect are dead, and the plaintiff can take no steps in the suit. See R.3.28.This Rule exists to help both parties. 1Quite similar to previous 1968 R.11(1)-(4). It came from theCommon Law Procedure Act1852 s.11. Cf. 1883 O.2 r.6 (rep.1917), Judic.Ord.r.6, 1914 R.126, and 1944 C.R.15 (am.228/60);somewhat different *B.History 6Leung v. Al-Hassan,supra. 7Nixonv.Timms,supra. 8Sassine Constr.Corp. v.Proserve Cleaning2022 ABKB 832, JCE 2213 00116 (Dec 9) (¶'s 16 ff.). 9Paget v.Paget [sic] (Re Padget Est.)2014 ABQB 750, JCE 1303 07147 (Dec 8) (¶'s 22-32). 10Paget v.Paget(¶'s 33 ff.). 11See lengthydiscussion inGrande Prairie (City) v.Apotex2023 ABKB 78, JCC 2001 07073 (Feb 10) (¶'s 11-22, 31-46).See alsoLauzon v. Edm.Police Service(AJ) 2023 ABKB 40, JCE 2103 15136 (Jan 23). 12That led to an order for substantial service by advertisement, which the newspaper forgot to run, with resulting loss of the suit, inHiep v. Cain(M) 2004 ABQB 94, 365 AR 356,affd2004 ABQB 876, 365 AR 366. ABCA 401, 417 AR 189,revg2006 ABQB 40, 54 Alta LR(4th) 399. are of little help. Before the amendment of this Rule in 1991, an extension of time could be granted after the expiry of the statement of claim;then the cases were inconsistent. Some statement of claim's were repeatedly renewed unserved.This Rule was radically amended in 1991 to eliminate the ability to bring a renewal application (extension of time) after the expiry of the statement of claim, and to clarify that the court's discretion to extend to limit the number of possible renewals to one, time is not applicable.In 1997, R.3.27's predecessor was enacted, allowing a renewal outside *C.Mandatory Rule 1See the C.P.E., Chapter 24, Parts A.5 and A.6.On the history, see alsoFehr v.Immaculata Hosp.1999 ABQB 865, 253 AR 188. 2003 ABCA 194;Hansraj v. Ao,supra(¶'s 63-66).A judge cannot get around the Rule by using R.13.15 And now the test for extension of time within the year after issue is tighter than used to be presumed:evidence of need is needed for each defendant still unserved. and there is no act or proceeding to cure:Hiep v. Cain2004 ABQB 876, 365 AR 366,affg(M) 2004 ABQB 94, 365 AR 356.This Rule creates what is in effect a limitation period:Performance Ind.v.Forgues2006 the original year only in very narrow circumstances.These changes attest to the purpose of this Rule:to prevent delay and encourage expedient litigation.So decisions on the Rules before 1991 Because of the post-1991 restrictions on when a renewal application can be brought, lengthy delays in service are no longer possible.On the tests for renewal, see R.3.27. The consequences of R.3.26 are neither optional nor discretionary:they are mandatory. One cannot extend time to serve a statement of claim except by a valid timely order to renew the statement of claim. Apart from specific exceptions in Rule 3.27, once a statement of claim expires, it cannot be renewed or validly served, despite the plaintiff's hardship, lack of blame, or other fairness considerations. The test for renewal within the year is easier, but after the year expires, renewal (under R.3.27) faces far stiffer tests. The test under R.3.26 is reviewed:the big requirement is that it cannot be for the purpose of delay;and there cannot be serious prejudice to the defendant. *D. Practicalities Plaintiffs'solicitors are typically caught by this Rule in one of two ways.One way is to leave service to the last minute, only to discover that the defendant cannot be readily found. Theother 2Leung (Wong) v. Al-Hassan2003 ABCA 366 (Dec15).Except where R.3.27 applies:Hansraj v.Ao2004 ABCA 223, 354 AR 91 (¶'s 54-57).The new 1990 Rules made little difference:Foster v.Robb,supra.See also the historical footnote attached to the end of the Rule,supra. 3See R.3.27(2). 4Nixonv.Timms2013 ABCA 84, 544 AR 21. 5Foster v. Robb,supra.SeeMartinez v.Hogeweide(CA 1998) 209 AR 388, 156 DLR(4th) 757;Fehr v. *Immaculata Hosp.,supra;Pruett v. Kohout(M 1995) 171 AR 118, 30 Alta LR(3d) 31;Leung v. Halwa may be served on its anniversary date.If the last day is a holiday, the period is extended to the PART 3:COURT ACTIONSR.3.26(3) 3-73 way is dealing directly with the defendant's insurer, forgetting that the defendant, and not its insurer, is the real litigant. limit for service, for an order for substitutional service under R.11.28, and (if it is necessary in order to effect substitutional service), an order renewing the statement of claim for three months. If there are defects in the form of service and the originating document somehow comes to the If a new defendant is validly added by order, time to serve him or her runs from the order, not from the issue of the statement of claim. next business day. knowledge within the limitation period plus time for service of process, the latter means the year under R.3.26, even though the proceeding is not begun by statement of claim and has a different time period for service. ABQB 442, 400 AR 327. 3Duperron v.Landry,supra.See further R.3.28n.below. 5Haymour v.Acielo2016 ABCA 251, 404 DLR(4th) 671. 6Harvest Op. Corp.v.Obsidian Enr.2022 ABKB 848, JCC 1901 08891 (Dec 15) (¶'s 50-57). 7Al-Ghamdi v. R.,infra(¶ 312). 8Al-Ghamdi v. R.,infra(¶'s 317-20). 9Re Powell Est.2023 ABKB 203, JCE ES 165016 (Apr 6) (¶'s 11-15). 10Al-Ghamdi v. R.(Alta.) (#_)2017 ABQB 684, JCE 0803 09004 (Nov 15). 11Hannan v. Hyland352 AR 206,affd2004 ABCA 268, 357 AR 11;cf.Marcil v. Ellefson2014 ABCA 169, 575 AR 189. If personal service upon the defendant is not possible, the plaintiff may apply within the time 4Performance Ind.v.Forgues2006 ABCA 401, 417 AR 189.See R.13.4. attention of the defendant, an application can be made pursuant to R.11.27 to cure the problem. Both these steps should be taken before expiry of the statement of claim. appeal inKrush v. Headwaters Regl.Health Authy.2004 ABQB 219, 356 AR 376.Quaere. *F.Timely Renewal 1 SeeHansraj v. Ao,supra.A Master adopted a doubtful indulgent view of this Rule, and this was upheld on *E.Miscellaneous Under this Rule, the day of issue is counted to calculate one year, but the statement of claim For purposes of a limitation statute, where adding a new claim to a proceeding needs Limitations periods do not apply to statements of defence, even pleading a set-off. See R.3.27 n.B. *G.Defective Service Becoming aware of pending litigation is not service. Personal service of a commencement document requires more than notice, and the Rules are a code on service. Electronic delivery of a document, acknowledged in writing as received, is not service under the Surrogate Rules. Non-service within the year (of a statement of claim) is fatal. Awareness by the defendants of a statement of claim and the fact that the plaintiff was trying to serve it on them, gave a proper foundation for an order deeming service good, and so the statement of claim did not expire unserved. 2But it may take the form of dispensing with service under R.11.29, not deeming service good?Hvozdanski *Est.v.Gasland Oil(M) 1999 ABQB 964, 258 AR 358,affd(2000) 263 AR 399.Cf.Clarke v. Deranger2006 The conduct of the defendant and her lawyer made the plaintiff and his lawyer believe that the statement of claim had been served, because they had earlier been served in time with a claim for it in almost identical wording, even though that form by law does not cover property claims, only If service is later set aside, thennew R.3.27(1)(b) now permits an extension to allow service. The court should not set aside service on doubtful grounds more than a year after the statement 302.On defective attempts at service before time to serve expires, see R.11.2n.See now Rr.3.27(1)(b) and 11.27, which do not always require leave for serviceex juris. 7D.A.F. v. S.R.G.2020 ABQB 588, JCC FL01 32056 (Oct 7). support claims in family law cases. of claim was issued, for that would in effect kill the suit? Cases on multiple defendants may differ from those with but one. 3Johnston v. Kurcz(M) 2002 ABQB 514, 316 AR 204.But R.3.27(1)(b) now applies to such a case. 4Nixonv.Timms,supra. 5Dimmick v.O'Neill(CA) [1994] 4 WWR 122, 149 AR 47. 6Hansraj v. Ao (#1)2002 ABQB 385, 314 AR 262,affdon this point, 2004 ABCA 223 (¶'s 91-100); but cf. *Leisterv. Whitstone(M) 2000 ABQB 668, 96 Alta LR(3d) 372;R. v. A.W.2003 ABQB 50, [2004] 2WWR 2Reversing the previous rule inGreter v.Bradburn,supra. Apparently it is enough that a defective (unamended) copy of the statement of claim be served before it expires:the deadline to serve does not bar later amendment to cure the flaw. But service out of the province without court leave was bad, and may not be curable after the statement of claim has expired? Personal services is important, especially in a child welfare case, and omitting it is serious, especially if the judge is told that there was service.An unsigned unfiled affidavit of service with no exhibits is not proof of service. *Extension ofTime for Service*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-71",
+          "3-74"
+        ],
+        "offset_in_clean_text": [
+          225542,
+          235990
+        ]
+      },
+      "operative_text_note": "same wording as official 3.26(1)-(3) (read by eye) except: 'one year time limit' where the official has 'one-year time limit' (hyphen missing); the bracket label '[Variation of time periods]' after 'rule 13.5' (matches the official title of 13.5); the footnote marker '1' before 'Information Note'; the title in title case ('Time for Service of Statement of Claim'); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No other difference. The Subdivision 2 heading printed before the title ('Subdivision 2 Time Limit for Service of Statement of Claim', p.3-71 line 1901) matches the official Subdivision 2 heading.",
+      "commentary_review_flag": "Read in full, p.3-71 (line 1901) to p.3-74 (line 2009): rule text, Information Note, Defined Terms 'Court, defendant', Related Provisions and the note (A Introduction, B History, C Mandatory Rule, D Practicalities, E Miscellaneous, F Timely Renewal, G Defective Service), with footnotes as printed. The built record has no defined_terms or commentary field for Book A 3.26: the Related Provisions line and the whole note are together in related_provisions (9,380 characters, nothing dropped); the built information note for Book A ends with 'Court, defendant' because the Defined Terms are printed straight after the note. The last pieces are the 3.27 title and opening words ('Extension of Time for Service 3.27(1) The Court may, at any time, grant an extension of time for service of a', line 2009), which are 3.27's. The first pieces of this note (p.3-71 lines 1892-1899: the history 'from 1968 R.11(1) ...', Brousseau v. Janz Est. 2014 ABQB 136, 583 AR 167, 'Foster v. Robb', 'The exceptions in R.3.27 are very narrow') are printed before the 3.26 title in the built 3.25 record. (1) Wording: 'one year' for 'one-year' (see the text note). (2) Titles in the Information Note agree with the official text: 'Part 11 [Service of Documents]', 'rule 13.4 [Counting months and years]', 'rule 2.12(2) [Types of litigation representatives and service of documents]', 'rule 11.7 [Service on litigation representatives]'; Defined Terms 'Court, defendant': the Appendix defines both ('defendant' line 40701). (3) Related Provisions: '3.76(2)(b) (new parties to action)' - official 3.76(2)(b): the action against a new defendant 'starts on the date on which the new party is added' (agrees with the note's 'If a new defendant is validly added by order, time to serve him or her runs from the order, not from the issue of the statement of claim'; official title of 3.76 'Action to be taken when defendant or respondent added'); '11.4 (service of commencement documents)' (official title 'Methods of service in Alberta'), '13.4 (calculating time)' (official 'Counting months and years'), '13.15 (time of filing)' (official 'When document is filed') are paraphrases of the titles. (4) Statements read against the official text: 'new R.3.27(1)(b) now permits an extension to allow service' agrees with official 3.27(1)(b) (an order for substitutional service, dispensing with service or validating service is set aside); 'an order renewing the statement of claim for three months' agrees with 3.26(2) ('must not exceed 3 months'); 'R.11.28', 'R.11.27', 'R.11.29' agree with the official titles 'Substitutional service', 'Validating service', 'Dispensing with service'; 'A judge cannot get around the Rule by using R.13.15' - official 13.15 is 'When document is filed' (the case behind it was not checked); 'Under this Rule, the day of issue is counted to calculate one year, but the statement of claim may be served on its anniversary date. If the last day is a holiday, the period is extended to the next business day' - official 3.26(1) says 'within one year after the date that the statement of claim is filed' and 13.4 counts months and years to the same-numbered day; the official Rules contain no rule on a last day that is a holiday (searched 'holiday': no hit; 'business day': only transcript fee items); the source is the Interpretation Act, applied through Performance Ind. v. Forgues 2006 ABCA 401, 417 AR 189 (Book A footnote 4, p.3-73 line 1970, 'See R.13.4'; Book B's 3.27 commentary part 5 quotes the case: statement of claim filed February 20, 2004 and served February 22, 2005, printed 'which was a Sunday', with February 21, 2005 a statutory holiday; the Court of Appeal held that s. 22(1) of the Interpretation Act authorized service on the date it was made) - official 1.8 disapplies only s.22(3) to (8) of the Interpretation Act, not s.22(1) (corrected in the 3.27 pass); 'issue' (Book A) and 'filed' (official) are used for the same start. (5) Pointers: 'See R.3.28', 'R.3.27', 'R.3.27(2)', 'R.3.28n.below', 'See R.13.4' land (rules exist); 'R.3.27 n.B' lands (3.27 note B Renewal; checked in the 3.27 pass); 'R.11.2n.' was not opened. Other rules' pointers to this rule: R.11 note p.11-5 (combined_rule11.txt line 170) 'See further R.3.26 n. G' lands (note G Defective Service); 3.27 note p.3-75 (line 2026) 'On the history, see Brousseau v. Janz Est., R.3.26n.' lands (history note B). (6) Citations as printed: '(#_)' blank in 'Al-Ghamdi v. R. (Alta.) (#_) 2017 ABQB 684, JCE 0803 09004 (Nov 15)' (p.3-73, line 1966; the same neutral citation appears in Book B as 'Al-Ghamdi v Alberta, 2017 ABQB 684 at para 317'); 'Bristol-Meyers Squibb Can. v. Grande Prairie 2023 ABCA 294' (p.3-71, line 1892) where Book B prints 'Bristol-Myers Squibb Canada Co. v. Grande Prairie (City), 2023 ABCA 294'; 'Paget v. Paget [sic] (Re Padget Est.) 2014 ABQB 750' where Book B prints 'Padget Estate v. Padget Estate, 2014 ABQB 750'; 'Foster v. Robb 2011 ABQB 776', 'Hiep v. Cain 2004 ABQB 876, 365 AR 366', 'Hansraj v. Ao 2004 ABCA 223, 354 AR 91', 'Martinez v. Hogeweide (CA 1998) 209 AR 388' and 'Performance Ind. v. Forgues 2006 ABCA 401, 417 AR 189' agree with the citations in Book B's commentary. (7) Statements of law without a source ('Limitations periods do not apply to statements of defence, even pleading a set-off'; 'Electronic delivery of a document, acknowledged in writing as received, is not service under the Surrogate Rules'; the paragraphs on waiver of the rule and on insurers) and the cases were not checked."
+    },
+    "BOOK_B": {
+      "title": "Time for service of statement of claim",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.26:1",
+          "text": "Rule 3.26 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.26. 1. General In Urban Square Holdings Ltd. v. Del Fisher Insurance Inc., 2025 ABKB 54, Justice Price discussed the concept of “service”: [34] For there to be service, “the document must be conveyed in a context that makes it clear rights are being engaged”: 1226911 Alberta Ltd v Redecopp, 2012 ABQB 776 at para 30, citing Sandhu v MEG Place LP Investment Corporation, 2012 ABCA 266 at para 23. [35] In Zahmol Properties Ltd v Calgary (City), 2012 ABCA 89 at para 16, the Court stated: Sometimes legal processes are commenced in order to crystallize rights, without a final decision having been made as to whether the action will be triggered by service and prosecuted. Sometimes knowledge of an action or proceeding is conveyed without intending to affect legal rights, as when a “courtesy copy” of legal process is provided. Where the knowledge of the legal process is conveyed without an intention to affect legal rights, there is generally no “service”. [citations omitted] [36] The purpose of service is for the defendant to have knowledge of the claim so that it can choose to defend itself: Goodwin v Goodwin, 2022 ABQB 520 at para 27 [Goodwin]. Service is a question of fact that does not require “a magical or formalistic ritual,” but service does require that the defendant be aware that their rights have been engaged: Goodwin at para 27, citing Al-Ghamdi v Alberta, 2017 ABQB 684 at para 317, aff'd 2020 ABCA 81, leave to appeal refused [2020] SCCA No 363. In Scott v. Westwinds Communities, 2021 ABCA 30, 2021 CarswellAlta 215, the Court said: [37] While not exhaustive, the general principles for a Rule 3.26 application are these: 1. A Rule 3.26 application calls upon a court to exercise its discretion. The Rule does not provide a plaintiff with a unilateral right to a three month extension. 2. The Rule is not only for the benefit of the plaintiff, as identified in Oberg, but also the defendant. It is for the benefit of the defendant in that it establishes a further type of limitation period, over and above the Limitations Act, RSA 2000, c L-12, to know if one must prepare to defend against a claim and assemble a defence. The passage of time can make this more difficult. 3. The application must be supported by an affidavit or other evidence. See Rules 6.3 and 6.11. 4. The affidavit or other evidence should set out what attempts, if any, have been made to serve the defendant and explain the reason or reasons for the lack of service within the 12 months. This does not mean there is an absolute rule that some attempt to serve must be made before bringing an application under Rule 3.26. We agree with the observations of Master Smart at para 5 of Wardill that: “Simply put the evidence provided should state ‘why you need it and what have you done?’… It makes no sense to have a deadline for service within 12 months if extensions are granted as a matter of course with not even the barest threshold of evidence required.” 5. The purpose of the renewal cannot be a stalling tactic. 6. Prejudice to the defendant, if any, is a factor to consider. In Foster v. Robb, 2011 ABQB 776, 2011 CarswellAlta 2240, Justice Tilleman said, at paragraph 6: Rules 3.26–3.28 are similar to old Rule 11 and impose a strict and mandatory limit on service of a Statement of Claim. … In the course of giving his Reasons, his Lordship referred to the submissions of counsel, and in light of his above quoted comment, would seem to agree with them. He said at paragraph 4: 4 The Defendants Leslie Robb and South Rock Ltd. apply pursuant to Rules 3.26–3.28 to dismiss the Plaintiff's case against them. Their arguments are essentially the same. They cite the following principles developed under the old Rules and assert that those principles have been incorporated into the requirements of Rules 3.26–3.28: • failure to serve on time leaves the Court with little or no option: see Martinez v. Hogeweide, 1998 ABCA 34, 209 A.R. 388; • after the Statement of Claim expires, service is impossible: see Hansraj v. Ao, 2004 ABCA 223, 354 A.R. 91, at para. 63; • no relief from forfeiture flows where the Plaintiff fails to serve the Statement of Claim in time: see Hansraj, supra, at para. 66; • exceptions to the service rule are rare: see Hiep v. Cain, 2004 ABQB 876, 365 A.R. 366, at para. 25; and • for the rare exceptions, the onus is on the Plaintiff: see Hiep, supra, at para. 34. In Padget Estate v. Padget Estate, 2014 ABQB 750, 2014 CarswellAlta 2235, Madam Justice Greckol said, at paragraph 32: 32 In my view, the weight of authority indicates that extensions brought within a year of filing the statement of claim are dealt with under Rule 3.26 and do not engage the considerations applied under Rule 3.27. … 2. Multiple defendants In Bristol-Myers Squibb Canada Co. v. Grande Prairie (City), 2023 ABCA 294, the plaintiffs sought an extension of time within which to serve a statement of claim. The extension was granted by the learned Master (as the office was then known), and an appeal of that order was dismissed King's Bench Chambers. During the course of the appeal heard in King's Bench Chambers, the learned Chambers Justice “interpreted [Scott v. Westwinds Communities, supra] as requiring evidence with respect to the specific defendant for which the extension of time to serve is sought, with no exception for cases with multiple defendants.” The Court of Appeal ultimately dismissed the appeal from the King's Bench decision, but said: [15] This Court in Westwinds at para 37 set out general principles applicable to Rule 3.26 applications: a court has discretion in deciding whether to grant an extension; the Rule is for the benefit of both plaintiff and defendant; there must be an affidavit or other evidence which should set out what attempts, if any, have been made to serve the defendant and explain why there will be lack of service within the 12 months; the purpose cannot be to stall; prejudice to the defendant, if any, is a factor to consider. [16] The Court in Westwinds expressly stated that the requirement for affidavit evidence does not mean there is an absolute rule that some attempt to serve a defendant must be made before bringing an application under Rule 3.26. In fact, the Court in Westwinds upheld the extension decision in that case despite there having been no evidence of attempts to serve. [17] The Chambers Justice interpreted Westwinds as requiring evidence with respect to the specific defendant for which the extension of time to serve is sought, with no exception for cases with multiple defendants. [18] The Court in Westwinds cited, and did not reject, the reasoning in Oberg v Foothills Provincial General Hospital, 1999 ABCA 76 at para 14 to the effect that the purpose of the affidavit is to provide enough information from which it can be inferred that the application for renewal is not simply a delay tactic. There may well be cases in which a lack of evidence with respect to a specific defendant in a multi-defendant case would be fatal to an application under Rule 3.26. However, the Court in Westwinds did not consider that scenario, nor did it purport to impose a strict requirement in that regard. …. [21] The affidavit put before the Master in this case explained that service was being attended to in relation to 45 defendants during a global pandemic. It described the progress that had been made and steps that had been taken. While it did not specifically reference steps taken in relation to the Appellants, it was open to the Master and Chambers Justice to find on the record, as they did, that the delay in serving was not a stalling tactic and that there was nothing to suggest prejudice to the Appellants. It was also open to find that the evidence provided regarding “what had been done, what still needed to be done, and why an extension was necessary” sufficed to support the application. Such a finding does not amount to creation of an “exception” applicable in all cases with multiple defendants – each Rule 3.26 application must be assessed on its own particular facts. 3. Evidence is needed In Franssen v. Thule Towing Systems LLC, 2012 ABQB 657, 2012 CarswellAlta 2003, 84 Alta. L.R. (5th) 316, Master Laycock held that evidence is required in support of an application to extend the time for service. At paragraphs 30–33, the learned Master said: [30] I disagree with the plaintiff's argument that an order to extend time for service can be made without any affidavit evidence. Firstly, some rules specifically require an affidavit in an application: see for example rules 11.25(2) (service ex juris) and 11.28(2) (substitutional service). Many rules do not specifically provided for affidavit evidence when making an application to the court. For example, an application to amend pleadings pursuant to rule 3.62(1)(b)(I) requires the court's permission. The rule does not state that an affidavit is necessary, however the case law makes it clear that evidence is required unless the amendment is trivial, obvious or clerical: Wong (Guardian and Trustee of) v. Al-Hassan 2003 ABCA 366; Hodge v. Carey Industrial Services Ltd (1997) 202 A.R. 154; Firemaster Oilfield v. Safety Boss 37 Alta. L.R. (3d) 317. A few of the other rules that do not mention affidavits include: rules 2.15 and 2.16(3) (appointing a litigation representative), 3.5 (transfer an action), 4.22 (security for costs), 4.31 (dismiss for delay where prejudice), 4.33 (dismiss for long delay), 5.11 (order to produce a record), 5.12 (failure to file affidavit of records). All of these applications would also require affidavit evidence. In Lock v. Tussman 2001 ABQB 83, Master Funduk quote the Court of Appeal in Crown Life Assurance Co. v. A.E. LePage (Ontario), C.A. 8803-0459 A.C. October 3, 1989, “no evidence-no order”. [31] Secondly, the rule requires an application to the court, so the plaintiff does not get an extension as of right. Should the Rules Committee have wanted plaintiffs to have 15 months to serve the statement of claim, the rule would be different. Should the Rules Committee have wanted the matter to be perfunctory, a clerk could have been designated to grant an extension. [32] Thirdly, any application to the court requires the exercise of judicial discretion. As the court stated in Oberg, it is a low threshold but nonetheless facts must be presented for the court to exercise its discretion. [33] It is not sufficient for counsel to merely advise the court that service has not been effected in order to obtain an extension. It is also not sufficient for the deponent of the affidavit to merely state that they are applying for an order to extend time for service. The underlying purpose of the requirement to obtain leave of the court to extend time for service remains, as described by the Court of Appeal in Oberg in paragraph 10 (supra), “a need to balance the ease of meeting a plaintiff's needs with the prevention of undue delay”. I agree with Master Smart that the test remains the same as stated in Oberg. I disagree with Master Breitkruez's conclusion in Gangl[2010 ABQB 822] that it is enough to know that service has not been effected. In 681219 Alberta Ltd. v. 1335422 Alberta Ltd., 2015 ABQB 11, 2015 CarswellAlta 31 (Master), Master Prowse said, at paragraphs 21–23: [21] The threshold for obtaining an extension of time to serve a statement of claim is low. There is no need for the plaintiff to provide evidence as to why it was unable to serve during the first one year period. There can be other grounds for seeking an extension. [22] In this case, the plaintiff did provide an explanation as to why an extension was being sought, namely the need to file an amended statement of claim, and in my view that explanation meets the low threshold required. There was a reason for the delay, and no intention to stall is apparent. [23] The defendants have not established any prejudice arising from the granting of the extension. The fact that time for service would have expired but for the extension order is not considered prejudice to the defendant arising from the granting of the order."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_26_001",
+        "part3_part_3_court_actions_002",
+        "part3_rule_3_26_002",
+        "part3_part_3_court_actions_004"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "d625c96ef2330111edaad021fa8b6c4f9bf4d8762a1752978a98999395fe1e6f",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Time for service of statement of claim",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "e64f0ff1ff4b03d48d440f7bbdaa40f1c2c2d348521d698be6f34873ec244f80",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (2) ends 'The extension of time for service under this rule must not exceed' - the words '3 months.' are missing; Book C prints 'Division  months. .' where 'Division 3' should stand, in 3.25(d) and in 3.31(1)(b) (see those notes); whether that is connected to the missing '3 months.' is not shown by the file. Subrule (3) has the bracket label '[Variation of time periods]' after 'Rule 13.5' (matches the official title of 13.5). Subrule (1) equals the official text. The amendment note '[Alta. Reg. 124/2010, r. 3.26 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). No commentary is printed for 3.26 in Book C."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8082,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.26(1)-(3) (read by eye) except: 'one year time limit' where the official has 'one-year time limit' (hyphen missing); the bracket label '[Variation of time periods]' after 'rule 13.5' (matches the official title of 13.5); the footnote marker '1' before 'Information Note'; the title in title case ('Time for Service of Statement of Claim'); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No other difference. The Subdivision 2 heading printed before the title ('Subdivision 2 Time Limit for Service of Statement of Claim', p.3-71 line 1901) matches the official Subdivision 2 heading."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9868,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.26",
+      "title_official": "Time for service of statement of claim"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "85db46f9a5e03b020abd307034ba6548185e4a6498dc8830934f6da1502749dd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-71",
+            "3-74"
+          ],
+          "offset_in_clean_text": [
+            225542,
+            235990
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "d625c96ef2330111edaad021fa8b6c4f9bf4d8762a1752978a98999395fe1e6f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "e64f0ff1ff4b03d48d440f7bbdaa40f1c2c2d348521d698be6f34873ec244f80",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "f400d93eb2e8e7c69256c6f1d0d3d317548a8cf05bfcfcb76d9d6ddebad2f8f3",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            60
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e808c5bd4f4011c78569e35ca99b55a375e009a6f43e6ead9639aece24ea8ce5"
+  },
+  "information_notes": [
+    {
+      "text": "Throughout this Part there are references to service of pleadings and documents.Part 11 [Service of Documents] describes how commencement documents and other documents are to be served. Rule 13.4 [Counting months and years] describes how to count months and a year or years. If a litigation representative represents a party, service must be effected on the litigation representative.See rule 2.12(2) [Types of litigation representatives and service of documents] and rule 11.7 [Service on litigation representatives]. Court, defendant",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "truncated copy of Book A's information note: Book C prints only its first sentence ('Throughout this Part there are references to service of pleadings and documents.'); the rest of Book A's note ('Part 11 [Service of Documents] describes how commencement documents and other documents are to be served. Rule 13.4 [Counting months and years] describes how to count months and a year or years. If a litigation representative represents a party, service must be effected on the litigation representative. See rule 2.12(2) ... and rule 11.7 ...') is not in any Book C file (searched all Book C files for 'describes how commencement documents': no hit)."
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule11_part02_document.json (an 11.27 commentary: 'service was subsequently made after expiration of the time for service as set by R. 3.26(1)'), rule1_split_document.json (a rule 1.x commentary quoting 3.26 and Ball: 'Rule 3.26(3) specifically provides that Rule 13.5 does not apply' and 'Rules 3.26 and 13.5, along with Rule 3.27, provide a complete code'), and the other paragraphs of rule3_part03_document.json (the 3.27 and 3.28 commentaries cite 'Rules 3.26-3.28', 'Rule 3.26(2)', 'the R. 3.26 limitation period' many times; not read in this pass). BOOK_C 121-140 file (3.27 commentary: 'do not share the one-year time limit given under rule 3.26', 'Rule 3.27 has a higher threshold than that applicable to rule 3.26'; 3.29 text with the labels '[Time for service of statement of claim] [Extension of time for ...]'), 601-620 file (13.5 commentary: 'the time for service of a statement of claim under rule 3.26(3)'). BOOK_B 3.26: rule text (rule3_part03_document.json paragraph part3_part_3_court_actions_002) EXACT_MATCH with the official; no amendment note; one commentary section 'Commentary § 3.26:1' (12,187 characters, READ IN FULL): three numbered parts, no gap: 1 General (Urban Square Holdings Ltd. v. Del Fisher Insurance Inc., 2025 ABKB 54, on what 'service' means; Scott v. Westwinds Communities, 2021 ABCA 30, para 37, six principles; Foster v. Robb, 2011 ABQB 776; Padget Estate v. Padget Estate, 2014 ABQB 750), 2 Multiple defendants (Bristol-Myers Squibb Canada Co. v. Grande Prairie (City), 2023 ABCA 294), 3 Evidence is needed (Franssen v. Thule Towing Systems LLC, 2012 ABQB 657; 681219 Alberta Ltd. v. 1335422 Alberta Ltd., 2015 ABQB 11). Cautions: the Franssen quotation cites 'rule 3.62(1)(b)(I)' for amendment of pleadings and the Foster quotation compares 'old Rule 11' (decisions under earlier numbering); 12 months (the cases) and 'one year' (the rule) are the same period. BOOK_C 3.26: rule text CARRIER_MISSING_TEXT (dropped with note); amendment note agrees with the official; information note truncated (dropped with note); no commentary.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers; the citing rule from the marker lines): 3.27 note p.3-75 (line 2026) 'On the history, see Brousseau v. Janz Est., R.3.26n.' and (line 2034) 'the first year (R.3.27) is much tougher than for renewal within that year (R.3.26)' and 'the only effect of R.3.26(2) is to permit service within 15 months of a statement of claim being ...'; p.3-76 (line 2047), p.3-77 (lines 2088-2100) and p.3-78 (lines 2119-2121) 'waiver or acquiescence barring use of R.3.26', 'Waiver and estoppel and agreements to exclude R.3.26 are partly codified now in R.3.27'; 3.28/3.29 note p.3-79 (line 2149) 'A person served with a statement of claim should check to see if R.3.26 has been complied with. See R.3.29', (line 2165) the text of 3.29 with '[Time for service of statement of claim]' (title matches); p.3-81 (line 2201) 'The time to serve a statement of claim is set by R.3.26, and the time to serve a third party notice is set by R.3.45'; combined_rule11.txt p.11-5 (line 170) 'See further R.3.26 n. G' (lands), p.11-6 (line 177) related provision '3.26 (time to serve statement of claim)', p.11-57 (line 2842) a note on waiver of R.3.26 and s.315(1) of the Insurance Act; combined_rule13.txt p.13-20 (line 950) 'the time for service of a statement of claim under rule 3.26(3) [Time for service of statement of claim]', p.13-21 (line 999) 'such as R.3.26 or R.3.15(2)', p.13-94 (lines 4878-4879) related provisions '3.26 (time for service); 3.28 (effect of not serving)'; combined_rule4.txt p.4-3 (line 71) 'R.3.26 requires that the statement of claim be served within one year of issue', p.4-119 (line 6441) 'It overcame R.3.26 and non-service, in Virji v. Kramer 2003 ABCA 145'. These other notes were not read in full in this pass.",
+    "OFFICIAL text (searched for 'rule 3.26', 'rules 3.26', lists, line-wrapped forms and form headings): rule 3.29 ('If a statement of claim is served within an extension of time for service permitted by the Court under rule 3.26 or rule 3.27, when it is served the statement of claim must be accompanied with (a) a copy of the order granting the extension, or (b) written notice of the order'); the other hit is the running page header 'Rule 3.26'; no form heading names it. By subject (read): 3.27 (extension of time for service), 3.28 (effect of not serving statement of claim in time), 13.5 (variation of time periods; 3.26(3) excludes it), 13.4 (counting months and years), 3.76(2)(b) (new defendant: the action starts on the date added), 11.27-11.29 (validating, substitutional, dispensing with service), 3.31 (statement of defence), 3.45 (third party notice: Book A's 3.27 note)."
+  ],
+  "dedupe_log": [
+    "3.26 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.26 BOOK_C: rule text dropped (manual review)",
+    "3.26 BOOK_C information note dropped (manual review)",
+    "3.26 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.26 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

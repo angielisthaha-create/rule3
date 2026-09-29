@@ -1,0 +1,353 @@
+RULE 2 THREE-BOOK RECONCILIATION - WORKFLOW AND QA POLICY
+Skill: arc-rules-production-lifecycle, mode SOURCE_RECONCILIATION (no graph writes)
+
+1. SOURCES
+   OFFICIAL  Alberta_Rules_of_Court.txt (from the King's Printer PDF, current to 1 Jun 2026) - controls the rule text
+   BOOK_A    combined_rule2.txt (annotated: info notes, related provisions, commentary, history footnotes)
+             + the other Parts (full book, uploaded 28 Sep 2026): "combined rule1.txt", "combined rule3.txt",
+             combined_rule4..13.txt, "combined rule14.txt", "combined rule15.txt" - used for cross-Part checks
+   BOOK_B    rule2_part01/02_document.json (Fradsham, Alberta Rules of Court 2026: rule text + case commentary)
+   BOOK_C    81-100 / 101-120 json (annotated pp. 81-120; badly extracted)
+
+2. OUTPUT
+   rule2_subrules/<rule>.json  one file per subrule (2.1 ... 2.32)
+   rule2_subrules/_index.json  shared source registry, normalization profile, part-level notes
+   rule2_subrules/REVIEW_NOTES.txt  manual findings, rule by rule
+   tools/build_rule2_reconciliation.py  builds the files (other tools: section 7)
+
+3. WORKFLOW (per subrule, one at a time)
+   Step 1  BUILD      Script extracts each source, compares book wording to the official text, removes exact duplicates.
+   Step 2  READ       Reviewer opens the subrule's JSON and the raw text of all four sources side by side, by eye.
+   Step 3  COMPARE    For each book: rule text, title, information note, related provisions, commentary,
+                      footnotes/cases, amendment note. Confirm that nothing is missing, that nothing belongs to another
+                      rule, and that nothing is garbled.
+   Step 4  DECIDE     For each Book C / Book A defect, decide: keep, correct, flag, or drop.
+                        keep    - accurate and adds something no other book has
+                        correct - the right value can be read from the source itself (e.g. case names re-paired from
+                                  the book's own commentary text)
+                        flag    - kept but unreliable (typo, lost pinpoint, no authority cited, meaning reversed)
+                        drop    - garbled or duplicate AND adds no new information; replaced by a one-line note saying
+                                  what was dropped and why (never silently)
+   Step 5  RECORD     The decision is written into the script's manual tables, so every rebuild repeats it:
+                        MANUAL_BOOK_C       Book C: drop_rule_text, drop_citations, drop_one_citation (one citation,
+                                            with its reason in dropped_citation_notes), drop_commentary, drop_c_note,
+                                            drop_note_variant, rescue_misattributed, citation_names, citation_notes,
+                                            add_citations, add_commentary_citations, keep_citations_note,
+                                            commentary_flag, note_flag, amendment_note_flag
+                        MANUAL_TEXT_NOTES   Book A/B raw rule text whose differences are editorial only
+                        MANUAL_BOOK_A_FOOTNOTE_FLAGS, MANUAL_NOTE_FLAGS   flags on Book A footnotes and on dropped notes
+                        MANUAL_SEE_ALSO     cross-references to this rule found in other rules' commentary
+                        MANUAL_BOOK_A_COMMENTARY_FLAGS   flags on Book A commentary (e.g. wrong rule reference)
+   Step 6  REBUILD + VALIDATE  Rebuild; confirm the gate record passes validate_three_book_gate.py:
+                      python3 tools/build_rule2_reconciliation.py; source tools/qa_display_helpers.sh; gate_all
+                      (all 32 must print "valid": true).
+   Step 7  RE-READ    Open the rebuilt file and confirm each decision landed as intended (fields, notes, flags).
+   Step 8  LOG + COMMIT       Update REVIEW_NOTES.txt (one "[Nth pass]" line per rule: python3 tools/edit_helpers.py
+                      review-line 2.x "[Nth pass] ..."), the STATUS in section 5, and README.txt if the pass count
+                      changes; commit and push with a message naming the rules and the pass.
+
+   Rules that never bend: the official text controls; no majority vote between books; no silent merging;
+   every dropped item leaves a note; three-book agreement is not proof of current law.
+
+3A. QA CHECKLIST (tick every line for every subrule)
+   Rule text
+   [ ] Official text read; amendment history noted (Part 2 amendments: 2.11, 2.13, 2.14, 2.23 only).
+   [ ] Each book compared by eye, not only by comparison status. Brackets can hide content (2.14 B clause (e)).
+   [ ] Real wording variants recorded even if meaning is the same (2.32 practice/practise, 2.23 ";" vs ",").
+   Book A
+   [ ] Title, information note, related provisions (lists may wrap over blank lines or pages), commentary.
+   [ ] Commentary starts and ends where the source does; nothing from the next rule; no DIVISION headings.
+   [ ] Footnotes numbered consecutively on every page; first footnotes on a page may belong to the previous rule.
+   [ ] "[Footnote N continued from prior page]" text joined to footnote N of the previous page.
+   [ ] History footnote present where the rule text carries a superscript; check typos (2.5 "914", 2.1 "Edm 703").
+   [ ] Short-form case references ("supra", "infra", "ibid.") resolved to the full cite elsewhere in the same book
+       and recorded in a flag; check the direction is right (2.7: "supra" pointed to a later cite).
+   [ ] When "supra"/"infra" looks wrong, look for a second full cite of the same case (2.24: R. T. v. R. is cited in
+       full twice, so "infra" was right) and for two decisions under one name (2.24: Can. S. Petr. 1997 and 1998).
+   [ ] Every rule or subrule number in commentary is checked against the official text, including internal "Part X
+       below" references (2.24 "Part C" = Part D; 2.29 cites "R.2.29(1)(c)", which does not exist).
+   [ ] Counts written in REVIEW_NOTES (footnotes, sections) are re-counted from the file (2.22 said 41, is 37;
+       2.24 said 111, is 106 - the 107 written then was itself off by one, corrected in the 8th pass).
+   [ ] Search the other rules' commentary for references to this rule ("R.2.N", "Rule 2.N"); record in see_also.
+       Check each hit makes sense - a wrong reference is a typo to flag in the citing rule (2.27 "R.2.2" = R.2.22).
+       Include the Part 3 pages in Book C's second file (2.10: rule 3.17's information note cites rule 2.10).
+   Book B
+   [ ] Commentary sections match the source's "Commentary § 2.N:k" headers (12 in Part 2).
+   [ ] Each commentary ends at the same sentence as its source paragraph.
+   [ ] Long commentary: its numbered sections run without gaps (1..N, then (a),(b)...). Headings may begin with a
+       quotation mark (2.6: 7. "Same Interest"..., 9. "Numerous Persons"), so a missing number is checked in the source.
+   [ ] Amendment note split from the rule text; citation style ("Alta. Reg.") is not a wording difference.
+   Book C (assume damaged until shown otherwise)
+   [ ] Rule text: cut off? words displaced? numbers or Form numbers replaced by citations?
+   [ ] Every citation: is it about THIS rule? Search Book C for the same case - if it recurs under another
+       rule or Part 3, it is displaced (2.6, 2.9 -> 2.10 cases; 2.28, 2.29 -> Part 3 venue cases).
+   [ ] Case names match their citations (2.10, 2.11, 2.15, 2.21 were scrambled); re-pair only from the
+       book's own text or another book - never from memory. A re-paired name must be the name AS PRINTED in the
+       book; check each curated name against the source (2.21: "Padget Estate v. Padget Estate" had been changed
+       to "Padget Estate (Re)" - fixed in the third pass).
+   [ ] Information note: same words but reordered can reverse the meaning (2.11). Read it as a sentence.
+   [ ] Amendment note: cross-check against the official history (2.15 misattributed); look for stray text after it.
+   [ ] Division heading vs official (C files 2.11-2.21 under Division 1).
+   Decisions
+   [ ] Same defect type -> same decision as earlier rules (e.g. a note that only adds the Act citation is
+       dropped in both 2.7 and 2.8).
+   [ ] Nothing inferred: no expanded case names, no assumed relevance (Bidell 2017 ABQB 76: its home rule cannot be
+       shown, so since the 5th pass it is dropped - with a full note - in 2.2, 2.14 and 2.23 alike); corroboration
+       named when used (e.g. Van Vuong named from Book A fn 1).
+   [ ] Unique, accurate Book C content kept (2.5, 2.8, 2.11, 2.15, 2.17, 2.21 commentary; 2.23 case list).
+   Record
+   [ ] Partial checks stated honestly in REVIEW_NOTES (e.g. long commentary checked by structure, start/end and
+       footnote numbering, not sentence by sentence).
+   [ ] Display commands may be used to VIEW fields; no command decides that a rule passes.
+
+3B. EXTRA CHECKS ADDED BY THE FOURTH PASS (2.1-2.10)
+   [ ] Re-verify every flag written by an earlier pass - flags can be wrong too. The 4th pass found wrong 3rd-pass
+       flags in 2.7 (C.H.S. resolved to one of three decisions), 2.9 (Spring, T.L. and a wrong page number) and 2.10
+       (Univ. of Alta.). A "supra/infra is wrong" flag needs: no full cite of the same decision on the other side,
+       anywhere in the book - search by citation (e.g. "2006 ABQB 104"), not only by name.
+   [ ] Quotes in see_also/notes are complete: a partial quote can change the meaning (2.2: "to an individual
+       defendant" omitted "It now extends to a plaintiff").
+   [ ] Comparisons between rules state the differences too (2.4 vs 2.5 notice to disclose: not "the same procedure").
+   [ ] Search the WHOLE official text for references to the rule, including line-wrapped "rule / 2.x" (2.3: rule
+       9.23(2)-(3) names rule 2.3).
+   [ ] Rule numbers and titles quoted in information notes and related provisions are checked against the official
+       table of contents (all matched for 2.1-2.10).
+   [ ] Long commentaries are read in full, not only by structure (A 2.9, A 2.10, B 2.6, B 2.10 read in the 4th pass;
+       new typos found in A 2.9 and 2.10).
+   [ ] Statements in the books about what a rule says (and kept Book C statements) are read against the official
+       text: 2.18 A "2.19 ... in trust or estate proceedings" (2.19 is general); 2.11 fn "2.14(2)(f)" (costs is (g));
+       2.17 C "the defendant may pay" (only for a court-appointed lawyer; "the parties").
+   [ ] Every name or citation in a garbled Book C passage is accounted for in a note, even a bare name with no
+       citation (2.11: "Morrow v. Zhang"); and a note never names a case Book C does not print without saying where
+       the name came from (2.11: 2008 ABCA 192 named only by Books A and B).
+   [ ] Official cross-references are searched in three forms: "rule 2.x" (incl. line-wrapped), Division-level
+       ("Part 2, Division 4" in 14.82(a) = rules 2.24-2.32), and form headings, including subrule headings ("[Rule 2.14]" Form 1, "[Rule 2.14(1)(b)]" Form 2 - missed by the 4th pass pattern, "[Rule 2.28]"
+       Form 3, "[Rule 2.29]" Form 4).
+   [ ] Every page/footnote reference written in a note is checked against the page markers in the source (the
+       4th pass wrote p.2-22 for p.2-23 and p.2-28 for p.2-27 in 2.10).
+       Markers differ by file: "N-NN" line at the top of the page in Book A Parts 1, 2, 4-15; "**PAGE N" at the
+       top of each page in the Part 3 file (7th pass found 17 Part 3 references one page early).
+   [ ] Search patterns are written to catch variants (subrule headings like "[Rule 2.14(1)(b)]", line wraps),
+       and a claim like "the only references" is re-checked whenever a search is widened (5th pass: Form 2 missed).
+   [ ] Official rules on the same SUBJECT are searched, not only rules that cite the number (6th pass: 3.62(6)
+       class-proceeding amendments, 10.32 representative-action costs, 4.12(3), 14.14(2)(f), Part 14 intervenor rules,
+       Appendix definitions of trustee / personal representative / partnership - none cite 2.x by number).
+   [ ] With the full Book A: search every other Part for references to the rule ("R.2.x", "Rule 2.x", line-wrapped
+       forms, and bare related-provision entries "2.x (label)"), and check every cross-Part pointer ("see R.3.68 n. C")
+       lands on matching text. Claims like "nothing else cites 2.x" must say which files were searched (2.20 and 2.30
+       were wrongly called uncited; that was true only of the Part 2 extract).
+   [ ] Where commentary quotes a rule, the quotation is compared word by word with the official text (10.32 in B 2.6).
+   [ ] Notes state evidence, not guesses about causes: "moved by extraction", not "italics moved"; "stands where a
+       number should be" (seen in the text), not "may be the source of" (not shown).
+   [ ] A note may say a displaced item is "unrelated" only if the sources show it; otherwise say its connection
+       cannot be shown (2.27: a bare statute citation no source names).
+   [ ] Cross-book corroboration is recorded when the same case appears in two books (e.g. Paterson v. Hamilton in
+       A 2.1 fn 5 and B 2.1; C 2.10 names confirmed by A and B).
+
+3C. EXTRA CHECKS ADDED BY THE SEVENTH AND EIGHTH PASSES
+   [ ] Every page, footnote number and line number written in a note is re-checked, not only new ones: list them
+       with tools/extract_note_refs.py, then find each with fn_pages / pg / pg3 (8th pass: all ~100 checked).
+   [ ] Counts are re-counted from the file and the arithmetic of any per-page list is re-added (2.24: the note said
+       107 while its own per-page list summed to 106).
+   [ ] "[Footnote N from prior page]" means footnote N's reference mark is on the PREVIOUS page; cite both pages
+       (2.30: R.11.17 fn 4 is marked on p.11-22 and printed on p.11-23).
+   [ ] Before calling a printed form a defect, count it across the whole book (book_count): Book A's '(#_)' occurs
+       448 times - a convention for an unnumbered decision in a series, not a lost number.
+   [ ] Every "Related Provisions" label is read against the official title AND the official text of the rule it
+       names (related_labels, official_title, official): a label can name the right rule but misdescribe it
+       ('3.36(2) (noting litigation representative in default)' - 3.36(2) restricts default judgment).
+   [ ] Book A pointers into other Parts are checked for SUBJECT, not only that the target exists
+       (R.8.8 'R.2.4n' = R.2.24n; R.10.32 lists '2.61' = 2.6; R.11.15 '2.3' = 11.3).
+   [ ] Line-wrapped references in other Parts are searched separately (wrapped_refs): "See R." at a line end
+       with "2.30." on the next line is missed by single-line searches.
+   [ ] A pass that corrects an earlier pass says so in the note ("CORRECTED in the 8th pass ...") and in 4A, and the
+       wrong statement is replaced, not left beside the correction.
+
+4. WHY THE QA MUST BE MANUAL (scripts build, a person checks)
+   The scripts could not detect these errors, found only by reading:
+   - 2.11  Book C info note words shuffled -> meaning reversed ("would apply if a not ..."). Same words as the
+           correct note, so a word or similarity check scores it as a match.
+   - 2.10  Book C case names paired with the wrong citations (Suncor labelled "R. v. McKee", R. v. Neve labelled
+           "Grant Thornton"). Every citation is well formed; only a reader sees the pairing is wrong.
+   - 2.6 / 2.9  Book C citations that belong to rule 2.10, dropped into other rules by extraction. Only knowing
+           what each case is about shows they are displaced.
+   - 2.15  Book C amendment note for 2.15 actually belongs to 2.14.
+   - 2.14  Book B's repealed clause (e) looked "missing" to the comparison (bracket normalization); it is present.
+   - 2.5   Book A history footnote repeats 2.4's note with a typo ("914" for "1914").
+   - Book A extraction faults (found only by reading, then fixed in the build): related-provisions lists cut off
+     at a blank line, footnotes attached to the wrong rule, footnotes continued on the next page, division
+     headings leaking into commentary.
+   Scripted checks reported these as "complete" or "matching". A comparison score says the text is similar,
+   not that it is right. Legal meaning, case-to-citation pairing and rule attribution need a human reader.
+
+   Scripts are still used to BUILD the files and to re-apply recorded decisions. They are not used to PASS
+   a rule: a rule is accepted only after Steps 2-4 have been done by reading.
+
+4A. THE MANUAL THIRD PASS IS MANDATORY
+   Every subrule needs three manual passes: first read, second pass (all fields, corrections recorded), and a
+   third pass against the 3A checklist. A rule is not final until its third pass is recorded in REVIEW_NOTES.txt.
+   Reason: after two manual passes, the third pass still found issues and still changed files in every rule
+   done so far (2.1 - 2.10):
+   - 2.1  Book A court file number typo ("Edm 703"); cross-reference from 2.6 not yet recorded.
+   - 2.2  a Book C note that assumed relevance (Bidell) - reworded; typo found in 2.27 ("R.2.2" for R.2.22).
+   - 2.6  earlier note under-described Book B (sections 7 and 9 missed by a search pattern) - corrected.
+   - 2.7, 2.9, 2.10  "supra"/"infra" references pointing the wrong way (about 20 in total) - resolved and flagged.
+   - 2.10 case-name spelling inconsistency (Pedersen/Pederson); a reference to 2.10 found in Book C's Part 3 pages.
+   - 2.3-2.10 cross-references ("see also") to related rules that the earlier passes had not recorded.
+   The third pass of 2.11 - 2.32 found new data or note errors in 7 of 22 rules (2.11, 2.16, 2.21, 2.22,
+   2.23, 2.24, 2.29) and added cross-references to every file:
+   - 2.21 a curated case name that no book prints ("Padget Estate (Re)") - an error made in the 2nd pass - restored.
+   - 2.22, 2.24 footnote counts in REVIEW_NOTES were wrong (41 -> 37, 111 -> 107, and 107 -> 106 in the 8th pass).
+   - 2.11, 2.16, 2.24, 2.29 wrong rule/part references in Book A commentary (flagged).
+   - 2.23 "supra" pointing the wrong way (Fortin); 2.24 an ambiguous "infra" (two decisions of one case).
+   The FOURTH pass of 2.1 - 2.10 still found and fixed issues in 8 of 10 rules (only 2.1 and 2.8 had no error),
+   including errors in the third pass's own flags (2.7, 2.9, 2.10), an incomplete quote (2.2), an overstated
+   comparison (2.4/2.5), a missed official-text reference (2.3) and new Book A typos (2.6, 2.9, 2.10). So a pass
+   that "finds nothing" is not yet in sight; every pass must re-check the previous pass's conclusions, not only
+   the sources.
+   The fourth pass of 2.11 - 2.20 found and fixed errors in 5 of 10 rules (2.11, 2.13, 2.17, 2.18, 2.19);
+   2.14 and 2.15 only gained cross-book links / a caution; 2.12, 2.16, 2.20 were clean. The errors were: wrong or
+   overstated see_also statements (2.11, 2.13), a silently dropped name (2.11), and Book A / Book C statements that
+   misdescribe the official rules (2.11, 2.17, 2.18/2.19). Again, errors in earlier passes' own notes.
+   The fourth pass of 2.21 - 2.32 found new items in 5 of 12 rules: Book A statements or references that do not
+   match the official rules (2.22 related provision 11.22; 2.24 fn 12 "Part C"; 2.29 "no leave in civil cases" vs
+   2.31), an over-confident Book C note (2.27 "unrelated"), and official cross-references missed by every earlier
+   pass (14.82(a) Division 4; Forms 1, 3, 4 headed [Rule 2.14/2.28/2.29]; Form 2 [Rule 2.14(1)(b)] was found only in the 5th pass). 2.25, 2.26, 2.30, 2.31, 2.32 had no error.
+   The FIFTH pass of 2.1 - 2.10 still found errors in 3 of 10 rules (2.2, 2.8, 2.10; plus a new Book A flag in 2.2):
+   two wrong page numbers in the 4th pass's own notes (2.10), an "unrelated" claim that was partly false (2.10:
+   Grant Thornton is an intervenor case), and two guesses stated as notes (2.2 Bidell "may be the source", 2.8
+   "italics"). The 3B checks added during 2.11-2.32 had not yet been applied to 2.1-2.10 - applying new checklist
+   items back to earlier rules is itself a reason for another pass.
+   The fifth pass of 2.11 - 2.20 found errors in its own earlier notes in 2 rules (2.11: 'only official references'
+   claim; 2.14: a missed form heading and an imprecise cross-book statement) and new Book A/B statements that
+   misdescribe the official rules in 4 rules (2.11, 2.14, 2.15, 2.16); evidence was added to 'displaced' notes in
+   2.11-2.13; 2.17-2.20 had no error.
+   The fifth pass of 2.21 - 2.32 found no wrong page references, but reworded three notes that stated conclusions
+   without evidence (2.23 'unrelated' Chutskoff; 2.28/2.29 'not about'), found one inconsistent decision (Bidell kept in
+   2.2/2.23 but dropped in 2.14 - now dropped in all three), and one new Book A statement flag (2.22 vs 2.23(4)).
+   The sixth pass of 2.1 - 2.10 found no wrong page reference and one over-confident word ('plausible', 2.5), but a
+   whole class of missed official cross-references: rules on the same subject that do not cite the rule number
+   (added to 8 of 10 rules). Each new kind of search has found something the earlier passes could not.
+   The sixth pass of 2.11 - 2.32, with the full Book A, found two claims that were true only of the Part 2 extract
+   (2.20, 2.30 'uncited'), a third mis-aimed 'Part C' pointer (R.8.17), a Book A slip in another Part ('2.3' for
+   11.3), statements to read against official 10.47 and 2.27(1), ~40 reverse links, and confirmed 4 cross-Part
+   pointers. Quotations of rules in Book B (1.9, 2.22, 2.23(2)-(3), 2.29(2)) match the official text.
+   The seventh pass of 2.1 - 2.10 applied the full-Book-A searches: ~55 reverse links from Parts 1, 3, 5-11, 13, 14;
+   all 6 of these rules' cross-Part pointers verified; two mis-aimed pointers found in other Parts (R.7.1 'R.2.1';
+   R.8.8 'R.2.4n', probably R.2.24n). Limit: the Part 3 file interleaves text and footnotes, so some Part 3
+   footnote anchors cannot be tied to their sentences.
+   The seventh pass of 2.11 - 2.32 found the Part 3 file opens each page with '**PAGE N', so 17 Part 3 page
+   references from the 6th/7th passes were one page early (fixed: 3-51, 3-57, 3-69, 3-71, 3-87, 3-135, 3-213,
+   3-221, 3-231, 3-243). New: R.10.32 lists '2.61 (representative actions)' = 2.6 (flag); R.5.3 lists 2.8;
+   Paget v. Paget [sic] (Re Padget Est.) 2014 ABQB 750 (same file as 2015 ABQB 515) in Parts 3 and 9.
+   Every other-Part page cited in the notes was re-checked against the page markers.
+   The eighth pass of 2.1 - 2.10 re-checked every p.2- page, footnote number and line number cited in these
+   rules' notes (about 50) - all correct - and searched all Parts for line-wrapped references (one, already
+   recorded). Book A's '(#_)' for Macaronies 2022 ABQB 143 was first noted as a flag, then found to be the book's
+   convention (448 uses) in the 8th pass of 2.11 - 2.32 - now a note, not a flag;
+   2.8's R.5.3 label completed.
+   The eighth pass of 2.11 - 2.32 re-checked every page/footnote/line reference and re-counted footnotes:
+   2.24 has 106 footnotes, not 107 (an earlier correction was itself off by one); Book A's '(#_)' is a
+   book-wide convention (448 uses), so the 2.9 flag became a note; the label '3.36(2) (noting litigation
+   representative in default)' (2.11, 2.12, 2.16, 2.19) is loose against official 3.36(2); 2.18's label for 2.19
+   is narrower than the rule; R.11.17 fn 4 ('See R.2.30') pinned to p.11-22.
+   Every rule 2.1 - 2.32 has now had four manual passes, and the fourth pass still found errors in most blocks, so
+   the manual pass stays mandatory for any further change.
+   Each third pass also improved this checklist (cross-reference search, section numbering, supra/infra
+   direction, Part 3 pages). Until a third pass finds nothing, the third pass stays mandatory for every rule,
+   and the checklist is updated whenever a pass teaches something new.
+
+5. STATUS
+   Second manual pass done (all books, all fields, corrections recorded): 2.1 - 2.32 (all rules)
+   Third pass (checklist 3A): 2.1 - 2.32 (all rules)
+   Fourth pass (checklist 3A + 3B): 2.1 - 2.32 (all rules)
+   Fifth pass: 2.1 - 2.32 (all rules)
+   Sixth pass: 2.1 - 2.32 (all rules); 2.11 - 2.32 used the full Book A (Parts 1-15, uploaded 28 Sep 2026)
+   Seventh pass: 2.1 - 2.32 (all rules; full-Book-A searches, subject check of every reverse pointer, page re-check)
+   Eighth pass: 2.1 - 2.32 (every page/footnote/line reference re-checked; line-wrapped cross-Part search; labels)
+   Open items:
+   - Bidell Equipment 2017 ABQB 76 (Book C 2.2, 2.14, 2.23): home rule cannot be shown from the sources; dropped
+     in all three with a note (5th pass). Reinstate only if someone checks the judgment itself.
+   - Gauchier 2014 ABCA (Book C 2.10): neutral citation number lost. The full Book A cites only 2012 ABQB
+     513/514 and 2013 ABQB 713, not a 2014 ABCA decision, so it cannot supply the number.
+   - Longest commentaries: A 2.22, 2.23, 2.24 (3rd pass) and A 2.9, 2.10, B 2.6, 2.10 (4th pass) were read in full.
+     B 2.22 (~28k) was read in full in the 4th pass, so every long commentary has now been read in full.
+   - Book A wrong or loose references flagged, not corrected (need the book's editor or a reader's judgment):
+     In Part 2: 2.11 fn "R.2.15" (probably 2.14); 2.11 fn "2.14(2)(f)" (costs is (g)); 2.16 "Rr.2.13-2.15";
+     2.24 "Part C" (probably D); 2.27 "R.2.2" (probably 2.22); 2.29 "R.2.29(1)(c)"; 2.6 label "2.16 (unborn or
+     unascertained clauses)"; 2.7 label "3.62(b)"; 2.22 label "11.22"; label "3.36(2) (noting litigation
+     representative in default)" under 2.11, 2.12, 2.16, 2.19; 2.18's label "2.19 (settling estate litigation)".
+     In other Parts, pointing into Part 2: R.7.1 "impact of R.2.1" (subject does not match); R.8.8 "R.2.4n"
+     (probably R.2.24n); R.8.17 fn 4 "R.2.24 n. C"; R.10.32 lists "2.61" (= 2.6); R.11.15 lists "2.3 (contract
+     providing for service)" (probably 11.3).
+   - Book A and Book C titles/editions are not stated in their files.
+   - Print vs extraction typos (e.g. 'Represennted', 'Hirsekoro') can only be settled from the PDF pages of the books.
+   - Book B 2.10 pointer 'Costs for Intervenors' under Rule 10.31: unverified (only Part 2 of Book B supplied).
+
+6. APPLYING THIS TO OTHER PARTS
+   Before starting Part 3+: copy tools/build_rule2_reconciliation.py and adapt RULES, source paths, OUT_DIR and the
+   parsers; ask the user for that Part's Book B and Book C files (only Part 2 of B and pp. 81-120 of C are in the
+   repo; all of Book A is). Build, then follow the pass plan in 6A. Expect Book C's pages to
+   mix commentary from neighbouring rules; keep a list of displaced cases found, since they turn up again in the
+   rule they belong to (Part 3 venue cases already seen in 2.28/2.29).
+
+6A. PASS PLAN FOR NEW PARTS (target: 3 passes; budget: 5; Part 2 took 8)
+   Why Part 2 needed 8 passes - the errors fell into three groups:
+     (1) Missing instructions - most findings of passes 4-8 (form headings with subrules, subject search,
+         complete quotes, labels vs rule text, line-wrapped references, counts, Part 3 page markers, the '(#_)'
+         convention). Now covered by checklists 3A, 3B and 3C, so they should be caught in pass 1.
+     (2) Late sources - passes 6-7 existed mainly because the full Book A arrived mid-project.
+     (3) Errors made by the passes themselves - wrong pages (6th pass, Part 3), wrong counts (107 for 106),
+         a wrong flag ('(#_)', reversed in the 8th pass), guesses. A checklist does not prevent these; only a
+         separate verification of every written claim does.
+
+   Before pass 1
+     - Have ALL sources in the repository: the official text, the full Book A, and Book B and Book C for the
+       Part (ask the user; do not start with partial sources).
+     - Adapt and run the builder; confirm gate_all passes.
+
+   Pass 1 - full read (Steps 2-8 per rule, checklists 3A + 3B + 3C applied from the start)
+     WRITE-AFTER-SEARCH RULE: no page, footnote, line number, count, or 'only'/'uncited'/'unrelated'/'wrong'
+     claim goes into a note until the search or lookup has been run (pg, pg3, fn_pages, reverse_refs,
+     wrapped_refs, book_count, official) and its result is what the note cites. Never type a page or count
+     from memory. A claim like 'uncited' names the files searched.
+
+   Pass 2 - verification of what pass 1 wrote (not a re-read of the sources)
+     - List every page/line reference in the notes (tools/extract_note_refs.py) and check each one.
+     - Re-add every count and per-page list.
+     - Re-check every flag by citation (search the neutral citation, not only the name).
+     - Re-read every 'CORRECTED' note: the wrong statement must be gone, not left beside the correction.
+
+   Pass 3 - confirmation, only if pass 2 changed anything
+     Repeat the pass 2 checks on the rules pass 2 changed.
+
+   STOPPING RULE: stop when a full pass finds nothing material (no changed fact, page, count, flag or
+   attribution; wording-only edits do not count). Record 'pass N found nothing material' in REVIEW_NOTES
+   for each rule and in section 5.
+   When a pass meets a new kind of error, add it to checklist 3C first, then re-check all rules for that
+   kind only - a targeted check, not a full new pass.
+   Caveat: each pass is longer now that the checklist is longer, and a new Part may show an error type
+   no checklist has met yet; expect about 3 passes, not a guaranteed number.
+
+   5-PASS BUDGET (use when pass 2 or 3 still finds material errors, or for a first Part done by a new LLM):
+     Pass 1  full read (as above), within-Part checks only.
+     Pass 2  cross-Part and official-subject searches for every rule (reverse_refs, wrapped_refs, ref_pages,
+             official by subject, labels vs official text) - separated because in Part 2 this work alone
+             produced most findings of passes 6-8.
+     Pass 3  verification of everything passes 1-2 wrote (as pass 2 above).
+     Pass 4  targeted: every rule re-checked ONLY for the error types found in passes 1-3 (add them to 3C first).
+     Pass 5  confirmation; the stopping rule applies. If pass 5 still finds material errors, record why in 4A
+             before adding a pass.
+
+7. TOOLS (all in tools/; none of them decides anything - they build, display, validate or insert text)
+   build_rule2_reconciliation.py  builds rule2_subrules/*.json from the sources plus the MANUAL_* tables
+   validate_three_book_gate.py    gate validator (copy of the skill's script)
+   qa_display_helpers.sh          source it, then: gate_all, pg (page of a match, Parts 1-2, 4-15), pg3 (Part 3),
+                                  rule_at, reverse_refs, ref_pages, official, official_title, fn_pages,
+                                  wrapped_refs, related_labels, book_count, pretty_sources
+   show_rule_notes.py             prints a rule's see_also and every flag/note field for reading
+   extract_note_refs.py           lists every page/line reference written in the notes, to check by hand
+   edit_helpers.py                records decisions: see-also, replace (exact, once), review-line, status;
+                                  refuses when its anchor is not unique
+   skill/arc-rules-production-lifecycle/   the method (SKILL.md, references/), also as "skill (4).zip"
+   scratch/                       reading copies of Books B and C and the 8th-pass reference lists (see its README)

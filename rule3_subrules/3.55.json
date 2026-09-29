@@ -1,0 +1,220 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.55",
+  "title": {
+    "official": "Application of rules to third party claims",
+    "variants": {
+      "BOOK_A": "Application of Rules toThird Party Claims"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.55   Except when the context or these rules otherwise provide, a\nrule that applies to or in respect of\n(a) a plaintiff applies equally to or in respect of a third party\nplaintiff,\n(b) a defendant applies equally to or in respect of a third party\ndefendant, and\n(c) a pleading related to a claim made by a statement of claim\napplies equally to or in respect of a pleading related to a\nthird party claim.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "5973afe6c9976201343d7c4f6bf70b9f3fe3ce95cb6d5c3d22f31b0ad0ccce07"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.55 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nSubdivision 7: COUNTERCLAIMS"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          71,
+          72
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Application of Rules toThird Party Claims",
+      "operative_text_raw": null,
+      "operative_text_sha256": "b4075854b25929f5efdbe453e248e557e9c2847bc1c63eda286f4f454c4e28f3",
+      "defined_terms": "defendant, plaintiff, pleading, rules, third party defendant, third party plaintiff A third party notice is a pleading, and must recite facts giving a cause of action, just as a statement of claim must. Part of a third party notice raising a claim outside the limitation period shouldbe \"struck.\" Another part shown by affidavit to be hopeless should be struck too. Third party notices can be summarily dismissed. But it takes a clear case to strike out a third party notice. A third party notice can be struck out if it does not disclose a cause of action by the defendant against the third party. The tests would be those under R.3.68.Presumably the court would also strike it out if it violated R.3.45 and no time extension were given. A grant of summary judgment, even on a third party notice, is entitled to considerable deference on appeal. The Rules on formal offers and double costs to successful defendants who beat their own offers, apply to third party notices and offers by third parties. Case law on whether a third party can counterclaim is unclear, but if he can, he has to name the person issuing the third party notice as a defendant by counterclaim.A counterclaim was struck for want of that. This Rule still appears not to allow an amendment to a counterclaimto add an extra plaintiff by counterclaim so far completely unrelated to the lawsuit. On costs, see R.3.46 n. *Subdivision 7 Counterclaims *Right to Counterclaim *",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-123",
+          "3-124"
+        ],
+        "offset_in_clean_text": [
+          391516,
+          394615
+        ]
+      },
+      "operative_text_note": "same wording as official 3.55(a)-(c) (read by eye) except: the text is printed in two pieces with footnote blocks after them (p.3-123 lines 3477-3478); the title in title case ('Application of Rules to Third Party Claims', printed before the rule number); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker is printed in the text. No substantive difference. The dropped raw text also held four footnote blocks printed after the rule text, kept here verbatim because Book A's footnotes are not split out: '2See furtherC.D.I.C. v.Prisco(CA) [1998] 3 WWR 256, 206 AR 290. 3Stolk v. 382779 Alta.2002 ABQB 360, 16 Constr LR(3d) 319 (contract excluded duty pleaded);MacKay v. *Farm Bus.Consult.2006 ABCA 316, 397 AR 301. 4Tollestrupv.Tollestrup(CA 1995) 178 AR 158.Only in special circumstances?Dechant v.McKechnie *Agy.(M) 1999 ABQB 734, 253 AR 14.Special circumstances were found, inCantafio v.St. Hilaire1999 ABQB 686, 249 AR 172. 5Al Scherbarth Prof.Corp.v. Clarica Life Ins.Co.(M) 2002 ABQB 52, 308 AR 197.One registering a mortgage under thePersonal Property Security Actowes no duty to later buyers to be correct and careful: *Rebel HeartWater Hauling v. Southside Equip.Sales2003 ABQB 226, 337 AR 286. 6Agrium v. Chubb Ins.Co. of Can.2002 ABQB 495, 318 AR 355.See other cases under R.3.45's commentary,supra. 7Wenzel (Grey) v.Desanti2011 ABCA 226, 46 Alta LR(5th) 421. 8Can.Trustco Mtge. Co.v.Karpa (#2)2001 ABQB 734, 302 AR 173. 9A.-G.Can. v.Prefontaine(M) 2009 ABQB 330. 10Breen v. Foremost Ind.2022 ABQB 478, 56 Alta LR(7th) 478 (¶'s 22-41). 1Some older brief precedent documents for wording a third party notice are thus dangerous.On the tests for striking one out, see the C.P.E., Chapter 26, esp.Part E.For an example, see below.' (footnotes 2-10 and 1 of p.3-124, as printed; the markers are not printed in the note paragraphs, so the footnotes are not tied to sentences; fn 1 'Some older brief precedent documents for wording a third party notice are thus dangerous ...' follows a paragraph that is in the defined_terms field).",
+      "commentary_review_flag": "Read in full, p.3-123 (line 3477) to p.3-124 (line 3506): rule text (in pieces), Defined Terms 'defendant, plaintiff, pleading, rules, third party defendant, third party plaintiff' (the Appendix defines each), no Related Provisions, and a note of five paragraphs, with footnotes 2-10 and 1 as printed. The built record: the Defined Terms line and the whole note are in defined_terms (after the terms, the note paragraphs, then the heading of Subdivision 7 'Counterclaims' and the title of 3.56 'Right to Counterclaim'); related_provisions and commentary are empty; the raw-text field held the footnote blocks (kept in the text note); nothing dropped. The note is the target of the pointer 'See R.3.55 n. below' in the 3.45 note (p.3-116 line 3271); the 3.45 note sentence is 'See R.3.55 n.below' with no statement attached. (1) Statements read against the official text: 'A third party notice is a pleading' agrees with 3.55(c) (a pleading related to a claim made by a statement of claim applies equally to a pleading related to a third party claim); 'The tests would be those under R.3.68' and 'the court would also strike it out if it violated R.3.45 and no time extension were given' land on official 3.68 and 3.45 (not re-read here for the tests); 'The Rules on formal offers and double costs to successful defendants who beat their own offers, apply to third party notices and offers by third parties' is a reading of 3.55(a)-(b) (Part 4 rules on formal offers not re-read here); 'Case law on whether a third party can counterclaim is unclear, but if he can, he has to name the person issuing the third party notice as a defendant by counterclaim' - official 3.56(2) says a third party defendant may, by counterclaim, file a claim against the plaintiff, defendant or third party plaintiff, or any combination of them, with or without any other person, and does not say the person issuing the third party notice must be named; 'On costs, see R.3.46 n.' lands on the costs paragraphs of the 3.46 note. (2) Other rules' pointers to 3.55: Book A p.3-116 (line 3271) 'See R.3.55 n. below'; the 3.48 related provision '3.55 (status of parties on third party claims)' (p.3-120, line 3421; official title 'Application of rules to third party claims'); R.5 p.5-89 (line 4770) 'See Rr.3.46 and 3.55'; R.7 p.7-41 (line 2159) '... it under R.3.55.' (a footnote number is run into the text; the rest of the sentence was not opened). (3) The cases in the footnotes (C.D.I.C. v. Prisco, Stolk v. 382779 Alta. 2002 ABQB 360, MacKay v. Farm Bus. Consult. 2006 ABCA 316, Tollestrup, Agrium v. Chubb 2002 ABQB 495, Wenzel v. Desanti 2011 ABCA 226, Breen v. Foremost Ind. 2022 ABQB 478, and others) were not checked; Book A prints 'C.D.I.C. v. Prisco (CA) [1998] 3 WWR 256, 206 AR 290' here (fn 2) is printed '9Northland Bank v. Willson (C.D.I.C. v. Barker) (CA) [1998] 3 WWR 256, 206 AR 290' in the 3.45 note (p.3-116 line 3265) - the same reporter cite under two different case names (Prisco / Barker)."
+    },
+    "BOOK_B": {
+      "title": "Application of rules to third party claims",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_55_001",
+        "part3_part_3_court_actions_022"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "624e0c15b2fcf3b32777a915dea3d798536dfd8f3f1e2aa5c059f426bfa1e300",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Application of rules to third party claims",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "624e0c15b2fcf3b32777a915dea3d798536dfd8f3f1e2aa5c059f426bfa1e300",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.3727,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.55(a)-(c) (read by eye) except: the text is printed in two pieces with footnote blocks after them (p.3-123 lines 3477-3478); the title in title case ('Application of Rules to Third Party Claims', printed before the rule number); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker is printed in the text. No substantive difference. The dropped raw text also held four footnote blocks printed after the rule text, kept here verbatim because Book A's footnotes are not split out: '2See furtherC.D.I.C. v.Prisco(CA) [1998] 3 WWR 256, 206 AR 290. 3Stolk v. 382779 Alta.2002 ABQB 360, 16 Constr LR(3d) 319 (contract excluded duty pleaded);MacKay v. *Farm Bus.Consult.2006 ABCA 316, 397 AR 301. 4Tollestrupv.Tollestrup(CA 1995) 178 AR 158.Only in special circumstances?Dechant v.McKechnie *Agy.(M) 1999 ABQB 734, 253 AR 14.Special circumstances were found, inCantafio v.St. Hilaire1999 ABQB 686, 249 AR 172. 5Al Scherbarth Prof.Corp.v. Clarica Life Ins.Co.(M) 2002 ABQB 52, 308 AR 197.One registering a mortgage under thePersonal Property Security Actowes no duty to later buyers to be correct and careful: *Rebel HeartWater Hauling v. Southside Equip.Sales2003 ABQB 226, 337 AR 286. 6Agrium v. Chubb Ins.Co. of Can.2002 ABQB 495, 318 AR 355.See other cases under R.3.45's commentary,supra. 7Wenzel (Grey) v.Desanti2011 ABCA 226, 46 Alta LR(5th) 421. 8Can.Trustco Mtge. Co.v.Karpa (#2)2001 ABQB 734, 302 AR 173. 9A.-G.Can. v.Prefontaine(M) 2009 ABQB 330. 10Breen v. Foremost Ind.2022 ABQB 478, 56 Alta LR(7th) 478 (¶'s 22-41). 1Some older brief precedent documents for wording a third party notice are thus dangerous.On the tests for striking one out, see the C.P.E., Chapter 26, esp.Part E.For an example, see below.' (footnotes 2-10 and 1 of p.3-124, as printed; the markers are not printed in the note paragraphs, so the footnotes are not tied to sentences; fn 1 'Some older brief precedent documents for wording a third party notice are thus dangerous ...' follows a paragraph that is in the defined_terms field)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.55",
+      "title_official": "Application of rules to third party claims"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "b4075854b25929f5efdbe453e248e557e9c2847bc1c63eda286f4f454c4e28f3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-123",
+            "3-124"
+          ],
+          "offset_in_clean_text": [
+            391516,
+            394615
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "624e0c15b2fcf3b32777a915dea3d798536dfd8f3f1e2aa5c059f426bfa1e300",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "624e0c15b2fcf3b32777a915dea3d798536dfd8f3f1e2aa5c059f426bfa1e300",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "5973afe6c9976201343d7c4f6bf70b9f3fe3ce95cb6d5c3d22f31b0ad0ccce07",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            71,
+            72
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c3cc9d4ddf39e219eeeca78825a835710953ea4062026eeb0f4ffa7bacdfa583"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.55 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.55 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.55 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.55 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

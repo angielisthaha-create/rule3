@@ -1,0 +1,237 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.44",
+  "title": {
+    "official": "When third party claim may be filed",
+    "variants": {
+      "BOOK_A": "WhenThird Party Claim May be Filed"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.44   A defendant or third party defendant may file a third party\nclaim against another person who\n(a) is or might be liable to the party filing the third party\nclaim for all or part of the claim against that party,\n(b) is or might be liable to the party filing the third party\nclaim for an independent claim arising out of\n(i) a transaction or occurrence or series of transactions\nor occurrences involved in the action between the\nplaintiff and the defendant, or\n(ii) a related transaction or occurrence or series of related\ntransactions or occurrences,\nor\n(c) should be bound by a decision about an issue between the\nplaintiff and the defendant.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "14fa6d8e5827f38239de27d1eb37bc2e22d499405b67b20273bfd2f434229c45"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.44 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          67,
+          68
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "WhenThird Party Claim May be Filed",
+      "operative_text_raw": null,
+      "operative_text_sha256": "94705343c7039d57deba8d06dddc2e2d27775c5b98ba95cac81d3e4547e5d026",
+      "defined_terms": "claim, defendant, file, party, plaintiff *A.Alternatives A defendant need not use this Subdivision.The defendant can wait and see if it is held liable at trial. If it is, then the defendant can very often sue other people (whether or not they were parties to the lawsuit), claiming against them part or all of the original defendant's liability in the first suit.For instance, a retailer sued by a customer for defective goods could sue the wholesaler who supplied them. But that defendant retailer would have to pay the plaintiff long before it could get indemnity from the new suit, and the retailer would have to prove the defect all over again against the wholesaler.Indeed, the two trials might produce opposite results on that topic, especially if some evidence was unavailable for one trial.Rule 3.44 is designated to avoid those problems:it allows both lawsuits to be run together with a single trial. The mechanism is a third party notice, making the defendant a new plaintiff against the third party. *B.New Wide Test The 2010 Alberta Rules are now much wider than before.Under the 1968 Rule, the claim had to be the same in the statement of claim and in the third party notice;connected claims were not enough. (But the cause of action even then did not need to be the same, nor need it now, nor the claim be for indemnity in the technical sense. ) 1Very like current Ont.R.29.01;quite similar to Eng.1962 0.16 r.1. 2And indeed the cause of action for indemnity of the defendant by others does not accrue, and the limitation period start running, until the defendant is held liable to the plaintiff:Re Assoc. Investors of Can. (Deloitte *v. Coopers)(1996) 192 AR 371, 46 Alta LR(3d) 16. party owed aduty to the defendant. A duty to the plaintiff was not enough. Under the new wider PART 3:COURT ACTIONSR.3.44 3-113 The new R.3.44 adopts the wider Rule from other provinces.A similar wider Rule was in force in Alberta until the end of 1968.Therefore, pre-1969 cases interpreting it should be noted. Now under the 2010 Rules, the test for whether a valid independent third party claim has been pled, 121;Alampi v.Chadi(M) 2002 ABQB 340, 311 AR 396;Double N Earthmovers v.Edmonton (City)2005 ABCA 104, 363 AR 201 (¶'s 59-63);Hanson v.Hanson2009 ABCA 222, 457 AR 77.The defendant alleged that the third party owed duties both to the plaintiff and to the defendant.That they could be contractual did not bar a third party notice.It need not plead the facts to establish proximity:Weyerhaeuser Co.v. Jenner *(Jenner v. Rentokil Can.),infra. 10RSA 2000 c.C-27. 11RSA 2000 c.T-5.SeeMacKay v.Farm Bus.,supra. 12Burndredv.Topley2009 ABQB 541, 504 AR 133.But it does not extend to a co-respondent in a divorce case:P.M.M. v.R.W.M.2001 ABQB 9, 298 AR 17. 7Harrison v. XL(¶ 61). 8Leoppky v. McWilliams2001 ABCA 197, 281 AR 281;Wallace v.Litwiniuk,infra. Cf.Ibrahim v.Slater 2005 ABQB 184.Generally on the scope of third party notices, seeSalmon Arm Fleckvieh Ent.v. Bain(M 16 Sep '08) JDE 0503 16283. 9Agrium v. Chubb Ins.Co.of Can.2002 ABQB 495, 318 AR 355;Mikisew Cree F.N.v.R.(1998) 235 AR is easier than it used to be.The phrase\"related to\" has abroadmeaning.An independent claim may be asserted by the defendant against the third party even if it is not for the same wrong done There is no bar to the defendant's third partying someone whom the plaintiff has sued in a parallel suit. Nor to a defendant's third partying someone against whom he also has an to the plaintiff, so long as it is sufficiently related.One apparently relevant circumstance is whether it and the main claim should be tried at the same time. independent claim. A third party notice could not be struck on the ground that the duties of the third parties asserted were owed to the plaintiff (as well as to the defendant).Avoiding multiplicity of actions is 1Grandbois v. Maglio(Alta 1955) 16 WWR 87;Patey v.Papley(Alta CA 1956) 20WWR 289, 6 DLR(2d) 507; *Legion Oils v. Barron(Alta 1955) 16 WWR 93;P.& O.Steam Nav.Co. v.E.Shpg. Co.(PC (SS)) [1924] 1 WWR 97. 2Cdn.Natural Res. v.ArcelormittalTubular Prod. Roman,supra(QB) (¶'s 482-484). 3Hughes v. Meters(CA 1993) 200 AR 335, 8 CPC(4th) 278,restg(M 1992) 201 AR 297, 46 Alta LR(3d) 138. 4Salmon Arm Fleckvieh Ent.v. Bain(M 16 Sep '08) JDE 0503 16283. Whether there is a duty of care or not (founding a third party notice) need not be the same towards upstream producers and downstream consumers. And the law on economic loss in tort is not well settled. Rule, the older cases are now suspect.TheContributory Negligence Act, andTort-Feasors Act (passed in the 1930s) extended the scope of third party notices and modified the procedure also an aim of R.3.44. somewhat.Contribution among tortfeasors is not limited to joint tortfeasors, and covers several 6Harrison v. XL Foods2014 ABQB 431, 592 AR 266 (¶ 57). tortfeasors.Therefore, the driver said to have caused the injuries to the plaintiff may third party Apart from statute, a third party notice under the former Rules was possible only if the third 11 5NEP Can.v.MEC OP(Nov 22) file JCC 1201 09690, 2013 CarswellAlta 2533 (oral reasons, no neutral cite). (In a suit for misrepresentation by a vendor, the defendant wanted to claim that theplaintiff's consultants, the third party, had been negligent and had not passed on to the plaintiff some information which the third parties had got from the defendant.) the doctor said to have treated the injuries of the plaintiff negligently. But a duty owed directly to the plaintiff, not to the defendant, may be a weaker basis for a very late application to issue a third party notice. But a third party notice for contribution may be struck if the third party would not be directly liable to the plaintiff itself (as distinguished from other victims). And a third party notice could not be issued in respect of different damage (loss) caused by one who is neither a joint nor a LR(3d) 319. 8But an incomplete answer or defence is no bar to a third party note:Cdn.Natural Res. v.Arcelormittal *Tubular,supra(¶s 492-93). 9Cdn.Natural Res. v.ArcelormittalTubular,supra(¶'s 485 ff.).And if the plaintiff will admit identity of interest with his employee, the court can strike out a third party notice against the employee:Tompkins v. *Alta.WheatPool(M 1997) 201 AR 93.It is enough that the plaintiff will not necessarily be identified with the third party's negligence.Third party notice was upheld:Weyerhaeuser Co.v.Jenner (Jenner v.Rentokil *Can.)2006 ABCA 300, 397 AR 349. 10JD1H1 v. Bodden2020 NUCA 3, Iq.08-18-007 CAC (Apr 15) (¶'s 12-17). accidents is similar, or one aggravates an earlier injury.Besides, to the extent that the facts in the third party notice were proven, the defendant's liability to the plaintiff would be disproved or reduced. Actmakes a practical difference. 4Wallace v.Litwiniuk2001 ABCA 118, 281 AR 115 (negligent solicitor cannot be third-partied by negligent concurrent tortfeasor, and who owed no duty to the defendant. Where a plaintiff is injured in two separate motor vehicle collisions, the two collisions'damage is not\"the same damage\"for purposes of theTort-Feasors Act, and so it will not found a third party notice.It is not like a case where the plaintiff's medical doctor or lawyer contributes to the very loss for which the tortfeasor or contracting party is sued.Even if the medical condition which the plaintiff alleges from the 2 There is much law on the different types of indemnity, and when relying on theTort-Feasors then no third party notice based on the same grounds as that possible defence is needed or permitted. driver);Forbes v. Bird2002 ABQB 206, 309 AR 397 (negligent driver in one accident cannot third party 5Leoppky v. McWilliams,supra. under R.3.44(c) to bind them to the decision. 1Hughes v. Meters,supra. *C.Bars to aThird-Party Notice plaintiff (or an agent for whom the plaintiff is responsible said to have advised the plaintiff poorly), *Video v. Skrabek(1997) 199 AR 318, 50 Alta LR(3d) 146 (lawyer as third party).Now they could be added A third party notice was impossible where the plaintiff could not have sued the third party e.g., because the plaintiff has already released the third party.It was also impossible directly, where it would be useless, e.g., because the defendant's cause of action against the third party would, if proved, give the defendant a complete defence against the plaintiff.In that case, there could not be any liability of the defendant for which the third party could be liable. If the defendant can raise directly against the plaintiff as a defence some matter, and any negligence is that of the 2Piikani N.v.McMullen (#__)2020 ABCA 366, 455 DLR(4th) 376 (¶'s 63-67). 3Knight v. Imp.Tobacco Can.2011 SCC 42, [2011] 3 SCR 45.Even if useful for discovery:Knight v. Imp. *Tobacco. negligent driver in different accident with common victim);Alampi v.Chadi,supra; cf.Gone Hollywood 6Cdn.Natural Res. v.ArcelormittalTubular,supra(¶'s 204-310). 7Viridian v. Dresser Can.1999 ABQB 415, 247 AR 23;Stolk v.382779 Alta.2002 ABQB 360, 16 Constr 1Whitecourt Power Ltd. P'ship. v.ElliottTurbomachinery Can.2015 ABCA 252, 606 AR 248. 2Kwik-Kopy Ptg.Can. Corp.v. Skoreiko(M) 2002 ABQB 644. 3Bowen (Fernandes Est.) v.Fernandes2000 ABCA 190, 261 AR 347. 4Quite similar to previous 1968 R.66(4). It came from 1944 C.R.81 (last part).Until a 1981 amendment (Alta. Reg.313/81), the third party notice had to be filed at or before the time of filing of the statement of defence; after that, the defendant who defended had six more months. The limitation period for third party claims has been changed, and expiry of the date on which the plaintiff could sue the third party is no longer a bar to a third party notice by a defendant.The earliest that the limitation period could start to run is when the statement of claim is served.If the contract between the plaintiff and the third party limits liability of the third party, that could bar a third party notice.Actual knowledge of the problem or discoverability of it before this lawsuit is irrelevant, as a defendant cannot claim any kind of contribution, before the plaintiff sues the defendant. *Form ofThird Party Claim *D. Procedure See also R.3.43, and n.A above. Where leave is needed to issue a third party notice (which ordinarily is not needed), then evidence is necessary. A\"third party by order\"under theInsurance Actis very different from a third party under the Rules of Court.The former is not a party, and the plaintiff cannot get judgment directly against such a\"third party by order.\" *",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-111",
+          "3-115"
+        ],
+        "offset_in_clean_text": [
+          355522,
+          367606
+        ]
+      },
+      "operative_text_note": "same wording as official 3.44(a)-(c) (read by eye) except: the text is printed in pieces out of order with footnote blocks between them (p.3-111 line 3116 the lead-in and (a); p.3-112 (b) at line 3124; '(i) a transaction or occurrence or series of transactions or occurrences involved in the action between the plaintiff and' and '(ii) a related transaction or occurrence or series of related' at line 3125; 'the defendant,or' at line 3131 (the end of (b)(i)); 'transactions or occurrences,' 'or' and (c) at line 3134) - read as the official; the title in title case ('When Third Party Claim May be Filed'; the official has 'When third party claim may be filed'); missing spaces; '*' line marks; the footnote marker '1' after (c). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: '394 AR 177, andZurich Ins.Co.v.Precision Surfacing2007 ABQB 252, 73 Alta LR(4th) 326. 6See the C.P.E., Chapter 19, Part B.1(b), andCdn.Natural Res. v.ArcelormittalTubular Prod. Roman 2012 ABQB 679, 549 AR 73.There is a general discussion, inMacKay v.Farm Bus.Consult.2006 ABCA 316, 397 AR 301. 5So a defendant against whom the plaintiff claims no relief could not issue a third party notice:673633 Alta. *v. Coates2008 ABQB 675, 458 AR 229.But cf.VanTroyer Hldg.v.Hunt Oil Co. of Can.2005 ABQB 626, Procedure Law, 408-17 (2008);Hals.Laws of Canada,Civil Procedure, 462 ff.(1st ed.2008). 4And so the third party is in effect a kind of defendant:Can.Trustco Mtge. Co.v.Karpa (#2)2001 ABQB 734, 302 AR 173. 3Note on the subject of third parties generally, C.P.E., Chapter 19; Abrams and McGuinness,Canadian Civil' (they are the ends of fns 5 and 6 with the start of fn 3 of the p.3-112 note, the first half of fn 5 and fn 4, and the second half of fn 3; the pieces are printed out of order and several break inside a citation).",
+      "commentary_review_flag": "Read p.3-111 (line 3116) to p.3-115 (line 3249): rule text (in pieces), Defined Terms 'claim, defendant, file, party, plaintiff' (the Appendix defines each), no Information Note, no Related Provisions, and a note in four parts (A Alternatives, B New Wide Test, C Bars to a Third-Party Notice, D Procedure), with footnotes as printed; the note is skimmed for structure and for every pointer to the Rules, not case by case. The built record: the Defined Terms line and the whole note are in defined_terms (10,560 characters, nothing dropped), including footnotes 1-4 of p.3-115 (history fn 4 'Quite similar to previous 1968 R.66(4). It came from 1944 C.R.81 (last part). Until a 1981 amendment (Alta. Reg.313/81), the third party notice had to be filed at or before the time of filing of the statement of defence; after that, the defendant who defended had six more months' - the time limit is that of the NEXT rule, 3.45) and the title of 3.45 ('Form of Third Party Claim'); related_provisions and commentary are empty; the raw-text field held footnote blocks (kept in the text note). The extraction interleaves the columns and footnotes on pp.3-112 to 3-115, so many sentences are split across lines that are not adjacent (e.g. 'party owed a' / 'duty to the defendant. A duty to the plaintiff was not enough. Under the new wider' / 'Rule, the older cases are now suspect'); the wording is kept as printed and the order of the pieces was not repaired. (1) Statements read against the official text and Book B: 'A defendant need not use this Subdivision' agrees with 'may file' in 3.44; 'Under the 1968 Rule, the claim had to be the same in the statement of claim and in the third party notice; connected claims were not enough' compares with Book B's quotation of former Rule 66(1) ('is or may be liable to him for all or part of the plaintiff's claim against him', Hughes J. at para 245); 'The new R.3.44 adopts the wider Rule from other provinces. A similar wider Rule was in force in Alberta until the end of 1968' is a history statement with no source in the Rules; 'under R.3.44(c) to bind them to the decision' agrees with 3.44(c); 'the test ... is easier than it used to be. The phrase \"related to\" has a broad meaning' - the words 'related to' are not in 3.44(b) (which says 'a related transaction or occurrence or series of related transactions or occurrences'); the note's cases (Leoppky v. McWilliams 2001 ABCA 197; Wallace v. Litwiniuk 2001 ABCA 118; MacKay v. Farm Bus. Consult. 2006 ABCA 316; Cdn. Natural Res. v. Arcelormittal Tubular 2012 ABQB 679) are the same decisions Book B quotes (Book B: Leoppky/Loeppky at paras 30-33, Wallace, MacKay at paras 9-12, Arcelormittal at paras 201-205, 241-258; agree on one point: the third party must owe a duty to the defendant, not only to the plaintiff - Book A note B 'A duty to the plaintiff was not enough' and Book B's Leoppky quotation 'a third party notice serves to enforce duties owed by the third party to the defendant, not to enforce duties owed by the third party to the plaintiff'; the note's other propositions were not compared with Book B). (2) Citation differences: Arcelormittal Tubular 2012 ABQB 679 is printed '549 AR 73' in Book A (p.3-112 line 3123; lines 4524 and 7010, other notes) and '549 A.R. 72' in Book B; the neutral citation is the same and Book A line 7010 prints 'affd 2013 ABCA 87', as Book B's '[affirmed 2013 ABCA 87]'. Book A's pinpoints '(¶'s 482-484)', '(¶s 492-93)', '(¶'s 485 ff.)', '(¶'s 494-500)' and '(¶'s 204-310)' lie beyond Book B's quoted paragraphs (201-205, 241-258) and were not checked. (3) History footnotes: fn 1 ('Very like current Ont.R.29.01; quite similar to Eng.1962 O.16 r.1', p.3-112 line 3142, marker '1' after (c)) is 3.44's; fn 2 (Re Assoc. Investors of Can. (Deloitte v. Coopers) (1996) 192 AR 371) is a note footnote; fn 4 on p.3-115 (1968 R.66(4) ...) is the history of 3.45 (see above). (4) Other rules' pointers to 3.44: 3.32 text (p.3-82 line 2229) 'file a third party claim in accordance with rule 3.44 [When a third party claim may be filed]' (the label has 'a' for the official 'When third party claim may be filed'); p.3-116 lines 3263 and 3265 'R.3.44n (¶'s 494-500)' and 'Whitecourt Power v. Elliott, supra, R.3.44n' (in the 3.45 note; land on notes C and D above); p.3-121 line 3429 'Rule 3.44n.'; R.4 p.4-6 (line 205) '3.44 (when a third ...'; the R.3.43 note lands on 3.44 ('3.44 (third party claims)'). (5) Book B's R.4 commentary (rule4_part05_document.json) quotes 'rule 3.44(1)(a)' with the words 'the parties ... expressly agreed to the delay' (a decision about the dismissal-for-delay rule); official 3.44 has no subrule (1) and no such words, so the reference is not to this rule (recorded here as a wrong-rule reference in Book B's R.4 text; not resolved further)."
+    },
+    "BOOK_B": {
+      "title": "When third party claim may be filed",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.44:1",
+          "text": "Rule 3.44 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.44. In Canadian Natural Resources Ltd. v. Arcelormittal Tubular Products Roman S.A., 2012 ABQB 679, 2012 CarswellAlta 2257, 549 A.R. 72, 79 Alta. L.R. (5th) 1; [affirmed 2013 ABCA 87] Madam Justice Hughes discussed claims for contribution. At paragraphs 201–205, her Ladyship said: 201 A right to recover contribution arises under statute, specifically under s 3 of the Tort-feasors Act and the Contributory Negligence Act, RSA 2000, c C-27 [the Contributory Negligence Act], and under the common law: MacKay v. Farm Business Consultants Inc, 2006 ABCA 316 at paras 9–12 [MacKay]. 202 The types of third party claims that can be filed under the new Rules include the classic type of third party claims for contribution described under Rule 3.44(a). They now also include third party claims against a party who is or might be liable to the party filing the third party claim for an independent claim (Rule 3.44(b)), or who should be bound by a decision about an issue between the plaintiff and the defendant (Rule 3.44(c)). 1. — Claims for contribution under the common law 203 The Defendants have a right to recover contribution from the Third Parties under the common law, if the Third Parties breached duties they owed directly to the Defendants under contract, tort, statute or otherwise. The right to contribution arises if the damage the Defendants allege they suffered as a result of the Third Parties' breaches are related to the damage that the Plaintiff, CNRL, alleges it suffered as a result of the Defendants' breaches. Because the common law right to contribution arises if the Third Parties breached duties owed directly to the Defendants, it exists independently of any claim that CNRL may have against the Third Parties and can support an independent cause of action against the Third Parties. 204 The nature of the common law claim for contribution, and the distinction between a third party claim for contribution under the common law and under the Tort-feasors Act, was described by Conrad JA in Leoppky at paras 30–33: […] Generally, a defendant may third party a person to enforce a duty or obligation owed by the third party to the defendant which relates to the same damages pled in the statement of claim. For example, where a customer purchases defective goods and sues the vendor, that vendor may be able to third party the manufacturer who supplied the defective goods. That is because the vendor can allege a separate duty owed to it by the manufacturer which could support an independent cause of action giving rise to third party liability. The [defendants] have not alleged any such independent duty or obligation in their third party notice. The facts pled do not disclose any contract, duty of care or statutory obligation owed by [the third party] to the [defendants] which would entitle them to any claim against or contribution from [the third party]. Thus, the third party notice discloses no possible third party liability on [the third party's] part. As noted by this Court in Metz v. Breland (1990), 76 Alta. L.R (2d) 397 (C.A.), a third party notice serves to enforce duties owed by the third party to the defendant, not to enforce duties owed by the third party to the plaintiff. That is the key test which the [defendants] have not met—to demonstrate that there is some duty owed by [the third party] to them […] 205 In the recent decision of Master Schlosser in Pagnucco v. Sears Canada Inc, 2011 ABQB 810 [Pagnucco], a third party claim for contribution was brought under both the Tort-feasors Act and the common law. The Master described the claim for contribution under the common law at para 17: The proposed Third Party Notice has two distinct parts. One part is based on the duties and obligations the proposed Third Party allegedly owed the Defendant. These allegations are pleaded in breach of contract, breach of warranty, negligence and misrepresentation. There is no doubt that these allegations could form the basis of a free standing claim, although the measure of damages might, to a certain extent, relate to the injuries suffered by the Plaintiff. [emphasis added] At paragraphs 241-242; 245 Hughes, J. said: 241 The validity of the third party claims in the Two Actions also depends in part on the types of third party claims that can be made under the Rules. As the Rules have evolved, they have broadened the circumstances under which a party may file a third party claim: see discussion in Dean v. Kociniak, 2001 ABQB 412, 289 AR 201 [Dean]; and the ALRI 2004 Report on Joining Claims and Parties at paras 139–163. 242 The new Rules allow third party claims to enforce claims for contribution under the Tort-feasors Act or the common law, both of which depend upon the success of the plaintiff's claim against the defendant: Rule 3.44(a). The new Rules also allow a third party claim to be filed against a party who is or might be liable to the party filing the third party claim for an independent claim, if the independent claims are related to the matters in the main action (Rule 3.44(b)), and against a party who should be bound by a decision about an issue between the plaintiff and the defendant (Rule 3.44 (c)). … 245 Rule 3.44(a) gives broader rights than former Rule 66(1). Rule 66(1) allowed a defendant to make a third party claim where the defendant claimed against any person “that the person is or may be liable to him for all or part of the plaintiff's claim against him.”[emphasis added]. Rule 3.44(a) now provides that a party may file a third party claim against a person who “is or might be liable to the party filing the third party claim for all or part of the claim against that party”[emphasis added]. As a result, third party claims under Rule 3.44(a) now include both third party claims for contribution arising under the Tort-feasors Act or the common law, the types of third party claims described in paragraphs (1) and (2) of para 123 of the ALRI 2004 Report on Joining Claims and Parties. Justice Hughes provided the following summary regarding third party claims under the common law (at paragraphs 249–251): 249 A claim for contribution under the common law arises when a third party breaches a duty in contract, a common law duty of care or a statutory obligation owed by the third party to the defendant: Leoppky at para 30. 250 Because it is a claim for contribution, it stands or falls based on the outcome of the plaintiff's claim against the defendant. This does not mean that it is derived from the plaintiff's claim against the third party. It does not depend upon the plaintiff having a claim against the third party. A common law claim for contribution is a free-standing claim: Supreme Steel. It arises out of the breach of a separate duty owed by the third party to the defendant “which could support an independent cause of action”: Loeppky at para 30. 251 A third party claim through which a common law claim for contribution is asserted is described as a claim alleging that the “duty or obligation owed by the third party to the defendant … relates to the same damages pled in the statement of claim”[emphasis added]: Leoppky at para 30. A third party claim for contribution under the common law must therefore allege facts that could support a finding that the third party's breach of duty to the defendant caused the defendant to suffer damage that is related to the damage that the plaintiff claims it suffered as a result of the defendant's breach of duty to the plaintiff. And with respect to third party claims for contribution under the Tort-feasors Act, she said at paragraphs 252–258: 252 As is the case with a claim for contribution under the common law, a claim for contribution under the Tort-feasors Act stands or falls based on the outcome of the plaintiff's claim against the defendant. If the claim is a third party claim for contribution under the Tort-feasors Act, the third party claim must allege facts that could support a finding that the third party's breach of duty caused the plaintiff to suffer the same damage that the plaintiff claims it suffered as a result of the defendant's breach of duty to the plaintiff. As discussed, a claimant for contribution under the Tort-feasors Act must also establish that the third party would if sued be liable for the damage suffered by the plaintiff. 253 It is clear that a claim for contribution arises under the Tort-feasors Act when a third party breaches a duty of care in tort owed by the third party to the plaintiff. A defendant asserting a claim for contribution under the Tort-feasors Act on this basis asserts the claim that the plaintiff could have asserted but did not. It is a derivative claim. 254 The Defendants argue that a claim for contribution arises under the Tort-feasors Act can also arise when a third party breaches a duty, in either contract or tort, owed by the third party to the defendant, if that breach of duty causes the defendant to breach a duty to the plaintiff, which causes the plaintiff to suffer the same damage that it alleges was caused by the defendant. The following cases suggest that a claim may arise in these circumstances: Deboer at para 5; Wallace at paras 39, 55, and 56; MacKay at para 12; Howalta, per O'Ferrall JA at paras 77 and 85. —Independent Third Party Claims 255 An independent third party claim arises when the third party breaches a duty owed to the defendant, which causes the defendant to suffer losses that are factually related to the losses suffered by the plaintiff. A true third party claim for contribution is dependent upon the outcome of the plaintiff's action against the defendant. An independent claim for contribution arises from unrelated matters and is not dependent on the outcome of the plaintiff's action against the defendant: Supreme Steel at para 9. —Claims for contribution under the Rules 256 Under the new Rules, a third party claim may be filed against a party who is or might be liable to the party filing the third party claim for all or part of the claim against that party: Rule 3.44(a). This type of third party claim is asserted to recover a claim for contribution under the common law or the Tort-feasors Act: ALRI 2004 Report on Joining Claims and Parties at para 123. 257 Rule 3.44(b) now also allows third party claims to be filed against a party who is or might be liable to the party filing the third party claim for an independent claim if it is sufficiently related as that is defined in that Rule. 258 Rule 3.44(c) also allows a third party claim to be filed against a party who should be bound by a decision about an issue between the plaintiff and the defendant."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_44_001",
+        "part3_part_3_court_actions_030",
+        "part3_rule_3_44_002",
+        "part3_part_3_court_actions_032"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "8a1a7f61273c69ab5b5dd6abda4f2d0d3d0badc1a6cda44d24ee136d989e088d",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "When third party claim may be filed",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "ce2340ecac2df0c24361e89a560618fbc86d6f9caa9ee32b9924599199fb684e",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "“Under [rule] 3.44, a defendant may file a third party claim for an independent claim arising out of transactions involved related to the action between the",
+          "citations": [],
+          "review_flag": "The commentary is cut off after 156 characters: '“Under [rule] 3.44, a defendant may file a third party claim for an independent claim arising out of transactions involved related to the action between the' (no source is printed, the quotation has no closing mark, and 'transactions involved related to the action' is as printed); the rest is not in the file. The words describe 3.44(b) ('an independent claim arising out of (i) a transaction or occurrence or series of transactions or occurrences involved in the action between the plaintiff and the defendant, or (ii) a related transaction ...')."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; soft hyphens are printed as 'occur- rences' and 'trans- actions'; no other difference. The amendment note '[Alta. Reg. 124/2010, r. 3.44 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry (it is printed with 3.19-3.43 in file 121-140)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.5196,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.44(a)-(c) (read by eye) except: the text is printed in pieces out of order with footnote blocks between them (p.3-111 line 3116 the lead-in and (a); p.3-112 (b) at line 3124; '(i) a transaction or occurrence or series of transactions or occurrences involved in the action between the plaintiff and' and '(ii) a related transaction or occurrence or series of related' at line 3125; 'the defendant,or' at line 3131 (the end of (b)(i)); 'transactions or occurrences,' 'or' and (c) at line 3134) - read as the official; the title in title case ('When Third Party Claim May be Filed'; the official has 'When third party claim may be filed'); missing spaces; '*' line marks; the footnote marker '1' after (c). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: '394 AR 177, andZurich Ins.Co.v.Precision Surfacing2007 ABQB 252, 73 Alta LR(4th) 326. 6See the C.P.E., Chapter 19, Part B.1(b), andCdn.Natural Res. v.ArcelormittalTubular Prod. Roman 2012 ABQB 679, 549 AR 73.There is a general discussion, inMacKay v.Farm Bus.Consult.2006 ABCA 316, 397 AR 301. 5So a defendant against whom the plaintiff claims no relief could not issue a third party notice:673633 Alta. *v. Coates2008 ABQB 675, 458 AR 229.But cf.VanTroyer Hldg.v.Hunt Oil Co. of Can.2005 ABQB 626, Procedure Law, 408-17 (2008);Hals.Laws of Canada,Civil Procedure, 462 ff.(1st ed.2008). 4And so the third party is in effect a kind of defendant:Can.Trustco Mtge. Co.v.Karpa (#2)2001 ABQB 734, 302 AR 173. 3Note on the subject of third parties generally, C.P.E., Chapter 19; Abrams and McGuinness,Canadian Civil' (they are the ends of fns 5 and 6 with the start of fn 3 of the p.3-112 note, the first half of fn 5 and fn 4, and the second half of fn 3; the pieces are printed out of order and several break inside a citation)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; soft hyphens are printed as 'occur- rences' and 'trans- actions'; no other difference. The amendment note '[Alta. Reg. 124/2010, r. 3.44 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry (it is printed with 3.19-3.43 in file 121-140)."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.44",
+      "title_official": "When third party claim may be filed"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "94705343c7039d57deba8d06dddc2e2d27775c5b98ba95cac81d3e4547e5d026",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-111",
+            "3-115"
+          ],
+          "offset_in_clean_text": [
+            355522,
+            367606
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "8a1a7f61273c69ab5b5dd6abda4f2d0d3d0badc1a6cda44d24ee136d989e088d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "ce2340ecac2df0c24361e89a560618fbc86d6f9caa9ee32b9924599199fb684e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "14fa6d8e5827f38239de27d1eb37bc2e22d499405b67b20273bfd2f434229c45",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            67,
+            68
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "ccd7432c53233b83cff73ea7100cfea1e036c2d43e47ee976d335d97b43e472b"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.44 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.44 BOOK_C commentary sentence split dropped",
+    "3.44 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.44 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.44 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "source_file": "621-640_revised.md",
+  "definitions": [],
+  "hierarchy": [
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "13.6",
+        "title": "Pleadings: general requirements",
+        "text": "(1) A pleading must be (a) succinct, and (b) divided into consecutively numbered paragraphs, with dates and numbers expressed in numerals unless words or a combination of words and numerals makes the meaning clearer.",
+        "sentences": [
+          "(1) A pleading must be",
+          "(a) succinct, and",
+          "(b) divided into consecutively numbered paragraphs, with dates and numbers expressed in numerals unless words or a combination of words and numerals makes the meaning clearer."
+        ],
+        "citations": [],
+        "info_notes": [
+          "Very large numbers are better expressed in a combination of numerals and words, for example, $ Pagnucco v. Sears Canada Inc., [2011] A.J. No. 1505, 2011 ABQB 810 at para. 14 (Alta. Q.B. (Master)). billion. The first word of a sentence is usually better expressed as a word than a numeral. For dates, unless the pleading is clear about the convention being used, the month should be stated as a word.\n(2) A pleading must state any of the following matters that are relevant:\n(a) the facts on which a party relies, but not on the evidence by which the facts are to be proved;\n(b) a matter that defeats, or raises a defence to, a claim of another party;\n(c) the remedy claimed, including (i) the type of damages claimed, (ii) to the extent known, the amount of general and special damages claimed, or if either or both are not known, an estimate of the amount or the total amount that will be claimed, (iii) a statement of any interest claimed, including the basis for the interest, and the method of calculating the interest, and (iv) costs, including any known special costs.\n(3) A pleading must also include a statement of any matter on which a party intends to rely that may take another party by surprise, including, without limitation, any of the following matters:\n(a) breach of trust;\n(b) duress;\n(c) estoppel;\n(4) If the defendant proposes to produce evidence about the plaintiff’s reputation in mitigation of damages, the defendant must include in a pleading the facts on which the defendant intends to rely.\n\n*[Alta. Reg. 124/2010, r. 13.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 13.6 sets out the general requirements for pleadings used in any given action. By ensuring that the pleadings identify the actual issues in dispute, rule 13.6 aims to facilitate a fair and effective judicial process. Elan Construction Ltd. v. South Fish Creek Recreation Assn., [2016] A.J. No. 710, 2016 ABCA 215 at para. 23 (Alta. C.A.).\nA proper pleading must plead the factual situations which disclose the cause of action; however, the pleading does not need to plead the cause of action itself. Carroll v. Purcee Industrial Controls Ltd., [2017] A.J. No. 302, 2017 ABQB 211 at para. 59 (Alta. Q.B.), citing , [2006] A.J. No. 1152, 2006 ABCA 263 at para. 5 (Alta. C.A.). Tu v. Huang Where the pleadings do not properly plead an issue, the issue cannot be considered by the courts. Carroll v. Purcee Industrial Controls Ltd., [2017] A.J. No. 302, 2017 ABQB 211 at para. 63 (Alta. Q.B.). As such, a judgment based on an issue not pleaded will be improper. Paniccia Estate v. Toal, [2012] A.J. No. 1395, 2012 ABCA 397 at para. 32 (Alta. C.A.); PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA 16 (Alta. C.A.).\nAn excessive amount of evidence is inappropriate; it is also inappropriate to plead conclusions of law generally and one should avoid pleadings that are “merely conclusory,”",
+            "sentences": [
+              "Rule 13.6 sets out the general requirements for pleadings used in any given action.",
+              "By ensuring that the pleadings identify the actual issues in dispute, rule 13.6 aims to facilitate a fair and effective judicial process. Elan Construction Ltd. v. South Fish Creek Recreation Assn., [2016] A.J. No. 710, 2016 ABCA 215 at para. 23 (Alta. C.A.).",
+              "A proper pleading must plead the factual situations which disclose the cause of action",
+              "however, the pleading does not need to plead the cause of action itself.",
+              "Carroll v. Purcee Industrial Controls Ltd., [2017] A.J. No. 302, 2017 ABQB 211 at para. 59 (Alta. Q.B.), citing , [2006] A.J. No. 1152, 2006 ABCA 263 at para. 5 (Alta. C.A.).",
+              "Tu v. Huang Where the pleadings do not properly plead an issue, the issue cannot be considered by the courts. Carroll v. Purcee Industrial Controls Ltd., [2017] A.J. No. 302, 2017 ABQB 211 at para. 63 (Alta. Q.B.).",
+              "As such, a judgment based on an issue not pleaded will be improper. Paniccia Estate v. Toal, [2012] A.J. No. 1395, 2012 ABCA 397 at para. 32 (Alta. C.A.)",
+              "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA 16 (Alta. C.A.).",
+              "An excessive amount of evidence is inappropriate",
+              "it is also inappropriate to plead conclusions of law generally and one should avoid pleadings that are “merely conclusory,”"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2016 ABCA 215",
+                "style_of_cause": "Elan Construction Ltd. v. South Fish Creek Recreation Assn.",
+                "context": "pleadings identify the actual issues in dispute, rule 13.6 aims to facilitate a fair and effective judicial process. Elan Construction Ltd. v. South Fish Creek Recreation Assn., [2016] A.J. No. 710, 2016 ABCA 215 at para. 23 (Alta. C.A.).\nA proper pleading must plead the factual situations which disclose the ca"
+              },
+              {
+                "neutral_citation": "2017 ABQB 211",
+                "style_of_cause": "Carroll v. Purcee Industrial Controls Ltd.",
+                "context": "ad the factual situations which disclose the cause of action; however, the pleading does not need to plead the cause of action itself. Carroll v. Purcee Industrial Controls Ltd., [2017] A.J. No. 302, 2017 ABQB 211 at para. 59 (Alta. Q.B.), citing , [2006] A.J. No. 1152, 2006 ABCA 263 at para. 5 (Alta. C.A.). Tu"
+              },
+              {
+                "neutral_citation": "2006 ABCA 263",
+                "style_of_cause": "Carroll v. Purcee Industrial Controls Ltd.",
+                "context": "the pleading does not need to plead the cause of action itself. Carroll v. Purcee Industrial Controls Ltd., [2017] A.J. No. 302, 2017 ABQB 211 at para. 59 (Alta. Q.B.), citing , [2006] A.J. No. 1152, 2006 ABCA 263 at para. 5 (Alta. C.A.). Tu v. Huang Where the pleadings do not properly plead an issue, the issue"
+              },
+              {
+                "neutral_citation": "2012 ABCA 397",
+                "style_of_cause": "Paniccia Estate v. Toal",
+                "context": "dustrial Controls Ltd., [2017] A.J. No. 302, 2017 ABQB 211 at para. 63 (Alta. Q.B.). As such, a judgment based on an issue not pleaded will be improper. Paniccia Estate v. Toal, [2012] A.J. No. 1395, 2012 ABCA 397 at para. 32 (Alta. C.A.); PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84,"
+              },
+              {
+                "neutral_citation": "2021 ABCA 16",
+                "style_of_cause": "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc.",
+                "context": "an issue not pleaded will be improper. Paniccia Estate v. Toal, [2012] A.J. No. 1395, 2012 ABCA 397 at para. 32 (Alta. C.A.); PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 84, 2021 ABCA 16 (Alta. C.A.).\nAn excessive amount of evidence is inappropriate; it is also inappropriate to plead c"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "13.7",
+        "title": "Pleadings: other requirements",
+        "text": "A pleading must give particulars of any of the following matters that are included in the pleading:\n(a) breach of trust;\n(b) fraud;\n\n*[Alta. Reg. 124/2010, r. 13.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A pleading must give particulars of any of the following matters that are included in the pleading:",
+          "(a) breach of trust",
+          "*[Alta. Reg. 124/2010, r. 13.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 13.7 acknowledges that there are certain allegations, , ones that i.e. may take the other party by surprise, Bard v. Canadian Natural Resources, [2016] A.J. No. 540, 2016 ABQB 267 at para. 37 (Alta. Q.B.). that the law does not require a litigant to defend without knowing precisely what the particulars of the allegation are. While the extent of the",
+            "sentences": [
+              "Rule 13.7 acknowledges that there are certain allegations, , ones that i.e. may take the other party by surprise, Bard v. Canadian Natural Resources, [2016] A.J. No. 540, 2016 ABQB 267 at para. 37 (Alta. Q.B.). that the law does not require a litigant to defend without knowing precisely what the particulars of the allegation are.",
+              "While the extent of the"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2016 ABQB 267",
+                "style_of_cause": "Bard v. Canadian Natural Resources",
+                "context": "Rule 13.7 acknowledges that there are certain allegations, , ones that i.e. may take the other party by surprise, Bard v. Canadian Natural Resources, [2016] A.J. No. 540, 2016 ABQB 267 at para. 37 (Alta. Q.B.). that the law does not require a litigant to defend without knowing precis"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "13.8",
+        "title": "Pleadings: other contents",
+        "text": "(1) A pleading may include all or any of the following:\n(a) alternative claims or defences;\n(b) a statement of a point of law, and if so, the facts that make the point of law applicable;\n(c) a matter that arose after the commencement document was filed.\n(2) A general or other remedy claimed by a party need not be claimed in a pleading.\n\n*[Alta. Reg. 124/2010, r. 13.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) A pleading may include all or any of the following:",
+          "(a) alternative claims or defences",
+          "(b) a statement of a point of law, and if so, the facts that make the point of law applicable",
+          "(c) a matter that arose after the commencement document was filed.",
+          "(2) A general or other remedy claimed by a party need not be claimed in a pleading. *[Alta. Reg. 124/2010, r. 13.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "13.9",
+        "title": "Defence of Tender",
+        "text": "Tender before action may not be pleaded as a defence in an action unless, before the defence is filed, the defendant pays into Court the amount alleged to have been tendered.\n[2014] A.J. No. 555, 2014 ABCA 177 (Alta. C.A.);\n, [2018]\n[2019] A.J. No. 1216, 2019 ABQB 709 at para. 13 (Alta. Q.B.);\n, [2021] A.J. No. 499, Miller v. Jackson [Alta. Reg. 124/2010, r. 13.9 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]",
+        "sentences": [
+          "Tender before action may not be pleaded as a defence in an action unless, before the defence is filed, the defendant pays into Court the amount alleged to have been tendered. [2014] A.J. No. 555, 2014 ABCA 177 (Alta. C.A.)",
+          ", [2018] [2019] A.J. No. 1216, 2019 ABQB 709 at para. 13 (Alta. Q.B.)",
+          ", [2021] A.J. No. 499, Miller v. Jackson [Alta. Reg. 124/2010, r. 13.9 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2014 ABCA 177",
+            "style_of_cause": null,
+            "context": "Tender before action may not be pleaded as a defence in an action unless, before the defence is filed, the defendant pays into Court the amount alleged to have been tendered.\n[2014] A.J. No. 555, 2014 ABCA 177 (Alta. C.A.);\n, [2018]\n[2019] A.J. No. 1216, 2019 ABQB 709 at para. 13 (Alta. Q.B.);\n, [2021] A.J."
+          },
+          {
+            "neutral_citation": "2019 ABQB 709",
+            "style_of_cause": null,
+            "context": "an action unless, before the defence is filed, the defendant pays into Court the amount alleged to have been tendered.\n[2014] A.J. No. 555, 2014 ABCA 177 (Alta. C.A.);\n, [2018]\n[2019] A.J. No. 1216, 2019 ABQB 709 at para. 13 (Alta. Q.B.);\n, [2021] A.J. No. 499, Miller v. Jackson [Alta. Reg. 124/2010, r. 13.9 ef"
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "13.10",
+        "title": "Pleadings: specific requirements for replies",
+        "text": "In addition to the other requirements of these rules, in a reply to (a) a statement of defence, (b) a statement of defence to a counterclaim, or (c) a statement of defence to a third party claim, the reply may only make admissions or respond to matters raised for the first time in the statement of defence.\n\n*[Alta. Reg. 124/2010, r. 13.10 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "In addition to the other requirements of these rules, in a reply to",
+          "(a) a statement of defence",
+          "(b) a statement of defence to a counterclaim, or",
+          "(c) a statement of defence to a third party claim, the reply may only make admissions or respond to matters raised for the first time in the statement of defence. *[Alta. Reg. 124/2010, r. 13.10 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [
+          "The “other requirements” for pleadings are mainly contained in rule 13.6 [Pleadings: general requirements]\n[Pleadings: other requirements]\n, rule 13.7 , rule 13.8 and rule 13.13 [Pleadings: other contents]\n[Requirements for all filed documents]."
+        ],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "13.11",
+        "title": "Pleadings: specific requirements for class proceedings",
+        "text": "(1) The Title of a proceeding under the must include the words “ Class Proceedings Act Brought under the Class Proceedings Act” immediately below the listed parties (a) if it is intended, when the proceeding starts, that a certification order will be sought under the Act, or (b) if a certification order is subsequently made in respect of the proceeding under the Act.\n(2) If a certification order is refused in respect of the proceeding or the proceeding is decertified, the words “ ” Brought under the Class Proceedings Act must not be included in the title in any subsequently pleadings and documents filed in the proceeding.\n\n*[Alta. Reg. 124/2010, r. 13.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) The Title of a proceeding under the must include the words “ Class Proceedings Act Brought under the Class Proceedings Act” immediately below the listed parties",
+          "(a) if it is intended, when the proceeding starts, that a certification order will be sought under the Act, or",
+          "(b) if a certification order is subsequently made in respect of the proceeding under the Act.",
+          "(2) If a certification order is refused in respect of the proceeding or the proceeding is decertified, the words “ ” Brought under the Class Proceedings Act must not be included in the title in any subsequently pleadings and documents filed in the proceeding. *[Alta. Reg. 124/2010, r. 13.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "13.12",
+        "title": "Pleadings: denial of facts",
+        "text": "(1) Every fact in a pleading is denied if the fact is not admitted in another pleading filed by a party opposite in interest.\n(2) A denial of a fact in a pleading must meet the point of substance.\n\n*[Alta. Reg. 124/2010, r. 13.12 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) Every fact in a pleading is denied if the fact is not admitted in another pleading filed by a party opposite in interest.",
+          "(2) A denial of a fact in a pleading must meet the point of substance. *[Alta. Reg. 124/2010, r. 13.12 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "Division",
+      "heading": "Division 4 – FILED DOCUMENTS",
+      "rules": [
+        {
+          "number": "13.13",
+          "title": "Requirements for all filed documents",
+          "text": "(1) Every document filed in an action must be in the appropriate form set out in Schedule A to these rules, if any, which may be modified as circumstances require.\n(2) Whether or not a form is prescribed, each document must begin with the",
+          "sentences": [
+            "(1) Every document filed in an action must be in the appropriate form set out in Schedule A to these rules, if any, which may be modified as circumstances require.",
+            "(2) Whether or not a form is prescribed, each document must begin with the"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.14",
+          "title": "Endorsements on documents",
+          "text": "(1) When the court clerk is presented with a commencement document for filing, the court clerk must (a) endorse on the document an action number assigned to the action by R. 13.14 (2) If a lawyer is acting for a person on whose behalf the action is started, when the court clerk is presented with a commencement document for filing, the court clerk must ensure that the lawyer has endorsed on the document (a) the name and address of the law firm, (b) the name of the lawyer in the law firm in charge of the action, and (c) the lawyer’s telephone number.\n(3) When the court clerk is presented with a statement of defence or a demand for notice for filing, the court clerk must ensure that the document has endorsed on it (a) the name of the person filing the document and, if the person filing the document is a lawyer, the same information as is required under subrule (2)(a) to (c), and (b) the defendant’s address for service.\n(4) When the court clerk is presented with a document that is to be filed in an action after the action has started, the court clerk must (a) endorse on the document the date that the document is filed, and (b) ensure that the document to be filed has endorsed on it (i) the name of the judicial centre at which the document is filed, and (ii) the appropriate action number.\n(5) If the court clerk is presented with a document that is to be filed after an action has started, the court clerk must also, if a lawyer is acting in respect of the person on whose behalf the document is filed, ensure that the lawyer has endorsed on the document the same information as is required under subrule (2)(a) to (c).\n(6) When a document is filed, the court clerk must note in the Court file, under the action number assigned to the action by the court clerk, the fact that the document was filed.\n\n*[Alta. Reg. 124/2010, r. 13.14 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) When the court clerk is presented with a commencement document for filing, the court clerk must",
+            "(a) endorse on the document an action number assigned to the action by R. 13.14",
+            "(2) If a lawyer is acting for a person on whose behalf the action is started, when the court clerk is presented with a commencement document for filing, the court clerk must ensure that the lawyer has endorsed on the document",
+            "(a) the name and address of the law firm",
+            "(b) the name of the lawyer in the law firm in charge of the action, and",
+            "(c) the lawyer’s telephone number.",
+            "(3) When the court clerk is presented with a statement of defence or a demand for notice for filing, the court clerk must ensure that the document has endorsed on it",
+            "(a) the name of the person filing the document and, if the person filing the document is a lawyer, the same information as is required under subrule (2)(a) to (c), and",
+            "(b) the defendant’s address for service.",
+            "(4) When the court clerk is presented with a document that is to be filed in an action after the action has started, the court clerk must",
+            "(a) endorse on the document the date that the document is filed, and",
+            "(b) ensure that the document to be filed has endorsed on it",
+            "(i) the name of the judicial centre at which the document is filed, and",
+            "(ii) the appropriate action number.",
+            "(5) If the court clerk is presented with a document that is to be filed after an action has started, the court clerk must also, if a lawyer is acting in respect of the person on whose behalf the document is filed, ensure that the lawyer has endorsed on the document the same information as is required under subrule (2)(a) to (c).",
+            "(6) When a document is filed, the court clerk must note in the Court file, under the action number assigned to the action by the court clerk, the fact that the document was filed. *[Alta. Reg. 124/2010, r. 13.14 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.15",
+          "title": "When document is filed",
+          "text": "A document is filed when the court clerk of the judicial centre acknowledges on the document that the document is filed in the action.\n\n*[Alta. Reg. 124/2010, r. 13.15 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "A document is filed when the court clerk of the judicial centre acknowledges on the document that the document is filed in the action. *[Alta. Reg. 124/2010, r. 13.15 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.16",
+          "title": "Deviations from and changes to prescribed forms",
+          "text": "A prescribed form or a document prepared in place of a prescribed form is not invalidated nor is there any contravention of these rules if there is a deviation from or an addition to or an omission from the form or document that (a) does not adversely affect the substance of the information required to be provided or that the Court requires to be provided, and (b) is not intended to mislead.\n\n*[Alta. Reg. 124/2010, r. 13.16 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "A prescribed form or a document prepared in place of a prescribed form is not invalidated nor is there any contravention of these rules if there is a deviation from or an addition to or an omission from the form or document that",
+            "(a) does not adversely affect the substance of the information required to be provided or that the Court requires to be provided, and",
+            "(b) is not intended to mislead. *[Alta. Reg. 124/2010, r. 13.16 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "While the prescribed form may be mandatory, the format of the form is not strictly binding provided that the substance of the form meets the requirements found",
+              "sentences": [
+                "While the prescribed form may be mandatory, the format of the form is not strictly binding provided that the substance of the form meets the requirements found"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "13.17",
+          "title": "Amendments to records other than commencement documents, pleadings or affidavits",
+          "text": "If the Court orders that an amendment be made to a document or other record filed with the Court, other than a commencement document, pleading, or affidavit, (a) a note of the amendment must be attached to, made on, or made in the document or record, (b) the amendment must (i) be dated and identified, and each amended version must be identified, and (ii) be endorsed by the court clerk in the following form:\nAmended on [date] by [order]\nDated. . . and (c) except as required by this rule, the document or other record must not be otherwise physically altered.\n\n*[Alta. Reg. 124/2010, r. 13.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nSubdivision 2: FORM AND CONTENTS OF AFFIDAVITS AND EXHIBITS",
+          "sentences": [
+            "If the Court orders that an amendment be made to a document or other record filed with the Court, other than a commencement document, pleading, or affidavit",
+            "(a) a note of the amendment must be attached to, made on, or made in the document or record",
+            "(b) the amendment must",
+            "(i) be dated and identified, and each amended version must be identified, and",
+            "(ii) be endorsed by the court clerk in the following form: Amended on [date] by [order] Dated. . . and",
+            "(c) except as required by this rule, the document or other record must not be otherwise physically altered. *[Alta. Reg. 124/2010, r. 13.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]* Subdivision 2: FORM AND CONTENTS OF AFFIDAVITS AND EXHIBITS"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.18",
+          "title": "Types of affidavit",
+          "text": "(1) An affidavit may be sworn (a) on the basis of personal knowledge, or R. 13.16 (2) If an affidavit is sworn on the basis of information and belief, the source of the information must be disclosed in the affidavit.\n(3) If an affidavit is used in support of an application that may dispose of all or part of a claim, the affidavit must be sworn on the basis of the personal knowledge of the person swearing the affidavit.\n\n*[Alta. Reg. 124/2010, r. 13.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) An affidavit may be sworn",
+            "(a) on the basis of personal knowledge, or R. 13.16",
+            "(2) If an affidavit is sworn on the basis of information and belief, the source of the information must be disclosed in the affidavit.",
+            "(3) If an affidavit is used in support of an application that may dispose of all or part of a claim, the affidavit must be sworn on the basis of the personal knowledge of the person swearing the affidavit. *[Alta. Reg. 124/2010, r. 13.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Under section 28(1)(ll) of the Interpretation Act, references to affidavits and to sworn statements permit a person to make a solemn affirmation or solemn declaration instead of an affidavit."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 13.18 dictates the basis on which affidavits can be sworn. The rule draws a distinction between affidavits based on the use to which it will be put, however, there are certain limitations which apply to all affidavits; affidavits which include arguments, opinions, conclusions, and law will be struck out or ignored. Canapen (Phipps-McKinnon) Ltd. v. Edmonton (City), [2016] A.J. No. 892, 2016 ABQB 501 at para. 12 (Alta. Q.B.); , [2021] A.J. No. 660, 2021 ABCA 179 at para. 12 (Alta. Saito v. Lester Estate C.A.); , [2024] A.J. No. 183, 2024 Prosser v. Industrial Alliance Insurance and Financial Services Inc. ABKB 87 at paras. 145-148 (Alta. K.B.). The swearing of an affidavit by a legal assistant working for a party’s counsel is not acceptable other than for non-controversial matters. Prosser v. Industrial Alliance Insurance and Financial Services Inc., [2024] A.J. No. 183, 2024 ABKB 87 at para. 148 (Alta. K.B.).\nHearsay on Interlocutory Applications – Rule 13.18(2) permits hearsay evidence to be included in a supporting affidavit for interlocutory motions, but only if it is accompanied by the source and the grounds for the belief are given. Paramount Mortgage Corp. v. Avenue AH Construction GP Corp., [2014] A.J. No. 146, 2014 ABQB 84 at para. 37 (Alta. Q.B.); , [2023] A.J. No. 1065, McDonald v. Sproule Management GP Ltd. This rule does not require the court to accept hearsay evidence without scrutiny. ANC Timber Ltd. v. Alberta (Minister of Agriculture and Forestry), [2019] A.J. No. 1121, 2019 ABQB 653 at para. 58 (Alta. Q.B.). Hearsay evidence has less probative value than an affidavit from a person who observed reported events. Condominium Corp. No. 042 5177 v. Kuzio, [2019] A.J. No. 1393, 2019 ABQB 814 at para. 111 (Alta. Q.B.). Hearsay evidence may be considered on interlocutory applications for extraordinary relief, such as applications ex parte for injunctions, attachment orders and orders but, in those circumstances, a judge Anton Piller should proceed cautiously; and it may be problematic to maintain the relief granted when the applicant failed to provide any direct evidence with no explanation why direct evidence was not available. Henenghaixin Corp. v. Deng, [2022] A.J. No. 997, 2022 ABCA 271 at paras. 30, 31, 45 (Alta. C.A.).\nHearsay in Final Applications – Where an application concerns the disposition of some or",
+              "sentences": [
+                "Rule 13.18 dictates the basis on which affidavits can be sworn.",
+                "The rule draws a distinction between affidavits based on the use to which it will be put, however, there are certain limitations which apply to all affidavits",
+                "affidavits which include arguments, opinions, conclusions, and law will be struck out or ignored. Canapen (Phipps-McKinnon) Ltd. v. Edmonton (City), [2016] A.J. No. 892, 2016 ABQB 501 at para. 12 (Alta. Q.B.)",
+                ", [2021] A.J. No. 660, 2021 ABCA 179 at para. 12 (Alta. Saito v. Lester Estate C.A.)",
+                ", [2024] A.J. No. 183, 2024 Prosser v. Industrial Alliance Insurance and Financial Services Inc. ABKB 87 at paras. 145-148 (Alta. K.B.).",
+                "The swearing of an affidavit by a legal assistant working for a party’s counsel is not acceptable other than for non-controversial matters. Prosser v. Industrial Alliance Insurance and Financial Services Inc., [2024] A.J. No. 183, 2024 ABKB 87 at para. 148 (Alta. K.B.).",
+                "Hearsay on Interlocutory Applications – Rule 13.18(2) permits hearsay evidence to be included in a supporting affidavit for interlocutory motions, but only if it is accompanied by the source and the grounds for the belief are given.",
+                "Paramount Mortgage Corp. v. Avenue AH Construction GP Corp., [2014] A.J. No. 146, 2014 ABQB 84 at para. 37 (Alta. Q.B.)",
+                ", [2023] A.J. No. 1065, McDonald v. Sproule Management GP Ltd. This rule does not require the court to accept hearsay evidence without scrutiny.",
+                "ANC Timber Ltd. v. Alberta (Minister of Agriculture and Forestry), [2019] A.J. No. 1121, 2019 ABQB 653 at para. 58 (Alta. Q.B.).",
+                "Hearsay evidence has less probative value than an affidavit from a person who observed reported events. Condominium Corp. No. 042 5177 v. Kuzio, [2019] A.J. No. 1393, 2019 ABQB 814 at para. 111 (Alta. Q.B.).",
+                "Hearsay evidence may be considered on interlocutory applications for extraordinary relief, such as applications ex parte for injunctions, attachment orders and orders but, in those circumstances, a judge Anton Piller should proceed cautiously",
+                "and it may be problematic to maintain the relief granted when the applicant failed to provide any direct evidence with no explanation why direct evidence was not available.",
+                "Henenghaixin Corp. v. Deng, [2022] A.J. No. 997, 2022 ABCA 271 at paras. 30, 31, 45 (Alta. C.A.).",
+                "Hearsay in Final Applications – Where an application concerns the disposition of some or"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2016 ABQB 501",
+                  "style_of_cause": "Ltd. v. Edmonton",
+                  "context": "hich apply to all affidavits; affidavits which include arguments, opinions, conclusions, and law will be struck out or ignored. Canapen (Phipps-McKinnon) Ltd. v. Edmonton (City), [2016] A.J. No. 892, 2016 ABQB 501 at para. 12 (Alta. Q.B.); , [2021] A.J. No. 660, 2021 ABCA 179 at para. 12 (Alta. Saito v. Lester E"
+                },
+                {
+                  "neutral_citation": "2021 ABCA 179",
+                  "style_of_cause": "Ltd. v. Edmonton",
+                  "context": "s, opinions, conclusions, and law will be struck out or ignored. Canapen (Phipps-McKinnon) Ltd. v. Edmonton (City), [2016] A.J. No. 892, 2016 ABQB 501 at para. 12 (Alta. Q.B.); , [2021] A.J. No. 660, 2021 ABCA 179 at para. 12 (Alta. Saito v. Lester Estate C.A.); , [2024] A.J. No. 183, 2024 Prosser v. Industrial"
+                },
+                {
+                  "neutral_citation": "2024 ABKB 87",
+                  "style_of_cause": "Prosser v. Industrial Alliance Insurance and Financial Services Inc.",
+                  "context": "a legal assistant working for a party’s counsel is not acceptable other than for non-controversial matters. Prosser v. Industrial Alliance Insurance and Financial Services Inc., [2024] A.J. No. 183, 2024 ABKB 87 at para. 148 (Alta. K.B.).\nHearsay on Interlocutory Applications – Rule 13.18(2) permits hearsay ev"
+                },
+                {
+                  "neutral_citation": "2014 ABQB 84",
+                  "style_of_cause": "Paramount Mortgage Corp. v. Avenue AH Construction GP Corp.",
+                  "context": "avit for interlocutory motions, but only if it is accompanied by the source and the grounds for the belief are given. Paramount Mortgage Corp. v. Avenue AH Construction GP Corp., [2014] A.J. No. 146, 2014 ABQB 84 at para. 37 (Alta. Q.B.); , [2023] A.J. No. 1065, McDonald v. Sproule Management GP Ltd. This rule"
+                },
+                {
+                  "neutral_citation": "2019 ABQB 653",
+                  "style_of_cause": "ANC Timber Ltd. v. Alberta",
+                  "context": ". Sproule Management GP Ltd. This rule does not require the court to accept hearsay evidence without scrutiny. ANC Timber Ltd. v. Alberta (Minister of Agriculture and Forestry), [2019] A.J. No. 1121, 2019 ABQB 653 at para. 58 (Alta. Q.B.). Hearsay evidence has less probative value than an affidavit from a person"
+                },
+                {
+                  "neutral_citation": "2019 ABQB 814",
+                  "style_of_cause": "Condominium Corp. No. 042 5177 v. Kuzio",
+                  "context": "QB 653 at para. 58 (Alta. Q.B.). Hearsay evidence has less probative value than an affidavit from a person who observed reported events. Condominium Corp. No. 042 5177 v. Kuzio, [2019] A.J. No. 1393, 2019 ABQB 814 at para. 111 (Alta. Q.B.). Hearsay evidence may be considered on interlocutory applications for ext"
+                },
+                {
+                  "neutral_citation": "2022 ABCA 271",
+                  "style_of_cause": "Henenghaixin Corp. v. Deng",
+                  "context": "tic to maintain the relief granted when the applicant failed to provide any direct evidence with no explanation why direct evidence was not available. Henenghaixin Corp. v. Deng, [2022] A.J. No. 997, 2022 ABCA 271 at paras. 30, 31, 45 (Alta. C.A.).\nHearsay in Final Applications – Where an application concerns th"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "13.19",
+          "title": "Requirements for affidavits",
+          "text": "(1) In addition to complying with rule 13.13 , an affidavit under these rules [Requirements for all filed documents] must comply with all of the following:\n(a) be in Form 49, (b) state, on the front page, the full name of the person swearing the affidavit and the date the affidavit was sworn, (c) state the place of residence of the person swearing the affidavit, (d) be written in the first person, (e) be divided into consecutively numbered paragraphs, with dates and numbers expressed in numerals unless words or a combination of words and numbers makes the meaning clearer, (f) be signed or acknowledged and sworn before a person empowered to administer oaths, whether that person prepared the affidavit or not, (g) contain a statement of when, where and before whom the affidavit was sworn, and (h) be signed by the person administering the oath.\n(2) An affidavit is not invalid or otherwise improper just because it was sworn before a commencement document was filed.\n\n*[Alta. Reg. 124/2010, r. 13.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 163/2010, s. 9]",
+          "sentences": [
+            "(1) In addition to complying with rule 13.13 , an affidavit under these rules [Requirements for all filed documents] must comply with all of the following:",
+            "(a) be in Form 49",
+            "(b) state, on the front page, the full name of the person swearing the affidavit and the date the affidavit was sworn",
+            "(c) state the place of residence of the person swearing the affidavit",
+            "(d) be written in the first person",
+            "(e) be divided into consecutively numbered paragraphs, with dates and numbers expressed in numerals unless words or a combination of words and numbers makes the meaning clearer",
+            "(f) be signed or acknowledged and sworn before a person empowered to administer oaths, whether that person prepared the affidavit or not",
+            "(g) contain a statement of when, where and before whom the affidavit was sworn, and",
+            "(h) be signed by the person administering the oath.",
+            "(2) An affidavit is not invalid or otherwise improper just because it was sworn before a commencement document was filed. *[Alta. Reg. 124/2010, r. 13.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 163/2010, s. 9]"
+          ],
+          "citations": [],
+          "info_notes": [
+            "The place of residence referred to in subrule (1)(c) could be an address or the municipality in which the person swearing the affidavit resides."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 13.19(1)(f) requires actual signatures on affidavits. Apart from this, the Rules generally do not contemplate original signatures. Thompson Brothers (Construction) Ltd. v. Alberta (Appeals Commission for Alberta Workers’ Compensation), [2012] A.J. No. 504, 2012 ABCA 150 at para. 7 (Alta. C.A.). If an original signature cannot be filed, a fiat must be obtained to permit filing.",
+              "sentences": [
+                "Rule 13.19(1)(f) requires actual signatures on affidavits. Apart from this, the Rules generally do not contemplate original signatures. Thompson Brothers (Construction) Ltd. v. Alberta (Appeals Commission for Alberta Workers’ Compensation), [2012] A.J. No. 504, 2012 ABCA 150 at para. 7 (Alta. C.A.).",
+                "If an original signature cannot be filed, a fiat must be obtained to permit filing."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2012 ABCA 150",
+                  "style_of_cause": "Ltd. v. Alberta",
+                  "context": "rt from this, the Rules generally do not contemplate original signatures. Thompson Brothers (Construction) Ltd. v. Alberta (Appeals Commission for Alberta Workers’ Compensation), [2012] A.J. No. 504, 2012 ABCA 150 at para. 7 (Alta. C.A.). If an original signature cannot be filed, a fiat must be obtained to permi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "13.20",
+          "title": "Changes in affidavits",
+          "text": "An affidavit with an insertion, alteration or erasure must not be used without the Court’s permission unless the insertion, alteration or erasure is authenticated by the initials of the person administering the oath.\nAlta. Reg. 124/2010, r. 13.20 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+          "sentences": [
+            "An affidavit with an insertion, alteration or erasure must not be used without the Court’s permission unless the insertion, alteration or erasure is authenticated by the initials of the person administering the oath. Alta. Reg. 124/2010, r. 13.20 effective November 1, 2010 (Alta. Gaz. August 14, 2010)"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.21",
+          "title": "Requirements for exhibits to affidavit",
+          "text": "(1) A record to be used with an affidavit must be (a) an exhibit to the affidavit, and (b) identified by a certificate of the person administering the oath.\n(2) If the total number of pages of an affidavit and attached exhibits is  Pagnucco v. Sears Canada Inc., [2011] A.J. No. 1505, 2011 ABQB 810 at para. 14 (Alta. Q.B. (Master)). or more, (a) the exhibits must be separated by tabs, and the pages within each tab must be numbered consecutively, or (b) the pages of the affidavit and all exhibits must be consecutively numbered using a single series of numbers.\n(3) An exhibit to an affidavit must be attached or appended to the affidavit when the affidavit is filed unless the exhibit is adequately identified and the affidavit states a reason for not attaching or appending the exhibit, which includes the following:\n(a) the physical characteristics of the exhibit;\n(b) the confidentiality of the exhibit or its content;\n(c) the exhibit has already been filed;\n(d) any other appropriate reason.\n(4) Exhibits that are not attached to an affidavit under subrule (3) shall be available for inspection and copying by the other parties to the litigation, subject to the direction of the Court.\n(5) Any interested person who is not a party to the action may apply to the Court for access to the exhibit, which may be granted on such terms and conditions as the Court may direct.\n\n*[Alta. Reg. 124/2010, r. 13.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 194/2020, s. 6 effective October 21, 2020 (Alta. Gaz. November 14, 2020)]",
+          "sentences": [
+            "(1) A record to be used with an affidavit must be",
+            "(a) an exhibit to the affidavit, and",
+            "(b) identified by a certificate of the person administering the oath.",
+            "(2) If the total number of pages of an affidavit and attached exhibits is Pagnucco v. Sears Canada Inc., [2011] A.J. No. 1505, 2011 ABQB 810 at para. 14 (Alta. Q.B. (Master)). or more",
+            "(a) the exhibits must be separated by tabs, and the pages within each tab must be numbered consecutively, or",
+            "(b) the pages of the affidavit and all exhibits must be consecutively numbered using a single series of numbers.",
+            "(3) An exhibit to an affidavit must be attached or appended to the affidavit when the affidavit is filed unless the exhibit is adequately identified and the affidavit states a reason for not attaching or appending the exhibit, which includes the following:",
+            "(a) the physical characteristics of the exhibit",
+            "(b) the confidentiality of the exhibit or its content",
+            "(c) the exhibit has already been filed",
+            "(d) any other appropriate reason.",
+            "(4) Exhibits that are not attached to an affidavit under subrule",
+            "(3) shall be available for inspection and copying by the other parties to the litigation, subject to the direction of the Court.",
+            "(5) Any interested person who is not a party to the action may apply to the Court for access to the exhibit, which may be granted on such terms and conditions as the Court may direct. *[Alta. Reg. 124/2010, r. 13.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 194/2020, s. 6 effective October 21, 2020 (Alta. Gaz. November 14, 2020)]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2011 ABQB 810",
+              "style_of_cause": "If the total number of pages of an affidavit and attached exhibits is  Pagnucco v. Sears Canada Inc.",
+              "context": "d (b) identified by a certificate of the person administering the oath.\n(2) If the total number of pages of an affidavit and attached exhibits is  Pagnucco v. Sears Canada Inc., [2011] A.J. No. 1505, 2011 ABQB 810 at para. 14 (Alta. Q.B. (Master)). or more, (a) the exhibits must be separated by tabs, and the pag"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.22",
+          "title": "Affidavits by visually impaired or those unable to read",
+          "text": "(1) If it seems to the person administering the oath that the person swearing the affidavit is visually impaired or unable to read, the person administering the oath must read the affidavit to the person swearing the affidavit and certify that (a) the affidavit was read to the person, (b) the person seemed to understand it, and (c) the person signed the affidavit or made the person’s mark in the presence of the person administering the oath.\n(2) The affidavit must not be used in evidence without the certification referred to in subrule (1) unless the Court is satisfied that the affidavit was read to, and appeared to be understood by, the person swearing it.\n\n*[Alta. Reg. 124/2010, r. 13.22 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If it seems to the person administering the oath that the person swearing the affidavit is visually impaired or unable to read, the person administering the oath must read the affidavit to the person swearing the affidavit and certify that",
+            "(a) the affidavit was read to the person",
+            "(b) the person seemed to understand it, and",
+            "(c) the person signed the affidavit or made the person’s mark in the presence of the person administering the oath.",
+            "(2) The affidavit must not be used in evidence without the certification referred to in subrule",
+            "(1) unless the Court is satisfied that the affidavit was read to, and appeared to be understood by, the person swearing it. *[Alta. Reg. 124/2010, r. 13.22 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.23",
+          "title": "Understanding affidavit",
+          "text": "(1) If it seems to the person administering the oath that the person swearing a written affidavit does not understand the language in which the affidavit is written, before the affidavit is sworn the contents of the affidavit must be translated for the person swearing the affidavit by a person competent to do so.\n(2) Before the affidavit is translated, the translator must be sworn to accurately translate the affidavit and oath.\n(3) The person administering the oath must certify as to the person’s belief that the affidavit was translated for the person swearing the affidavit by the sworn translator.\n(4) Unless otherwise permitted by the Court, a sworn affidavit that is not in the English language must be translated into English by a translator competent to do so and, when the affidavit is filed, be accompanied with a certificate of the translator that the translation is accurate and complete.\n\n*[Alta. Reg. 124/2010, r. 13.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If it seems to the person administering the oath that the person swearing a written affidavit does not understand the language in which the affidavit is written, before the affidavit is sworn the contents of the affidavit must be translated for the person swearing the affidavit by a person competent to do so.",
+            "(2) Before the affidavit is translated, the translator must be sworn to accurately translate the affidavit and oath.",
+            "(3) The person administering the oath must certify as to the person’s belief that the affidavit was translated for the person swearing the affidavit by the sworn translator.",
+            "(4) Unless otherwise permitted by the Court, a sworn affidavit that is not in the English language must be translated into English by a translator competent to do so and, when the affidavit is filed, be accompanied with a certificate of the translator that the translation is accurate and complete. *[Alta. Reg. 124/2010, r. 13.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.24",
+          "title": "More than one individual swearing affidavit",
+          "text": "An affidavit may be made by 2 or more individuals and that fact must be stated in the statement of when, where and before whom the affidavit was sworn.\n\n*[Alta. Reg. 124/2010, r. 13.24 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "An affidavit may be made by 2 or more individuals and that fact must be stated in the statement of when, where and before whom the affidavit was sworn. *[Alta. Reg. 124/2010, r. 13.24 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.25",
+          "title": "Use of filed affidavits",
+          "text": "In an application or proceeding in an action, a",
+          "sentences": [
+            "In an application or proceeding in an action, a"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.26",
+          "title": "Exhibits: filing and return",
+          "text": "(1) Exhibits filed with the court clerk in a hearing or trial must (a) be dated and numbered, (b) indicate the parties involved in the action, application or proceeding for which the exhibit is filed, and (c) state who owns the exhibit and by whom the exhibit is filed.\n(2) Alist of exhibits filed in the hearing or trial, briefly describing the exhibits and who filed them, must be noted in the Court file.\n(3) After the time for an appeal has expired, the court clerk may, subject to any order, return a record or exhibit to the owner or person who filed it.\n(4) The court clerk may destroy or dispose of a record or exhibit if the court clerk (a) gives at least 3 months’ written notice by ordinary mail to the owner or person who filed it of the court clerk’s intention to destroy or dispose of the record or exhibit, and (b) receives no response to the notice by the end of the notice period given under clause (a).\n\n*[Alta. Reg. 124/2010, r. 13.26 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 163/2010, s. 10]\nSubdivision 3: LOST AND CONCURRENT DOCUMENTS, CERTIFIED COPIES, AUTHENTICATED PHOTOGRAPHS AND VIDEO RECORDINGS",
+          "sentences": [
+            "(1) Exhibits filed with the court clerk in a hearing or trial must",
+            "(a) be dated and numbered",
+            "(b) indicate the parties involved in the action, application or proceeding for which the exhibit is filed, and",
+            "(c) state who owns the exhibit and by whom the exhibit is filed.",
+            "(2) Alist of exhibits filed in the hearing or trial, briefly describing the exhibits and who filed them, must be noted in the Court file.",
+            "(3) After the time for an appeal has expired, the court clerk may, subject to any order, return a record or exhibit to the owner or person who filed it.",
+            "(4) The court clerk may destroy or dispose of a record or exhibit if the court clerk",
+            "(a) gives at least 3 months’ written notice by ordinary mail to the owner or person who filed it of the court clerk’s intention to destroy or dispose of the record or exhibit, and",
+            "(b) receives no response to the notice by the end of the notice period given under clause (a). *[Alta. Reg. 124/2010, r. 13.26 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 163/2010, s. 10] Subdivision 3: LOST AND CONCURRENT DOCUMENTS, CERTIFIED COPIES, AUTHENTICATED PHOTOGRAPHS AND VIDEO RECORDINGS"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.27",
+          "title": "Lost documents",
+          "text": "If a commencement or other document has been lost, the court clerk, if satisfied of the loss and of the correctness of a copy of the document, may certify the copy, which may be used in place of the original.\n\n*[Alta. Reg. 124/2010, r. 13.27 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "If a commencement or other document has been lost, the court clerk, if satisfied of the loss and of the correctness of a copy of the document, may certify the copy, which may be used in place of the original. *[Alta. Reg. 124/2010, r. 13.27 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.28",
+          "title": "Concurrent document",
+          "text": "(1) During the validity of a commencement document, the court clerk may issue a concurrent document, which is in force",
+          "sentences": [
+            "(1) During the validity of a commencement document, the court clerk may issue a concurrent document, which is in force"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.29",
+          "title": "Certified copies of original records",
+          "text": "(1) The Court may give directions (a) respecting the preparation of a certified copy of an original record that has been filed, and (b) if necessary, the use of the certified copy in place of the original record in an action, application or proceeding.\n(2) The court clerk may certify or authenticate any document in the court file.\n(3) The certified copy of an original record is admissible in evidence to the same extent as the original.\n\n*[Alta. Reg. 124/2010, r. 13.29 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) The Court may give directions",
+            "(a) respecting the preparation of a certified copy of an original record that has been filed, and",
+            "(b) if necessary, the use of the certified copy in place of the original record in an action, application or proceeding.",
+            "(2) The court clerk may certify or authenticate any document in the court file.",
+            "(3) The certified copy of an original record is admissible in evidence to the same extent as the original. *[Alta. Reg. 124/2010, r. 13.29 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.30",
+          "title": "Authenticated photographs of personal property",
+          "text": "(1) If a party wishes to put personal property in evidence, the party may, in addition to or in substitution for the property, file one or more photographs (a) if permitted or directed by the Court, or (b) with the agreement of every other party.\n(2) The party filing the photographs must provide an accompanying certificate by the photographer certifying its authenticity and, with respect to each photograph, (a) the date, time and place where the photograph was taken;\n(b) the photographer’s name;\n(c) whether the photograph has been modified, enhanced or altered in any way, or otherwise tampered with;\n(d) any other matter directed by the Court.\n(3) An authenticated photograph filed under this rule must be treated by the Court in the same manner as if the personal property had been received in evidence, but if in the Court’s opinion the quality or content of a photograph is not adequate, the Court may (a) direct that the photograph not be used, or (b) give any other direction the Court considers appropriate in the circumstances.\n\n*[Alta. Reg. 124/2010, r. 13.30 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If a party wishes to put personal property in evidence, the party may, in addition to or in substitution for the property, file one or more photographs",
+            "(a) if permitted or directed by the Court, or",
+            "(b) with the agreement of every other party.",
+            "(2) The party filing the photographs must provide an accompanying certificate by the photographer certifying its authenticity and, with respect to each photograph",
+            "(a) the date, time and place where the photograph was taken",
+            "(b) the photographer’s name",
+            "(c) whether the photograph has been modified, enhanced or altered in any way, or otherwise tampered with",
+            "(d) any other matter directed by the Court.",
+            "(3) An authenticated photograph filed under this rule must be treated by the Court in the same manner as if the personal property had been received in evidence, but if in the Court’s opinion the quality or content of a photograph is not adequate, the Court may",
+            "(a) direct that the photograph not be used, or",
+            "(b) give any other direction the Court considers appropriate in the circumstances. *[Alta. Reg. 124/2010, r. 13.30 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.31",
+          "title": "Video recordings in place of transcripts",
+          "text": "If the parties agree or the [Alta. Reg. 124/2010, r. 13.31 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]",
+          "sentences": [
+            "If the parties agree or the [Alta. Reg. 124/2010, r. 13.31 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        }
+      ]
+    },
+    {
+      "type": "Division",
+      "heading": "Division 4 – FILED DOCUMENTS",
+      "rules": [
+        {
+          "number": "13.32",
+          "title": "Fees and allowances",
+          "text": "(1) In every action, application or proceeding in Court, there must be paid to the appropriate court officer or other appropriate person the fee specified, referred to or determined in accordance with Schedule B unless the court clerk waives [Court Fees and Witness and Other Allowances] the fee, in whole or in part, in accordance with guidelines, if any, established or adopted by the Minister of Justice for persons unable to pay fees.\n(2) Except for fees for transcripts, the fees referred to in subrule (1) are payable in advance unless the court clerk otherwise permits.\n\n*[Alta. Reg. 124/2010, r. 13.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 143/2011, s. 25; Alta. Reg. 170/2012, s. 10(g); Alta. Reg. 216/2022, s. 3(2) effective October 22, 2024 (Alta. Gaz. November 15, 2022)]",
+          "sentences": [
+            "(1) In every action, application or proceeding in Court, there must be paid to the appropriate court officer or other appropriate person the fee specified, referred to or determined in accordance with Schedule B unless the court clerk waives [Court Fees and Witness and Other Allowances] the fee, in whole or in part, in accordance with guidelines, if any, established or adopted by the Minister of Justice for persons unable to pay fees.",
+            "(2) Except for fees for transcripts, the fees referred to in subrule",
+            "(1) are payable in advance unless the court clerk otherwise permits. *[Alta. Reg. 124/2010, r. 13.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 143/2011, s. 25",
+            "Alta. Reg. 170/2012, s. 10(g)",
+            "Alta. Reg. 216/2022, s. 3(2) effective October 22, 2024 (Alta. Gaz. November 15, 2022)]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "In Alberta, there is explicit power to waive fees; that power is given explicitly to court clerks.89While the rule specifically provides that the court clerk can waive the fee, the court does have jurisdiction to waive fees where access to justice is at issue. This requires that:  Toronto Dominion Bank v. Beaton, [2012] A.J. No. 206, 2012 ABQB 125 at para. 18 (Alta. Q.B.).\n• there is evidence that the applicant cannot afford the required fees; and • the applicant must satisfy the court of the merit of the claim that cannot be advanced without incurring the subject fee.\nIn assessing the financial circumstances of the application, the court will take into account the relative ability of the applicant to pay access fees. Toronto Dominion Bank v. Beaton, [2012] A.J. No. 206, 2012 ABQB 125 at para. 22 (Alta. Q.B.).\nIn assessing the merits of the case, the court will consider not the overall merits of the case,",
+              "sentences": [
+                "In Alberta, there is explicit power to waive fees",
+                "that power is given explicitly to court clerks.89While the rule specifically provides that the court clerk can waive the fee, the court does have jurisdiction to waive fees where access to justice is at issue.",
+                "This requires that: Toronto Dominion Bank v. Beaton, [2012] A.J. No. 206, 2012 ABQB 125 at para. 18 (Alta. Q.B.). • there is evidence that the applicant cannot afford the required fees",
+                "and • the applicant must satisfy the court of the merit of the claim that cannot be advanced without incurring the subject fee.",
+                "In assessing the financial circumstances of the application, the court will take into account the relative ability of the applicant to pay access fees. Toronto Dominion Bank v. Beaton, [2012] A.J. No. 206, 2012 ABQB 125 at para. 22 (Alta. Q.B.).",
+                "In assessing the merits of the case, the court will consider not the overall merits of the case"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2012 ABQB 125",
+                  "style_of_cause": "Toronto Dominion Bank v. Beaton",
+                  "context": "that the court clerk can waive the fee, the court does have jurisdiction to waive fees where access to justice is at issue. This requires that:  Toronto Dominion Bank v. Beaton, [2012] A.J. No. 206, 2012 ABQB 125 at para. 18 (Alta. Q.B.).\n• there is evidence that the applicant cannot afford the required fees; a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "13.33",
+          "title": "Uncertainty of amount of fees and allowances",
+          "text": "(1) If the amount of a fee, allowance or other amount is uncertain or impossible to determine, the fee or amount may be estimated by the court clerk and adjusted when the fee or amount is fixed by a judge.\n(2) When a person is paid or given an allowance before actual attendance at an application or proceeding conducted under these rules, the person is entitled to receive any additional sum that is determined to be payable after completion of the attendance.\n(3) When a party is permitted or required to pay an allowance, that party may have the amount fixed by an assessment officer without notice to any other person, subject to adjustment after completion of the actual attendance.\n\n*[Alta. Reg. 124/2010, r. 13.33 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If the amount of a fee, allowance or other amount is uncertain or impossible to determine, the fee or amount may be estimated by the court clerk and adjusted when the fee or amount is fixed by a judge.",
+            "(2) When a person is paid or given an allowance before actual attendance at an application or proceeding conducted under these rules, the person is entitled to receive any additional sum that is determined to be payable after completion of the attendance.",
+            "(3) When a party is permitted or required to pay an allowance, that party may have the amount fixed by an assessment officer without notice to any other person, subject to adjustment after completion of the actual attendance. *[Alta. Reg. 124/2010, r. 13.33 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.34",
+          "title": "Fee accounts",
+          "text": "The court clerk may establish and operate accounts for the purpose of allowing lawyers to charge fees or other amounts to the account and for the court clerk to send an invoice for fees and other amounts as required.\n\n*[Alta. Reg. 124/2010, r. 13.34 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "The court clerk may establish and operate accounts for the purpose of allowing lawyers to charge fees or other amounts to the account and for the court clerk to send an invoice for fees and other amounts as required. *[Alta. Reg. 124/2010, r. 13.34 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.35",
+          "title": "Fee exemption",
+          "text": "(1) A peace officer is exempt from the payment of fees or other amounts under Schedule B [Court Fees and Witness and Other Allowances] for the search of a name, the inspection of a file or a copy or the certification of a document when the court service is required in the execution or discharge of the peace officer’s duties.\n(2) In this rule, “peace officer” means a peace officer as defined in the Provincial Offences Procedures Act.\n\n*[Alta. Reg. 124/2010, r. 13.35 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) A peace officer is exempt from the payment of fees or other amounts under Schedule B [Court Fees and Witness and Other Allowances] for the search of a name, the inspection of a file or a copy or the certification of a document when the court service is required in the execution or discharge of the peace officer’s duties.",
+            "(2) In this rule, “peace officer” means a peace officer as defined in the Provincial Offences Procedures Act. *[Alta. Reg. 124/2010, r. 13.35 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "13.36",
+          "title": "Fee waiver: legal aid",
+          "text": "(1) In this rule, (a) “certificate” means a Legal Aid Certificate issued by the Legal Aid Society of Alberta;\n(b) “document” means any document that may be filed for which a fee is payable under any of items 1 to 4 or  F. (D.B.) v. F. (B.), [2018] A.J. No. 322, 2018 ABCA 108 at para. 9 (Alta. C.A.), citing with approval , [2015] A.J. No. 13, Attila Dogan Construction and Installation Co. v. AMEC Americas Ltd. to 32.1 of Schedule B [Court Fees and Witness and Other Allowances].\n(2) A court clerk who is requested to file a document must waive the filing fee otherwise payable if presented with a subsisting certificate issued in respect of the person for whom the document is to be filed.\n(3) If a document was filed in an action before a certificate is issued in respect of the person for whom the document was filed, the fee paid for filing the document may not be waived under this rule.",
+          "sentences": [
+            "(1) In this rule",
+            "(a) “certificate” means a Legal Aid Certificate issued by the Legal Aid Society of Alberta",
+            "(b) “document” means any document that may be filed for which a fee is payable under any of items 1 to 4 or F. (D.B.) v. F. (B.), [2018] A.J. No. 322, 2018 ABCA 108 at para. 9 (Alta. C.A.), citing with approval , [2015] A.J. No. 13, Attila Dogan Construction and Installation Co. v. AMEC Americas Ltd. to 32.1 of Schedule B [Court Fees and Witness and Other Allowances].",
+            "(2) A court clerk who is requested to file a document must waive the filing fee otherwise payable if presented with a subsisting certificate issued in respect of the person for whom the document is to be filed.",
+            "(3) If a document was filed in an action before a certificate is issued in respect of the person for whom the document was filed, the fee paid for filing the document may not be waived under this rule."
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2018 ABCA 108",
+              "style_of_cause": null,
+              "context": "ate issued by the Legal Aid Society of Alberta;\n(b) “document” means any document that may be filed for which a fee is payable under any of items 1 to 4 or  F. (D.B.) v. F. (B.), [2018] A.J. No. 322, 2018 ABCA 108 at para. 9 (Alta. C.A.), citing with approval , [2015] A.J. No. 13, Attila Dogan Construction and I"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        }
+      ]
+    }
+  ]
+}

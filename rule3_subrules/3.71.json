@@ -1,0 +1,251 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.71",
+  "title": {
+    "official": "Separating claims",
+    "variants": {}
+  },
+  "division": {
+    "number": 6,
+    "heading": "Refining Claims and Changing Parties"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Joining and Separating Claims and Parties"
+  },
+  "operative_text": {
+    "controlling": "3.71(1)  When 2 or more claims are made in an action or when 2 or\nmore parties join or are joined in an action, the Court may make an\norder under this rule if the Court is satisfied that the joined claims\nor parties, or both, may\n(a) unduly complicate or delay the action, or\n(b) cause undue prejudice to a party.\n(2)  The Court may, by order, do one or more of the following:\n(a) order separate trials, hearings, applications or other\nproceedings;\n(b) order one or more of the claims to be asserted in another\naction;\n(c) order a party to be compensated by a costs award for\nhaving to attend part of a trial, hearing, application or\nproceeding in which the party has no interest;\n(d) excuse a party from having to attend all or part of a trial,\nhearing, application or proceeding in which the party has\nno interest.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d852d5997e62a21795b512f2995d09943c49ffc2e08a75bb3f5e6df81f2a1e52"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.71 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          78,
+          79
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Separating Claims",
+      "operative_text_raw": null,
+      "operative_text_sha256": "90bfcafa55ec8a1a6783aa3ec695e639f32642548c2cb01efee1227f9b74470b",
+      "defined_terms": "claim, costs award, Court, order, party",
+      "related_provisions": "3.46(3) (third party claims)",
+      "commentary": "On separating trial of different issues, see R.7.1. Actions are expected to have only one trial, and severance of issues for trials is exceptional. A claim which depends upon a resolution of another claim within the proceedings may be said to be premature or misjoined, but there is a tendency to sever and stay that kind of claim.\n\nThe court would not sever a main claim for wrongful dismissal and a counterclaim for theft or breach of fiduciary duty by the ex-employee.There were many common issues, and it would not unduly complicate the action.The tests under R.3.71 have to do with undueness, not minor\n\nDuring expropriation, the plaintiff owners amended to add a claim for prejudice or complication.\n\n7Altex Enr. v.Meyer2020 ABCA 368, Calg 1901 0358 AC (Oct 19);Kerswell v.Benoit2022 ABQB 93, JCGP 1804 00609 (Jan 2) (¶'s 11-12). 8Klychak v.Samchuk2012 ABQB 85, 532 AR 259.\n\n2005 ABQB 71. 6Some factual overlap did not suffice, inMunro v.Munro2011 ABCA 279, 513 AR 363.Small overlap of topics and of parties (and of preparedness) barred consolidation inAnokhina v. Banovic,supra.\n\nnew wrong acts by the Crown, but the court would not try the two separately.\n\n3Crocker v.A.M.A. Ins.Co.2007 ABCA 104, 404 AR 185.\n\nare two sides of the same coin:Crocker v.A.M.A. Ins.Co.2007 ABCA 104, 404 AR 185. Severance may\n\n*Anokhina v. Banovic2019 ABQB 774, JCE 1703 19233 (Oct 3) (¶'s 20-23).Consolidation and misjoinder\nSeeCrocker v. A.M.A.,supra.The criteria for consolidation of suits are discussed in,I.C.Farms v.Hironaka\n\nR.229;via 1944 C.R.268. 5On the tests for consolidation, seeFontaine v. Haslam2007 ABQB 27.Alberta authority is reviewed in\n\nnot always require evidence, and may flow from the fact of the pleadings;would that be true of consolidation?\n\nSeverance or striking out duplication with another suit, may not always require evidence, if the\n\n*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-225",
+          "3-226"
+        ],
+        "offset_in_clean_text": [
+          761274,
+          764232
+        ]
+      },
+      "operative_text_note": "same wording as official 3.71(1)-(2) (read by eye) except: (2) reads 'do one or more of the following orders:' where the official has 'do one or more of the following:' (the word 'orders' is added); the text is printed in pieces ((1) to 'or both, may' at p.3-225 line 7307, (a)-(2)(c) lead-in at line 7308, the rest of (c) and (d) at line 7309); the footnote marker '2' after (2)(d); the title in title case ('Separating Claims', printed after the end of the 3.70 note, with the Subdivision heading of Subdivision 1 not repeated); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). The one added word is the only wording difference. This rule's history footnote 2 ('Quite similar to previous 1968 R.47's end. It came from 1944 C.R.58; Judic.Ord.r.30; Eng.O.16 r.5', p.3-225) is printed at line 7299 in the built 3.70 record and is kept there.",
+      "commentary_review_flag": "Read in full, p.3-225 (line 7307) to p.3-226 (line 7341): rule text, Information Note, Defined Terms 'claim, costs award, Court, order, party', Related Provisions '3.46(3) (third party claims)' and the note (no lettered headings; the last part discusses consolidation and misjoinder), with footnotes as printed. The built record: defined_terms, related_provisions (28 characters), the information note (Book A's copy; Book C's copy sits in its commentary) and the commentary field (the note, p.3-225 line 7313 to p.3-226 line 7341, with footnotes 7-8, 5-6, 3 and others printed among the sentences); the raw-text field held only the rule text. The extraction interleaves columns and footnotes on p.3-226 so many sentences are split across non-adjacent lines (e.g. 'The tests under R.3.71 have to do with undueness, not minor' at line 7315 is completed at p.3-226 line 7328-7332 by 'new wrong acts by the Crown ...' and by the expropriation example; 'The criteria for consolidation of suits are discussed in, I.C. Farms v. Hironaka' is completed by the citation '2005 ABQB 71' at line 7326 (printed with the name at line 7473, in the 3.72 note), and 'Alberta authority is reviewed in' by the pieces at lines 7326 and 7337); the wording is kept as printed. (1) Information Note: 'Rule 3.46(3) [Third party defendant becomes a party] says that third party claims are to be tried with the main action unless the Court otherwise orders under this rule' agrees with official 3.46(3) ('must be tried with the other claims in the action unless the Court otherwise orders under rule 3.71'); the bracket label adds 'a' to the official title of 3.46 ('Third party defendant becomes party'). Related Provision '3.46(3) (third party claims)' agrees. (2) Statements read against the official text: 'On separating trial of different issues, see R.7.1' (official 7.1 'Application to resolve particular questions or issues') agrees in substance; 'The tests under R.3.71 have to do with undueness, not minor prejudice or complication' agrees with 3.71(1)(a)-(b) ('unduly complicate or delay', 'undue prejudice'); 'Actions are expected to have only one trial, and severance of issues for trials is exceptional' is not in the text of 3.71; 'A claim which depends upon a resolution of another claim ... may be said to be premature or misjoined, but there is a tendency to sever and stay that kind of claim' agrees in substance with principle (4) in Book B's part 10 commentary (Thames Steel v. Portman: contingent claim 'premature'); the consolidation, misjoinder and 'duplication with another suit' passages concern 3.72 and 3.74 (not 3.71's orders) and are read there. (3) History: footnote 2 (1968 R.47's end; 1944 C.R.58; Judic.Ord.r.30; Eng.O.16 r.5) is 3.71's (marker '2' follows (2)(d)); it is printed in the 3.70 record, and the 3.69 footnote 9 is the beginning of the same old R.47. The pieces 'R.229; via 1944 C.R.268.' and '5On the tests for consolidation, see Fontaine v. Haslam 2007 ABQB 27' at p.3-226 (line 7337) complete 3.72's history footnote 4 ('Quite similar to previous 1968 R.229 ... 1914', printed at the start of the 3.72 record) and give its footnote 5; they are 3.72's and are kept in this record's commentary field. The last line of the segment (line 7344) is 3.72's footnote 1 ('Fitzmaurice v. CEDA Reactor (2011) 528 AR 190 (no neutral cite given)'). (4) Other rules' pointers to this rule (searched combined rule3.txt, combined_rule2.txt to combined_rule15.txt and combined rule1.txt for '3.71'): combined_rule12.txt line 3465 '... under rule 3.71 [Separating claims]' (title matches), combined_rule7.txt line 80 Related Provisions '3.71 (separating claims)'; official 3.46(3) cites 3.71. Book A's own note names R.3.71 once (line 7315). (5) The cases in the note (Altex Enr. v. Meyer 2020 ABCA 368, Kerswell v. Benoit 2022 ABQB 93, Klychak v. Samchuk 2012 ABQB 85, Munro v. Munro 2011 ABCA 279, Anokhina v. Banovic 2019 ABQB 774, Crocker v. A.M.A. 2007 ABCA 104, I.C. Farms v. Hironaka 2005 ABQB 71 and Fontaine v. Haslam 2007 ABQB 27) were not checked; the expropriation and wrongful-dismissal/theft examples are not attributed to a case by name in the printed lines."
+    },
+    "BOOK_B": {
+      "title": "Separating claims",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.71:1",
+          "text": "Rule 3.71 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.71. 1. Applicable principles where causes of action misjoined On the authorities, the principles which should be considered in determining whether the joinder of defendants in one action is appropriate are these: (1) Whether the claims of the plaintiff arise out of the same transaction or series of transactions… (2) Whether or not there is a common issue of law or fact of sufficient importance to render it desirable that the claims against the proposed defendant be tried together. (3) Whether the expense and delay that would be caused by compelling the plaintiff to bring separate actions against the proposed defendant would be greatly out of proportion to the inconvenience, expense or embarrassment which that defendant would be put if the actions were tried together. (4) … if the liability of the proposed defendant is contingent upon the plaintiff first establishing that he suffered a loss in respect of the transaction with the named defendant, then the application to join the proposed defendant may be considered premature. In my view, where the alternative claims arise out of the same transaction or series of transactions and involve a common question of fact or law, then the governing principle in determining whether joinder should be allowed is the third principle set out above, namely, the balance of convenience. The fact that the alternative claim against the defendants may be unnecessary, if the plaintiff succeeds against the main defendants, is only one consideration to be weighed and should not, by itself, be considered a conclusive reason for refusing the joinder. Thames Steel Construction v. Portman (1980), 111 D.L.R. (3d) 460 at 467-68 (Ont. Div. Ct.). 2. Discretion of Court The matter of whether a counterclaim should be ordered to be tried separately is a matter of judicial discretion and accordingly a consideration of previous decisions is of limited assistance … if the only connection between a claim and a counterclaim is that the parties are the same, an application to have the counterclaim tried separately is likely to be successful … … in exercising the discretion of the court in this matter one must be mindful of the provision of sec. 8 of the Judicature Act, R.S.A. 1980, ch. J-1 that all multiplicity of legal proceedings be avoided … A number of the cases cited by counsel involved situations where a defendant had counterclaimed and added as a party defendant to the counterclaim a party not previously joined in the proceedings. The cases indicate that such a counterclaim should not be struck out or ordered to be tried separately as long as the relief claimed in such counterclaim is relating to or connected with the original subject of the cause or matter, although there must be something more than a mere factual connection. The concept was succinctly stated by Orde, J.A., in Export Brewing and Malting Co. v. Dominion Bank, [1932] O.R. 446 … as follows at page 449: When, as here, the defendant by his counterclaim seeks some relief against the plaintiff with others not already parties to the action, it becomes necessary to determine whether or not the plaintiff is properly a party to the cross action which the defendant desires to engraft upon the plaintiff's action. If he is not, then it is clear that the counterclaim is embarassing to the plaintiff, because if he is not concerned with the subject matter of the defendant's claims for relief, he ought not to have the proceedings in his action clogged by proceeding against strangers. Mosychuk v. Gunderson (1983), 45 A.R. 145 at 147-48 (Master). 3. Test An order under R. 95 effectively relegates a counterclaim to a true cross-action, that is, a separate action by the defendant which is to proceed separately from the plaintiff's action. One of the purposes, if not the purpose, of counterclaims is to avoid multiplicity of proceedings. An order under R. 95 causes multiplicity of proceedings. Rule 95 itself recognizes, in its test, that multiplicity is to be avoided unless it is necessary to any particular action. The rule dictates when it is necessary to have effectively separate actions. The sole test in an application under R. 95 is whether the counterclaim can be conveniently disposed of in the same action. If it cannot, the court may grant an appropriate order. It is not a ground for an order under R. 95 that the counterclaim is for a lesser amount than the plaintiff's claim. If it were so all counterclaims, except those where the amount claimed equals or exceeds the plaintiff's claim, would be relegated to separate cross-actions … The “convenience” is in reference to having the counterclaim disposed of in the same action. That is the test enunciated in Kaps Transport Ltd. v. McGregor Telephone & Power Construction Co. (1970), 73 W.W.R. (N.S.) 549 (C.A.). Bank of British Columbia v. Affkor Group Ltd. (1983), 21 Alta. L.R. 377 at 380-81 (Master)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_71_001",
+        "part3_part_3_court_actions_016",
+        "part3_rule_3_71_001",
+        "part3_alberta_rules_of_court_rule_3_part_10_001"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part09_document.json",
+          "rule3_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "afb9f0c25b11d9d360347cc2f0e96a7becbc5aef5388f330f87f407c93b47f82",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Separating claims",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "91cb70dba7463eada8cd046b9a4f76585a508929b9692a27ff91d082a0079e8e",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General",
+          "text": "Joinder of two or more claims is permissible unless the claim becomes so complex as to be unmanageable. Domenic Construction Ltd. v. Primewest Capital Corp., [2020] A.J. No. 753, 2020 ABCA 265 at para. 22 (Alta. C.A.).\nInformation Note Rule 3.46(3) [Third party defendant becomes a party] says that third party claims are to be tried with the main action unless the Court otherwise orders under this rule.",
+          "citations": [
+            {
+              "neutral_citation": "2020 ABCA 265",
+              "style_of_cause": "Domenic Construction Ltd. v. Primewest Capital Corp."
+            }
+          ],
+          "review_flag": "(1) The commentary is one sentence with its citation: 'Joinder of two or more claims is permissible unless the claim becomes so complex as to be unmanageable. Domenic Construction Ltd. v. Primewest Capital Corp., [2020] A.J. No. 753, 2020 ABCA 265 at para. 22 (Alta. C.A.).' - it agrees in substance with 3.71(1)(a) ('unduly complicate or delay the action') and with Book A's 'tests under R.3.71 have to do with undueness'; it is not in Book A or Book B (searched: combined rule3.txt, rule3_part09/part10_document.json for 'so complex as to be unmanageable': none). (2) Book C's copy of the information note ('Rule 3.46(3) [Third party defendant becomes a party] says that third party claims are to be tried with the main action unless the Court otherwise orders under this rule') is printed after the commentary and equals Book A's (the built record kept Book A's copy). (3) The citation record 'Domenic Construction Ltd. v. Primewest Capital Corp., 2020 ABCA 265' is correctly built."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "161-180_3_67 to 4_7.json",
+        "source_file": "161-180_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): in (1) the number '2' is missing twice ('When [ ] or more claims are made in an action or when [ ] or more parties join') and this citation stands in each place: 'C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.).'; the rest of (1) and (2)(a)-(d) equal the official text (no difference in (2)). The amendment note '[Alta. Reg. 124/2010, r. 3.71 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation).",
+      "citations_note": "C. (L.) v. Alberta, 2011 ABQB 12 (para. 103) is not a 3.71 authority: it stands where the number '2' is lost, twice, in 3.71(1) (the same displacement as in Book C's 3.69 and 3.70 entries; see the 3.69 citation note)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7845,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.71(1)-(2) (read by eye) except: (2) reads 'do one or more of the following orders:' where the official has 'do one or more of the following:' (the word 'orders' is added); the text is printed in pieces ((1) to 'or both, may' at p.3-225 line 7307, (a)-(2)(c) lead-in at line 7308, the rest of (c) and (d) at line 7309); the footnote marker '2' after (2)(d); the title in title case ('Separating Claims', printed after the end of the 3.70 note, with the Subdivision heading of Subdivision 1 not repeated); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). The one added word is the only wording difference. This rule's history footnote 2 ('Quite similar to previous 1968 R.47's end. It came from 1944 C.R.58; Judic.Ord.r.30; Eng.O.16 r.5', p.3-225) is printed at line 7299 in the built 3.70 record and is kept there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8629,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.71",
+      "title_official": "Separating claims"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "90bfcafa55ec8a1a6783aa3ec695e639f32642548c2cb01efee1227f9b74470b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-225",
+            "3-226"
+          ],
+          "offset_in_clean_text": [
+            761274,
+            764232
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "afb9f0c25b11d9d360347cc2f0e96a7becbc5aef5388f330f87f407c93b47f82",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part09_document.json",
+            "rule3_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "91cb70dba7463eada8cd046b9a4f76585a508929b9692a27ff91d082a0079e8e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "161-180_3_67 to 4_7.json",
+          "source_file": "161-180_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d852d5997e62a21795b512f2995d09943c49ffc2e08a75bb3f5e6df81f2a1e52",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            78,
+            79
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "4beb5aea7569f93985a68073b181822efceac487a8cb87629a24b8a50bad6436"
+  },
+  "information_notes": [
+    {
+      "text": "Rule 3.46(3) [Third party defendant becomes a party] says that third party claims are to be tried with the main action unless the Court otherwise orders under this rule.",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "dedupe_log": [
+    "3.71 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.71 BOOK_C citation context dropped (2011 ABQB 12): verbatim in kept text",
+    "3.71 BOOK_C citation context dropped (2020 ABCA 265): verbatim in kept text",
+    "3.71 BOOK_C commentary sentence split dropped",
+    "3.71 BOOK_C: rule text dropped (manual review)",
+    "3.71 BOOK_C: displaced citations dropped ['2011 ABQB 12'] (manual review)",
+    "3.71 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.71 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

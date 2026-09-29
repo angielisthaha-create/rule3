@@ -1,0 +1,617 @@
+{
+  "source_file": "141-160_revised.md",
+  "definitions": [],
+  "hierarchy": [
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.44",
+        "title": "When third party claim may be filed",
+        "text": "A defendant or third party defendant may file a third party claim against another person who (a) is or might be liable to the party filing the third party claim for all or part of the claim against that party, (b) is or might be liable to the party filing the third party claim for an independent claim arising out of (i) a transaction or occurrence or series of transactions or occur- rences involved in the action between the plaintiff and the defendant, or (ii) a related transaction or occurrence or series of related trans- actions or occurrences, or (c) should be bound by a decision about an issue between the plaintiff and the defendant.\n\n*[Alta. Reg. 124/2010, r. 3.44 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A defendant or third party defendant may file a third party claim against another person who",
+          "(a) is or might be liable to the party filing the third party claim for all or part of the claim against that party",
+          "(b) is or might be liable to the party filing the third party claim for an independent claim arising out of",
+          "(i) a transaction or occurrence or series of transactions or occur- rences involved in the action between the plaintiff and the defendant, or",
+          "(ii) a related transaction or occurrence or series of related trans- actions or occurrences, or",
+          "(c) should be bound by a decision about an issue between the plaintiff and the defendant. *[Alta. Reg. 124/2010, r. 3.44 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "“Under [rule] 3.44, a defendant may file a third party claim for an independent claim arising out of transactions involved related to the action between the",
+            "sentences": [
+              "“Under [rule] 3.44, a defendant may file a third party claim for an independent claim arising out of transactions involved related to the action between the"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.45",
+        "title": "Form of third party claim",
+        "text": "A third party claim must (a) be in Form 16, (b) comply with the rules about pleadings in Part 13 [Technical Rules], Division 3 , [Pleadings]\n(c) be filed and served on the plaintiff and the third party defendant, whether or not the third party defendant is already a party to the action, (i) within 6 months after the date on which the defendant filed a statement of defence or demand for notice, and (ii) before judgment is entered against the defendant or the defendant is noted in default, and (d) be accompanied, when it is served on the third party defendant, with a copy of the statement of claim served on the defendant.\n\n*[Alta. Reg. 124/2010, r. 3.45 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A third party claim must",
+          "(a) be in Form 16",
+          "(b) comply with the rules about pleadings in Part 13 [Technical Rules], Division 3 , [Pleadings]",
+          "(c) be filed and served on the plaintiff and the third party defendant, whether or not the third party defendant is already a party to the action",
+          "(i) within 6 months after the date on which the defendant filed a statement of defence or demand for notice, and",
+          "(ii) before judgment is entered against the defendant or the defendant is noted in default, and",
+          "(d) be accompanied, when it is served on the third party defendant, with a copy of the statement of claim served on the defendant. *[Alta. Reg. 124/2010, r. 3.45 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "This rule sets out the form required and the fact that third party claims must comply with the rules about pleadings in Part 13, Division 3. A third party claim is to be drafted as any other pleading, including setting out the facts necessary to establish a valid claim.\nTime Limitation to File – There is a time limitation to file and serve a third party claim, being six months after the date on which the defendant (the party issuing the third party claim) filed a statement of defence or a demand for notice and before judgment is entered against the defendant or the defendant is noted in default. The case law informs the application of this six-month limitation.\nExtension of Deadline – Key factors in considering whether to grant an extension are whether there has been inordinate delay, no credible or reasonable excuse and prejudice. H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 20-21 (Alta. K.B.); Condominium Plan 9812082 v. Battistella Developments Inc.,[2014] A.J. No. 1167, 2014 ABQB 644 at para. 15 (Alta. Q.B.).\nAn additional factor may be whether the proposed third party claim has merit, which involves a low threshold sometimes described as “air of reality”. H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 23-24 (Alta. K.B.); , Condominium Corp. No. 9813678 v. Statesman Corp.\nWhere the delay in advancing a third party claim is short, the primary focus of the application is on the excuse offered and the prejudice suffered. The requirement to explain the delay [2008] A.J. No. 904, 2008 ABQB 495 at para. 46 (Alta. Q.B.).",
+            "sentences": [
+              "This rule sets out the form required and the fact that third party claims must comply with the rules about pleadings in Part 13, Division 3.",
+              "A third party claim is to be drafted as any other pleading, including setting out the facts necessary to establish a valid claim.",
+              "Time Limitation to File – There is a time limitation to file and serve a third party claim, being six months after the date on which the defendant (the party issuing the third party claim) filed a statement of defence or a demand for notice and before judgment is entered against the defendant or the defendant is noted in default.",
+              "The case law informs the application of this six-month limitation.",
+              "Extension of Deadline – Key factors in considering whether to grant an extension are whether there has been inordinate delay, no credible or reasonable excuse and prejudice.",
+              "H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 20-21 (Alta. K.B.)",
+              "Condominium Plan 9812082 v. Battistella Developments Inc.,[2014] A.J. No. 1167, 2014 ABQB 644 at para. 15 (Alta. Q.B.).",
+              "An additional factor may be whether the proposed third party claim has merit, which involves a low threshold sometimes described as “air of reality”.",
+              "H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 23-24 (Alta. K.B.)",
+              ", Condominium Corp. No. 9813678 v. Statesman Corp. Where the delay in advancing a third party claim is short, the primary focus of the application is on the excuse offered and the prejudice suffered. The requirement to explain the delay [2008] A.J. No. 904, 2008 ABQB 495 at para. 46 (Alta. Q.B.)."
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2024 ABKB 428",
+                "style_of_cause": "H2 Canmore Apartments LP v. Cormode",
+                "context": "n extension are whether there has been inordinate delay, no credible or reasonable excuse and prejudice. H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 20-21 (Alta. K.B.); Condominium Plan 9812082 v. Battistella Developments Inc.,[2014] A.J."
+              },
+              {
+                "neutral_citation": "2014 ABQB 644",
+                "style_of_cause": "Condominium Plan 9812082 v. Battistella Developments Inc.",
+                "context": "ts LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 20-21 (Alta. K.B.); Condominium Plan 9812082 v. Battistella Developments Inc.,[2014] A.J. No. 1167, 2014 ABQB 644 at para. 15 (Alta. Q.B.).\nAn additional factor may be whether the proposed third party claim has me"
+              },
+              {
+                "neutral_citation": "2008 ABQB 495",
+                "style_of_cause": null,
+                "context": "he delay in advancing a third party claim is short, the primary focus of the application is on the excuse offered and the prejudice suffered. The requirement to explain the delay [2008] A.J. No. 904, 2008 ABQB 495 at para. 46 (Alta. Q.B.)."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.46",
+        "title": "Third party defendant becomes party",
+        "text": "(1) On service of a third party claim, (a) the third party defendant becomes a party to the action between the plaintiff and the defendant, and (b) all subsequent proceedings in the action must name the third party as a party in the action between the plaintiff and the defendant.\n(2) The pleadings between (a) the defendant and the third party defendant, and (b) a third party plaintiff and a third party defendant, form part of the court file between the plaintiff and the defendant.\n(3) A third party claim must be tried with the other claims in the action unless the Court otherwise orders under rule 3.71 .\n[Separating claims]\n\n*[Alta. Reg. 124/2010, r. 3.46 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) On service of a third party claim",
+          "(a) the third party defendant becomes a party to the action between the plaintiff and the defendant, and",
+          "(b) all subsequent proceedings in the action must name the third party as a party in the action between the plaintiff and the defendant.",
+          "(2) The pleadings between",
+          "(a) the defendant and the third party defendant, and",
+          "(b) a third party plaintiff and a third party defendant, form part of the court file between the plaintiff and the defendant.",
+          "(3) A third party claim must be tried with the other claims in the action unless the Court otherwise orders under rule 3.71 . [Separating claims] *[Alta. Reg. 124/2010, r. 3.46 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "This rule indicates that once the third party claim is served on the third",
+            "sentences": [
+              "This rule indicates that once the third party claim is served on the third"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.47",
+        "title": "Third party defendant’s options",
+        "text": "A third party defendant may do one or more of the following:\n(a) apply to the Court to set aside service in accordance with rule 11.31 [Setting aside service];\n(b) apply to the Court for an order under rule 3.68 [Court options to deal with significant deficiencies] with respect to the third party claim;\n(c) apply to the Court for an order under rule 3.68 [Court options to deal with significant deficiencies] with respect to the plaintiff’s statement of claim;\n(d) file a statement of defence or demand for notice.\n\n*[Alta. Reg. 124/2010, r. 3.47 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A third party defendant may do one or more of the following:",
+          "(a) apply to the Court to set aside service in accordance with rule 11.31 [Setting aside service]",
+          "(b) apply to the Court for an order under rule 3.68 [Court options to deal with significant deficiencies] with respect to the third party claim",
+          "(c) apply to the Court for an order under rule 3.68 [Court options to deal with significant deficiencies] with respect to the plaintiff’s statement of claim",
+          "(d) file a statement of defence or demand for notice. *[Alta. Reg. 124/2010, r. 3.47 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Similar to rule 3.30, applying to a defendant served with a statement of claim, rule 3.47 summarizes the options available to third party defendants.",
+            "sentences": [
+              "Similar to rule 3.30, applying to a defendant served with a statement of claim, rule 3.47 summarizes the options available to third party defendants."
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.48",
+        "title": "Plaintiff’s options",
+        "text": "A plaintiff in an action in which a third party claim is filed may apply to the Court for an order under rule 3.68 [Court options to deal with significant deficiencies] with respect to the third party claim.\n\n*[Alta. Reg. 124/2010, r. 3.48 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A plaintiff in an action in which a third party claim is filed may apply to the Court for an order under rule 3.68 [Court options to deal with significant deficiencies] with respect to the third party claim. *[Alta. Reg. 124/2010, r. 3.48 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "The plaintiff is entitled to apply under rule 3.68 in relation to any aspect of a third party claim. This permits a plaintiff to attack such issues as causes of action, jurisdiction, and other infirmities that may exist in the third party claim.",
+            "sentences": [
+              "The plaintiff is entitled to apply under rule 3.68 in relation to any aspect of a third party claim.",
+              "This permits a plaintiff to attack such issues as causes of action, jurisdiction, and other infirmities that may exist in the third party claim."
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.49",
+        "title": "Third party statement of defence and additional options",
+        "text": "(1) A statement of defence by a third party defendant (a) must be in Form 17, (b) must comply with the rules about pleadings in Part 13 [Technical Rules]\n[Pleadings]\n, Division 3 , and",
+        "sentences": [
+          "(1) A statement of defence by a third party defendant",
+          "(a) must be in Form 17",
+          "(b) must comply with the rules about pleadings in Part 13 [Technical Rules] [Pleadings] , Division 3 , and"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.50",
+        "title": "Demand for notice by third party defendant",
+        "text": "(1) A demand for notice by a third party defendant must be in Form 18.\n(2) If a third party defendant files a demand for notice, the third party defendant must file it and serve it on each of the other parties within the applicable time after service of the third party claim on the third party defendant.\n(3) The applicable time is (a) 20 days if service is effected in Alberta, (b) one month if service is effected outside Alberta but in Canada, and (c) 2 months if service is effected outside Canada.\n\n*[Alta. Reg. 124/2010, r. 3.50 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) A demand for notice by a third party defendant must be in Form 18.",
+          "(2) If a third party defendant files a demand for notice, the third party defendant must file it and serve it on each of the other parties within the applicable time after service of the third party claim on the third party defendant.",
+          "(3) The applicable time is",
+          "(a) 20 days if service is effected in Alberta",
+          "(b) one month if service is effected outside Alberta but in Canada, and",
+          "(c) 2 months if service is effected outside Canada. *[Alta. Reg. 124/2010, r. 3.50 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.51",
+        "title": "Effect of demand for notice",
+        "text": "(1) If a third party defendant files and serves a demand for notice, the third party defendant must be served with notice of any application in which the third party defendant is named as respondent.\n(2) Judgment may be entered against a third party defendant who has filed and served a demand for notice only if (a) the third party plaintiff applies to the Court for judgment, and (b) notice of the application is served on the third party defendant.\n(3) If a third party defendant files and serves a demand for notice, the third",
+        "sentences": [
+          "(1) If a third party defendant files and serves a demand for notice, the third party defendant must be served with notice of any application in which the third party defendant is named as respondent.",
+          "(2) Judgment may be entered against a third party defendant who has filed and served a demand for notice only if",
+          "(a) the third party plaintiff applies to the Court for judgment, and",
+          "(b) notice of the application is served on the third party defendant.",
+          "(3) If a third party defendant files and serves a demand for notice, the third"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.52",
+        "title": "Consequences of not filing third party statement of defence",
+        "text": "(1) If a third party defendant does not file a statement of defence disputing the liability of the defendant to the plaintiff, the third party defendant admits the validity of any judgment that the plaintiff obtains against the defendant, whether obtained by agreement or otherwise.\n(2) If a third party defendant does not file a statement of defence disputing the third party defendant’s liability to the third party plaintiff under the third",
+        "sentences": [
+          "(1) If a third party defendant does not file a statement of defence disputing the liability of the defendant to the plaintiff, the third party defendant admits the validity of any judgment that the plaintiff obtains against the defendant, whether obtained by agreement or otherwise.",
+          "(2) If a third party defendant does not file a statement of defence disputing the third party defendant’s liability to the third party plaintiff under the third"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.53",
+        "title": "Judgment against third party defendant",
+        "text": "(1) The Court may give judgment against a third party defendant if the third party defendant does not file a statement of defence.\n(2) Judgment against a defendant must be satisfied before judgment is enforced against a third party defendant unless the Court otherwise orders.\n(3) An application by a defendant to enforce a judgment against a third party defendant under subrule (2) must (a) be in Form 19, and (b) be served on the plaintiff and the third party defendant.\n\n*[Alta. Reg. 124/2010, r. 3.53 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) The Court may give judgment against a third party defendant if the third party defendant does not file a statement of defence.",
+          "(2) Judgment against a defendant must be satisfied before judgment is enforced against a third party defendant unless the Court otherwise orders.",
+          "(3) An application by a defendant to enforce a judgment against a third party defendant under subrule",
+          "(a) be in Form 19, and",
+          "(b) be served on the plaintiff and the third party defendant. *[Alta. Reg. 124/2010, r. 3.53 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.54",
+        "title": "Plaintiff’s reply to third party defence",
+        "text": "(1) A plaintiff or third party plaintiff may file a reply to a statement of defence filed by a third party defendant.\n(2) If a plaintiff or third party plaintiff files a reply, the reply must (a) be in Form 20, (b) comply with the rules about pleadings in Part 13 [Technical Rules], Division 3 , and [Pleadings]\n(c) be filed and served on the third party defendant and each of the other parties within 10 days after service of the statement of defence by the third party defendant on the plaintiff.\n\n*[Alta. Reg. 124/2010, r. 3.54 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) A plaintiff or third party plaintiff may file a reply to a statement of defence filed by a third party defendant.",
+          "(2) If a plaintiff or third party plaintiff files a reply, the reply must",
+          "(a) be in Form 20",
+          "(b) comply with the rules about pleadings in Part 13 [Technical Rules], Division 3 , and [Pleadings]",
+          "(c) be filed and served on the third party defendant and each of the other parties within 10 days after service of the statement of defence by the third party defendant on the plaintiff. *[Alta. Reg. 124/2010, r. 3.54 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Importantly, the plaintiff or third party plaintiff may reply to a statement of defence filed by a third party defendant. This is important in cases where the third party has defended the third party claim by denying the defendant’s liability to the plaintiff. The plaintiff has the right to respond to the third party’s pleadings about why the defendant is not liable to the plaintiff.",
+            "sentences": [
+              "Importantly, the plaintiff or third party plaintiff may reply to a statement of defence filed by a third party defendant.",
+              "This is important in cases where the third party has defended the third party claim by denying the defendant’s liability to the plaintiff.",
+              "The plaintiff has the right to respond to the third party’s pleadings about why the defendant is not liable to the plaintiff."
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.55",
+        "title": "Application of rules to third party claims",
+        "text": "Except when the context or these rules otherwise provide, a rule that applies to or in respect of (a) a plaintiff applies equally to or in respect of a third party plaintiff, (b) a defendant applies equally to or in respect of a third party defendant, and (c) a pleading related to a claim made by a statement of claim applies equally to or in respect of a pleading related to a third party claim.\n\n*[Alta. Reg. 124/2010, r. 3.55 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nSubdivision 7: COUNTERCLAIMS",
+        "sentences": [
+          "Except when the context or these rules otherwise provide, a rule that applies to or in respect of",
+          "(a) a plaintiff applies equally to or in respect of a third party plaintiff",
+          "(b) a defendant applies equally to or in respect of a third party defendant, and",
+          "(c) a pleading related to a claim made by a statement of claim applies equally to or in respect of a pleading related to a third party claim. *[Alta. Reg. 124/2010, r. 3.55 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]* Subdivision 7: COUNTERCLAIMS"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.56",
+        "title": "Right to counterclaim",
+        "text": "(1) A defendant may, by counterclaim, file a claim against (a) a plaintiff, or R. 3.54 (2) A third party defendant may, by counterclaim, file a claim against the plaintiff, defendant or third party plaintiff, or any combination of them, with or without any other person, whether the other person is a party to the action or not.\n\n*[Alta. Reg. 124/2010, r. 3.56 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) A defendant may, by counterclaim, file a claim against",
+          "(a) a plaintiff, or R. 3.54",
+          "(2) A third party defendant may, by counterclaim, file a claim against the plaintiff, defendant or third party plaintiff, or any combination of them, with or without any other person, whether the other person is a party to the action or not. *[Alta. Reg. 124/2010, r. 3.56 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "The counterclaim is a powerful tool that permits a defendant or third",
+            "sentences": [
+              "The counterclaim is a powerful tool that permits a defendant or third"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.57",
+        "title": "Contents of counterclaim",
+        "text": "A counterclaim must (a) be in Form 21, (b) comply with the rules about pleadings in Part 13 [Technical Rules], Division 3 , and [Pleadings]\n(c) be filed and served on the defendant-by-counterclaim within the same time period that the plaintiff-by-counterclaim must file a statement of defence under rule 3.31(2) .\n[Statement of defence]\n\n*[Alta. Reg. 124/2010, r. 3.57 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A counterclaim must",
+          "(a) be in Form 21",
+          "(b) comply with the rules about pleadings in Part 13 [Technical Rules], Division 3 , and [Pleadings]",
+          "(c) be filed and served on the defendant-by-counterclaim within the same time period that the plaintiff-by-counterclaim must file a statement of defence under rule 3.31(2) . [Statement of defence] *[Alta. Reg. 124/2010, r. 3.57 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 3.57 requires a counterclaim to be filed within the same period as a statement of defence. Thus, a defendant will typically file its statement of defence and counterclaim, if any, at the same time — although they could be filed on separate dates, as long as both are within the required time.\nUnder the Former Rules, rule 93(4) said that “the counterclaim shall be conjoined and",
+            "sentences": [
+              "Rule 3.57 requires a counterclaim to be filed within the same period as a statement of defence.",
+              "Thus, a defendant will typically file its statement of defence and counterclaim, if any, at the same time — although they could be filed on separate dates, as long as both are within the required time.",
+              "Under the Former Rules, rule 93(4) said that “the counterclaim shall be conjoined and"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.58",
+        "title": "Status of counterclaim",
+        "text": "A counterclaim is an independent action.\n\n*[Alta. Reg. 124/2010, r. 3.58 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A counterclaim is an independent action. *[Alta. Reg. 124/2010, r. 3.58 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 3.58 states that a counterclaim is an independent action. However, in practice although not reflected expressly in the , they are tied together more Rules of Court closely than two separate actions. Where there is a claim and counterclaim the parties hold concurrent questioning and set the matter down for trial concurrently, without the necessity of an order which would be required for two entirely separate actions. Omega Developments Inc. v. Canada Safeway Ltd., [2012] A.J. No. 967, 2012 ABQB 564 at para. 6 (Alta. Q.B. (Master)); see also, , [2016] A.J. No. 549, 2016 ABQB 172 WestJet v. ELS Marketing Inc. at para. 42 (Alta. Q.B.).\nThe settlement of the statement of claim or obtaining judgment on the statement of claim in an action does not settle or otherwise resolve the issues set out in the counterclaim which must be determined on their own. Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 10 (Alta. C.A.). This is more important in the settlement context than the trial context, as the matters are usually heard at the same time.\nOne of the consequences of the counterclaim being an independent action is that a plaintiff might obtain summary judgment against the defendant on the plaintiff’s claim, even though the defendant’s counterclaim remains outstanding, Soler & Palau Canada Inc. v. Meyer’s Sheet Metal Ltd., [2012] A.J. No. 819, 2012 ABQB 496 at para. 47 (Alta. Q.B. (Master)); see also, , [2014] A.J. Bernum Petroleum Ltd. v. Birch Lake Energy Inc. No. 1199, 2014 ABQB 652 at para. 115 (Alta. Q.B.). or summary judgment on a counter- claim might be granted even though portions of the main claim must go to trial. Attila Dogan Construction and Installation Co. v. AMEC Americas Ltd., [2015] A.J. No. 1419,",
+            "sentences": [
+              "Rule 3.58 states that a counterclaim is an independent action.",
+              "However, in practice although not reflected expressly in the , they are tied together more Rules of Court closely than two separate actions. Where there is a claim and counterclaim the parties hold concurrent questioning and set the matter down for trial concurrently, without the necessity of an order which would be required for two entirely separate actions. Omega Developments Inc. v. Canada Safeway Ltd., [2012] A.J. No. 967, 2012 ABQB 564 at para. 6 (Alta. Q.B. (Master))",
+              "see also, , [2016] A.J. No. 549, 2016 ABQB 172 WestJet v. ELS Marketing Inc. at para. 42 (Alta. Q.B.).",
+              "The settlement of the statement of claim or obtaining judgment on the statement of claim in an action does not settle or otherwise resolve the issues set out in the counterclaim which must be determined on their own.",
+              "Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 10 (Alta. C.A.).",
+              "This is more important in the settlement context than the trial context, as the matters are usually heard at the same time.",
+              "One of the consequences of the counterclaim being an independent action is that a plaintiff might obtain summary judgment against the defendant on the plaintiff’s claim, even though the defendant’s counterclaim remains outstanding, Soler & Palau Canada Inc. v. Meyer’s Sheet Metal Ltd., [2012] A.J. No. 819, 2012 ABQB 496 at para. 47 (Alta. Q.B. (Master))",
+              "see also, , [2014] A.J. Bernum Petroleum Ltd. v. Birch Lake Energy Inc. No. 1199, 2014 ABQB 652 at para. 115 (Alta. Q.B.). or summary judgment on a counter- claim might be granted even though portions of the main claim must go to trial.",
+              "Attila Dogan Construction and Installation Co. v. AMEC Americas Ltd., [2015] A.J. No. 1419"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2012 ABQB 564",
+                "style_of_cause": "Omega Developments Inc. v. Canada Safeway Ltd.",
+                "context": "e matter down for trial concurrently, without the necessity of an order which would be required for two entirely separate actions. Omega Developments Inc. v. Canada Safeway Ltd., [2012] A.J. No. 967, 2012 ABQB 564 at para. 6 (Alta. Q.B. (Master)); see also, , [2016] A.J. No. 549, 2016 ABQB 172 WestJet v. ELS Mar"
+              },
+              {
+                "neutral_citation": "2016 ABQB 172",
+                "style_of_cause": "Omega Developments Inc. v. Canada Safeway Ltd.",
+                "context": "ld be required for two entirely separate actions. Omega Developments Inc. v. Canada Safeway Ltd., [2012] A.J. No. 967, 2012 ABQB 564 at para. 6 (Alta. Q.B. (Master)); see also, , [2016] A.J. No. 549, 2016 ABQB 172 WestJet v. ELS Marketing Inc. at para. 42 (Alta. Q.B.).\nThe settlement of the statement of claim or"
+              },
+              {
+                "neutral_citation": "2018 ABCA 327",
+                "style_of_cause": "Richardson v. Richardson",
+                "context": "the statement of claim in an action does not settle or otherwise resolve the issues set out in the counterclaim which must be determined on their own. Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 10 (Alta. C.A.). This is more important in the settlement context than the trial context,"
+              },
+              {
+                "neutral_citation": "2012 ABQB 496",
+                "style_of_cause": "Palau Canada Inc. v. Meyer",
+                "context": "mary judgment against the defendant on the plaintiff’s claim, even though the defendant’s counterclaim remains outstanding, Soler & Palau Canada Inc. v. Meyer’s Sheet Metal Ltd., [2012] A.J. No. 819, 2012 ABQB 496 at para. 47 (Alta. Q.B. (Master)); see also, , [2014] A.J. Bernum Petroleum Ltd. v. Birch Lake Ener"
+              },
+              {
+                "neutral_citation": "2014 ABQB 652",
+                "style_of_cause": "A.J. Bernum Petroleum Ltd. v. Birch Lake Energy Inc. No. 1199",
+                "context": "Palau Canada Inc. v. Meyer’s Sheet Metal Ltd., [2012] A.J. No. 819, 2012 ABQB 496 at para. 47 (Alta. Q.B. (Master)); see also, , [2014] A.J. Bernum Petroleum Ltd. v. Birch Lake Energy Inc. No. 1199, 2014 ABQB 652 at para. 115 (Alta. Q.B.). or summary judgment on a counter- claim might be granted even though por"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.59",
+        "title": "Claiming set-off",
+        "text": "A matter that might be claimed by set-off may be claimed by counterclaim or by pleading set-off as a defence.\n\n*[Alta. Reg. 124/2010, r. 3.59 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "A matter that might be claimed by set-off may be claimed by counterclaim or by pleading set-off as a defence. *[Alta. Reg. 124/2010, r. 3.59 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "It is not required to bring a counterclaim seeking set-off as a result of this rule. Set-off can now be pleaded as a defence. This eliminates the need for the issuance of a counterclaim which would only seek set-off, as was required under Former Rules 93(2). Tesla Exploration Ltd. v. Encana Corp., [2018] A.J. No. 451, 2018 ABQB 286 at para. 18 (Alta. Q.B.). Where set-off is pleaded as a defence, and the set-off amount exceeds the value of the plaintiff’s claim, no judgment can be entered for the defendant.A positive claim for set-off",
+            "sentences": [
+              "It is not required to bring a counterclaim seeking set-off as a result of this rule.",
+              "Set-off can now be pleaded as a defence.",
+              "This eliminates the need for the issuance of a counterclaim which would only seek set-off, as was required under Former Rules 93(2).",
+              "Tesla Exploration Ltd. v. Encana Corp., [2018] A.J. No. 451, 2018 ABQB 286 at para. 18 (Alta. Q.B.).",
+              "Where set-off is pleaded as a defence, and the set-off amount exceeds the value of the plaintiff’s claim, no judgment can be entered for the defendant.A positive claim for set-off"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2018 ABQB 286",
+                "style_of_cause": "Tesla Exploration Ltd. v. Encana Corp.",
+                "context": "ence. This eliminates the need for the issuance of a counterclaim which would only seek set-off, as was required under Former Rules 93(2). Tesla Exploration Ltd. v. Encana Corp., [2018] A.J. No. 451, 2018 ABQB 286 at para. 18 (Alta. Q.B.). Where set-off is pleaded as a defence, and the set-off amount exceeds the"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "3.60",
+        "title": "Application of rules to counterclaims",
+        "text": "(1) Except when the context or these rules otherwise provide, a rule that applies to or in respect of (a) a plaintiff applies equally to or in respect of a plaintiff-by- counterclaim and a third party plaintiff-by-counterclaim, (b) a defendant applies equally to or in respect of a defendant-by- counterclaim and a third party defendant-by-counterclaim, and (c) a pleading related to a claim made by statement of claim applies equally to or in respect of a pleading related to a counterclaim.\n(2) If the defendant-by-counterclaim does not file a statement of defence or demand for notice in respect of a counterclaim, a judgment on the counterclaim may be obtained only with the Court’s permission after notice of the applica- tion has been served on the defendant-by-counterclaim.\n\n*[Alta. Reg. 124/2010, r. 3.60 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) Except when the context or these rules otherwise provide, a rule that applies to or in respect of",
+          "(a) a plaintiff applies equally to or in respect of a plaintiff-by- counterclaim and a third party plaintiff-by-counterclaim",
+          "(b) a defendant applies equally to or in respect of a defendant-by- counterclaim and a third party defendant-by-counterclaim, and",
+          "(c) a pleading related to a claim made by statement of claim applies equally to or in respect of a pleading related to a counterclaim.",
+          "(2) If the defendant-by-counterclaim does not file a statement of defence or demand for notice in respect of a counterclaim, a judgment on the counterclaim may be obtained only with the Court’s permission after notice of the applica- tion has been served on the defendant-by-counterclaim. *[Alta. Reg. 124/2010, r. 3.60 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "As with obtaining judgment against a third party, judgment in default of a statement of defence under a counterclaim against a defendant-by-counterclaim may only be obtained upon notice of application for judgment served on the defendant-by- counterclaim.",
+            "sentences": [
+              "As with obtaining judgment against a third party, judgment in default of a statement of defence under a counterclaim against a defendant-by-counterclaim may only be obtained upon notice of application for judgment served on the defendant-by- counterclaim."
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "Division",
+      "heading": "Division 4 – REQUEST FOR PARTICULARS, AMENDMENTS TO PLEADINGS AND CLOSE OF PLEADINGS",
+      "rules": [
+        {
+          "number": "3.61",
+          "title": "Request for particulars",
+          "text": "(1) A party on whom a pleading is served may serve on the party who served the pleading a request for particulars about anything in the pleading.\n(2) If the requesting party does not receive a sufficient response within 10 days after the date on which the request is served, the requesting party may apply to the Court for an order requiring the party who served the pleading to provide the particulars.\n(3) If the Court orders particulars to be provided, it must specify a time within which the order is to be complied with.\n(4) Subject to any order, despite a request for particulars, the obligation under these rules to file and serve pleadings continues even though a request for",
+          "sentences": [
+            "(1) A party on whom a pleading is served may serve on the party who served the pleading a request for particulars about anything in the pleading.",
+            "(2) If the requesting party does not receive a sufficient response within 10 days after the date on which the request is served, the requesting party may apply to the Court for an order requiring the party who served the pleading to provide the particulars.",
+            "(3) If the Court orders particulars to be provided, it must specify a time within which the order is to be complied with.",
+            "(4) Subject to any order, despite a request for particulars, the obligation under these rules to file and serve pleadings continues even though a request for"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "3.61",
+          "title": "and the definition of “pleading” at paragraph (j) in the Appendix to the Rules.  Melcor Reit Limited Partnership (Melcor Reit GP Inc.) v. TDL Group Corp. (Tim Hortons), Request for particulars that are in the nature of a question of law or of mixed fact and law need not be answered. Alberta v. Altria Group Inc., [2015] A.J. No. 702, 2015 ABQB 390 at para. 22 (Alta. Q.B.).",
+          "text": "It is important to note that judges have wide discretion in determining whether to order",
+          "sentences": [
+            "It is important to note that judges have wide discretion in determining whether to order"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "3.62",
+          "title": "Amending pleading",
+          "text": "(1) A party may amend the party’s pleading, including an amendment to add, remove, substitute or correct the name of a",
+          "sentences": [
+            "(1) A party may amend the party’s pleading, including an amendment to add, remove, substitute or correct the name of a"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "3.63",
+          "title": "Identifying amendments to pleadings",
+          "text": "(1) Unless the Court otherwise orders, if a party amends a pleading, a new pleading must be filed, being a copy of the original pleading as amended.\n(2) The amendment must (a) be dated and identified, and each amended version must be identified, and (b) be endorsed by the court clerk in the following form:\nAmended on [date] by [order] [party consent]\nDated . . .\n\n*[Alta. Reg. 124/2010, r. 3.63 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 143/2011, s. 7]",
+          "sentences": [
+            "(1) Unless the Court otherwise orders, if a party amends a pleading, a new pleading must be filed, being a copy of the original pleading as amended.",
+            "(2) The amendment must",
+            "(a) be dated and identified, and each amended version must be identified, and",
+            "(b) be endorsed by the court clerk in the following form: Amended on [date] by [order] [party consent] Dated . . . *[Alta. Reg. 124/2010, r. 3.63 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 143/2011, s. 7]"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Where a previously amended pleading is further amended, only the last amendment need be identified."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "There is no specific rule or authority governing the identification of amendments in pleadings. It was once common to use underlining (red for the first amendment, then green, and various other colours for subsequent amendments). The most common contemporary practice, acceptable to the clerks, is single underlining for first amendments, double underlining for second amendments and dotted-line underlining for third amendments, with no need to use different colours, or any particular colours, though colours are often used in conjunction with this practice.",
+              "sentences": [
+                "There is no specific rule or authority governing the identification of amendments in pleadings. It was once common to use underlining (red for the first amendment, then green, and various other colours for subsequent amendments).",
+                "The most common contemporary practice, acceptable to the clerks, is single underlining for first amendments, double underlining for second amendments and dotted-line underlining for third amendments, with no need to use different colours, or any particular colours, though colours are often used in conjunction with this practice."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "3.64",
+          "title": "Time limit for application to disallow amendment to pleading",
+          "text": "(1) On application, the Court may disallow an amendment to a pleading or a part of it.\n(2) The application must be filed within 10 days after service on the applicant",
+          "sentences": [
+            "(1) On application, the Court may disallow an amendment to a pleading or a part of it.",
+            "(2) The application must be filed within 10 days after service on the applicant"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "3.65",
+          "title": "Permission of Court to amendment before or after close of pleadings",
+          "text": "(1) Subject to subrule (5), before or after close of pleadings, the Court may give permission to amend a pleading.\n(2) If the Court gives permission for a pleading to be amended, the Court must specify the time period within which the amended pleading must be filed and served.\n(3) An order giving permission to amend a pleading under this rule ceases to have effect unless the amended pleading is filed and served within the time specified by the Court.\n(4) If the Court directs or allows a pleading to be amended at trial, (a) the amendment must be recorded in writing by the court clerk, and (b) no order need be filed.\n(5) This rule does not apply to an amendment to a pleading to add, remove, substitute or correct the name of a party to which rule 3.74 [Adding, removing or substituting parties after close of pleadings] applies.\n\n*[Alta. Reg. 124/2010, r. 3.65 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) Subject to subrule (5), before or after close of pleadings, the Court may give permission to amend a pleading.",
+            "(2) If the Court gives permission for a pleading to be amended, the Court must specify the time period within which the amended pleading must be filed and served.",
+            "(3) An order giving permission to amend a pleading under this rule ceases to have effect unless the amended pleading is filed and served within the time specified by the Court.",
+            "(4) If the Court directs or allows a pleading to be amended at trial",
+            "(a) the amendment must be recorded in writing by the court clerk, and",
+            "(b) no order need be filed.",
+            "(5) This rule does not apply to an amendment to a pleading to add, remove, substitute or correct the name of a party to which rule 3.74 [Adding, removing or substituting parties after close of pleadings] applies. *[Alta. Reg. 124/2010, r. 3.65 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 3.65 gives the court jurisdiction and discretion to amend a pleading, but gives no substantive guidelines on when amendments not adding parties should be granted, merely stating that “the Court may give permission to amend a pleading.” Armstrong v. Gula (Litigation Representative of), [2024] A.J. No. 741, 2024 ABKB 358 at paras. 124-127 (Alta. K.B.) provides a good summary of the law outlined below, citing many of the relevant cases.\nUnlike former rule 132, it does not indicate the need for the purpose of determining the real question in issue between the parties. However, the effect is the same by virtue of rule 1.2(2)(a), which includes that purpose in the overall purpose and intention of the new Alberta Rules of Court. Manson Insulation Products Ltd. v. Crossroads C & I Distributors, [2011] A.J. No. 91, 2011 ABQB 51 at paras. 42-44 (Alta. Q.B.). For completeness rule 3.65 should be read in conjunction with rule 3.62.160 Court’s Discretion – The power to allow amendments is discretionary. Wood Buffalo Housing & Development Corp. v. Alves Construction Ltd., [2016] A.J. No. 450, The discretion",
+              "sentences": [
+                "Rule 3.65 gives the court jurisdiction and discretion to amend a pleading, but gives no substantive guidelines on when amendments not adding parties should be granted, merely stating that “the Court may give permission to amend a pleading.” Armstrong v. Gula (Litigation Representative of), [2024] A.J. No. 741, 2024 ABKB 358 at paras. 124-127 (Alta. K.B.) provides a good summary of the law outlined below, citing many of the relevant cases. Unlike former rule 132, it does not indicate the need for the purpose of determining the real question in issue between the parties. However, the effect is the same by virtue of rule 1.2(2)(a), which includes that purpose in the overall purpose and intention of the new Alberta Rules of Court.",
+                "Manson Insulation Products Ltd. v. Crossroads C & I Distributors, [2011] A.J. No. 91, 2011 ABQB 51 at paras. 42-44 (Alta. Q.B.).",
+                "For completeness rule 3.65 should be read in conjunction with rule 3.62.160 Court’s Discretion – The power to allow amendments is discretionary.",
+                "Wood Buffalo Housing & Development Corp. v. Alves Construction Ltd., [2016] A.J. No. 450, The discretion"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2024 ABKB 358",
+                  "style_of_cause": "Armstrong v. Gula",
+                  "context": "n when amendments not adding parties should be granted, merely stating that “the Court may give permission to amend a pleading.” Armstrong v. Gula (Litigation Representative of), [2024] A.J. No. 741, 2024 ABKB 358 at paras. 124-127 (Alta. K.B.) provides a good summary of the law outlined below, citing many of th"
+                },
+                {
+                  "neutral_citation": "2011 ABQB 51",
+                  "style_of_cause": "Alberta Rules of Court. Manson Insulation Products Ltd. v. Crossroads C",
+                  "context": "le 1.2(2)(a), which includes that purpose in the overall purpose and intention of the new Alberta Rules of Court. Manson Insulation Products Ltd. v. Crossroads C & I Distributors, [2011] A.J. No. 91, 2011 ABQB 51 at paras. 42-44 (Alta. Q.B.). For completeness rule 3.65 should be read in conjunction with rule 3."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.66",
+          "title": "Costs",
+          "text": "(1) Subject to subrule (2), the costs, if any, as a result of an amendment to a pleading are to be borne by the party filing the amendment unless (a) the amendment is a response to an amended pleading, or (b) the Court otherwise orders.\n(2) The costs of a contested application to amend a pleading are in the discretion of the Court, in accordance with rule 10.29 [General rule for payment of litigation costs].\n\n*[Alta. Reg. 124/2010, r. 3.66 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 122/2012, s. 5]",
+          "sentences": [
+            "(1) Subject to subrule (2), the costs, if any, as a result of an amendment to a pleading are to be borne by the party filing the amendment unless",
+            "(a) the amendment is a response to an amended pleading, or",
+            "(b) the Court otherwise orders.",
+            "(2) The costs of a contested application to amend a pleading are in the discretion of the Court, in accordance with rule 10.29 [General rule for payment of litigation costs]. *[Alta. Reg. 124/2010, r. 3.66 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 122/2012, s. 5]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "In an application seeking leave to amend pleadings, costs are at the discretion of the court. When the pleading itself is actually amended, the costs as a result of an amendment are to be borne by the party filing the amendment unless the party is responding to an amended pleading with an amendment or the court otherwise orders. “As a general rule where one party asserts a right to amend pleadings and the other party denies that right, and the amending party must take the matter to court, costs should follow the event. It [ ] the applicant succeeds in its motion to amend, it should get costs.” sic",
+              "sentences": [
+                "In an application seeking leave to amend pleadings, costs are at the discretion of the court.",
+                "When the pleading itself is actually amended, the costs as a result of an amendment are to be borne by the party filing the amendment unless the party is responding to an amended pleading with an amendment or the court otherwise orders. “As a general rule where one party asserts a right to amend pleadings and the other party denies that right, and the amending party must take the matter to court, costs should follow the event.",
+                "It [ ] the applicant succeeds in its motion to amend, it should get costs.” sic"
+              ],
+              "citations": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

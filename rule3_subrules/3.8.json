@@ -1,0 +1,232 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.8",
+  "title": {
+    "official": "Originating applications and associated evidence",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rules"
+  },
+  "operative_text": {
+    "controlling": "3.8(1)  An originating application must\n(a) be in Form 7,\n(b) state the claim and the basis for it,\n(c) state the remedy sought, and\n(d) identify the affidavit or other evidence to be used in\nsupport of the originating application.\n(2)  If an affidavit is filed to support an originating application, the\naffidavit must be confined to\n(a) a statement of facts within the personal knowledge of the\nperson swearing the affidavit, and\n(b) any other evidence that the person swearing the affidavit\ncould give at trial.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "e41c7129f284854849c66058c2cb8e5d9b4db5d56724ca25cbc7596758641994"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          52,
+          53
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Originating Applications and associated evidence",
+      "operative_text_raw": null,
+      "operative_text_sha256": "b7f5ab05ed16963ea37c2591d81126936e66d6d02d3024aba098f0ff22be47f6",
+      "defined_terms": null,
+      "related_provisions": "3.2 (how to start an action); 13.18 (contents of affidavits);13.19 (requirements for affidavit)",
+      "commentary": "On when an Originating Application is appropriate, see R.3.2n.B.There are notices to the profession giving guidelines for email or digitally-filed documents, in the \"News and Announcements\"\n\npart of the Court of King's Bench's website. See further R.13.14n.Rule 3.2n.B.4 contains long, detailed warnings about booking Originating Applications, and filing them (or anything else). There are now new potentially grave dangers, as there described. Ordinarily a party cannot get relief or go into issues, which are not in his originating pleading, and so an Originating Application seeking only declaratory relief (and costs) will not permit them.\n\nAnd there are other discretionary grounds to refuse declaratory relief). On hearsay in affidavits and substance, see R.13.18n, and theCanmorecase. On double or treble hearsay, seeL.Y.v.R.Y. *5\nAn affidavit by a legal assistant is unacceptable except for noncontroversial matters, but it is done too often.Someone asserting prejudice should himself swear, not file an affidavit by his lawyer's assistant, who is at two removes.Especially if the prejudice asserted is unlikely in the context of the undisputed history of the suit. The dubious nature of news stories from the media, or items from the internet, as exhibits to affidavits, is stressed in theANC Timbercase. However,\n\nsometimes a legal assistant has the most direct knowledge, e.g.of what communications did or did not occur.\n\n4ANC v. Min.of Agric.(¶'s 84-87). 5Condo.Corp. No.0210494 v. Rotzang2024 ABKB 111, JCC 1501 07104 (Feb 27) (¶'s 33-34). 6Quite similar to previous 1968 R.310.It came from Judic.Ord.r.302, and Eng.O.38 r.10, am.Dec.1885 and (re Div.cts.) 1938.Similar (except for last line) to 1914 R.423, and 1944 C.R.356, as am.by Alta.Reg. 163/59 (O.C.636-59).Cf.C.O.O.XVIII r.5. 7Tartal v.Human Rts. Comm'n.2023 ABKB 381, JCE 2303 04841 (Jun 26) (¶'s 48-51).\n\n8Tartal v.Human Rts. Comm'n.,supra(¶'s 52 ff.). 9Re Can.N. Grp.,infra. Hearsay in affidavits cannot be received respecting contempt or the penalty for it. Nor can opinions about the merits of the suit, advocacy, or speculation.\n\n1Imp.Finishing v.Moderno Homes2019 ABQB 64, JCC 1703 16342 (¶ 64).An affidavit was struck out, as the relevant part was a document tendered on the contents of a document, but nothing was said in the affidavit to show the truth of those contents.Inadmissible hearsay is not permitted in a final application. No principled exception to the hearsay rule was suggested (though the principled exception may apply to affidavits?):Holden (Village) v.Sen2019 ABQB 472, JCE 1503 12322 (Jan 21) (¶'s 57-60, 65-66). 2Kissel v. RockyView (Cty.)2020 ABQB 406, JCC 1901 11027 (Jul 16) (¶ 63).\n\nRule 3.8(2) is no bar to reciting an admission against interest in an affidavit. evidence or what seems unreliable.\n\n3Harco Hldg.2000 v. M.B.(M) 2010 ABQB 442, 500 AR 258.\n\nIn a civil case, consent or lack of objection by the opponent, lets the court admit hearsay Legal opinion and argument are generally improper in an affidavit, especially from a lay affiant. On powerof the court to decide when a document actually received is\"filed\", thus overruling\n\nthe Clerk, seeSabir v. Gilland comments, in R.3.2n.,supra. *Service of Originating Application and Evidence*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-24",
+          "3-26"
+        ],
+        "offset_in_clean_text": [
+          69895,
+          74683
+        ]
+      },
+      "operative_text_note": "same wording as official 3.8(1)-(2) (read by eye) except missing spaces, '*' line marks and the footnote markers '3' (after (1)(d)) and '1' (after (2)(b)). No amendment bracket; the official text lists no amendment for 3.8. No substantive difference. The raw text also held the p.3-25 footnote block (footnotes 1-7 of that page), kept here verbatim: '1Quite similar to previous 1968 R.305(1).It came from 1914 R.416 and 1944 C.R.348.Cf.Judic.Ordinance R.295, 1883 O.38 r.3, and 1897 Ont.R.519.Cf.C.O.O.XVIII r.3.These older Rules were more general. 2The July 8, 2020 Notice to the Profession about digital filing is now permanent as \"Guidelines for Documents Filed by Email or Digital Upload\", though sometimes later updated by announcements.See R.3.25n. 3Veniniv. Venini2023 ABKB 524, JCE 1503 06113 (AJ Sep 20) (¶'s 55, 57, 61-63). 4Canmore Apts.v.Cormode & Dickson Constr.2023 ABKB 659, JCC 2101 03737 (Nov 22) (¶ 30(2)). 52024 ABKB 209, JCC FL01 41775 (Apr 10) (¶'s 52-54). 6Tole v.Lucki2017 ABCA 79, [20017] AJ #184 (one JA). 7ANCTimber v. Min.of Agric.2019 ABQB 653, 5 Alta LR(7th) 102 (¶'s 81-83).' Footnote 5 (2024 ABKB 209) is the citation of L.Y. v. R.Y., whose name is printed in the commentary ('On double or treble hearsay, see L.Y. v. R.Y.'); footnote 6 prints the year as '[20017]'.",
+      "commentary_review_flag": "Read in full, p.3-24 (line 547) to p.3-26 (line 586). (1) Footnotes: p.3-25 has 1-7 (kept in the text note); p.3-26 has 9. Footnotes 1-5 there belong to this note (1 Imp. Finishing v. Moderno Homes 2019 ABQB 64 para. 64; 2 Kissel v. Rocky View (Cty.) 2020 ABQB 406 para. 63; 3 Harco Hldg. 2000 v. M.B. (M) 2010 ABQB 442, 500 AR 258; 4 ANC v. Min. of Agric. paras. 84-87; 5 Condo. Corp. No. 0210494 v. Rotzang 2024 ABKB 111 paras. 33-34); footnotes 6-9 (6 history 'Quite similar to previous 1968 R.310 ...', 7 Tartal v. Human Rts. Comm'n 2023 ABKB 381 paras. 48-51, 8 Tartal supra, 9 Re Can.N. Grp. infra) are 3.9's - the marker '6' is printed after 3.9's text (line 587) and 3.9's page 3-27 footnotes 1-4 continue with Re Can.N. Grp. and Tartal - but sit inside the built 3.8 commentary. (2) 'ANC Timber v. Min. of Agric. 2019 ABQB 653' (p.3-25 fn 7) is short-cited 'ANC v. Min. of Agric.' (p.3-26 fn 4); 'Tole v. Lucki 2017 ABCA 79, [20017] AJ #184' has an extra digit in the printed year. (3) Related Provisions: '13.18 (contents of affidavits)' - official 13.18 is 'Types of affidavit' (an affidavit may be sworn on personal knowledge or on information and belief, with the source disclosed; 13.18(3) requires personal knowledge if it supports an application that may dispose of a claim); the requirements are in 13.19 ('Requirements for affidavits'), whose label agrees. The information note calls 13.18 'Types of affidavit' (matches). 3.2 agrees. (4) Sabir pointer, p.3-26 line 586: 'On power of the court to decide when a document actually received is \"filed\", thus overruling the Clerk, see Sabir v. Gill and comments, in R.3.2n., supra' - Sabir v. Gill has no full citation before p.3-43 fn 1 (2023 ABKB 679), and 3.2's own note (p.3-7 fn 2) sends the reader on to R.3.1n., which is not in the file; 'supra' therefore points nowhere earlier. (5) Other pointers: 'R.3.2n.B' and 'Rule 3.2n.B.4' resolve (3.2 Part B; B.4 Procedure and Parties carries the booking and filing warnings); 'R.13.14n.' (official 13.14 is 'Endorsements on documents') and p.3-25 fn 2 'See R.3.25n.' are not checked here (to be checked in the 13.14 and 3.25 passes). (6) The sentence 'Ordinarily a party cannot get relief or go into issues, which are not in his originating pleading, and so an Originating Application seeking only declaratory relief (and costs) will not permit them' is also in 3.2 (p.3-16, C.3 Miscellaneous); the following sentence ends with an unmatched ')' ('to refuse declaratory relief)'). (7) Statements of law without a source in the repository (not checked): hearsay in affidavits cannot be received respecting contempt or the penalty; Rule 3.8(2) is no bar to reciting an admission against interest; consent or lack of objection lets the court admit hearsay in a civil case; an affidavit by a legal assistant is unacceptable except for noncontroversial matters. No Defined Terms line is printed for 3.8."
+    },
+    "BOOK_B": {
+      "title": "Originating applications and associated evidence",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": null,
+          "text": "1. Test for amending originating application In Thomson v. Thomson, 2024 ABCA 293, the Court said: [28] The test for amending pleadings after they have closed is as follows: Assuming some modest amount of evidence is provided in support, any pleading may be amended, no matter how careless or late the party seeking the amendment, subject to four major exceptions: (a) The amendment would cause serious prejudice to the opposing party, not compensable in costs; (b) The amendment requested is hopeless; (c) Unless permitted by statute, the amendment seeks to add a new party or new cause of action after the expiry of a limitation period; or (d) There is an element of bad faith associated with the failure to plead the amendment in the first instance. [Emphasis added] Terrigno v Butzner, 2021 ABCA 18 at para 11, citing Attila Dogan Construction and Installation Co. v. AMEC Americas Ltd. 2014 ABCA 74 at para 25, additional reasons 2015 ABCA 9. The same test is applied where permission is required to amend an originating application: Aramark Remote Workplace Services Ltd v. Unite Here Local 47, 2023 ABKB 42 at paras 16, 17; Ingram v. Alberta (Chief Medical Officer of Health), 2021 ABQB 343 at paras 20-23, affirmed 2022 ABCA 97; Alberta March for Life Association v. Edmonton (City), 2020 ABQB 220 at para 14; McCargar v. Métis Nation of Alberta Association, 2017 ABQB 692 at paras 7–10, reversed in part 2018 ABCA 144.",
+          "note": "printed in the same source paragraph as the rule text, with no 'Commentary §' header; split at '1. Test for amending originating application' (manual review)"
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_8_001",
+        "part3_part_3_court_actions_024"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "39a87a6127d1d59c6a5af154aed3c7fc6ec6d6e527f7f0701cc62fac2239c906",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Originating applications and associated evidence",
+      "division_heading": "Division 2 – ACTIONS STARTED BY ORIGINATING APPLICATION",
+      "operative_text_raw": null,
+      "operative_text_sha256": "2a955d05d60455130d2e2e7e7cb5f4935caca0751a0559615bc21798ed45ccd1",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it holds subrule (1)(a)-(d) only; subrule (2) ('If an affidavit is filed to support an originating application, the affidavit must be confined to ...') is not in the file, and no amendment note and no commentary are printed for 3.8. The Division heading printed for it ('Division 2 - ACTIONS STARTED BY ORIGINATING APPLICATION') agrees with the official Division 2."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.4234,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.8(1)-(2) (read by eye) except missing spaces, '*' line marks and the footnote markers '3' (after (1)(d)) and '1' (after (2)(b)). No amendment bracket; the official text lists no amendment for 3.8. No substantive difference. The raw text also held the p.3-25 footnote block (footnotes 1-7 of that page), kept here verbatim: '1Quite similar to previous 1968 R.305(1).It came from 1914 R.416 and 1944 C.R.348.Cf.Judic.Ordinance R.295, 1883 O.38 r.3, and 1897 Ont.R.519.Cf.C.O.O.XVIII r.3.These older Rules were more general. 2The July 8, 2020 Notice to the Profession about digital filing is now permanent as \"Guidelines for Documents Filed by Email or Digital Upload\", though sometimes later updated by announcements.See R.3.25n. 3Veniniv. Venini2023 ABKB 524, JCE 1503 06113 (AJ Sep 20) (¶'s 55, 57, 61-63). 4Canmore Apts.v.Cormode & Dickson Constr.2023 ABKB 659, JCC 2101 03737 (Nov 22) (¶ 30(2)). 52024 ABKB 209, JCC FL01 41775 (Apr 10) (¶'s 52-54). 6Tole v.Lucki2017 ABCA 79, [20017] AJ #184 (one JA). 7ANCTimber v. Min.of Agric.2019 ABQB 653, 5 Alta LR(7th) 102 (¶'s 81-83).' Footnote 5 (2024 ABKB 209) is the citation of L.Y. v. R.Y., whose name is printed in the commentary ('On double or treble hearsay, see L.Y. v. R.Y.'); footnote 6 prints the year as '[20017]'."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.6357,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.8",
+      "title_official": "Originating applications and associated evidence"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "b7f5ab05ed16963ea37c2591d81126936e66d6d02d3024aba098f0ff22be47f6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-24",
+            "3-26"
+          ],
+          "offset_in_clean_text": [
+            69895,
+            74683
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "39a87a6127d1d59c6a5af154aed3c7fc6ec6d6e527f7f0701cc62fac2239c906",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "2a955d05d60455130d2e2e7e7cb5f4935caca0751a0559615bc21798ed45ccd1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "e41c7129f284854849c66058c2cb8e5d9b4db5d56724ca25cbc7596758641994",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            52,
+            53
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "2433b1c7116d1b7f21e83ad8bda7e023973b61cf465d47338509a3dc4b41ebb0"
+  },
+  "information_notes": [
+    {
+      "text": "Rules foraffidavits are contained in Part 13 [Technical Rules].See rule 13.18 [Types of affidavit] and the rules that follow that rule.",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "see_also": [
+    "Official text (searched for 'rule 3.8', 'rules 3.8 ...', lists, line-wrapped forms and form headings): rules 12.26(1) (application under section 22.1 of the Divorce Act: '(i) an originating application in accordance with rule 3.8(1); (ii) a supporting affidavit in accordance with rule 3.8(2) to which are attached as exhibits ...'), 12.27(1)-(2) (originating application 'in accordance with rule 3.8(1)', affidavit 'in accordance with rule 3.8(2)'), 12.30 and 12.33(1) (originating application in accordance with rule 3.8(1)); Form 7 is headed '[Rule 3.8]' (3.8(1)(a) names Form 7). By subject: 3.9 (service), 3.12, 3.13 (questioning on affidavit), 3.15, 13.18 and 13.19 (affidavits), 6.11 (evidence at application hearings).",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the page markers; rule numbers read from the text): R.12.26 (p.12-23), R.12.27 (p.12-27; related p.12-28), R.12.30 (p.12-30), R.12.33 (p.12-31; related p.12-32) quote 'in accordance with rule 3.8(1)/(2) [Originating applications and associated evidence]' (title matches official); R.12.27 and R.12.33 related provisions '3.8 (originating applications)'; R.6.1 related p.6-3 (line 61) and R.6.3 related p.6-14 (line 633) '3.8 (originating applications)'; R.9.42 (p.9-91), R.9.50 (p.9-95) and R.9.52 (p.9-97) related '3.8 (originating applications)'; R.13.18 related p.13-74 (line 3837) '3.8(2) (affidavits used for originating applications)'. Inside Part 3: 3.2 information note p.3-5 ('rule 3.8 [Originating applications and associated evidence]'); 3.22 note p.3-65 lines 1712 and 1719 'Under Rr.3.8(2), 13.18, judicial review is final, not interlocutory' and 'Violation of Rr.3.8(2), 13.18 bars the offending parts, not the whole affidavit'; 3.25 note p.3-70 line 1879 'See R.3.8n.'; 3.31 note p.3-81 line 2199 'See notes to Rr.3.8 and 3.25' (rule attribution from the nearest earlier rule marker in the file).",
+    "BOOK_B: rule text = official; one commentary part, '1. Test for amending originating application' (Thomson v. Thomson 2024 ABCA 293 para 28 quoting the four exceptions to amending pleadings; then Terrigno v Butzner 2021 ABCA 18, Attila Dogan 2014 ABCA 74, Aramark 2023 ABKB 42, Ingram 2021 ABQB 343 affd 2022 ABCA 97, Alberta March for Life 2020 ABQB 220, McCargar 2017 ABQB 692 rev'd in part 2018 ABCA 144). It is printed inside the rule-text paragraph with no 'Commentary §' header; split off by manual decision (MANUAL_BOOK_B_SPLIT). Same authorities elsewhere: Thomson v. Thomson 2024 ABCA 293 also in BOOK_B rule3_part06_document.json; Attila Dogan, McCargar and Terrigno v. Butzner also in BOOK_A Part 3 (and other Parts) and other BOOK_B Part 3 files - to be linked in the 3.65 (amendment) pass; Aramark and Alberta March for Life appear only here.",
+    "BOOK_B other Parts and BOOK_C (all Book B files and all Book C page files searched): BOOK_B rule 12.x text (rule12_part01_document.json) and BOOK_C (file 561-580) repeat the official wording that cites 3.8(1) and 3.8(2) (rules 12.26, 12.27, 12.30, 12.33); BOOK_B rule15_part02_document.json (paragraph part15_address_038, a Hague Convention practice notice, item 15) says the party seeking the return of a child 'must file an Originating Application (Form 7) pursuant to Rule 3.8'. The 3.2 information notes in Book A and Book C name 3.8 with its title (see the 3.2 review note)."
+  ],
+  "dedupe_log": [
+    "3.8 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.8 BOOK_C: rule text dropped (manual review)",
+    "3.8 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

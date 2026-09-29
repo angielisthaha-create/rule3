@@ -1,0 +1,19 @@
+PART 3 PASS 2 - PROGRESS RECORD (saved mid-pass)
+Goal: verification of what pass 1 wrote (README/WORKFLOW 6A): page/line refs, counts, quotes, flags, CORRECTED notes.
+Method (display-only scripts in this folder; they find, the reviewer decides):
+  chk.py   page of every 'line N' claim          | nc.py  neutral citations vs cited page
+  q.py/near.py  every quoted string searched in all sources | cnt.py  character counts vs measured
+  fn3.py   footnote markers per page (count claims) | td2.py  independent char-level diff official vs Book A/B/C text
+  vp.py    batch lookup 'part|phrase|expected page' | p2lib.py  edit helper (rep across adjacent string literals; note())
+Done and committed: rules 3.1-3.8 (manual + lookups), corrections in 3.6 3.12 3.15 3.16 3.22 3.34 3.69 3.75.
+Done, [2nd pass] lines written in REVIEW_NOTES: 3.9-3.11, 3.13-3.15, 3.17-3.37 (see file).
+NOT yet done (manual reading + [2nd pass] line still needed): 3.12? (has line), 3.38-3.77 and 3.16/3.18? (check REVIEW_NOTES for missing [2nd pass]).
+Errors found so far: 3.12 p.3-9->3-8; 3.15 p.3-46->3-42; 3.16 El Sayed pages; 3.22 14,000->11,811 chars; 3.34 four->five parts; 3.36 missing 'rule' repeated; 3.69 occurrence counts 25/7/3; 3.75 (b),(3) on p.3-245; 3.6 spliced quote.
+Pending idea: 3.67/3.68 add that Hislop v. Murray [2012] AR Uned 494 is cited in Book A R.4 (p.4-7 line 285; p.4-94 line 5022) and R.15 (p.15-5 line 176).
+Resume: python3 tools/build_rule3_reconciliation.py; python3 tools/pass2/chk.py N; read python3 tools/pass2/blk.py N; edit via tools/pass2/p2lib.py (Fix.rep / Fix.note / save).
+NOTE: scripts in tools/pass2 expect to be copied to /tmp/w (they import each other from /tmp/w and cache /tmp/w/norm.pkl). Rules 3.38-3.43 [2nd pass] lines written; continue from 3.44.
+Rules 3.44-3.57 [2nd pass] lines written; continue from 3.58.
+
+UPDATE: every rule 3.1-3.77 now has a [2nd pass] line in rule3_subrules/REVIEW_NOTES.txt (checked: none missing).
+Pass 2 found material errors in 3.12, 3.15, 3.16, 3.22, 3.34, 3.36, 3.69, 3.75 (all corrected) and a wording slip in 3.6; per the stopping rule a pass 3 (confirmation) is needed on the rules pass 2 changed.
+Limits: 3.9-3.77 were verified mainly by the automated lookups plus reading each first-pass block; statements of law, case content and the filtered part of 3.68 were not re-read.

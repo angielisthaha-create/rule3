@@ -1,0 +1,749 @@
+{
+  "source_file": "81-100_revised.md",
+  "definitions": [
+    "claim",
+    "client",
+    "commencement document",
+    "costs award",
+    "Court",
+    "enactment",
+    "file",
+    "judgment",
+    "lawyer",
+    "order",
+    "partnership",
+    "party",
+    "personal representative",
+    "pleading",
+    "prescribed form",
+    "property",
+    "record",
+    "rules",
+    "trustee"
+  ],
+  "hierarchy": [
+    {
+      "type": "Division",
+      "heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "rules": [
+        {
+          "number": "2.1",
+          "title": "Actions by or against personal representatives and trustees",
+          "text": "An action may be brought by or against a personal representative or trustee without naming any of the persons beneficially interested in the estate or trust.\n\n*[Alta. Reg. 124/2010, r. 2.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "An action may be brought by or against a personal representative or trustee without naming any of the persons beneficially interested in the estate or trust. *[Alta. Reg. 124/2010, r. 2.1 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Rules for service of commencement documents on trustees and personal representatives are contained in rule 11.6 [Service on trustees and personal representatives]. For judgments against personal representatives and trustees see rule 9.11 [ ].\nJudgment against beneficiaries"
+          ],
+          "commentary": []
+        },
+        {
+          "number": "2.2",
+          "title": "Actions by or against partners and partnerships",
+          "text": "(1) An action by or against  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. or more persons as partners may be brought using the name of the",
+          "sentences": [
+            "(1) An action by or against Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. or more persons as partners may be brought using the name of the"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2017 ABQB 76",
+              "style_of_cause": "An action by or against  Bidell Equipment LP v. Caliber Midstream GP LLC",
+              "context": "(1) An action by or against  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. or more persons as partners may be brought using the name of the"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "11.10",
+          "title": "[ ] and 11.11 [ Service on limited partnerships Service on partnerships other than limited partnerships].",
+          "text": "",
+          "sentences": [],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 2.2(1) “is a permissive rule that allows an action to be brought against partners using the name of the partnership, to avoid having to name each individual",
+              "sentences": [
+                "Rule 2.2(1) “is a permissive rule that allows an action to be brought against partners using the name of the partnership, to avoid having to name each individual"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "2.3",
+          "title": "Suing individual partners",
+          "text": "(1) In an action against a partnership in the",
+          "sentences": [
+            "(1) In an action against a partnership in the"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.4",
+          "title": "Disclosure of partners",
+          "text": "(1) If an action is brought by or against a",
+          "sentences": [
+            "(1) If an action is brought by or against a"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.5",
+          "title": "Actions by and against sole proprietors",
+          "text": "(1) If a person carries on business or operates as a sole proprietor under a name other than the person’s name, the person may bring or be the subject of an action in that name.\n(2) If an action is brought by or against a person in the person’s business or operating name, a party may serve a notice requiring the person to disclose, in writing, the legal name of the person carrying on the business or operation.\n(3) The person on whom the notice to disclose is served must comply with it within 10 days after the date the notice is served.\n\n*[Alta. Reg. 124/2010, r. 2.5 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If a person carries on business or operates as a sole proprietor under a name other than the person’s name, the person may bring or be the subject of an action in that name.",
+            "(2) If an action is brought by or against a person in the person’s business or operating name, a party may serve a notice requiring the person to disclose, in writing, the legal name of the person carrying on the business or operation.",
+            "(3) The person on whom the notice to disclose is served must comply with it within 10 days after the date the notice is served. *[Alta. Reg. 124/2010, r. 2.5 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Rules for service of commencement documents on individuals and corporations operating under trade names are contained in rule 11.12 [Service on individuals using another name Service on a corporation using another ] and rule 11.13 [ name]."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "It is permissible pursuant to this rule for a person to sue or be sued in the name of an unincorporated business. As the business is not incorporated it has no legal personality. Normal practice would see the proprietor being sued in their own name along with the name of the unregistered business. One can sue, for example, a “John Doe carrying on business as Corner Pizza”. The legal entity is the natural or artificial person behind the firm or tradename. Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.).",
+              "sentences": [
+                "It is permissible pursuant to this rule for a person to sue or be sued in the name of an unincorporated business. As the business is not incorporated it has no legal personality.",
+                "Normal practice would see the proprietor being sued in their own name along with the name of the unregistered business. One can sue, for example, a “John Doe carrying on business as Corner Pizza”.",
+                "The legal entity is the natural or artificial person behind the firm or tradename.",
+                "Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2018 ABQB 566",
+                  "style_of_cause": "The legal entity is the natural or artificial person behind the firm or tradename. Stamos v. Huculuk",
+                  "context": "One can sue, for example, a “John Doe carrying on business as Corner Pizza”. The legal entity is the natural or artificial person behind the firm or tradename. Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.6",
+          "title": "Representative actions",
+          "text": "(1) If numerous persons have a common interest in the subject of an intended claim, one or more of those persons may make or Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659, 2019 ABCA 385 at paras. 11-13 (Alta. C.A.).",
+          "sentences": [
+            "(1) If numerous persons have a common interest in the subject of an intended claim, one or more of those persons may make or Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.)",
+            "Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.)",
+            ", [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.)",
+            "G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659, 2019 ABCA 385 at paras. 11-13 (Alta. C.A.)."
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2019 ABCA 113",
+              "style_of_cause": "Jonsson v. Lymer Papaschase",
+              "context": "(1) If numerous persons have a common interest in the subject of an intended claim, one or more of those persons may make or Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA"
+            },
+            {
+              "neutral_citation": "2005 ABCA 320",
+              "style_of_cause": "Indian Band v. Canada",
+              "context": "im, one or more of those persons may make or Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v."
+            },
+            {
+              "neutral_citation": "2013 ABQB 726",
+              "style_of_cause": "Indian Band v. Canada",
+              "context": "apaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J"
+            },
+            {
+              "neutral_citation": "2019 ABCA 385",
+              "style_of_cause": "Wilcox v. Alberta Prison Justice Society",
+              "context": ". No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659, 2019 ABCA 385 at paras. 11-13 (Alta. C.A.)."
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.7",
+          "title": "Amendments to pleadings in class proceedings",
+          "text": "After a certification order is made under the , Class Proceedings Act  S.A. 2003, c. C-16.5. a party may amend a pleading only with the Court’s permission.\n\n*[Alta. Reg. 124/2010, r. 2.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "After a certification order is made under the , Class Proceedings Act S.A. 2003, c. C-16.5. a party may amend a pleading only with the Court’s permission. *[Alta. Reg. 124/2010, r. 2.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Rule 13.11 [Pleadings: specific requirements for class proceedings] describes how class proceedings must be titled."
+          ],
+          "commentary": []
+        },
+        {
+          "number": "2.8",
+          "title": "Questioning of class and subclass members",
+          "text": "(1) If under section 18(2) of the the Court requires a class member or subclass Class Proceedings Act member to file and serve an affidavit of records, the Court may do either or both of the following:\n(a) limit the purpose and scope of the records to be produced and of questioning;\n(b) determine how the evidence obtained may be used.\n(2) If a class member or subclass member is questioned under section 18(2) of the , the Court may do either or both of the following:\nClass Proceedings Act (a) limit the purpose and scope of the questioning;\n(b) determine how the evidence obtained may be used.\n\n*[Alta. Reg. 124/2010, r. 2.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If under section 18(2) of the the Court requires a class member or subclass Class Proceedings Act member to file and serve an affidavit of records, the Court may do either or both of the following:",
+            "(a) limit the purpose and scope of the records to be produced and of questioning",
+            "(b) determine how the evidence obtained may be used.",
+            "(2) If a class member or subclass member is questioned under section 18(2) of the , the Court may do either or both of the following: Class Proceedings Act",
+            "(a) limit the purpose and scope of the questioning",
+            "(b) determine how the evidence obtained may be used. *[Alta. Reg. 124/2010, r. 2.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Section 18(2) of the Class Proceedings Act S.A. 2003, c. C-16.5. reads:\n(2) After discovery of the representative plaintiff or, in a proceeding referred to in section 7, one or more of the representative plaintiffs, a defendant may, with leave of the Court, discover other class members or subclass members."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "One likely purpose of this rule is to provide the court with discretion over the scope of questioning to prevent abuses by defendants in utilizing the questioning process as a tool of oppression rather than a tool of discovery.",
+              "sentences": [
+                "One likely purpose of this rule is to provide the court with discretion over the scope of questioning to prevent abuses by defendants in utilizing the questioning process as a tool of oppression rather than a tool of discovery."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "2.9",
+          "title": "Class proceedings practice and procedure",
+          "text": "Despite any other provision of these Rules, the Court may order any practice and procedure it considers appropriate for a class proceeding under the Class Proceedings Act S.A. 2003, c. C-16.5. to achieve the objects of that Act.\nGauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA",
+          "sentences": [
+            "Despite any other provision of these Rules, the Court may order any practice and procedure it considers appropriate for a class proceeding under the Class Proceedings Act S.A. 2003, c. C-16.5. to achieve the objects of that Act.",
+            "Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.10",
+          "title": "Intervenor status",
+          "text": "On application, a Court may grant status to a person to intervene in an action subject to any terms and conditions and with the rights and privileges specified by the Court.\n\n*[Alta. Reg. 124/2010, r. 2.10 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "On application, a Court may grant status to a person to intervene in an action subject to any terms and conditions and with the rights and privileges specified by the Court. *[Alta. Reg. 124/2010, r. 2.10 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "The rules about making applications to the Court are in Part  Champagne v. Sidorsky, [2012] A.J. No. 874, 2012 ABQB 522 at para. 67 (Alta. Q.B.). [Resolving Issues and Preserving Rights Applications generally ] – see rule 6.3 [ ].\nGrant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 2.10 provides no test for granting intervenor status, so the common law governs. R. v. McKee Suncor Energy Inc. , [2023] A.J. No. 1047, 2023 ABKB 579 at para. 10 (Alta. K.B.); v. Unifor, Local 707 A Stratum , [2014] A.J. No. 1025, 2014 ABQB 555 at para. 7 (Alta. Q.B.). See also, Projects Alberta Inc. v. Aman Building Corp., [2017] A.J. No. 528, 2017 ABQB 351 at para. 23 (Alta. Q.B.). It seems that this rule and cases dealing with intervenor status apply both in King’s Bench and on the Court of Appeal, Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA although intervention on appeals is more common and more likely to be allowed.\nIn determining whether to grant intervenor status, the court considers the subject matter of the appeal and determines (1) whether the applicant is significantly and directly affected by the outcome of the appeal; and (2) whether the applicant has expertise, fresh information or a fresh perspective on the subject matter of the appeal that is useful for the appeal’s resolution. Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659, 2019 ABCA 385 at paras. 11-13 (Alta. C.A.). While past case law suggested that both criteria must be met, recent decisions have clarified that intervenor status does not automatically follow from showing either an “interest” or a “fresh perspective”. The test is not strictly conjunctive or disjunctive, but rather involves a consideration of both factors in all cases. Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.); , [2023] A.J. No. 1221, 2023 Canadian Life and Health Insurance Assn. v. Thomson ABCA 340 at para. 8 (Alta. C.A.); , [2023] A.J. No. 814, 2023 ABCA 226 M. (V.L.) v. Dominey Estate at para. 3 (Alta. C.A.). Under rule 14.58(3) an intervenor is restricted in what they may argue, though a court may permit an intervenor to argue a point inextricably linked to an issue raised by the parties. Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA The following are relevant factors to consider when determining whether to grant intervenor status under the foregoing two-stage test:\n1. Will the intervenor be directly affected by the appeal;\n2. Is the presence of the intervenor necessary for the court to properly decide the matter;\n3. Might the intervenor’s interest in the proceedings not be fully protected by the parties;\n4. Will the intervenor’s submission be useful and different or bring particular expertise to the subject matter of the appeal;\n5. Will the intervention unduly delay the proceedings;\n6. Will there possibly be prejudice to the parties if intervention is granted;\n7. Will intervention widen the between the parties; and lis 8. Will the intervention transform the court into a political arena?  Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para.\nR. v. Neve, [1996] A.J. No. 570, 1996 ABCA 242 at para. 16 (Alta. C.A.).",
+              "sentences": [
+                "Rule 2.10 provides no test for granting intervenor status, so the common law governs. R. v. McKee Suncor Energy Inc. , [2023] A.J. No. 1047, 2023 ABKB 579 at para. 10 (Alta. K.B.)",
+                "v. Unifor, Local 707 A Stratum , [2014] A.J. No. 1025, 2014 ABQB 555 at para. 7 (Alta. Q.B.).",
+                "See also, Projects Alberta Inc. v. Aman Building Corp., [2017] A.J. No. 528, 2017 ABQB 351 at para. 23 (Alta. Q.B.).",
+                "It seems that this rule and cases dealing with intervenor status apply both in King’s Bench and on the Court of Appeal, Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA although intervention on appeals is more common and more likely to be allowed. In determining whether to grant intervenor status, the court considers the subject matter of the appeal and determines",
+                "(1) whether the applicant is significantly and directly affected by the outcome of the appeal",
+                "(2) whether the applicant has expertise, fresh information or a fresh perspective on the subject matter of the appeal that is useful for the appeal’s resolution.",
+                "Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.)",
+                "Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.)",
+                ", [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.)",
+                "G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659, 2019 ABCA 385 at paras. 11-13 (Alta. C.A.).",
+                "While past case law suggested that both criteria must be met, recent decisions have clarified that intervenor status does not automatically follow from showing either an “interest” or a “fresh perspective”.",
+                "The test is not strictly conjunctive or disjunctive, but rather involves a consideration of both factors in all cases. Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.)",
+                ", [2023] A.J. No. 1221, 2023 Canadian Life and Health Insurance Assn. v. Thomson ABCA 340 at para. 8 (Alta. C.A.)",
+                ", [2023] A.J. No. 814, 2023 ABCA 226 M. (V.L.) v. Dominey Estate at para. 3 (Alta. C.A.).",
+                "Under rule 14.58(3) an intervenor is restricted in what they may argue, though a court may permit an intervenor to argue a point inextricably linked to an issue raised by the parties. Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA The following are relevant factors to consider when determining whether to grant intervenor status under the foregoing two-stage test: 1.",
+                "Will the intervenor be directly affected by the appeal",
+                "Is the presence of the intervenor necessary for the court to properly decide the matter",
+                "Might the intervenor’s interest in the proceedings not be fully protected by the parties",
+                "Will the intervenor’s submission be useful and different or bring particular expertise to the subject matter of the appeal",
+                "Will the intervention unduly delay the proceedings",
+                "Will there possibly be prejudice to the parties if intervention is granted",
+                "Will intervention widen the between the parties",
+                "Will the intervention transform the court into a political arena?",
+                "Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. R. v. Neve, [1996] A.J. No. 570, 1996 ABCA 242 at para. 16 (Alta. C.A.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2023 ABKB 579",
+                  "style_of_cause": "R. v. McKee Suncor Energy Inc.",
+                  "context": "Rule 2.10 provides no test for granting intervenor status, so the common law governs. R. v. McKee Suncor Energy Inc. , [2023] A.J. No. 1047, 2023 ABKB 579 at para. 10 (Alta. K.B.); v. Unifor, Local 707 A Stratum , [2014] A.J. No. 1025, 2014 ABQB 555 at p"
+                },
+                {
+                  "neutral_citation": "2014 ABQB 555",
+                  "style_of_cause": "R. v. McKee Suncor Energy Inc.",
+                  "context": "ing intervenor status, so the common law governs. R. v. McKee Suncor Energy Inc. , [2023] A.J. No. 1047, 2023 ABKB 579 at para. 10 (Alta. K.B.); v. Unifor, Local 707 A Stratum , [2014] A.J. No. 1025, 2014 ABQB 555 at para. 7 (Alta. Q.B.). See also, Projects Alberta Inc. v. Aman Building Corp., [2017] A.J. No. 52"
+                },
+                {
+                  "neutral_citation": "2017 ABQB 351",
+                  "style_of_cause": "Projects Alberta Inc. v. Aman Building Corp.",
+                  "context": "79 at para. 10 (Alta. K.B.); v. Unifor, Local 707 A Stratum , [2014] A.J. No. 1025, 2014 ABQB 555 at para. 7 (Alta. Q.B.). See also, Projects Alberta Inc. v. Aman Building Corp., [2017] A.J. No. 528, 2017 ABQB 351 at para. 23 (Alta. Q.B.). It seems that this rule and cases dealing with intervenor status apply bo"
+                },
+                {
+                  "neutral_citation": "2019 ABCA 113",
+                  "style_of_cause": "Jonsson v. Lymer Papaschase",
+                  "context": "he applicant has expertise, fresh information or a fresh perspective on the subject matter of the appeal that is useful for the appeal’s resolution. Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA"
+                },
+                {
+                  "neutral_citation": "2005 ABCA 320",
+                  "style_of_cause": "Indian Band v. Canada",
+                  "context": "that is useful for the appeal’s resolution. Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v."
+                },
+                {
+                  "neutral_citation": "2013 ABQB 726",
+                  "style_of_cause": "Indian Band v. Canada",
+                  "context": "apaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J"
+                },
+                {
+                  "neutral_citation": "2019 ABCA 385",
+                  "style_of_cause": "Wilcox v. Alberta Prison Justice Society",
+                  "context": ". No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659, 2019 ABCA 385 at paras. 11-13 (Alta. C.A.). While past case law suggested that both criteria must be met, recent"
+                },
+                {
+                  "neutral_citation": "2016 ABCA 238",
+                  "style_of_cause": "Grant Thornton Ltd. v. Alberta Energy Regulator",
+                  "context": "spective”. The test is not strictly conjunctive or disjunctive, but rather involves a consideration of both factors in all cases. Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.); , [2023] A.J. No. 1221, 2023 Canadian Life and Health Insurance Assn. v. T"
+                },
+                {
+                  "neutral_citation": "2023 ABCA 226",
+                  "style_of_cause": "Canadian Life and Health Insurance Assn. v. Thomson ABCA 340 at para. 8",
+                  "context": ", [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.); , [2023] A.J. No. 1221, 2023 Canadian Life and Health Insurance Assn. v. Thomson ABCA 340 at para. 8 (Alta. C.A.); , [2023] A.J. No. 814, 2023 ABCA 226 M. (V.L.) v. Dominey Estate at para. 3 (Alta. C.A.). Under rule 14.58(3) an intervenor is restricte"
+                },
+                {
+                  "neutral_citation": "1996 ABCA 242",
+                  "style_of_cause": "Grant Thornton Ltd. v. Alberta Energy Regulator",
+                  "context": "lis 8. Will the intervention transform the court into a political arena?  Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para.\nR. v. Neve, [1996] A.J. No. 570, 1996 ABCA 242 at para. 16 (Alta. C.A.)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.11",
+          "title": "Litigation representative required",
+          "text": "Unless otherwise ordered by the Court, the following individuals or estates must have a litigation representative to bring or defend an action or to continue or to participate in an action, or for an action to be brought or to be continued against them:\n(a) an individual under 18 years of age;\n(b) an individual declared to be a missing person under section  [ ]. Payment into Court and Payment out of Court of the Public Trustee Act;\n(c) an adult who, in respect of matters relating to a claim in an action, lacks capacity, as defined in the Adult Guardianship and Trusteeship Act, to make decisions; 10 (Alta. C.A.); , [2008] A.J. No. 543, 2008 ABCA 192 at para.  Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). (Alta. C.A.).\nMorrow v. Zhang Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 11 (Alta. C.A.).\n\n*[Alta. Reg. 124/2010, r. 2.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 122/2012, s. 2]",
+          "sentences": [
+            "Unless otherwise ordered by the Court, the following individuals or estates must have a litigation representative to bring or defend an action or to continue or to participate in an action, or for an action to be brought or to be continued against them:",
+            "(a) an individual under 18 years of age",
+            "(b) an individual declared to be a missing person under section [ ].",
+            "Payment into Court and Payment out of Court of the Public Trustee Act",
+            "(c) an adult who, in respect of matters relating to a claim in an action, lacks capacity, as defined in the Adult Guardianship and Trusteeship Act, to make decisions",
+            "10 (Alta. C.A.)",
+            ", [2008] A.J. No. 543, 2008 ABCA 192 at para. Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). (Alta. C.A.).",
+            "Morrow v. Zhang Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 11 (Alta. C.A.). *[Alta. Reg. 124/2010, r. 2.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 122/2012, s. 2]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2008 ABCA 192",
+              "style_of_cause": null,
+              "context": "adult who, in respect of matters relating to a claim in an action, lacks capacity, as defined in the Adult Guardianship and Trusteeship Act, to make decisions; 10 (Alta. C.A.); , [2008] A.J. No. 543, 2008 ABCA 192 at para.  Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). (Alta. C.A"
+            },
+            {
+              "neutral_citation": "2018 ABQB 566",
+              "style_of_cause": "ABCA 192 at para.  Stamos v. Huculuk",
+              "context": "n, lacks capacity, as defined in the Adult Guardianship and Trusteeship Act, to make decisions; 10 (Alta. C.A.); , [2008] A.J. No. 543, 2008 ABCA 192 at para.  Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). (Alta. C.A.).\nMorrow v. Zhang Grant Thornton Ltd. v. Alberta Energy Regula"
+            },
+            {
+              "neutral_citation": "2016 ABCA 238",
+              "style_of_cause": "Morrow v. Zhang Grant Thornton Ltd. v. Alberta Energy Regulator",
+              "context": "8 ABCA 192 at para.  Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). (Alta. C.A.).\nMorrow v. Zhang Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 11 (Alta. C.A.).\n\n*[Alta. Reg. 124/2010, r. 2.11 effective November 1, 2010 (Alta. Gaz. Au"
+            }
+          ],
+          "info_notes": [
+            "The rules for the appointment of a litigation representative would apply if a not personal representative of an estate had obtained a grant under the Surrogate Rules."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "“Represented adult” is defined in the Adult Guardian and Trusteeship Act S.A. 2008, c. A-4.2, s. 1(hh). as an adult in respect of whom a guardianship order, a trusteeship order, or both orders are in effect. Capacity is defined under thatAct to mean, in respect of the making of a decision about a matter, the ability to understand the information that is relevant to the decision and to appreciate the reasonably foreseeable consequences of both a decision, and the failure to make a decision. Adult Guardian and Trusteeship Act, S.A. 2008, c. A-4.2, s. 1(d). This definition is incorporated into rule 2.11. Lack of capacity must be proved on a balance of probabilities. Chutskoff Estate v. Bonora, [2013] A.J. No. 195, 2013 ABQB 119 at para. 19 (Alta. Q.B.).\nRule 2.11 can include situations where a personal representative is already in place arising from an appointment under a will, but a grant of probate has not yet been obtained. 1368276 Alberta Ltd. v. Grotski Estate, [2015] A.J. No. 849, 2015 ABQB 490 at para. 28 (Alta. Q.B. (Master)). It does not preclude a represented adult from being represented by counsel in proceedings where",
+              "sentences": [
+                "“Represented adult” is defined in the Adult Guardian and Trusteeship Act S.A. 2008, c. A-4.2, s. 1(hh). as an adult in respect of whom a guardianship order, a trusteeship order, or both orders are in effect.",
+                "Capacity is defined under thatAct to mean, in respect of the making of a decision about a matter, the ability to understand the information that is relevant to the decision and to appreciate the reasonably foreseeable consequences of both a decision, and the failure to make a decision.",
+                "Adult Guardian and Trusteeship Act, S.A. 2008, c. A-4.2, s. 1(d).",
+                "This definition is incorporated into rule 2.11.",
+                "Lack of capacity must be proved on a balance of probabilities. Chutskoff Estate v. Bonora, [2013] A.J. No. 195, 2013 ABQB 119 at para. 19 (Alta. Q.B.).",
+                "Rule 2.11 can include situations where a personal representative is already in place arising from an appointment under a will, but a grant of probate has not yet been obtained. 1368276 Alberta Ltd. v. Grotski Estate, [2015] A.J. No. 849, 2015 ABQB 490 at para. 28 (Alta. Q.B. (Master)).",
+                "It does not preclude a represented adult from being represented by counsel in proceedings where"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2013 ABQB 119",
+                  "style_of_cause": "Lack of capacity must be proved on a balance of probabilities. Chutskoff Estate v. Bonora",
+                  "context": "ship Act, S.A. 2008, c. A-4.2, s. 1(d). This definition is incorporated into rule 2.11. Lack of capacity must be proved on a balance of probabilities. Chutskoff Estate v. Bonora, [2013] A.J. No. 195, 2013 ABQB 119 at para. 19 (Alta. Q.B.).\nRule 2.11 can include situations where a personal representative is alrea"
+                },
+                {
+                  "neutral_citation": "2015 ABQB 490",
+                  "style_of_cause": "Alberta Ltd. v. Grotski Estate",
+                  "context": "a personal representative is already in place arising from an appointment under a will, but a grant of probate has not yet been obtained. 1368276 Alberta Ltd. v. Grotski Estate, [2015] A.J. No. 849, 2015 ABQB 490 at para. 28 (Alta. Q.B. (Master)). It does not preclude a represented adult from being represented"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.12",
+          "title": "Types of litigation representatives and service of documents",
+          "text": "(1) There are  Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). types of litigation representatives under these rules:\n(a) an automatic litigation representative described in rule 2.13 [Auto- matic litigation representatives];",
+          "sentences": [
+            "(1) There are Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). types of litigation representatives under these rules:",
+            "(a) an automatic litigation representative described in rule 2.13 [Auto- matic litigation representatives]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2018 ABQB 566",
+              "style_of_cause": "There are  Stamos v. Huculuk",
+              "context": "(1) There are  Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.). types of litigation representatives under these rules:\n(a) an automatic li"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.13",
+          "title": "Automatic litigation representatives",
+          "text": "If an individual or estate is required to have a litigation representative under rule 2.11, a person is an automatic litigation representative for the individual or estate if the person has authority to commence, compromise, settle or defend a claim on behalf of the individual or estate under any of the following:\n(a) an enactment;\n(b) an instrument authorized by an enactment;\n(c) an order authorized under an enactment;\n(d) a grant or an order under the (AR 130/95);\nSurrogate Rules (e) an instrument, other than a will, made by a person, including, without limitation, a power of attorney or a trust.\n\n*[Alta. Reg. 124/2010, r. 2.13 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 140/2013, s. 2]",
+          "sentences": [
+            "If an individual or estate is required to have a litigation representative under rule 2.11, a person is an automatic litigation representative for the individual or estate if the person has authority to commence, compromise, settle or defend a claim on behalf of the individual or estate under any of the following:",
+            "(a) an enactment",
+            "(b) an instrument authorized by an enactment",
+            "(c) an order authorized under an enactment",
+            "(d) a grant or an order under the (AR 130/95)",
+            "Surrogate Rules",
+            "(e) an instrument, other than a will, made by a person, including, without limitation, a power of attorney or a trust. *[Alta. Reg. 124/2010, r. 2.13 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 140/2013, s. 2]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "While rule 2.13(e) allows a person to become an automatic litigation representative by virtue of an instrument such as a power of attorney, the rule should only Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.).",
+              "sentences": [
+                "While rule 2.13(e) allows a person to become an automatic litigation representative by virtue of an instrument such as a power of attorney, the rule should only Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2016 ABCA 238",
+                  "style_of_cause": "Grant Thornton Ltd. v. Alberta Energy Regulator",
+                  "context": "son to become an automatic litigation representative by virtue of an instrument such as a power of attorney, the rule should only Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.14",
+          "title": "Self-appointed litigation representatives",
+          "text": "(1) If an individual or estate who is required to have a litigation representative under rule 2.11 [Litigation representative required] does not have one, an interested person (a) may file an affidavit in Form  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. containing the information described in subrule (2), and by doing so becomes the litigation representative for that individual or estate, and (b) where an interested person has, or proposes to, become the litigation representative under clause (a) for an estate, the interested person must serve notice of the appointment in Form  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. on the beneficiaries and heirs at law of the deceased.\n(2) The affidavit must include (a) the interested person’s agreement in writing to be the litigation representative,",
+          "sentences": [
+            "(1) If an individual or estate who is required to have a litigation representative under rule 2.11 [Litigation representative required] does not have one, an interested person",
+            "(a) may file an affidavit in Form Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. containing the information described in subrule (2), and by doing so becomes the litigation representative for that individual or estate, and",
+            "(b) where an interested person has, or proposes to, become the litigation representative under clause",
+            "(a) for an estate, the interested person must serve notice of the appointment in Form Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. on the beneficiaries and heirs at law of the deceased.",
+            "(2) The affidavit must include",
+            "(a) the interested person’s agreement in writing to be the litigation representative"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2017 ABQB 76",
+              "style_of_cause": "Form  Bidell Equipment LP v. Caliber Midstream GP LLC",
+              "context": "e under rule 2.11 [Litigation representative required] does not have one, an interested person (a) may file an affidavit in Form  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. containing the information described in subrule (2), and by doing so becomes the litigatio"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.15",
+          "title": "Court appointment in absence of self-appointment",
+          "text": "(1) If an individual or estate who is required to have a litigation representative under rule 2.11 [Litigation representative required] does not have one, an interested person may, or if there is no interested person, a party adverse in interest must, apply to the Court for directions about the appointment of a litigation representative for that individual or estate.\n(2) On an application under subrule (1), the Court may appoint a person as litigation representative.\n\n*[Alta. Reg. 124/2010, r. 2.15 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 143/2011, s. 2]",
+          "sentences": [
+            "(1) If an individual or estate who is required to have a litigation representative under rule 2.11 [Litigation representative required] does not have one, an interested person may, or if there is no interested person, a party adverse in interest must, apply to the Court for directions about the appointment of a litigation representative for that individual or estate.",
+            "(2) On an application under subrule (1), the Court may appoint a person as litigation representative. *[Alta. Reg. 124/2010, r. 2.15 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 143/2011, s. 2]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "For the court to direct the appointment of a litigation representative, it must be able to conclude that the party lacks capacity under rule 2.11(c). See, for example, , [2011] C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10) A.J. No. 84, 2011 ABQB 42 at paras. 36-37 (Alta. Q.B.); , [2013] A.J. No. Chutskoff Estate v. Bonora 195, 2013 ABQB 119 at para. 23 (Alta. Q.B.).",
+              "sentences": [
+                "For the court to direct the appointment of a litigation representative, it must be able to conclude that the party lacks capacity under rule 2.11(c).",
+                "See, for example, , [2011] C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10) A.J. No. 84, 2011 ABQB 42 at paras. 36-37 (Alta. Q.B.)",
+                ", [2013] A.J. No. Chutskoff Estate v. Bonora 195, 2013 ABQB 119 at para. 23 (Alta. Q.B.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2011 ABQB 42",
+                  "style_of_cause": null,
+                  "context": "ntative, it must be able to conclude that the party lacks capacity under rule 2.11(c). See, for example, , [2011] C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10) A.J. No. 84, 2011 ABQB 42 at paras. 36-37 (Alta. Q.B.); , [2013] A.J. No. Chutskoff Estate v. Bonora 195, 2013 ABQB 119 at pa"
+                },
+                {
+                  "neutral_citation": "2013 ABQB 119",
+                  "style_of_cause": "A.J. No. Chutskoff Estate v. Bonora 195",
+                  "context": "or example, , [2011] C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10) A.J. No. 84, 2011 ABQB 42 at paras. 36-37 (Alta. Q.B.); , [2013] A.J. No. Chutskoff Estate v. Bonora 195, 2013 ABQB 119 at para. 23 (Alta. Q.B.)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.16",
+          "title": "Court-appointed litigation representatives in limited cases",
+          "text": "(1) This rule applies to an action concerning any of the following:\n(a) the administration of the estate of a deceased person;\n(b) property subject to a trust;\n(c) the interpretation of a written instrument;\n(d) the interpretation of an enactment.\n(2) In an action described in subrule (1), a person or class of persons who is or may be interested in or affected by a claim, whether presently or for a future, contingent or unascertained interest, must have a Court-appointed litigation representative to make a claim in or defend an action or to continue to",
+          "sentences": [
+            "(1) This rule applies to an action concerning any of the following:",
+            "(a) the administration of the estate of a deceased person",
+            "(b) property subject to a trust",
+            "(c) the interpretation of a written instrument",
+            "(d) the interpretation of an enactment.",
+            "(2) In an action described in subrule (1), a person or class of persons who is or may be interested in or affected by a claim, whether presently or for a future, contingent or unascertained interest, must have a Court-appointed litigation representative to make a claim in or defend an action or to continue to"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.17",
+          "title": "Lawyer appointed as litigation representative",
+          "text": "(1) If the Court appoints a lawyer as the litigation representative for an individual referred to in rule 2.11(a) to (d), , the Court may direct that the [Litigation representative required] costs incurred in performing the duties of the litigation representative be borne by (a) the parties or by one or more of them, or (b) any fund in Court in which the individual for whom the litigation representative is appointed has an interest.\n(2) The Court may give any other direction for repayment of costs or for an advance payment of costs as the circumstances require.\n\n*[Alta. Reg. 124/2010, r. 2.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If the Court appoints a lawyer as the litigation representative for an individual referred to in rule 2.11(a) to (d), , the Court may direct that the [Litigation representative required] costs incurred in performing the duties of the litigation representative be borne by",
+            "(a) the parties or by one or more of them, or",
+            "(b) any fund in Court in which the individual for whom the litigation representative is appointed has an interest.",
+            "(2) The Court may give any other direction for repayment of costs or for an advance payment of costs as the circumstances require. *[Alta. Reg. 124/2010, r. 2.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 2.17(1) provides that the court may require the defendant to pay the costs of a litigation representative for a child. This does not limit the court’s ability to appoint someone other than the Public Trustee as a child’s litigation representative, at the Public Trustee’s cost, or to require the Public Trustee to pay the reasonable costs of a child’s litigation representative where it is not appropriate for the Public Trustee to act as litigation representative. Rules 2.17(2) and 2.21 permits a court-appointed litigation representative to apply for advance costs. C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10), [2011] A.J. No. 84, 2011 ABQB 42 at paras. 61-62 (Alta. Q.B.); , [2013] A.J. No.",
+              "sentences": [
+                "Rule 2.17(1) provides that the court may require the defendant to pay the costs of a litigation representative for a child.",
+                "This does not limit the court’s ability to appoint someone other than the Public Trustee as a child’s litigation representative, at the Public Trustee’s cost, or to require the Public Trustee to pay the reasonable costs of a child’s litigation representative where it is not appropriate for the Public Trustee to act as litigation representative.",
+                "Rules 2.17(2) and 2.21 permits a court-appointed litigation representative to apply for advance costs. C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10), [2011] A.J. No. 84, 2011 ABQB 42 at paras. 61-62 (Alta. Q.B.)",
+                ", [2013] A.J. No."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2011 ABQB 42",
+                  "style_of_cause": null,
+                  "context": "e. Rules 2.17(2) and 2.21 permits a court-appointed litigation representative to apply for advance costs. C. (L.) v. Alberta (Metis Settlements Child & Family Services Region 10), [2011] A.J. No. 84, 2011 ABQB 42 at paras. 61-62 (Alta. Q.B.); , [2013] A.J. No."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.18",
+          "title": "Approval of Settlement",
+          "text": "(1) If a settlement is proposed in an action or claim described in rule 2.16 [Court-appointed litigation representatives in limited cases] and some of the persons interested in the settlement are not parties to the action but are persons who have the same interest as those who are parties to the action, and who assent to the settlement, the Court may approve the settlement and order that it binds the persons who are not parties if the Court is satisfied that (a) the settlement will be for the benefit of those interested persons, and (b) to require service on those persons would cause unreasonable expense or delay.\n(2) The interested persons referred to in subrule (1) are bound by the Court’s order unless the order is obtained by fraud or by non- disclosure of important facts.\n\n*[Alta. Reg. 124/2010, r. 2.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If a settlement is proposed in an action or claim described in rule 2.16 [Court-appointed litigation representatives in limited cases] and some of the persons interested in the settlement are not parties to the action but are persons who have the same interest as those who are parties to the action, and who assent to the settlement, the Court may approve the settlement and order that it binds the persons who are not parties if the Court is satisfied that",
+            "(a) the settlement will be for the benefit of those interested persons, and",
+            "(b) to require service on those persons would cause unreasonable expense or delay.",
+            "(2) The interested persons referred to in subrule",
+            "(1) are bound by the Court’s order unless the order is obtained by fraud or by non- disclosure of important facts. *[Alta. Reg. 124/2010, r. 2.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.19",
+          "title": "Court approval of settlement, discontinuance, and abandonment of actions",
+          "text": "Unless a litigation representative has express authority under an instrument, order or enactment to settle, discontinue or abandon an action, the litigation representative may do so only with the Court’s approval.\n\n*[Alta. Reg. 124/2010, r. 2.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "Unless a litigation representative has express authority under an instrument, order or enactment to settle, discontinue or abandon an action, the litigation representative may do so only with the Court’s approval. *[Alta. Reg. 124/2010, r. 2.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Under rule 3.36(2) [ ], a Judgment in default of defence and noting in default judgment in default of filing a statement of defence may be entered against a defendant represented by a litigation representative only with the Court’s permission."
+          ],
+          "commentary": []
+        },
+        {
+          "number": "2.20",
+          "title": "Money received by litigation representative",
+          "text": "(1) If as a result of an action a litigation representative receives money, other than under a costs award, that money must be paid into Court unless the Court otherwise orders or an enactment or instrument otherwise provides.\n(2) A payment made to a litigation representative on account of money due to a party represented by the litigation representative, other than under a costs S.A. 2008, c. A-4.2, s. 1(hh).",
+          "sentences": [
+            "(1) If as a result of an action a litigation representative receives money, other than under a costs award, that money must be paid into Court unless the Court otherwise orders or an enactment or instrument otherwise provides.",
+            "(2) A payment made to a litigation representative on account of money due to a party represented by the litigation representative, other than under a costs S.A. 2008, c. A-4.2, s. 1(hh)."
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.21",
+          "title": "Litigation representative: termination, replacement, terms and conditions",
+          "text": "The Court may do one or more of the following:\n(a) terminate the authority or appointment of a litigation representative;\n(b) appoint a person as or replace a litigation representative;\n(c) impose terms and conditions on, or on the appointment of, a litigation representative or cancel or vary the terms or conditions.\n\n*[Alta. Reg. 124/2010, r. 2.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "The Court may do one or more of the following:",
+            "(a) terminate the authority or appointment of a litigation representative",
+            "(b) appoint a person as or replace a litigation representative",
+            "(c) impose terms and conditions on, or on the appointment of, a litigation representative or cancel or vary the terms or conditions. *[Alta. Reg. 124/2010, r. 2.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The court may use rule 2.21 where there is an obvious, inherent conflict with the other beneficiaries that raises the risk of the estate lending its name to “someone else’s fight”. Padget Estate v. Padget Estate, [2015] A.J. No. 897, 2015 ABQB 515 at para. 43 (Alta. Q.B. (Master)); also, see , [2005] A.J. No. 317, 2005 ABCA 129 (Alta. C.A.). Rufenack v. Hope Mission The court has broad powers to impose terms and conditions upon the appointment of a litigation representative pursuant to rule 2.21, and those powers include a wide discretion with respect to the granting of various forms of costs, including advance costs. 1985 Sawridge Trust v. Alberta (Public Trustee), [2013] A.J. No. 640, 2013 ABCA 226 at paras. 23 24 (Alta. C.A.); see also , [2022] A.J. No. 677, 2022 ABQB 367 at para. 21 (Alta. ‐ Kunkel v. Winquist Q.B.).",
+              "sentences": [
+                "The court may use rule 2.21 where there is an obvious, inherent conflict with the other beneficiaries that raises the risk of the estate lending its name to “someone else’s fight”.",
+                "Padget Estate v. Padget Estate, [2015] A.J. No. 897, 2015 ABQB 515 at para. 43 (Alta. Q.B. (Master))",
+                "also, see , [2005] A.J. No. 317, 2005 ABCA 129 (Alta. C.A.).",
+                "Rufenack v. Hope Mission The court has broad powers to impose terms and conditions upon the appointment of a litigation representative pursuant to rule 2.21, and those powers include a wide discretion with respect to the granting of various forms of costs, including advance costs. 1985 Sawridge Trust v. Alberta (Public Trustee), [2013] A.J. No. 640, 2013 ABCA 226 at paras. 23 24 (Alta. C.A.)",
+                "see also , [2022] A.J. No. 677, 2022 ABQB 367 at para. 21 (Alta. ‐ Kunkel v. Winquist Q.B.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2015 ABQB 515",
+                  "style_of_cause": "Padget Estate v. Padget Estate",
+                  "context": "there is an obvious, inherent conflict with the other beneficiaries that raises the risk of the estate lending its name to “someone else’s fight”. Padget Estate v. Padget Estate, [2015] A.J. No. 897, 2015 ABQB 515 at para. 43 (Alta. Q.B. (Master)); also, see , [2005] A.J. No. 317, 2005 ABCA 129 (Alta. C.A.). Ruf"
+                },
+                {
+                  "neutral_citation": "2005 ABCA 129",
+                  "style_of_cause": "Padget Estate v. Padget Estate",
+                  "context": "e risk of the estate lending its name to “someone else’s fight”. Padget Estate v. Padget Estate, [2015] A.J. No. 897, 2015 ABQB 515 at para. 43 (Alta. Q.B. (Master)); also, see , [2005] A.J. No. 317, 2005 ABCA 129 (Alta. C.A.). Rufenack v. Hope Mission The court has broad powers to impose terms and conditions up"
+                },
+                {
+                  "neutral_citation": "2013 ABCA 226",
+                  "style_of_cause": "Sawridge Trust v. Alberta",
+                  "context": "2.21, and those powers include a wide discretion with respect to the granting of various forms of costs, including advance costs. 1985 Sawridge Trust v. Alberta (Public Trustee), [2013] A.J. No. 640, 2013 ABCA 226 at paras. 23 24 (Alta. C.A.); see also , [2022] A.J. No. 677, 2022 ABQB 367 at para. 21 (Alta. ‐ Ku"
+                },
+                {
+                  "neutral_citation": "2022 ABQB 367",
+                  "style_of_cause": "Sawridge Trust v. Alberta",
+                  "context": "g of various forms of costs, including advance costs. 1985 Sawridge Trust v. Alberta (Public Trustee), [2013] A.J. No. 640, 2013 ABCA 226 at paras. 23 24 (Alta. C.A.); see also , [2022] A.J. No. 677, 2022 ABQB 367 at para. 21 (Alta. ‐ Kunkel v. Winquist Q.B.)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Division",
+      "heading": "Division 3 – REPRESENTATION OR ASSISTANCE BEFORE THE COURT",
+      "rules": [
+        {
+          "number": "2.22",
+          "title": "Self-represented litigants",
+          "text": "Individuals may represent themselves in an action unless these rules otherwise provide.\n\n*[Alta. Reg. 124/2010, r. 2.22 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "Individuals may represent themselves in an action unless these rules otherwise provide. *[Alta. Reg. 124/2010, r. 2.22 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Rules for service of commencement documents on individuals are contained in rule 11.5 [ ]. See also the Information Note following rule Service on individuals 11.5."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Corporations are not individuals and cannot represent themselves in courts. The statutory and case law confirms that other types of litigants in civil cases, Adult Guardian and Trusteeship Act, S.A. 2008, c. A-4.2, s. 1(d).",
+              "sentences": [
+                "Corporations are not individuals and cannot represent themselves in courts. The statutory and case law confirms that other types of litigants in civil cases, Adult Guardian and Trusteeship Act, S.A. 2008, c. A-4.2, s. 1(d)."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "2.23",
+          "title": "Assistance before the Court",
+          "text": "(1) The Court may permit a person to assist a party before the Court in any manner and on any terms and conditions the Court considers appropriate.\n(2) Without limiting subrule (1), assistance may take the form of (a) quiet suggestions, (b) note-taking, (c) support, or (d) addressing the particular needs of a party.\n(3) Despite subrule (1), no assistance may be permitted (a) that would contravene section 106(1) of the , Legal Profession Act (b) if the assistance would or might be disruptive, or (c) if the assistance would not meet the purpose and intention of these rules.\n(4) This rule does not affect the discretion of the Court, subject to any limits imposed under the , to grant a right of audience to any Legal Profession Act agent, other than a lawyer, to speak on behalf of an individual or corporation.\n\n*[Alta. Reg. 124/2010, r. 2.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 36/2020, s.  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. effective May 26,  ABCA 169 at para. 15 (Alta. C.A.); PurpleRung Foundation v. Peace River (Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014, 2020 ABCA 341 at paras. 11-12 (Alta. C.A.); Vizor v. 383501 Alberta Ltd. (c.o.b. Val Brig Equipment Sales), [2022] A.J. No. 6, 2022 ABQB 5 at para. (Alta. Gaz. April 15, 2020)]",
+          "sentences": [
+            "(1) The Court may permit a person to assist a party before the Court in any manner and on any terms and conditions the Court considers appropriate.",
+            "(2) Without limiting subrule (1), assistance may take the form of",
+            "(a) quiet suggestions",
+            "(b) note-taking",
+            "(c) support, or",
+            "(d) addressing the particular needs of a party.",
+            "(3) Despite subrule (1), no assistance may be permitted",
+            "(a) that would contravene section 106(1) of the , Legal Profession Act",
+            "(b) if the assistance would or might be disruptive, or",
+            "(c) if the assistance would not meet the purpose and intention of these rules.",
+            "(4) This rule does not affect the discretion of the Court, subject to any limits imposed under the , to grant a right of audience to any Legal Profession Act agent, other than a lawyer, to speak on behalf of an individual or corporation. *[Alta. Reg. 124/2010, r. 2.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 36/2020, s. Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. effective May 26, ABCA 169 at para. 15 (Alta. C.A.)",
+            "PurpleRung Foundation v. Peace River (Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014, 2020 ABCA 341 at paras. 11-12 (Alta. C.A.)",
+            "Vizor v. 383501 Alberta Ltd. (c.o.b.",
+            "Val Brig Equipment Sales), [2022] A.J. No. 6, 2022 ABQB 5 at para. (Alta. Gaz. April 15, 2020)]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2017 ABQB 76",
+              "style_of_cause": "Bidell Equipment LP v. Caliber Midstream GP LLC",
+              "context": "r corporation.\n\n*[Alta. Reg. 124/2010, r. 2.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 36/2020, s.  Bidell Equipment LP v. Caliber Midstream GP LLC, [2017] A.J. No. 264, 2017 ABQB 76 at para. effective May 26,  ABCA 169 at para. 15 (Alta. C.A.); PurpleRung Foundation v. Peace River"
+            },
+            {
+              "neutral_citation": "2020 ABCA 341",
+              "style_of_cause": "PurpleRung Foundation v. Peace River",
+              "context": ".J. No. 264, 2017 ABQB 76 at para. effective May 26,  ABCA 169 at para. 15 (Alta. C.A.); PurpleRung Foundation v. Peace River (Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014, 2020 ABCA 341 at paras. 11-12 (Alta. C.A.); Vizor v. 383501 Alberta Ltd. (c.o.b. Val Brig Equipment Sales), [2022"
+            },
+            {
+              "neutral_citation": "2022 ABQB 5",
+              "style_of_cause": null,
+              "context": "Town of) Subdivision and Development Appeal Board, [2020] A.J. No. 1014, 2020 ABCA 341 at paras. 11-12 (Alta. C.A.); Vizor v. 383501 Alberta Ltd. (c.o.b. Val Brig Equipment Sales), [2022] A.J. No. 6, 2022 ABQB 5 at para. (Alta. Gaz. April 15, 2020)]"
+            }
+          ],
+          "info_notes": [
+            "Under section 106(1) of the Legal Profession Act assistance permitted by this rule must fall short of “acting as a barrister or solicitor” or “commencing, Chutskoff Estate v. Bonora, [2013] A.J. No. 195, 2013 ABQB 119 at para. 19 (Alta. Q.B.)."
+          ],
+          "commentary": []
+        },
+        {
+          "number": "2.24",
+          "title": "Lawyer of record",
+          "text": "(1) The lawyer or firm of lawyers whose name appears on a commencement document, pleading, affidavit or other document filed or served in an action as acting for a party is a lawyer of record for that",
+          "sentences": [
+            "(1) The lawyer or firm of lawyers whose name appears on a commencement document, pleading, affidavit or other document filed or served in an action as acting for a party is a lawyer of record for that"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.25",
+          "title": "Duties of lawyer of record",
+          "text": "(1) The duties of a lawyer of record include:\n(a) to conduct the action in a manner that furthers the purpose and intention of these rules described in rule 1.2 [Purpose and intention of these rules];\n(b) to continue to act as lawyer of record while the lawyer is recorded in that capacity.\n(2) On application, the Court may direct a lawyer of record to disclose the address of the party for whom the lawyer acts.\n\n*[Alta. Reg. 124/2010, r. 2.25 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) The duties of a lawyer of record include:",
+            "(a) to conduct the action in a manner that furthers the purpose and intention of these rules described in rule 1.2 [Purpose and intention of these rules]",
+            "(b) to continue to act as lawyer of record while the lawyer is recorded in that capacity.",
+            "(2) On application, the Court may direct a lawyer of record to disclose the address of the party for whom the lawyer acts. *[Alta. Reg. 124/2010, r. 2.25 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.26",
+          "title": "Verifying lawyer of record",
+          "text": "(1) If a person who is served with a commencement document, pleading or other document asks a lawyer or firm of lawyers if the lawyer or firm is a lawyer of record in an action, application or proceeding, the lawyer must respond to the question in writing as soon as practicable.\n(2) If a lawyer or firm of lawyers whose name appears as a lawyer of record in an action denies being the lawyer of record, (a) every application and proceeding in the action is stayed, and (b) no further application, proceeding or step may be taken in the action without the Court’s permission.\n\n*[Alta. Reg. 124/2010, r. 2.26 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) If a person who is served with a commencement document, pleading or other document asks a lawyer or firm of lawyers if the lawyer or firm is a lawyer of record in an action, application or proceeding, the lawyer must respond to the question in writing as soon as practicable.",
+            "(2) If a lawyer or firm of lawyers whose name appears as a lawyer of record in an action denies being the lawyer of record",
+            "(a) every application and proceeding in the action is stayed, and",
+            "(b) no further application, proceeding or step may be taken in the action without the Court’s permission. *[Alta. Reg. 124/2010, r. 2.26 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "2.27",
+          "title": "Retaining lawyer for limited purposes",
+          "text": "(1) If a self-represented litigant or a lawyer of record retains a lawyer to appear before the Court for a particular purpose, the lawyer appearing must inform the Court of the nature of the appearance, either (a) orally, or (b) before the appearance, by filing the terms of the retainer.\n(2) If a self-represented litigant retains a lawyer for a particular purpose, the litigant must attend the application or proceeding for which the lawyer is retained unless the Court otherwise permits.\n\n*[Alta. Reg. 124/2010, r. 2.27 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nR.S.A. 2000, c. L-12, s. 3(2)(c).",
+          "sentences": [
+            "(1) If a self-represented litigant or a lawyer of record retains a lawyer to appear before the Court for a particular purpose, the lawyer appearing must inform the Court of the nature of the appearance, either",
+            "(a) orally, or",
+            "(b) before the appearance, by filing the terms of the retainer.",
+            "(2) If a self-represented litigant retains a lawyer for a particular purpose, the litigant must attend the application or proceeding for which the lawyer is retained unless the Court otherwise permits. *[Alta. Reg. 124/2010, r. 2.27 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]* R.S.A. 2000, c. L-12, s. 3(2)(c)."
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        }
+      ]
+    }
+  ]
+}

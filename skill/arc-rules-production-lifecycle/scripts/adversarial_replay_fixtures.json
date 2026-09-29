@@ -1,0 +1,123 @@
+{
+  "schema": "arc-rule-text-remediation-adversarial-replay-v1",
+  "frozen_from": ["N79", "N80", "N83", "N84", "N85", "N87"],
+  "fixtures": [
+    {
+      "id": "AR-01",
+      "check": "receipt_identity",
+      "expected": "REJECT",
+      "contract": {"phase": "ARC_P7_TEXT_REPAIR_T17", "stage": "T17", "campaign": "ARC_P7"},
+      "observed": {"phase": "ARC_P4_P6_TEXT_REPAIR_T02", "stage": "T17", "campaign": "ARC_P7"}
+    },
+    {
+      "id": "AR-02",
+      "check": "topology_fingerprint",
+      "expected": "REJECT",
+      "contract": {"canonicalizer_id": "rule-relcount-v2", "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},
+      "observed": {"canonicalizer_id": "rule-relcount-v1", "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+    },
+    {
+      "id": "AR-03",
+      "check": "null_safe_equality",
+      "expected": "ACCEPT",
+      "contract": {"value": null},
+      "observed": {"value": null}
+    },
+    {
+      "id": "AR-04",
+      "check": "null_safe_equality",
+      "expected": "REJECT",
+      "contract": {"value": null},
+      "observed": {"value": "pane_A"}
+    },
+    {
+      "id": "AR-05",
+      "check": "atomic_eligibility",
+      "expected": "REJECT",
+      "contract": {"expected_count": 2},
+      "observed": {"eligible_count": 1}
+    },
+    {
+      "id": "AR-06",
+      "check": "authorization_reuse",
+      "expected": "REJECT_REUSE",
+      "contract": {"one_time": true},
+      "observed": {"apply_started": true, "commit_state": "NOT_COMMITTED", "reuse_requested": true}
+    },
+    {
+      "id": "AR-07",
+      "check": "invalidation_footprint",
+      "expected": "REJECT",
+      "contract": {"permitted": ["embedding_mpnet_v1", "emb_model", "emb_dim", "emb_text_field", "emb_text_len", "emb_source_type", "emb_migration_id", "emb_generated_at", "emb_owner_pane", "emb_normalized", "emb_text_used", "migration_receipt"]},
+      "observed": {"mutation_footprint": ["embedding_mpnet_v1", "emb_model", "text", "migration_receipt"]}
+    },
+    {
+      "id": "AR-08",
+      "check": "denominator_disjoint",
+      "expected": "REJECT",
+      "contract": {"current_parent_uids": ["u1", "u2", "u3", "u4"]},
+      "observed": {"negative_control_uids": ["u4", "u9"]}
+    },
+    {
+      "id": "AR-09",
+      "check": "stage_separation",
+      "expected": "REJECT",
+      "contract": {"separate_stage_d": true},
+      "observed": {"same_nudge_actions": ["APPLY", "IMMEDIATE_SAFETY_READBACK", "INDEPENDENT_STAGE_D"]}
+    },
+    {
+      "id": "AR-10",
+      "check": "wrapper_receipt_identity",
+      "expected": "REJECT",
+      "contract": {"phase": "ARC_P7_TEXT_REPAIR_T17", "operation": "arc_rule.text_repair_exact2_v2", "version": "v2"},
+      "observed": {"delegated_apply_phase": "ARC_P4_P6_TEXT_REPAIR_T02", "delegated_apply_operation": "arc_rule.text_repair_exact2_v2", "delegated_apply_version": "v2"}
+    },
+    {
+      "id": "AR-11",
+      "check": "registry_required_args",
+      "expected": "REJECT",
+      "contract": {"required_args": ["database", "migration_id", "expected_count"]},
+      "observed": {"provided_args": ["database", "expected_count"]}
+    },
+    {
+      "id": "AR-12",
+      "check": "executable_identity",
+      "expected": "REJECT",
+      "contract": {"stage_b_module_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"},
+      "observed": {"current_module_sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc", "requested_action": "APPLY"}
+    },
+    {
+      "id": "AR-13",
+      "check": "release_rebase",
+      "expected": "REJECT",
+      "contract": {"release_qualified_package_sha256": "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},
+      "observed": {"edit_base_package_sha256": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"}
+    },
+    {
+      "id": "AR-14",
+      "check": "integrated_positive",
+      "expected": "ACCEPT",
+      "contract": {
+        "receipt": {"phase": "ARC_P8_TEXT_REPAIR_T01", "stage": "T01", "campaign": "ARC_P8"},
+        "topology": {"canonicalizer_id": "rule-relcount-v2", "sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"},
+        "expected_count": 2,
+        "permitted_invalidation": ["embedding_mpnet_v1", "emb_model", "migration_receipt"],
+        "current_parent_uids": ["u1", "u2"],
+        "required_args": ["database", "migration_id", "expected_count"],
+        "stage_b_module_sha256": "abababababababababababababababababababababababababababababababab",
+        "release_qualified_package_sha256": "cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd"
+      },
+      "observed": {
+        "receipt": {"phase": "ARC_P8_TEXT_REPAIR_T01", "stage": "T01", "campaign": "ARC_P8"},
+        "topology": {"canonicalizer_id": "rule-relcount-v2", "sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"},
+        "eligible_count": 2,
+        "mutation_footprint": ["embedding_mpnet_v1", "emb_model", "migration_receipt"],
+        "negative_control_uids": ["u9"],
+        "same_nudge_actions": ["APPLY", "IMMEDIATE_SAFETY_READBACK"],
+        "provided_args": ["database", "migration_id", "expected_count"],
+        "current_module_sha256": "abababababababababababababababababababababababababababababababab",
+        "edit_base_package_sha256": "cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd"
+      }
+    }
+  ]
+}

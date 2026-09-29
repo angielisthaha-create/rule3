@@ -1,0 +1,242 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.36",
+  "title": {
+    "official": "Judgment in default of defence and noting in default",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Failure to Defend"
+  },
+  "operative_text": {
+    "controlling": "3.36(1)  Subject to subrule (2) and Part 11, Division 8, if a\ndefendant does not file a statement of defence or demand for\nnotice, or if the defendant’s statement of defence is struck out, the\nplaintiff may, on filing an affidavit of service of the statement of\nclaim,\n(a) enter judgment against the defendant under rule 3.38 or\n3.39, or\n(b) require the court clerk to enter in the court file of the\naction, in Form 14, a note to the effect that the defendant\nhas not filed a statement of defence or demand for notice\nand consequently is noted in default.\n(2)  A judgment in default of filing a statement of defence must\nnot, without the Court’s permission, be entered against a person\nwho is represented by a litigation representative.\n(3)  If the defendant has filed but has not served a statement of\ndefence or demand for notice, the plaintiff may apply to the Court\nfor a costs award against the defendant for anything arising from\nthe defendant’s failure.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "e0c336628f478e65dea2dd58bd3774899f63db2affe40053306093c44371199a"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s3.36;128/2015;36/2020",
+    "amending_regulations": [
+      "128/2015",
+      "36/2020"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta.Reg.124/10;128/15;36/20]"
+      ],
+      "BOOK_B": "Alta. Reg. 128/2015, s. 3; 36/2020, s. 3"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          64
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Judgment in Default of Defence and Noting in Default",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0e225062d56c80a227c297d69d96e6d95a01fa09dbc1d555d1537a7b98375022",
+      "defined_terms": "costs award, Court, defendant, file, judgment, plaintiff",
+      "related_provisions": "3.68(1)(a) (striking out defence);9.15(3) (setting aside default)",
+      "commentary": "This default judgment Rule was amended in 2020 to make it subject to the new Rules on service under the Hague Convention on Service Abroad. *A.Introduction On this general topic, see theTweedie textbook.\n\nIn order to prevent being noted in default or suffering default judgment, a defendant (or defendant by counterclaim or third party) should both file and serve, a statement of defence (or a demand for notice) within the time limited. There is some discussion of what is an appearance or a defence, in theLindblomcase.\n\n*B.Computing Time Under R.13.3, one computes time to defend by excluding the partial day of service.The next day is day number one of the time to defend.The defendant has all of the 20th day to defend. Once the time to defend has expired without service (or without filing) of a defence, a race is on.The plaintiff can note default (or sign default judgment) and the defendant can file and serve\n\na defence.The one who does it first wins. But plaintiff's counsel has a duty to grant reasonable time requests to avoid a foot race to the courthouse. If both lawyers come to the clerk's counter at the same time, and the plaintiff's lawyer insists upon noting default, the court may well set it aside with costs, and without proof of a meritorious defence.\n\n*C.What StopsTime Running One cannot sign default judgment after the defendant applies to strike out the statement of claim, or to set aside service. If the defendant filed or served no statement of defence or demand for notice within the\n\nspecified time, or his defence was struck out, then the plaintiff can demand that the Clerk either\n\ncontradictions, were criticized. should be set aside.\n\n3-96\n\nnote the defendant in default or sign default judgment.Such a demand can be filed after the court deems earlier service to be good. The plaintiff can note default in all such cases, but plaintiffs usually prefer to go directly to default judgment where they can.A proper noting in default\n\nA plaintiff should give notice before it notes default or signs default judgment, if it knows or suspects that the defendant has lawyers. Lack of such warning will make it much more likely that default judgment will later be opened up.Proof of such warning is useful:it prevents\n\nIf the main claim and counterclaim deal with same matters between the same two parties, a trial of the whole thing is necessary, and noting the plaintiff (defendant by counterclaim) in default On opening up a default judgment, see R.9.15 and notes.\n\n*v.R.,supra.There can be no criticism of a plaintiff who enters default judgment after giving several timely warnings of his intent to do so, to a lawyer who represented himself as acting for the defendant in question: *Ernst &Young (Integra Inv.Serv.) v. Cooke (#1)2008 ABQB 437.A letter asking that the defendant not be noted in default without notice is not a standstill agreement:Calliou v.Bouchard2006 ABQB 925, 406 AR 44;Bugg v.Beau Can. Expl.2006 ABCA 201, 391 AR 208.But after an undertaking to defend, a request for a defence by a named date is a standstill agreement, which can be oral:Bugg v. Beau.\n\n4Great criticism of noting in default where the defendant's failure to defend was a slip or misunderstanding of the defendant's counsel, the plaintiff was given immediate notice of this, there was a prompt motion by the defendant to cure this, and the noting in default was made without notice and despite a clear request not to note in default without prior written notice:Issa v. BMB2024 ABKB 159, JCC 2301 02040 (Mar 19) (¶'s 40-43). 5KPMG v. Kenney(CA 1997) 200 AR 336.\n\n6Al-Ghamdi v. R.,supra. 7C.E.M.v.D.M.M.2003 ABQB 148, 342 AR 77. 8Anglin v. Resler (#2)2022 ABKB 737, JCE 1703 06642 (Nov 4) (¶'s 21-36).\n\nhas sued as John Doe, the plaintiff must amend the statement of claim to give the defendant's true name, and serve that amended statement of claim on that defendant.Given R.1.2, this is a significant procedural flaw, and getting a noting in default without doing that was improper and\n\nremoves the defendant's right to defend the suit.\n\nfor the defendant to move to open up.\n\non the counterclaim is pointless and unfair.\n\n1R.v.A.W.,infra. 2R.v.A.W.2003 ABQB 50, [2004] 2 WWR 302. 3The court criticized noting in default one day after a letter of request to extendtime, in a complex lawsuit. Impatience is not a good ground to refuse an extension (citing this book, in the judgment's ¶ 84):Al-Ghamdi\n\n*D.Courtesy and Notice\n*E.Faulty Default Proceedings The claimed service of the statement of claim in one case was bad, and there was no request to validateit (under R.11.27).So notings in default based on mail service with no acknowledgment were bad.And a noting in default only 15 or 16 days after personal service (not 20 as per the Rules) was bad.Affidavits of service based on hearsay (not personal knowledge) and with\n\nLack of a notice to defendant by counterclaim endorsed on the counterclaim does not bar default judgment? When the plaintiff learns the true name of a defendant whom the plaintiff\n\nmisunderstandings, makes the plaintiff look reasonable, and forecloses some possible grounds\n\n12Coyle v.Coyle Est.2005 ABQB 436, 383 AR 135. Someone noted in default cannot just apply to open up a consequent order made against him, such as an assessment of damages.He must first apply for (and get) opening up the noting in default, and must do so promptly, or show good reason for any delay. On opening up, see R.9.15\n\n11David M.Gottlieb P.C. v.Nahal2012 ABCA 88, 522 AR 25.\n\nwere properly noted in default, not having filed any response to the action.Then noting in default and anex parteapplication to set the damages, are proper.\n\na class action.\n\nand notes to it. A defendant noted in default is deemed to admit the facts, but it cannot admit jurisdiction which the court does not have. But conclusions of law, or missed fact and law, are not deemed admitted? The defendant in default is no longer entitled to notice of the proceedings, nor entitled either to\n\n*F.Effects of Default be served with expert reports before to the trial on damages. A filed but unheard application for\n\nsummary judgment against certain defendants need no longer be proved after those defendants\n\nnotice to the defendant.\n\nprosecute the suit further), nor does it bar applications by the defendant. Noting in default is not\n\n1Montes v. Al-Shiraida,supra.\n\n5Robinson v. Fiesta Hotel Grp.Resorts (#2)2008 ABQB 457, 455 AR 143. 6Huang v. JK Cdn.Law Serv.2023 ABKB 112, JCE 2203 04909 (Feb 27). 292 AR 368.\n\n\n\n9And admits all the allegations in the statement of claim:Syncrude Can. v.Tibo Steel Prod.2001 ABQB 478, 10Yaremchuk v. Haight2001 ABCA 7, 277 AR 160.A defendant to a divorce suit noted in default cannot herself get a divorce;she has lost standing.She must either open up or sue herself:Zivkovic v.Zivkovic 2009 ABQB 542, 2009 CarswellAlta 1492.\n\nThe noting in default is an admission only by that particular defendant, inadmissible against other defendants, and does not help establish arguable liability when the court is asked to certify A defendant noted in default is not entitled to notice of later applications, and so (in a highway case) the Administrator of theMotorVehicle Accident Claims Actcan consent to judgment without\n\nNoting the defendant in default (or signing default judgment) is an admission and decision that the defendant is liable, but it does not remove any duty of the plaintiff to be diligent (e.g. really conclusive until actual judgment has been pronounced and then entered.And a default judgment need not be set aside unless the defendant wants to contest a topic which it decided.\n\nSo a mortgage order nisi/sale may not rule on personal liability on the covenant, and if so it need not be set aside to argue that, especially if implicitly thein remandin personamparts of the suit were being separately dealt with. Noting in default does not bar discontinuance, nor require leave before discontinuance, even in a matrimonial property action.\n\n2Robinson v. Fiesta Hotel Grp.Resorts (#1)2008 ABQB 311, 450 AR 167.On making the facts pleaded by the plaintiff incontestable, seeTLA Food Serv. v. 1144707 Alta.2011 ABQB 550, 525 AR 1, andTrinier v. *Shurnaik (Alta.Treas. Br. v.Weatherlok) (#1)2011 ABCA 314, 515 AR 148,revg2011 ABQB 15. 3Paul'sTransport v.Immediate Logistics2022 ONCA 573, 472 DLR(4th) 359. 4MCAP Service Corp. v. Chiang2011 ABQB 477, 523 AR 223.\n\n7V.L.M. v.Dominey2022 ABQB 299, 45 Alta LR(7th) 360 (¶'s 41-48),vard2023 ABCA 261. 8Montes v. Al-Shiraida2011 ABQB 54, [2011] AR Uned 87 (Feb 5).\n\n6Quite similar to previous 1968 R.152.It came from parts of Judic.Ord.rr.99, 166, 1883 O.27 r.7, and 1897 Ont.R.356, 593.Expanded from 1914 R.157, which referred to an ex parte hearing.Came partly from 1944 C.R.118, and was partly new in 1968.A 1998 amendment allowed an accounting.\n\n*G.Proceedings After Default\n1Corlett v. Matheson2001 ABQB 865, 302 AR 139. 2Vanmaarion v. Best Buy Housing(M 4 Apr '06) JDL? 0108 00189 (no neutral cite).Cf.Clarke v.Deranger, infra. 3Harris v. Outhouse2001 ABQB 457, 289 AR 387. 4M.L.v.Al-Hassan (Leung/Wong v. Al-Hassan)2004 ABCA 275,affg11 Dec '02,unrep;Peterson v. *Khokhar(M) 2007 ABQB 523, 424 AR 397.\n5Clarke v. Deranger2006 ABQB 442, 400 AR 327,revgM.\n\nAfter the defendant has been noted in default, the court has a discretion whether it will let the plaintiff amend his statement of claim to add further damage claims. Once a defendant is noted in default, it can file a defence (without getting the court to open up) only if and to the extent that the plaintiff amends the claim after the time to defend expired.A mere increase in the amount claimed does not itself open everything up, only allowing a defence re the quantum.\n\nEven where the plaintiff believes that he cannot enter judgment, he may get costs thrown away because the defendant did not file a defence.\n\nNoting in default under R.3.36 is a condition precedent to leave to sign default judgment\n\n*(e)dismiss the claim or a part of it;\n(where leave is needed). The Administrator of theMotorVehicle Accident Claims Actcannot\n\nwas not properly served (e.g.an order for substitutional service, got with insufficient evidence).\n\nconsent validly to judgment on the basis that a defendant was noted in default, if that defendant *Application for Judgment Against Defendant Noted in Default*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-94",
+          "3-98"
+        ],
+        "offset_in_clean_text": [
+          302862,
+          315779
+        ]
+      },
+      "operative_text_note": "same wording as official 3.36(1)-(3) (read by eye) except: the bracket labels '[Service of Documents]' after 'Part 11', '[Service in a Contracting State under the Hague Convention]' after 'Division 8', '[Judgment for recovery of property]' after 'rule 3.38' and '[Judgment for debt or liquidated demand]' after 'rule 3.39' (all four match the official titles/headings); 'in the Court file of the action' in (1)(b) where the official has 'in the court file of the action' (capital C); the word 'rule' repeated in (1)(a) ('rule 3.38 [Judgment for recovery of property] or rule 3.39 [...]' where the official reads 'rule 3.38 or 3.39'; added in the 3.36 second pass); the footnote markers '6' (after (1)(b)) and '7' (after (2)); the title in title case; missing spaces and '*' line marks; the Subdivision heading ('Subdivision 4 Failure to Defend') printed before the title matches the official Subdivision 4. The amendment bracket '[Alta.Reg.124/10;128/15;36/20]' agrees with the official 'AR 124/2010 s3.36;128/2015;36/2020'. No other difference. The dropped raw text also held footnote blocks printed between the subrules, kept here verbatim because Book A's footnotes are not split out: '1Waxmanv.Waxman2022 FCA 90, 471 DLR(4th) 171. 2Where a statement of claim has segregated its allegations and amounts claimed into groups of defendants, one group of defendants (who have not settled) have no legitimate interest in seeing the settlement contracts affecting only claims against other groups of defendants in that lawsuit:B.M.v.Cochrane2013 ABQB 573, [2013] AR Uned 688. 3TallmanTruck Centre v. KSP Hldgs.[2022] OJ No 393, 2022 ONCA 66, 2021 ONSC 984 (27 Jan '22). 4Cable Est.v. Ferguson2009 ABCA 333, 464 AR 89,leave denSCC 20 May '10. ABCA 56, 474 AR 280. 7R.3.42, confirmingSorochan v.St.Albert Protestant Sep.S.D.(M) 2001 ABQB 1063,affd2002 ABQB 179, 311 AR 1,affd (#1)2004 ABCA 21, 346 AR 182. 1Tweedie, Default Judgments and Summary Judgments in Canada (Can.L.B.2012). 2That is usually 20 days:see Rr.3.31 and 3.34. 3Lindblom v.Wawanesa Mut.Ins. Co.2001 ABCA 102, 281 AR 127. 4B.M.v.Hajas(M) 2000 ABQB 524, 270 AR 189. 5Al-Ghamdi v. R.2017 ABQB 169, 98 CPC(7th) 146 (¶ 84). 6Moose Mtn.Buffalo Ranch v. Greene Farms Drilling2009 ABQB 489, 11 Alta LR(5th) 142,affd2010' (the blocks are footnotes 1-4 of the 3.35 note and footnotes 1-7 of this rule's note; the first begins 'Waxman v. Waxman 2022 FCA 90' and the third begins mid-citation 'ABCA 56, 474 AR 280.'). This rule's history footnotes 6 and 7 ('Quite similar to previous 1981 R.142(1) ...'; 'Quite similar to previous 1968 R.143 ...') are printed at p.3-94 (lines 2591 and 2601) inside the built 3.35 record and are kept there.",
+      "commentary_review_flag": "Read in full, p.3-94 (line 2605) to p.3-98 (line 2737): rule text, Information Note, Defined Terms 'costs award, Court, defendant, file, judgment, plaintiff' (the Appendix defines each), Related Provisions and a long note (A Introduction, B Computing Time, C What Stops Time Running, D Courtesy and Notice, E Faulty Default Proceedings, F Effects of Default, G Proceedings After Default), with footnotes as printed. The built record: the information note (Book A only), defined_terms, related_provisions and the commentary field (10,347 characters: the note, ending with the title and first lines of 3.37); the raw-text field held footnote blocks (kept in the text note). The extraction interleaves footnotes and columns, so many sentences are split across non-adjacent lines; the wording is kept as printed. (1) Information Note: 'This rule is subject to rule 3.42 [Limitation on when judgment or noting in default can occur] and rule 10.22 [Action for payment of a lawyer's charges]': the official titles are 'Limitation on when judgment or noting in default may occur' ('may', not 'can') and 'Action for payment of lawyer's charges' (no 'a'); the two labels differ from the official titles by those words. Related Provisions: '3.68(1)(a) (striking out defence)' agrees with official 3.68(1)(a); '9.15(3) (setting aside default)' agrees with official 9.15(3)(a)-(c) (defence by a party noted in default; setting aside a judgment against a defendant noted in default). The paragraph 'This default judgment Rule was amended in 2020 to make it subject to the new Rules on service under the Hague Convention on Service Abroad' agrees with the amendment line (36/2020) and with the words 'Part 11, Division 8' in 3.36(1). (2) Statements read against the official text: 'Under R.13.3, one computes time to defend by excluding the partial day of service. The next day is day number one of the time to defend' agrees with 13.3; 'a defendant ... should both file and serve, a statement of defence (or a demand for notice) within the time limited' agrees with 3.31(2), 3.34(2) and 3.36(1) ('does not file'); 'R.3.42' (fn 7, 'confirming Sorochan v. St. Albert Protestant Sep. S.D.') lands; 'R.11.27' (validating service) lands; 'On opening up a default judgment, see R.9.15 and notes' lands; 'R.1.2' and 'R.10.22' exist. 'The defendant in default is deemed to admit the facts, but it cannot admit jurisdiction which the court does not have' and 'noting in default is tantamount to admission' agree in substance with Book B's part 1 (Klinck v. Drinnan; Dykes v. Goczan). (3) History footnotes 6 and 7 (1981 R.142(1) and 1968 R.143 with 1914 R.148-149 and 1944 C.R.109-110) are in the 3.35 record (markers '6' after (1)(b) and '7' after (2) are in the 3.36 text); footnotes 1-7 of this note are printed in the raw-text field (the text note); the trailing footnote 6 is cut at the page end ('affd 2010 ABCA 56, 474 AR 280' completes it at the top of p.3-95). (4) Other rules' pointers to this rule: R.9 note p.9-46 (combined_rule9.txt line 2430) 'on judgment under R.3.36 and opening it up, see Goulet v. da Silva 2002 ABQB 369, 313 AR 32, R.3.36n.' (lands on this note); R.5 note p.5-140 (line 7435) 'Rule 3.36 prevails, so a defendant noted in default gets no notice, even of exp[ert reports]' (agrees with F. Effects of Default in this note); R.2 related provisions '3.36(2) (noting litigation representative in default)' (agrees with 3.36(2)); R.10 p.10-31 (line 1487) '3.36 (failure to defend)'; R.11 p.11-11 (line 459) '3.36(2) (default judgment against person needing litigation representative)'; R.12 p.12-76 (lines 3615-3617) 'Rule 3.36(1)(b) provides that when a defendant does not file a statement of defence ...'; R.13 p.13-66 (line 3477) checklist '(Rr.3.3, 3.36)'; the 3.40 text (p.3-109, line 3059) 'rule 3.36 [Judgment in default of defence and noting in default]' (title matches). (5) The many cases in the note (opening up, notice before noting in default, John Doe defendants, admissions of jurisdiction, class actions, the Motor Vehicle Accident Claims Act Administrator) were not checked; 'Al-Ghamdi v. R. 2017 ABQB 169, 98 CPC(7th) 146 (¶ 84)' and 'citing this book, in the judgment's ¶ 84' are as printed."
+    },
+    "BOOK_B": {
+      "title": "Judgment in default of defence and noting in default",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.36:1",
+          "text": "Rule 3.36 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.36. 1. Effect of Noting in Default Noting in default is tantamount to an admission. The effect of [noting in default] is … to deem the allegations made to be proven. Klinck v. Drinnan (1985), 41 Alta. L.R. (2d) 299 (Q.B.), at 306, per Lutz J. Binder J. in Dykes v. Goczan (1996), 38 Alta. L.R. (3d) 425 (Q.B.), noted one exception to the general rule that a defendant noted in default is deemed to have admitted the facts alleged in the statement of claim. At pp. 426-27, his Lordship said: The effect of the Sulef decision [Sulef v. Parkin (1966), 57 W.W.R. 236 (Alta. C.A.)] which was approved by the Supreme Court of Canada in McElroy v. Cowper-Smith (1967), 60 W.W.R. 85, and applied by Lutz, J. in the Klinck case, is that when a defendant is noted in default the legal position in Alberta is that the defendant has admitted the facts alleged in the Statement of Claim by the failure to deny them. There is, however, an exception, which is the basis of the [Spiller v. Brown, [1973] 6 W.W.R. 663 (Alta. C.A.)] decision, that where the court is not satisfied that the plaintiff has a cause of action, the Court has a duty to direct a hearing to determine the matter. In that case, for example, the trial judge had a suspicion that the plaintiff was manoeuvring to remove other defendants from the action to avoid the need to prove that the defendant who had not filed a defence was guilty of gross negligence. 2. Costs and Noting In Default In Capital One Bank v. Calhoun, 2007 ABQB 151, 2007 CarswellAlta 306, 427 A.R. 322, 75 Alta. L.R. (4th) 218, plaintiffs in a number of actions that were included in the application had noted the defendants in default, and were now seeking judgments which awarded solicitor-client costs for steps taken before and after judgment. The plaintiffs submitted that the defendants were deemed to have admitted the existence of agreements, the terms of which provided that the defendants had agreed to pay solicitor-client costs. Lee J. held that costs, being within the discretion of the Court, had to be determined by the Court. At pp. 221-222, his Lordship said: 13 Counsel for the Applicants seems to be submitting that the effect of noting the Defendant(s) in default results in his clients' entitlement to solicitor-client costs because the Statement of Claim says that the credit agreement provides for solicitor-client costs. The noting in default has the effect of deeming the facts plead as true, but I do not see it this way. … 15 The Applicants herein are entitled to their liquidated claims, namely the principal and interest owing on their credit card debts because the defendants were noted in default. 16 However, there is a difference between the Plaintiffs' entitlement to a liquidated demand, and the Plaintiffs' entitlement to solicitor-client costs. The principle amount claimed is admitted as part of the noting in default process, however costs are always the discretion of the Court, even in the face of a specific agreement between the parties; and regardless of an agreement, costs are always taxable. 17 While it may appear to be a simple proposition that the agreements provide for solicitor-client costs, a quick review for example of the Masters' various decisions with respect to mortgage foreclosures and solicitor-client costs certainly reveal that there is often much to argue about it in terms of the wording of agreements, and claims for solicitor and client costs. 18 Even if the wording in the agreement, and the claim fit the appropriate wording, there is still discretion in the Court to determine costs, and within that discretion, there is still the amount of costs to be determined. … 21 I am also in agreement with the present apparent practice of the Clerk of the Court not to tax post judgment costs on a solicitor-client basis, unless a Judge orders a specific award of solicitor-client costs. It is the Court, and not the Taxing Officers of the Court, that grant Judgments. The parties require the Court's approval for post judgment solicitor-client costs."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_36_001",
+        "part3_part_3_court_actions_002",
+        "part3_rule_3_36_002",
+        "part3_part_3_court_actions_004"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "ab67cce39959339e0e33c1301fa964fdbcfce229dca76d8572d6904ea6d2a11c",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Judgment in default of defence and noting in default",
+      "division_heading": "Division 3 – ACTIONS STARTED BY STATEMENT OF CLAIM",
+      "operative_text_raw": null,
+      "operative_text_sha256": "a2779431157e613736e0be98e863e4c614bec5fa988a09c2fd7b4e3940a44c09",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it holds only the lead-in of subrule (1) ('Subject to subrule (2) and Part 11 , Division 8 [Service of Documents] [Service in a Contracting Sate under the Hague Convention], if a defendant does not file a statement of defence or demand for notice, or if the defendant's statement of defence is struck out, the plaintiff may, on filing an affidavit of service of the statement of claim,' with 'Contracting Sate' for 'Contracting State' and the two labels run together); paragraphs (a) and (b) and subrules (2) and (3) are missing. No amendment note and no commentary are printed for 3.36 in Book C; the entry ends after the lead-in of (1). The Division heading printed for the entry ('Division 3 - ACTIONS STARTED BY STATEMENT OF CLAIM') agrees with the official Division 3."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.5402,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.36(1)-(3) (read by eye) except: the bracket labels '[Service of Documents]' after 'Part 11', '[Service in a Contracting State under the Hague Convention]' after 'Division 8', '[Judgment for recovery of property]' after 'rule 3.38' and '[Judgment for debt or liquidated demand]' after 'rule 3.39' (all four match the official titles/headings); 'in the Court file of the action' in (1)(b) where the official has 'in the court file of the action' (capital C); the word 'rule' repeated in (1)(a) ('rule 3.38 [Judgment for recovery of property] or rule 3.39 [...]' where the official reads 'rule 3.38 or 3.39'; added in the 3.36 second pass); the footnote markers '6' (after (1)(b)) and '7' (after (2)); the title in title case; missing spaces and '*' line marks; the Subdivision heading ('Subdivision 4 Failure to Defend') printed before the title matches the official Subdivision 4. The amendment bracket '[Alta.Reg.124/10;128/15;36/20]' agrees with the official 'AR 124/2010 s3.36;128/2015;36/2020'. No other difference. The dropped raw text also held footnote blocks printed between the subrules, kept here verbatim because Book A's footnotes are not split out: '1Waxmanv.Waxman2022 FCA 90, 471 DLR(4th) 171. 2Where a statement of claim has segregated its allegations and amounts claimed into groups of defendants, one group of defendants (who have not settled) have no legitimate interest in seeing the settlement contracts affecting only claims against other groups of defendants in that lawsuit:B.M.v.Cochrane2013 ABQB 573, [2013] AR Uned 688. 3TallmanTruck Centre v. KSP Hldgs.[2022] OJ No 393, 2022 ONCA 66, 2021 ONSC 984 (27 Jan '22). 4Cable Est.v. Ferguson2009 ABCA 333, 464 AR 89,leave denSCC 20 May '10. ABCA 56, 474 AR 280. 7R.3.42, confirmingSorochan v.St.Albert Protestant Sep.S.D.(M) 2001 ABQB 1063,affd2002 ABQB 179, 311 AR 1,affd (#1)2004 ABCA 21, 346 AR 182. 1Tweedie, Default Judgments and Summary Judgments in Canada (Can.L.B.2012). 2That is usually 20 days:see Rr.3.31 and 3.34. 3Lindblom v.Wawanesa Mut.Ins. Co.2001 ABCA 102, 281 AR 127. 4B.M.v.Hajas(M) 2000 ABQB 524, 270 AR 189. 5Al-Ghamdi v. R.2017 ABQB 169, 98 CPC(7th) 146 (¶ 84). 6Moose Mtn.Buffalo Ranch v. Greene Farms Drilling2009 ABQB 489, 11 Alta LR(5th) 142,affd2010' (the blocks are footnotes 1-4 of the 3.35 note and footnotes 1-7 of this rule's note; the first begins 'Waxman v. Waxman 2022 FCA 90' and the third begins mid-citation 'ABCA 56, 474 AR 280.'). This rule's history footnotes 6 and 7 ('Quite similar to previous 1981 R.142(1) ...'; 'Quite similar to previous 1968 R.143 ...') are printed at p.3-94 (lines 2591 and 2601) inside the built 3.35 record and are kept there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.4404,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.36",
+      "title_official": "Judgment in default of defence and noting in default"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "0e225062d56c80a227c297d69d96e6d95a01fa09dbc1d555d1537a7b98375022",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-94",
+            "3-98"
+          ],
+          "offset_in_clean_text": [
+            302862,
+            315779
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "ab67cce39959339e0e33c1301fa964fdbcfce229dca76d8572d6904ea6d2a11c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "a2779431157e613736e0be98e863e4c614bec5fa988a09c2fd7b4e3940a44c09",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "e0c336628f478e65dea2dd58bd3774899f63db2affe40053306093c44371199a",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            64
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b1f00225cad4705576cf279d8ba579841c79b56b43711041c833c340accec80f"
+  },
+  "information_notes": [
+    {
+      "text": "This rule is subject to rule 3.42 [Limitation on when judgment or noting in default can occur] and rule 10.22 [Action for payment of a lawyer's charges].",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule10_part04_document.json (10.22 text 'despite rule 3.36') and rule10_part10_document.json (the assessment of costs 'under rule 3.36(3)'); the later commentaries in rule3_part04_document.json (3.37 onward: 'the functional equivalence of the two scenarios is recognized in Rules 3.36 and 3.37', Yaremchuk, and the 3.40 text; not read in this pass). BOOK_C 121-140 file (later entries, 3.37 onward: 'if default judgment is refused, a plaintiff may still note the defendant in default pursuant to rule 3.36'; the 3.40 text; not read in this pass), 461-480 and 481-500 files (10.22 and the costs-assessment text with the label '[Judgment in default of defence and noting in default]'), 81-100 file (a Part 2 commentary: 'Under rule 3.36(2) [ ], a Judgment in default ...' with the label lost). BOOK_B 3.36: rule text (rule3_part04_document.json paragraph part3_part_3_court_actions_002) EXACT_MATCH with the official; amendment note 'Alta. Reg. 128/2015, s. 3; 36/2020, s. 3' agrees with the official 'AR 124/2010 s3.36;128/2015;36/2020'; one commentary section 'Commentary § 3.36:1' (4,125 characters, READ IN FULL): two numbered parts, no gap: 1 Effect of Noting in Default (Klinck v. Drinnan (1985), 41 Alta. L.R. (2d) 299 (Q.B.); Dykes v. Goczan (1996), 38 Alta. L.R. (3d) 425 (Q.B.): the defendant noted in default is deemed to have admitted the facts, with the Spiller v. Brown exception), 2 Costs and Noting In Default (Capital One Bank v. Calhoun, 2007 ABQB 151: costs remain in the Court's discretion; the clerk does not tax post-judgment costs on a solicitor-client basis without a judge's order); both parts are decisions under the former Rules and agree in substance with Book A's F. Effects of Default. BOOK_C 3.36: rule text CARRIER_MISSING_TEXT (only the lead-in of (1); dropped with note); no amendment note, information note or commentary.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.35 record p.3-94 (lines 2591, 2601) holds this rule's history footnotes 6-7; 3.40 text p.3-109 (line 3059) 'rule 3.36 [Judgment in default of defence and noting in default]' (title matches); 3.5x note p.3-123 (line 3472) related provision '3.36 (judgment in default of defence)'; combined_rule2.txt p.2-30 (lines 1473-1474), p.2-35 (line 1753), p.2-39 (line 1937), p.2-41 (lines 2007, 2014) '3.36(2) (noting litigation representative in default)' and 'Under rule 3.36(2) [Judgment in default of defence and noting in default], a judgment in ...' (agree with 3.36(2)); combined_rule5.txt p.5-140 (line 7435) 'Rule 3.36 prevails, so a defendant noted in default gets no notice, even of exp...'; combined_rule9.txt p.9-34 (line 1701) '3.36 (default judgments)', p.9-46 (lines 2430-2431) 'Goulet v. da Silva 2002 ABQB 369, 313 AR 32, R.3.36n.'; combined_rule10.txt p.10-31 (lines 1487-1488) and p.10-129 (lines 6976-6977) '3.36 (failure to defend); 9.15(1)(b)', p.10-36 (line 1744) and p.10-37 (line 1771) 'rule 3.36 [Judgment in default of defence and noting in default]', p.10-125 (line 6794) 'rule 3.36(3) [Judgment in default of defence and noting in default]'; combined_rule11.txt p.11-11 (lines 459-460); combined_rule12.txt p.12-76 (lines 3615-3617); combined_rule13.txt p.13-66 (line 3477). Those other notes were not read in full in this pass.",
+    "OFFICIAL text (searched for 'rule 3.36', 'rules 3.36', lists, line-wrapped forms and form headings): 3.40 ('If judgment is entered against some but not all defendants under (a) rule 3.36, (b) rule 3.37, (c) rule 3.38, or (d) rule 3.39, the plaintiff may continue the action ...'), 10.22 ('If an action is brought for payment of a lawyer's charges, (a) despite rule 3.36, no judgment may be entered in default of defence without the Court's permission'), the costs-assessment rule ('an assessment of costs payable in accordance with rule 10.41 in any of the following circumstances: (a) under rule 3.36(3); (b) under rule 3.37; (c) under rule 3.38; (d) under rule 3.39'), and Form 14, headed '[Rule 3.36(1)]' (3.36(1)(b) names Form 14). By subject (read): 3.37 (application for judgment against a defendant noted in default), 3.38-3.39 (judgment for recovery of property; for debt or liquidated demand), 3.42 (limitation on when judgment or noting in default may occur), 9.15(3) (setting aside), 2.11-2.12 (litigation representatives), Part 11 Division 8 (service in a Contracting State), 13.3 (counting days)."
+  ],
+  "dedupe_log": [
+    "3.36 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.36 BOOK_C: rule text dropped (manual review)",
+    "3.36 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.36 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

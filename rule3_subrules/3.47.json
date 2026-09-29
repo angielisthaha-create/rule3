@@ -1,0 +1,230 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.47",
+  "title": {
+    "official": "Third party defendant’s options",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.47   A third party defendant may do one or more of the\nfollowing:\n(a) apply to the Court to set aside service in accordance with\nrule 11.31;\n(b) apply to the Court for an order under rule 3.68 with\nrespect to the third party claim;\n(c) apply to the Court for an order under rule 3.68 with\nrespect to the plaintiff’s statement of claim;\n(d) file a statement of defence or demand for notice.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "a2d12dbee01057bd9ec8de9ef2e31ecd972f24a50e89bec8c91ee1dc4b3c45b0"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.47 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          69
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Third Party Defendant's Options",
+      "operative_text_raw": null,
+      "operative_text_sha256": "9f19561395a48709b38211eb86c87799be9962f0750a91a79272354507a2055c",
+      "defined_terms": "Court, file, order, third party defendant *Plaintiff's Options*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-120"
+        ],
+        "offset_in_clean_text": [
+          383928,
+          384935
+        ]
+      },
+      "operative_text_note": "same wording as official 3.47(a)-(d) (read by eye) except: the bracket labels '[Setting aside service]' after 'rule 11.31' (matches the official 11.31 title) and '[Court options to deal with significant deficiencies]' after each 'rule 3.68' (matches the official 3.68 title); the text is printed in two pieces (p.3-120 lines 3414 and 3415); straight apostrophe in 'plaintiff's'; the title in title case ('Third Party Defendant's Options'); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker is printed in the text. No substantive difference. The dropped raw text also held a paragraph of note text printed after (d) and before the Defined Terms line, kept here verbatim because it exists nowhere else in the packet: 'APierringeragreement must have an indemnity clause or covenant by the plaintiff, and it cannot be merely implied.An agreement required, and was conditional on, removing all the defendants but one, by court order.The remaining defendants, not parties to the agreement, could not be compelled by it to do anything.The application to remove parties was refused.The notices of contribution and indemnity stood.' (it is about a Pierringer agreement and third party notices of contribution and indemnity; it is not about 3.47(a)-(d); it may belong to the note on 3.46, whose Book B commentary is on Pierringer agreements, but the printed page gives no marker for it).",
+      "commentary_review_flag": "Read in full, p.3-120 (lines 3414-3417): rule text (two pieces), Defined Terms 'Court, file, order, third party defendant' (the Appendix defines each); no Information Note, no Related Provisions and NO note of its own. The built record: defined_terms holds the Defined Terms line and the heading of 3.48 ('Plaintiff's Options'); related_provisions and commentary are empty; the raw-text field held the Pierringer paragraph (kept in the text note); nothing dropped. (1) Labels: '[Setting aside service]' matches the official title of 11.31; '[Court options to deal with significant deficiencies]' matches the official title of 3.68. (2) Absence of commentary: Book A prints no commentary for 3.47 - the paragraph on a Pierringer agreement after (d) is not a note on this rule (see the text note); Book B's 3.47 commentary (five parts, 3,249 characters: Westlands v. Burgee, Herr v. Herr, Alberta Energy v. Daniel Industries, Burnco v. Schomburg, Schug v. Odegaard, all decisions under former R.68 and R.71(2)) has no counterpart in Book A. (3) Other rules' pointers to 3.47: Book A p.3-161 (line 4765) '3.47-48 (third party claims)' in the related provisions of a rule not identified here (the same line lists 1.4(2)(h), 3.42, 3.61, 3.62); the official text cites 3.47 nowhere else; searched by the cross-reference helper (official, all Book A, B, C files)."
+    },
+    "BOOK_B": {
+      "title": "Third party defendant's options",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.47:1",
+          "text": "Rule 3.47 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.47. 1. Function of Rule … a plaintiff does have a right to move to set aside a third party notice. The express right given to a plaintiff by R. 68 may be in recognition of the fact that a third party becomes a de facto defendant for the purpose of disputing the defendant's liability to the plaintiff. That is, the third party can defend the plaintiff's claim against the defendant in addition to defending the defendant's claim against himself: R. 71(2). If a plaintiff can successfully have a third party notice set aside he eliminates a possible adversary in advancing his claim against the defendant. Westlands Industrial Park Ltd. v. Burgee Developments Ltd. (1982), 23 Alta. L.R. (2d) 201 at 203 (Master). 2. Application to Strike after Statement of Defence In my view, R. 68 does not preclude an application to strike a third party notice being made after a defence has been filed… The filing of a defence and the passage of time cannot legitimize a third party notice which has no foundation. Herr v. Herr (1991), 80 Alta. L.R. (2d) 328 (Q.B.) at 334, per O'Leary J. 3. Grounds for Setting Aside Rule 68 does not indicate on what grounds a third party notice can be set aside. However, as the rule deals with both a third party or a plaintiff moving to set aside the notice, logically a plaintiff should be able to rely at least on those grounds that a third party can rely on. Westlands Industrial Park Ltd. v. Burgee Developments Ltd. (1982), 23 Alta. L.R. (2d) 201 at 203 (Master). 4. If Third Party Notice Provides Full Defence to Defendant Both parties rely on Alberta Energy Co. v. Daniel Industries Inc. et al. (1990), 100 A.R. 74 (C.A.), as the leading case in this area. In Alberta Energy, supra, the Court of Appeal held that if the third party notice provides the defendant with a full answer to the plaintiff's claim, it should be struck. However, if it is possible that the third party and the defendant are jointly liable, the notice should stand. The court held at p. 75: The rule forbids a third party notice which is based solely on facts which, if proved, would give a complete defence to the main action. In such a case the very facts which would make the third party liable to the defendant would make the defendant not liable to the plaintiff. The main action would be dismissed, and there would be no need for contribution or indemnity. It is clear from Alberta Energy, supra, that if the allegations against the Crown provide an “all or nothing” answer to Burnco's [plaintiff's] claim, the third party notice is improper. Burnco Rock Products Ltd. v. Schomburg Industries (Canada) Inc. (1998), 229 A.R. 37 ((Q.B.)), at 40, per Moore C.J.Q.B. The Court of Appeal allowed an appeal from Chief Justice Moore's decision [(1998) 228 A.R. 163], but did not disagree with the above statement of law. 5. Practice of Court on Application … the court, in exercising its discretion under R. 68 of the Alberta Rules of Court, should examine the pleadings to determine whether there are common issues that might be decided differently if the indemnity proceedings were severed from the principal action. Schug v. Odegaard (1984), 32 Alta. L.R. (2d) 355 at 362 (Q.B.)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_47_001",
+        "part3_alberta_rules_of_court_rule_3_part_5_001",
+        "part3_rule_3_47_002",
+        "part3_part_3_court_actions_002"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "9e5de378b32ea380866b05362b821c95cb5a59921571b4b26455e08ffe6d957f",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Third party defendant’s options",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "680098b21613442ebf85b282a28aadde9eac4e17804a7f3a1337326bfc78f06f",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Similar to rule 3.30, applying to a defendant served with a statement of claim, rule 3.47 summarizes the options available to third party defendants.",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text, including the bracket labels '[Setting aside service]' and '[Court options to deal with significant deficiencies]' as printed in Book A; the apostrophes are curly. The amendment note '[Alta. Reg. 124/2010, r. 3.47 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6061,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.47(a)-(d) (read by eye) except: the bracket labels '[Setting aside service]' after 'rule 11.31' (matches the official 11.31 title) and '[Court options to deal with significant deficiencies]' after each 'rule 3.68' (matches the official 3.68 title); the text is printed in two pieces (p.3-120 lines 3414 and 3415); straight apostrophe in 'plaintiff's'; the title in title case ('Third Party Defendant's Options'); missing spaces; '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No footnote marker is printed in the text. No substantive difference. The dropped raw text also held a paragraph of note text printed after (d) and before the Defined Terms line, kept here verbatim because it exists nowhere else in the packet: 'APierringeragreement must have an indemnity clause or covenant by the plaintiff, and it cannot be merely implied.An agreement required, and was conditional on, removing all the defendants but one, by court order.The remaining defendants, not parties to the agreement, could not be compelled by it to do anything.The application to remove parties was refused.The notices of contribution and indemnity stood.' (it is about a Pierringer agreement and third party notices of contribution and indemnity; it is not about 3.47(a)-(d); it may belong to the note on 3.46, whose Book B commentary is on Pierringer agreements, but the printed page gives no marker for it)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text, including the bracket labels '[Setting aside service]' and '[Court options to deal with significant deficiencies]' as printed in Book A; the apostrophes are curly. The amendment note '[Alta. Reg. 124/2010, r. 3.47 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.47",
+      "title_official": "Third party defendant’s options"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "9f19561395a48709b38211eb86c87799be9962f0750a91a79272354507a2055c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-120"
+          ],
+          "offset_in_clean_text": [
+            383928,
+            384935
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "9e5de378b32ea380866b05362b821c95cb5a59921571b4b26455e08ffe6d957f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "680098b21613442ebf85b282a28aadde9eac4e17804a7f3a1337326bfc78f06f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "a2d12dbee01057bd9ec8de9ef2e31ecd972f24a50e89bec8c91ee1dc4b3c45b0",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            69
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "5b775b0ec633bdf266e8cb02957dfba69b652be47578412d381deb7f6a991101"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.47 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.47 BOOK_C commentary sentence split dropped",
+    "3.47 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.47 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.47 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

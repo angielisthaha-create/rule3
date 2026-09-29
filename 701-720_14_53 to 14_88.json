@@ -1,0 +1,964 @@
+{
+  "source_file": "701-720_revised.md",
+  "definitions": [],
+  "hierarchy": [
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "14.53",
+        "title": "Format of applications",
+        "text": "An application to a single appeal judge or a panel of the Court of Appeal must be in Form AP-3 and must (a) state briefly the grounds for filing the application, (b) identify the material or evidence intended to be relied on, (c) refer precisely to any applicable provision of an enactment or rule, and (d) state the remedy sought.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+        "sentences": [
+          "An application to a single appeal judge or a panel of the Court of Appeal must be in Form AP-3 and must",
+          "(a) state briefly the grounds for filing the application",
+          "(b) identify the material or evidence intended to be relied on",
+          "(c) refer precisely to any applicable provision of an enactment or rule, and",
+          "(d) state the remedy sought. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+          "Alta.* Reg. 41/2014, s. 4]"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "14.54",
+        "title": "Format of memorandum",
+        "text": "A memorandum filed on an application (a) must be formatted in the same manner as a factum under rule 14.26(1) , [Format of factums]\n(b) must not be longer than (i) 10 double-spaced pages for an application for permission to appeal, or (ii) 5 double-spaced pages for any other application, (c) may in addition attach a chronology, where that is relevant to the application, and (d) in an application for permission to appeal, must (i) include a copy of the reasons for the decision proposed to be appealed, and (ii) state the exact questions of law on which permission to appeal is requested.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4; Alta. Reg. 85/2016, s. 1(12); Alta. Reg. 36/2020, s. 23 effective May 26,",
+        "sentences": [
+          "A memorandum filed on an application",
+          "(a) must be formatted in the same manner as a factum under rule 14.26(1) , [Format of factums]",
+          "(b) must not be longer than",
+          "(i) 10 double-spaced pages for an application for permission to appeal, or",
+          "(ii) 5 double-spaced pages for any other application",
+          "(c) may in addition attach a chronology, where that is relevant to the application, and",
+          "(d) in an application for permission to appeal, must",
+          "(i) include a copy of the reasons for the decision proposed to be appealed, and",
+          "(ii) state the exact questions of law on which permission to appeal is requested. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+          "Alta.* Reg. 41/2014, s. 4",
+          "Alta. Reg. 85/2016, s. 1(12)",
+          "Alta. Reg. 36/2020, s. 23 effective May 26"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "14.55",
+        "title": "Responsibility of parties to manage an appeal",
+        "text": "(1) The parties to an appeal are responsible for managing the appeal and for planning its resolution in a timely and cost-effective way.\n(2) The parties may seek advice and direction for managing the appeal from a case management officer as provided for in rule 14.36 [Case management",
+        "sentences": [
+          "(1) The parties to an appeal are responsible for managing the appeal and for planning its resolution in a timely and cost-effective way.",
+          "(2) The parties may seek advice and direction for managing the appeal from a case management officer as provided for in rule 14.36 [Case management"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "14.56",
+        "title": "Orders to facilitate appeal",
+        "text": "If an appeal is not being managed in an appropriate way, a single appeal judge may make a procedural order, an order under Part 4",
+        "sentences": [
+          "If an appeal is not being managed in an appropriate way, a single appeal judge may make a procedural order, an order under Part 4"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "Division",
+      "heading": "Division 5 – MANAGING THE APPEAL PROCESS",
+      "rules": [
+        {
+          "number": "14.57",
+          "title": "Adding, removing or substituting parties to an appeal",
+          "text": "A party or person may be added, removed or substituted as a party to an appeal in accordance with rule 3.74 [Adding, removing or substituting parties after close of pleadings].\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "A party or person may be added, removed or substituted as a party to an appeal in accordance with rule 3.74 [Adding, removing or substituting parties after close of pleadings]. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "“Rule 14.57 provides that ‘A party or person may be added, removed or substituted as a party to an appeal in accordance with rule 3.74’. Rule 3.74(3) directs the Court’s attention to the requirement that adding a party should not cause ‘prejudice . . . that could not be remedied by a costs award, an adjournment or the imposition of terms’”. Walton Development and Management Inc. v. Osman Auction Inc., [2015] A.J. No. 1010, 2015 ABCA 298 at para. 11 (Alta. C.A.).\nAn applicant seeking to be added as a party to an appeal must first establish a legal interest in the outcome of the proceedings. Once that is shown, the court must consider: (1) whether it is just and convenient to add the applicant; and (2) whether the applicant’s interest can be adequately protected only if it is granted party status. Ravvin v. Canada Bread Co., [2020] A.J. No. 817, 2020 ABCA 287 at paras. 4 and 7 (Alta. C.A.); Town of Canmore v. Three Sisters Mountain Village Properties Ltd., [2022] A.J. No. 1003, 2022 ABCA",
+              "sentences": [
+                "“Rule 14.57 provides that ‘A party or person may be added, removed or substituted as a party to an appeal in accordance with rule 3.74’.",
+                "Rule 3.74(3) directs the Court’s attention to the requirement that adding a party should not cause ‘prejudice . . . that could not be remedied by a costs award, an adjournment or the imposition of terms’”.",
+                "Walton Development and Management Inc. v. Osman Auction Inc., [2015] A.J. No. 1010, 2015 ABCA 298 at para. 11 (Alta. C.A.).",
+                "An applicant seeking to be added as a party to an appeal must first establish a legal interest in the outcome of the proceedings. Once that is shown, the court must consider:",
+                "(1) whether it is just and convenient to add the applicant",
+                "(2) whether the applicant’s interest can be adequately protected only if it is granted party status. Ravvin v. Canada Bread Co., [2020] A.J. No. 817, 2020 ABCA 287 at paras. 4 and 7 (Alta. C.A.)",
+                "Town of Canmore v. Three Sisters Mountain Village Properties Ltd., [2022] A.J. No. 1003, 2022 ABCA"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2015 ABCA 298",
+                  "style_of_cause": "Walton Development and Management Inc. v. Osman Auction Inc.",
+                  "context": "ot cause ‘prejudice . . . that could not be remedied by a costs award, an adjournment or the imposition of terms’”. Walton Development and Management Inc. v. Osman Auction Inc., [2015] A.J. No. 1010, 2015 ABCA 298 at para. 11 (Alta. C.A.).\nAn applicant seeking to be added as a party to an appeal must first estab"
+                },
+                {
+                  "neutral_citation": "2020 ABCA 287",
+                  "style_of_cause": "Ravvin v. Canada Bread Co.",
+                  "context": "is just and convenient to add the applicant; and (2) whether the applicant’s interest can be adequately protected only if it is granted party status. Ravvin v. Canada Bread Co., [2020] A.J. No. 817, 2020 ABCA 287 at paras. 4 and 7 (Alta. C.A.); Town of Canmore v. Three Sisters Mountain Village Properties Ltd.,"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.58",
+          "title": "Intervenor status on appeal",
+          "text": "(1) In addition to persons having a right to intervene in law, a single appeal judge may grant status to a person to intervene in an appeal, subject to any terms and conditions and with the rights (2) Aperson granted intervenor status in the court appealed from must apply again to obtain intervenor status on an appeal.\n(3) Unless otherwise ordered, an intervenor may not raise or argue issues not raised by the other parties to the appeal.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "(1) In addition to persons having a right to intervene in law, a single appeal judge may grant status to a person to intervene in an appeal, subject to any terms and conditions and with the rights",
+            "(2) Aperson granted intervenor status in the court appealed from must apply again to obtain intervenor status on an appeal.",
+            "(3) Unless otherwise ordered, an intervenor may not raise or argue issues not raised by the other parties to the appeal. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rules 14.37(2)(e) and 14.58 permit a single judge to consider an application to intervene and to impose conditions. Unless otherwise ordered by the court, the intervenor may not raise or argue issues not raised by the other parties to the appeal, according to rule 14.58(3). Canadian Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 8 (Alta. C.A.).\nTest for Leave to Intervene – See also the Commentary under rule 2.10. “A single appeal judge may grant permission to intervene in an appeal if satisfied that the applicant (a) will be directly and ‘specially’ affected by the outcome of the appeal or, (b) has special expertise or a unique perspective relating to the subject matter of the appeal that will assist the court in its deliberations”. Canadian Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 9 (Alta. C.A.), citing , [2005] Papaschase Indian Band v. Canada (Attorney General) A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); Canadian Life and Health Insurance Assn. Inc. v. Thomson, [2023] A.J. No. 1221, 2023 ABCA 340 at para. 8 (Alta. C.A.). “The test is not strictly conjunctive or disjunctive, but rather involves a consideration of both factors in all cases.” Canadian Life and Health Insurance Assn. Inc. v. Thomson, [2023] A.J. No. 1221, 2023 ABCA The considerations which bear on these two criteria include:\n1. Is the presence of the intervenor necessary for the court to properly decide the matter;\n2. Might the intervenor’s interest in the proceedings not be fully protected by the parties;\n3. Will the intervention unduly delay the proceedings;\n4. Will there possibly be prejudice to the parties if intervention is granted;\n5. Will intervention widen the dispute between the parties; and 6. Will the intervention transform the court into a political arena?  Canadian Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 10 (Alta. C.A.), citing ( ), Pedersen v. Van Thournout sub nom. Morrow v. Zhang A recent decision has added a seventh relevant consideration, being “[w]ill the intervener’s submission be useful and different or bring particular expertise to the subject matter of the [2008] A.J. No. 543, 2008 ABCA 192 at para. 3 (Alta. C.A.). See also , [2019] A.J. No.\nJonsson v. Lymer 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Town of Canmore v. Three Sisters Mountain Village",
+              "sentences": [
+                "Rules 14.37(2)(e) and 14.58 permit a single judge to consider an application to intervene and to impose conditions. Unless otherwise ordered by the court, the intervenor may not raise or argue issues not raised by the other parties to the appeal, according to rule 14.58(3).",
+                "Canadian Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 8 (Alta. C.A.).",
+                "Test for Leave to Intervene – See also the Commentary under rule 2.10. “A single appeal judge may grant permission to intervene in an appeal if satisfied that the applicant",
+                "(a) will be directly and ‘specially’ affected by the outcome of the appeal or",
+                "(b) has special expertise or a unique perspective relating to the subject matter of the appeal that will assist the court in its deliberations”.",
+                "Canadian Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 9 (Alta. C.A.), citing , [2005] Papaschase Indian Band v. Canada (Attorney General) A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.)",
+                "Canadian Life and Health Insurance Assn. Inc. v. Thomson, [2023] A.J. No. 1221, 2023 ABCA 340 at para. 8 (Alta. C.A.). “The test is not strictly conjunctive or disjunctive, but rather involves a consideration of both factors in all cases.” Canadian Life and Health Insurance Assn. Inc. v. Thomson, [2023] A.J. No. 1221, 2023 ABCA The considerations which bear on these two criteria include: 1.",
+                "Is the presence of the intervenor necessary for the court to properly decide the matter",
+                "Might the intervenor’s interest in the proceedings not be fully protected by the parties",
+                "Will the intervention unduly delay the proceedings",
+                "Will there possibly be prejudice to the parties if intervention is granted",
+                "Will intervention widen the dispute between the parties",
+                "Will the intervention transform the court into a political arena?",
+                "Canadian Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 10 (Alta. C.A.), citing ( ), Pedersen v. Van Thournout sub nom.",
+                "Morrow v. Zhang A recent decision has added a seventh relevant consideration, being “[w]ill the intervener’s submission be useful and different or bring particular expertise to the subject matter of the [2008] A.J. No. 543, 2008 ABCA 192 at para. 3 (Alta. C.A.).",
+                "See also , [2019] A.J. No. Jonsson v. Lymer 360, 2019 ABCA 113 at para. 18 (Alta. C.A.)",
+                "Town of Canmore v. Three Sisters Mountain Village"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2017 ABCA 280",
+                  "style_of_cause": "Canadian Centre for Bio-Ethical Reform v. Grande Prairie",
+                  "context": "tervenor may not raise or argue issues not raised by the other parties to the appeal, according to rule 14.58(3). Canadian Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 8 (Alta. C.A.).\nTest for Leave to Intervene – See also the Commentary under rule 2.10. “A"
+                },
+                {
+                  "neutral_citation": "2005 ABCA 320",
+                  "style_of_cause": "Papaschase Indian Band v. Canada",
+                  "context": "Centre for Bio-Ethical Reform v. Grande Prairie (City), [2017] A.J. No. 905, 2017 ABCA 280 at para. 9 (Alta. C.A.), citing , [2005] Papaschase Indian Band v. Canada (Attorney General) A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); Canadian Life and Health Insurance Assn. Inc. v. Thomson, [2023] A.J. No."
+                },
+                {
+                  "neutral_citation": "2023 ABCA 340",
+                  "style_of_cause": "Canadian Life and Health Insurance Assn. Inc. v. Thomson",
+                  "context": "ting , [2005] Papaschase Indian Band v. Canada (Attorney General) A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); Canadian Life and Health Insurance Assn. Inc. v. Thomson, [2023] A.J. No. 1221, 2023 ABCA 340 at para. 8 (Alta. C.A.). “The test is not strictly conjunctive or disjunctive, but rather involves"
+                },
+                {
+                  "neutral_citation": "2008 ABCA 192",
+                  "style_of_cause": null,
+                  "context": "decision has added a seventh relevant consideration, being “[w]ill the intervener’s submission be useful and different or bring particular expertise to the subject matter of the [2008] A.J. No. 543, 2008 ABCA 192 at para. 3 (Alta. C.A.). See also , [2019] A.J. No.\nJonsson v. Lymer 360, 2019 ABCA 113 at para. 18"
+                },
+                {
+                  "neutral_citation": "2019 ABCA 113",
+                  "style_of_cause": "A.J. No.\nJonsson v. Lymer 360",
+                  "context": "mission be useful and different or bring particular expertise to the subject matter of the [2008] A.J. No. 543, 2008 ABCA 192 at para. 3 (Alta. C.A.). See also , [2019] A.J. No.\nJonsson v. Lymer 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Town of Canmore v. Three Sisters Mountain Village"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.59",
+          "title": "Formal offers to settle",
+          "text": "(1) No later than 10 days before an appeal is scheduled to be heard, a party may serve on the party to whom the offer is made a formal offer to settle the appeal or any part of the appeal in accordance with Part 4 , Division 5 .\n[Managing Litigation]\n[Settlement Using Court Process]\n[2008] A.J. No. 543, 2008 ABCA 192 at para. 4 (Alta. C.A.); see also Styles v. Alberta Investment Management Corp., [2016] A.J. No. 743, 2016 ABCA 218 at paras. 13-15 (Alta. C.A.).\n(2) A valid formal offer to settle an appeal may be accepted in accordance with rule 4.25 [Acceptance of formal offer to settle].\n(3) Unless a valid formal offer to settle an appeal is withdrawn under rule 4.24(4) [Formal offers to settle], the valid formal offer to settle an appeal remains open for acceptance until the earlier of (a) the expiry of 2 months after the date of the offer or any longer period specified in the offer, and (b) the start of the oral hearing of the appeal.\n(4) Where a formal offer to settle an appeal is made, costs of the appeal must be awarded in accordance with rule 4.29 [Costs consequences of formal offer to settle].\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "(1) No later than 10 days before an appeal is scheduled to be heard, a party may serve on the party to whom the offer is made a formal offer to settle the appeal or any part of the appeal in accordance with Part 4 , Division 5 . [Managing Litigation] [Settlement Using Court Process] [2008] A.J. No. 543, 2008 ABCA 192 at para. 4 (Alta. C.A.)",
+            "see also Styles v. Alberta Investment Management Corp., [2016] A.J. No. 743, 2016 ABCA 218 at paras. 13-15 (Alta. C.A.).",
+            "(2) A valid formal offer to settle an appeal may be accepted in accordance with rule 4.25 [Acceptance of formal offer to settle].",
+            "(3) Unless a valid formal offer to settle an appeal is withdrawn under rule 4.24(4) [Formal offers to settle], the valid formal offer to settle an appeal remains open for acceptance until the earlier of",
+            "(a) the expiry of 2 months after the date of the offer or any longer period specified in the offer, and",
+            "(b) the start of the oral hearing of the appeal.",
+            "(4) Where a formal offer to settle an appeal is made, costs of the appeal must be awarded in accordance with rule 4.29 [Costs consequences of formal offer to settle]. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2008 ABCA 192",
+              "style_of_cause": null,
+              "context": "om the offer is made a formal offer to settle the appeal or any part of the appeal in accordance with Part 4 , Division 5 .\n[Managing Litigation]\n[Settlement Using Court Process]\n[2008] A.J. No. 543, 2008 ABCA 192 at para. 4 (Alta. C.A.); see also Styles v. Alberta Investment Management Corp., [2016] A.J. No. 74"
+            },
+            {
+              "neutral_citation": "2016 ABCA 218",
+              "style_of_cause": "Styles v. Alberta Investment Management Corp.",
+              "context": "ion 5 .\n[Managing Litigation]\n[Settlement Using Court Process]\n[2008] A.J. No. 543, 2008 ABCA 192 at para. 4 (Alta. C.A.); see also Styles v. Alberta Investment Management Corp., [2016] A.J. No. 743, 2016 ABCA 218 at paras. 13-15 (Alta. C.A.).\n(2) A valid formal offer to settle an appeal may be accepted in accor"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The result of reading rule 14.59(1) and Part 4, Division 5 together is that rule 14.59(1) is not restricted to appeals and may also include applications. Morin v. Alberta (Utilities Commission), [2017] A.J. No. 87, 2017 ABCA 39 at para. 10 (Alta. C.A.). Together, these rules can play a role in managing litigation at the appeal level, if a party brings an application that is without merit, a respondent should be entitled to avail itself of the compromise rule in an effort to dissuade the applicant from continuing with its application. Morin v. Alberta (Utilities Commission), [2017] A.J. No. 87, 2017 ABCA 39 at para. 10 (Alta. C.A.).\nAn offer to settle must be one that is reasonable and realistic. The court’s assessment of this entails a consideration of an examination of all of the surrounding circumstances existing at the time the offer was served and remained open, as well as the outcome of the appeal. Baim v. North Country Catering Ltd., [2017] A.J. No. 1047, 2017 ABCA 332 at para. 10 (Alta. C.A.), citing , [2006] A.J. No. 377, 2006 ABCA 101 at paras. 14-17 Allen (Next Friend of) v. Mueller (Alta. C.A.). The “offer to settle must include an element of compromise in order to be seen to be genuine”. Baim v. North Country Catering Ltd., [2017] A.J. No. 1047, 2017 ABCA 332 at para. 10 (Alta. C.A.).\nFor example, an offer to forego appeal costs if the appeal is discontinued or an offer to pay $1.00 would be and, therefore, inadequate; but an offer to forego a previous costs de minimus award, agree to settle part of outstanding litigation or discount an extent judgment would be sufficient compromises. H2S Solutions Ltd. v. Tourmaline Oil Corp., [2020] A.J. No. 575, 2020 ABCA 201 at para. 34 (Alta. C.A.).\nRule 14.59 contemplates doubling appeal costs where a formal offer is made to settle the appeal or any part of it. To rely on this rule, there must be a new offer before the appeal or a renewal of a pre-trial offer. 864503 Alberta Inc. v. Genco Place Properties Ltd., [2019] A.J. No. 779, 2019 ABCA 248 at para. 20 (Alta. C.A.); , [2021] A.J. No. 720, 2021 ABCA 197 at para.",
+              "sentences": [
+                "The result of reading rule 14.59(1) and Part 4, Division 5 together is that rule 14.59(1) is not restricted to appeals and may also include applications. Morin v. Alberta (Utilities Commission), [2017] A.J. No. 87, 2017 ABCA 39 at para. 10 (Alta. C.A.).",
+                "Together, these rules can play a role in managing litigation at the appeal level, if a party brings an application that is without merit, a respondent should be entitled to avail itself of the compromise rule in an effort to dissuade the applicant from continuing with its application.",
+                "Morin v. Alberta (Utilities Commission), [2017] A.J. No. 87, 2017 ABCA 39 at para. 10 (Alta. C.A.).",
+                "An offer to settle must be one that is reasonable and realistic. The court’s assessment of this entails a consideration of an examination of all of the surrounding circumstances existing at the time the offer was served and remained open, as well as the outcome of the appeal.",
+                "Baim v. North Country Catering Ltd., [2017] A.J. No. 1047, 2017 ABCA 332 at para. 10 (Alta. C.A.), citing , [2006] A.J. No. 377, 2006 ABCA 101 at paras. 14-17 Allen (Next Friend of) v. Mueller (Alta. C.A.).",
+                "The “offer to settle must include an element of compromise in order to be seen to be genuine”.",
+                "Baim v. North Country Catering Ltd., [2017] A.J. No. 1047, 2017 ABCA 332 at para. 10 (Alta. C.A.).",
+                "For example, an offer to forego appeal costs if the appeal is discontinued or an offer to pay $1.00 would be and, therefore, inadequate",
+                "but an offer to forego a previous costs de minimus award, agree to settle part of outstanding litigation or discount an extent judgment would be sufficient compromises. H2S Solutions Ltd. v. Tourmaline Oil Corp., [2020] A.J. No. 575, 2020 ABCA 201 at para. 34 (Alta. C.A.).",
+                "Rule 14.59 contemplates doubling appeal costs where a formal offer is made to settle the appeal or any part of it.",
+                "To rely on this rule, there must be a new offer before the appeal or a renewal of a pre-trial offer. 864503 Alberta Inc. v. Genco Place Properties Ltd., [2019] A.J. No. 779, 2019 ABCA 248 at para. 20 (Alta. C.A.)",
+                ", [2021] A.J. No. 720, 2021 ABCA 197 at para."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2017 ABCA 39",
+                  "style_of_cause": "Morin v. Alberta",
+                  "context": "eading rule 14.59(1) and Part 4, Division 5 together is that rule 14.59(1) is not restricted to appeals and may also include applications. Morin v. Alberta (Utilities Commission), [2017] A.J. No. 87, 2017 ABCA 39 at para. 10 (Alta. C.A.). Together, these rules can play a role in managing litigation at the appea"
+                },
+                {
+                  "neutral_citation": "2017 ABCA 332",
+                  "style_of_cause": "Baim v. North Country Catering Ltd.",
+                  "context": "n of all of the surrounding circumstances existing at the time the offer was served and remained open, as well as the outcome of the appeal. Baim v. North Country Catering Ltd., [2017] A.J. No. 1047, 2017 ABCA 332 at para. 10 (Alta. C.A.), citing , [2006] A.J. No. 377, 2006 ABCA 101 at paras. 14-17 Allen (Next F"
+                },
+                {
+                  "neutral_citation": "2006 ABCA 101",
+                  "style_of_cause": "Baim v. North Country Catering Ltd.",
+                  "context": "er was served and remained open, as well as the outcome of the appeal. Baim v. North Country Catering Ltd., [2017] A.J. No. 1047, 2017 ABCA 332 at para. 10 (Alta. C.A.), citing , [2006] A.J. No. 377, 2006 ABCA 101 at paras. 14-17 Allen (Next Friend of) v. Mueller (Alta. C.A.). The “offer to settle must include a"
+                },
+                {
+                  "neutral_citation": "2020 ABCA 201",
+                  "style_of_cause": "H2S Solutions Ltd. v. Tourmaline Oil Corp.",
+                  "context": "costs de minimus award, agree to settle part of outstanding litigation or discount an extent judgment would be sufficient compromises. H2S Solutions Ltd. v. Tourmaline Oil Corp., [2020] A.J. No. 575, 2020 ABCA 201 at para. 34 (Alta. C.A.).\nRule 14.59 contemplates doubling appeal costs where a formal offer is mad"
+                },
+                {
+                  "neutral_citation": "2019 ABCA 248",
+                  "style_of_cause": "Alberta Inc. v. Genco Place Properties Ltd.",
+                  "context": "appeal or any part of it. To rely on this rule, there must be a new offer before the appeal or a renewal of a pre-trial offer. 864503 Alberta Inc. v. Genco Place Properties Ltd., [2019] A.J. No. 779, 2019 ABCA 248 at para. 20 (Alta. C.A.); , [2021] A.J. No. 720, 2021 ABCA 197 at para."
+                },
+                {
+                  "neutral_citation": "2021 ABCA 197",
+                  "style_of_cause": "Alberta Inc. v. Genco Place Properties Ltd.",
+                  "context": "new offer before the appeal or a renewal of a pre-trial offer. 864503 Alberta Inc. v. Genco Place Properties Ltd., [2019] A.J. No. 779, 2019 ABCA 248 at para. 20 (Alta. C.A.); , [2021] A.J. No. 720, 2021 ABCA 197 at para."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.60",
+          "title": "Judicial dispute resolution of an appeal",
+          "text": "An arrangement for a judicial dispute resolution process on appeal may be made in accordance with",
+          "sentences": [
+            "An arrangement for a judicial dispute resolution process on appeal may be made in accordance with"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.61",
+          "title": "Suspension of time periods",
+          "text": "(1) Once a date has been scheduled for judicial dispute resolution, time limits in respect of the appeal are suspended until an order or direction is made under subrule (2).\n(2) If judicial dispute resolution is not successful, (a) the appeal judge conducting the judicial dispute resolution will set time limits for filing and serving any remaining materials on the appeal, or (b) if no order is made under clause (a) a case management officer may provide a direction setting the time limits for filing and serving any remaining materials on the appeal.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]\nSubdivision 5: DELAY IN ADVANCING APPEALS",
+          "sentences": [
+            "(1) Once a date has been scheduled for judicial dispute resolution, time limits in respect of the appeal are suspended until an order or direction is made under subrule (2).",
+            "(2) If judicial dispute resolution is not successful",
+            "(a) the appeal judge conducting the judicial dispute resolution will set time limits for filing and serving any remaining materials on the appeal, or",
+            "(b) if no order is made under clause",
+            "(a) a case management officer may provide a direction setting the time limits for filing and serving any remaining materials on the appeal. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4] Subdivision 5: DELAY IN ADVANCING APPEALS"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.62",
+          "title": "Dismissal for delay",
+          "text": "A panel of the Court of Appeal may dismiss an appeal if it is satisfied that delay in advancing the appeal has resulted in significant prejudice to a party.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "A panel of the Court of Appeal may dismiss an appeal if it is satisfied that delay in advancing the appeal has resulted in significant prejudice to a party. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "In Coleman v. Coleman, the Court of Appeal did not opine on whether rule 14.62 deals with inordinate delay, or whether the drop-dead rule (rule 4.33(1)) applied to",
+              "sentences": [
+                "In Coleman v. Coleman, the Court of Appeal did not opine on whether rule 14.62 deals with inordinate delay, or whether the drop-dead rule (rule 4.33(1)) applied to"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "14.63",
+          "title": "Powers of a single appeal judge",
+          "text": "If delay occurs in the advancement of an appeal, a single appeal judge may (a) make a procedural order or otherwise give directions to expedite the appeal, or (b) dismiss the appeal, if it has not been significantly advanced for over 6 months and significant prejudice has resulted to a party.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "If delay occurs in the advancement of an appeal, a single appeal judge may",
+            "(a) make a procedural order or otherwise give directions to expedite the appeal, or",
+            "(b) dismiss the appeal, if it has not been significantly advanced for over 6 months and significant prejudice has resulted to a party. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "A single judge of “the Court of Appeal may ‘dismiss an appeal if it has not been significantly advanced in over 6 months and significant prejudice has resulted to a",
+              "sentences": [
+                "A single judge of “the Court of Appeal may ‘dismiss an appeal if it has not been significantly advanced in over 6 months and significant prejudice has resulted to a"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "14.64",
+          "title": "Failure to meet deadlines",
+          "text": "An appeal must be struck by the Registrar if (a) the appellant has failed to file the Appeal Record within the time period set out in these rules, (b) the appellant has failed to file its factum (i) before the expiry of the deadline for filing the factum in a standard appeal set out in rule 14.23(1) [Filing factums – standard appeals], or (ii) by the deadline for filing the factum in a fast track appeal set out in rule 14.24(1)(a) , [Filing factums – fast track appeals]\n(c) a standard appeal has not been placed on the Civil Appeal Hearing List before the earlier of (i) 6 months after the deadline for the filing of the last factum in the appeal, and (ii) 12 months after the filing of the notice of appeal, or R. 14.63 [Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "An appeal must be struck by the Registrar if",
+            "(a) the appellant has failed to file the Appeal Record within the time period set out in these rules",
+            "(b) the appellant has failed to file its factum",
+            "(i) before the expiry of the deadline for filing the factum in a standard appeal set out in rule 14.23(1) [Filing factums – standard appeals], or",
+            "(ii) by the deadline for filing the factum in a fast track appeal set out in rule 14.24(1)(a) , [Filing factums – fast track appeals]",
+            "(c) a standard appeal has not been placed on the Civil Appeal Hearing List before the earlier of",
+            "(i) 6 months after the deadline for the filing of the last factum in the appeal, and",
+            "(ii) 12 months after the filing of the notice of appeal, or R. 14.63 [Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta. Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 14.64 provides that the Registrar must strike an appeal if:\n• the appellant fails to file the Appeal Record within four months from the date on which the appellant filed the notice of appeal for standard appeals (rules 14.16(3) and 14.64(a)), or not later than one month from the date on which the notice of appeal was filed for fast track appeals (rules 4.17(1) and 14.64(a)); For standard appeals. See, for example: Barry v. Institute of Chartered Accountants of Alberta, Complaints Inquiry Committee MacLeod , [2016] A.J. No. 308, 2016 ABCA 89 at para. 19 (Alta. C.A.); v. Alberta College of Social Workers, [2017] A.J. No. 19, 2017 ABCA 11 at para. 1 (Alta. C.A.); for fast track appeals, see, for example: , [2016] A.J. No. 210, 2016 ABCA 62 at para. 2 (Alta. Bacon v. Gullberg C.A.).\n• the appellant fails to file a factum on time (rules 14.23(1), 14.64(b));\n• the standard appeal is not placed on the Civil Appeal Hearing List within stipulated periods (rule 14.64(c)); Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 21, footnote 4 (Alta. C.A.). or • a fast track appeal has not been placed on the Civil Appeal Hearing List within six months of the filing of the notice of appeal (rule 14.64(d)).\nOnce an appeal is struck by the registrar, the appellant must apply for the appeal to be restored if they wish to proceed.",
+              "sentences": [
+                "Rule 14.64 provides that the Registrar must strike an appeal if: • the appellant fails to file the Appeal Record within four months from the date on which the appellant filed the notice of appeal for standard appeals (rules 14.16(3) and 14.64(a)), or not later than one month from the date on which the notice of appeal was filed for fast track appeals (rules 4.17(1) and 14.64(a))",
+                "For standard appeals. See, for example: Barry v. Institute of Chartered Accountants of Alberta, Complaints Inquiry Committee MacLeod , [2016] A.J. No. 308, 2016 ABCA 89 at para. 19 (Alta. C.A.)",
+                "v. Alberta College of Social Workers, [2017] A.J. No. 19, 2017 ABCA 11 at para. 1 (Alta. C.A.)",
+                "for fast track appeals, see, for example: , [2016] A.J. No. 210, 2016 ABCA 62 at para. 2 (Alta. Bacon v. Gullberg C.A.). • the appellant fails to file a factum on time (rules 14.23(1), 14.64(b))",
+                "• the standard appeal is not placed on the Civil Appeal Hearing List within stipulated periods (rule 14.64(c))",
+                "Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 21, footnote 4 (Alta. C.A.). or • a fast track appeal has not been placed on the Civil Appeal Hearing List within six months of the filing of the notice of appeal (rule 14.64(d)).",
+                "Once an appeal is struck by the registrar, the appellant must apply for the appeal to be restored if they wish to proceed."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2016 ABCA 89",
+                  "style_of_cause": "Barry v. Institute of Chartered Accountants of Alberta",
+                  "context": "track appeals (rules 4.17(1) and 14.64(a)); For standard appeals. See, for example: Barry v. Institute of Chartered Accountants of Alberta, Complaints Inquiry Committee MacLeod , [2016] A.J. No. 308, 2016 ABCA 89 at para. 19 (Alta. C.A.); v. Alberta College of Social Workers, [2017] A.J. No. 19, 2017 ABCA 11 at"
+                },
+                {
+                  "neutral_citation": "2017 ABCA 11",
+                  "style_of_cause": null,
+                  "context": "itute of Chartered Accountants of Alberta, Complaints Inquiry Committee MacLeod , [2016] A.J. No. 308, 2016 ABCA 89 at para. 19 (Alta. C.A.); v. Alberta College of Social Workers, [2017] A.J. No. 19, 2017 ABCA 11 at para. 1 (Alta. C.A.); for fast track appeals, see, for example: , [2016] A.J. No. 210, 2016 ABCA"
+                },
+                {
+                  "neutral_citation": "2016 ABCA 62",
+                  "style_of_cause": null,
+                  "context": "2016 ABCA 89 at para. 19 (Alta. C.A.); v. Alberta College of Social Workers, [2017] A.J. No. 19, 2017 ABCA 11 at para. 1 (Alta. C.A.); for fast track appeals, see, for example: , [2016] A.J. No. 210, 2016 ABCA 62 at para. 2 (Alta. Bacon v. Gullberg C.A.).\n• the appellant fails to file a factum on time (rules 14"
+                },
+                {
+                  "neutral_citation": "2014 ABCA 452",
+                  "style_of_cause": "Coleman v. Coleman",
+                  "context": "a factum on time (rules 14.23(1), 14.64(b));\n• the standard appeal is not placed on the Civil Appeal Hearing List within stipulated periods (rule 14.64(c)); Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 21, footnote 4 (Alta. C.A.). or • a fast track appeal has not been placed on the Civil App"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.65",
+          "title": "Restoring appeals",
+          "text": "(1) An appeal or application for permission to appeal that has been struck by operation of these rules or the provisions of any order, or by failure of any party to appear when required, may be restored (a) with the filed written consent of the parties or by order of a single appeal judge on application under rule 14.47 [Application to restore an appeal], and (b) on the payment of the fee for an application to restore an appeal in Schedule B.\n(2) An order or written consent restoring an appeal must set deadlines and directions for the filing of any outstanding materials, and if the appellant fails to comply with any of those deadlines or directions, the appeal is deemed to have been struck again.\n(3) An appeal or application is deemed to have been abandoned if no application to restore an appeal or application for permission to appeal has been filed, served and granted (a) for a standard appeal, within 6 months after having been struck, dismissed or deemed abandoned, and (b) for a fast track appeal, within 3 months after having been struck, dismissed or deemed abandoned.",
+          "sentences": [
+            "(1) An appeal or application for permission to appeal that has been struck by operation of these rules or the provisions of any order, or by failure of any party to appear when required, may be restored",
+            "(a) with the filed written consent of the parties or by order of a single appeal judge on application under rule 14.47 [Application to restore an appeal], and",
+            "(b) on the payment of the fee for an application to restore an appeal in Schedule B.",
+            "(2) An order or written consent restoring an appeal must set deadlines and directions for the filing of any outstanding materials, and if the appellant fails to comply with any of those deadlines or directions, the appeal is deemed to have been struck again.",
+            "(3) An appeal or application is deemed to have been abandoned if no application to restore an appeal or application for permission to appeal has been filed, served and granted",
+            "(a) for a standard appeal, within 6 months after having been struck, dismissed or deemed abandoned, and",
+            "(b) for a fast track appeal, within 3 months after having been struck, dismissed or deemed abandoned."
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.66",
+          "title": "Discontinuance",
+          "text": "(1) The appellant may discontinue the appeal by filing and serving a notice to discontinue in Form AP-4, and the respondent is entitled to a costs award for having responded to the appeal.\n(2) The discontinuance of an appeal does not operate as a discontinuance of a cross appeal.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "(1) The appellant may discontinue the appeal by filing and serving a notice to discontinue in Form AP-4, and the respondent is entitled to a costs award for having responded to the appeal.",
+            "(2) The discontinuance of an appeal does not operate as a discontinuance of a cross appeal. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Once an appeal is discontinued, the party who filed the appeal may not take another step to advance it. Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 22, footnote 9 (Alta. C.A.).\nSubdivision 7: SECURITY FOR COSTS",
+              "sentences": [
+                "Once an appeal is discontinued, the party who filed the appeal may not take another step to advance it.",
+                "Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 22, footnote 9 (Alta. C.A.).",
+                "Subdivision 7: SECURITY FOR COSTS"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2014 ABCA 452",
+                  "style_of_cause": "Coleman v. Coleman",
+                  "context": "Once an appeal is discontinued, the party who filed the appeal may not take another step to advance it. Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 22, footnote 9 (Alta. C.A.).\nSubdivision 7: SECURITY FOR COSTS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.67",
+          "title": "Security for costs",
+          "text": "(1) A single appeal judge may order a party to provide security for payment of a costs award pursuant to Part 4, [Managing Litigation]\n[Security for Payment of Costs Award]",
+          "sentences": [
+            "(1) A single appeal judge may order a party to provide security for payment of a costs award pursuant to Part 4, [Managing Litigation] [Security for Payment of Costs Award]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        }
+      ]
+    },
+    {
+      "type": "Division",
+      "heading": "Division 6 – DECIDING APPEALS AND APPLICATIONS",
+      "rules": [
+        {
+          "number": "14.68",
+          "title": "No stay of enforcement",
+          "text": "Unless otherwise ordered under rule 14.48 [Stay pending appeal] or provided by law, the filing of an appeal or an application for permission to appeal does not operate as a stay of proceedings or enforcement of the decision under appeal. of the principles and constitutionality of appellate security for costs, see Trisura Guarantee Insurance v.\nDuchnij, et. al., [2021] A.J. No. 290, 2021 ABCA 78 (Alta. C.A.).",
+          "sentences": [
+            "Unless otherwise ordered under rule 14.48 [Stay pending appeal] or provided by law, the filing of an appeal or an application for permission to appeal does not operate as a stay of proceedings or enforcement of the decision under appeal. of the principles and constitutionality of appellate security for costs, see Trisura Guarantee Insurance v. Duchnij, et. al., [2021] A.J. No. 290, 2021 ABCA 78 (Alta. C.A.)."
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2021 ABCA 78",
+              "style_of_cause": null,
+              "context": "eedings or enforcement of the decision under appeal. of the principles and constitutionality of appellate security for costs, see Trisura Guarantee Insurance v.\nDuchnij, et. al., [2021] A.J. No. 290, 2021 ABCA 78 (Alta. C.A.)."
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.69",
+          "title": "Intermediate acts valid",
+          "text": "Unless otherwise ordered by the court appealed from, an appeal does not invalidate any intermediate act or proceed- ing taken.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "Unless otherwise ordered by the court appealed from, an appeal does not invalidate any intermediate act or proceed- ing taken. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Applying for a stay does not “invalidate any intermediate act or proceeding taken”, meaning that if enforcement steps or other steps are taken in the interim, they are valid. Amik Oilfield Equipment & Rentals Ltd. v. Beaumont Energy Inc., [2017] A.J. No. 1042, 2017 ABCA 327 at para. 13 (Alta. C.A.).\nSubdivision 2: BASIS ON WHICH APPEALS ARE DECIDED",
+              "sentences": [
+                "Applying for a stay does not “invalidate any intermediate act or proceeding taken”, meaning that if enforcement steps or other steps are taken in the interim, they are valid.",
+                "Amik Oilfield Equipment & Rentals Ltd. v. Beaumont Energy Inc., [2017] A.J. No. 1042, 2017 ABCA 327 at para. 13 (Alta. C.A.).",
+                "Subdivision 2: BASIS ON WHICH APPEALS ARE DECIDED"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2017 ABCA 327",
+                  "style_of_cause": "Rentals Ltd. v. Beaumont Energy Inc.",
+                  "context": "or proceeding taken”, meaning that if enforcement steps or other steps are taken in the interim, they are valid. Amik Oilfield Equipment & Rentals Ltd. v. Beaumont Energy Inc., [2017] A.J. No. 1042, 2017 ABCA 327 at para. 13 (Alta. C.A.).\nSubdivision 2: BASIS ON WHICH APPEALS ARE DECIDED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.70",
+          "title": "No new evidence without order",
+          "text": "Unless an order is granted under rule 14.45 permitting the reliance on new [Application to admit new evidence] evidence, appeals will be decided on the record before the court appealed from.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "Unless an order is granted under rule 14.45 permitting the reliance on new [Application to admit new evidence] evidence, appeals will be decided on the record before the court appealed from. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "“Rule 14.70 ... states that appeals must be determined on the basis of the record of the proceedings below.” Fraser-Tabak v. Tabak, [2015] A.J. No. 1392, 2015 ABCA 403 at para. 2 (Alta. C.A.). Material which was not entered as evidence in the Rule 14.70 does not give judges discretion to include new evidence in the record before",
+              "sentences": [
+                "“Rule 14.70 ... states that appeals must be determined on the basis of the record of the proceedings below.” Fraser-Tabak v. Tabak, [2015] A.J. No. 1392, 2015 ABCA 403 at para. 2 (Alta. C.A.).",
+                "Material which was not entered as evidence in the Rule 14.70 does not give judges discretion to include new evidence in the record before"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2015 ABCA 403",
+                  "style_of_cause": "Fraser-Tabak v. Tabak",
+                  "context": "“Rule 14.70 ... states that appeals must be determined on the basis of the record of the proceedings below.” Fraser-Tabak v. Tabak, [2015] A.J. No. 1392, 2015 ABCA 403 at para. 2 (Alta. C.A.). Material which was not entered as evidence in the Rule 14.70 does not give"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.71",
+          "title": "Interlocutory decisions",
+          "text": "An interlocutory order of the court appealed from does not restrict the ability of the Court of Appeal to decide an appeal, despite there having been no appeal from the interlocutory order.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "An interlocutory order of the court appealed from does not restrict the ability of the Court of Appeal to decide an appeal, despite there having been no appeal from the interlocutory order. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.72",
+          "title": "Binding precedents",
+          "text": "Unless permission has been granted under rule 14.46 by a panel of the Court of [Application to reconsider a previous decision]\nAppeal, no party may argue that a prior precedential decision of the Court should be reconsidered.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "Unless permission has been granted under rule 14.46 by a panel of the Court of [Application to reconsider a previous decision] Appeal, no party may argue that a prior precedential decision of the Court should be reconsidered. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [
+            "This Rule does not prevent a party from arguing that a prior precedential decision has been overruled by a decision of the Supreme Court of Canada, or by a legislative change. It also does not prevent argument about the ratio decidendi of the prior decision, nor whether it can be distinguished on recognized grounds."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Refer to rule 14.46 [Application to reconsider a previous decision].\nAbsent making an application for reconsideration under this rule, the court is bound by past precedent and cannot reconsider its own decisions.\nSubdivision 3: POWERS OF THE COURT",
+              "sentences": [
+                "Refer to rule 14.46 [Application to reconsider a previous decision].",
+                "Absent making an application for reconsideration under this rule, the court is bound by past precedent and cannot reconsider its own decisions. Subdivision 3: POWERS OF THE COURT"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "14.73",
+          "title": "Procedural powers",
+          "text": "In addition to the powers provided for in other 6.26 , and [Inspection or examination of property]\n(f) hear any appeal or application electronically under rule 6.10 [Electronic hearing].\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "In addition to the powers provided for in other 6.26 , and [Inspection or examination of property]",
+            "(f) hear any appeal or application electronically under rule 6.10 [Electronic hearing]. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.74",
+          "title": "Application to dismiss an appeal",
+          "text": "On application, a panel of the Court of Appeal may dismiss all or part of an appeal and may make any order that the circumstances require, including a costs award, if (a) the Court of Appeal has no jurisdiction, (b) the appeal is moot, (c) the appeal is frivolous, vexatious, without merit or improper, or (d) the appeal or any step in the appeal is an abuse of process.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "On application, a panel of the Court of Appeal may dismiss all or part of an appeal and may make any order that the circumstances require, including a costs award, if",
+            "(a) the Court of Appeal has no jurisdiction",
+            "(b) the appeal is moot",
+            "(c) the appeal is frivolous, vexatious, without merit or improper, or",
+            "(d) the appeal or any step in the appeal is an abuse of process. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "This is the appellate equivalent of rule 3.68. Under rule 14.74, “Apanel of the Court ofAppeal may dismiss an appeal if the court has no jurisdiction to hear the appeal or the appeal is moot, frivolous, vexatious, without merit, improper or an abuse of process.” Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 21, footnote 5 (Alta. C.A.).\n“[A]part from the narrow circumstances set out in rule 14.74, the Court ofAppeal does not have any procedure for the ‘summary determination’ of appeals”. CCS Corp. v. Secure Energy Services Inc., [2017] A.J. No. 834, 2017 ABCA 260 at para. 8 (Alta. C.A.), citing , [2015] A.J. No. 617, 2015 ABCA 191 at Boyd v. Alberta (Workers’ Compensation Board) para. 9 (Alta. C.A.). A single judge may not dismiss an appeal on the basis that it has no merit; applications which deal with determination",
+              "sentences": [
+                "This is the appellate equivalent of rule 3.68.",
+                "Under rule 14.74, “Apanel of the Court ofAppeal may dismiss an appeal if the court has no jurisdiction to hear the appeal or the appeal is moot, frivolous, vexatious, without merit, improper or an abuse of process.” Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 21, footnote 5 (Alta. C.A.). “[A]part from the narrow circumstances set out in rule 14.74, the Court ofAppeal does not have any procedure for the ‘summary determination’ of appeals”.",
+                "CCS Corp. v. Secure Energy Services Inc., [2017] A.J. No. 834, 2017 ABCA 260 at para. 8 (Alta. C.A.), citing , [2015] A.J. No. 617, 2015 ABCA 191 at Boyd v. Alberta (Workers’ Compensation Board) para. 9 (Alta. C.A.).",
+                "A single judge may not dismiss an appeal on the basis that it has no merit",
+                "applications which deal with determination"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2014 ABCA 452",
+                  "style_of_cause": "Coleman v. Coleman",
+                  "context": "s an appeal if the court has no jurisdiction to hear the appeal or the appeal is moot, frivolous, vexatious, without merit, improper or an abuse of process.” Coleman v. Coleman, [2014] A.J. No. 1443, 2014 ABCA 452 at para. 21, footnote 5 (Alta. C.A.).\n“[A]part from the narrow circumstances set out in rule 14.74,"
+                },
+                {
+                  "neutral_citation": "2017 ABCA 260",
+                  "style_of_cause": "CCS Corp. v. Secure Energy Services Inc.",
+                  "context": "narrow circumstances set out in rule 14.74, the Court ofAppeal does not have any procedure for the ‘summary determination’ of appeals”. CCS Corp. v. Secure Energy Services Inc., [2017] A.J. No. 834, 2017 ABCA 260 at para. 8 (Alta. C.A.), citing , [2015] A.J. No. 617, 2015 ABCA 191 at Boyd v. Alberta (Workers’ C"
+                },
+                {
+                  "neutral_citation": "2015 ABCA 191",
+                  "style_of_cause": "CCS Corp. v. Secure Energy Services Inc.",
+                  "context": "not have any procedure for the ‘summary determination’ of appeals”. CCS Corp. v. Secure Energy Services Inc., [2017] A.J. No. 834, 2017 ABCA 260 at para. 8 (Alta. C.A.), citing , [2015] A.J. No. 617, 2015 ABCA 191 at Boyd v. Alberta (Workers’ Compensation Board) para. 9 (Alta. C.A.). A single judge may not dismi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.75",
+          "title": "Disposing of appeals",
+          "text": "(1) Unless an enactment otherwise provides, when deciding an appeal, the Court of Appeal may (a) receive further evidence, (b) draw inferences of fact, (c) give any judgment or order that ought to have been made by the court appealed from, (d) direct the resumption or continuation of any proceeding before the court appealed from, (e) vary or reverse a finding on any question, without interfering with R. 14.74 (2) The Court of Appeal may dismiss an appeal despite an error of law or fact, a misdirection or an erroneous ruling on the evidence where (a) no substantial wrong or miscarriage of justice has resulted, (b) the decision would have been the same despite the error, or (c) despite any irregularity, no significant prejudice has been experi- enced by any party.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "(1) Unless an enactment otherwise provides, when deciding an appeal, the Court of Appeal may",
+            "(a) receive further evidence",
+            "(b) draw inferences of fact",
+            "(c) give any judgment or order that ought to have been made by the court appealed from",
+            "(d) direct the resumption or continuation of any proceeding before the court appealed from",
+            "(e) vary or reverse a finding on any question, without interfering with R. 14.74",
+            "(2) The Court of Appeal may dismiss an appeal despite an error of law or fact, a misdirection or an erroneous ruling on the evidence where",
+            "(a) no substantial wrong or miscarriage of justice has resulted",
+            "(b) the decision would have been the same despite the error, or",
+            "(c) despite any irregularity, no significant prejudice has been experi- enced by any party. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The court has a broad discretion in determining appeals. This discretion gives the court “several options on appeal where there is no explicit finding at trial of a critical fact.” Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.). They include:\n(a) remitting the matter back to the trial judge to decide the missing issue on the existing record ([rule] 14.75(1)(d));\n(b) remitting the matter back for a new trial limited to that issue ([rules]\n14.75(1)(d) and (f)), or (c) sending the entire cause of action back for a new trial ([rule] 14.75(1)(f)). Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.), citing , [2012] S.C.J. No. 44, 2012 SCC 44 at paras. 41-42 (S.C.C.).\nGenerally, it is “desirable for the Court of Appeal to attempt to resolve the issue on the existing record, if that is possible without prejudicing either party.” Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.). Appellate courts may, and should, make a fresh assessment when they find error and a fresh assessment on the record is appropriate; whether a decision should be made on the record or a new trial ordered depends on the nature of the issue, completeness of the record and issues such as whether “the missing finding depends on findings of fact or credibility.” Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.).",
+              "sentences": [
+                "The court has a broad discretion in determining appeals. This discretion gives the court “several options on appeal where there is no explicit finding at trial of a critical fact.” Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.).",
+                "They include:",
+                "(a) remitting the matter back to the trial judge to decide the missing issue on the existing record ([rule] 14.75(1)(d))",
+                "(b) remitting the matter back for a new trial limited to that issue ([rules] 14.75(1)(d) and (f)), or",
+                "(c) sending the entire cause of action back for a new trial ([rule] 14.75(1)(f)).",
+                "Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.), citing , [2012] S.C.J. No. 44, 2012 SCC 44 at paras. 41-42 (S.C.C.).",
+                "Generally, it is “desirable for the Court of Appeal to attempt to resolve the issue on the existing record, if that is possible without prejudicing either party.” Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.).",
+                "Appellate courts may, and should, make a fresh assessment when they find error and a fresh assessment on the record is appropriate",
+                "whether a decision should be made on the record or a new trial ordered depends on the nature of the issue, completeness of the record and issues such as whether “the missing finding depends on findings of fact or credibility.” Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2017 ABCA 99",
+                  "style_of_cause": "Mikkelsen v. Truman Development Corp.",
+                  "context": "mining appeals. This discretion gives the court “several options on appeal where there is no explicit finding at trial of a critical fact.” Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.). They include:\n(a) remitting the matter back to the trial judge to decide"
+                },
+                {
+                  "neutral_citation": "2012 SCC 44",
+                  "style_of_cause": "Mikkelsen v. Truman Development Corp.",
+                  "context": "the entire cause of action back for a new trial ([rule] 14.75(1)(f)). Mikkelsen v. Truman Development Corp., [2017] A.J. No. 287, 2017 ABCA 99 at para. 36 (Alta. C.A.), citing , [2012] S.C.J. No. 44, 2012 SCC 44 at paras. 41-42 (S.C.C.).\nGenerally, it is “desirable for the Court of Appeal to attempt to resolve"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.76",
+          "title": "Judgment by consent",
+          "text": "Subject to rule 3.35 [Judgment or order by agreement], a respondent may consent to the reversal or variation of the decision under appeal.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]\nR. v. Bellusci",
+          "sentences": [
+            "Subject to rule 3.35 [Judgment or order by agreement], a respondent may consent to the reversal or variation of the decision under appeal. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4] R. v. Bellusci"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.77",
+          "title": "Preparation and signature of judgments and orders",
+          "text": "(1) Unless otherwise directed, Part 9 , Division 1 [Judgments and Orders]\n[Preparation and Entry of Judgments and Orders] applies to the preparation and entry of judgments and orders of the Court of Appeal.\n(2) The Court of Appeal may authorize a single appeal judge or case management officer to settle the form of any order or judgment.\n(3) A judgment or order may be signed by the judge or the panel who granted it or by the Registrar.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4; Alta. Reg. 61/2023, s. 25]",
+          "sentences": [
+            "(1) Unless otherwise directed, Part 9 , Division 1 [Judgments and Orders] [Preparation and Entry of Judgments and Orders] applies to the preparation and entry of judgments and orders of the Court of Appeal.",
+            "(2) The Court of Appeal may authorize a single appeal judge or case management officer to settle the form of any order or judgment.",
+            "(3) A judgment or order may be signed by the judge or the panel who granted it or by the Registrar. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4",
+            "Alta. Reg. 61/2023, s. 25]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The respondent may draft an order and submit it for filing without the applicant’s approval pursuant to rules 9.4(2)(c) and 14.77(1). Chutskoff Estate v. Bonora Hu , [2014] A.J. No. 1424, 2014 ABCA 444 at para. 20 (Alta. C.A.); v. Alberta (Law Enforcement Review Board), [2017] A.J. No. 557, 2017 ABCA 170 at para. 12 (Alta. C.A.).",
+              "sentences": [
+                "The respondent may draft an order and submit it for filing without the applicant’s approval pursuant to rules 9.4(2)(c) and 14.77(1).",
+                "Chutskoff Estate v. Bonora Hu , [2014] A.J. No. 1424, 2014 ABCA 444 at para. 20 (Alta. C.A.)",
+                "v. Alberta (Law Enforcement Review Board), [2017] A.J. No. 557, 2017 ABCA 170 at para. 12 (Alta. C.A.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2014 ABCA 444",
+                  "style_of_cause": "Chutskoff Estate v. Bonora Hu",
+                  "context": "The respondent may draft an order and submit it for filing without the applicant’s approval pursuant to rules 9.4(2)(c) and 14.77(1). Chutskoff Estate v. Bonora Hu , [2014] A.J. No. 1424, 2014 ABCA 444 at para. 20 (Alta. C.A.); v. Alberta (Law Enforcement Review Board), [2017] A.J. No. 557, 2017 ABCA"
+                },
+                {
+                  "neutral_citation": "2017 ABCA 170",
+                  "style_of_cause": "Estate v. Bonora Hu",
+                  "context": "pursuant to rules 9.4(2)(c) and 14.77(1). Chutskoff Estate v. Bonora Hu , [2014] A.J. No. 1424, 2014 ABCA 444 at para. 20 (Alta. C.A.); v. Alberta (Law Enforcement Review Board), [2017] A.J. No. 557, 2017 ABCA 170 at para. 12 (Alta. C.A.)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.78",
+          "title": "Entry of judgments and orders",
+          "text": "(1) The Registrar must enter all judgments and orders on the court file, showing the date of entry, and subject to rule 9.6 [Effective date of judgments and orders] the judgment is effective as if it were a judgment or order of the court appealed from.\n(2) Any interested person may file a copy of the Court’s judgment in the court appealed from.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "(1) The Registrar must enter all judgments and orders on the court file, showing the date of entry, and subject to rule 9.6 [Effective date of judgments and orders] the judgment is effective as if it were a judgment or order of the court appealed from.",
+            "(2) Any interested person may file a copy of the Court’s judgment in the court appealed from. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "It is incorrect that an oral decision of the Court of Appeal does not need a formal order, pursuant both to long-established practice and to rule 14.78.274",
+              "sentences": [
+                "It is incorrect that an oral decision of the Court of Appeal does not need a formal order, pursuant both to long-established practice and to rule 14.78.274"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "14.79",
+          "title": "Supreme Court of Canada judgments",
+          "text": "The Registrar must (a) enter any judgment granted by the Supreme Court of Canada on the file of the Court of Appeal, showing the date of entry, and (b) send a copy of the Supreme Court judgment to the clerk of the court appealed from for filing in that court, and the judgment may be acted on as if it were a judgment of that court.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "The Registrar must",
+            "(a) enter any judgment granted by the Supreme Court of Canada on the file of the Court of Appeal, showing the date of entry, and",
+            "(b) send a copy of the Supreme Court judgment to the clerk of the court appealed from for filing in that court, and the judgment may be acted on as if it were a judgment of that court. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The purpose of this rule is to ensure completeness and accuracy of the court record both in the Court of Appeal and the lower court affected by the judgment of the Supreme Court of Canada.",
+              "sentences": [
+                "The purpose of this rule is to ensure completeness and accuracy of the court record both in the Court of Appeal and the lower court affected by the judgment of the Supreme Court of Canada."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "14.80",
+          "title": "Interest on judgments",
+          "text": "If a decision awarding a sum of money is reversed or varied, interest is payable on the amount of the appeal judgment from the date that the decision under appeal was pronounced.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "If a decision awarding a sum of money is reversed or varied, interest is payable on the amount of the appeal judgment from the date that the decision under appeal was pronounced. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "This rule makes it clear that the interest payable on a decision is calculated from the date of the original decision but at the amount set on appeal, where the Court of Appeal reverses or varies the amount payable.",
+              "sentences": [
+                "This rule makes it clear that the interest payable on a decision is calculated from the date of the original decision but at the amount set on appeal, where the Court of Appeal reverses or varies the amount payable."
+              ],
+              "citations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Division",
+      "heading": "Division 7 – GENERAL RULES FOR APPEALS",
+      "rules": [
+        {
+          "number": "14.81",
+          "title": "Service of appeal documents",
+          "text": "(1) A notice of appeal and an application for permission to appeal may be served (a) at the address for service provided in the court appealed from as referred to in rule 11.15 [Service on person providing an address for service] or rule 11.17 , or [Service on lawyer of record]\n(b) otherwise as set out in Part 11, Division 2 [Service of Documents]\n[Service of Commencement Documents in Alberta] or Part 11, [Service of Documents]\n[Service of Documents Outside Alberta]",
+          "sentences": [
+            "(1) A notice of appeal and an application for permission to appeal may be served",
+            "(a) at the address for service provided in the court appealed from as referred to in rule 11.15 [Service on person providing an address for service] or rule 11.17 , or [Service on lawyer of record]",
+            "(b) otherwise as set out in Part 11, Division 2 [Service of Documents] [Service of Commencement Documents in Alberta] or Part 11, [Service of Documents] [Service of Documents Outside Alberta]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        }
+      ]
+    },
+    {
+      "type": "Division",
+      "heading": "Division 7 – GENERAL RULES FOR APPEALS",
+      "rules": [
+        {
+          "number": "14.82",
+          "title": "Lawyer of record and litigation representative",
+          "text": "Unless otherwise ordered, (a) the lawyer of record in the court appealed from continues as the lawyer of record on the appeal until ceasing to be so in accordance with Part 2, Division 4, [The Parties to Litigation]\n[Lawyer of Record] and (b) subject to rule 2.21, [Litigation representative: termination, replace- [The Parties to Litigation] continues in that capacity in the appeal.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "Unless otherwise ordered",
+            "(a) the lawyer of record in the court appealed from continues as the lawyer of record on the appeal until ceasing to be so in accordance with Part 2, Division 4, [The Parties to Litigation] [Lawyer of Record] and",
+            "(b) subject to rule 2.21, [Litigation representative: termination, replace- [The Parties to Litigation] continues in that capacity in the appeal. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 14.82 “mandates a formal process for withdrawal of counsel.” R. v. Johannesson, [2016] A.J. No. 249, 2016 ABQB 127 at para. 11 (Alta. Q.B.).\nIt “provides that the lawyer of record in the court appealed from continues as the lawyer of record on the appeal until ceasing to be so in accordance with Part 2, Division 4, of the Rules”, which sets out the process required for removal from the record. R. v. Johannesson, [2016] A.J. No. 249, 2016 ABQB 127 at para. 46 (Alta. Q.B.).\nSubdivision 2: RESTRICTED ACCESS ORDERS",
+              "sentences": [
+                "Rule 14.82 “mandates a formal process for withdrawal of counsel.” R. v. Johannesson, [2016] A.J. No. 249, 2016 ABQB 127 at para. 11 (Alta. Q.B.).",
+                "It “provides that the lawyer of record in the court appealed from continues as the lawyer of record on the appeal until ceasing to be so in accordance with Part 2, Division 4, of the Rules”, which sets out the process required for removal from the record.",
+                "R. v. Johannesson, [2016] A.J. No. 249, 2016 ABQB 127 at para. 46 (Alta. Q.B.).",
+                "Subdivision 2: RESTRICTED ACCESS ORDERS"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2016 ABQB 127",
+                  "style_of_cause": "R. v. Johannesson",
+                  "context": "Rule 14.82 “mandates a formal process for withdrawal of counsel.” R. v. Johannesson, [2016] A.J. No. 249, 2016 ABQB 127 at para. 11 (Alta. Q.B.).\nIt “provides that the lawyer of record in the court appealed from continu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "14.83",
+          "title": "Orders restricting access to appeal proceedings",
+          "text": "(1) Arestricted access order made by the court appealed from continues in force and applies to the appeal or an application for permission to appeal until otherwise ordered by a single appeal judge.\n(2) A single appeal judge may make a restricted court access order under",
+          "sentences": [
+            "(1) Arestricted access order made by the court appealed from continues in force and applies to the appeal or an application for permission to appeal until otherwise ordered by a single appeal judge.",
+            "(2) A single appeal judge may make a restricted court access order under"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.84",
+          "title": "Place of filing",
+          "text": "Unless otherwise directed, an appeal must be carried on, and all material must be filed, at the office of the Registrar of the Court of [Filing a notice of appeal]\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "Unless otherwise directed, an appeal must be carried on, and all material must be filed, at the office of the Registrar of the Court of [Filing a notice of appeal] *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.85",
+          "title": "Method of filing",
+          "text": "The Registrar must assign an appeal number to each appeal and endorse that number and the date of filing on any document filed in the appeal.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "The Registrar must assign an appeal number to each appeal and endorse that number and the date of filing on any document filed in the appeal. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.86",
+          "title": "Non-compliant appeal materials",
+          "text": "Appeal materials may, by order of a single appeal judge or by direction of a case management officer, be dispensed with, varied as to form or amended in accordance with rule 13.17 [Amendments to records other than commencement documents, pleadings or affidavits].\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "Appeal materials may, by order of a single appeal judge or by direction of a case management officer, be dispensed with, varied as to form or amended in accordance with rule 13.17 [Amendments to records other than commencement documents, pleadings or affidavits]. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "For ease of reference, rule 13.17 states:",
+              "sentences": [
+                "For ease of reference, rule 13.17 states:"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "14.87",
+          "title": "Requirements for all documents",
+          "text": "(1) All materials prepared for an appeal must (a) be succinct, legible and divided into a single series of consecutively numbered paragraphs, (b) include the names of the parties in a style of cause in Form AP-6, (i) as set out in the notice of appeal, unless amended, (ii) listed in the same order in which they were listed in the style of cause in the court appealed from, and (iii) including the status of the party in the appeal and in the court appealed from, (c) identify the nature of the material, the name of the party filing it, and that party’s status on the appeal, (d) provide an address for service, (e) Repealed AR 61/2023 s. 26.\n(f) Repealed AR 61/2023 s. 26.\n(g) be 8.5\" x 11\" in size, and (h) unless otherwise permitted by a case management officer, be filed in electronic form in accordance with the Court of Appeal of Alberta Practice Direction — Electronic Filing, and (i) include an electronic bookmark to (i) the cover page, listing the name of the document, the name of the party filing the document, the appeal number and a brief (2) The Appeal Record, factums, Extracts of Key Evidence and Books of Authorities must have a cover page in Form AP 5 that include the name of the Court of Appeal, the location of the office of the Registrar of the Court of Appeal and the appeal number assigned by the Registrar.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4; Alta. Reg. 61/2023, s. 26]\nSubdivision 4: COSTS OF APPEALS",
+          "sentences": [
+            "(1) All materials prepared for an appeal must",
+            "(a) be succinct, legible and divided into a single series of consecutively numbered paragraphs",
+            "(b) include the names of the parties in a style of cause in Form AP-6",
+            "(i) as set out in the notice of appeal, unless amended",
+            "(ii) listed in the same order in which they were listed in the style of cause in the court appealed from, and",
+            "(iii) including the status of the party in the appeal and in the court appealed from",
+            "(c) identify the nature of the material, the name of the party filing it, and that party’s status on the appeal",
+            "(d) provide an address for service",
+            "(e) Repealed AR 61/2023 s. 26.",
+            "(f) Repealed AR 61/2023 s. 26.",
+            "(g) be 8.5\" x 11\" in size, and",
+            "(h) unless otherwise permitted by a case management officer, be filed in electronic form in accordance with the Court of Appeal of Alberta Practice Direction — Electronic Filing, and",
+            "(i) include an electronic bookmark to",
+            "(i) the cover page, listing the name of the document, the name of the party filing the document, the appeal number and a brief",
+            "(2) The Appeal Record, factums, Extracts of Key Evidence and Books of Authorities must have a cover page in Form AP 5 that include the name of the Court of Appeal, the location of the office of the Registrar of the Court of Appeal and the appeal number assigned by the Registrar. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4",
+            "Alta. Reg. 61/2023, s. 26] Subdivision 4: COSTS OF APPEALS"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "14.88",
+          "title": "Cost awards",
+          "text": "(1) Unless otherwise ordered, the successful party in an appeal or an application is entitled to a costs award against the unsuccessful party.\n(2) The provisions of Part 10, [Lawyer’s Charges, Recoverable Costs of Litigation, and Sanctions]\n[Recoverable Costs of Litigation]\n, Division 2 and Schedule C apply to appeals.\n(3) Unless otherwise ordered, the scale of costs in an appeal shall be the same as the scale that applies to the order or judgment appealed from.\n\n*[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021); Alta.*\n\nReg. 41/2014, s. 4]",
+          "sentences": [
+            "(1) Unless otherwise ordered, the successful party in an appeal or an application is entitled to a costs award against the unsuccessful party.",
+            "(2) The provisions of Part 10, [Lawyer’s Charges, Recoverable Costs of Litigation, and Sanctions] [Recoverable Costs of Litigation] , Division 2 and Schedule C apply to appeals.",
+            "(3) Unless otherwise ordered, the scale of costs in an appeal shall be the same as the scale that applies to the order or judgment appealed from. *[Alta. Reg. 124/2010, r. 14.1 effective November 1, 2010 (Alta. Gaz. May 31, 2021)",
+            "Alta.* Reg. 41/2014, s. 4]"
+          ],
+          "citations": [],
+          "info_notes": [
+            "Reasons for judgment of the Court of Appeal will not make any specific direction about costs unless an exception is to be made to the presumption in rule 14.88(1) that the successful party is entitled to costs of the appeal. Any request for a specific direction as to costs must be made within two months of the pronouncement of the decision."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "This rule “conveys a general policy that the unsuccessful party should expect to pay costs.” Turner v. Bell Mobility Inc., [2016] A.J. No. 631, 2016 ABCA 188 at para. 5 (Alta. C.A.). Substantial success on appeal can also be the basis of an award of costs. A split result may result in no costs being awarded to either party, or in rare cases may result in the court apportioning costs between parties on an issue-by-issue basis. The number and nature of the issues on appeal are relevant to deciding who was substantially successful. Steam Whistle Brewing Inc. v. Alberta (Gaming and Liquor Commission), [2020] A.J. No. 590, Courts deal with costs of appeals based on certain well-established principles:",
+              "sentences": [
+                "This rule “conveys a general policy that the unsuccessful party should expect to pay costs.” Turner v. Bell Mobility Inc., [2016] A.J. No. 631, 2016 ABCA 188 at para. 5 (Alta. C.A.).",
+                "Substantial success on appeal can also be the basis of an award of costs. A split result may result in no costs being awarded to either party, or in rare cases may result in the court apportioning costs between parties on an issue-by-issue basis. The number and nature of the issues on appeal are relevant to deciding who was substantially successful.",
+                "Steam Whistle Brewing Inc. v. Alberta (Gaming and Liquor Commission), [2020] A.J. No. 590, Courts deal with costs of appeals based on certain well-established principles:"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2016 ABCA 188",
+                  "style_of_cause": "Turner v. Bell Mobility Inc.",
+                  "context": "This rule “conveys a general policy that the unsuccessful party should expect to pay costs.” Turner v. Bell Mobility Inc., [2016] A.J. No. 631, 2016 ABCA 188 at para. 5 (Alta. C.A.). Substantial success on appeal can also be the basis of an award of costs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

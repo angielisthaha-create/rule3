@@ -1,0 +1,257 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.18",
+  "title": {
+    "official": "Notice to obtain record of proceedings",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.18(1)  An originating applicant for judicial review who seeks an\norder to set aside a decision or act must include with the originating\napplication a notice in Form 8, addressed to the person or body\nwho made or possesses the record of proceedings on which the\ndecision or act sought to be set aside is based, to send the record of\nproceedings to the court clerk named in the notice.\n(2)  The notice must require the following to be sent or an\nexplanation to be provided of why an item cannot be sent:\n(a) the written record, if any, of the decision or act that is the\nsubject of the originating application for judicial review,\n(b) the reasons given for the decision or act, if any,\n(c) the document which started the proceeding,\n(d) the evidence and exhibits filed with the person or body, if\nany, and\n(e) anything else relevant to the decision or act in the\npossession of the person or body.\n(3)  The Court may add to, dispense with or vary anything required\nto be sent to the court clerk under this rule.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "0e8daa1de3c0c2fc9670d3fae258d4372a7d671bcfda8c7eb30110bacb0147ef"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          56,
+          57
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Notice to Obtain Record of Proceedings",
+      "operative_text_raw": null,
+      "operative_text_sha256": "22beddcecb24f1684915ff190dbc29fa1471d90447b75d7a04c88b7df711f697",
+      "defined_terms": "Court, court clerk At one time, the writ ofcertiorarihad two effects.First, it immediately moved the record (both physically, and notionally the whole proceeding) from the inferior body to the superior court.And second, it led to a hearing at which the superior court would examine the record and ultimately decide whether or not to quash the decision below.The first of those two effects is now covered by Rules 3.18 ff. Where the Originating Application seeks to set aside a decision or act, the applicant has the right and duty to have the inferior body physically send up its record to King's Bench.That is demanded by a special endorsement on the Originating Application, and its service on the inferior body.Where the Originating Application does not seek to set aside a decision, but some other relief (e.g.prohibition), R.3.20 allows King's Bench to order the record below sent up. Generally speaking, the scope of relevance for the return is broad, and is not confined to matters listed in R.3.18(2). What constitutes the face of the record is a very important question, with several implications in administrative law.R.3.18(2) removes many of the technical mysteries of the common law in that regard, and says that the record consists of the originating document, the decision, the 6Blair v. Knorr & Assoc.2010 ABQB 218, 95 CPC(6th) 275. 7Normko Res.v. Min.of Environment & Parks2022 ABCA 388, Edm 2203 0131 AC (Nov 30). 8See R.3.19n. 1On judicial review of arbitration under a collection agreement, the\"record\" includes the dissenting arbitrator's and emails may be redacted. reasons, the evidence, and all exhibits filed and anything else relevant.That is very broad.Oral evidence is a problem, but the current cases in Alberta seem to say that it is part of the record if A tribunal or statutory officer should put into the formal Record all papers upon which he, she or it relied in making the decision, which are\"relevant and material\"as defined in R.5.2(1). reasons.The phrase \"touching the matter\"in the old prescribed form removed any doubt:Calg. Health Reg. *v. U.N.A.2008 ABQB 753, 461 AR 382 (¶'s 21-8).Contra,Lethbridge College v.Lethbridge College*Faculty Assn.2008 ABQB 316, 449 AR 106 (¶'s 21-3).Quaere. 2See R.3.19n. 3Anglin v. Chief Electoral Officer2018 ABQB 309, JCE 1703 03014 (Apr 19) (¶'s 10, 56-57, 11) 4See the C.P.E., Chapter 79, Parts Q.1 to Q.3. 5Campbell v. Chief Electoral Officer2018 ABQB 248, JCE 1703 07561/3 (Mar 29) (¶'s 39-48). it has been transcribed, but not part of the record if it has not, and that the inferior body need not transcribe it. Disclosure of anything further and only indirectly relevant to larger issues, would turn judicial review into ordinary litigation, which is not correct.But individuals'personal telephone numbers A return should contain only papers actually before the inferior tribunal, not those before other officers at other stages. In a statutory appeal, with issues of redaction of confidential information, Rr.3.18 to 3.20 can be applied to R.3.14 by analogy under R.1.7. Where the decision-maker relied on advice of a consultant, who only advised and did not decide, the consultant did not have to file a return (record). *Where the tribunal only gives advice to the Minister and does not itself make the final decision, in a judicial review application, the report by the tribunal to the Minister (which by the statute must be published) is not privileged, nor are the accompanying briefing notes, none of this coming from lawyers.Rule 3.18 applies. An application to compel a filing of the tribunal's record (\"the return\") in court may fail if judicial review does not lie against the responding body. *Sending in Certified Record of Proceedings*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-58",
+          "3-59"
+        ],
+        "offset_in_clean_text": [
+          183226,
+          187971
+        ]
+      },
+      "operative_text_note": "same wording as official 3.18(1)-(3) (read by eye) except: in (2) Book A prints 'an explanation of why an item cannot be sent' where the official says 'an explanation to be provided of why an item cannot be sent' ('to be provided' missing); the title in title case ('Notice to Obtain Record of Proceedings'); missing spaces and '*' line marks; the footnote marker '3' after (3). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). This rule's history footnote 3 ('Quite similar to previous 1987 R.753.12 and 1968 R.743(2), new then.') is printed at the top of p.3-58 (line 1535) inside the built 3.17 commentary and is kept verbatim there.",
+      "commentary_review_flag": "Read in full, p.3-58 (line 1539) to p.3-59 (line 1577): rule text, Defined Terms and the whole note (five paragraphs of text and footnotes as printed). The built record holds no commentary field for Book A 3.18: the Defined Terms line and the note are together in the defined_terms field (3,730 characters, nothing dropped) because Book A's extraction prints them together; the text ends with the title and first lines of 3.19 (line 1577). No Related Provisions or information note is printed for 3.18. (1) Wording: (2) omits 'to be provided' (see the text note). (2) Statements read against the official text: 'R.3.20 allows King's Bench to order the record below sent up' where the application does not seek to set aside a decision agrees with official 3.20(1)-(2)(a); 'R.3.18(2) ... says that the record consists of the originating document, the decision, the reasons, the evidence, and all exhibits filed and anything else relevant' agrees with 3.18(2)(a)-(e) (it omits 'if any' and the alternative of an explanation why an item cannot be sent); 'the scope of relevance for the return is broad, and is not confined to matters listed in R.3.18(2)' agrees with 3.18(2)(e) and 3.18(3) (Court may add to, dispense with or vary); 'That is demanded by a special endorsement on the Originating Application' - official 3.18(1) says a notice in Form 8 must be included with the originating application (Form 8 is headed '[Rule 3.18]'); the word 'endorsement' is Book A's; 'relevant and material as defined in R.5.2(1)': official 5.2(1) defines 'relevant and material' only 'For the purposes of this Part' (Part 5), the note applies it to the judicial review record; 'Rr.3.18 to 3.20 can be applied to R.3.14 by analogy under R.1.7' agrees with official 1.7(2) ('may be applied by analogy'); Defined Terms 'Court, court clerk': the Appendix defines both. (3) Pointers: 'See R.3.19n.' (two footnotes) lands (3.19's note); R.3.15 note (p.3-42, lines 1016 and 1034) 'See the annotation to Rr.3.18 and 3.19, infra' and 'special notice to the inferior body under R.3.18' land here; 'C.P.E., Chapter 79, Parts Q.1 to Q.3' points to another work; R.753.12 and R.743(2) (footnote 3) are former rules not in the official text (Book B's quotation from Broda names 'rules 753.12 and 753.13' and 'Rules 743 and 744'). (4) Footnotes: p.3-59 prints two series, '6 Blair v. Knorr & Assoc. 2010 ABQB 218; 7 Normko Res. v. Min. of Environment & Parks 2022 ABCA 388; 8 See R.3.19n.' (line 1555) and '1 ... 5' (lines 1557-1565: arbitrator's 'record'; See R.3.19n.; Anglin v. Chief Electoral Officer 2018 ABQB 309; C.P.E.; Campbell v. Chief Electoral Officer 2018 ABQB 248); which of the printed footnotes go with which sentence is not shown; not counted. The same case Campbell v. Chief Electoral Officer 2018 ABQB 248, JCE 1703 07561/3 (Mar 29) is cited '(¶'s 39-48)' here (p.3-59, line 1565) and '(¶'s 39-45)' in the 3.14 footnote 3 (p.3-32); the paragraph ranges differ. (5) Statements of law (record includes oral evidence only if transcribed; consultant need not file a return; report to the Minister not privileged) and the cases were not checked; Calg. Health Reg. v. U.N.A. 2008 ABQB 753 and 'Contra, Lethbridge College v. Lethbridge College Faculty Assn. 2008 ABQB 316 ... Quaere' are as printed."
+    },
+    "BOOK_B": {
+      "title": "Notice to obtain record of proceedings",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.18:1",
+          "text": "Rule 3.18 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.18. What Constitutes the Record? In Alberta, the constitution of the record is set out in rules 753.12 and 753.13(1) of the Rules of Court… What is included in the record is not definitive due to the phrases “all things touching the matter” in rules 753.12(1), 753.13(1) and “all other papers or documents touching the matter” in rule 753.13(1)(d). In these two rules the words, “all things” or “all papers or documents” are qualified by the words “touching the matter”. Broda v. Edmonton (City) (1989), 102 A.R. 255 (Q.B.), at 258, per Trussler J. And Smith J. said: As was held by Miller J. in A.U.P.E. v. Alberta, [1978] 3 W.W.R. 63 (T.D.), the effect of R. 753.12 and 753.13 is to expand the constituent elements of the record: It seems abundantly clear that Rules 743 and 744 [now R. 753.12 and 753.13] were specifically worded to eliminate the restrictions laid down in the Nat Bell case by broadening the material required to be placed before the reviewing court and placed an obligation on the latter tribunal to examine the evidence wherever relevant to the application. However, Miller J. further qualified the scope of these two rules at p. 7 by stating: It seems to me that the logical way of interpreting the wording of Rules 743 and 744 is that the inferior tribunal should only be compelled to produce what they already have on hand at the time of the certiorari application or that which they are specifically required to produce by statute, regulation or agreement. Alberta (Labour Relations Board) v. I.B.E.W., Local 1007 (1991), 83 Alta. L.R. (2d) 253 at 260 (Q.B.)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_18_001",
+        "part3_part_3_court_actions_006",
+        "part3_rule_3_18_002",
+        "part3_part_3_court_actions_008"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "ce2f9da9d9dad9bf46027887acc60b1e8d3a6e0d5f8a2fa52539e4e0aeb97e4a",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Notice to obtain record of proceedings",
+      "division_heading": "Division 2 – ACTIONS STARTED BY ORIGINATING APPLICATION",
+      "operative_text_raw": null,
+      "operative_text_sha256": "73d64a4e91adbb0019a49472002672783c7bc50836e040038abb6a0ab3427f5a",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The right to give the person or body notice in accordance with this rule in Form  Regular v. Regular, [2016] A.J. No. 1042, 2016 ABQB 570 at para. 6 (Alta. Q.B.), endorsed in Odland v. Odland Sobeys Capital , [2017] A.J. No. 1265, 2017 ABCA 397 paras. 20-23 (Alta. C.A.); and Inc. v. Gulf & Pacific Equities Corp., [2018] A.J. No. 231, 2018 ABQB 151 at paras. 3-19 (Alta. Q.B.). is to compel the record. This rule works in conjunction with rule 3.19.\nMotion to Compel or Return – “A motion to compel or return may fail if judicial review",
+          "citations": [
+            {
+              "neutral_citation": "2016 ABQB 570",
+              "style_of_cause": "Regular v. Regular",
+              "note": "displaced 3.5 case (para. 6): it stands where the number '8' of 'Form 8' is lost; the built name also carried the words 'The right to give the person or body notice in accordance with this rule in Form'"
+            },
+            {
+              "neutral_citation": "2017 ABCA 397",
+              "style_of_cause": "Odland v. Odland",
+              "note": "printed 'Odland v. Odland Sobeys Capital , [2017] A.J. No. 1265, 2017 ABCA 397 paras. 20-23 (Alta. C.A.)': the name is split by the words 'Sobeys Capital'; the built name 'Regular v. Regular' was wrong; displaced 3.5 case"
+            },
+            {
+              "neutral_citation": "2018 ABQB 151",
+              "style_of_cause": "Sobeys Capital Inc. v. Gulf & Pacific Equities Corp.",
+              "note": "printed 'and Inc. v. Gulf & Pacific Equities Corp., [2018] A.J. No. 231, 2018 ABQB 151 at paras. 3-19 (Alta. Q.B.)' with 'Sobeys Capital' displaced to the previous citation; displaced 3.5 case"
+            }
+          ],
+          "review_flag": "(1) The first paragraph reads 'The right to give the person or body notice in accordance with this rule in Form [ ] is to compel the record': the number '8' (Form 8, official 3.18(1)) is missing and three citations stand there (see the citation notes); they are Book C's 3.5 passage, displaced in the same way as in Book C's 3.4, 3.7 and 3.9. (2) The second item 'Motion to Compel or Return' consists of a heading and one opening quotation, 'A motion to compel or return may fail if judicial review', cut off at the page end; nothing in Book C completes it (searched all Book C files for 'Motion to Compel or Return': one hit). Book A's note has a similar sentence ('An application to compel a filing of the tribunal's record (\"the return\") in court may fail if judicial review does not lie against the responding body', p.3-59, line 1577), but the words differ, so it is not used to complete Book C's. (3) 'This rule works in conjunction with rule 3.19' agrees with official 3.19(1) ('On receipt of ... a notice in accordance with rule 3.18')."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8058,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.18(1)-(3) (read by eye) except: in (2) Book A prints 'an explanation of why an item cannot be sent' where the official says 'an explanation to be provided of why an item cannot be sent' ('to be provided' missing); the title in title case ('Notice to Obtain Record of Proceedings'); missing spaces and '*' line marks; the footnote marker '3' after (3). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). This rule's history footnote 3 ('Quite similar to previous 1987 R.753.12 and 1968 R.743(2), new then.') is printed at the top of p.3-58 (line 1535) inside the built 3.17 commentary and is kept verbatim there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.18",
+      "title_official": "Notice to obtain record of proceedings"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "22beddcecb24f1684915ff190dbc29fa1471d90447b75d7a04c88b7df711f697",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-58",
+            "3-59"
+          ],
+          "offset_in_clean_text": [
+            183226,
+            187971
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "ce2f9da9d9dad9bf46027887acc60b1e8d3a6e0d5f8a2fa52539e4e0aeb97e4a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "73d64a4e91adbb0019a49472002672783c7bc50836e040038abb6a0ab3427f5a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "0e8daa1de3c0c2fc9670d3fae258d4372a7d671bcfda8c7eb30110bacb0147ef",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            56,
+            57
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "6e88312c22db586f97c8aacdebdd58d3fc0d50c05f96604053accef9549e8db5"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule3_part02_document.json 3.19 and 3.20 texts ('a notice in accordance with rule 3.18'; 'rules 3.18(3) and 3.19 apply'); no other Book B file cites 3.18 by number. BOOK_C 121-140 file: 3.19 text and commentary ('This rule works in conjunction with rule 3.18'), 3.20 text ('rules 3.18(3) and 3.19'), and a commentary passage on Campbell v. Chief Electoral Officer (2018 ABQB 248, Feehan J.) that rules 3.18 to 3.20 can apply to originating applications for statutory reviews by analogy under rule 1.7(2) (agrees with Book A's 3.18 note). BOOK_B 3.18: rule text (paragraph part3_part_3_court_actions_006) equal to the official; no amendment note; one commentary section 'Commentary § 3.18:1' (1,669 characters, read in full, no numbered parts): 'What Constitutes the Record?' quoting Broda v. Edmonton (City) (1989) 102 A.R. 255 (Q.B.), A.U.P.E. v. Alberta [1978] 3 W.W.R. 63 (T.D.) and Alberta (Labour Relations Board) v. I.B.E.W., Local 1007 (1991) 83 Alta. L.R. (2d) 253; it is about the former Rr.753.12, 753.13 and 743, 744 ('touching the matter') and is not compared with the current 3.18(2); Book A's 3.18 note says of the old prescribed form 'The phrase \"touching the matter\" ... removed any doubt' (same phrase). BOOK_C 3.18: rule text EXACT_MATCH; amendment note '[Alta. Reg. 124/2010, r. 3.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010'; commentary kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.15 note p.3-42 (line 1016, footnote 7) 'See the annotation to Rr.3.18 and 3.19, infra' and (line 1034) 'where the Originating Application seeks to quash a decision, it bears a special notice to the inferior body under R.3.18' (both land here); 3.19 text p.3-59 (line 1578) 'a notice in accordance with rule 3.18 [Notice to obtain record of proceedings]' (title matches official); 3.19 note p.3-60 (line 1596) 'This is about how to comply with R.3.18'; 3.20 text p.3-61 (line 1617) 'rule 3.18(3) [Notice to obtain record of proceedings] and 3.19 [Sending in certified record of proceedings]' (titles match official); combined_rule6.txt p.6-93 (line 4951) checklist item '25. Record filed for judicial review: Rr.3.18 ff.'.",
+    "OFFICIAL text (searched for 'rule 3.18', 'rules 3.18', lists, line-wrapped forms and form headings): 3.19(1) ('a notice in accordance with rule 3.18'), 3.20(3) ('rules 3.18(3) and 3.19 apply, unless the Court otherwise orders'); Form 8 is headed '[Rule 3.18]' (3.18(1) names Form 8); the other hit is the running page header. By subject (read): 3.15(1)-(2) (originating application for judicial review to set aside a decision or act), 3.19 (certified record in Form 9), 3.20 (order for production of the record where the application is not to set aside), 3.21 and 3.22 (questioning; evidence), 1.7(2) (analogy), 5.2(1) ('relevant and material' for Part 5)."
+  ],
+  "dedupe_log": [
+    "3.18 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.18 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.18 BOOK_C citation context dropped (2016 ABQB 570): verbatim in kept text",
+    "3.18 BOOK_C citation context dropped (2017 ABCA 397): verbatim in kept text",
+    "3.18 BOOK_C citation context dropped (2018 ABQB 151): verbatim in kept text",
+    "3.18 BOOK_C commentary sentence split dropped",
+    "3.18 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.18 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}
