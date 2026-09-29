@@ -1,0 +1,11 @@
+PART 10 - PROGRESS RECORD (goal: build subrules 10 manually, one subrule at a time, same workflow as Parts 2 and 3)
+Method: Pass 1 per rule = read the official text, Book A raw lines (locator), Book B commentary in full, Book C entry, run the cross-reference
+searches, record decisions in the builder's MANUAL_* tables (tools/build_rule10_reconciliation.py), rebuild, gate_all10, write the [1st pass] line
+(ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "..."), commit. Then Pass 2 (verify every claim written), Pass 3 (confirmation).
+Write-after-search: no page/line/count/'only'/'uncited' claim is written before the lookup has been run.
+Pass 1 done: 10.1
+Pass 2 done: 
+Pass 3 done: 
+Part-level notes (to move to rule10_subrules/WORKFLOW.txt at the end of pass 1):
+- Book C prints 'Alta. Gaz. May 15, 2021' in its Part 10 amendment notes (Part 3 entries and rules 11.1-11.8 print 'August 14, 2010').
+- Book A pointers into Part 10 that name a subrule the official text does not have: 10.1(2) (see the 10.1 flags).

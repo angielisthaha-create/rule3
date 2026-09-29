@@ -23,6 +23,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '[Alta. Reg. 124/2010, r. 10.1 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation). The Gazette date 'May 15, 2021' is printed on Book C's Part 10 entries throughout (the four Part 10 files, 441-520, have 'Alta. Gaz. May 15, 2021' on 100 lines and 'August 14, 2010' only at rules 11.1-11.8), while its Part 3 entries print 'August 14, 2010'; the official text gives no Gazette date, so the printed date is kept as printed and was not checked."
     }
   },
   "sources": {
@@ -80,7 +83,7 @@
     "BOOK_C": {
       "title": "Definitions",
       "division_heading": null,
-      "operative_text_raw": "In this Part, (a) “assessment officer” means the court clerk for the judicial centre in which the action is located;\n(b) “review officer” means an assessment officer who, in the opinion of the clerk of the Court, has for the purpose of reviewing contingency fee or retainer agreements and lawyers’ charges (i) an acceptable degree in law, and (ii) sufficient experience in the practice of law, and who is desig- nated as a review officer by",
+      "operative_text_raw": null,
       "operative_text_sha256": "e9e1363d015fde2280f0fc8464838e5fa2727471a60c2c85aadd1713014b5f41",
       "citations": [],
       "commentary": [],
@@ -88,7 +91,8 @@
       "locator": {
         "file": "441-460_10_1 to 10_10.json",
         "source_file": "441-460_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops after '(ii) sufficient experience in the practice of law, and who is desig- nated as a review officer by' (with the hyphenated 'desig- nated'), so subparagraphs (iii) and (iv) of (b) are missing; what is printed equals the official words (the official (i)-(ii) are printed inline). The Subdivision heading 'Subdivision 1: LAWYERS' CHARGES' printed after the amendment note is the heading of Subdivision 1, which begins at 10.2 in the official text."
     }
   },
   "comparison_vs_official": {
@@ -105,18 +109,6 @@
     "BOOK_C": {
       "status": "WORDING_DIFFERENCE",
       "similarity": 0.7831,
-      "differences": [
-        {
-          "op": "replace",
-          "official": "designated",
-          "carrier": "desig- nated"
-        },
-        {
-          "op": "delete",
-          "official": "(iii) the clerk of the court for the judicial centre in which the action is located, or (iv) if there is no clerk of the court for the judicial centre in which the action is located, the minister.",
-          "carrier": ""
-        }
-      ],
       "version_identity": "SAME_VERSION_PROVEN"
     }
   },
@@ -218,9 +210,15 @@
     "gate_artifact_sha256": "42de6906bc655c308d4a7011461e5039844b6ec97f3d64b8fc5998523d2afe93"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 10.1', 'Rules 10.1', line-wrapped forms and form headings '[Rule 10.x]'): no rule or form cites 10.1 by number; the only hits are the table of contents (line 1458) and the rule itself (line 11621, pdf pp.192-193: (a) on p.192, (b) on p.193 after the running head 'Rule 10.2'). By subject: the Appendix (Definitions) defines the same two terms in the same words - 'assessment officer' (line 40564, pdf p.668) and 'review officer' (line 41073, pdf pp.676-677; its sub-items are lettered (a)-(b) and (c)-(d) where 10.1 has (i)-(ii) and (iii)-(iv)); the terms are used in 9.35(1)(b) (line 11238), 13.33 (line 17400), 10.9, 10.13, 10.34, 10.36 and the rest of Division 1-2, Schedule B item 6 of Division 1 ('appointment for review by a review officer', line 39408) and the forms for reviews and assessments (Form 42 '[Rule 10.13]', Form 43 '[Rule 10.26]', Form 44 '[Rule 10.35(1)]', Form 45 '[Rule 10.37]', Form 46 '[Rule 10.44]').",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers of combined_rule10.txt): the rule text is at p.10-3 (lines 52-66, running head 'R.10.1' line 47, DIVISION 1 heading lines 48-50); Book A prints no information note, related provisions or commentary for 10.1. The Part introduction (lines 22-41, before the first page marker) lists 'assessment officer' and 'review officer' among the words 'that have defined meanings in the Appendix'. Book A pointers that name 10.1: (1) p.10-5 (line 175, in the 10.2 note E 'Security for Fees'): 'Fewer lawyers are familiar with R.10.1(2) or the possibility of taking other security' - FLAG: official 10.1 has no subrule (2); the official subrule about security is 10.2(2) ('A lawyer may be paid in advance or take security for future lawyer's charges'); the sources do not say which was meant. (2) p.10-8 (line 308, Related Provisions of 10.4): '10.1(2) (agreement to provide security)' - FLAG: same, no 10.1(2) in the official text; the label matches 10.2(2). (3) p.10-35 (line 1694, in the 10.19 note): 'On negligence by the lawyer, see R.10.1 and commentary, supra.' - FLAG: 10.1 is the definitions rule and carries no commentary on negligence; the note on negligence and set-off is in Book A's 10.2 note (Part C 'Misconduct', p.10-5); the sources do not say which rule was meant. (4) p.10-96 (line 5125, footnote 5 in the 10.31 note): 'The test is reasonableness in prosecuting the suit, not R.10.1' - FLAG: 10.1 states no test of reasonableness (10.2(1) does); the sources do not say which rule was meant.",
+    "BOOK_B: one commentary section 'Commentary § 10.1:1' (paragraph part10_part_10_..._004, 2,533 characters as printed with its heading; 2,513 in the built field): Shreem Holdings v. Barr Picard 2014 ABQB 112 paras 66-67 (Part 10, Division 1 is a comprehensive code that leaves no room for inherent jurisdiction) and Rath & Co. v. Sweetgrass First Nation 2013 ABQB 165 para 22 ('review officer' replaces 'taxing officer', quoting Champagne v. Sidorsky 2012 ABQB 522 para 26). Corroboration in Book A: Shreem 2014 ABQB 112 is cited at p.10-22 (line 1055, paras 47-48), p.10-45 (lines 2198-2199, paras 26-42 and 43 ff.) and in combined rule1.txt p.1-20 (line 986, paras 26-42), never for paras 66-67; Rath v. Sweetgrass is cited in Book A as 'Sweetgrass F. N. v. Rath & Co. 2013 ABQB 165, 559 AR 12' (p.10-24, line 1151; p.10-34, line 1663), the same decision and AR cite as Book B, and as 2014 ABCA 426, 588 AR 245 (p.10-13, line 594; p.10-24, line 1154); Champagne v. Sidorsky 2012 ABQB 522, 548 AR 10 (¶ 26) is in combined_rule2.txt p.2-30 (line 1499). Book B prints the heading '10.1. Definitions' twice (paragraphs _001 and _002, with the Part/Division running-head paragraph _003 between); it prints the footnote number '20' inside the quotation ('superior courts20') and '[Footnote omitted]'."
+  ],
   "dedupe_log": [
     "10.1 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.1 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.1 BOOK_C: rule text dropped (manual review)",
     "10.1 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
   ]
 }
