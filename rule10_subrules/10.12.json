@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.12 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. Book C's entry has the rule text (equal to the official text) and no commentary or citation."
     }
   },
   "sources": {
@@ -60,7 +63,8 @@
           "10-28"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-28 (lines 1354-1363 and the footnote block of that page, line 1369 ff.): title (line 1354), rule text (lines 1355-1362; marker '7' after subrule (3)), no Related Provisions and no note. The one footnote is fn 7 of p.10-28 (the last of that page's block, line 1378; fns 1-6 of the block are the 10.11 note's): 'Quite similar to previous R.643(b). (b) was new in 1997, replacing R.627(c).1968 R.643 was quite similar to 1914 R.773A, added by O. C.1590-36, and to 1914 R.779. Cf. (Imp. ) 6 & 7 Vict. c.73 s.38.' Read against the official text: the rule text equals official 10.12(1)-(3) (EXACT_MATCH, no differences). FLAG: the history note's '(b) was new in 1997' refers to old R.643(b); official 10.12 has subrules (1)-(3) and no paragraph (b), so it does not say which of the three subrules '(b)' corresponds to (the subrule (3) marker lands the note on 10.12(3), 'the Court may designate a location'). Printed as is: 'R.627(c).1968 R.643' (the 1968 date runs on after a full stop without a space, as in the printed line); 'O. C.1590-36' and '6 & 7 Vict. c.73 s.38' (the same '(Imp.) 6 & 7 Vict.' statute is cited in the 10.3 history note with 'c.7' - see the 10.3 flags). Book B and Book C print no history for 10.12, so the note is not corroborated."
     },
     "BOOK_B": {
       "title": "Location of review",
@@ -207,6 +211,12 @@
     "gate_artifact_sha256": "ebec1e1c16d559767361ffb252a4fb49ec16b30cf1a467d3a97418ba7ff6ed8d"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.12' with the pattern that also finds line-wrapped forms; ranges such as '10.11 to 12' or '10.11-12' searched separately in the official text and in every Book A file, no hit): three hits, the table of contents (line 1500), the rule heading (line 12034, 'Rule 10.12') and the rule text (line 12042). No other rule or form cites 10.12 by number. By subject: 10.1 (review officer and assessment officer defined by 'judicial centre in which the action is located'), 10.11 (who may request a review in Alberta), 10.13 (appointment date obtained from a review officer).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included): this rule's hits are the running head 'R.10.12(1) PART 10' (combined_rule10.txt line 1335, p.10-28) and the rule text (line 1355); no other Book A file or note cites 10.12 by number. The rule has no note and no Related Provisions in Book A; its one footnote (fn 7 of p.10-28, marker after subrule (3), line 1362) is a history note.",
+    "BOOK_B: a heading paragraph and no commentary ('10.12. Location of review', rule10_part04_document.json); no other Book B file cites 10.12 by number.",
+    "BOOK_C: the entry for 10.12 in '461-480_10_11 to 10_31.json' (text with the amendment note; no commentary); no other Book C file cites 10.12 by number."
+  ],
   "dedupe_log": [
     "10.12 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.12 BOOK_B: operative text dropped (EXACT_MATCH)",

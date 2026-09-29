@@ -35,6 +35,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read by hand in all four sources. Official 10.11 matches Book A and Book B (Book B has a heading and no commentary); Book C rule text dropped (paragraph (b), (i)-(iv), missing). Book A related_provisions is the single label 'Definition of client' (builder now stops the list there; the note's paragraphs had been joined into it); the label lands on the Appendix definition (official line 40619). Book A note is case-law summary; one paragraph (Minister of Hospitals, French v. Fish) is not about who may request a review; the 10.22 note points here for limitations (Macleod Dixon v. Fazal, lands). 11 footnotes = 5+6. Book C commentary is cut off at 'for' and carries an unsourced passage on the assessment process, kept and flagged; Fleming and Katch 22 citation names noted.
 
 10.12 Location of review
+     [1st pass] Read by hand in all four sources. Rule text equals official in Book A, B and C; no Book A note or Related Provisions, no Book B or C commentary. One Book A footnote (p.10-28 fn 7, history, marker on subrule (3)): '(b) was new in 1997' refers to old R.643(b), the official rule has no paragraph (b). No other file cites 10.12 (ranges searched too).
 
 10.13 Appointment for review
 
