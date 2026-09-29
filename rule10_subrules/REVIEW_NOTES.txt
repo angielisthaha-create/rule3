@@ -152,6 +152,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-141 to p.10-145, 27 footnotes; Book B 10.50:1 31,021 chars in full; Book C entry). Flags: forward 'supra' in p.10-142 fn 4 vs 'infra' in fn 3 (Jodoin), '10.28 party' definition applies to Division 2 only, placeholders, Book C entry under wrong Division heading, commentary scrambled and cut off, 2017 ABQB 438 attached without a name.
 
 10.51 Order to appear
+     [1st pass] Read in full by hand (Book A p.10-145/146, 12 footnotes; Book B 10.51:1 in full (cut-off Wade v. Wade extract); Book C entry). Flags: Related Provisions and fn 4 name 10.53 for the inherent jurisdiction (official 10.55), misprints in fn 3 and fn 7, Book C entry under wrong Division heading.
 
 10.52 Declaration of civil contempt
 
