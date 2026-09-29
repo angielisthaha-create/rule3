@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.34 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it). Its rule text equals the official text."
     }
   },
   "sources": {
@@ -76,7 +79,8 @@
           "10-124"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-123 (line 6696) to p.10-124 (line 6728): title (line 6696), rule text (lines 6697-6703; the footnote marker '6' follows (2)(c), line 6703), Related Provisions (lines 6705-6706, one entry), the note (lines 6708-6710 on p.10-123 and lines 6727-6728 at the top of p.10-124: 'On when costs are payable, see the Crouser case.', 'A chambers judge used R.9.12 to give full costs of a suit, even after entry of a formal summary judgment which had only given costs of that application.', 'Where a consent order awards solicitor-client costs, the assessment officer cannot cut them in half.') and 4 footnotes: p.10-123 fn 6 (line 6721, history: 'Quite similar to previous R.601(4). It was first enacted by Alta. Reg.152/98.'), fn 7 (line 6722, Crouser-Reymon v. Tawa Dev. 2010 ABQB 166, 491 AR 301) and fn 8 (line 6723, Richter v. Chemerinski (#2?) 2010 ABQB 717, 4 CPC(7th) 283), and p.10-124 fn 1 (line 6763, Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748, 579 AR 152); fns 1-5 of the p.10-123 block (lines 6713-6720) belong to the 10.33 note and are counted there. The 'Subdivision 2 / Assessment of Costs / by Assessment Officer' heading (lines 6729-6731) at the top of the 10.35 text belongs to 10.35. Read against the official text: the rule text equals official 10.34 (EXACT_MATCH, no differences). (1) The Related Provisions pointer '10.28(2) (appointment for assessment)' names a subrule the official text does not have: official 10.28 is one paragraph, the definition of 'party' (line 12435); the rule titled 'Appointment for assessment' is 10.37 (official line 1596). (2) 'A chambers judge used R.9.12 to give full costs of a suit ...' lands on a rule about correcting mistakes or errors in a judgment or order arising from an accident, slip or omission (9.12); the case (Richter v. Chemerinski (#2?) 2010 ABQB 717) is not in Book B or Book C, and the citation '2010 ABQB 717' occurs nowhere else in the files (other Richter v. Chemerinski citations in the files: 2014 ABQB 322 in Book A's 10.52 note, lines 8016 and 8370, and in Book B's rule10_part06_document.json, and 2010 ABQB 302 in Book B's rule7_part02_document.json; they are different citations). (3) 'On when costs are payable, see the Crouser case' is a bare pointer to fn 7; Book B prints the same citation (Crouser-Reymon v Tawa Developments Inc 2010 ABQB 166 paras 23-26) in its 10.49 commentary, on penalties under 10.49, so the two books describe the case differently (payment of costs / penalty factors); neither description was checked against the decision. (4) Placeholder '(#2?)' in fn 8 (line 6723). fn 3 'Paterson v. Hamilton, supra' (line 6718) belongs to the 10.33 note and points backwards to the full citation in that note's p.10-122 fn 8. (5) The history footnote 'Quite similar to previous R.601(4). It was first enacted by Alta. Reg.152/98.' names an old rule and a 1998 regulation, which were not checked against any old-rule text; Book B has no commentary for this rule, so the history is not corroborated. (6) No supra or infra is used in the four footnotes of this note."
     },
     "BOOK_B": {
       "title": "Court-ordered assessment of costs",
@@ -111,13 +115,15 @@
             },
             {
               "neutral_citation": "2021 ABCA 25",
-              "style_of_cause": "McAllister v. Calgary"
+              "style_of_cause": "McAllister v. Calgary (City)",
+              "note": "The builder's style-of-cause field holds 'McAllister v. Calgary' but the commentary prints 'McAllister v. Calgary (City), [2021] A.J. No. 109, 2021 ABCA 25 at paras. 46, 66 (Alta. C.A.)'; Book A prints 'McAllister v. Calgary (City) 2021 ABCA 25' (line 2153, 10.29 note) with paragraphs 34, 18 and 35; the paragraphs Book C cites here (46, 66) are not in Book A."
             },
             {
               "neutral_citation": "2021 ABQB 355",
               "style_of_cause": "Patel v. Chief Medical Supplies Ltd."
             }
-          ]
+          ],
+          "review_flag": "The commentary 'General principles' (750 characters: two paragraphs and a heading) ends with the words 'Subdivision 2: ASSESSMENT OF COSTS BY ASSESSMENT OFFICER', which are the heading of the next Subdivision (official: 'Subdivision 2 Assessment of Costs by Assessment Officer', before rule 10.35), not commentary; the builder kept them in the text. The first paragraph (courts may direct an assessment by an assessment officer and give directions, such as ensuring that a bill of costs includes only costs incurred with respect to a particular proceeding: Condominium Plan No. 052 6233 v. Seehra 2014 ABQB 588 para. 29) agrees with official 10.34(1); the second (directing an assessment is useful when actual legal expenses are the basis of party and party costs: McAllister v. Calgary (City) 2021 ABCA 25 paras 46, 66; Patel v. Chief Medical Supplies Ltd. 2021 ABQB 355 paras 130-131) is not in Book A or Book B (2014 ABQB 588 and 'Seehra' occur only in Book C; Patel v. Chief Med. Supplies (#_) 2021 ABQB 355 is cited in Book A's 10.31 note, line 5122, and in Book B's rule10_part08_document.json, where it is quoted at paragraph 89 for the proposition that pre-litigation conduct alone does not support a solicitor-client costs award). The text has a double space before 'Condominium Plan No. 052 6233 v. Seehra'."
         }
       ],
       "misattributed_entries": [],
@@ -243,6 +249,12 @@
     "gate_artifact_sha256": "0e992600dc94dc5dda61ccdce93120bb3297de3749eca35369dbeac17cc2520d"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.34' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1585), the page heading (line 12645, 'Rule 10.34') and the rule (line 12668). No other rule or form cites 10.34 by number. By subject: 10.28 (official line 12435, one paragraph: 'In this Division, \"party\" includes a person filing or participating in an application or proceeding who is or may be entitled to or subject to a costs award' - it has no subrule (2)), 10.35 'Preparation of bill of costs' (line 1590), 10.36 'Assessment of bill of costs' (line 1593), 10.37 'Appointment for assessment' (line 1596), 9.12 'Correcting mistakes or errors' (line 1295: on application the Court may correct a mistake or error in a judgment or order arising from an accident, slip or omission).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the running head of p.10-123 (line 6679, 'R.10.34(1)') and the rule (line 6697); in combined_rule9.txt line 4410 (a Related Provisions list: '10.34 (assessment of costs)'). No other Book A file cites 10.34. The authority in the note, Crouser-Reymon v. Tawa Dev. 2010 ABQB 166, 491 AR 301, is also in the 10.29 note (line 2499) and in combined_rule5.txt (line 4039, fn 2); Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748 is printed in the notes to 10.35 (line 6763), 10.37 (line 6858), 10.39 (line 6950) and 10.42 (line 7193); the 10.31 note prints a different decision of the same litigants, (#2) 2015 ABQB 548 (lines 4957, 4960).",
+    "BOOK_B: rule10_part10_document.json holds the heading ('10.34. Court-ordered assessment of costs'), the rule text (one paragraph) and the Subdivision 2 heading ('Part 10 ... Division 2. Recoverable Costs of Litigation Subdivision 2. Assessment of Costs by Assessment Officer'), and no commentary; other Book B files that cite 10.34 by number: rule10_part07_document.json (the 10.31:1 commentary, line 37: 'trial judge may direct an assessment of the legal costs by an assessment officer, pursuant to Rule 10.34. Rule 10.31(3)(d) contemplates such an assessment ...') and rule10_part09_document.json (line 613, the Lafleur v. Lafleur quotation in the 10.33:1 commentary, 'rr 10.28-10.34'). Crouser-Reymon v Tawa Developments Inc 2010 ABQB 166 (paras 23-26) is printed in Book B's 10.49 commentary (rule10_part10_document.json) among factors for a penalty under 10.49 (deterrence of a pattern of conduct), not as authority on when costs are payable.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry ('Court-ordered assessment of costs', an orphan entry: no Division heading in front of it, 'General principles' commentary of 750 characters, three citations, no Information Note); no other Book C file cites 10.34 by number."
+  ],
   "dedupe_log": [
     "10.34 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.34 BOOK_B: operative text dropped (EXACT_MATCH)",

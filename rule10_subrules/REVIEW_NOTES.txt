@@ -101,6 +101,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-104 to p.10-123, 197 footnotes counted per page; Book B 10.33:1 108,402 chars read in full; Book C entry). Flags: Related Provisions unclosed brackets and labels (5.1(1)(c)), 10.49 vs 10.50, R.3.58, out-of-date 3.66 statement, forward supra/infra (Hancock, Katrib, Cochrane, Huet), placeholders and misprints, Schwartz Est. Kwinter/Myron and Chabros 2012 ABQB 517 evidence, Book C rule text cut after (2)(f), citation names restored (Sutherland, Stewart Est.).
 
 10.34 Court-ordered assessment of costs
+     [1st pass] Read in full by hand (Book A p.10-123/124, 4 footnotes; Book B heading only, no commentary; Book C entry). Flags: Related Provisions '10.28(2)' does not exist (10.37 is 'Appointment for assessment'), placeholder (#2?), Crouser described differently in Book A and Book B (10.49), Book C commentary ends with the Subdivision 2 heading.
 
 10.35 Preparation of bill of costs
 
