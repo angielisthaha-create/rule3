@@ -39,7 +39,7 @@
     },
     "BOOK_A": {
       "title": "Lawyer’s Non-compliance With Contingency Fee Agreement",
-      "operative_text_raw": "10.8 If a lawyer does not comply with rule 10.7(1) to (4), (6) and (7) [Contingency\nfee agreement requirements], the lawyer is, on successful accomplishment or\ndisposition of the subject-matter of the contingency fee agreement, entitled\nonly to lawyer’s charges determined in accordance with rule 10.2 [Payment for\nlawyer’s services and contents of lawyer’s account] as if no contingency fee\nagreement had been entered into.¹³",
+      "operative_text_raw": null,
       "operative_text_sha256": "e94b1b2b8597c3dad42c20035ea55833cc397097d7ad1611475c52cb825c0234",
       "related_provisions": "10.18(4) (disallowance of contingency fee agreement)",
       "commentary": "See also R.10.2 and R.10.7and notes, about the results of a defect in a contingency agreement.\nIf the contingency fee contract is not enforceable, the court can still allow more than a simple\nhourly rate, to reﬂect risks run by the lawyer.¹\nAn infant’s contingency fee contract violated the Rules, lacking a statement about taxable\ncosts or about a maximum, an afﬁdavit of execution, and also proof of service on the client. So\nit was not enforceable under the new or former Rules and had to be ignored, and the default R.\n10.2 applied.²",
@@ -70,7 +70,9 @@
           "10-21",
           "10-22"
         ]
-      }
+      },
+      "operative_text_note": "same wording as official 10.8 (read by eye) except: the bracket labels '[Contingency fee agreement requirements]' after 'rule 10.7(1) to (4), (6) and (7)' and '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' (the official titles of 10.7 and 10.2); the ligature 'fi'; the title in title case ('Lawyer's Non-compliance With Contingency Fee Agreement', line 988, printed at the end of the 10.7 note); the footnote marker '13' after the text (the history footnote, in the p.10-21 block at line 1012). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference.",
+      "commentary_review_flag": "Read in full, p.10-21 (line 988) to p.10-22 (line 1026): title (line 988), rule text (lines 989-994), the p.10-21 footnote block (lines 996-1012; fns 1-12 are the 10.7 note's, fn 13 this rule's history footnote), page marker 10-22 (line 1014), running head 'R.10.9' (line 1015), Related Provisions (lines 1017-1018) and the note (lines 1020-1026; markers 1 and 2), whose two footnotes are printed in the p.10-22 block after the text of 10.9 (lines 1050-1051). The built record: related_provisions '10.18(4) (disallowance of contingency fee agreement)' (agrees with the official 10.18(4)); a commentary field of 537 characters; three footnotes (p.10-21 fn 13; p.10-22 fns 1-2, counted from the file). History footnote 13: 'Quite similar to previous 1968 R.618. It was new in 1968. And was reworded a little in 2000.' (Book B's Sonnenberg quotation, 'Rule 618 states that an agreement that does not comply with Rule 616 is to be disregarded', agrees that R.618 is the old non-compliance rule). Statements read against the official text: 'See also R.10.2 and R.10.7and notes' ('R.10.7and' as printed) lands; 'If the contingency fee contract is not enforceable, the court can still allow more than a simple hourly rate, to reflect risks run by the lawyer' is a case-law statement (fn 1, M. S. v. D. M. Jr. 2014 ABQB 702) - official 10.8 gives 'lawyer's charges determined in accordance with rule 10.2', whose factors include the skill, work and responsibility involved; 'An infant's contingency fee contract violated the Rules, lacking a statement about taxable costs or about a maximum, an affidavit of execution, and also proof of service on the client ... the default R. 10.2 applied' agrees with 10.8 (non-compliance with 10.7(2), (3) and (4) leaves only 10.2 charges). supra/infra: fn 1 prints the first full citation of M. S. v. D. M. Jr. in the book ('2014 ABQB 702, 601 AR 310'; see the 10.7 flags on the earlier 'supra' uses); fn 1 'Tallcree F. N. v. Rath & Co. (#2), supra' points back to p.10-17 fn 3 (2021 ABQB 234); fn 2 'M. S. v. D. M. Jr., supra' points to fn 1. The cases (M. S. v. D. M. Jr. 2014 ABQB 702, Tallcree F. N. v. Rath (#2) 2021 ABQB 234) were not checked."
     },
     "BOOK_B": {
       "title": "Lawyer's non-compliance with contingency fee agreement",
@@ -99,7 +101,7 @@
     "BOOK_C": {
       "title": "Lawyer’s non-compliance with contingency fee agreement",
       "division_heading": null,
-      "operative_text_raw": "If a lawyer does not comply with rule 10.7(1) to (4), (6) and (7) [Contingency fee agreement requirements], the lawyer is, on successful accomplishment or disposition of the subject-matter of the contingency fee agreement, entitled only to lawyer’s charges determined in accordance with rule 10.2 [Payment for lawyer’s services and contents of lawyer’s account] as if no contingency fee agreement had been entered into.",
+      "operative_text_raw": null,
       "operative_text_sha256": "29248a19eaae22bddd902ff241addaac5a528e99a85898847a3100b92b5516a7",
       "citations": [],
       "commentary": [
@@ -109,24 +111,26 @@
           "citations": [
             {
               "neutral_citation": "2005 ABQB 352",
-              "style_of_cause": "Sonnenberg v. Schumacher"
+              "style_of_cause": "Sonnenberg v. Schumacher & Associates"
             },
             {
               "neutral_citation": "2015 ABQB 682",
-              "style_of_cause": "Sonnenberg v. Schumacher"
+              "style_of_cause": "Niam v. Silverberg"
             },
             {
               "neutral_citation": "2023 ABKB 321",
-              "style_of_cause": "Mikisew Cree First Nation v. Rath"
+              "style_of_cause": "Mikisew Cree First Nation v. Rath & Co."
             }
-          ]
+          ],
+          "review_flag": "(1) The commentary ('General Principles', 1,522 characters as built) is damaged and cut off: 'compensation is calculated on a basis. quantum meruit' (the words 'quantum meruit' are displaced to after 'basis.'); 'cited in , [2015] A.J. No. 1161, 2015 ABQB 682 at para. 124 ... Niam v. Silverberg' (the case name is printed after the citation); 'a lack of proof of both time and manner of service on the client ( , no proof of service)' and 'The defects of a i.e. contingency agreement' (the 'i.e.' is displaced); 'but see, by contrary example on particular facts, , [2023] Mikisew Cree First Nation v. Rath & Co. A.J. No. 550, 2023 ABKB 321' (name after the citation); the text ends 'A fully informed client may be able to effectively' followed by the heading of the next Subdivision ('Subdivision 4: RIGHT OF REVIEW'). The built citation records had given 2015 ABQB 682 the name 'Sonnenberg v. Schumacher' and 2023 ABKB 321 'Mikisew Cree First Nation v. Rath'; repaired from the printed text (Niam v. Silverberg; Mikisew Cree First Nation v. Rath & Co.). (2) Read against Book B: the quantum meruit statement, the client's address not being fatal while lack of proof of the time and manner of service is (Sonnenberg), 'construed strictly against the lawyer' (Sonnenberg para 38, quoted in Book B and in Book B's 10.7 commentary), 'only relaxed in exceptional cases' (Niam para 123, quoted in Book B) and 'only in the rarest circumstances ... written ... filed ... fully informed client may be able to effectively [waive]' (Veit J. in Leffler v. Collins, quoted in Niam para 122 in Book B) all agree; the Mikisew para 81 'contrary example' agrees with Book A's p.10-18 fn 4 (paras 81-95). Sonnenberg para 24 and Niam para 124 (the pinpoints in Book C's first two sentences) are not among Book B's quotations. Kept as printed, flagged."
         }
       ],
       "misattributed_entries": [],
       "locator": {
         "file": "441-460_10_1 to 10_10.json",
         "source_file": "441-460_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it equals the official words except for the bracket labels '[Contingency fee agreement requirements]' after 'rule 10.7(1) to (4), (6) and (7)' and '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' (the official titles of 10.7 and 10.2), printed in the text."
     }
   },
   "comparison_vs_official": {
@@ -134,7 +138,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 10.8 (read by eye) except: the bracket labels '[Contingency fee agreement requirements]' after 'rule 10.7(1) to (4), (6) and (7)' and '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' (the official titles of 10.7 and 10.2); the ligature 'fi'; the title in title case ('Lawyer's Non-compliance With Contingency Fee Agreement', line 988, printed at the end of the 10.7 note); the footnote marker '13' after the text (the history footnote, in the p.10-21 block at line 1012). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -247,12 +252,20 @@
     "gate_artifact_sha256": "c3752dc288b2b51759712691c8709dd822b94b335320610b9ca1123ed1c0bf14"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 10.8', 'Rules 10.8', line-wrapped forms and form headings '[Rule 10.x]'): no rule or form cites 10.8 by number; the only hits are the table of contents (line 1485), the running head of pdf p.198 (line 11919) and the rule itself (line 11957, pdf p.198). By subject: 10.7 (the rule whose subrules (1) to (4), (6) and (7) it enforces), 10.2 (the measure it substitutes), 10.18(4) (a disallowed contingency fee agreement is replaced by charges under 10.2), 10.9 (review 'despite any agreement to the contrary'), 15.5(1)-(2) (transitional: contingency fee agreements made under the former rules, 'rule 616 of the former rules').",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): other rules that cite 10.8 - the 10.7 note, p.10-17 (line 756 'See also R.10.8 and commentary on it'; line 783 fn 5 'See R.10.8 and 10.7(8)') and p.10-18 (line 843, fn 5, 'Is that always consistent with R.10.8?'); the running head 'R.10.8' at p.10-21 (line 960) precedes this rule's title (line 988); the 10.2 note (p.10-4 line 131) 'See further R.10.7 and notes' points to the same topic. Book A's own 10.8 record: title line 988, text lines 989-994, the p.10-21 footnote block (lines 996-1012; its fns 1-12 are 10.7's, fn 13 is this rule's history footnote), Related Provisions '10.18(4) (disallowance of contingency fee agreement)' (line 1017-1018, p.10-22; agrees with the official 10.18(4)) and the note (lines 1020-1026); its footnotes 1 and 2 are printed in the p.10-22 block (lines 1050-1051, after the text of 10.9). No other Book A file cites 10.8.",
+    "BOOK_B: this rule's own commentary ('Commentary § 10.8:1', 17,335 characters as built, in two files: rule10_part01_document.json holds the rule text and rule10_part02_document.json the commentary; two numbered parts, 1 Consequences for Violating R. 10.7 and 2 Court's Discretion to Waive Irregularities) quotes Baergen v. Peterson Ross (1986), Leffler v. Collins (1997) 213 A.R. 395 (Veit J.), Sonnenberg v. Schumacher & Associates 2005 ABQB 352 (Germain J.) and Niam v. Silverberg 2015 ABQB 682 (paras 114-137); it uses the old numbers 'RR. 616 and 617', 'R. 618' and 'Rule 616(4)' (Book A's history footnote 13 at p.10-21 gives 1968 R.618 as the predecessor of 10.8, and 1968 R.616 as the predecessor of 10.7; Book A does not mention R.617). The other Book B passage that names 10.8 is the 10.7 commentary (Sturgeon Lake Cree Nation v. Rath 2024 ABKB 258 para 17: 'The language in Rule 10.7 and 10.8 is very clear and is mandatory'). Cross-book: Sonnenberg 2005 ABQB 352, 52 Alta LR(4th) 151 is Book A's p.10-19 fn 2 (10.7 note); Niam v. Silverberg 2015 ABQB 682, 29 Alta LR(6th) 298 is Book A's p.10-18 fn 1; Botan v. St. Amand 2011 ABQB 774, 529 AR 313 (Niam para 130) is Book A's p.10-17 fn 7; Mikisew Cree F. N. v. Rath 2023 ABKB 321 is Book A's p.10-18 fn 4.",
+    "BOOK_C: rule text with bracket labels (see the BOOK_C flag) and a 'General Principles' commentary of 1,522 characters about this rule (see the BOOK_C flag); no other Book C entry names 10.8 (searched all Book C files)."
+  ],
   "dedupe_log": [
     "10.8 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.8 BOOK_C citation context dropped (2005 ABQB 352): verbatim in kept text",
     "10.8 BOOK_C citation context dropped (2015 ABQB 682): verbatim in kept text",
     "10.8 BOOK_C citation context dropped (2023 ABKB 321): verbatim in kept text",
     "10.8 BOOK_C commentary sentence split dropped",
-    "10.8 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.8 BOOK_C: rule text dropped (manual review)",
+    "10.8 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.8 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }
