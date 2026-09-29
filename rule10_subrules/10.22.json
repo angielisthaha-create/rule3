@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.22 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*' and then, in the same text field, a copy of the Information Note that is cut off: 'Information note This rule is an exception to • the general rule that judgment may be entered against a defendant who does not file a statement of defence or demand for notice (see rule 3.36 [Judgment in default of defence and noting in default], and PART 10 LAWYERS' CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS' - the second bullet ('the general rule that a successful party is entitled to a costs award') and the closing sentence ('A lawyer who obtains a default judgment gets costs only if the Court so orders') are missing, and the page's running head follows 'and'. The builder placed this text in the carrier note of the amendment history; the complete Information Note is kept once, from Book A (information_notes). 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked."
     }
   },
   "sources": {
@@ -39,7 +42,7 @@
     },
     "BOOK_A": {
       "title": "Action For Payment of Lawyer’s Charges",
-      "operative_text_raw": "10.22 If an action is brought for payment of a lawyer’s charges,\n(a) despite rule 3.36 [Judgment in default of defence and noting in\ndefault], no judgment may be entered in default of defence without\nthe Court’s permission, and\n(b) no costs award with respect to the action is to be made unless the\nCourt speciﬁcally so orders.⁶",
+      "operative_text_raw": null,
       "operative_text_sha256": "32c92c0dd9934f25ce76abfd2774c38891278632e2257142012af9817f5c5c75",
       "related_provisions": "10.20 (enforcement of review officer’s decision) ; 10.29 (costs follow event)",
       "commentary": "Public policy is so tender to the interests of clients, that this Rule bars default judgment or\ncosts of suit in a suit on legal fees (unless there is leave of the court), when the plaintiff is the\nlawyer or a lawyer’s assignee. The court often orders review of the account,¹\nbut that makes little\nsense if the amount of the account seems reasonable, especially as an evasive client will later\ndeny the retainer, or claim that he has paid, neither of which the review ofﬁcer can deal with. The\nlawyer should note the defendant in default, and then apply in chambers as though for summary\njudgment, with personal service again. Review should be ordered only if the defendant or the\nmaterial from the plaintiff shows some question as to quantum.",
@@ -65,7 +68,9 @@
           "10-36",
           "10-37"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (lines 1743-1748, title on line 1742) has the same words as the official text (compared by hand, the lead-in, (a) and (b)) with one addition: the bracket label '[Judgment in default of defence and noting in default]' after 'rule 3.36' in (a) (the official text has no label; the label is the official title of 3.36); it also differs in the ligature 'speciﬁcally', spacing and line breaks, and the footnote marker '6' after (b). It has no amendment bracket (the official history is 'AR 124/2010', no amending regulation). The official text controls; the raw Book A lines are not kept.",
+      "commentary_review_flag": "Read in full, p.10-36 (line 1742) to p.10-37 (line 1787): title (line 1742), rule text (lines 1743-1748; marker '6' after (b)), the p.10-36 footnote block (line 1750 ff.; fn 6 at the end is this rule's history), the page marker 10-37 (line 1766), the Information Note (lines 1768-1774), Related Provisions (line 1777: '10.20 (enforcement of review officer's decision) ; 10.29 (costs follow event)') and the note (lines 1779-1786) with its footnotes: p.10-36 fn 6 and p.10-37 fn 1 (Witten v. Arsenault, in the block after 10.23) = 2; fns 1-5 of the p.10-36 block belong to the 10.20 and 10.21 notes. Read against the official text: the rule text equals official 10.22(a)-(b) apart from the bracket label. The Information Note ('This rule is an exception to - the general rule that judgment may be entered against a defendant who does not file a statement of defence or demand for notice (see rule 3.36 [Judgment in default of defence and noting in default], and - the general rule that a successful party is entitled to a costs award. A lawyer who obtains a default judgment gets costs only if the Court so orders.') is not in the official text (which prints no information notes); it agrees with official 3.36 and 10.29(1) and 10.22(a)-(b); the words 'gets costs only if the Court so orders' restate 10.22(b). The Related Provisions labels: '10.20 (enforcement of review officer's decision)' matches the official title of 10.20 ('Enforcement of review officer's decision'); '10.29 (costs follow event)' is a label for official 10.29 ('General rule for payment of litigation costs': a successful party is entitled to a costs award), whose Book A Related Provisions point back to '10.22 (costs on action for lawyer's charges)'. History fn 6: 'Quite similar to previous 1968 R.626. It came from 1914 R. And 1944 C. R.759 before 1976 amendment. (Imp.) 6 & 7 Vict., c.73, s.37 forbade suit until after one month after delivery of a bill of costs. The 1976 amendment made the Rule depend on the original creditor, not on who is the plaintiff.' - the old number R.626 agrees with Book B ('then R. 626'); '1914 R. And 1944 C.' has no rule number after '1914 R.' (as printed) and the c.73 s.37 statute is cited elsewhere as '(Imp.) 6 & 7 Vict. c.73 s.37 para.6' (the 10.23 note, p.10-37 fn 2; the 10.3 note prints 'c.7 s.39' and 'c.73 s.39', the 10.12 note 'c.73 s.38'). The note ('Public policy is so tender to the interests of clients, that this Rule bars default judgment or costs of suit in a suit on legal fees (unless there is leave of the court), when the plaintiff is the lawyer or a lawyer's assignee') states the policy in Book B's words (Holmes J., Dennis W. Crowe v. Allford; the rule 'prohibits a solicitor from obtaining judgment ... for his legal account by default without a court order') and adds 'or a lawyer's assignee', which neither official 10.22 nor Book B says ('an action is brought for payment of a lawyer's charges'; Book B: 'actions brought by lawyers'). The remaining sentences are practice advice, not the rule: 'The court often orders review of the account,¹ but that makes little sense if the amount of the account seems reasonable, especially as an evasive client will later deny the retainer, or claim that he has paid, neither of which the review officer can deal with' (agrees with the 10.18 note: a review officer cannot decide the terms of the retainer); 'The lawyer should note the defendant in default, and then apply in chambers as though for summary judgment, with personal service again'; 'Review should be ordered only if the defendant or the material from the plaintiff shows some question as to quantum' (Book B's Fowle, Todd v. Klassen: 'not every account need be taxed'; the amount of the account is a consideration). Fn 1 (p.10-37): 'This Rule lets Alberta Court of Justice refer a suit on a lawyer's account for taxation by the usual King's Bench taxing officer: Witten v. Arsenault 2006 ABPC 29, 393 AR 216' agrees with Book B's Witten LLP v. Arsenault 2006 ABPC 29 (paras 29-32: Rule 626 applies in the Provincial Court, the judge either orders the account taxed or dispenses with taxation); Book A names the case 'Witten v. Arsenault' and Book B 'Witten LLP v. Arsenault'; the court is called 'Alberta Court of Justice' in Book A and 'Provincial Court' in Book B. supra/infra: no supra or infra is used in this note."
     },
     "BOOK_B": {
       "title": "Action for payment of lawyer's charges",
@@ -93,7 +98,7 @@
     "BOOK_C": {
       "title": "Action for payment of lawyer’s charges",
       "division_heading": null,
-      "operative_text_raw": "If an action is brought for payment of a lawyer’s charges, (a) despite rule 3.36 [Judgment in default of defence and noting in default], no judgment may be entered in default of defence without the Court’s permission, and (b) no costs award with respect to the action is to be made unless the Court specifically so orders.",
+      "operative_text_raw": null,
       "operative_text_sha256": "8129c44484c0538ee93cbe0072da575cb7a7b5cb02994fa420d66a82482ca862",
       "citations": [],
       "commentary": [],
@@ -101,7 +106,8 @@
       "locator": {
         "file": "461-480_10_11 to 10_31.json",
         "source_file": "461-480_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): the words equal the official text but the bracket label '[Judgment in default of defence and noting in default]' is added after 'rule 3.36' in (a) (Book A prints the same label); the official text has none."
     }
   },
   "comparison_vs_official": {
@@ -109,7 +115,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (lines 1743-1748, title on line 1742) has the same words as the official text (compared by hand, the lead-in, (a) and (b)) with one addition: the bracket label '[Judgment in default of defence and noting in default]' after 'rule 3.36' in (a) (the official text has no label; the label is the official title of 3.36); it also differs in the ligature 'speciﬁcally', spacing and line breaks, and the footnote marker '6' after (b). It has no amendment bracket (the official history is 'AR 124/2010', no amending regulation). The official text controls; the raw Book A lines are not kept."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -228,8 +235,16 @@
       ]
     }
   ],
+  "see_also": [
+    "Official text (searched for '10.22' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1542) and the rule (line 12289). The official text has no amendment line for 10.22 and prints no information note anywhere. No other rule or form cites 10.22 by number. By subject: 3.36 (title 'Judgment in default of defence and noting in default', line 362: judgment in default of defence, which 10.22(a) overrides), 10.29 (title 'General rule for payment of litigation costs', line 1570; 10.29(1): a successful party is entitled to a costs award against the unsuccessful party, which 10.22(b) overrides), 10.20-10.21 and 10.19 (enforcement and repayment; the review officer's decision), 10.18 (reference to Court).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the Related Provisions of the 10.20 note (p.10-36, line 1722, '10.22 (action for payment)') and the rule text (line 1743). Other Book A passages that cite 10.22: the 10.29 Related Provisions, p.10-44 (line 2121, '10.22 (costs on action for lawyer's charges)'); and the Part 3 note to 3.36 (combined rule3.txt line 2620: 'This rule is subject to rule 3.42 ... and rule 10.22 [Action for payment of a lawyer's charges]'). No other Book A file cites 10.22.",
+    "BOOK_B: this rule's own commentary ('Commentary § 10.22:1', 7,290 characters, rule10_part04_document.json, headed 'Rule 10.22—Action for costs due': 1 Purpose (old R. 626; Dennis W. Crowe Professional Corp. v. Allford (1983), 26 Alta. L.R. (2d) 21 (Q.B.), Holmes J.; Fowle, Todd & Co. v. Klassen (1980), 31 A.R. 494 at 496, Cavanagh J.) and 2 Application of Rule (Murska Management (1969) Ltd. v. Flesher (1990), 118 A.R. 251 (Prov. Ct.); Witten LLP v. Arsenault 2006 ABPC 29, paras 29-32, Judge Ingram)). Every hit for '10.22' in Book B is in this rule's heading paragraphs and commentary (rule10_part04_document.json); no other Book B file cites 10.22.",
+    "BOOK_C: the entry for 10.22 in '461-480_10_11 to 10_31.json' (text with a bracket label; the amendment note and a truncated copy of the Information Note follow in the same text field; no commentary); no other Book C file cites 10.22 by number."
+  ],
   "dedupe_log": [
     "10.22 BOOK_B: operative text dropped (EXACT_MATCH)",
-    "10.22 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.22 BOOK_C: rule text dropped (manual review)",
+    "10.22 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.22 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }
