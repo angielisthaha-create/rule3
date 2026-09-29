@@ -137,6 +137,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-136/137, 2 footnotes; Book B heading and rule text only; Book C entry). Flags: Book C adds 'and' after (c), Related Provisions list 10.26 (not 10.27), one-sentence note deference from Vizor.
 
 10.46 Review and assessment under enactments
+     [1st pass] Read in full by hand (Book A p.10-137, no note and no footnote; Book B heading and rule text only; Book C entry under the Division 3 heading). Flags: Book A label '[Decision of the judge]' after 10.27 vs official title 'Decision of judge', Book C bracket labels displaced in (4).
 
 10.47 Liability of litigation representative for costs
 
