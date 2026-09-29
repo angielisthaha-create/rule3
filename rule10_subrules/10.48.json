@@ -31,6 +31,9 @@
       "BOOK_A": "AGREES",
       "BOOK_B": "AGREES",
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.48 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*' then a line break and 'Reg. 140/2013, s. 12]': 'Alta. Reg. 124/2010' and 'Alta. Reg. 140/2013, s. 12' agree with the official history ('AR 124/2010 s10.48;140/2013') and Book B ('Alta. Reg. 140/2013, s. 12'); 'November 1, 2010' and the Gazette date 'May 15, 2021' (the one Book C prints throughout Part 10, see the 10.1 flag) were not checked. The entry is printed under the Division heading 'Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS', which agrees with the official Division 3 heading. Its rule text equals the official text."
     }
   },
   "sources": {
@@ -44,7 +47,7 @@
     },
     "BOOK_A": {
       "title": "Recovery of Goods and Services Tax",
-      "operative_text_raw": "10.48(1) Unless the Court otherwise orders, a party entitled to a costs award is\nentitled to an additional amount on account of goods and services tax³\n(a) on the fees portion of the costs award, and\n(b) on those disbursements, if any, that are taxable supplies under the\nExcise Tax Act (Canada).\n(2) Notwithstanding subrule (1), no additional amount on account of goods and\nservices tax is recoverable where the tax is refundable or rebateable pursuant to\nthe Excise Tax Act (Canada).⁴\n[Alta. Reg.124/10;140/13]",
+      "operative_text_raw": null,
       "operative_text_sha256": "ecdfc59d48766a6e7df584d3e2c836c4a15161023a15bc21559369546957f86c",
       "related_provisions": "10.31 (costs awards)",
       "commentary": "What is popularly called the goods and services tax, or \"GST\", is a tax levied under the federal\nExcise Tax Act. (In many provinces, it is called the “harmonized sales tax” or “HST”. )\nRule 10.48 used to require an afﬁdavit saying that the GST is actually payable by the person\nbeneﬁtting from a costs award,⁵\nbut the court could waive that.⁶\nThat requirement has now been\ntaken out of the Rule, but a form replaces that. Form 44 (Writ of Enforcement) contains a warranty\nthat the recipient of party-party costs is not entitled to reimbursement of GST from anyone else.\nThat warranty has to be present and signed, to add GST to the costs.⁷\nMost businesses are\nentitled to that reimbursement from Revenue Canada, and so cannot add GST to party-party\ncosts.\n\nThis tax is in no sense compensation to a solicitor, who collects it merely as agent for the\ngovernment.¹\nWhere one party to the litigation is the federal government, it may be ordered to reimburse\nany GST which the opposing side has paid on its litigation expenses.²\nBut if the party is a private\nperson, it may be presumed that he or she cannot pass GST on, and should be reimbursed for it.³\nA municipality used to pay GST, but then got a rebate of about ½, and so could claim only the\nnet GST in costs.⁴",
@@ -105,7 +108,9 @@
           "10-138",
           "10-139"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (title on line 7383, text lines 7384-7392) has the same words as the official text (compared token by token) with these differences: the footnote markers '3' after 'goods and services tax' in (1) (line 7385) and '4' after (2) (line 7391), and the amendment bracket '[Alta. Reg.124/10;140/13]' on a line of its own after (2) (line 7392), which agrees with the official history 'AR 124/2010 s10.48;140/2013' and with Book B's 'Alta. Reg. 140/2013, s. 12'. Subrules (1)(a)-(b) and (2) are complete.",
+      "commentary_review_flag": "Read in full, p.10-138 (line 7383) to p.10-139 (line 7431): title (line 7383), rule text (lines 7384-7392), Related Provisions (lines 7394-7395: '10.31 (costs awards)'), the note (lines 7397-7408 on p.10-138 and lines 7424-7431 on p.10-139: the definition of GST, the former affidavit requirement, Form 44, and four statements on who may recover GST) and 9 footnotes: p.10-138 fns 3-7 (lines 7413-7420; fns 1 and 2 of that block belong to the 10.47 note) and p.10-139 fns 1-4 (lines 7450-7461; fn 5, the history of 10.49, is not counted here). The 'DIVISION 4 / SANCTIONS / Subdivision 1 / Penalty' headings (lines 7432-7435) belong to 10.49 and are printed after this note. Read against the official text: the rule text equals official 10.48 apart from the footnote markers and the amendment bracket (see the text note). (1) Related Provisions '10.31 (costs awards)' is a label for official 10.31 'Court-ordered costs award'. (2) 'Form 44 (Writ of Enforcement) contains a warranty that the recipient of party-party costs is not entitled to reimbursement of GST from anyone else' (lines 7402-7404) misnames the form: official Form 44 is 'Bill of Costs' ([Rule 10.35(1)], official line 23557), not a writ of enforcement, and it does contain a GST warranty (that the party entitled to the costs award is not entitled under the Excise Tax Act to a refund or rebate of GST paid); Book C also says 'Form 44 requires a warranty' but does not call it a writ. 'Rule 10.48 used to require an affidavit ... but the court could waive that' (fns 5-6) is history of the former rule; the official text of 10.48 today has no affidavit and no warranty requirement (the warranty is in Form 44); 'Most businesses are entitled to that reimbursement from Revenue Canada, and so cannot add GST' agrees with official 10.48(2) (no additional amount where the tax is refundable or rebateable). (3) Case-law statements in the note with their footnotes: 'This tax is in no sense compensation to a solicitor' (p.10-139 fn 1, Morrison v. Rod Pantony P. C. 2008 ABCA 145); the federal government reimbursing GST (fn 2 is a C. P. E. reference only); 'if the party is a private person, it may be presumed that he or she cannot pass GST on' (fn 3, Huet v. Lynch (#3), supra; Phillip v. Whitecourt Gen. Hosp. (#2); Peter Pond Hldg. v. Shragge; Mar Automobile Hldg. v. Rawlusyk; Klemke Mining Corp. v. Shell Can. (#2)); the municipality rebate (fn 4, Peter Pond Hldg. v. Shragge, supra; Edm. Regl. Airports Authy. v. N. W. Geomatics (#2)). (4) supra/infra and citation checks: p.10-139 fn 3 'Huet v. Lynch (#3), supra; Huet (V. A. H. ) v. Lynch 1998 ABCA 1020, 238 AR 201' prints the court label ABCA for the citation that the 10.29 note prints as 'Huet v. Lynch 1998 ABQB 1020, 238 AR 201' (line 2321; the same volume and page 238 AR 201, so one of the two labels is a misprint); fn 3 prints 'leave den (SCC 12 Apr ’07)' for Phillip v. Whitecourt Gen. Hosp. 2006 ABCA 245 (lines 7454-7455), the same year as lines 4360-4361 of the 10.31 note and unlike the '’97' of lines 3893 and 4249 (see the 10.31 flag); fn 4 'Peter Pond Hldg. v. Shragge, supra' follows the full citation in fn 3 of the same page; no infra; no '(#_)'-type placeholder. The history footnotes (p.10-138 fns 3-4: 'Quite similar to previous R.605(9)' and 'R.605(10)', 'first enacted by Alta. Reg.38/03, and amended later in 2003') name old rules not checked against any old-rule text. Book B has no commentary for this rule, so nothing in this note is corroborated by Book B."
     },
     "BOOK_B": {
       "title": "Recovery of goods and services tax",
@@ -136,9 +141,11 @@
           "citations": [
             {
               "neutral_citation": "2013 ABCA 139",
-              "style_of_cause": "In Horizon Resource Management Ltd. v. Blaze Energy Ltd."
+              "style_of_cause": "Horizon Resource Management Ltd. v. Blaze Energy Ltd.",
+              "note": "The builder's style-of-cause field holds 'In Horizon Resource Management Ltd. v. Blaze Energy Ltd.' with the word 'In' of the sentence; the commentary prints 'Horizon Resource Management Ltd. v. Blaze Energy Ltd., [2013] A.J. No. 342, 2013 ABCA 139 (Alta. C.A.)'. Book A prints 'Horizon Res. Mgmt. v. Blaze Enr. 2013 ABCA 139, 544 AR 239' (fn 6, line 7418) for the statement that the court could waive the affidavit requirement; Book B prints the case in other commentaries (rule4_part02_document.json, rule8_part01_document.json and others)."
             }
-          ]
+          ],
+          "review_flag": "The commentary 'General Principles' (1,074 characters) is scrambled and cut off: (1) 'This rule precludes recovery of GST in a costs award where the claiming party receives an input tax credit under the Excise Tax Act, because that is the sort of “reimbursement” contemplated by rule 10.48(2)(c) - and Form 44 requires a warranty to the effect that the GST will not be reimbursed by any other person.' agrees with official 10.48(2) (no additional amount where the tax is refundable or rebateable) and with the GST warranty in official Form 44 ('Bill of Costs'), but 'rule 10.48(2)(c)' does not exist: official 10.48(2) has no paragraphs; then the citation 'ConocoPhillips Canada Operations Ltd. v. 1835651 Alberta Ltd., [2020] A.J. No. 20, 2020 ABQB' is cut off before the number (Book B's rule4_part01_document.json prints 'Conoco Phillips Canada Operations Ltd. v. 1835651 Alberta Ltd., 2020 ABQB 14' for the same name, which fits [2020] A.J. No. 20; the number is not restored here and the case is not in the citation list); (2) 'Rule 10.48 is prefaced by the words “[u]nless the court otherwise orders”. In Horizon Resource Management Ltd. v. Blaze Energy Ltd., [2013] A.J. No. 342, 2013 ABCA 139 (Alta. C.A.) the trial judge specifically directed that there would be no Goods and Services Tax (GST) payable on fees. There was no specific direction ... regarding the payment of GST on disbursements ... Horizon’s bill of costs included a claim for GST on disbursements. The Court of' - cut off, followed by the running head 'PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS' printed as part of the text. The words after 'The Court of' (the Court of Appeal's decision) are not printed. 'unless the Court otherwise orders' agrees with official 10.48(1)."
         }
       ],
       "misattributed_entries": [],
@@ -154,7 +161,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 7383, text lines 7384-7392) has the same words as the official text (compared token by token) with these differences: the footnote markers '3' after 'goods and services tax' in (1) (line 7385) and '4' after (2) (line 7391), and the amendment bracket '[Alta. Reg.124/10;140/13]' on a line of its own after (2) (line 7392), which agrees with the official history 'AR 124/2010 s10.48;140/2013' and with Book B's 'Alta. Reg. 140/2013, s. 12'. Subrules (1)(a)-(b) and (2) are complete."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -265,12 +273,19 @@
     "gate_artifact_sha256": "b6e1faf4df8ef29bfd9b4802cb934b1370e498724b8534a14b71a637aae724ee"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.48' with the pattern that also finds line-wrapped forms; ranges searched separately): four hits, the table of contents (line 1647), the page heading (line 13089), the rule (line 13097) and its history line (line 13108, 'AR 124/2010 s10.48;140/2013'). No other rule or form cites 10.48 by number. By subject: 10.35 'Preparation of bill of costs' and Form 44 'Bill of Costs [Rule 10.35(1)]' (official line 23557; its GST section, 'the party entitled to the costs award warrants that it is not entitled under the Excise Tax Act (Canada) to a refund or rebate of any goods and services tax paid'), 10.31 'Court-ordered costs award'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.31 Related Provisions (line 3031, p.10-60: '10.48 (G. S. T. )') and note (line 3084, p.10-61: 'On G. S. T. , see R.10.48n.', which lands on this note), the running head (line 7371, p.10-138) and this rule (line 7384); no other Book A file cites 10.48.",
+    "BOOK_B: rule10_part10_document.json (8 lines with '10.48': this rule's heading and paragraph records) holds the heading and the rule text (EXACT_MATCH) and no commentary; no other Book B file cites 10.48 by number. Amendment note 'Alta. Reg. 140/2013, s. 12'. Book B rule4_part01_document.json (a Rule 4 commentary) prints 'Conoco Phillips Canada Operations Ltd. v. 1835651 Alberta Ltd., 2020 ABQB 14, 2020 CarswellAlta 16 (Master)' (see the Book C flag).",
+    "BOOK_C: '501-520_10_47 to 11_9.json' (7 hits; the entry is printed under the Division heading 'Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS'; rule text equal to the official text, amendment note, commentary 'General Principles' of 1,074 characters, one citation); no other Book C file cites 10.48 by number."
+  ],
   "dedupe_log": [
     "10.48 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.48 BOOK_C: operative text dropped (EXACT_MATCH)",
     "10.48 BOOK_C citation context dropped (2013 ABCA 139): verbatim in kept text",
     "10.48 BOOK_C commentary sentence split dropped",
     "10.48 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
-    "10.48 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.48 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.48 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }

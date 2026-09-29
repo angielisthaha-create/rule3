@@ -143,6 +143,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-137/138, 2 footnotes; Book B heading and rule text only; Book C entry in file 501-520). Flags: Related Provisions '2.14(2)(f)' should be (g), receivership statement not about litigation representatives, exemption case contradicts 10.47(1) wording, Book C Information Note garbled by a Thompson v. Procrane citation.
 
 10.48 Recovery of goods and services tax
+     [1st pass] Read in full by hand (Book A p.10-138/139, 9 footnotes; Book B heading and rule text only; Book C entry in file 501-520). Flags: 'Form 44 (Writ of Enforcement)' misnames Form 44 (Bill of Costs), Huet v. Lynch ABCA/ABQB label, Book C commentary scrambled and cut off ('rule 10.48(2)(c)' does not exist, ConocoPhillips citation number missing).
 
 10.49 Penalty for contravening rules
 
