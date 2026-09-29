@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.25 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*' and then, in the same field, the heading 'Subdivision 5: APPEAL FROM REVIEW OFFICER'S DECISION' - the heading of Subdivision 5, which begins at 10.26 in the official text (table of contents: Subdivision 5, 10.26), so it is not part of 10.25 or of the amendment note. 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. Book C's entry has the rule text (equal to the official text), no commentary and no citation."
     }
   },
   "sources": {
@@ -71,7 +74,8 @@
           "10-39"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-38 (line 1836) to p.10-39 (line 1864): title (line 1836), rule text (lines 1837-1838; marker '3' after 'lawyer's control.'), Related Provisions (lines 1840-1841: '2.28 (change of lawyer) ; 5.13 (obtaining records from others)'), and the note (lines 1843-1845 on p.10-38 and lines 1858-1863 after the page marker 10-39 at line 1856) with footnotes: p.10-38 fns 3 and 4 (block from line 1847; fns 1-2 belong to the 10.24 note) and p.10-39 fn 1 (line 1896, in the block after the text of 10.26) = 3. The lines after the note, 'Subdivision 5 / Appeal from Review Officer's Decision' (lines 1865-1866), are the division heading that precedes 10.26. Read against the official text: the rule text equals official 10.25 (EXACT_MATCH, no differences); the Related Provisions labels '2.28 (change of lawyer)' and '5.13 (obtaining records from others)' are labels for official 2.28 ('Change in lawyer of record or self-representation') and 5.13 ('Obtaining records from others'), and the Part 2 and Part 5 Related Provisions list 10.25 in return. The note is case-law summary, not the rule: the former estate solicitor who would not cooperate (fn 4 Re Marchuk Est. 2006 ABQB 24); 'There is a discussion of whether the client or the lawyer owns any given papers on the file of that lawyer ... Ownership between principal and agent is not the test. There are few bright lines.' (fn 1 of p.10-39: CPC Networks Corp. v. McDougall Gauley 2023 SKCA 90, Saskatchewan Court of Appeal, paras 15-37, 'A set of 6 rules is given in ¶ 37: ibid.'; the Part 5 note cites the same case as 2021 SKCA 127, combined_rule5.txt line 2373). Official 10.25 says nothing on ownership of papers; the six 'rules' of ¶ 37 are not printed. History fn 3: 'Quite similar to previous 1968 R.649. It came from 1914 R.779 (amended by O. C.1590-36), and 1944 C. R. 782. Cf. (Imp.) 6 & 7 Vict. c.73 s.37, 7th para.' - the 10.12 history (p.10-28 fn 7, line 1379) also cites '1914 R.779' and 'O. C.1590-36'; the note is not corroborated by Book B or Book C, which print no history. supra/infra: no supra or infra is used in this note. Printed as is: 'Re Marchuk Est.2006 ABQB 24'; 'CPC Networks Corp. v. McDougall Gauley 2023 SKCA 90 (Aug 10)'."
     },
     "BOOK_B": {
       "title": "Order to return records",
@@ -219,6 +223,12 @@
     "gate_artifact_sha256": "72f209452f4f03b95862c5e969389467fc688dcd0299141b9248098a9190ccb4"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.25' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1552) and the rule (line 12351). No other rule or form cites 10.25 by number. By subject (the rules Book A lists): 2.28 (title 'Change in lawyer of record or self-representation', line 195), 5.13 (title 'Obtaining records from others', line 731); also 10.21 (repayment of charges paid) and 10.26 (the next rule, appeal to a judge; Subdivision 5 begins there).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hit is the rule text (combined_rule10.txt line 1837, p.10-38); the running head of that page names 10.24. Other Book A passages that cite 10.25: the Related Provisions of a Part 2 rule (combined_rule2.txt line 3180: '2.32 (lawyer ceasing to practice) ; 10.25 (records in lawyer's possession) ; 11.17 (service on ...') and of a Part 5 rule (combined_rule5.txt lines 4104-4105: '5.5 (who must discover records) ; 6.26 (inspecting property) ; 10.25 (obtaining records in lawyer's possession).'). No other Book A file cites 10.25.",
+    "BOOK_B: a heading paragraph and no commentary ('10.25. Order to return records', rule10_part04_document.json); no other Book B file cites 10.25 by number.",
+    "BOOK_C: the entry for 10.25 in '461-480_10_11 to 10_31.json' (text, amendment note and, after the note, the heading 'Subdivision 5: APPEAL FROM REVIEW OFFICER'S DECISION'; no commentary); no other Book C file cites 10.25 by number."
+  ],
   "dedupe_log": [
     "10.25 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.25 BOOK_B: operative text dropped (EXACT_MATCH)",
