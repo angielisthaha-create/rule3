@@ -98,6 +98,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-103/104, 10 footnotes; Book B 10.32:1 in full; Book C two-piece entry). Flags: Related Provisions '2.61' (official 2.6), 10.33 'any other matter related' loose vs (2), placeholders, Book B 'section 10.32 of the Act' in 2.6:1, Book C commentary cut off and continued in a fragment entry (list includes 10.28).
 
 10.33 Court considerations in making costs award
+     [1st pass] Read in full by hand (Book A p.10-104 to p.10-123, 197 footnotes counted per page; Book B 10.33:1 108,402 chars read in full; Book C entry). Flags: Related Provisions unclosed brackets and labels (5.1(1)(c)), 10.49 vs 10.50, R.3.58, out-of-date 3.66 statement, forward supra/infra (Hancock, Katrib, Cochrane, Huet), placeholders and misprints, Schwartz Est. Kwinter/Myron and Chabros 2012 ABQB 517 evidence, Book C rule text cut after (2)(f), citation names restored (Sutherland, Stewart Est.).
 
 10.34 Court-ordered assessment of costs
 
