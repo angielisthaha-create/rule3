@@ -122,6 +122,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-129, 2 footnotes; Book B heading and rule text only; Book C entry, rule text and amendment note only). Flags: Related Provisions point back to 10.16, the one-sentence note has no antecedent ('This was done'), fn 5 identical to 10.37 note fn 2.
 
 10.41 Assessment officer’s decision
+     [1st pass] Read in full by hand (Book A p.10-129 to p.10-133, 29 footnotes; Book B 10.41:1 25,515 chars read in full; Book C entry). Flags: 'Subrule (b)(iii)' does not exist, Schedule C amounts $250 and $5,000 vs current official items 9(1) and 12, double costs statement not in the rule text (Singh v. Noce, Book B para 39), amendment bracket printed mid-rule, three page breaks inside the rule text, Book C rule text cut off in (3) lead-in and no amendment note.
 
 10.42 Actions within Provincial Court jurisdiction
 
