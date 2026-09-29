@@ -1,0 +1,281 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.51",
+  "title": {
+    "official": "Order to appear",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Sanctions"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Civil Contempt of Court"
+  },
+  "operative_text": {
+    "controlling": "10.51   The Court may grant an order in Form 47 that requires a\nperson to appear before it, or may order a peace officer to take a\nperson into custody and to bring the person before the Court, to\nshow cause why that person should not be declared to be in civil\ncontempt of Court.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "c9f6ba0112335e936e9d56b48e94ca524572d8dad602a2ec1203904768ac28f5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.51 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          220
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Order to Appear",
+      "operative_text_raw": null,
+      "operative_text_sha256": "edcd4acd29406bd578f81535edb8693a05955c6c6a622d86466afc7f676529c3",
+      "related_provisions": "10.53 (inherent jurisdiction)",
+      "commentary": "These Rules speak of civil contempt, and so do the comments below. There is a closely allied\ntopic of criminal contempt which in theory is purely a common-law matter.²\nOn contempt generally,\nsee the textbooks.³\nThe Court of King's Bench and the Court of Appeal are superior courts, and therefore have\ninherent power to punish contempt of court occurring before or in connection with them or any\nother court in Alberta.⁴\nThere is a discussion of the common-law powers of inferior or administrative\ntribunals over contempt.⁵\nA statutory grant of the powers of superior courts extends to contempt\ntoo.⁶\nA Registrar in Bankruptcy has power, given by the Bankruptcy and Insolvency Act, to ﬁnd and\npunish contempt outside the presence of the Court, so long as he or she does not order prison.\nThe word \"commit\" refers only to imprisonment.⁷\nCanadian courts should be careful about enforcing foreign court orders by contempt orders for\ndisobeying them. Finality of the order, comity considerations, equitable discretion, and all the bars\nto enforcing a domestic order, can all enter into it.⁸\n\nThe show-cause application under this Rule was reafﬁrmed as proper commencement\nprocedure.¹\nAn application for someone to show cause why he should not be held in contempt of\ncourt sets up a two-stage process (which Rr.10.51 and 10.52 also set). So an order was issued\nthat the respondents appear and show cause why they should not be held in contempt.²\nThough\nthe court has the power to force someone alleged to be in contempt to turn up in court, and can\narrest him if need be, arrest is rarely ordered for civil contempt.³\nOn freedom of speech and its impact on contempt, see the A. U. P. E. case.⁴",
+      "footnotes": [
+        {
+          "page": "10-145",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.702(2). It was new in 1968."
+        },
+        {
+          "page": "10-145",
+          "number": 2,
+          "text": "See also Turkawski v.738675 Alta. (#3) 2001 ABQB 754, 298 AR 226, and R. v. Edm. Sun 2003 ABCA 3, 320 AR 217."
+        },
+        {
+          "page": "10-145",
+          "number": 3,
+          "text": "Miller, Contempt of Court (4th ed. O. U. P.2000) ; Mahmood, Contempt of Court and the New Rules (Law Brief 2021; Barrie and Lowe’s Law of Contempt (3rd ed. Butterworths 1996) ; Arlidge and Eady, Law of Contempt (Sweat & Maxwell 1982) ; Miller, Law of Contempt in Canada (Carswell 2d ed.2016). See also a 1977 Report by the Law Reform Commission of Canada."
+        },
+        {
+          "page": "10-145",
+          "number": 4,
+          "text": "The inherent power is conﬁrmed in R.10.53. See the C. P. E. , Chapter 62, Part K, and C. B. C. v. Que. Police Comm. [1979] 2 SCR 618, 28 NR 541, 551-62. It is hard to think that the Court of Appeal would exercise such original jurisdiction over contempt in front of another court, however."
+        },
+        {
+          "page": "10-145",
+          "number": 5,
+          "text": "C. B. C. v. Que. Police Comm. , supra, at 551-65. See the C. P. E. , Chapter 62, Part K."
+        },
+        {
+          "page": "10-145",
+          "number": 6,
+          "text": "Ibid."
+        },
+        {
+          "page": "10-145",
+          "number": 7,
+          "text": "The Court of Appeal found this power in a combination of several sections in the Act about the general role of the Registrary, and in the odd results which would ﬂow from any contrary interpretation: Lymer v. Jonsson (Re Lymer) 2016 ABCA 76, 616 AR 190."
+        },
+        {
+          "page": "10-145",
+          "number": 8,
+          "text": "Pro Swing v. ELTA Golf 2006 SCC 52, [2006] 2 SCR 612; Tsuu T’ina Nation v. Frasier 2009 ABCA 140, 457 AR 4."
+        },
+        {
+          "page": "10-146",
+          "number": 1,
+          "text": "Bilhete v. Wong 2013 ABQB 514, [2013] AR Uned 576."
+        },
+        {
+          "page": "10-146",
+          "number": 2,
+          "text": "Wade v. Wade 2021 ABQB 865, JCE 2103 10903 (Nov 1) (¶’s 19-27)."
+        },
+        {
+          "page": "10-146",
+          "number": 3,
+          "text": "Cf. Turkawski v.738675, supra. Except under domestic injunctions with a police assistance clause, or in case of contempt in the face of the court."
+        },
+        {
+          "page": "10-146",
+          "number": 4,
+          "text": "Alta. Govt. v. A. U. P. E.2014 ABCA 197, 575 AR 338, leave den (SCC 29 Jan ’15)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7747,
+          7803
+        ],
+        "book_pages": [
+          "10-145",
+          "10-146"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Order to appear",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.51:1",
+          "text": "Rule 10.51 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.51. 1. — Procedural overview In Wade v. Wade, 2021 ABQB 865, 2021 CarswellAlta 2714, Justice Lema outlined the procedures created by Rules 10.51 and 10.52: [19] A[n] interested person perceiving that another or others are in civil contempt faces a two-stage process: (1) an initial application (per R. 10.51) where allegations of contempt are raised and, if apparent or ostensible contempt is shown, a “show cause” order can be issued; and (2) the “show cause” hearing itself, conducted per R. 10.52"
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_51_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_004",
+        "part10_rule_10_51_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_006"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part11_document.json"
+        ]
+      },
+      "operative_text_sha256": "0f4ba5ed10fae11533f04f2e612ee6c01711cd2de7567440e77635056debfefb",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Order to appear",
+      "division_heading": "Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0f4ba5ed10fae11533f04f2e612ee6c01711cd2de7567440e77635056debfefb",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "501-520_10_47 to 11_9.json",
+        "source_file": "501-520_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 10.51 is in Division 4 (Sanctions) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.51",
+      "title_official": "Order to appear"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "edcd4acd29406bd578f81535edb8693a05955c6c6a622d86466afc7f676529c3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7747,
+            7803
+          ],
+          "book_pages": [
+            "10-145",
+            "10-146"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "0f4ba5ed10fae11533f04f2e612ee6c01711cd2de7567440e77635056debfefb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part11_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "0f4ba5ed10fae11533f04f2e612ee6c01711cd2de7567440e77635056debfefb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "501-520_10_47 to 11_9.json",
+          "source_file": "501-520_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "c9f6ba0112335e936e9d56b48e94ca524572d8dad602a2ec1203904768ac28f5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            220
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "edc12b2c27dd2258d44f578a08e076050dbdbd7dd4c4355b8ca05867d78bd4b5"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.51 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.51 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.51 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.51 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

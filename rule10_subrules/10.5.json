@@ -1,0 +1,428 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.5",
+  "title": {
+    "official": "Retainer agreements",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Retainer Agreements"
+  },
+  "operative_text": {
+    "controlling": "10.5(1)  A lawyer may make an agreement with a client about the\namount and manner of payment of the whole or any part of past or\nfuture lawyer’s charges for services performed by the lawyer.\n(2)  The amount a lawyer is to be paid may be determined in any\nappropriate way, including\n(a) a gross sum,\n(b) commission,\n(c) percentage,\n(d) salary, or\n(e) an hourly rate.\n(3)  The amount payable may be at the same or at a greater or lesser\nrate than the rate to which the lawyer would be entitled under rule\n10.2 if no retainer agreement were entered into.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "686668b0f994a51eb2779e12dcab5f78e10da873efc6d24869922f184902f9ce"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.5 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          195
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Retainer Agreements",
+      "operative_text_raw": "10.5(1) A lawyer may make an agreement with a client about the amount and\nmanner of payment of the whole or any part of past or future lawyer’s charges\nfor services performed by the lawyer.\n(2) The amount a lawyer is to be paid may be determined in any appropriate way,\nincluding\n(a) a gross sum,\n(b) commission,\n(c) percentage,\n(d) salary, or\n(e) an hourly rate.\n(3) The amount payable may be at the same or at a greater or lesser rate than the\nrate to which the lawyer would be entitled under rule 10.2 [Payment for lawyer’s\nservices and contents of lawyer’s account] if no retainer agreement were entered\ninto.⁶",
+      "operative_text_sha256": "e2f1b3544de52ee7e2a7d62da645a347716bea1164614e023cd539d7bd0203fc",
+      "related_provisions": "10.7 (contingency agreements)",
+      "commentary": "A. Basic Principle\nIf the client is of age and sound mind, and not a trustee in bankruptcy or other court ofﬁcer\nor ﬁduciary, the client and the lawyer can validly make almost any contract which they wish,\ngoverning the timing of and the basis for, the lawyer’s fees or disbursements.¹\nAn agreement for\nperiodic billing can govern whether such bills are tentative or ﬁnal, and so set the time for review\nby the review ofﬁcer.²\nSince the Fatal Accidents Act requires that the plaintiff be the executor or administrator, that\nperson has authority to make legal fee agreements (including contingency ones) covering the\nfunds later recovered under the suit, including funds for a child. Such tasks are common for\nexecutors. The Public Trustee can make representations about a fee for a child; the court must\napprove any fee.³\nA review ofﬁcer cannot interpret such an agreement, but can say whether an agreement is\nunderstandable enough to comly with the Rules.⁴\nAn oral retainer agreement is valid, so long as it is not a contingency agreement.⁵\nThe contract\ncan take almost any form (with a few express exceptions in these Rules), so long as it is clear and\nexpress.⁶\nA lawyer cannot charge higher hourly rates than those agreed to.⁷\nA fee contract must\nbe very clear if it is to allow a fee higher than hourly rates, for success.⁸\nB. Forbidden Terms\nHowever, there are 4 things which the contract cannot do:\n1. relieve the lawyer from liability, e. g. for negligence (R.10.6(1) (a) );\n2. bar the power of the review ofﬁcer (within 6 months) to reduce the lawyer’s charges if\nthey are not in accordance with the contract, or maybe if the contract is unreasonable (R.\n10.9);\n3. remove the client’s power to ﬁre the lawyer (R.10.6(2) );⁹\n4. remove the client’s power to discontinue or settle the suit over the lawyer’s opposition (R.\n10.6(1) (b) ).\n\nThere is no bar to clauses setting what happens if the review is terminated, or providing for\narbitration.¹\nC. Explanations to Client\nIt is doubtful that independent legal advice is needed before a contract is made between\nsolicitor and prospective client.²\nIt is not true that a large number of things must always be explained by the lawyer to the\nclient, so that if they are not all explained, any agreement between lawyer and client is void or\nunenforceable. Instead, what has to be explained depends on all the circumstances, including\nwhat the parties already know and what the deal is. If there is a clear and clearly-understood\nagreement to bill on a certain basis, it is both unnecessary, and harmful, to explain the contrary. It\nwould be confusing to explain other possible bases for billing or other Rules of Court which do not\napply.³\nA case where a client signed an unexplained written document could be different.⁴\nThough there might be waiver of rights (needing explanation) where a lawyer wants to change\nthe basis of billing partway through the retainer, there is no waiver where there is one consistent\ntype or basis for billing from the outset, and it is clear that nothing else will be considered or\nagreed to. There is then no need to explain waiver.⁵\nIf a lawyer contracts with his client to change the billing basis to hourly rate from some other\nbasis, the lawyer should tell the client what hours have already been accumulated and so would\nbe charged.⁶\nD. Interpretation and Credibility\nOn evidence, see R.10.17 n.\nThere is a review of the objective nature, and rules of, interpreting fee or retainer agreements,\nincluding the factual matrix.⁷\nA fee contract is construed as of the date it is made, not later.⁸\nSome courts suggest that in factual disputes between solicitor and client over fees, the client\nshould be believed and the solicitor stereotyped and disbelieved,⁹\nbut that is not the law in Alberta.¹⁰\nIf there is no fee contract, or the contract seems to invoke R.10.2, then the factors in R.10.2\napply.¹¹\n\nSince retainer agreements are treated contra preferentem,¹\nmay hints and indirect\nsuggestions in a written contract override an express sentence to the contrary?²\nThough a review ofﬁcer cannot interpret a retainer contract, he or she can review it for\nreasonableness. An unspeciﬁed term of an order or implied retainer contract can be read in by\nthe review ofﬁcer as reasonableness, for R.10.9 mandates that.³\nIt is extremely unlikely that a client had a contract with a lawyer for services under the client’s\ndirection, but no possible liability to pay any fees, even if there was an insurance company, when\nthe insurer did not select or instruct the lawyer and had no exposure to indemnify if the insured\nlost the litigation.⁴\nThe party having to pay costs has an interest in the contingency agreement and is entitled to\nfull disclosure of it. The plaintiffs did not seek costs on Schedule C, and the disclosure order was\nconditional on seeking costs based on the contingency agreement. Rule 10.15(b) on conﬁdentiality\ndoes not apply. The paying party is not a party to the fee contract, which only becomes relevant\nby being incorporated into the costs award. The winning parties were given costs from the losing\nparty of 75% of the actual amount of expenses incurred. The winning party had a contingency\nagreement with their lawyer.⁵\nA retainer agreement is presumed conﬁned to the initial suit in the trial courts and does not\ncover appeals from that, which would ordinarily need a separate contract.⁶\nOn an agreement about fees to an estate, see the Salmon case.⁷\nA contractual discount for prompt payment cannot be relied on by a client who has the court\nreview the account and does not pay promptly, even if he had previously given a (partial) deposit.⁸\nE. Miscellaneous\nA retainer agreement may not be applicable to legal work done outside of the scope set out\nin the retainer. When there is no applicable written retainer, the Court will determine the scope of\nthe retainer governing the parties, and the terms of that agreement is largely a question of fact.⁹\nEven if signatures on a retainer agreement were genuine, if the client corporation did not exist\nat the relevant time, there could be no retainer.¹⁰\nThe court can “void” a retainer agreement between a lawyer and a client because of the\nclient’s incapacity, especially how much the lawyer knew of that or should have found out. The\ntests are analyzed in the framework of contract law. If a lawyer knows certain things, that may give\nthe lawyer the duty to inquire further.¹¹\n\nThe court mildly criticized a client who did not appeal review of her lawyer’s account but then\nlater challenged the retainer, though not with any notice of motion, nor any transcription of the\ntaxation.¹\nA lawyer can recover only expenses incurred and included in the retainer, or something which\nwould be incurred in the normal course.²\nIf one co-plaintiff waived privilege for a fee agreement, by seeking advance costs, that does not\nwaive privilege of another plaintiff who did not seek them. Nor is relevance of such an agreement\nenough to override privilege. Nor does that change because one plaintiff (through poverty) drops\nout, if it is possible that the same solicitor might continue to represent the remaining plaintiff. How\nthe plaintiff will pay his or her counsel is not really the defendant’s concern.³\nEven if a contingent-fee agreement is unenforceable (for want of some of the mandatory\ncontents), the fairness of the fee to which the law ﬁrm is entitled involves looking at (inter alia)\nthe client’s reasonable expectations, and R.10.2 tells the review ofﬁcer to look at any retainer\nagreement and all the surrounding circumstances, including work done and result achieved, and\nanything else relevant. Reasonable expectations include what an agreement said.⁴\nIt was also\nrelevant that the client settled and took settlement proceeds, and then took an unsustainable legal\nposition contrary to the ﬁrm’s advice, and that made the fee charged reasonable.⁵",
+      "footnotes": [
+        {
+          "page": "10-10",
+          "number": 6,
+          "text": "Quite similar to previous 1968 R.615. It came from 1914 R.748, and 1944 C. R.749, though they said “in writing”. It stemmed from (Imp. ) Solicitors Act 1870, via Ont.1909 c.28, and R. S. O.1937 c.223 s.48. A contingency fee agreement has special Rules: Rr.10.7 ff. On whether some breach of those Rules can still leave some legal effect for such an agreemnt, see R.10.2n."
+        },
+        {
+          "page": "10-11",
+          "number": 1,
+          "text": "Steinke v. Hajduk Gibbs 2014 ABQB 34, 581 AR 91 (¶’s 51, 54) ; Samson Cree N. v. O’Reilly & Associés 2014 ABCA 268, 580 AR 181. See McDonald Crawford v. Morrow, infra. But cf. dictum in Stubbard v. Hajduk Gibbs 2014 ABQB 632, 597 AR 254, and Khan v. Paul A. Kazakoff P. C.2019 ABQB 168, JCC 1801 00721 (Mar 8). On reasonableness, see Rr.10.9, 1010, and the annotations to them."
+        },
+        {
+          "page": "10-11",
+          "number": 2,
+          "text": "Samson Cree v. O’Reilly, supra."
+        },
+        {
+          "page": "10-11",
+          "number": 3,
+          "text": "Johnson v. Thingvold (#2) 2019 ABQB 4, JCE 1603 04131."
+        },
+        {
+          "page": "10-11",
+          "number": 4,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2020 ABQB 732, JCE 1803 16987 (Nov 24) (¶’s 43-51). The Court of Appeal afﬁrmed this decision and agreed with it on this point: Betser-Zilevitch v. Prowse Chowne 2021 ABCA 129, [2021] AJ #480 (¶’s 14, 21). See also Adebisi v. Dentons Can.2023 ABKB 452, JCE 2103 13357 (Jul 31) (¶’s 29 ff. )."
+        },
+        {
+          "page": "10-11",
+          "number": 5,
+          "text": "Moll v. MacPherson Leslie & Co.2014 ABCA 45, 569 AR 69; cf. Samson Cree v. O’Reilly, supra. Contra, Khan v. Kazakoff, supra."
+        },
+        {
+          "page": "10-11",
+          "number": 6,
+          "text": "McDonald Crawford v. Morrow 2004 ABCA 150, 348 AR 118."
+        },
+        {
+          "page": "10-11",
+          "number": 7,
+          "text": "Prowse Chowne v. Northey (Alta TO 2002) 38 CPC(5th) 370; McDonald Crawford v. Morrow, supra."
+        },
+        {
+          "page": "10-11",
+          "number": 8,
+          "text": "McDonald Crawford v. Morrow."
+        },
+        {
+          "page": "10-11",
+          "number": 9,
+          "text": "See the C. P. E. , Chapter 82, Part L.9."
+        },
+        {
+          "page": "10-12",
+          "number": 1,
+          "text": "Tallcree F. N. v. Rath & Co.2022 ABCA 174, Edm 2103 0093 AC (May 11) (¶’s 86-87), leave den (SCC 16 Mar ’23)."
+        },
+        {
+          "page": "10-12",
+          "number": 2,
+          "text": "See the C. P. E. , Chapter 82, Part K.4. But cf. Khan v. Kazakoff, supra."
+        },
+        {
+          "page": "10-12",
+          "number": 3,
+          "text": "Samson Cree v. O'Reilly, supra. This was an extremely well-informed sophisticated client, who knew the circumstances."
+        },
+        {
+          "page": "10-12",
+          "number": 4,
+          "text": "dictum in Samson Cree v. O’Reilly, supra."
+        },
+        {
+          "page": "10-12",
+          "number": 5,
+          "text": "Samson Cree v. O’Reilly, supra."
+        },
+        {
+          "page": "10-12",
+          "number": 6,
+          "text": "Bell v. Fraser Milner 2003 ABQB 926, 24 Alta LR(4th) 98 (¶’s 63-65)."
+        },
+        {
+          "page": "10-12",
+          "number": 7,
+          "text": "Homersham v. New Urban (Ramsay Exch. ) 2017 ABQB 384, JCC 1501 03716 (Jun 15) (¶’s 40-46)."
+        },
+        {
+          "page": "10-12",
+          "number": 8,
+          "text": "McDonald Crawford v. Morrow. So impecuniosity at the time the contract was made (but not at the time of review) was held relevant, in Tallcree F. N. v. Rath & Co. (#2) 2021 ABQB 234, JCE 1803 05262 (Mar 26) (¶’s 23-26), vard 2022 ABCA 174."
+        },
+        {
+          "page": "10-12",
+          "number": 9,
+          "text": "cf. Foco v. Strathcona Law Grp.2011 ABQB 67, 511 AR 148 (¶ 13) ; Twinn v. Sawridge Band 2017 ABQB 366, [2018] 1 WWR 298 (Jun 7) (purely oral retainer). Such a presumption is rigid and unjust."
+        },
+        {
+          "page": "10-12",
+          "number": 10,
+          "text": "Moll v. MacPherson Leslie, supra. Contra, Khan v. Kazakoff, supra."
+        },
+        {
+          "page": "10-12",
+          "number": 11,
+          "text": "McDonald Crawford v. Morrow."
+        },
+        {
+          "page": "10-13",
+          "number": 1,
+          "text": "Borden Ladner & Co. v. CBI Invs.2016 ABQB 220, 89 CPC(7th) 399."
+        },
+        {
+          "page": "10-13",
+          "number": 2,
+          "text": "Re Van Brabant Est.2013 ABQB 547, JCE ES03 132119 (Sep 19). Quaere. There is a good deal of high authority to the contrary in cases about other types of contract."
+        },
+        {
+          "page": "10-13",
+          "number": 3,
+          "text": "Rath & Co. v. Sweetgrass F. N.2014 ABCA 426, 588 AR 245 (Dec 15)."
+        },
+        {
+          "page": "10-13",
+          "number": 4,
+          "text": "Moll v. MacPherson Leslie & Co. , supra."
+        },
+        {
+          "page": "10-13",
+          "number": 5,
+          "text": "Barry v. Ind. Alliance Ins. (etc. ) (#2) 2022 ABKB 706, 52 Alta LR(7th) 706 (¶’s 8-12)."
+        },
+        {
+          "page": "10-13",
+          "number": 6,
+          "text": "Walsh v. Stephen M. K. Hope 2019 ABQB 516, JCC 1401 02306 (Jul 9) (¶ 66)."
+        },
+        {
+          "page": "10-13",
+          "number": 7,
+          "text": "Re Salmon Est. (#1), supra."
+        },
+        {
+          "page": "10-13",
+          "number": 8,
+          "text": "Graham v. Skovberg Hinz 2006 ABQB 763."
+        },
+        {
+          "page": "10-13",
+          "number": 9,
+          "text": "Twinn v. Sawridge Band 2017 ABQB 366, [2018] 1 WWR 298 (Jun 7)."
+        },
+        {
+          "page": "10-13",
+          "number": 10,
+          "text": "Obi Agbarakwe Pro. Corp. v. Condo. Corp. No.0726502 2011 ABQB 286, 19 CPC(7th) 119 (either because there had not been a turn-over meeting, or because the names of the Board had not been ﬁled in the Land Titles Ofﬁce)."
+        },
+        {
+          "page": "10-13",
+          "number": 11,
+          "text": "Guardian Law Grp. v. L. S.2021 ABQB 591, JCC DA04 06110 (Jul 28)."
+        },
+        {
+          "page": "10-14",
+          "number": 1,
+          "text": "Torode v. Smyth (#1) 2009 ABQB 601, 80 CPC(6th) 378. (And see (#2) 2009 ABQB 682. )"
+        },
+        {
+          "page": "10-14",
+          "number": 2,
+          "text": "Twinn v. Sawridge, supra."
+        },
+        {
+          "page": "10-14",
+          "number": 3,
+          "text": "L. C. v. R. (Alta. ) 2016 ABQB 554, JCE 0703 10836 (Oct 4)."
+        },
+        {
+          "page": "10-14",
+          "number": 4,
+          "text": "Betser-Zilevitch v. Prowse Chowne, infra (¶’s 19-21)."
+        },
+        {
+          "page": "10-14",
+          "number": 5,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2021 ABCA 129, [2021] AJ #480 (Apr 12) (¶ 22)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          415,
+          625
+        ],
+        "book_pages": [
+          "10-10",
+          "10-11",
+          "10-12",
+          "10-13",
+          "10-14"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Retainer agreements",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.5:1",
+          "text": "Rule 10.5 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.5. In Samson Cree Nation v. O'Reilly & Associés, 2013 ABQB 350, 2013 CarswellAlta 1065, 564 A.R. 169, A.C.J. Rooke said, at paragraph 113: 113 OR [Old Rule] 615, Yule[Yule v. Saskatoon (City) (1955) 17 W.W.R. 296 (Sask. C.A.)], and R 10.5 all contemplate that a lawyer and client may enter an agreement for fees to be determined in some other way than those factors, and that the amount payable may be “at the same or at a greater or lesser rate, than the rate at which he would otherwise be entitled to be remunerated” (OR 615) or “at the same or at a greater or lesser rate than the rate to which the lawyer would be entitled under Rule 10.2 if no retainer agreement were entered into” (NR 10.5)."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_5_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_016",
+        "part10_rule_10_5_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_018"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "31dab8b0f67484244572b64bb506b33511a00547d062a3345d536d9dc8ef8f00",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Retainer agreements",
+      "division_heading": null,
+      "operative_text_raw": "(1) A lawyer may make an agreement with a client about the amount and manner of payment of the whole or any part of past or future lawyer’s charges for services performed by the lawyer.\n(2) The amount a lawyer is to be paid may be determined in any appropriate way, including (a) a gross sum, (b) commission, (3) The amount payable may be at the same or at a greater or lesser rate than the rate to which the lawyer would be entitled under rule 10.2 [Payment for lawyer’s services and contents of lawyer’s account] if no retainer agreement were entered into.",
+      "operative_text_sha256": "69c6214d5468c8f6ad919c56bc738d5ca516e2bb58213b36e054ce9b81abb63d",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "A lawyer seeking to collect on a contingency fee who has not complied with rule 10.7 cannot obtain assistance from rule 10.5.22 The Rules are clear on this.\nThere is no duty to discuss assessment (absent a contingency agreement) when making a retainer. However, like rule 10.7(7) (on contingency agreements) it might be appropriate for the Rules of Court Committee to recommend to the Lieutenant Governor in Council a rule that provides a future requirement that each account of a lawyer to a client contain a notice to the effect that a right to review is available, with some time limitations — including that it be brought within two years of the date of the account, unless extended by other factual or legal considerations.\nPrinciples of interpreting a retainer agreement: Samson Cree Nation v. O’Reilly & Associés, [2014] A.J. No. 904, 2014 ABCA 268 at paras. 53, 81-82, 110, 165-169 (Alta. C.A.).\n• Certainty has value for both the client and the lawyer.\n• If there is any doubt on how to interpret the words in a contract, courts should look to what is practical and workable to achieve the aim of the parties.\n• Where a contract has several clauses or parts or terms, they are to be interpreted harmoniously to achieve the overall objective.\n• A claim for a remedial order in the context of a dispute between a lawyer and client is made within the meaning of the , when the appointment Limitations Act for assessment is taken out. Any account pre-dating two years prior to this appointment is statute barred.\n• The word “interim” has two meanings, and thus correspondence describing accounts as interim settles nothing. The first meaning is “between two times or ‘before then’”. This meaning has “nothing to do with finality versus tentative- ness”. The second meaning is that the thing is subject to change. Samson Cree Nation v. O’Reilly & Associés, [2014] A.J. No. 904, 2014 ABCA 268 at para. 110 (Alta. C.A.). This was reiterated in Attila Dogan Construction and Installation Co. Inc. v. Bennett • The court must hold the lawyer and the client to promises made in a retainer",
+          "citations": [
+            {
+              "neutral_citation": "2014 ABCA 268",
+              "style_of_cause": null
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "441-460_10_1 to 10_10.json",
+        "source_file": "441-460_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9543,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "(c) percentage, (d) salary, or (e) an hourly rate.",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.5",
+      "title_official": "Retainer agreements"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "e2f1b3544de52ee7e2a7d62da645a347716bea1164614e023cd539d7bd0203fc",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            415,
+            625
+          ],
+          "book_pages": [
+            "10-10",
+            "10-11",
+            "10-12",
+            "10-13",
+            "10-14"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "31dab8b0f67484244572b64bb506b33511a00547d062a3345d536d9dc8ef8f00",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "69c6214d5468c8f6ad919c56bc738d5ca516e2bb58213b36e054ce9b81abb63d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "441-460_10_1 to 10_10.json",
+          "source_file": "441-460_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "686668b0f994a51eb2779e12dcab5f78e10da873efc6d24869922f184902f9ce",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            195
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "8bb63e7888e09578379e140b5cb6137fa724742a119e9591b1b4daf73234ec5e"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.5 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.5 BOOK_C citation context dropped (2014 ABCA 268): verbatim in kept text",
+    "10.5 BOOK_C commentary sentence split dropped",
+    "10.5 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

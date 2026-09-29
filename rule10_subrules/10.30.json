@@ -1,0 +1,491 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.30",
+  "title": {
+    "official": "When costs award may be made",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rule, Considerations and Court Authority"
+  },
+  "operative_text": {
+    "controlling": "10.30(1)  Unless the Court otherwise orders or these rules\notherwise provide, a costs award may be made\n(a) in respect of an application or proceeding of which a party\nhad notice, after the application has been decided,\n(b) in respect of a settlement of an action, application or\nproceeding, or any part of any of them, in which it is\nagreed that one party will pay costs without determining\nthe amount, and\n(c) in respect of trials and all other matters in an action, after\njudgment or a final order has been entered.\n(2)  If the Court does not make a costs award or an order for an\nassessment officer to assess the costs payable when an application\nor proceeding is decided or when judgment is pronounced or a final\norder is made, either party may request from an assessment officer\nan appointment date for an assessment of costs under rule 10.37.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "b46e7715736afda8da24042102af5db47b6fe095ca5d0cca11146ef5310f591f"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.30 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          208
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "When Costs Award May be Made",
+      "operative_text_raw": "10.30(1) Unless the Court otherwise orders or these rules otherwise provide, a\ncosts award may be made\n(a) in respect of an application or proceeding of which a party had\nnotice, after the application has been decided,\n(b) in respect of a settlement of an action, application or proceeding, or\nany part of any of them, in which it is agreed that one party will pay\ncosts without determining the amount, and\n(c) in respect of trials and all other matters in an action, after judgment\nor a ﬁnal order has been entered.¹⁰\n(2) If the Court does not make a costs award or an order for an assessment ofﬁcer\nto assess the costs payable when an application or proceeding is decided or\nwhen judgment is pronounced or a ﬁnal order is made, either party may request\nfrom an assessment ofﬁcer an appointment date for an assessment of costs\nunder rule 10.37 [Appointment for assessment].",
+      "operative_text_sha256": "b6918df92231b7d2a78ffb7474612ea3da48611102e5807a3524cd34041d7f82",
+      "related_provisions": "9.14 (further orders after judgment) ; 13.1 (any judge can act)",
+      "commentary": "A. No Time Limit\nMany directions respecting costs, such as increasing a fee for an expert, must be made by\nthe trial judge, not the assessment ofﬁcer. At one time there were awkward time limits for such\ndirections, especially entry of the formal judgment. Those were long ago repealed in Alberta,¹\nwith\nthe result that old precedents mentioning a time limit are likely no longer valid. There used to be\nsome time limits on when a judge could give directions as to costs (notably entry of judgment), but\nR.10.30(1) (c) allows late directions.²\nRule 10.30(1) (c) is not a bar or presumption against awarding costs before the judgment or\nﬁnal order has been entered. It is on a different topic: creating an exception to the functus officio\ndoctrine, letting the court award costs after judgment or a ﬁnal order has been entered on the\nsubstantive issues. It allows a costs award then, but does not require it then.³\nHowever, where after a trial a separate hearing about costs is held and decided and an order\nis given, months later the trial judge can decline to hear or decide yet another application for\nhigher expert fees at trial, where still more evidence would be necessary.⁴\nRule 10.30(1) lets costs be awarded or set after entry of judgment, thus modifying the functus\nofficio rule. Because of the presumption in R.14.88, often the Court of Appeal makes no speciﬁc\ndirection about costs, but a request for a more speciﬁc direction should be made to the court\nwithin two months, according to the Information Note associated with R.14.88. Case law says that\nthat period can be extended.⁵\nIf a costs award is made without the judge's knowing that there had\nbeen a formal offer to settle, until the formal judgment or order has been entered, the judge is not\nfunctus officio. And R.10.30(1) (c) makes an exception to functus officio for costs, until entry.⁶\nIf parts of a single costs award are enforceable and parts are not (e. g.2 topics), later the court\ncan use R.9.14 to apportion the award among the 2 topics. It is better that the original judge make\nthe apportionment, but if that judge has moved to another court in the meantime, and transcripts\netc. are available, another judge can apportion.⁷\n\nA decision which speaks to costs before costs are sought cannot preclude an objection to the\ncosts later sought.¹\nThe Limitations Act does not set a deadline for seeking costs. Costs are indemniﬁcation, not a\nrequirement to comply with a duty or to pay damages for violation of a right (which is the deﬁnition\nof a “remedial order” under that Act).²\nB. Advance Costs\nOn an advance or interim costs award, at the outset of a suit, see R. v. Caron,³\nand Anderson\nv. R.⁴\nOrdinarily, the courts do not order advance funding by the government of litigation costs in\nprivate litigation.⁵\nHowever, in exceptional cases involving infants or the public interest, if there is\nno other way to let the suit proceed, the courts may order one litigant to pay the other interim costs\nat an early stage of the suit.⁶\nAdvance costs orders can only be against adverse parties.⁷\nAdvance\ncosts are discretionary and not necessary even if the three tests for such costs are met.⁸\nHowever,\nthe applicant must satisfy three absolute requirements: impecuniosity, a prima facie meritorious\ncase, and issues of public importance.⁹\nAdvance costs are ordered as a last resource.¹⁰\nAdvance costs are still governed by the Okanagan case and require inability to pay for the\nsuit, a prima facie meritorious case, and issues transcending a particular litigant’s individual\ninterests. All three are needed, but even if they are met, the court can still decline to order that.\nThe Anderson Supreme Court of Canada decision ampliﬁes the requirements. Access to justice\nis not the paramount consideration, and advance costs are not a parallel legal aid system. The\ncourts’ constitutional role limits such costs to rare and exceptional cases. The tests are rigorous.¹¹\n\nThe mere fact that the opponent can more easily pay than can the applicant, is not enough.¹\nAnd an unlimited costs-plus approach to such ﬁndings is improper.²\nA party seeking such advance\ncosts from the opponent must demonstrate impecuniosity, and that includes a duty to show that\nother funding has been sought and has all failed, which in turn requires also showing that no\ncounsel can be found who will bring the suit purely on a contingency basis.³\nThe applicant must\ngive evidence of necessity, and at times that evidence must be detailed.⁴\nThe applicant plaintiff\nmust show that the suit has apparent merit,⁵\nbut previous certiﬁcation of it as a class action\nsufﬁces?⁶\nBut going outside what has been certiﬁed does not have prima facie merit.⁷\nTo get\nadvance funding (costs) for a suit from the opponent, public importance beyond private interests,\non issues not yet decided, must be shown.⁸\nIt is important for the public to know that the rights of\nthose for whom the Crown is trustee, are protected.⁹\nThat a public body is a defendant is not enough to show important public interest, which must\nbe exceptional and have real impact and not have been resolved yet. The private interests and\ntorts claims cannot be ignored here.¹⁰\nVulnerability of minors, ﬁduciary duties to them, and the importance of holding such ofﬁcials\naccountable, make advance funding especially suitable.¹¹\nFamily law cases are not apart from\ngeneral law on advance costs; they are indeed that law's exemplar. The usual 3-part test for\nadvance costs applies to family law cases.¹²\nThe 3-part test also applies to appeals, but merit may\nbe harder to show there.¹³\nSee further R.12.36 and notes.\nAdvance costs can be awarded in big chunks, not waiting for each step?¹⁴\nC. Previous Costs Decisions\nOne King's Bench justice cannot make a costs award which contradicts an earlier costs order\nby another judge in the same suit.¹⁵\nBut where the question is simply clarifying the intent of the\n\ncourt in a costs order, it is not functus officio and can later clarify the costs award.¹\nThe whole\nfunctus officio doctrine may not apply to amending judgments or orders in respect of costs, and\nthere is certainly no bar if the judgment or order is not yet entered.²\nA hearing about costs of a previous substantive decision is not the time or place to rehear the\ncorrectness of the previous decision, unless the judge agrees there is some obvious error in it.\nEspecially without notice to the other side of an intent to rehear.³\nD. Settlement\nIf the parties settle part or all of a suit for a lump sum all-inclusive, R.10.30(1) (b) does not\napply, and the court cannot award one party costs for the part settled.⁴\nA settlement contract ending a suit for a lump sum “plus costs” means that any dispute as to\nhow much the costs should be, will be decided by the assessment ofﬁcer (subject to any previous\ndirections by the court).⁵\nA consent judgment calling for taxation (assessment) of costs if they are\nnot speciﬁcally agreed by the parties, implies that the judge exercises his or her usual discretions.⁶\nSettlement of some issues during trial does not bar a costs award about them, at least to date\nof that settlement.⁷\nE. Miscellaneous\nCosts are only payable when awarded, not before, and so they can be awarded after a party has\ngone into bankruptcy and been discharged, even if the steps in question were before bankruptcy.⁸\nSince an appeal does not create an automatic stay of execution, and no actual application\nfor a stay was made, that steps were being pursued in the Supreme Court was not a reason to\npostpone any decision about costs.⁹\nWhere a contract does not provide for payment by one party of the other party’s legal fees,\nthen legal fees are generally not recoverable as damages, but they can be addressed in the\nlitigation through the costs regime.¹⁰",
+      "footnotes": [
+        {
+          "page": "10-54",
+          "number": 10,
+          "text": "Quite similar to previous 1968 R.640 beg. The ﬁrst half was the same as 1914 R.772; the rest was almost identical to 1914 R.773. The Rule came via 1944 C. Rr.773, 774."
+        },
+        {
+          "page": "10-55",
+          "number": 1,
+          "text": "Firemaster Oilﬁeld Serv. v. Safety Boss (Can. ) (#3) 2002 ABCA 96, [2002] 7 WWR 71, and Acquest/Alta. Mining v. Barry Dev. (#2) 1999 ABQB 846, 254 AR 357. When an appeal is allowed, the Court of Appeal can give the appellant costs of the motion appealed from, even after judgment is entered."
+        },
+        {
+          "page": "10-55",
+          "number": 2,
+          "text": "See also Rr.330 and 339, and the C. P. E. , Chapter 56, Parts M.10(d), M.16 and N and Chapter 72, Part S.3; Lavoie v. Wills (#2) 2002 ABCA 240, 312 AR 373; MacCabe v. Westlock R. C. Sep. S. D. (#2) 2002 ABCA 307, 320 AR 194; C. U. v. Dir. of Child Welfare (McGonigle) 2003 ABCA 66, 327 AR 25, leave den (SCC 18 Sep ’03); Firemaster Oilﬁeld Serv. v. Safety Boss (Can. ) (#3) 2002 ABCA 96, [2002] 7 WWR 71. After the judgment is entered and the trial judge has said costs submissions can be made within 30 days, and 30 days have passed, no costs applications can be made and the court can do nothing more re costs? Truehope v. Stringam (#2) 2014 ABQB 772, [2014] AR Uned 771. Quaere; extending time is not discussed, and little authority is cited."
+        },
+        {
+          "page": "10-55",
+          "number": 3,
+          "text": "Klebanowski v. Johnson (#2) 2022 ABQB 172, JCE FL03 60334 (Feb 25)."
+        },
+        {
+          "page": "10-55",
+          "number": 4,
+          "text": "Clarke v. Syncrude Can. (#2) 2017 ABQB 244, JCC 0601 06205 (Apr 5)."
+        },
+        {
+          "page": "10-55",
+          "number": 5,
+          "text": "Sask. Power Corp. v. Alta. Utils. Comm.2015 ABCA 281, 607 AR 29 (¶’s 10-12) ; 1985 Sawridge Tr. v. Pub. T’ee. (Stoney v. Twinn) (#9) 2018 ABQB 213, [2018] 7 WWR 411 (¶ 11), revd 2019 ABCA 244, Edm 1803 0076 AC."
+        },
+        {
+          "page": "10-55",
+          "number": 6,
+          "text": "Woodbridge Homes v. Andrews (#2) 2019 ABQB 968, JCE 1103 03674 (Dec 18) (¶’s 26-33) ; Star Enr. Can. v. Builders Enr. Serv.2023 ABKB 641, JCC 0801 14092 (Nov 14) (¶’s 14-24)."
+        },
+        {
+          "page": "10-55",
+          "number": 7,
+          "text": "Yassa v. Parker (#2) 2018 ABQB 305, JCE 4803 142382 (Apr 20) (¶’s 35-36)."
+        },
+        {
+          "page": "10-56",
+          "number": 1,
+          "text": "Carroll v. ATCO Elec. (#3?) 2018 ABQB 98, [2018] 3 WWR 810 (Feb 8) (¶ 4)."
+        },
+        {
+          "page": "10-56",
+          "number": 2,
+          "text": "Goodswimmer v. A. -G. Can. (#2) 2022 ABKB 841, JCE 9703 06332 (Dec 14) (¶’s 129-32)."
+        },
+        {
+          "page": "10-56",
+          "number": 3,
+          "text": "R. v. Caron 2009 ABCA 34, 466 AR 362, affd 2011 SCC 5, [2011] 1 SCR 78; Klychak v. Samchuk 2012 ABQB 85, 532 AR 259. Such costs were refused for a short simple hearing not very special, in D. W. H. v. D. J. R.2011 ABQB 119, 516 AR 134. Hindsight is irrelevant: D. W. H. case."
+        },
+        {
+          "page": "10-56",
+          "number": 4,
+          "text": "Anderson v. R. (Alta. ) 2022 SCC 6, 466 DLR(4th) 391."
+        },
+        {
+          "page": "10-56",
+          "number": 5,
+          "text": "Wavel Ventures v. Constantini 2002 ABCA 219; Little Sisters Book & Art Emporium v. Comm’r. of Customs & Rev.2007 SCC 2, 356 NR 83; Cullen v. Briggs 2008 ABCA 195, 432 AR 331; cf. Spracklin v. Kichton 2003 ABCA 9, 320 AR 309; cf. R. v. Cai 2002 ABCA 299, 317 AR 240; D. W. H. v. D. J. R.2011 ABQB 119, 516 AR 134 (short chambers matter of no general interest). Life, liberty or security would have to be in issue, plus other merits; even a plea for an interpreter in a civil case does not sufﬁce: Shaw v. Belcourt 2011 ABCA 155 (one JA May 25). There must be evidence that the applicant has no other way to fund the litigation: Klychak v. Samchuk, supra. Many cases are reviewed in V. L. N. v. S. R. N. , infra, and many distinguished."
+        },
+        {
+          "page": "10-56",
+          "number": 6,
+          "text": "R. (Min. of Forests) v. Wilson (Okanagan I. B. ) 2003 SCC 71, [2003] 3 SCR 371; Thomlinson v. R.2003 ABQB 308, 335 AR 85; McCormack v. Martin 2004 ABQB 947; L. C. v. R. (Alta. ) (#2) 2017 ABQB 93, 97 CPC(7th) 94 (especially where the defendant's privacy procedures made it impossible in practice for a representative plaintiff in a class action to contact class members to get funding from them (¶’s 48-74) ; L. C. v. R. (#__) 2017 ABQB 629, JCE 0703 10836 (Oct 17). It was not done where the plaintiffs had not disproved other sources of funding, in Deans v. Thachuk 2004 ABQB 26, 356 AR 303. On oppression suits, see Instant Magic Hldg. v. Buchﬁnk 2005 ABCA 371. On trusts and misconduct, see Deans (Edm. Pipe Ind. Pension Plan Beneﬁciaries) v. Thachuk 2005 ABCA 368, 376 AR 326, leave den (SCC 13 Apr ’06). Interpreter: Caron v. Alta. Human Rts. & Citizenship Comm.2007 ABQB 525, 426 AR 378; R. v. Caron 2007 ABQB 632, [2008] 3 WWR 628."
+        },
+        {
+          "page": "10-56",
+          "number": 7,
+          "text": "Johnson v. Fishing L. , infra (¶’s 3-5)."
+        },
+        {
+          "page": "10-56",
+          "number": 8,
+          "text": "Johnson v. Fishing L. Métis Settlement 2020 ABCA 17, Edm 1903 0141 AC (one JA Jan 17) (¶’s 7-8)."
+        },
+        {
+          "page": "10-56",
+          "number": 9,
+          "text": "Anderson v. R. (Alta. ) 2022 SCC 6, 466 DLR(4th) 391."
+        },
+        {
+          "page": "10-56",
+          "number": 10,
+          "text": "Anderson v. R. , supra."
+        },
+        {
+          "page": "10-56",
+          "number": 11,
+          "text": "R. T. v. Alberta (#_) 2024 ABKB 105, JCE 1803 10967 (Feb 22) (¶’s 18-20)."
+        },
+        {
+          "page": "10-57",
+          "number": 1,
+          "text": "Roth v. Roth, infra (¶ 17). But it was held relevant in important constitutional litigation: Fitter Int. v. B. C. (#2) 2020 ABQB 226, JCC 1801 08160 (Apr 2) (¶’s 16-17)."
+        },
+        {
+          "page": "10-57",
+          "number": 2,
+          "text": "Modern methods limit legal expenses, and a “cost-plus” hourly rate retainer, or advance costs, is dangerous without a limit (on hours or money). Advance funding should be limited to what is necessary now, avoiding repetition of work already done, plus some allowance for unexpected complications. It should only be a loan (possibly forgivable to the extent of hardship), if the present lack of funds is temporary or relative, the litigant can pay it down month by month. If someone else will run the burden of the litigation, then such funding may be unnecessary or much limited in size: R. v. Caron 2011 ABCA 385, 515 AR 304 (one JA Dec 21)."
+        },
+        {
+          "page": "10-57",
+          "number": 3,
+          "text": "L. C. v. R. (#2), supra (¶’s 75-76, 78-80) ; R. T. v. Alberta, supra (¶’s 23-30), cf. Roth v. Roth 2018 ABQB 325, JCE 4803 151446 (Apr 25) (¶ 17). A First Nations government may be impecunious if its assets or revenues have to be devoted to more valuable and pressing needs, such as health and certain governance issues, but the onus of proving that is on the First Nation: Anderson v. R. (Alta. ) 2022 SCC 6."
+        },
+        {
+          "page": "10-57",
+          "number": 4,
+          "text": "Anderson v. R. , supra."
+        },
+        {
+          "page": "10-57",
+          "number": 5,
+          "text": "Blaney v. Murphy 2020 ABQB 196, JCRD FL10 07655 (Mar 20) (¶’s 106-29) ; Anderson v. R. , supra."
+        },
+        {
+          "page": "10-57",
+          "number": 6,
+          "text": "L. C. v. R. (#2), supra (¶’s 92-93) ; Roth v. Roth, supra (¶ 17). Quaere, given the lax test of merits for certiﬁcation, though in the L. C. case the chambers judge was already very familiar with the suit."
+        },
+        {
+          "page": "10-57",
+          "number": 7,
+          "text": "R. T. v. Alberta, supra (¶’s 31-36)."
+        },
+        {
+          "page": "10-57",
+          "number": 8,
+          "text": "L. C. v. R. (#2), supra (¶ 96) ; Anderson v. R. , supra."
+        },
+        {
+          "page": "10-57",
+          "number": 9,
+          "text": "ibid. Does this stray from importance to merits or sympathy?"
+        },
+        {
+          "page": "10-57",
+          "number": 10,
+          "text": "R. T. v. Alberta (#_) 2024 ABKB 105, JCE 1803 10967 (Feb 22) (¶’s 35-40)."
+        },
+        {
+          "page": "10-57",
+          "number": 11,
+          "text": "id. at ¶ 109."
+        },
+        {
+          "page": "10-57",
+          "number": 12,
+          "text": "V. M. H. v. J. H. , infra (¶’s 15-16)."
+        },
+        {
+          "page": "10-57",
+          "number": 13,
+          "text": "V. M. H. v. J. H.2020 ABCA 389, Edm 2003 0054 AC (one JA Nov 3) (¶ 21)"
+        },
+        {
+          "page": "10-57",
+          "number": 14,
+          "text": "L. C. v. R. (#__) 2017 ABQB 629, supra; but cf. Anderson v. A. -G. Alta. , supra (¶’s 34-36)."
+        },
+        {
+          "page": "10-57",
+          "number": 15,
+          "text": "Rufenack v. Hope Mission (#1) 2006 ABCA 60, 384 AR 64; F. J. N. v. J. K.2019 ABCA 305, 93 Alta LR(6th) 292 (¶’s 154-56), leave den (SCC 6 Feb ’20) ; Anglin v. Resler (#_) 2022 ABKB 631, 51 Alta LR(7th) 447 (¶’s 8-37) ; Remington Dev. Corp. v. C. P. R. (#3) 2023 ABKB 591, JCC 0801 03152 (Oct 20) (¶’s 55-57). See R.13.1."
+        },
+        {
+          "page": "10-58",
+          "number": 1,
+          "text": "Horst Tyson Dahlem P. C. v. John F. Schneider P. C.2015 ABQB 413, 2015 CarswellAlta 1224. Two parties on one side and the court did not apportion the costs between the two parties."
+        },
+        {
+          "page": "10-58",
+          "number": 2,
+          "text": "McCaffrey v. Dalla-Longa (#2) 2009 ABQB 622, 75 RFL(6th) 133."
+        },
+        {
+          "page": "10-58",
+          "number": 3,
+          "text": "Gibson v. Gibson 2011 ABQB 659 (Oct 27/28)."
+        },
+        {
+          "page": "10-58",
+          "number": 4,
+          "text": "Samaska v. Soykut (#2) 2004 ABQB 541."
+        },
+        {
+          "page": "10-58",
+          "number": 5,
+          "text": "Tan v. Swyrd 2013 ABQB 229, 560 AR 214."
+        },
+        {
+          "page": "10-58",
+          "number": 6,
+          "text": "Fill v. Somani 2013 ABQB 572, 571 AR 230."
+        },
+        {
+          "page": "10-58",
+          "number": 7,
+          "text": "Leach v. Leach 2017 ABQB 284, JCE 4803 155062 (Apr 24) (¶ 13)."
+        },
+        {
+          "page": "10-58",
+          "number": 8,
+          "text": "Strini v. Mihalicz 2006 ABQB 912, 411 AR 202 (¶’s 23-29)."
+        },
+        {
+          "page": "10-58",
+          "number": 9,
+          "text": "Bhasin v. Hrynew (#2) 2013 ABCA 180, 362 DLR(4th) 35."
+        },
+        {
+          "page": "10-58",
+          "number": 10,
+          "text": "Stewart v. Lloyd’s Underwriters 2022 BCCA 84, 467 DLR(4th) 197."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          2712,
+          2968
+        ],
+        "book_pages": [
+          "10-54",
+          "10-55",
+          "10-56",
+          "10-57",
+          "10-58",
+          "10-59"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "When costs award may be made",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.30:1",
+          "text": "Rule 10.30 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.30. 1. Interim Costs In Thomlinson v. Alberta (2003), 335 A.R. 85 (Q.B.), Brooker J. held that the court had jurisdiction under then Rule 600(3) to award interim costs. At p. 109, his Lordship said: Rule 600(3) gives the court the jurisdiction to award costs at any stage of the proceedings. In Organ [Organ v. Barnett (1992), 11 O.R. (3d) 210 (Gen. Div.)] the plaintiffs brought a motion for an order for interim costs in a fixed amount, representing legal and other professional fees incurred up to the date of trial, in addition to the estimated cost of funding the litigation at trial. In that case E. MacDonald, J., stated at p. 215: … I am satisfied that the court does have a general jurisdiction to award interim costs in a proceeding, and that such a jurisdiction is not limited exclusively to matrimonial cases. In my view, however, such an exercise of jurisdiction is limited to very exceptional cases and ought to be narrowly applied, especially when the court is being asked to essentially pre-determine an issue, in addition to being asked to provide funding for anticipated legal costs to the end of the trial. There the court declined to award interim costs on the basis that the plaintiffs admitted that they were not impecunious. Similarly, the court in Bullions [Bullions et al. v. Christensen Estate, [1999] A.J. No. 770 (Q.B.)] found that it had the requisite jurisdiction to award interim costs under rule 600(3). As to when the discretion to award such costs ought to be exercised the court prescribed a two part test: 1) where it is clear that the plaintiff has a case of sufficient merit to pursue the action; and 2) where the plaintiff is in such financial circumstances that he will be unable to pursue the claim unless interim costs are awarded. In Bullions, Burrows, J., relied on the Court of Appeal's judgment in Jager v. Jager Industries, [1995] A.J. No. 358 (C.A.), wherein it applied the same test. In Jager the court awarded a fixed amount of interim costs and noted that the party against whom the order was made could pay those costs without undue hardship. As stated in Jackson v. Trimac, full indemnity costs ought only to be awarded in the rarest of circumstances. Accordingly, I am satisfied that this court has the jurisdiction to make an interim order for indemnity costs where it can be shown that the action is meritorious, the claim will not be pursued absent an order for costs and the circumstances are exceptional. In British Columbia (Minister of Forests) v. Okanagan Indian Band, 2003 SCC 71, 2003 CarswellBC 3040, [2003] 3 S.C.R. 371, 21 B.C.L.R. (4th) 209, 43 C.P.C. (5th) 1, 233 D.L.R. (4th) 577, the Court considered the ability of a court to award interim costs in litigation. LeBel J., speaking for the majority, reviewed the history of costs. He said that “[t]he English common law courts did not have inherent jurisdiction over costs, but beginning in the late 13th century they were given the power by statute to order costs in favour of a successful party. Courts of equity had an entirely discretionary jurisdiction to order costs according to the dictates of conscience. … In the modern Canadian legal system, this equitable and discretionary power survives, and is recognized by the various provincial statutes and rules of civil procedure which make costs a matter for the court's discretion.” (p. 273) He then reviewed the law that indicated that “the traditional purpose of an award of costs” was “to indemnify the successful party in respect of the expenses sustained either defending a claim that in the end proved unfounded (if the successful party was the defendant), or in pursuing a valid legal right (if the plaintiff prevailed).” (p. 273) LeBel J. said, at pp. 278–279: Based on the foregoing overview of the case law, the following general observations can be made. The power to order interim costs is inherent in the nature of the equitable jurisdiction as to costs, in the exercise of which the court may determine at its discretion when and by whom costs are to be paid. This broad discretion may be expressly referred to in a statute. … Even absent explicit statutory authorization, however, the power to award interim costs is implicit in courts' jurisdiction over costs as it is set out in statutes such as the Supreme Court of British Columbia Rules of Court, which provides that the court may make orders varying from the usual rule that costs follow the event. There are several conditions that the case law identifies as relevant to the exercise of this power, all of which must be present for an interim costs order to be granted. The party seeking the order must be impecunious to the extent that, without such an order, that party would be deprived of the opportunity to proceed with the case. The claimant must establish a prima facie case of sufficient merit to warrant pursuit. And there must be special circumstances sufficient to satisfy the court that the case is within the narrow class of cases where this extraordinary exercise of its powers is appropriate. These requirements might be modified if the legislature were to set out the conditions on which interim costs are to be granted, or where courts develop criteria applicable to a particular situation where interim costs are authorized by statute (as is the case in relation to s. 249(4) of the Ontario Business Corporations Act; see Organ, supra, at p. 213). But in the usual case, where the court exercises its equitable jurisdiction to make such costs orders as it concludes are in the interests of justice, the three criteria of impecuniosity, a meritorious case and special circumstances must be established on the evidence before the court. Although a litigant who requests interim costs must establish a case that is strong enough to get over the preliminary threshold of being worthy of pursuit, the order will not be refused merely because key issues remain live and contested between the parties. If the court does decide to award interim costs in such circumstances, it will in a sense be predetermining triable issues, since it will have to decide that one side will receive its costs before it is known who will win on the merits (and since the winner is usually entitled to costs). As a result, concerns may arise about fettering the discretion of the trial judge who will eventually be called upon to adjudicate the merits of the case. This in itself should not, however, preclude the granting of interim costs if the relevant criteria are met. As Macdonald, J., noted in Organ, supra, the court's discretion must be exercised with particular caution where it is being asked to predetermine an issue in this sense, but it does not follow that the court would be going beyond the limits of its discretion if it were to grant the order. I therefore disagree with the conclusion of the New Brunswick Court of Queen's Bench in New Brunswick (Minister of Health and Community Services) v. J.G. and D.V. (1995), 171 N.B.R. (2d) 185, 437 A.P.R. 185, 131 D.L.R. (4th) 273 (Q.B.), that costs cannot be ordered at the commencement of a proceeding in the absence of express statutory authority to award costs regardless of the outcome of the proceeding (p. 283) (this case was eventually overturned by this Court in [1999] 3 S.C.R. 46, 244 N.R. 276, 216 N.B.R. (2d) 25, 552 A.P.R. 25, but the interim costs issue was a secondary one that was not dealt with on appeal). As I stated above, the power to order costs contrary to the cause is always implicit in the court's discretionary jurisdiction as to costs, as is the power to order interim costs. Justice LeBel then considered interim costs in public interest litigation. At pp. 279–281, he said: The present appeal raises the question of how the principles governing interim costs operate in combination with the special considerations that come into play in cases of public importance. In cases of this nature, as I have indicated above, the more usual purposes of costs awards are often superseded by other policy objectives, notably that of ensuring that ordinary citizens will have access to the courts to determine their constitutional rights and other issues of broad social significance. Furthermore, it is often inherent in the nature of cases of this kind that the issues to be determined are of significance not only to the parties but to the broader community, and as a result the public interest is served by a proper resolution of those issues. In both these respects, public law cases as a class can be distinguished from ordinary civil disputes. They may be viewed as a subcategory where the “special circumstances” that must be present to justify an award of interim costs are related to the public importance of the questions at issue in the case. It is for the trial court to determine in each instance whether a particular case, which might be classified as “special” by its very nature as a public interest case, is special enough to rise to the level where the unusual measure of ordering costs would be appropriate. One factor to be borne in mind by the court in making this determination is that in a public law case costs will not always be awarded to the successful party if, for example, that party is the government and the opposing party is an individual Charter claimant of limited means. Indeed, as the Sheena B. case demonstrates, it is possible (although still unusual) for costs to be awarded in favour of the unsuccessful party if the court considers that this is necessary to ensure that ordinary citizens will not be deterred from bringing important constitutional arguments before the courts. Concerns about prejudging the issues are therefore attenuated in this context since costs, even if awarded at the end of the proceedings, will not necessarily reflect the outcome on the merits. Another factor to be considered is the extent to which the issues raised are of public importance, and the public interest in bringing those issues before a court. With these considerations in mind, I would identify the criteria that must be present to justify an award of interim costs in this kind of case as follows: 1. The party seeking interim costs genuinely cannot afford to pay for the litigation, and no other realistic option exists for bringing the issues to trial—in short, the litigation would be unable to proceed if the order were not made. 2. The claim to be adjudicated is prima facie meritorious; that is, the claim is at least of sufficient merit that it is contrary to the interests of justice for the opportunity to pursue the case to be forfeited just because the litigant lacks financial means. 3. The issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases. These are necessary conditions that must be met for an award of interim costs to be available in cases of this type. The fact that they are met in a particular case is not necessarily sufficient to establish that such an award should be made; that determination is in the discretion of the court. If all three conditions are established, courts have a narrow jurisdiction to order that the impecunious party's costs be paid prospectively. Such orders should be carefully fashioned and reviewed over the course of the proceedings to ensure that concerns about access to justice are balanced against the need to encourage the reasonable and efficient conduct of litigation, which is also one of the purposes of costs awards. When making these decisions courts must also be mindful of the position of defendants. The award of interim costs must not impose an unfair burden on them. In the context of public interest litigation judges must be particularly sensitive to the position of private litigants who may, in some ways, be caught in the crossfire of disputes which, essentially, involve the relationship between the claimants and certain public authorities, or the effect of laws of general application. Within these parameters, it is a matter of the trial court's discretion to determine whether the case is such that the interests of justice would be best served by making the order. In Deans v. Thachuk (2005), 52 Alta. L.R. (4th) 41 (C.A.), the Court held, at p. 53, that “the three-part test prescribed in Okanagan applies in applications for interim costs in pension trust fund cases. …” 2. Impecuniousity Mr. Justice Lee said in Tomkins v. Tomkins, 2013 ABQB 416: 12 Before exercising this Court's equitable jurisdiction and discretionary power to grant interim costs as are appropriate in the interest of justice, the test in Okanagan Indian Band demands that I must consider whether, based on the evidence before me, the party seeking the award order has established impecuniousity. 13 Foremost, I note that in Okanagan Indian Band, the Supreme Court did not expressly indicate that the assessment of the Applicant's “impecuniousity” is to be conducted from a “relative” perspective vis-à-vis the Respondent's financial position. The Court indicated that “the party seeking the order must be impecunious to the extent that, without such an order, that party would be deprived of the opportunity to proceed with the case.” The implication of this, in my opinion, is that it is not a pre-condition that the Applicant must be “poor, penniless, lacking money” before a court could find that he or she is entitled to an interim costs award. In effect, if the court is otherwise satisfied that the resources available to the Applicant would be inadequate to support or fund her litigation, an Order awarding interim costs may be made by the court. 14 That said, case law has also established that the objective for the award of an advance cost is to put the parties on equal financial footing such that each party has the same quantity of assets with which to fund subsequent litigation relative to the valuing of matrimonial property: McDonald at paras 22, 36; Pokorski at para 38. Thus jurisprudence has, in some sense, introduced the concept of relativity to the analysis required for making a determination as to eligibility for advance costs in matrimonial proceedings of this nature. 15 Therefore the analytical question to ask is whether Ms. Tomkins is impecunious to the extent that she would be deprived of the opportunity to proceed with this case, if this Court declines to grant the advance costs order? (Okanagan Indian Band at para 36). In making this assessment, I have to consider (i) Ms. Tomkins'“needs” by evaluating whether her income from other sources, aside support payments, is otherwise adequate to fund her litigation? (McDonald at para 23) and (ii) whether the parties are on equal financial footing in terms of their abilities to fund the present matrimonial property litigation (Pokorski at para 38). 3. Costs in Custody Disputes We have been told that there is no general rule respecting costs in custody cases. We have also been told that in custody cases where the best interests of a child are at stake, the unsuccessful litigant genuinely sought a judicial determination and the unsuccessful litigant did not improperly or unnecessarily invoke the court process, then each party should bear their own costs. All of this from Henry and Henry v. Pham and Ramsay (1987), 81 A.R. 276, 55 Alta. L.R. (2d) 225 (C.A.). The decision has been interpreted to mean that absent exceptional circumstances, in custody cases, each party should bear their own costs because there is seldom any real winner: R.S.M. v. K.B. (1996), 118 A.R. 118 (Q.B.). There is also a line of authority represented by Justice Veit's decision in Scott v. Scott (1993), 144 A.R. 264 (Q.B.). The principles may be summarized as follows: (a) to the extent that costs are designed to compensate the successful litigant for a portion of the expense of litigation, absent special circumstances a successful litigant should be awarded costs; (b) to the extent that costs represent a penalty for invoking or engaging the court process, the party invoking the process should pay the penalty; (c) in custody cases, costs will generally not be awarded unless the party invoking the court process did so for inappropriate purposes or on specious or frivolous grounds. The foregoing is very general but assists in guiding the court in exercising its discretion. … In my view, in custody cases there must be some rational default position which balances the competing interests in a reasonable and predictable way. In my view, in custody cases the compensatory principle should outweigh the penalty burden in any situation where: (a) the litigant invoking the process is unsuccessful or substantially unsuccessful at trial; and, (b) awarding costs against the unsuccessful litigant will not substantially impact upon the interests of the children; and, (c) the unsuccessful litigant maintained an unreasonable position which falls short of being inappropriate or specious. In the event that all three criteria are met, full costs should be the result. In all other cases, it is my view that the parties should bear their own costs. In this case, I direct the parties to bear their own costs. Miller v. Miller (2000), 272 A.R. 397 (Q.B.) at 398–399, per Clackson J. This case was applied by Brownlee J.P.C.A., in M.M. v. J.B. (2001), 289 A.R. 110 at 123–124. However, the Court of Appeal has recently said (in MacPhail v. Karasek (2006), 401 A.R. 100 (C.A.); additional reasons at 2008 ABCA 98, at p. 103 [401 A.R. 100]): 9 At various times, both parties suggested that the general rule of law in custody cases was for each party to bear his or her own costs. We do not agree. While parties may frequently agree, or a trial judge may conclude, that no costs to either party is a proper disposition of costs in the circumstances of a particular case, that is not a general rule of law. The rule in custody cases is no different from the rule in other civil litigation it starts from the proposition that a successful litigant is generally entitled to his or her costs. This court recently addressed this issue in N.M. v. F.W. (2004), 348 A.R. 143…, where it stated at para. 30: Strong public policy reasons militate in favour of awarding costs in custody cases in accordance with the usual Rules. 10 The court noted that there were several rationales to justify consistency between the rule for costs in custody cases and the rule for costs in other civil litigation. Those rationales included the encouragement of settlement, predictability, the danger of discouraging meritorious litigants and encouraging unmeritorious ones, the disproportionate and negative impact on the parent with fewer financial resources, the fact that costs are not a full indemnity, and finally, an award of costs best comports with constitutional rights. In Funk v. Duncalfe, 2024 ABCJ 189, a mother was unsuccessful in a custody dispute. Justice O'Gorman made these comments about awards of costs in custody matters (and the irrelevance of the fact that the mother was “on Legal Aid”): [12] There is still a suggestion even today that family matters should be treated differently arguing that the competing interests and compelling factors in a custody dispute should be evaluated only by the children's best interest. This philosophy has been criticized as being out of date. Thirteen years ago, Professors McLeod and Mamo in their book, Annual Review of Family Law, (2010), at page 85, states: This rationale is not in keeping with the modern philosophy in most jurisdictions that parents should feel that they can litigate custody issues with impunity by hiding behind their unreasonable perception of their child's best interests to escape costs consequences. [13] Seventeen years ago, in MacPhail v Karasek, 2006 ABCA 354, our Court of Appeal made specific reference to the issue of costs in custody cases. At para 9 the court stated: At various times, both parties have suggested that the general rule of law in custody cases is for each party to bear his or her own costs. We do not agree, …the rule in custody cases is no different from the rule in other civil litigation and it starts from the proposition that a successful litigant is generally entitled to his or her costs. [14] Therefore, the current jurisprudence would support the position that costs in family related matters are to be decided on the same principles and with the same objectives as other civil litigation cases (Annual Review of Family Law, 2018-2019, page 142). In a custody case from the Ontario Court of Appeal it sets out the modern rules with respect to the purpose of costs (Serra v Serra, 2009 ONCA 395). In summary the Court suggests: a) To indemnify successful litigants for the cost of litigation; b) To encourage settlement; c) To discourage frivolous actions and defences; and d) To discourage litigants from engaging in unnecessary steps in the proceedings. (b) Ability to Pay and Legal Aid Certificates [15] Counsel for the mother had included in their written materials, the fact that her client was on Legal Aid. A parties limited ability to pay an award of costs is not sufficient reason to deny a successful party their costs in a proceeding (Richter v Richter, 2004 Carswell BC 332). [16] In a case from Ontario, the court held that the award of costs are to be assessed irrespective of the fact that one party is funded by Legal Aid: Holt v Anderson, 2005 Carswell Ont 6876. In the case of Muir v Lipton, 2004 Carswell BC 167, the court increased costs against an unsuccessful legally aided client who had dragged out the proceedings at an increased cost to the successful party. [17] In Ramcharitar v Ramcharitar (2002), 2002 CanLII 53246 (ON SC), 62 OR (3d) 107, the court stated at para 7: It has been held that a legally aided client stands before the court in exactly the same position as any other litigant. The amount of costs to be awarded in favour of a party who has received Legal Aid is not to be affected by the fact that the person is legally aided. [18] In two other cases from Ontario, in O'Sullivan v Lindley, [2000] OJ No 3965 and Ragin v Ven-Cor Vending Distributors Ltd., [2001] OJ No 3763 both courts held that the making of an assessment of costs should not consider the existence of a Legal Aid certificate. In fact, in Cropper v Cropper, [1974] OJ No 477, the Ontario Court of Appeal held it was irrelevant to the issue of costs that a party was on Legal Aid. The Court of Appeal in that case further stated that the fact the party had a Legal Aid certificate should not even be brought to the attention of the court. [19] As a result, in this case it is irrelevant that the mother was on a Legal Aid certificate. The mother shall be treated like any other litigant. 4. Costs in relation to Emergency Protection Orders In Lenz v. Sculptoreanu, 2016 ABCA 111, 2016 CarswellAlta 675, 616 A.R. 346, 37 Alta. L.R. (6th) 48, 88 C.P.C. (7th) 94, 399 D.L.R. (4th) 1, 78 R.F.L. (7th) 29, 672 W.A.C. 346, [2016] A.J. No. 380, the Court of Appeal said: [43] A court considering costs relating to the review or appeal of an EPO may consider under Rule 10.33(1)(c) of the Alberta Rules of Court the “importance of the issues” in an individual matter. “Assessing the importance of the issues requires consideration of the objectives the Act seeks to achieve and the importance society attaches to protecting its vulnerable members from family violence”: Denis v Palmer at para 15. The objectives of the Act must also be weighed in this matter when making a determination on costs, to be balanced against other relevant factors such as the result of the appeal, its complexity, and the liability and conduct of the parties. [44] The objectives of the Act are set out in its preamble and are to prevent family violence and protect vulnerable victims by providing an immediate period of safety in their own home. These objectives are pressing in our society and outweigh other considerations relating to costs, including the appellant's success on appeal. [45] We do not consider it appropriate to create any impediment which would cause vulnerable victims to avoid seeking an EPO when they are at immediate risk of family violence, merely for fear that they may later have to pay adverse costs. Justice Michalyshyn, in Ironstand v. Prior, 2021 ABQB 267, 2021 CarswellAlta 821, relied, in part, on Lenz v. Sculptoreanu when declining to award costs to an applicant in relation to a respondent's non-appearance and the applicant's partial success at an Emergency Protection Order hearing. 5. Postponing Award of Costs Pending Appeal In Paterson v. Hamilton (1996), 199 A.R. 239 (Q.B.), the plaintiff was unsuccessful at trial, and intended to appeal. On the question of costs, the plaintiff wanted the court to postpone the awarding of costs pending the appeal because an award and payment of costs would effectively eliminate the plaintiffs' ability to appeal. Madam Justice Kent declined to postpone awarding costs. At p. 240, Her Ladyship said: [Counsel for the plaintiffs] further argued that a large costs award would create difficulties for the plaintiffs. He says that such an award would be an effective denial of their ability to appeal. That reason was really the focus of the plaintiffs' argument. Taken to its logical conclusion, it would mean that costs would not be set until after any appeal. The issue of whether the plaintiffs are able to pay any costs awarded against them may be relevant on an application for a stay of execution of the costs, but it is not an issue in whether the costs should be set. 6. Awarding costs after liability is decided but before damages are determined; Costs based on fee percentages as opposed to Schedule C In McAllister v. Calgary (City), 2018 ABQB 999, 2018 CarswellAlta 2992, 79 Alta. L.R. (6th) 58, 52 C.C.L.T. (4th) 38, the plaintiff had been successful in establishing liability on the part of the defendant, but the matter of resultant damages had not yet been determined by either agreement or trial. However, the plaintiff sought from the trial judge an order setting costs in relation to the liability trial. Justice Kubik granted costs and discussed how to determine the appropriate amount. Her Ladyship said: [7] These Rules give the Court wide discretion in terms of the timing of orders for costs. In relation to bifurcated trials there is no hard and fast rule with respect to the timing of costs awards. Courts have both awarded costs following the liability trial, and deferred costs until after the determination of damages. [8] In this case, judgment has been entered with respect to liability. The parties engaged in a trial which lasted over one week, and a date to determine damages has not yet been scheduled. There is no good policy reason to defer the award of costs until damages are determined. While the defendant argues that it is impossible to determine which column of Schedule C to apply, given we are dealing with the issue of liability only, quantification of damages should not be a determinative factor in addressing reasonable costs. Rather, the Court can exercise discretion to determine those reasonable costs either by reference to Schedule C, having regard to the pleadings and the factors set out in Rule 10.33, or by considering partial indemnity costs. [9] Accordingly, I am satisfied that it is not premature to award costs with respect to the liability trial. Quantification of costs [10] The plaintiff argues that he should receive costs calculated at 45% of his solicitor client legal bill. While his solicitor client costs have not been assessed pursuant to the Rules, the plaintiff incurred $389,711.78 in legal fees for all matters relating to liability issues, from the opening of his file through to the submission of written legal arguments after trial. He seeks costs of $175,370.03, plus disbursements. [11] The Plaintiff relies on the recent decision of Remington v Crystal Creek Homes Inc, 2018 ABQB 644 (CanLII), as well as historic decisions, including: Hill v Hill, 2013 ABCA 313 (CanLII); and Trizec Equities Limited v Ellis-Don Management Services Ltd 1999 ABQB 801 (CanLII), which he argues stand for the proposition that a proper costs award should approximate between 40%–50% of the solicitor client fee account. [12] The defendant argues that partial indemnity costs have traditionally been reserved for circumstances where damages claimed are substantially in excess of Column 5, the litigation is significantly complex, or there has been misconduct by the party who faces liability for costs; they further assert that none of these factors apply and therefore Schedule C should be used to determine the quantification of costs. The defendant submits that based on the damages claimed by the plaintiff in his pleadings a proper costs award should be calculated in accordance with Column 3 of Schedule C, with an additional 25% gross up of that amount to account for inflation. [13] I agree with the defendant's argument that Schedule C should be used to calculate the costs award. [14] Schedule C costs serve many useful purposes in litigation. First, they reward a successful party by compensating them for the significant steps taken in the litigation. Second, they allow the parties to effectively measure the risk of costs associated with the litigation. This assists in achieving a third purpose—encouraging parties to abide by the foundational rules which promote resolution of the issues between the parties in a practical and efficient manner. [15] Relying on a rule of thumb practice that a proper costs award should approximate between 40%–50% of the incurred solicitor client fees does not, in my view, achieve these purposes. First, it compensates not for the significant steps in the court process, but for all legal expenses incurred without a safeguard for reasonableness. Second, it does not allow the parties to effectively analyze the risk of costs in litigation as it is impossible to know hourly rates charged or the amount of time spent on various steps until the conclusion of the litigation. Finally, an award of partial indemnity costs measured on the basis of solicitor client fees charged, could undermine the spirit of the foundational rules. These comments are in no way a criticism of the solicitor client fee account before me. I am wholly satisfied that counsel acted reasonably in their pursuit of the claim. I am simply making the point that when measuring appropriate costs, a principled approach which considers the purpose of costs, in terms of Court process, should be applied. The use of Schedule C imports certainty in cases where the parties have conducted themselves reasonably and advanced meritorious claims and defences. [16] Madam Justice D.L. Shelley's decision in Weatherford Canada Partnership v Addie 2018 ABQB 571 (CanLII), provides a comprehensive review of the case law with respect to when partial indemnity of solicitor client fees, a multiplier approach to Schedule C, or hybrid awards are appropriate. Overwhelmingly, the Courts use the percentage of indemnity method where there is misconduct, significant complexity, or damages claimed in excess of Column 5. Multipliers and hybrid costs are reflected in cases where there is no misconduct and the litigation is not overly complex or protracted. [17] In this case there was no misconduct. The matter, although novel, was not overly complex. The plaintiff's case consisted of two lay witnesses and an expert; the defendant's case consisted of one lay witness and an expert. The vast majority of trial time was taken up with expert testimony relating to the issue of standard of care. The parties had filed both an Agreed Statement of Facts and an Agreed Exhibit Book, steps which significantly reduced the amount of necessary trial time. I am therefore satisfied that Schedule C is the appropriate measure of costs in this case. [18] Where damages are unascertained and the issues of liability and quantification of damages have been bifurcated, assessing costs based on the claimed amount is the most fair and reasonable resolution of costs. This reflects the parties' knowledge regarding the risk of costs in proceeding to trial. In this case the plaintiff claimed damages in the amount of $154,602.73, plus future damages in an amount to be determined at trial. Therefore, Column 3 applies. [19] In considering whether there should be a gross-up or multiplier applied to Column 3 costs, I have considered both the fact that the costs schedule is grossly out of date in terms of value and the conduct of the parties in relation to the litigation. There being no misconduct, it is my view that Column 3 costs should be grossed-up to reflect a true monetary value. In that regard, evidence was before me at the costs hearing indicating a rate of inflation of 46.60%. Accordingly, a 46.60% gross-up is applied to approximate reasonable costs in 2018 for the steps taken to bring this matter to trial. [20] The plaintiff is awarded costs in the sum of $70,294.70, reflecting base costs of $47,950.00 grossed up by 46.60%. In Geophysical Service Incorporated v. Falkland Oil and Gas Limited, 2019 ABQB 314, 2019 CarswellAlta 938, Justice Woolley said: [16] While in some cases it may be appropriate to award Rule 10.29 costs based on a percentage of a parties' actually incurred legal fees, I endorse the analysis of Justice Kubik in McAllister at para 14–15 where she explains how using Schedule C fulfills the purposes of a costs award better than simply basing costs on a percentage of the parties' actual fees. Specifically, I agree with her that using Schedule C allows indemnification, while also permitting the parties to assess costs risk in advance and, consequently, better analyze the merits of settlement. [17] I acknowledge Justice Jones' point, set out in Remington v Crystal Creek Homes Inc 2018 ABQB 644 (CanLII) at para 28, that using Schedule C does not create predictability once you have “the Court arbitrarily selecting a multiple of column costs, or a higher column or a combination of both”. Arbitrariness of any kind undermines the predictability—and normativity—of law. [18] The difficulty with using a party's incurred fees, though, is that judges are not well positioned to assess the reasonableness of legal fees actually incurred and, hence, to determine whether paying a percentage of those fees would be “reasonable and proper” or “appropriate,” as contemplated by Rule 10.31(1). Certainly on the evidence before me—where I have been given monthly invoices with a dollar amount listed for “Fees for professional services”, but have not been told the lawyers' hourly rates, how many lawyers were used, the hours worked or the specific services requested and provided—there is no way for me to determine that the fees listed were reasonably or appropriately incurred. I know only the most general information about the work these lawyers did and nothing at all about the basis on which they charged their clients for that work. [19] At the same time, however, requiring lawyers to provide more detailed information about the work done in the course of litigation could compromise solicitor-client privilege. Properly assessing the reasonableness of the fees incurred may require the party to produce information about what they asked the lawyer to do and what the lawyer did, information the party has a right to keep private. Calculating fees based on Schedule C avoids this Court having to choose between requiring disclosure of privileged information or being unable to assess properly the reasonableness of fees incurred because lacking relevant information about the work that was done. [20] In addition, even if I had been—or could be—given that information, against what standard would I assess the reasonableness of what was done or the basis on which the clients were charged? What is a reasonable hourly fee for a lawyer in Calgary? What is a reasonable amount of time for a lawyer to spend on a matter? How much latitude do clients have to request that lawyers research and analyze how best to defend or prosecute a claim? Using Schedule C permits a costs award to be made without burdening the parties or this Court with the task of establishing the reasonableness or appropriateness of the services provided or fees charged by a party's lawyers. [21] Further, given the guidance set out in Rule 10.33, and provided by the Court of Appeal on specific points, it is possible to make adjustments to Schedule C based on principle, and through the development and application of norms, rather than arbitrarily. The discretionary nature of costs reflects the extent to which they are fact specific and depend on the conduct and circumstances of a particular case; it does not permit or require them to be arbitrary: Baker v Canada (Minister of Citizenship and Immigration) 1999 CanLII 699 (SCC), [1999] 2 SCR 817 at para 52–53. [22] In the context of the discretionary assessment of costs, Schedule C provides a baseline. A principled consideration of the nature and conduct of these parties and this litigation allows that baseline to be fairly adjusted. Further, the existence of a publicly accessible baseline, and the explicit articulation of the relevant principles for adjusting the baseline, gives the parties relevant information for making an assessment of the costs risks associated with pursuing particular litigation. Using a percentage of actual fees incurred would not do so to the same extent, particularly given the difficulty in assessing the reasonableness and appropriateness of those fees, and that the fees charged by particular lawyers and firms are generally not a matter of public record. [23] Finally, as a matter of policy, and in light of the constrained indemnity function of party-party costs, it enhances fairness for one successful litigant to receive costs similar to another successful litigant, rather than having the indemnity vary based on how expensive a lawyer the successful party could afford to hire, or how much work they can afford to ask that lawyer to do. Using Schedule C creates some equality and fairness across successful litigants, which awarding costs as a percentage of actual fees does not: Monco Holdings Ltd v B.A.T. Development Ltd. 2005 ABQB 851 (CanLII) at para 31. 7. Granting further costs after a final judgment In Star Energy Canada Inc. v. Builders Energy Services Ltd., 2023 ABKB 641, Justice Malik concluded that the combined effect of Rules 10.30 and 9.14 is to give the Court the power to grant a costs award after a final judgment. His Lordship said: [19] The Court of Appeal has confirmed that rule 10.30 is an exception to the doctrine of functus officio: Saskatchewan Power at para 10 citing RC International, Firemaster Oilfield Services Ltd v Safety Boss (Canada), 2002 ABCA 96, and Walton v Alberta (Securities Commission), 2014 ABCA 446. Rule 9.14 has also been described as an exception to the doctrine and has been used to reapportion costs awards in the context of post-judgment payor bankruptcy: Richter v Chemerinski, 2014 ABQB 322 at para 4; Yassa v Parker, 2014 ABQB 305 at para 32. [20] These decisions allow for the granting of a further costs award after a final judgment or order has been pronounced and constitute a Rules-based exception to the application of the functus officio doctrine. Rule 9.14 grants the court a general discretion to make any further or other order after a judgment or order has been entered to provide a remedy to which a party is entitled in connection with the judgment or order so long as doing so does not require the original judgment or order to be varied. Rule 10.30, which specifically addresses costs, allows a costs award to be made “after judgment or a final order has been entered” …"
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_30_001",
+        "part10_alberta_rules_of_court_rule_10_part_6_001",
+        "part10_rule_10_30_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part06_document.json"
+        ]
+      },
+      "operative_text_sha256": "8ec866d958ff0268ed981278115a6766421beb0c6602eebe02731cd323567fbf",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "When costs award may be made",
+      "division_heading": "Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT",
+      "operative_text_raw": "(1) Unless the Court otherwise orders or these rules otherwise provide, a costs award may be made (2) If the Court does not make a costs award or an order for an assessment officer to assess the costs payable when an application or proceeding is decided or when judgment is pronounced or a final order is made, either party may request from an assessment officer an appointment date for an assessment of costs under rule 10.37 .\n[Appointment for assessment]",
+      "operative_text_sha256": "c2e06c229f565226c4cf39c01cd8b5299b0eb3cb845ba5a616299ba9a1fb289d",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule gives some circumstances where a costs award may be made unless otherwise ordered by the court or provided by the Rules. Costs are determined pursuant to rules 10.30 to 10.33.191Rule 10.30 confirms that costs can be spoken to at any time.  Walton v. Alberta (Securities Commission), [2014] A.J. No. 1425, 2014 ABCA 446 at para. 4 (Alta. C.A.). See also , [2019] A.J. No. 1271, 2019 ABCA 355 at para. 10 (Alta. C.A.). Lay v. Lay The rule contemplates costs for applications that are settled,  Grisbrook v. Grisbrook, [2016] A.J. No. 840, 2016 ABQB 455 at para. 8 (Alta. Q.B.). and as noted above, it is presumed that costs of interlocutory applications will be paid when the application (not the action) is completed. PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., [2021] A.J. No. 342, 2021 ABCA 92 at para. 6 (Alta. C.A.).\nCosts After Judgment or Final Order: Rule 10.30(1)(c) allows the Court to make a costs award even after judgement or a final order has been entered on the substantive issues in the dispute. However, it does not create a route for courts to repeatedly revisit costs or vary them. Kent v. MacDonald, [2021] A.J. No. 1604, 2021 ABQB 953 at paras. 26-27 (Alta. Q.B.). Rule 10.30(1)(c) is an exception to the doctrine which allows the functus offıcio Court to make costs awards after issuing judgement or a final order. It allows a costs award to be made notwithstanding the entry of the judgement or final order. Klebanowski v. Johnson Star Energy , [2022] A.J. No. 262, 2022 ABQB 172 at para. 3 (Alta. Q.B.); Canada Inc. v. Builders Energy Services Ltd. (c.o.b. Polege Oilfield Hauling), [2023] A.J. No. 1180, Advance Costs – In rare and exceptional cases, an order may be made requiring litigants to fund litigation against them, where three conditions are met:\n(a) the party seeking costs cannot afford to pay for the case and it could not proceed without a costs order;\n(b) the claim has sufficient merit that it would be contrary to the interest of justice for the opportunity to pursue it to be forfeited; and (c) the issues raised go beyond the particular litigant, are of public importance",
+          "citations": [
+            {
+              "neutral_citation": "2014 ABCA 446",
+              "style_of_cause": "Rule 10.30 confirms that costs can be spoken to at any time.  Walton v. Alberta"
+            },
+            {
+              "neutral_citation": "2019 ABCA 355",
+              "style_of_cause": "Walton v. Alberta"
+            },
+            {
+              "neutral_citation": "2016 ABQB 455",
+              "style_of_cause": "Lay v. Lay The rule contemplates costs for applications that are settled"
+            },
+            {
+              "neutral_citation": "2021 ABCA 92",
+              "style_of_cause": "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc."
+            },
+            {
+              "neutral_citation": "2021 ABQB 953",
+              "style_of_cause": "Kent v. MacDonald"
+            },
+            {
+              "neutral_citation": "2022 ABQB 172",
+              "style_of_cause": "Klebanowski v. Johnson Star Energy"
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "division_heading_flag": "wrong in Book C: rule 10.30 is in Division 2 (Recoverable Costs of Litigation) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.6667,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "(a) in respect of an application or proceeding of which a party had notice, after the application has been decided, (b) in respect of a settlement of an action, application or proceeding, or any part of any of them, in which it is agreed that one party will pay costs without determining the amount, and (c) in respect of trials and all other matters in an action, after judgment or a final order has been entered.",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.30",
+      "title_official": "When costs award may be made"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "b6918df92231b7d2a78ffb7474612ea3da48611102e5807a3524cd34041d7f82",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            2712,
+            2968
+          ],
+          "book_pages": [
+            "10-54",
+            "10-55",
+            "10-56",
+            "10-57",
+            "10-58",
+            "10-59"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "8ec866d958ff0268ed981278115a6766421beb0c6602eebe02731cd323567fbf",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part06_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "c2e06c229f565226c4cf39c01cd8b5299b0eb3cb845ba5a616299ba9a1fb289d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "b46e7715736afda8da24042102af5db47b6fe095ca5d0cca11146ef5310f591f",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            208
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c7f179a015cf7cb08c97f1f2dcfea76df91b6cdf0e4829e45c64081e3468149c"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.30 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.30 BOOK_C citation context dropped (2014 ABCA 446): verbatim in kept text",
+    "10.30 BOOK_C citation context dropped (2019 ABCA 355): verbatim in kept text",
+    "10.30 BOOK_C citation context dropped (2016 ABQB 455): verbatim in kept text",
+    "10.30 BOOK_C citation context dropped (2021 ABCA 92): verbatim in kept text",
+    "10.30 BOOK_C citation context dropped (2021 ABQB 953): verbatim in kept text",
+    "10.30 BOOK_C citation context dropped (2022 ABQB 172): verbatim in kept text",
+    "10.30 BOOK_C commentary sentence split dropped",
+    "10.30 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

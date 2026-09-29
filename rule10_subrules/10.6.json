@@ -1,0 +1,233 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.6",
+  "title": {
+    "official": "Void provisions",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Retainer Agreements"
+  },
+  "operative_text": {
+    "controlling": "10.6(1)  In a retainer agreement or otherwise, a provision is void if\nthe provision\n(a) purports to relieve a lawyer from liability for negligence\nor any other liability to which the lawyer might be subject\nas a lawyer, or\n(b) purports to provide that an action, application or\nproceeding cannot be abandoned, discontinued or settled\nwithout a lawyer’s consent.\n(2)  Despite any agreement to the contrary, a client may change the\nclient’s lawyer or act on the client’s own behalf before a retainer\nagreement ends.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d1c548ce95a0d1c9f7e4582171b3ea0e8eeaa5f1e08fccd055afa155dcb017f5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.6 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          195,
+          196
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Void Provisions",
+      "operative_text_raw": null,
+      "operative_text_sha256": "858d297ece51fea3964db506d4dc3fdadd8385f08f22f5cafc9eb1ac7b066361",
+      "related_provisions": "client, lawyer, retainer agreement",
+      "commentary": null,
+      "footnotes": [
+        {
+          "page": "10-14",
+          "number": 6,
+          "text": "Quite similar to previous 1968 R.620. It came from 1914 R.750, and 1944 C. R.751. Compare the English Solicitors Act, 1957, s.60(4). Subrule (2) was new in 1968. Subrule (3) came from 1944 C. R.754. It was like s.54 of the Ontario Solicitors Act (as of 1940)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          626,
+          656
+        ],
+        "book_pages": [
+          "10-14",
+          "10-15"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Void provisions",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_6_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_020"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "52d75b0391692921aa829d67795c9ca00bfa49708ece8f22307eb35e730d726f",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Void provisions",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "449bd8721e468f210c49949e7edb38dcb2de85b6143e440e16d853189467a5e4",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "441-460_10_1 to 10_10.json",
+        "source_file": "441-460_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.6",
+      "title_official": "Void provisions"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "858d297ece51fea3964db506d4dc3fdadd8385f08f22f5cafc9eb1ac7b066361",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            626,
+            656
+          ],
+          "book_pages": [
+            "10-14",
+            "10-15"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "52d75b0391692921aa829d67795c9ca00bfa49708ece8f22307eb35e730d726f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "449bd8721e468f210c49949e7edb38dcb2de85b6143e440e16d853189467a5e4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "441-460_10_1 to 10_10.json",
+          "source_file": "441-460_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d1c548ce95a0d1c9f7e4582171b3ea0e8eeaa5f1e08fccd055afa155dcb017f5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            195,
+            196
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "4d81a1fd8f54097ca3bdca69f6d2fbd20a811ed2d0b7a0ac9835c7ca566ed8ca"
+  },
+  "information_notes": [
+    {
+      "text": "The rules about self-representing are in rule 2.28 [Change in lawyer of record or self-\nrepresentation].\nrepresentation].",
+      "carriers": [
+        "BOOK_A"
+      ]
+    },
+    {
+      "text": "The rules about self-representing are in rule 2.28 [Change in lawyer of record or self representation].\nSubdivision 3: CONTINGENCY FEE AGREEMENTS",
+      "carriers": [
+        "BOOK_C"
+      ]
+    }
+  ],
+  "dedupe_log": [
+    "10.6 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.6 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.6 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.6 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

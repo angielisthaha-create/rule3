@@ -1,0 +1,267 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.39",
+  "title": {
+    "official": "Reference to Court",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.39(1)  An assessment officer may direct any question arising\nabout the assessment of costs payable to be referred to the Court\nfor a decision or direction.\n(2)  The assessment officer may do all or any of the following:\n(a) require one party to serve another party or other interested\nperson with notice of the reference;\n(b) specify how a reference to the Court is to be prepared and\nby whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efficient\ndisposition of the reference.\n(3)  On considering a question referred to it, the Court may make\nany order it considers appropriate in the circumstances, including\nan order to enforce a direction given under rule 10.38.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "22ca8563b9863cb6bfa85d55f9a0e98d537bf8f713eb101f0da6a62e430f86e2"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "[Alta. Reg. 124/2010, r. 10.39 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          213,
+          214
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Reference to Court",
+      "operative_text_raw": "10.39(1) An assessment ofﬁcer may direct any question arising about the\nassessment of costs payable to be referred to the Court for a decision or\ndirection.⁷\n(2) The assessment ofﬁcer may do all or any of the following:\n(a) require one party to serve another party or other interested person\nwith notice of the reference;\n(b) specify how a reference to the Court is to be prepared and by whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efﬁcient disposition of\nthe reference.\n(3) On considering a question referred to it, the Court may make any order it\nconsiders appropriate in the circumstances, including an order to enforce a\ndirection given under rule 10.38 [Assessment officer’s authority].",
+      "operative_text_sha256": "a38a808ddfc1c2b840dcad88403d261a1749bc42f9d70f73600e7d18ffb24746",
+      "related_provisions": null,
+      "commentary": "Where an assessment ofﬁcer refers a matter to the court, even if he is then holding a second\nassessment after a successful appeal from the ﬁrst assessment, the second hearing in King's\nBench is a trial de novo and not an appeal from the original assessment.¹\nA reference to the court of a speciﬁc question about level of costs, by an assessment ofﬁcer,\nis no occasion to relitigate whether each party given costs had been entitled to costs.²\nAnother example of a reference is the Ulrich case.³",
+      "footnotes": [
+        {
+          "page": "10-128",
+          "number": 7,
+          "text": "Quite similar to previous 1968 R.634. It came from 1944 C. R.780(4), 1914 R.777 as amended, and Alta. Reg.338/60."
+        },
+        {
+          "page": "10-129",
+          "number": 1,
+          "text": "McDonald Crawford v. Morrow 2002 ABQB 239, 324 AR 8."
+        },
+        {
+          "page": "10-129",
+          "number": 2,
+          "text": "Condo. Corp.052 0580 v. Carrington Hldg. (#2) 2024 ABKB 55, JCE 1103 01915 (Jan 29) (¶ 27)."
+        },
+        {
+          "page": "10-129",
+          "number": 3,
+          "text": "supra."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6937,
+          6970
+        ],
+        "book_pages": [
+          "10-128",
+          "10-129"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Reference to Court",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.39:1",
+          "text": "Rule 10.39 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.39. Weighing evidence and interpreting a fee agreement should be referred to a judge under this rule. However, the ground of appeal which presents the principal concern is the clerk's determination that the $5,000.00 paid by the clients was, by agreement between the parties, payment of merely the first sub-account and not, as claimed by the clients, a payment in full of the whole account. To arrive at this finding the clerk must have had to weigh evidence on the nature of the agreement and to interpret it in the light of the evidence. This is clearly a judicial function which by the Rules he, as a purely administrative officer, is not empowered to perform. As an administrative officer he may determine what services were rendered and then proceed to evaluate those services as one who by his daily contact with the profession is qualified to assess their value. It might be thought that this latter function is judicial but in my opinion it is merely an exercise in fact finding. The line of demarcation between the exercise of an administrative function and a judicial function is perhaps lacking in precision or clarity, but to interpret the meaning of an agreement is clearly beyond his power and is just such a matter which the clerk should refer to a judge under Rule 634 (supra). Rusnak v. Commodity Investors Syndicate of Canada Ltd. (1982), 48 A.R. 311 (Q.B.), at 315, per Cormack J. In Linton v. Prusak (1999), 241 A.R. 392 (Q.B.), Wilson J. agreed with Cormack J. in Rusnak v. Commodity Investors Syndicate of Canada Ltd. (1982), 48 A.R. 311 (Q.B.), and said at p. 394: These cases support the proposition taken by Cormack, J., which correctly states the law, in my respectful opinion. In MacKimmie Matthews v. Hector ([1998), 219 A.R. 163 (C.A.)], McFadyen, J.A., had this to say about the powers of the taxation officer (para. 17): The taxation officer is limited to questions relating to a quantum alone and cannot resolve other issues which may arise between the parties. If another issue arises, as it did in this case, the taxation officer refers the question to the court for resolution. Bhojani v. Ruff[[1997] A.J. 240 (C.A.)] is to the same effect Hunt, J.A., speaking for the court, found that it was proper for a taxation officer to decline jurisdiction where there was an apparent dispute between the parties as to the evidence. In that case, the parties were disputing the terms of the retainer agreement between the appellants and the respondent, including the proper amount payable by the appellants for legal services provided by the respondent. The court referred the matter back to the Court of Queen's Bench for resolution."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_39_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_014",
+        "part10_rule_10_39_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_016"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "e6d83bb857845c516228bc4bdfc1bf903dc83e3d7e84b340962ff7a0d6ab40dc",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Reference to Court",
+      "division_heading": null,
+      "operative_text_raw": "(1) An assessment officer may direct any question arising about the assessment of costs payable to be referred to the Court for a decision or direction.\n(2) The assessment officer may do all or any of the following:\n(a) require one party to serve another party or other interested person with notice of the reference;\n(b) specify how a reference to the Court is to be prepared and by whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efficient disposition of the reference.\n(3) On considering a question referred to it, the Court may make any order it considers appropriate in the circumstances, including an order to enforce a",
+      "operative_text_sha256": "5cf8cda9714ebe7a1e2570ea8b9b33fb60cd41b0dce00d4592ab782f93e387e9",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "See commentary under rule 10.38. Under this rule, the assessment officer is granted broad discretion to refer matters to the court for decision or direction as may be required.",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "merged_duplicate_entries": [
+        {
+          "file": "481-500_10_32 to 10_46.json",
+          "parsed_title": "authorize the assessment officer to do a number of things including a reference to the court for a decision or direction. The court may then make any order it considers appropriate in the circumstances, including an order to enforce a direction given by the assessment officer.  CIBC Mortgages Inc. v. Ulrich, [2015] A.J. No. 776, 2015 ABQB 445 at para. 6 (Alta. Q.B. (Master)). When an assessment officer directs a reference to the court on the question of reasonableness of the Bill of Costs, “[t]he [applications judge] ‘stands in the shoes’ of the assessment officer when making that assessment and applies the same standards and",
+          "role": "merged into it",
+          "rule_text_of_merged_entry": null
+        },
+        {
+          "file": "481-500_10_32 to 10_46.json",
+          "parsed_title": "Reference to Court",
+          "role": "kept as rule entry",
+          "rule_text_of_merged_entry": null
+        }
+      ]
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9785,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "direction given under rule 10.38.",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.39",
+      "title_official": "Reference to Court"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "a38a808ddfc1c2b840dcad88403d261a1749bc42f9d70f73600e7d18ffb24746",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6937,
+            6970
+          ],
+          "book_pages": [
+            "10-128",
+            "10-129"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "e6d83bb857845c516228bc4bdfc1bf903dc83e3d7e84b340962ff7a0d6ab40dc",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "5cf8cda9714ebe7a1e2570ea8b9b33fb60cd41b0dce00d4592ab782f93e387e9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "22ca8563b9863cb6bfa85d55f9a0e98d537bf8f713eb101f0da6a62e430f86e2",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            213,
+            214
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "52d64cac57633de11ef088ad9c0a54132736e42d341432928093d820e70c93ca"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.39 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.39 BOOK_C commentary sentence split dropped",
+    "10.39 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

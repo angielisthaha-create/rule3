@@ -1,0 +1,205 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.46",
+  "title": {
+    "official": "Review and assessment under enactments",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Other Matters Related to Lawyers’ Charges and Litigation Costs"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "10.46(1)  If an enactment requires or authorizes an amount to be\nconsidered, taxed, assessed or reviewed under these rules, a review\nofficer or an assessment officer, as the circumstances require, must\nconsider, tax, assess or review the amount\n(a) in accordance with the enactment, and\n(b) in accordance with any of these rules that apply or that\ncan be applied or should be applied by analogy.\n(2)  If an enactment requires or authorizes both lawyers’ charges\nand other costs of proceedings to be considered, taxed, assessed or\nreviewed under these rules, a review officer must perform the\nfunction\n(a) in accordance with the enactment, and\n(b) in accordance with any of these rules that apply or that\ncan be applied or should be applied by analogy.\n(3)  A review officer or assessment officer acting under this rule\nhas all the powers that the officer has in carrying out a review or an\nassessment of costs under this Part in addition to any powers that\nthe officer has under the enactment.\n(4)  A decision of a review officer or an assessment officer may be\nappealed under rule 10.26 or 10.44, as circumstances permit, and\nrule 10.27 or 10.45 applies as the case requires.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "064cff7356c4ec0d572ab960f182644dbf61e28606a282a7912232e1357ff49e"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.46 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          218
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Review and Assessment Under Enactments",
+      "operative_text_raw": "10.46(1) If an enactment requires or authorizes an amount to be considered,\ntaxed, assessed or reviewed under these rules, a review ofﬁcer or an assessment\nofﬁcer, as the circumstances require, must consider, tax, assess or review the\namount\n(a) in accordance with the enactment, and\n(b) in accordance with any of these rules that apply or that can be\napplied or should be applied by analogy.\n(2) If an enactment requires or authorizes both lawyers’ charges and other costs\nof proceedings to be considered, taxed, assessed or reviewed under these rules,\na review ofﬁcer must perform the function\n(a) in accordance with the enactment, and\n(b) in accordance with any of these rules that apply or that can be\napplied or should be applied by analogy.\n(3) A review ofﬁcer or assessment ofﬁcer acting under this rule has all the powers\nthat the ofﬁcer has in carrying out a review or an assessment of costs under this\nPart in addition to any powers that the ofﬁcer has under the enactment.\n(4) A decision of a review ofﬁcer or an assessment ofﬁcer may be appealed\nunder rule 10.26 [Appeal to judge] or 10.44 [Appeal to judge], as circumstances\npermit, and rule 10.27 [Decision of the judge] or 10.45 [Decision of the judge]\napplies as the case requires.",
+      "operative_text_sha256": "7a63e94fbda5b491806b1556148958651e6a80a358eab37f91a91f778cad0b99",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7336,
+          7357
+        ],
+        "book_pages": [
+          "10-137"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Review and assessment under enactments",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_46_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_034"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "a87ab3cf94c68492b944ab020a57d810c32778b40f0a811118918fbe70223cc1",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Review and assessment under enactments",
+      "division_heading": "Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS",
+      "operative_text_raw": "(1) If an enactment requires or authorizes an amount to be considered, taxed, assessed or reviewed under these rules, a review officer or an assessment officer, as the circumstances require, must consider, tax, assess or review the amount (a) in accordance with the enactment, and (b) in accordance with any of these rules that apply or that can be applied or should be applied by analogy.\n(2) If an enactment requires or authorizes both lawyers’ charges and other costs of proceedings to be considered, taxed, assessed or reviewed under these rules, a review officer must perform the function (a) in accordance with the enactment, and (b) in accordance with any of these rules that apply or that can be applied or should be applied by analogy.\n(3) A review officer or assessment officer acting under this rule has all the powers that the officer has in carrying out a review or an assessment of costs under this Part in addition to any powers that the officer has under the enactment.\n(4) A decision of a review officer or an assessment officer may be appealed under rule 10.26 or 10.44 , as circumstances [Appeal to judge]\n[Appeal to judge] permit, and rule 10.27 or 10.45 [Decision of the judge]\n[Decision of the judge] applies as the case requires.",
+      "operative_text_sha256": "51e96102346fcedd83bf12b0de9c2de50eb9d651bc9119fb14247dfe8d2f7c4f",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.46",
+      "title_official": "Review and assessment under enactments"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "7a63e94fbda5b491806b1556148958651e6a80a358eab37f91a91f778cad0b99",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7336,
+            7357
+          ],
+          "book_pages": [
+            "10-137"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "a87ab3cf94c68492b944ab020a57d810c32778b40f0a811118918fbe70223cc1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "51e96102346fcedd83bf12b0de9c2de50eb9d651bc9119fb14247dfe8d2f7c4f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "064cff7356c4ec0d572ab960f182644dbf61e28606a282a7912232e1357ff49e",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            218
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "9e209e73107306541e0f95adf57c35ed81427e828a9c56db9e3b577c02d450ba"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.46 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.46 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

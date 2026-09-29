@@ -1,0 +1,216 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.12",
+  "title": {
+    "official": "Location of review",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.12(1)  Where a lawyer carries on business in Alberta, the\nlawyer’s charges may be reviewed by a review officer at the\njudicial centre nearest to where the lawyer carries on business.\n(2)  Where a lawyer does not carry on business in Alberta but the\nclient resides in Alberta, the lawyer’s charges may be reviewed by\na review officer at the judicial centre nearest to where the client\nresides.\n(3)  Notwithstanding subrules (1) and (2), and in any other case, the\nCourt may designate a location for the review of the lawyer’s\ncharges.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "2513f79d291e36a34d556a1f297f88ac1b5abb3c1880630c54ce106282328c3f"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.12 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          200
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Location of Review",
+      "operative_text_raw": null,
+      "operative_text_sha256": "b32c49f1423579b2c5f0a9f288a8c41337befcbb3917be8e882c2f1dc0871b8f",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [
+        {
+          "page": "10-28",
+          "number": 7,
+          "text": "Quite similar to previous R.643(b). (b) was new in 1997, replacing R.627(c).1968 R.643 was quite similar to 1914 R.773A, added by O. C.1590-36, and to 1914 R.779. Cf. (Imp. ) 6 & 7 Vict. c.73 s.38."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1354,
+          1363
+        ],
+        "book_pages": [
+          "10-28"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Location of review",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_12_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "b1fe2a1bb8e1f6f20657ee6366f69ae39f45efcc8afa1f9006469d74f106feeb",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Location of review",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "5a08453e65b7a78187aa22ab44b4100112004424de243bea9d60861b414a182e",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.12",
+      "title_official": "Location of review"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "b32c49f1423579b2c5f0a9f288a8c41337befcbb3917be8e882c2f1dc0871b8f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1354,
+            1363
+          ],
+          "book_pages": [
+            "10-28"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "b1fe2a1bb8e1f6f20657ee6366f69ae39f45efcc8afa1f9006469d74f106feeb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "5a08453e65b7a78187aa22ab44b4100112004424de243bea9d60861b414a182e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "2513f79d291e36a34d556a1f297f88ac1b5abb3c1880630c54ce106282328c3f",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            200
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "ebec1e1c16d559767361ffb252a4fb49ec16b30cf1a467d3a97418ba7ff6ed8d"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.12 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.12 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.12 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.12 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

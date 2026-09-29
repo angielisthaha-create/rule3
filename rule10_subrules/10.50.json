@@ -1,0 +1,390 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.50",
+  "title": {
+    "official": "Costs imposed on lawyer",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Sanctions"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Penalty"
+  },
+  "operative_text": {
+    "controlling": "10.50   If a lawyer for a party engages in serious misconduct, the\nCourt may order the lawyer to pay a costs award with respect to a\nperson named in the order.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "38c2a24453c487bf2aa2347bb8475d1f3b154d06a25393995394595b2f2a449e"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.50 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          219
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Costs Imposed on Lawyer",
+      "operative_text_raw": null,
+      "operative_text_sha256": "d7a39a865d0717457ae4cdf3bdbbc82d654801bbf8798110b1a8582437363dee",
+      "related_provisions": "10.28 (”party”) ; 10.29 (costs awards)",
+      "commentary": "A. Introduction\nThere are 3 different ways in which a solicitor might become personally liable for costs in a suit\nwithout being a party:\n(i) By acting for a party which does not exist, or is not competent (because of infancy or\nmental defect), or has not given proper authority e. g. because of bankruptcy.⁷\n\n(ii) By being the real instigator of the suit and person for whose beneﬁt it is run.¹\n(iii) By serious misconduct in prosecuting or defending a suit for a client.²\nThis remedy comes\nfrom the court's inherent power over solicitors as ofﬁcers of the court.³\nB. General Principle\nAn order that a solicitor pay costs personally is rarely given, and only infrequently does the\nquestion whether to impose it arise. Only serious misconduct can justify personal costs, especially\nas a lawyer has a duty to keep his instructions conﬁdential and advance even unpopular causes\nwith courage, and the court should not make fear of costs conﬂict with those fundamental duties\nof an advocate.⁴\nThe courts should be cautious in making a costs order personally against counsel.⁵\nBut\ncontempt is not necessary for personal liability.⁶\nUnfounded accusations of serious misconduct\n\nby the opposing party or her lawyer, especially both of them and their witnesses, and continual\nintimidation, are a real problem in litigation. Though the aim is to compensate the injured party, not\nto punish the solicitor, misconduct by the solicitor is necessary.¹\nIt is not enough that it is unlikely\nthat the solicitor's client would ever pay the costs.²\nThe court can impose personal costs against a solicitor for abuse of process, frivolous\nproceedings, misconduct, dishonesty, or actions taken for ulterior motives whose effect is seriously\nto undermine court authority or seriously to interfere with the administration of justice.³\nPersistent,\nunfounded, vexatious litigation instigated by the solicitor deliberately or by gross negligence or\nwith grossly disproportionate claims, may sufﬁce, especially if coupled with other misconduct.⁴\nThat high threshold is met if counsel conducted an unfounded, frivolous, dilatory or vexatious\nproceeding denoting a serious abuse of the legal system, or dishonest or malicious conduct by\nhim that is deliberate. He cannot knowingly use judicial resources for a purely dilatory purpose in\norder solely and in a calculated manner to obstruct the orderly conduct of the judicial process.⁵\nA lawyer had to pay personally a lump sum said to replace full indemnity costs, for getting the\nunrepresented opponent's approval of any draft order dispensed with, and then drafting a formal\norder omitting the judge's conditions limiting the order to a certain time period.⁶\nPersonal liability\nwas not imposed where counsel's undoubted misconduct was thought probably carelessness,\nwithout intent to deceive.⁷\nLitigation misconduct can be bad enough for full-indemnity costs, yet not bad enough for\npersonal liability of counsel for those costs, e. g. if the conduct was careless but not intended to\nmislead.⁸\nPersonal penalties against counsel in criminal cases are different from civil, as costs in\ncriminal cases are purely punitive, not at all compensatory, and a defence counsel has no duty to\nencourage compromise or agreement, nor to help the Crown conduct its case.⁹\nThat the solicitor had a contingency fee agreement is not enough to show that the solicitor was\nmotivated by his or her ﬁnancial stake in the suit.¹⁰\n\nThe Alberta Court of Justice’s statutory power to give costs is not conﬁned to costs against\nnamed parties, and includes costs against solicitors personally.¹\nMistakes by the impugned\nsolicitor in drafting formal orders which were either reasonable, pardonable, slight negligence, or\neven non-existent, were not enough for personal costs.²\nEven when acting for herself, a lawyer owes a higher duty to observe procedures, on penalty\nof higher costs.³\nC. Procedure\nBefore costs are awarded against a solicitor personally, though the process can be ﬂexible,\nthere should be notice of the allegations and possible consequences, including information about\nalleged facts and evidence, and enough time to respond and lead contrary evidence.⁴\nThe standard of proof for personal costs against a solicitor is the balance of probabilities, the\nsolicitor is not a \"person charged with an offence\", and ss.7, 11 of the Charter do not apply.⁵\nA\nproceeding to impose personal costs on a solicitor must not put on trial the lawyer's disciplinary\nrecord, still less his career. Generally the only relevant facts are those of the suit or prosecution\nbefore the court. But facts from other cases can be used to determine the solicitor's intention in\nthis case (such as good or bad faith), and to test the knowledge of the lawyer, e. g. as to what\nis forbidden or unfounded, semble if such evidence is of high probative value and has strong\nsimilarity to the facts alleged in this case.⁶\nMere inferences, and hearsay upon hearsay had no\neffect, in the Washburn case.⁷\nHowever, if the offending lawyer's client is solvent, whether the costs liability is personal on\nthe solicitor may matter little in the end result. If the misconduct was not the client's fault and\nwas the solicitor's neglect (or worse), then the client will seek reimbursement of any costs for\nthe bad actions which the client had to pay to the opponent, and the courts or the Law Society\nwill likely make the solicitor reimburse his ex-client.⁸\nIf the counsel's client wants counsel to pay\nthem, such indemnity should be in another forum; in the main lawsuit, it would involve privileged\ncommunications.⁹\nOnce the question arises of ordering costs personally against counsel, the client should be\nallowed an adjournment so that counsel may consider his position and whether anyone should\nget independent legal counsel. A lawyer should not have to represent simultaneously his client\nand himself.¹⁰",
+      "footnotes": [
+        {
+          "page": "10-141",
+          "number": 7,
+          "text": "See the C. P. E. , Chapter 4, Part K; dicta in Papaschase F. N. v. McLeod (#2) 2021 ABQB 698, JCE 1903 21547 (Aug 31) (¶’s 12-16). But taking merely oral instructions from clients abroad is not enough to give liability: Re Nakonechna 2004 ABCA 54, 354 AR 4 (one JA)."
+        },
+        {
+          "page": "10-142",
+          "number": 1,
+          "text": "Cf.1985 Sawridge Tr. v. Pub. T’ee. (Stoney v. Twinn) (#9) 2018 ABQB 213, [2018] 7 WWR 411 (¶’s 29-31), revd 2019 ABCA 244, Edm 1803 0076 AC. See the C. P. E. , Chapter 72, Part K. But merely helping a real party does not sufﬁce: B. H. v. Dir. of Child Welfare 2002 ABCA 216, [2003] 3 WWR 267, recon den 2003 ABCA 6, [2003] 4 WWR 52."
+        },
+        {
+          "page": "10-142",
+          "number": 2,
+          "text": "See the C. P. E. , Chapter 73, Part A.2. For examples, see Parts A.3 and A.4, and Hatton v. Hawley (Alta M 28 Sep ’05) JDE 0203 16919. Some cases say that starting a hopeless suit is enough, but more recent ones disagree, and look for real misconduct."
+        },
+        {
+          "page": "10-142",
+          "number": 3,
+          "text": "Dir. v. Jodoin, infra, at ¶’s 18-19. Even against defence counsel in criminal cases: id. at ¶ 19. And of course this Rule conﬁrms that power."
+        },
+        {
+          "page": "10-142",
+          "number": 4,
+          "text": "Dir. v. Jodoin, supra at ¶’s 25, 32."
+        },
+        {
+          "page": "10-142",
+          "number": 5,
+          "text": "Dir. of Criminal & Penal Prosecutions v. Jodoin 2017 SCC 26, [2017] 1 SCR 478 (¶ 29) ; Secure 2013 Grp. v. Tiger Calcium Serv. (#2) 2018 ABCA 110, Edm 1703 0001/3/4/5 AC (Mar 23) (¶’s 11(c), 22-24). Given the Jodoin decision in 2017, the test for making a solicitor pay costs personally has probably been eased somewhat, so that decisions before May 2017 must be read with considerable caution: Dir. v. Jodoin, supra. B. H. v. Dir. of Child Welfare, supra; Robertson v. Wasylyshen (Edm. Police Service) (#11) 2005 ABQB 499, 385 AR 325; Re Boyle (#2) 2007 ABCA 24, 412 AR 27 (not giving opponent proper notice). The law was reviewed in Trang v. Dir. of Edm. Remand Centre (#2) 2007 ABCA 267, 412 AR 276. See the C. P. E. , Chapter 73, Part A.2. Merely leading irrelevant evidence and wasting time at trial, despite the trial judge’s admonitions, was not bad enough, in Sinha v. Sinha (#2) 2002 ABQB 686, 319 AR 149. Counsel had to pay for copying work which the other side had to do for him because he was not ready, and for a court-appointed expert under R.6.43, where he later abandoned the relevant issue: Shum v. Mitchell (#2) 2000 ABQB 323, 265 AR 149. Tricky misleading and abusive behavior coupled with gross recklessness in factual misstatements led to $15, 000.00 personal costs, in Re Rahall 2003 ABQB 1050, 349 AR 263. A similar sum was awarded against senior counsel for incomplete and misleading information given on an ex parte application, though she swore that she had not fully appreciated the materiality of the point: Brown v. Silvera (Arès) 2005 ABCA 438, 376 AR 69, affg 2004 ABQB 527, 364 AR 195. Up to $5, 000 for delaying proceedings, failure to turn up in court, or to return phone calls, and (probably) for telling his client to disobey a court order: McNamara v. McNamara 2007 ABQB 51. $1, 000 for absenting self from long-scheduled appeal and going incommunicado: Trang v. Dir. of Edm. Remand Centre, supra; Adams v. Adams (#2) 2011 ABQB 812, 53 Alta LR(5th) 51 (#1 is 2011 ABQB 306). The case law is reviewed, in Re Sawridge Band Inter Vivos Settlement (1985 Sawridge Tr. ) v. Twinn and Pub. T’ee. (#__) 2017 ABQB 436, JCE 1103 14112 (Jul 12) (¶’s 67 ff. ). But then the Court of Appeal reiterated that it is very difﬁcult to get costs against a lawyer personally if the lawyer is not a party to the lawsuit, and the misconduct by the lawyer must be very bad, and a mere mistake or error short of gross neglect or inaccuracy is not enough, though the range of circumstances where it might be ordered is wide: 1985 Sawridge Tr. v. Pub. T’ee.2019 ABCA 243, [2019] 10 WWR 604, 35 CPC(8th) 225, 91 Alta LR(6th) 111, revg 2017 ABQB 530. Though the decision 2017 ABQB 530 was reversed, it does contain a considerable citation of previous case law."
+        },
+        {
+          "page": "10-142",
+          "number": 6,
+          "text": "Shum v. Mitchell (#2), supra; Dir. v. Jodoin, supra, at ¶’s 20-24. Because the deponent’s conduct had been careless but not dishonest, the lawyer for the careless party was not ordered to pay costs personally: Time Logistics v. Haworth (#2) (M) 2007 ABQB 633. Costs personally against a solicitor are a parellel remedy with contempt (and Law Society penalties) and it is possible that both (or all 3) could be imposed for the same misconduct; Dir. v. Jodoin, supra at ¶ 20. The procedure for personal costs is less strict, which is a relevant consideration: id. at ¶’s 22-23. And usually personal costs are slighter penalty: id. at ¶ 24."
+        },
+        {
+          "page": "10-143",
+          "number": 1,
+          "text": "Madore v. Madore (#2) 2017 ABQB 391, 8 CPC(8th) 279, 94 RFL(7th) 368 (¶ 43)."
+        },
+        {
+          "page": "10-143",
+          "number": 2,
+          "text": "Madore v. Madore, supra (¶’s 48-49)."
+        },
+        {
+          "page": "10-143",
+          "number": 3,
+          "text": "id. at ¶’s 26, 29."
+        },
+        {
+          "page": "10-143",
+          "number": 4,
+          "text": "Stoney v. Twinn (1985 Sawridge Tr. ) (___) 2017 ABQB 530, JCE 1103 14112 (Aug 31) (¶’s 31-42, 48-55, 71-73, 92-96, 99-141, 115-17, 154), revd 2019 ABCA 243, Edm 1703 0239 AC; 1985 Sawridge Tr. v. Alta. (Stoney v. Twinn) (#__) 2017 ABQB 548, JCE 1103 14112 (Sep 12) (¶’s 113-22). (Note: leave to appeal granted 2017 ABCA 368, 61 Alta LR(6th) 21 (one JA Nov 7). See also 1985 Sawridge Tr. v. Pub. T’ee. (Stoney v. Twinn) (#9) 2018 ABQB 213, [2018] 7 WWR 411 (¶’s 29-31), revd 2019 ABCA 244, Edm 1803 0076 AC."
+        },
+        {
+          "page": "10-143",
+          "number": 5,
+          "text": "Dir. v. Jodoin at ¶ 29."
+        },
+        {
+          "page": "10-143",
+          "number": 6,
+          "text": "Svederus v. Engi 2019 ABCA 155, Calg 1801 0267 AC."
+        },
+        {
+          "page": "10-143",
+          "number": 7,
+          "text": "Secure 2013 Grp. v. Tiger Calcium Serv. (#2) 2018 ABCA 110, Edm 1703 0001/3/4/5 AC (Mar 23) (¶’s 22- 24)."
+        },
+        {
+          "page": "10-143",
+          "number": 8,
+          "text": "Secure 2013 Grp. v. Tiger Calcium, supra (¶’s 23-24)."
+        },
+        {
+          "page": "10-143",
+          "number": 9,
+          "text": "Dir. v. Jodoin, supra at ¶ 32."
+        },
+        {
+          "page": "10-143",
+          "number": 10,
+          "text": "Madore v. Madore, supra (¶’s 48 ff. )."
+        },
+        {
+          "page": "10-144",
+          "number": 1,
+          "text": "See also Dir. v. Jodoin, supra at ¶’s 16-17. This overrules R. v. Gunn 2003 ABQB 314, 335 AR 137."
+        },
+        {
+          "page": "10-144",
+          "number": 2,
+          "text": "Goold (J. D. M. ) v. A. M. L. [Lenos] 2010 ABCA 219, 487 AR 335. On the need for notice, cf. Shefsky v. California Gold Mining (#2) 2015 ABQB 525, 2015 CarswellAlta 1857."
+        },
+        {
+          "page": "10-144",
+          "number": 3,
+          "text": "A. R. C. v. L. L. C.1999 ABQB 707, 256 AR 311."
+        },
+        {
+          "page": "10-144",
+          "number": 4,
+          "text": "Washburn v. Mitchell 2018 ABQB 301, JCL 1306 00498 (Apr 17) (¶’s 17 ff. ). Ideally this will be argued after the substantive proceeding ended on its merits: Dir. v. Jodoin at ¶ 36; or almost ﬁnished, the solicitor no longer acted: Washburn v. Mitchell (¶’s 17-27)."
+        },
+        {
+          "page": "10-144",
+          "number": 5,
+          "text": "Dir. v. Jodoin, supra at ¶ 37."
+        },
+        {
+          "page": "10-144",
+          "number": 6,
+          "text": "Dir. v. Jodoin, supra at ¶’s 33-34."
+        },
+        {
+          "page": "10-144",
+          "number": 7,
+          "text": "Washburn v. Mitchell, supra (¶’s 32-34)."
+        },
+        {
+          "page": "10-144",
+          "number": 8,
+          "text": "Secure 2013 Grp. v. Tiger Calcium Serv. (#2) 2018 ABCA 110, Edm 1703 0001/3/4/5 AC (Mar 23) (¶’s 11(c), 24)."
+        },
+        {
+          "page": "10-144",
+          "number": 9,
+          "text": "Secure 2013 Grp. v. Tiger Calcium (#2) 2018 ABCA 110, Edm 1703 0001/3/4/5 (Mar 23) (¶’s 23-24)."
+        },
+        {
+          "page": "10-144",
+          "number": 10,
+          "text": "Darr (Martin) v. Darr 2006 ABCA 32, 384 AR 69. See the C. P. E. , Chapter 73, Part A.5."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7550,
+          7746
+        ],
+        "book_pages": [
+          "10-141",
+          "10-142",
+          "10-143",
+          "10-144",
+          "10-145"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Costs imposed on lawyer",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.50:1",
+          "text": "Rule 10.50 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.50. 1. Test In the unreported decision of Hirji v. Turnbull, No. 14601, the Alberta Court of Appeal reversed the trial judge's order for costs to be paid by the unsuccessful plaintiff's counsel stating: We are all of the view that justification for the learned trial judge's order against the unsuccessful plaintiff's counsel was not within the compensatory jurisdiction of the court. That is the position of the respondents. In allowing the appeal, we say that the actions of the solicitor, Mr. Hirji, did not meet the standards of misconduct expressed by the House of Lords in Myers v. Elman, [1940] 4 A.C. 282 …First National Bank of Oregon v. A.H. Watson Ranching Ltd. (1984), 34 Alta. L.R. (2d) 110 (Q.B.), at 130–31, per Lomas J. The case of Myers v. Elman, [1939] 4 All E.R. 484 (H.L.), contains the following comments by Viscount Maugham at pp. 488–89: Misconduct or default or negligence in the course of the proceedings is in some cases sufficient to justify an order [requiring a solicitor to pay the costs of proceedings]. The primary object of the court is, not to punish the solicitor, but to protect the client who has suffered and to indemnify the party who has been injured. R.S.C., Ord. 65, r. 11, provides the necessary machinery where the person injured is the client of the solicitor. It is a rule supplementary to the summary jurisdiction of the court. It is not limited to misconduct or default, but expressly extends to costs incurred improperly or without reasonable cause, or costs which have proved fruitless by reason of undue delay in proceeding under a judgment or order. The jurisdiction to order the solicitor to pay costs to the opposite party is exercised on similar grounds. The principle will be found clearly stated in Halsbury's Laws of England, Hailsham Edn., Vol. 31, p. 271, where numerous authorities are cited. It will be found that many of these authorities depend, in cases where the order as to costs has been made, on the negligence or mistake of the solicitor, and in that sense only on his misconduct in the proceedings. Some of the cases are those where the solicitor has instituted an action without proper authority, and it may be that they can be supported on the ground that, in such cases, the solicitor has warranted that he has the authority of his client to act for him in the litigation, though it may be observed that that is not the ground stated by the court, and I think they rest on the jurisdiction of the court over its officers. I propose to select a few cases only for comment. In Re Jones ([1870), 6 Ch. App. 497], Lord Hatherley, L.C., laid down the rule with his usual clearness. It was a case where the solicitor had engaged to indemnify the plaintiff against the costs of a doubtful suit which failed. The defendants, failing to recover their costs from the plaintiff, applied by petition for (amongst other things) an order on the solicitor to pay their costs. Lord Hatherley, L.C., began by laying down the general principle. He said, at p. 499: … I think it is the duty of the court to be equally anxious to see that solicitors not only perform their duty towards their own clients, but also towards all those against whom they are concerned … He added that care should be taken to see that the litigation is the bona fide litigation of the client who instructs the solicitor, and not one carried on altogether on the solicitor's account, a well-known proposition with which we are not concerned here. The solicitor was ordered to pay the costs. I cannot find that the proposition laid down by Lord Hatherley, L.C., has ever been doubted, and the cases cited in Halsbury's Laws of England certainly tend to support it. Nor is the proposition a modern invention. To go no further back than Sayer on Costs, 2nd Edn., 1777, it will be found that he has a chapter (No. 47) “Of the liability of an attorney in a cause to pay costs.” He cites there six cases, the first being thus described. Many mistakes having been made by the plaintiff's attorney in the copy of a capias, a rule was made for him to shew cause why he should not pay to both plaintiff and defendant the costs occasioned by those mistakes (White v. Washington ([1738), Barnes 411]). We are left to infer that the rule was made absolute, and the same observation applies to a statement of the case in Barnes' Notes of Cases, 3rd Edn., p. 411. In Fowke v. Horabin ([1739), Barnes 11], another case cited in Sayer on Costs, a rule was made for the plaintiff's attorney, guilty merely of gross mistakes in a certain record which had to be amended, to pay the costs occasioned by the amendments (see the statement of the case in Barnes' Notes, 3rd Edn., p. 11). These cases did not depend on disgraceful or dishonourable conduct by the solicitor, but depended on mere negligence of a serious character, the result of which was to occasion useless costs to the other parties. If, then, as I think, the authorities show that the jurisdiction may be exercised where the solicitor is merely negligent, it would seem to follow that he cannot shelter himself behind a clerk, for whose actions within the scope of his authority he is liable. That a partner in a firm of solicitors cannot escape from such an order on the ground that he took no active part in the proceedings seems to me to be clear. And Moshansky J. said: The awarding of costs against counsel is a rather extraordinary remedy. There are some clear cases for the award of such costs, such as when a solicitor commences an action without authority (Semenoff v. Pidwerbisky (1955), 14 W.W.R. 322), or without next friend; Hut v. General Exchange Insurance Corporation (1958), 26 W.W.R. 143; Kennedy v. Kennedy (1959), 27 W.W.R. 295). While opposing counsel have also argued that the trial in this matter was protracted unduly by reason of incompetence on the part of the defendants' counsel, that has been held by the British Columbia Court of Appeal in the case of Geller v. Brisseua, [1979] 6 W.W.R. 416, not to be grounds for the awarding of costs against counsel. Neither is honestly raising a defence, which the court finds to be without merit, a ground …Rafferty v. Sieben (1988), 87 A.R. 318 at 319 (Q.B.). In Young v. Young, [1993] 4 S.C.R. 3, the Supreme Court of Canada considered the matter of costs being awarded against counsel personally. Speaking for the majority, Madam Justice McLachlin said, at pp. 135–36: The basic principle on which costs are awarded is as compensation for the successful party, not in order to punish a barrister. Any member of the legal profession might be subject to a compensatory order for costs if it is shown that repetitive and irrelevant material, and excessive motions and applications, characterized the proceedings in which they were involved, and that the lawyer acted in bad faith in encouraging this abuse and delay. It is clear that the courts possess jurisdiction to make such an award, often under statute and, in any event, as part of their inherent jurisdiction to control abuse of process and contempt of court… Moreover, courts must be extremely cautious in awarding costs personally against a lawyer, given the duties upon a lawyer to guard confidentiality of instructions and to bring forward with courage even unpopular causes. A lawyer should not be placed in a situation where his or her fear of an adverse order of costs may conflict with these fundamental duties of his or her calling. In Kirkeby v. Waddell (1996), 183 A.R. 350 (Q.B.), LoVeccio J. considered the matter of awarding costs against the barrister personally. Plaintiff's counsel had alleged misconduct on the part of defence counsel. The court found it to be “completely without foundation”. Costs were awarded against the plaintiff's lawyer. At p. 361, his Lordship said: Mr. Derer [defence counsel] was very upset at this suggestion of misconduct on his part and was extremely forceful and emotional in his response. He subsequently seemed concerned about the manner of his response. I assured him then and I wish to reiterate now that his response was not misconstrued by me in any way and quite to the contrary I understand his strong feelings. In the end one's reputation in the profession is and should be of utmost importance to all. As can be seen, this allegation of misconduct is groundless as was every other suggestion of inappropriate behaviour on the part of the defendants and/or their counsel in the argument of Mr. Warren [plaintiff's counsel]. What then should I do about costs on this application? Mr. Warren seeks costs on a solicitor-client basis against the defendants and Mr. Derer seeks the same but he would go one step further and ask that they be awarded against Mr. Warren personally. I am going to accept Mr. Derer's suggestion as the allegation of misconduct is completely without foundation and while it is not an abuse of process to assert such misbehaviour in my view in this case we are right at line as to their being any factual basis on which such an allegation should ever have been made. In Kirkeby v. Waddell, the Court of Appeal of Alberta [(1998) 228 A.R. 113] allowed an appeal from the order directing the lawyer to pay the costs personally. The court did not opine on the propriety of the order itself, but rather granted the appeal on the failure to offer an adjournement so that the lawyer could retain independent counsel. At p. 114, Russell J.A. said: Once the application was made during the course of the cost hearing for solicitor/clients costs personally against the plaintiff's lawyer, the chambers judge was obliged to offer the appellant an adjournment to consider his position and whether he ought to seek independent legal counsel. Instead, counsel was placed in an untenable position of attempting to advocate his client's interests in a hearing which had suddenly become co-mingled with his own. We note that the chambers judge properly instructed himself on the test to be applied, and that the appellant was notified during the course of the proceedings that an application of this nature was being made. However, that is not sufficient, in our view, to redress the fundamental procedural error that occurred. Accordingly, we set aside that portion of the order relating to the costs of the taxation hearing, and remit the matter back to a different judge of the Court of Queen's Bench. Subsequently, in Darr v. Darr (2006), 384 A.R. 69 (C.A.), the Court of Appeal said, at p. 69: … The appeal asks this question: “Does a chambers judge have an obligation to offer an adjournment before awarding costs against a lawyer personally?” The answer to that question is “yes”. Costs orders against lawyers should not be made casually. This court dealt with a similar order in Kirkeby v. Waddell (1998), 228 A.R. 113, 188 W.A.C. 113, 1998 ABCA 307 (C.A.), and held that where a court is seriously considering an order of costs against a lawyer personally, it had an obligation to grant an adjournment. The court found that mere notification during the proceedings that an application of this nature was being made was not sufficient. The rationale for this decision was succinctly stated by Russell, J.A., at para. 3, where she said that the reason a positive duty to offer an adjournment exists is because “… counsel was placed in an untenable position of attempting to advocate his client's interests in a hearing which had suddenly become co-mingled with his own.” In Kolacz v. Burdeinei (1997), 205 A.R. 54 (Q.B.), P.L.J. Smith J. said at p. 59: Costs are awarded against counsel personally for misconduct, not for questionable or even negligent judgment exercised during the course of litigation. The objective of such an award is to protect the litigants from an abuse of the court's process, not to punish counsel, although such an award has that effect. In Shum v. Mitchell (2000), 80 Alta. L.R. (3d) 195 (Q.B.), Wilson J. said at p. 198: I do not agree with the British Columbia authority to the effect that I can only make an Order such as this if there is a finding amounting to contempt. … I hold the view that I may do so if I can discern bad faith, and if I can discern that the lawyer proceeded on a basis that was baseless when he should have known it. In that case, it is not an answer to say that he was merely putting forward his client's position and that she was entitled to have it out in court. If it is baseless, it is for the lawyer to put a stop to it and stop wasting the Court's time and the funds of the Defence. His client would not know that it was baseless, but her lawyer knew or ought to have known that was the case. The same approach was taken by Lee J. in Loates v. Loates (2000), 264 A.R. 287 (Q.B.). At pp. 294–296, his Lordship said: In Markdale Ltd. v. Ducharme (1998), 238 A.R. 98 (Q.B.), Bielby, J., granted costs personally against the plaintiff's counsel for his conduct of the case, stating at p. 110: While Mr. Arends replaced preparation and procedural knowledge with aggression, it is his other conduct which primarily attracts the court's consideration of a personal order for costs. The three areas of conduct which Bielby, J., cites are: (a) advising the defendant's and workers that he had court orders, which he did not in fact have; (b) unfounded accusations against opposing counsel; and (c) a “myriad of relatively trivial issues raised primarily by [plaintiff's counsel]”…“excessive use of the court's time”…“lack of respect for the Case Management process”. The key statement of the law by Bielby, J., is at p. 111: The courts, both nationally and within Alberta, have been prepared to assess costs against a solicitor personally where that solicitor has been found to have promoted excessive motions, put forward irrelevant material and generally acted in bad faith, see Young v. Young, [1993] 108 D.L.R. (4th) 193 at p. 284 (S.C.C.). I conclude that the defendant's legal fees were considerably increased in this matter by Mr. Arends' lack of knowledge of proper procedure, his obstructionist stance and his actions in seizing her drycleaning equipment in circumstances where he knew or should have known the seizure was illegal. Rather than addressing that reality early on, his response was to aggressively resist the resolution of this matter at every turn with the resulting exacerbation of the defendant's legal expenses. . . . . . The situation was compounded by Mr. Arend's active assistance in securing breaches of court orders obtained by the defendant. This conduct extends beyond mere negligence. It goes beyond mere poor judgment or negligence or simply proceeding with a weak case; see Re Hawrish, Boyko v. Sitter (1964), 50 W.W.R. 616 (Sask. C.A.). Intentional breach of a court order is always serious and attracts consequences. In my view, the judgment in Markdale highlights some of the factors required in Young v. Young. There is a clear increase in the opposing party's legal costs arising from the order. And, there is conduct by the solicitor which goes beyond mere “acrimonious progress”: there are additional acts done which show the solicitor's “bad faith” in pursuing the action in the manner he did. This addresses the policy concern in Young v. Young that a lawyer not be “chilled” from a vigorous defence of the client in fear of a personal order of costs. I am convinced that in the present case the conduct of Mr. Knight, seen in its entirety, shows the sort of “bad faith” conduct of an action which ought to allow Ms. Loates to be compensated for her costs directly from Mr. Knight. Firstly, Mr. Knight consistently put forward extraneous materials, such as the affidavit of December 23, 1999, and irrelevant argument, such as the argument regarding the wording of the freezing Order. However, in my view, the most egregious conduct from a costs perspective was to utilize the parties' time and effort to engage in a personal debate with the court and opposing counsel, with no potential legal benefit for his client. This is not the sort of case Young v. Young was concerned about protecting: it is not the vigorous representation of the client's interest. This sort of conduct by an officer of the court must be deterred. Therefore, to the extent that Ms. Loates was put to extraneous legal expenses in response to Mr. Knight's conduct, such costs should be paid personally by Mr. Knight. Partly from the information provided to me by Ms. Loates, I find that these additional costs amounted to $1,000. In Robertson v. Edmonton (City) Police Service (2005), 53 Alta. L.R. (4th) 355 (Q.B.), Slatter J. said, at p. 365: The Supreme Court endorsed the more detailed reasons of the British Columbia Court of Appeal on this topic, reported as Young v. Young (1990), 75 D.L.R. (4th) 46, 50 B.C.L.R. (2d) 1, § 81-101 (B.C. C.A.). That court made the following points: (a) An award of costs should not be made against a solicitor personally on the ground that proceedings brought on behalf of a client lack merit unless it is beyond doubt not only that the proceedings are devoid of merit, and that the solicitor knew or ought to have known them to be so, but also that the responsibility for continuing with the proceedings despite their lack of merit lies with the solicitor, rather than the client. (b) Counsel bears the responsibility for determining what evidence should be adduced to advance his client's cause. In doing so counsel must be allowed some latitude. (c) A solicitor ought not to be ordered to pay solicitor-and-client costs where his conduct is merely the product of excessive zeal, and the production of material not strictly necessary for the court's decision is not grounds for an award of solicitor-and-client costs against him. (d) An award of costs should not be made against a solicitor personally on the ground that an excessive number of interlocutory proceedings were brought, unless responsibility for them lies with the solicitor, rather than the client. The general principles are also discussed in 155569 Canada Ltd. v. 248524 Alberta Ltd., [1997] A.J. No. 296 (Alta. Q.B.). His Lordship then reviewed examples of situations in which costs have been awarded against lawyers, and concluded that “there must be some finding of positive misconduct by counsel before costs will be awarded against him or her personally.” At pp. 367–368, Slatter J. said: The cases largely turn on their specific facts, but it is helpful to see the type of conduct that has justified costs awards against counsel: (a) Shum v. Mitchell, 2000 ABQB 323, 265 A.R. 149, 47 C.P.C. (4th) 158 (Alta. Q.B.). Counsel was required to pay costs of a court-appointed expert on an issue that was abandoned during argument, and should have been abandoned earlier. (b) Brown v. Silvera, 2004 ABQB 527, 364 A.R. 195 (Alta. Q.B.). Counsel misled the Court on an ex parte application for a preservation order by withholding relevant information. (c) Rahall, Re, 2003 ABQB 1050, 31 Alta. L.R. (4th) 294, 349 A.R. 263 (Alta. Q.B.). Counsel misled the Court on the status of a bankruptcy file and on whether proper notice had been given. (d) Markdale Ltd. v. Ducharme, 1998 ABQB 758, 238 A.R. 98 (Alta. Q.B.). Counsel was liable for costs for intimidating a witness by alleging a non-existing court order, by making unfounded allegations of misconduct, prolix proceedings, and for aiding in the breach of court orders. (e) Loates v. Loates, 2000 ABQB 253, 264 A.R. 287, 185 D.L.R. (4th) 525 (Alta. Q.B.). Putting forward irrelevant material, intentionally frustrating the judgment, and running up costs justified an order for costs against counsel. (f) Lynch v. Checker Cabs Ltd., 1999 ABQB 514, 73 Alta. L.R. (3d) 74, 245 A.R. 182 (Alta. Q.B.). Counsel caused a mistrial by giving a without prejudice offer to the trial judge. (g) Kent v. Waldock, 2000 BCCA 357, 139 B.C.A.C. 189, 76 B.C.L.R. (3d) 217 (B.C. C.A.). Intentionally failing to disclose documents justified costs against the solicitor, but raising weak and eventually unsuccessful defences did not. It is apparent from the case law that there must be some finding of positive misconduct by counsel before costs will be awarded against him or her personally. It is not enough that the action was unsuccessful. It is not enough that the client advanced unmeritorious claims, or instructed counsel to pursue the matter in an undesirable way. Nor is it sufficient that counsel did not act in an exemplary fashion. A mere error of judgment, or even negligence, is not enough. Obviously, legitimate tactical decisions by counsel on the conduct of the litigation do not justify personal cost awards. The conduct of the barrister must demonstrate or approach bad faith, or deliberate misconduct, or patently unjustified actions, although a formal finding of contempt is not needed: Shum v. Mitchell, supra, at para. 15; Brown v. Silvera, supra, at para. 32. Deciding what evidence to tender and which arguments to make obviously involves a large degree of judgment by counsel. Simply because evidence is not accepted or arguments are unsuccessful does not mean that counsel should not have made them. Counsel are afforded a great deal of latitude. However, counsel are only admitted to the Bar because they have the training that entitles them to practice law. Where counsel persists in introducing evidence whose relevance is so contrived that there is no reasonable likelihood of it being accepted, then at some point counsel has crossed the line. Tendering an isolated piece of evidence of this sort will not warrant sanction, but where counsel builds an entire case on such evidence, at some point counsel will become exposed to a costs award. Likewise, counsel are entitled to make arguments that have not been made before, or have not succeeded before, because that is how the common law develops. However, even here there are boundaries that counsel, because of their training, are expected not to cross. The Commentary on the Code of Professional Conduct specifically states that it is an abuse of process for counsel to advance an argument where there is no legitimate expectation that it might succeed. While the Commentary does not speak to interlocutory steps, in my view it clearly implies that improper, unnecessary, and excessive interlocutory procedural steps are not justified. The Court of Appeal pointed that out in this very case in Robertson v. Edmonton (City) Police Service, 2003 ABCA 279 (Alta. C.A.), supra. In 1985 Sawridge Trust v. Alberta (Public Trustee), 2019 ABCA 243, 2019 CarswellAlta 1189, 91 Alta. L.R. (6th) 111, 35 C.P.C. (8th) 225, 435 D.L.R. (4th) 341, [2019] 10 W.W.R. 604, the Court said: [35] An award of costs award against a lawyer is guided, at least in the civil context, by Rule 10.50 of the Alberta Rules of Court, Alta Reg 124/2010, which states the following: If a lawyer for a party engages in serious misconduct, the Court may order the lawyer to pay a costs award with respect to a person named in the order. (emphasis added) [36] The substance of Rule 10.50 did not appear in the old Rules of Court, Alta Reg 390/1968, nor was there legislated direction that costs against a lawyer could be awarded in the event of serious misconduct on the part of the lawyer. The recent Jodoin decision from the Supreme Court of Canada [Quebec (Director of Criminal and Penal Prosecutions) v. Jodoin 2017 SCC 26] is therefore particularly helpful to consider in this context because it directs that “[o]nly serious misconduct can justify such a sanction against a lawyer” (para 25). [37]Jodoin is clear that costs against a lawyer can be justified only when a lawyer's acts have seriously undermined the authority of the courts or seriously interfered with the administration of justice (para 29). Put in a slightly different way, to justify such a costs award, there must be serious misconduct that has the effect of either seriously undermining the authority of the courts or seriously interfering with the administration of justice. [38] The Supreme Court also provides what are, in our view, indicia or marks of a lawyer's conduct that would meet this high threshold; namely: 1. “where a court has before it an unfounded, frivolous, dilatory or vexatious proceeding that denotes a serious abuse of the judicial system by the lawyer”, or 2. “dishonest or malicious misconduct on his or her part, that is deliberate.” (Jodoin at para 29) [39] These indicia highlight the type of misconduct that would have the effect of seriously undermining the authority of the courts or seriously interfering with the administration of justice. There may be other types of misconduct that would have the same effect. [40]Jodoin also emphasizes that awarding costs against a lawyer is an exceptional remedy. It is a power that a court rarely exercises and in fact must not be exercised in an arbitrary and limited matter, but rather with restraint and caution (paras 25–29; see too Secure 2013 Group Inc v Tiger Calcium Services Inc., 2018 ABCA 110 (CanLII) at para 22). Such an award is appropriate only in the clearest of cases (R v Trang, 2002 ABQB 744 (CanLII) at para 481, 323 AR 297, cited in Jodoin at para 25). [41] Further, a mere mistake or error in judgment will not be sufficient to justify such an award; there must be at the very least gross neglect or inaccuracy (Jodoin at para 27, citing Myers v Elman, [1940] AC 282 at 319). The conduct must represent a marked and unacceptable departure from the standard of reasonable conduct expected of a lawyer (Jodoin at para 27, citing Canada (Procureur général) v Bisson, [1995] RJQ 2409, R v Ciarniello (2006), 2006 CanLII 29633 (ON CA), 81 OR (3d) 561 at para 31 (CA), Leyshon-Hughes v Ontario Review Board, 2009 ONCA 16 (CanLII) at para 62, 240 CCC (3d) 181, Fearn v Canada Customs, 2014 ABQB 114 (CanLII) at para 119 and R v Smith (1999), 1999 CanLII 32260 (MB QB), 133 Man R (2d) 89 at para 58). [42] The above guidance is necessarily high level because, of course, the particular circumstances in which a lawyer might engage in serious misconduct are wide-ranging, context-driven, and largely turn on their facts (see, for instance, Robertson v Edmonton (City) Police Service (#11), 2005 ABQB 499 (CanLII) at para 21). [43] In the context of this case, it is helpful to consider that Canadian courts have awarded costs against a lawyers for collateral attacks (see, for instance, Best v Ranking, 2015 ONSC 6279 (CanLII), aff'd 2016 ONCA 492 (CanLII) and Soderstrom v Hoffman-La Roche Limited, 2008 CanLii 15778, 58 CPC (6th) 160 (Ont SC)), as well as for situations in which a lawyer did not have authority to act for a client (see Morin v TransAlta Utilities Corporation, 2017 ABQB 409 (CanLII), 64 Alta LR (6th) 60). Having said that, a finding of collateral attack or that a lawyer was acting without authority to act will only justify a costs award against a lawyer when such conduct meets the criteria set out in Jodoin. [44] To summarize, the following criteria should guide a trial judge when considering whether to award costs against a lawyer personally: 1) Awarding costs against a lawyer is appropriate only in exceptional circumstances, and then only in the clearest of cases. 2) Such an award will be appropriate only when the lawyer has engaged in serious misconduct, where that misconduct has the effect of either seriously undermining the authority of the courts or seriously interfering with the administration of justice. 3) Instances of serious misconduct having that effect may include: a) “where a court has before it an unfounded, frivolous, dilatory or vexatious proceeding that denotes a serious abuse of the judicial system by the lawyer,” or b) “dishonest or malicious misconduct on his or her part, that is deliberate.” (Jodoin, at para 29) 4) A mere mistake by a lawyer or an error in judgment will not justify such a costs sanction. There must be “gross neglect or inaccuracy”, or a “marked and unacceptable departure from the standard of reasonable conduct expected of a lawyer” (Jodoin at para 27). 5) Assessing a lawyer's conduct is contextual and fact-specific. Also see: Svederus v. Engi, 2019 ABCA 155, 2019 CarswellAlta 781, 85 Alta. L.R. (6th) 270 at paragraphs 15–20. 2. Lawyer's Mistake In Lynch v. Checker Cabs Ltd. (1999), 73 Alta. L.R. (3d) 74 (Q.B.), Madam Justice Phillips awarded costs against a lawyer whose actions at trial had resulted in a mistrial. During the course of the trial, the lawyer (who was acting for the plaintiff) submitted to the court a copy of a letter from the defendant's lawyer in which there was outlined an offer of settlement. When called upon to explain why he had submitted the letter to the court, the lawyer contended that he had simply made an error “in the heat of battle and used poor judgment”. Phillips J. concluded that even if that were so, no one but the lawyer should bear the burden caused by the lawyer's error. At p. 90, Her Ladyship said: Mr. Sutherland seeks to avoid personal liability by pleading that he made a mistake. Yet if Mr.Sutherland does not pay the costs personally, who will bear the expense for that mistake and for all the wasted time, effort and cost that it caused? It will of course either be the Defendants or the Plaintiffs. There is no reason that the Defendants should be forced to shoulder the burden of wasted costs caused solely by the conduct of an opposing lawyer. The thrown away costs were the result of an act by Mr. Sutherland and of that act alone. Any excuse that Mr. Sutherland may advance cannot, in these circumstances, justify foisting these costs upon the Defendants. The same is true of Mr. Sutherland's clients, the Plaintiffs… Even if I accept that Mr. Sutherland lost his judgment and his senses, such conduct still represents serious and substantial negligence on his part and a breach of his duty to this Court not to disclose a settlement offer prior to the conclusion of the trial. This is especially so, given that Mr. Sutherland is experienced litigation counsel. Clearly, the Plaintiffs should not have to absorb the consequences of their lawyer's conduct in this case. In Kowdrysh v. Delong (2001), 310 A.R. 48 (Q.B.), Martin J. awarded solicitor-client costs against the plaintiff's counsel personally. These costs, in the amount of $17,240.00, represented the thrown away costs of the defendant when the trial had to be adjourned because the plaintiff's lawyer failed to comply with Rule 218.1. 3. Impecuniosity of Client Is Immaterial Counsel for a successful defendant applied under then R. 602 for an order compelling the counsel for the unsuccessful plaintiff to pay the costs personally. It was alleged that the plaintiff was impecunious. Montgomery J. said: There is no requirements [sic] for a resident in the Province of Alberta to put up security for costs. Therefore, the issue of impecuniosity has no impact in assessing this point. Vincent v. Perfect Investments Ltd. (1991), 126 A.R. 101 at 103 (Q.B.)."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_50_001",
+        "part10_alberta_rules_of_court_rule_10_part_11_001",
+        "part10_rule_10_50_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part11_document.json"
+        ]
+      },
+      "operative_text_sha256": "199a3107763708635b18182396d6703050b8e37e033b5f25505accc9b0533977",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Costs imposed on lawyer",
+      "division_heading": "Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "199a3107763708635b18182396d6703050b8e37e033b5f25505accc9b0533977",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "A lawyer has an obligation to prove his or her authority to represent their clients. Morin v. TransAlta Utilities Corp., [2017] A.J. No. 657, 2017 ABQB 409 at para. 27 (Alta. Q.B.). Courts have ordered costs against a lawyer who commenced and continued litigation without obtaining consent of the named plaintiffs. Morin v. TransAlta Utilities Corp., [2017] A.J. No. 657, 2017 ABQB 409 at para. 32 (Alta. Q.B.).\nCosts under rule 10.50 are subsumed within the costs otherwise ordered under Schedule C; if there is a tariff item a multiplier might be used; if there is no tariff item then the court should come up with an appropriate amount. Costs under rule 10.50 are not an add-on in themselves, to be imposed in addition to Schedule C. Morin v. TransAlta Utilities Corp., [2017] A.J. No. 657, 2017 ABQB 409 at para. 52 (Alta. Q.B.).\nRule 10.50 provides that costs may be awarded against a lawyer personally where the lawyer “engages in serious misconduct”. The threshold for so finding is high and the discretion to do so must be exercised cautiously. A mere error of judgment, or even negligence, is not enough. Svederus v. Engi, [2019] A.J. No. 517, 2019 ABCA 155 at para. 15 (Alta. C.A.).\nJackson v. Trimac Industries Ltd., [1993] A.J. No. 218, 138 A.R. 161 (Alta. Q.B.), vard [1994] A.J. No. 445, 1994 ABCA 199 (Alta. C.A.). (despite predating the most recent Rules of Court) on costs under rule 10.33, also applicable under rule 10.50. The court in Madore summarized them as: a) a trial judge has a wide discretion when awarding costs; b) generally speaking, costs follow the event, i.e. the successful party is entitled to be paid a portion of his or her costs in pursuing the claim;\n[2017] A.J. No. 721, 2017 ABQB 438 at para. 40 (Alta. Q.B.).\nPART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": [
+            {
+              "neutral_citation": "2017 ABQB 409",
+              "style_of_cause": "A lawyer has an obligation to prove his or her authority to represent their clients. Morin v. TransAlta Utilities Corp."
+            },
+            {
+              "neutral_citation": "2019 ABCA 155",
+              "style_of_cause": "Svederus v. Engi"
+            },
+            {
+              "neutral_citation": "1994 ABCA 199",
+              "style_of_cause": "Jackson v. Trimac Industries Ltd."
+            },
+            {
+              "neutral_citation": "2017 ABQB 438",
+              "style_of_cause": null
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "501-520_10_47 to 11_9.json",
+        "source_file": "501-520_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 10.50 is in Division 4 (Sanctions) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.50",
+      "title_official": "Costs imposed on lawyer"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "d7a39a865d0717457ae4cdf3bdbbc82d654801bbf8798110b1a8582437363dee",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7550,
+            7746
+          ],
+          "book_pages": [
+            "10-141",
+            "10-142",
+            "10-143",
+            "10-144",
+            "10-145"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "199a3107763708635b18182396d6703050b8e37e033b5f25505accc9b0533977",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part11_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "199a3107763708635b18182396d6703050b8e37e033b5f25505accc9b0533977",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "501-520_10_47 to 11_9.json",
+          "source_file": "501-520_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "38c2a24453c487bf2aa2347bb8475d1f3b154d06a25393995394595b2f2a449e",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            219
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "5ef923ef7baf00b89f011a418fc27b9957d3e1e6835c2ef36811ec2fe202b31c"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.50 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.50 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.50 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.50 BOOK_C citation context dropped (2017 ABQB 409): verbatim in kept text",
+    "10.50 BOOK_C citation context dropped (2019 ABCA 155): verbatim in kept text",
+    "10.50 BOOK_C citation context dropped (1994 ABCA 199): verbatim in kept text",
+    "10.50 BOOK_C citation context dropped (2017 ABQB 438): verbatim in kept text",
+    "10.50 BOOK_C commentary sentence split dropped",
+    "10.50 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

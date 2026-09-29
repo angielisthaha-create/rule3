@@ -1,0 +1,280 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.27",
+  "title": {
+    "official": "Decision of judge",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 5,
+    "heading": "Appeal from Review Officer’s Decision"
+  },
+  "operative_text": {
+    "controlling": "10.27(1)  After hearing an appeal from a review officer’s decision,\nthe judge may, by order, do one or more of the following:\n(a) confirm, vary or revoke the decision;\n(b) revoke the decision and substitute a decision;\n(c) revoke all or part of the decision and refer the matter back\nto the review officer or to another review officer;\n(d) make any other order the judge considers appropriate.\n(2)  If the amount of lawyer’s charges payable pursuant to the\ndecision of the review officer has been paid and, after payment, is\nreduced on appeal, the lawyer may be ordered to return the excess\nand, if the lawyer fails to do so, the lawyer, in addition to being\nliable for that amount, may be found guilty of a civil contempt.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "0bb04d813774af8f4339c3bdd578c0d67d3f3b123f95567820151a95dc0020b3"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s10.27;163/2010",
+    "amending_regulations": [
+      "163/2010"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;163/10]"
+      ],
+      "BOOK_B": "Alta. Reg. 163/2010, s. 5",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.27 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*\n\nReg. 163/2010, s. 5]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          206,
+          207
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Decision of Judge",
+      "operative_text_raw": "10.27(1) After hearing an appeal from a review ofﬁcer’s decision, the judge may,\nby order, do one or more of the following orders:\n(a) conﬁrm, vary or revoke the decision;\n(b) revoke the decision and substitute a decision;\n(c) revoke all or part of the decision and refer the matter back to the\nreview ofﬁcer or to another review ofﬁcer;\n(d) make any other order the judge considers appropriate.\n(2) If the amount of lawyer’s charges payable pursuant to the decision of the\nreview ofﬁcer has been paid and, after payment, is reduced on appeal, the lawyer\nmay be ordered to return the excess and, if the lawyer fails to do so, the lawyer, in\naddition to being liable for that amount, may be found guilty of a civil contempt.¹\n[Alta. Reg.124/10;163/10]",
+      "operative_text_sha256": "4738b266441ce2fdaea7f2047fd0f44e2732602b78a645eaa7bb389291e5fd95",
+      "related_provisions": "10.44 (appeal from assessment officer)",
+      "commentary": "Strong deference is owed by a judge to a review ofﬁcer’s assessment (taxation) of a solicitor’s\nbill to the client.²\nA solicitor’s account was reviewed, but the client disputed who was to pay, a question which\nthe review ofﬁcer could not decide. The chambers judge should not have upset the review. The\ncertiﬁcate of review was restored, and the lawyer could move for judgment, and the client could\n(with evidence) dispute that on any ground other than quantum or alleged negligence or worth\n(which the taxation made res judicata).³\nA judge who reversed the review ofﬁcer's decision on reasonableness of size of a 20%\ncontingency fee refused to send the matter back to the ofﬁcer to rehear, and substituted his own\nview, including some judicial notice of business practices, and substituted 5%.⁴\nIf the Review Ofﬁcer failed to decide a basic factual topic, the decision will be upset on appeal\nand a new hearing by a different ofﬁcer ordered.⁵\nBut the odd accusation of “appeal proofing” and\n“pre-empting an appeal” (¶’s 10.26) may be questionable. Trial judges often decide one issue,\nwhich ends the matter, but then decide another issue raised before them in case they are wrong\nabout the first issue. That obviates a need for a new hearing and so is often recommended, but it\nin no way impairs an appeal.",
+      "footnotes": [
+        {
+          "page": "10-42",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.648(3). It came from 1944 C. R.780, as amended by Alta. Reg.86/60. New R.10.27(2) was enacted by Alta. Reg.163/2010."
+        },
+        {
+          "page": "10-42",
+          "number": 2,
+          "text": "Ashraf v. Zinner Law Ofﬁce 2013 ABQB 730, 578 AR 334 (¶’s 25-28 on deference). Much law on that is cited. The client had understood fully what the rates would be, and the bills followed that, all as set out in a written retainer agreement. See also R.10.26 numbered para. #2."
+        },
+        {
+          "page": "10-42",
+          "number": 3,
+          "text": "Peter Knaak P. C. v. Scherer 2002 ABCA 53."
+        },
+        {
+          "page": "10-42",
+          "number": 4,
+          "text": "Tallcree F. N. v. Rath & Co. (#2), supra. Quaere."
+        },
+        {
+          "page": "10-42",
+          "number": 5,
+          "text": "Larocque v. Kantor LLP 2024 ABKB 327, JCC 2101 13183 (May 31) (¶ 12)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1993,
+          2048
+        ],
+        "book_pages": [
+          "10-41",
+          "10-42"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Decision of judge",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.27:1",
+          "text": "Rule 10.27 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.27. 1. Nature of Hearing The appeal is not a hearing de novo. The majority of Canadian authorities support the conclusion that on an appeal from a taxing officer “the judicial approach appears rather uniform and is one of non-interference unless the taxing master operated on a wrong principle and thereby fell into error”. This statement is taken from a judgment of the Nova Scotia Supreme Court Appeal Division in Cape Breton Landowners v. Stora Kopparbergs Bergslags Aktiebolag (1983), 33 C.P.C. 1 … The relevant Nova Scotia rule is in the same terms as R. 657. A number of other authorities are review in that decision. If the quantum awarded can be said to be inordinately high or low, that is a ground of interference because it betrays an error of principle. Once error is found the reviewing court may then make its own assessment. The solicitors cite Carter v. Blake (1982), 41 A.R. 418 (N.W.T.C.A.), where the comparable rule in the Northwest Territories was under consideration. McClung J.A. speaks of the “de novo” aspect of the proceedings before him. That case acknowledges that the judge hearing the appeal from a taxation may review a finding of fact that is clearly in error, although McClung J.A. upheld the taxing officer's fact finding. The case does not decide whether the proceeding before the judge hearing an appeal from a taxing officer is de novo but it reaffirms the rule that fact findings by a taxing officer “should be treated with the same consideration and on the same footing as those made by a trial Judge”, citing Re Solicitor (1976), 3 C.P.C. 148 at 151 (Ont. C.A.) … The solicitors' case is based on the assumption that the calculation of the proper amount of fees is, itself, a matter of discretion. While we do find that term used from time to time, I prefer the view that the assessment is not “the exercise of a discretion”. It is a determination of value or worth which ordinarily involves a weighing of the factors relevant to that assessment like any determination of a quantum meruit claim. I do not read R. 657 as giving the judge sitting on appeal a power to reassess or reweigh the material before the taxing officer. There are some matters of discretion open to a taxing officer and open for review by the judge hearing the appeal, but not the assessment of a value. In making his assessment the taxing officer is not exercising a discretion, any more than the judge who fixes general damages is exercising a discretion. There are practical grounds for not making the hearing before the reviewing judge a de novo hearing. In the first place, the taxing officer will often hear evidence and examine material which gives rise to questions of credit or weight. A chambers judge cannot effectively substitute his views on such questions. Moreover, the taxing officer's function is a specialized one and he may have to bring his own experience and expertise to bear. It is thus unlikely that the standard of review should be “de novo”. In my view in Alberta the primary question on review of a quantum fixed by a taxing officer is (as in many other jurisdictions) whether he has made an error of principle, or whether the award is inordinately high or low. McLennan Ross v. Mercantile Bank of Canada (1988), 59 Alta. L.R. (2d) 369 at 370–72 (C.A.). In Brown v. Snyder & Associates (2004), 364 A.R. 266 (Q.B.), Acton J. said (at pp. 270–271): In 509703 Alberta Ltd. v. Witten Binder, 2000 ABQB 729, Chief Justice Wachowich held that pursuant to Rule 656, the appeal of the decision of a taxing officer is generally not a hearing de novo but a true appeal in which the decision is entitled to curial deference unless there has been an error of principle, an error of law, or the award is so inordinately high or low as to indicate an error of principle or law (at para. 11). 2. Standard of Review The reasons of the taxing officer were, in our view, adequate. This is not to say that his judgment cannot be questioned. The correct standard of review in the circumstances to apply in circumstances of this case is whether the award of the taxing officer was so inordinately high or low as to require interference; the learned chambers judge did not apply that standard, and his decision cannot be left to stand. McLennan Ross v. Keen Industries Ltd. (1987), 55 Alta. L.R. (2d) 290 at 292 (C.A.). In Condominium Plan No. 911945 v. Zavislake (1998), 215 A.R. 355 (Q.B.), Shannon J. said, at p. 357: On appeal, the Chambers judge has a high standard of review. He or she may not substitute his or her opinion for that of the taxation officer, unless the award appears inordinately high or low, indicating an error of principle. And Jones J. said at p. 333 of Carr & Co. v. Markdale Ltd. (1996), 46 Alta. L.R. (3d) 324 (Q.B.): It is clear from what the Court of Appeal had to say in the McLennan Ross cases that the Taxing Officer's decision can only be reversed if it is indicative of error in legal approach. That error would likely appear only in one of two circumstances, namely, from either an enunciation of the application of a principle that would appear to be in error, or from the Taxing Officer having made an award that is either so inordinately high or so inordinately low that the Court must apprehend from the nature of the award that a wrong principle was applied. The only other consideration that could have a bearing on matters would be whether the Taxing Officer had in fact considered the evidence and representations made before the officer. In Carr & Co. v. Markdale Ltd., Mr. Justice Jones noted that Taxing Officers acquire an expertise the benefits of which ought not to be lightly disregarded. At pp. 333–34, his Lordship said: It should be noted that in the [Petty v. Bishop (1977), 2 A.R. 241] case … Miller, J., at p. 244 … quotes from Frost v. Frost, [1941] 3 W.W.R. 273 (B.C. C.A.) at 274 where McDonald, J.A. said: The rule that a judge should not override a registrar (in matters of costs) except on a matter of principle has never been due to any jurisdictional restriction; it is simply a rule of policy and good sense, adopted because registrars can go into details better than can judges. That is a major consideration in this case. I have had the benefit of looking at the detailed accounts prepared and submitted by Carr & Company to the Taxing Officer. I have read them and thought about them. I am nevertheless at a disadvantage compared with the Taxing Officer whose duties commonly call for him to do this type of vetting because of the nature of his position and the expertise that he gathers in carrying out those duties. Accordingly, I am not in a position to say, in the absence of any indication, that he followed a wrong principle or failed to follow an applicable principle, that he has erred in principle by the assessment which he has carried out. Certainly, his enunciation of the various considerations that should go into consideration of the appropriateness of such fees is comprehensive and, in my respectful view, correct. Nor can I conclude, in the circumstances of this case, that the reduction of $11,000, which he ordered, results in an award so inordinately low that it is reflective of the application of a wrong principle or principles. Some deference is due to his determination because of his expertise and experience in this field. In Brown v. Snyder & Associates (2004), 364 A.R. 266 (Q.B.), Acton J. said (at p. 271): Panther Petroleum Ltd. v. Code Hunter, [2002] A.R. Uned. 232, 2002 ABQB 158, sets out the standard for review of an appeal from a decision of a taxing officer. In that case, Justice Rooke canvasses the law on appeals from taxation and notes that according to the Court of Appeal, the appropriate question is whether the Taxing Officer has made an error of principle. The Court sitting on appeal of a taxation is not to re-tax unless that becomes necessary because the Taxing Officer has made an error; for example, on the issue of the scope of the retainer. In Panther Petroleum, Justice Rooke also quotes from Stevenson, J.A., in McLennan Ross v. Keen Industries Ltd. (No. 2) (1988), 86 A.R. 311 (C.A), where Mr. Justice Stevenson states (at para. 11): I do not read Rule 657 as giving the judge sitting on appeal a power to re-assess or re-weigh the material before the taxing officer. There are some matters of discretion open to a taxing officer and open for review by the judge hearing the appeal, but not the assessment of a value. In making his assessment, the taxing officer is not exercising a discretion any more than the judge who fixes general damages is exercising a discretion. In my view, this Court sitting on appeal should not interfere with a finding of credibility unless there is a clear error of principle or law. Finally, Acton J. noted (at pp. 271–272) that “the case law is clear that taxing officers are not required to give extensive reasons …. a complete lack of reasons may be grounds to refer a matter back to the taxing officer…” In Repchuk v. Silverberg, 2013 ABQB 305, Justice Tilleman set out the law relating to reviewing officers and appeals from their decisions. At paragraphs 38, 42–46, 51, 53–55, 57, 58, 63–66, 77–79, his Lordship said: 38 A review officer may fall into error in at least the following ways: 1. erring in fact, for which a party must demonstrate that the fact as found is “clearly in error”: Sweetgrass First Nation v. Rath & Company, 2013 ABQB 165 at para 27 [Rath & Co], FMC v. Kristof Financial Inc, 2012 ABQB 359 at para 17, 215 ACWS (3d) 1010 [FMC], McLennan Ross v. Keen Industries Ltd (No 2) (1988), 86 AR 311 at para 7 (CA) [McLennan Ross 2]; 2. erring in principle (law), which will be shown if a party can demonstrate that the review officer proceeded on an erroneous principle, failed to apply a required principle or that the award of the review officer is so high or low as to betray an error of principle: Rath & Co at para 27, McLennan Ross 2 at paras 6, 13; 3. erring in true questions of jurisdiction (law), for which a standard of correctness will apply: Rath & Co at para 20, Panther Petroleum Ltd v. Code Hunter, 2002 ABQB 158 at para 16, 112 ACWS (3d) 225, MacKimmie Matthews v. Hector (1998), 219 AR 163 at para 7 (CA); and 4. failing to provide a hearing that is procedurally fair, for which a standard of correctness will apply: Anderson v. Alberta Securities Commission, 2008 ABCA 184 at para 30, 437 AR 55 [Anderson]. … 42 A review officer adjudicates the “rights, privileges or interests of an individual” not in a legislative context and owes at least some duty of procedural fairness to the parties in a review hearing: Cardinal v. Director of Kent Institution, [1985] 2 SCR 643 at 653; see also Nicholson v. Haldimand-Norfolk Regional Board of Commissioners of Police, [1979] 1 SCR 311 at 324 and Canada (Attorney General) v. Mavi, 2011 SCC 30 at para 38, [2011] 2 SCR 504. 43 The true question is not whether the procedure must be fair, but what must be done so that the procedure is fair in the context of review proceedings. Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817 [Baker] is the seminal case in this regard. A review of the factors in Baker indicates that while review proceedings are important, they will not attract the most stringent of procedural protections. Baker at para 22 is a reminder to: ensure that administrative decisions are made using a fair and open procedure, appropriate to the decision being made and its statutory, institutional, and social context, with an opportunity for those affected by the decision to put forward their views and evidence fully and have them considered by the decision-maker. 44 Review hearings are meant to be an expedited process which confirms for clients the reasonableness of fees and for lawyers allows expedited collection of unpaid accounts: Twinn v. Sawridge Band, 2012 ABQB 44 at paras 36–37, 531 AR 158 [Twinn]. While it is important that decisions be fair, and efficient, finality also play a significant role in advancing the goals of review proceedings. The content of the duty of fairness will also reflect the reality that, because of the nature of review proceedings, additional procedural protections are squared up against decisions made in a necessarily subjective area. 45 Ensuring a minimum standard of procedural fairness is reviewable on a correctness standard: Anderson at para 30. … 46 It is important that a person whose case is decided by a review officer has “a meaningful opportunity to present their case fully and fairly”: Baker at para 30 … … 51 … A review officer must consider the submissions of the parties at a review hearing: Carr & Co v. Markdale Ltd (1996), 197 AR 6 at para 17 (QB). … 53 Where reasons are required, they should demonstrate “justification, transparency and intelligibility” in the decision-making process: Newfoundland and Labrador Nurses' Union v. Newfoundland and Labrador (Treasury Board), 2011 SCC 62 at para 1, [2011] 3 SCR 708 [Newfoundland and Labrador Nurses' Union]. 54 A review officer is an expert decision maker and is presumed to know the principles applicable to a review proceeding. Therefore, a review officer's reasons need not be extensive. In Brown v. Snyder & Associates, 2004 ABQB 899 at para 25, 364 A.R. 266, Acton J stated: [T]he case law is clear that taxing officers are not required to give extensive reasons … While a complete lack of reasons may be grounds to refer a matter back to the taxing officer, as found in Penonzek v. Cerra, 2001 ABQB 272, any deficiencies in the articulation of the Taxing Officer's reasons in this case are not a sufficient basis for me to interfere with his decision. [Citations omitted.] 55 Because of their nature, review awards are perhaps subject to the appearance of arbitrariness, although they may not actually be arbitrary or unfair. The British Columbia Court of Appeal in Pamela S Boles Law Corp v. Mathisen (1998), 19 CPC (4th) 78 at para 22, 79 ACWS (3d) 168 accepted “an element of arbitrariness” in the reviewed account because reviewing a lawyer's bill “is an assessment, not merely a mathematical exercise.” … 57 With reference to Newfoundland and Labrador Nurses' Union, the Alberta Court of Appeal recently wrote about the adequacy of reasons in Lameman v. Alberta, 2013 ABCA 148 at para 57: In Newfoundland and Labrador Nurses' Union v. Newfoundland and Labrador (Treasury Board), 2011 SCC 62 at para 12, [2011] 3 SCR 708, the Supreme Court of Canada stated that a reviewing court is entitled to consider what reasons a decision-maker could have given. So long as her reasoning path is evident, her reasons are adequate to inform the litigant and are capable of adequate appellate review: para 16. See also R. v. REM, 2008 SCC 51 at paras 24–25, [2008] 3 SCR 3. 58 Attention should also be drawn to Newfoundland and Labrador Nurses' Union at para 12, where the Supreme Court of Canada emphasizes that, before finding reasons inadequate, the Court should seek to supplement reasons with those reasons which could have been offered in support of a decision. … 63 Review officers cannot interpret retainer agreements. I recently determined in Rath & Co at paras 37–38 that: [t]he interplay between rules 10.18(1)(a) and 10.9 works as follows. First, the retainer agreement must be understood. Either its meaning is clear on its face or the parties may agree in front of the review officer as to the meaning; however, if there are doubts about the interpretation, the Court must ascertain its meaning. Thus, when the retainer agreement is properly understood, the review officer may consider if the retainer agreement is reasonable. However, when a review officer faces the need to resolve a “question arising about the terms of a retainer agreement”, rule 10.18(1)(a) requires a court reference. See also the cases cited therein. 64 The Ontario Court of Appeal has recently confirmed, in Cookish v Paul Lee Associates Professional Corp, 2013 ONCA 278, (para 20) that: … an assessment officer [the equivalent of a review officer] has no jurisdiction to determine disputes relating to the existence, nature, terms or extent of a retainer agreement where the order is obtained on requisition [a process initiated by the parties]. There are only two exceptions to this proposition: (i) where there is really no legitimate dispute regarding the retainer; or (ii) where the dispute relates only to the quantum of the bill …[Emphasis added] This reflects the law in Alberta; where the meaning of a clause in a retainer agreement is clear on its face, there is no legitimate dispute about interpretation. 65 It is important to emphasize that the jurisdictional limit which prevents a review officer from interpreting a retainer agreement does not mean that every time a retainer agreement exists the review officer must make a court reference. That is not what the Rules intend and, indeed, would undermine the ability for a review to be a “faster, less expensive alternative” to filing a statement of claim: Twinn at para 37. 66 As discussed in Rath & Co, a review officer need not refer to this Court a question on the interpretation of a retainer agreement where the meaning of the retainer agreement is clear on its face or the parties agree on its meaning. … Whether the Review Officer erred in principle 77 The traditional formulation is that an error in principle is proven by directly showing an error in principle or proving that the award is so high or low as to betray an error of principle: McLennan Ross 2 at paras 6, 13. Accordingly, absent direct evidence on the record showing that a review officer applied an incorrect principle or was ignorant to a required principle, a review officer will be afforded significant deference. … 78 There are a wide variety of factors that a review officer should consider when reviewing a lawyer's account. Rule 10.2 provides direction on the relevant factors to apply, which has been confirmed by the Courts: Rath & Co at para 76, McDonald Crawford v. Morrow, 2004 ABCA 150 at para 11, 348 AR 118. That rule lists a number of factors including “any other factor that is appropriate to consider in the circumstances.” Case law and the Law Society of Alberta, Code of Conduct [Code of Conduct] are sources that help identify other potentially relevant factors. 79 Factors potentially relevant to an assessment of quantum include: Rule 10.2(1) factors include: the nature, importance and urgency of the matter; the client's circumstances; the trust, estate or fund, if any, out of which the lawyer's charges are to be paid; the manner in which the services are performed; and the skill, work and responsibility involved. Common law factors include: the difficulty of the matter; the monetary value at stake; the competence of the lawyer; the results achieved; the client's expectations regarding fees; the client's ability to pay; the solicitor's bill, which is the solicitor's conscientious estimate of the value of the work performed; and an agreement between lawyer and client: Rath & Co at para 77, MacDonald & Freund v. Chernetski (1987), 81 AR 142 at paras 21–26, 29–46 (QB), 509703 Alberta Ltd v. Witten Binder, 2000 ABQB 729 at paras 27–30, McLennan Ross 1 at para 9; Morrison v. Pantony (Rod) Professional Corp, 2008 ABCA 145 at para 26, 429 AR 259 [Rod Pantony Corp] Code of Conduct r 2.06(1) commentary factors (excluding those already listed) include: the time and effort required and spent; any special skill or service that has been required and provided; fees authorized by statute or regulation; special circumstances; the likelihood, if made known to the client, that acceptance of the retainer will result in the lawyer's inability to accept other employment; the experience and ability of the lawyer; any estimate or range of fees given by the lawyer; and the client's prior consent to the fee. Repchuk v. Silverberg, 2013 ABQB 305, was referred to with approval in Ashraf v. Zinner Law Office, 2013 ABQB 730, 2013 CarswellAlta 2546, 578 A.R. 334, 56 C.P.C. (7th) 145. In Fraser Milner Casgrain LLP v. Kristof Financial Inc., 2012 ABQB 359, 2012 CarswellAlta 954, 541 A.R. 245, Justice Yamauchi said, at paragraphs 16–18: 16 When one reviews the many cases that deal with appeals from decisions of review officers (or taxing officers, as they were formerly known), there are certain principles that emerge. A review officer's decision is entitled to curial deference: 509703 at para 11. Why? A review officer's “duties commonly call for him to do this type of vetting because of the nature of his position and the expertise that he gathers in carrying out those duties”: Carr & Co v. Markdale Ltd. (1996), 46 Alta LR (3d) 324 at para 20 (QB) [“Carr & Company”]. See also McLennan Ross v. Mercantile Bank of Canada (1988), 59 Alta LR (2d) 369 at para 6 (CA) [“McLennan Ross”]. The Alberta Court of Appeal in McLennan Ross went on to say that, “the taxing officer's function is a specialized one and he may have to bring his own experience and expertise to bear” (at para 12). 17 Curial deference, however, is not absolute. A court hearing an appeal from a review officer's decision may interfere if the review officer “operated on a wrong principle and thereby fell into error”: McLennan Ross at para 6, citing Cape Breton Landowners v. Stora Kopparbergs Bergslags Aktiebolag (1983), 33 CPC 1, 146 DLR (3d) 369, 58 NSR (2d) 193, 123 APR (NSCA); Petty v. Bishop & McKenzie (1977), 2 AR 241 at 243 (QB). An error in principle may include a situation where the quantum that the review officer awards is inordinately high or low: McLennan Ross ibid; 509703 at para 11. Similarly, a court hearing an appeal from a review officer's decision may interfere if the review officer makes an error concerning the scope of the retainer agreement under which the parties are operating: Brown v. Snyder & Associates, 2004 ABQB 899 at para 20 [“Brown”]. Finally, a court hearing an appeal from a review officer's decision may find that the review officer made a finding of fact that is clearly in error: Carter v. Blake (1982), 41 AR 418 at para 7 (NWTCA) [“Carter”]. 18 With respect to the latter point, a court hearing an appeal from a review officer's decision must exercise caution, and must not step too far into arena of gathering evidence and weighing that evidence. As the court said in McLennan Ross at paras 11–12: I do not read R. 657 as giving the judge sitting on appeal a power to reassess or reweigh the material before the taxing officer. There are some matters of discretion open to a taxing officer and open for review by the judge hearing the appeal, but not the assessment of a value. In making his assessment the taxing officer is not exercising a discretion, any more than the judge who fixes general damages is exercising a discretion. There are practical grounds for not making the hearing before the reviewing judge a de novo hearing. In the first place, the taxing officer will often hear evidence and examine material which gives rise to questions of credit or weight. A chambers judge cannot effectively substitute his views on such questions. This makes it clear that the parties must put forward their “best case” to the review officer; not to the court hearing the appeal. In Ashraf v. Zinner Law Office, 2013 ABQB 730, 2013 CarswellAlta 2546, 578 A.R. 334, 56 C.P.C. (7th) 145, Justice Sullivan referred with approval to those statements by Justice Yamauchi's, and added this comment (at paragraph 29): 29 Additionally, a review officer's decision may be interfered with if the review officer failed to consider the parties' evidence and representations made on the review: Sweetgrass First Nation v. Rath & Company, 2013 ABQB 165 at para 27 [Rath]; Markdale Ltd v. Carr & Co (1996), 197 AR 6 at para 17, 46 Alta LR (3d) 324 (QB) [Carr]. In Rath & Co. v. Sweetgrass First Nation, 2013 ABQB 165, 2013 CarswellAlta 399, 559 A.R. 12, 85 Alta. L.R. (5th) 219, Justice Tilleman gave the following summary of the law (at paragraphs 24–29): 24 Under the Old Rules, appeals of a taxing officer's decision were not a de novo hearing. Rather, deference was owed to the decisions made by a taxing officer. In McLennan Ross v. Keen Industries Ltd (No 2) (1988), 86 AR 311 at para 12 (CA) [McLennan Ross 2], the Alberta Court of Appeal said: There are practical grounds for not making the hearing before the reviewing judge a de novo hearing. In the first place, the taxing officer will often hear evidence and examine material which gives rise to questions of credit or weight. A chambers judge cannot effectively substitute his views on such questions. Moreover, the taxing officer's function is a specialized one and he may have to bring his own experience and expertise to bear. It is thus unlikely that the standard of review should be “de novo”. 25 At para 13, the Court of Appeal found: In my view in Alberta the primary question on review of a quantum fixed by a taxing officer is (as in many other jurisdictions) whether he has made an error of principle, or whether the award is inordinately high or low. 26 This rule was, and remains, consistently applied: Anderson v. Brink (BV) Professional Corp (1990), 107 AR 143 at para 2 (CA) [Ben Vanden], 509703 Alberta Ltd v. Witten Binder, 2000 ABQB 729 at para 19 [Witten Binder]. New rule 10.26(2) specifies that an appeal from a review officer's decision to this court is not de novo; it is an appeal on the record. After reviewing and confirming the deferential standard of review applicable to an appeal from a review officer's decision, Justice Yamauchi in FMC v. Kristof Financial Inc, 2012 ABQB 359 at para 18, 215 ACWS (3d) 1010 [FMC] stated “the parties must put forward their ‘best case’ to the review officer; not to the court hearing the appeal.” 27 A decision of a review officer should not be interfered with unless some improper principle was relied upon, the quantum of the reviewed account is so inordinately high or low as to reveal a mistaken principle, the review officer fails to consider the evidence and representations made before the officer, or a finding of fact is clearly in error: McLennan Ross v. Keen Industries Ltd (1987), 83 AR 322 at para 6 (CA) [McLennan Ross 1], McLennan Ross 2 at paras 6 and 13, Carr & Co v. Markdale Ltd (1996), 197 AR 6 at para 17 (QB) [Carr & Co], Pacholok v. Nichols (Neil W) Professional Corp (1991), 117 AR 300 at para 19 (CA), Pentz v. Salmon, [1996] A.J. No. 359, 1996 CarswellAlta 320 at para 5, [1996] AWLD 496 (CA), Witten Binder at para 19, FMC at para 17, Carter v. Blake (1982), 41 AR 418 at para 7 (NWT CA). These are reversible errors. 28 In ascertaining value, the courts have again held that the review officer employs a specialized expertise and is entitled to deference: Carr & Co at para 20, Morrison v. Pantony (Rod) Professional Corp, 2008 ABCA 145 at para 30, 429 AR 259 [Rod Pantony Corp], FMC at para 16. 29 But, where interference with a review officer's decision is justified, the Court may reassess the account itself or return it for a new assessment, among other possible remedies: McLennan Ross 2 at para 6, Ben Vanden at para 4, rule 10.27(1). 3. A Litigant in Dedicated Pursuit of Legal Rights As a last matter, I deal briefly with the contention made on behalf of the Appellant respecting the unreported bench decision of Harradence, J.A. for the Alberta Court of Appeal in Hanson v. McCormick. I cannot agree with the assertion of the Appellant that the decision stands for the proposition that when a litigant is in dedicated pursuit of his legal rights as a matter of principle, that litigant must generally take responsibility for the fees that emanate from that course of action. First of all, I am not satisfied that is what His Lordship was saying in Hanson. Secondly, I agree with the contention of counsel for the Respondent that bench decisions have little precedential value because they are often lacking in detail and can therefore not be evaluated adequately. Indeed, if one reads the very short decision in Hanson, one comes to the conclusion that none of the facts can be divined from the decision, which is scarcely more than a page long. Carr & Co. v. Markdale Ltd. (1996), 46 Alta. L.R. (3d) 324 (Q.B.), at 334, per Jones J."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_27_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_048",
+        "part10_rule_10_27_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_050"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "f3fdfddc549b16191736768c6264c60dc96db47472a2d9199dd5883c3fd768c9",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Decision of judge",
+      "division_heading": "Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "3f8198dda7aa736fca5294c201e325285bf9a00b5742389c863013b7e0b0af1f",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 10.27(1) authorizes the court to substitute its own decision of what the appropriate fee is or refer the matter back for review by the review officer. Steinke v. Hajduk Gibbs LLP, [2014] A.J. No. 62, 2014 ABQB 34 at paras. 7, 85 (Alta. Q.B.). Along [2013] A.J. No. 810, 2013 ABQB 451 at para. 4 (Alta. Q.B.);\n, [2023]\nAdebisi v. Dentons Canada LLP A.J. No. 818,  ABKB 641 at para. 19 (Alta. K.B.). ABKB  at para. 31 (Alta. K.B.). at para. 25 (Alta. K.B.).\nPART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": [
+            {
+              "neutral_citation": "2014 ABQB 34",
+              "style_of_cause": "Steinke v. Hajduk Gibbs LLP"
+            },
+            {
+              "neutral_citation": "2013 ABQB 451",
+              "style_of_cause": "Steinke v. Hajduk Gibbs LLP"
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 10.27 is in Division 1 (Lawyers’ Charges, Retainer Agreements and Right of Review) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9884,
+      "differences": [
+        {
+          "op": "replace",
+          "official": "following:",
+          "carrier": "following orders:"
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.27",
+      "title_official": "Decision of judge"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "4738b266441ce2fdaea7f2047fd0f44e2732602b78a645eaa7bb389291e5fd95",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1993,
+            2048
+          ],
+          "book_pages": [
+            "10-41",
+            "10-42"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "f3fdfddc549b16191736768c6264c60dc96db47472a2d9199dd5883c3fd768c9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "3f8198dda7aa736fca5294c201e325285bf9a00b5742389c863013b7e0b0af1f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "0bb04d813774af8f4339c3bdd578c0d67d3f3b123f95567820151a95dc0020b3",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            206,
+            207
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "52db6957dd125edab755e8367d988922502274a7789031fbd6dde7b9a3a53d60"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.27 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.27 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.27 BOOK_C citation context dropped (2014 ABQB 34): verbatim in kept text",
+    "10.27 BOOK_C citation context dropped (2013 ABQB 451): verbatim in kept text",
+    "10.27 BOOK_C commentary sentence split dropped",
+    "10.27 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.27 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

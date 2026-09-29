@@ -1,0 +1,273 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.38",
+  "title": {
+    "official": "Assessment officer’s authority",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.38(1)  For the purpose of assessing costs payable, an\nassessment officer may do all or any of the following:\n(a) take evidence either by affidavit or orally under oath, or\nboth;\n(b) direct the production of records;\n(c) require notice of the appointment for the assessment to be\nserved on persons who may be affected by the assessment\nor who have an interest in the trust, estate, fund or\nproperty from which the costs are or may be paid or\ncharged;\n(d) give directions about how a notice of the appointment for\nthe assessment is to be served;\n(e) allow a party to be independently represented by a lawyer;\n(f) require details of the services provided and disbursements\nor other charges claimed or require information about any\nother matter necessary to understand the reason for an\nitem in the bill of costs and to decide whether the item and\ncharge is reasonable and proper;\n(g) validate service of the notice of the appointment or, if\nservice is impractical or impossible, dispense with service.\n(2)  An assessment officer may not conduct an assessment of costs\nthat have previously been assessed by an assessment officer unless\nthe Court so orders or the parties agree.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "f6d51f27e0d73dcf250771d76f109ae20bd525d0bebdde9cd906182376aefc0b"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.38 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          213
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Assessment Ofﬁcer’s Authority",
+      "operative_text_raw": null,
+      "operative_text_sha256": "fcd8690477e84d8c43ee5e224f3bb96b1744b3af8d1e2e4d6f6ec449906e4057",
+      "related_provisions": "10.17 (review officer’s authority) ; 10.43(2) (certificate is conclusive proof of amount assessed); 11.27 (validating service) ; 11.29 (dispensing with service)",
+      "commentary": "On the general principles of regulating party-party costs, see Alta. Treas. case.¹\nA Review Ofﬁcer hearing a dispute about a legal bill has power to take evidence, even unsworn\nevidence. An allegation that the retainer (for an hourly charge) had been suspended and that\nfurther work was free, is a dispute about amount, and does not need a reference to the court\nunder R.10.18(1) (a).²\nUnder Rr.10.38 and 10.39 the assessment ofﬁcer can make a reference to the court for a\ndecision or direction on the reasonableness of costs or level of costs, and this was done and\ncommented on by the referee (a Master).³\nAt one time a certiﬁcate of disbursements was needed, but even then its absence was not fatal,\nand was readily curable if receipts are available, as they are better evidence and the assessment\nofﬁcer can (and often does) look at them.⁴\nAfter 2010, a Master (as referee) held that invoices or\nother proof of disbursements should automatically be provided with the proposed bill of costs.⁵\nThe review ofﬁcer cannot decide the terms of a retainer agreement, including how to interprete\nit, nor decide on implied retainer agreements; they must go to a judge to decide, if contested.⁶",
+      "footnotes": [
+        {
+          "page": "10-127",
+          "number": 4,
+          "text": "Quite similar to previous 1968 R.628. It came from 1944 C. R.762. Cf.1914 R.761, Eng.1883 O.65 r.27, 1875 r.23, and Eng. C. O. O. XL r.1."
+        },
+        {
+          "page": "10-128",
+          "number": 1,
+          "text": "Alta. Treas. Br. v.1401057 Alta.2013 ABQB 748, 579 AR 152."
+        },
+        {
+          "page": "10-128",
+          "number": 2,
+          "text": "Monaghan v. Optrics 2022 ABQB 16, JCE 2003 05608 (Jan 7) (¶’s 28-41)."
+        },
+        {
+          "page": "10-128",
+          "number": 3,
+          "text": "CIBC Mtge. v. Ulrich (M) 2015 ABQB 445, JCE 1403 04607 (Jul 10)."
+        },
+        {
+          "page": "10-128",
+          "number": 4,
+          "text": "Oleynik v. Univ. of Calg. , supra (one JA Nov 22) (¶’s 5-8). The certiﬁcate is no longer needed."
+        },
+        {
+          "page": "10-128",
+          "number": 5,
+          "text": "CIBC Mtge. v. Ulrich, supra."
+        },
+        {
+          "page": "10-128",
+          "number": 6,
+          "text": "Adebisi v. Dentons Can.2023 ABKB 452, JCE 2103 13357 (Jul 31) (¶’s 29 ff. )."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6885,
+          6936
+        ],
+        "book_pages": [
+          "10-127",
+          "10-128"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Assessment officer's authority",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.38:1",
+          "text": "Rule 10.38 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.38. In Equitable Bank v. Avison, 2015 ABQB 109, 2015 CarswellAlta 222 (Master), Master Schulz said, at paragraph 38: 38 The Court relies on the assessment officer to perform this function for the smooth and efficient processing of all litigation matters, and foreclosures in particular. Counsel must keep this function in mind and comply with reasonable requests from the assessment officer to provide records or details of the services or disbursements claimed. Many of the matters raised at the Rule 9.35(4) application before me could have been avoided if the documentation had been provided to the assessment officer when requested, rather than requiring a direction from the Court to do so. When Counsel disagree with the request or position of the assessment officer, Counsel should avoid using aggressive language whether in writing or in person. The assessment officer is an officer of the Court and must be treated respectfully. Counsel must also remember that the Court will not make orders unless there is affidavit or other evidence properly before it. When the matter reaches the point of being reviewed by the Court, it will often require items to be in affidavit form that the assessment officer does not. Remember that “you get more flies with honey than you do with vinegar”."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_38_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_010",
+        "part10_rule_10_38_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_012"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "febfb06fb8600424a761ea52c37fad028b0b9aedafe3c9b2a5c41c83d921b2c8",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Assessment officer’s authority",
+      "division_heading": null,
+      "operative_text_raw": "(1) For the purpose of assessing costs payable, an assessment officer may do all or any of the following:\n(a) take evidence either by affidavit or orally under oath, or both;\n(b) direct the production of records;\n(c) require notice of the appointment for the assessment to be served on persons who may be affected by the assessment or who have an interest in the trust, estate, fund or property from which the costs are or may be paid or charged;\n(d) give directions about how a notice of the appointment for the assessment is to be served;\n(e) allow a party to be independently represented by a lawyer;\n(f) require details of the services provided and disbursements or other (2) An assessment officer may not conduct an assessment of costs that have previously been assessed by an assessment officer unless the Court so orders or the parties agree.",
+      "operative_text_sha256": "8a3ce1c7c47e11c91311b1ea3afee86312feb39ee0125dcf0424a07a850bf215",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The assessment officer, as adjudicator of costs payable, is granted a number of powers under this rule to permit them to discharge their function.\nThe court relies on the assessment officer to perform this function for the smooth and efficient processing of all litigation matters, and foreclosures in particular. Counsel must keep this function in mind and comply with reasonable requests from the assessment officer to provide records or details of the services or disbursements claimed. Equitable Bank v. Avison, [2015] A.J. No. 166, 2015 ABQB 109 at para. 38 (Alta. Q.B. (Master)).\nReference to the Court – In order to assess what is reasonable and proper, rules 10.38 and",
+          "citations": [
+            {
+              "neutral_citation": "2015 ABQB 109",
+              "style_of_cause": "Equitable Bank v. Avison"
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.849,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "charges claimed or require information about any other matter necessary to understand the reason for an item in the bill of costs and to decide whether the item and charge is reasonable and proper; (g) validate service of the notice of the appointment or, if service is impractical or impossible, dispense with service.",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.38",
+      "title_official": "Assessment officer’s authority"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "fcd8690477e84d8c43ee5e224f3bb96b1744b3af8d1e2e4d6f6ec449906e4057",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6885,
+            6936
+          ],
+          "book_pages": [
+            "10-127",
+            "10-128"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "febfb06fb8600424a761ea52c37fad028b0b9aedafe3c9b2a5c41c83d921b2c8",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "8a3ce1c7c47e11c91311b1ea3afee86312feb39ee0125dcf0424a07a850bf215",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "f6d51f27e0d73dcf250771d76f109ae20bd525d0bebdde9cd906182376aefc0b",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            213
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "024dd1b36440b66fbef249de44fdd9f1d794c281741294afd0a8e259f0125244"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.38 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.38 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.38 BOOK_C citation context dropped (2015 ABQB 109): verbatim in kept text",
+    "10.38 BOOK_C commentary sentence split dropped",
+    "10.38 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

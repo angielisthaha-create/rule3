@@ -1,0 +1,223 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.43",
+  "title": {
+    "official": "Certification of costs payable",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.43(1)  An assessment officer’s decision must be given by an\ninterim or final certificate, which may be endorsed on a bill of\ncosts, and which must\n(a) certify the amount to be paid by each party or person,\n(b) certify any special circumstance and the amount to be paid\nby each party or person with respect to the special\ncircumstance, and\n(c) be dated and signed by the assessment officer.\n(2)  A certificate that meets the requirements stated in subrule (1) is\nconclusive proof of the amount that a party or person who had\nnotice of the assessment must pay.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d930358b447a8c2d741e0addc1b6bf44f0a3954f19c01730d5bfbd53d9ca2155"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.43 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*\n\nSubdivision 3: APPEAL FROM ASSESSMENT OFFICER’S DECISION"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          216
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Certiﬁcation of Costs Payable",
+      "operative_text_raw": null,
+      "operative_text_sha256": "7397a0689a0fa993634e825a8cd1e3a317049cabfc17df53b5d423b3b54eead9",
+      "related_provisions": "10.38(2) (second assessment not allowed)",
+      "commentary": "This decision is sometimes called an allocutur.",
+      "footnotes": [
+        {
+          "page": "10-134",
+          "number": 8,
+          "text": "Quite similar to previous 1968 R.636. It was identical to 1914 R.766 and 1944 C. R.767."
+        },
+        {
+          "page": "10-134",
+          "number": 9,
+          "text": "Quite similar to previous 1968 R.637. It was virtually identical to 1914 R.767, and 1944 C. R.768."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7219,
+          7255
+        ],
+        "book_pages": [
+          "10-134",
+          "10-135"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Certification of costs payable",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_43_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_026"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "562c726fbeebc6bdc58bff41d4d24854bdd5ed4cd1c0e3777f72d3199f40f60d",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Certification of costs payable",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "fe352ab2e6adab8950028b9513e55c255e9b18bd6dcd5c586ac634af7d4fa5cd",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.43",
+      "title_official": "Certification of costs payable"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "7397a0689a0fa993634e825a8cd1e3a317049cabfc17df53b5d423b3b54eead9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7219,
+            7255
+          ],
+          "book_pages": [
+            "10-134",
+            "10-135"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "562c726fbeebc6bdc58bff41d4d24854bdd5ed4cd1c0e3777f72d3199f40f60d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "fe352ab2e6adab8950028b9513e55c255e9b18bd6dcd5c586ac634af7d4fa5cd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d930358b447a8c2d741e0addc1b6bf44f0a3954f19c01730d5bfbd53d9ca2155",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            216
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e878a7cc49949ad2a23476c0b5c5d655a2d6dbe18a3065e74ae2d2079c5a5837"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.43 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.43 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.43 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.43 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

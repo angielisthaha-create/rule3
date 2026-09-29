@@ -1,0 +1,287 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.35",
+  "title": {
+    "official": "Preparation of bill of costs",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.35(1)  A party entitled to payment of costs must prepare a bill\nof costs in Form 44\n(a) if that party wishes or is required to have the costs\nassessed by an assessment officer, or\n(b) on request of a party who is required to pay the costs.\n(2)  The bill of costs must\n(a) itemize all the costs sought to be recovered, distinguishing\nbetween fees, disbursements and other charges, and\n(b) be signed by the person responsible for its preparation.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "a2611dbfb6bac7fff13b7f6d4fd8c65f721367d9b1edf73a9b13c546c228c0de"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.35 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          211
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Preparation of Bill of Costs",
+      "operative_text_raw": "10.35(1) A party entitled to payment of costs must prepare a bill of costs in Form⁴⁴\n(a) if that party wishes or is required to have the costs assessed by an\nassessment ofﬁcer, or\n(b) on request of a party who is required to pay the costs.\n(2) The bill of costs must\n(a) itemize all the costs sought to be recovered, distinguishing between\nfees, disbursements and other charges, and\n(b) be signed by the person responsible for its preparation.",
+      "operative_text_sha256": "16e3b6237b9b412a1e39e8d6eb2b0c289aa74b37e221b6131948f7085b47ddbd",
+      "related_provisions": "9.35 (costs in foreclosures) ; 10.2 (contents of solicitor-client account)",
+      "commentary": "See also R.10.37 and notes. On timing, see also R.10.30 and notes.\nIf a party seeks costs, especially full-indemnity costs, at the beginning of the review by a\nreview ofﬁcer it must provide a bill of costs, a statement of account, or other evidence of the\namounts claimed.²\nAbsence of a bill harms the party asked to pay, especially if the actual legal\nbills incurred by the party seeking costs are argued as some basis for calculating these party-\nparty costs now sought.³\nWithout such a bill, actual expenses incurred cannot be considered.⁴\nComputation of Schedule C and full indemnity should be provided.⁵\nA bill of costs between parties must follow the prescribed form. However, if fees are to be on a\nsolicitor-client basis, the services should be itemized, but the fee may be a single lump-sum fee,\nand then the form of account lawyers use to bill clients is probably satisfactory.\nFor party-party costs, if the court set no other basis for costs and said nothing to the contrary,\nthe bill of costs should itemize the services according to the items in Schedule C, giving the item\nnumbers from there. The bill should have room in the margins and at the end, for the assessment\nofﬁcer to change numbers and recompute totals.⁶\n\nThis bill of costs would be an appendix or enclosure to the costs argument, not to have its\npages counted in the judge’s limit for the length of written argument on costs.¹\nPost-judgment interest runs on costs awarded in a judgment, but it is not itself costs, and such\ninterest should not be included in the bill of costs.²\nThis Rule no longer requires proof of disbursements by an afﬁdavit or certiﬁcate by the lawyer.\nItems which are mingled fee and disbursements, such as photocopying at 30 cents a page, are\ndifﬁcult. It is traditional to allow such mingled items, especially as the precise cost per page is\nhard to determine and may ﬂuctuate. But they violate the requirement to distinguish fees and\ndisbursements; it is necessary to avoid misrepresentation, and to disclose that they include a fee\nelement, and not pass them off as a pure disbursement. See further R.10.31n.\nThe need to sign a bill has been interpreted laxly.³\nThe winning party need not prepare a bill of costs if the only costs sought are the presumptive\ncosts applicable to the steps recognized under Schedule C, and the only objection is that there\nshould be no costs.⁴",
+      "footnotes": [
+        {
+          "page": "10-124",
+          "number": 44,
+          "text": null,
+          "defect": "FOOTNOTE_TEXT_NOT_FOUND_ON_PAGE"
+        },
+        {
+          "page": "10-124",
+          "number": 2,
+          "text": "Ho v. Lau (#2) 2023 ABKB 15, JCE 2103 06917 (Jan 9) (¶’s 39-51."
+        },
+        {
+          "page": "10-124",
+          "number": 3,
+          "text": "Earth Drilling Co. v. Keystone, infra (¶’s 26 ff. )."
+        },
+        {
+          "page": "10-124",
+          "number": 4,
+          "text": "Earth Drilling Co. v. Keystone, infra (¶’s 28-31)."
+        },
+        {
+          "page": "10-124",
+          "number": 5,
+          "text": "Barkwell v. McDonald 2023 ABCA 87, 479 DLR(4th) 560 (¶’s 53-56), leave den (SCC 2 Nov ’23)."
+        },
+        {
+          "page": "10-124",
+          "number": 6,
+          "text": "It is customary at the end to have blanks reading \"assessed on\" and \"assessed off\", so that the increases and decreases respectively made by the assessment ofﬁcer can be totalled and then added and subtracted to reach the ﬁnal adjusted total. That decision as to amount awarded is sometimes called the allocatur (which is Latin for \"there is allowed\")."
+        },
+        {
+          "page": "10-125",
+          "number": 1,
+          "text": "Earth Drilling Co. v. Keystone Drilling (#2?) 2023 ABKB 17, JCE 2203 11165 (Jan 9) (¶’s 26-31)."
+        },
+        {
+          "page": "10-125",
+          "number": 2,
+          "text": "See the C. P. E. , Chapter 73, Parts M and P.13."
+        },
+        {
+          "page": "10-125",
+          "number": 3,
+          "text": "For general authorities on what is a signature, see the C. P. E. , Chapter 67, Part E."
+        },
+        {
+          "page": "10-125",
+          "number": 4,
+          "text": "Al-Ghamdi v. R. (Alta. ) (#3?) 2017 ABCA 151, Edm 1603 0210 AC (one JA May 18) (¶ 4)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6732,
+          6788
+        ],
+        "book_pages": [
+          "10-124",
+          "10-125"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Preparation of bill of costs",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_35_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "1958b2c282c1afa8a582eb31287e127c2bcf08a1bc13079779350c881ce8fc89",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Preparation of bill of costs",
+      "division_heading": null,
+      "operative_text_raw": "(1) A party entitled to payment of costs must prepare a bill of costs in Form 44 (a) if that party wishes or is required to have the costs assessed by an assessment officer, or (2) The bill of costs must (a) itemize all the costs sought to be recovered, distinguishing between fees, disbursements and other charges, and (b) be signed by the person responsible for its preparation.",
+      "operative_text_sha256": "f6560dae3f8ab96452d1326bb88870a759f74af1c906fc99a18ef42e5ad59f50",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The usual course, where the parties are represented by counsel, is for counsel for the successful party to prepare a bill of costs in draft form to send to opposing counsel for approval. If approved and signed, it can be entered, filed and enforced.\nWhile a party is ordinarily expected to provide a bill of costs, a principal purpose of such a bill is to ensure that the party who may be liable to pay such costs is entitled to express objection to entries in the bill where any such entries are amenable to objection. Al-Ghamdi v. Alberta, [2017] A.J. No. 498, 2017 ABCA 151 at para. 4 (Alta. C.A.).",
+          "citations": [
+            {
+              "neutral_citation": "2017 ABCA 151",
+              "style_of_cause": "Al-Ghamdi v. Alberta"
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9938,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "44",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9128,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "(b) on request of a party who is required to pay the costs.",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.35",
+      "title_official": "Preparation of bill of costs"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "CARRIER_MISSING_TEXT",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "16e3b6237b9b412a1e39e8d6eb2b0c289aa74b37e221b6131948f7085b47ddbd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6732,
+            6788
+          ],
+          "book_pages": [
+            "10-124",
+            "10-125"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "1958b2c282c1afa8a582eb31287e127c2bcf08a1bc13079779350c881ce8fc89",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "f6560dae3f8ab96452d1326bb88870a759f74af1c906fc99a18ef42e5ad59f50",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "a2611dbfb6bac7fff13b7f6d4fd8c65f721367d9b1edf73a9b13c546c228c0de",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            211
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "3c58baf16e609779f01c101283547b39d72e48d2df45a57d4ac6621454689aae"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.35 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.35 BOOK_C citation context dropped (2017 ABCA 151): verbatim in kept text",
+    "10.35 BOOK_C commentary sentence split dropped",
+    "10.35 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

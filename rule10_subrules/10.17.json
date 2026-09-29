@@ -1,0 +1,317 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.17",
+  "title": {
+    "official": "Review officer’s authority",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.17(1)  For the purpose of conducting a review under this\nDivision, a review officer may do all or any of the following:\n(a) take evidence either by affidavit or orally under oath, or\nboth;\n(b) direct the production of records;\n(c) require notice of the appointment for the review to be\nserved on persons who may be affected by the review or\nwho have an interest in the trust, estate, fund or property\nfrom which the lawyer’s charges are or may be paid or\ncharged;\n(d) give directions about how notice of the appointment for\nthe review is to be served;\n(e) allow a party to be represented by a lawyer;\n(f) require details of a retainer agreement, or of the services\nprovided, money collected and expended, disbursements\nor other charges claimed or any other matter necessary to\nunderstand the agreement or charges and decide whether\nthe agreement or charges, or both, are reasonable;\n(g) validate service of the notice of the appointment or, if\nservice is impractical or impossible, dispense with\nservice;\n(h) determine the applicability of a time period specified in\nthese rules in respect of a review conducted under this\nDivision and extend or shorten an applicable time period.\n(2)  A review officer may not review either a retainer agreement or\na lawyer’s charges that have previously been reviewed by a review\nofficer unless the Court so orders or the parties agree.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "f3d84465f8a580b128e59b053e7c3fe80c8f82a6227984700d3bc940ec1c6594"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s10.17;36/2020",
+    "amending_regulations": [
+      "36/2020"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;36/20]"
+      ],
+      "BOOK_B": "Alta. Reg. 36/2020, s. 13",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.17 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*\n\nReg. 36/2020, s. 13 effective May 26,  (Alta. Gaz. April 15, 2020)] (Alta. Gaz. April 15, 2020)]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          202
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Review Ofﬁcer’s Authority",
+      "operative_text_raw": "10.17(1) For the purpose of conducting a review under this Division, a review\nofﬁcer may do all or any of the following:\n(a) take evidence either by afﬁdavit or orally under oath, or both;\n(b) direct the production of records;\n(c) require notice of the appointment for the review to be served on\npersons who may be affected by the review or who have an interest\nin the trust, estate, fund or property from which the lawyer’s charges\nare or may be paid or charged;\n(d) give directions about how notice of the appointment for the review is\nto be served;\n(e) allow a party to be represented by a lawyer;\n(f) require details of a retainer agreement, or of the services provided,\nmoney collected and expended, disbursements or other charges\nclaimed or any other matter necessary to understand the agreement\nor charges and decide whether the agreement or charges, or both,\nare reasonable;\n(g) validate service of the notice of the appointment or, if service is\nimpractical or impossible, dispense with service.²\n(h) determine the applicability of a time period specified in these rules\nin respect of a review conducted under this Division and extend or\nshorten an applicable time period.\n(2) A review ofﬁcer may not review either a retainer agreement or a lawyer’s\ncharges that have previously been reviewed by a review ofﬁcer unless the Court\nso orders or the parties agree.¹\n[Alta. Reg.124/10;36/20]",
+      "operative_text_sha256": "01bd774b3465cfa49252d53fcf75806d570e3dc77534647280f5bd99fc10a62a",
+      "related_provisions": "10.38 (assessment officer’s authority) ; 11.29 (dispensing with service)",
+      "commentary": "Paragraph 1(h) was added in 2020.\nThe review is based in part on the ofﬁcer’s expertise.²\nOn criteria to review a retainer agreement, see R.10.7 nn. E, G, and R.10.9 n.\nA review ofﬁcer cannot hear any question about who is liable to pay fees, but he or she can ﬁx\nthe amount despite such a dispute.³\nA review ofﬁcer should hear and decide an application over the propriety and fairness and\namount of a lawyer’s bill, and not adjourn the matter until a negligence suit is decided. The review\nofﬁcer has expertise over fairness and reasonableness of fees, but not over negligence. Here\nthere was a contingency fee agreement which contract was not disputed, and was clear, and the\nlaw ﬁrm simply sought the percentages in the contract.⁴\nMany aspects of the client’s aims, instructions, behavior, communications, and cooperation\nwith his or her lawyer, are relevant when assessing the proper size of the lawyer’s bill.⁵\nAn Applications Judge cannot assess the reasonableness of fees or the work done to earn\nthem, even on a foreclosure suit.⁶\nEspecially if there is a contract to pay the plaintiff’s legal bills.\nThe correct procedure is for the review ofﬁcer to review the fees.⁷\nEvidence heard by the review ofﬁcer need not be sworn.⁸\nThe lawyer can give evidence of his\nor her own experience, and need not call an independent expert witness.⁹\nThe review ofﬁcer should not make assumptions about a law ﬁrm’s ability or experience.¹⁰\nNor\nabout the client’s ﬁnancial situation.¹¹\nWhere there were relevant disputed fact questions before a review ofﬁcer, he was right to\ndecline jurisdiction and not review the account, and a chambers judge on appeal was right to\n\nafﬁrm that.¹\nBut the judge should have provided for a means to decide the fact questions, and so\nthe Court of Appeal directed trial of an issue as to the terms of the retainer agreement.²\nAfﬁdavits on irrelevant topics (such as insurance and ﬁnancial strength) were struck out.³\nApparently all reviews or assessments are digitally sound-recorded on the courts’ “FTR”\nsystem.\nDirectives of the Superintendent of Bankruptcy are not law, and merely his or her interpretation\nof the law.⁴",
+      "footnotes": [
+        {
+          "page": "10-31",
+          "number": 2,
+          "text": "Quite similar to previous 1968 R.628. It came from 1944 C. R.762. Cf.1914 R.761, Eng.1883 O.65 r.27, 1875 r.23, and C. O. O. XL r.1."
+        },
+        {
+          "page": "10-32",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.652. It came from 1914 R.783, as amended by O. C.1590-36, via 1944 C. R. 786."
+        },
+        {
+          "page": "10-32",
+          "number": 2,
+          "text": "Adebisi v. Dentons Can.2023 ABKB 452, JCE 2103 13357 (jUL 31) (¶ 53)."
+        },
+        {
+          "page": "10-32",
+          "number": 3,
+          "text": "R.10.18(1) (a) ; Prowse Chowne v. Northey (Alta TO 2002) 38 CPC(5th) 370; Macleod Dixon v. Fazal, infra."
+        },
+        {
+          "page": "10-32",
+          "number": 4,
+          "text": "Miles Davison LLP v. Rennich 2021 ABQB 1019, JCC 2001 11108 (Dec 22) (¶’s 13-25)."
+        },
+        {
+          "page": "10-32",
+          "number": 5,
+          "text": "Adebisi v. Dentons, supra (¶’s 53-73, 74-91)."
+        },
+        {
+          "page": "10-32",
+          "number": 6,
+          "text": "Raimundo v. Kemper’s Ents. (M) 2004 ABQB 950, 364 AR 281."
+        },
+        {
+          "page": "10-32",
+          "number": 7,
+          "text": "Ibid."
+        },
+        {
+          "page": "10-32",
+          "number": 8,
+          "text": "Fraser Milner Casgrain v. Kristof Finl.2012 ABQB 359, 541 AR 245; Tallcree F. N. v. Rath & Co.2022 ABCA 174, Edm 2103 0093 AC (May 11) (¶’s 80 ff. ), leave den (SCC 16 Mar ’23) ; Bertram Family Tr. v. Felesky Flynn 2024 ABKB 341, JCE 2203 09727 (Jun 11) (¶ 57)."
+        },
+        {
+          "page": "10-32",
+          "number": 9,
+          "text": "Tallcree v. Rath (CA), supra (¶’s 83-84)."
+        },
+        {
+          "page": "10-32",
+          "number": 10,
+          "text": "Tallcree v. Rath, supra (¶’s 80 ff. )."
+        },
+        {
+          "page": "10-32",
+          "number": 11,
+          "text": "Tallcree v. Rath, supra (¶’s 76-78)."
+        },
+        {
+          "page": "10-33",
+          "number": 1,
+          "text": "Bhojani v. Ruff, infra. That is because the review ofﬁcer has no power to decide what the terms of the retainer were. R.10.18(1) (a) ; Panther Petr. v. Code Hunter (#2) 2002 ABQB 158. See further R.10.18n."
+        },
+        {
+          "page": "10-33",
+          "number": 2,
+          "text": "Bhojani v. Ruff (CA 3 Mar) [1997] AUD 445. On issues relevant to the size of fee, the review ofﬁcer can hear disputed and conﬂicting evidence and make credibility ﬁndings and ﬁnd facts: Brown v. Snyder & Assoc. 2004 ABQB 899, 364 AR 266."
+        },
+        {
+          "page": "10-33",
+          "number": 3,
+          "text": "Davidson v. Patten (#4) 2005 ABQB 521, 381 AR 6."
+        },
+        {
+          "page": "10-33",
+          "number": 4,
+          "text": "Re Garde (R) 2022 ABQB 154, JCE B103 735319 (Feb 23)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1491,
+          1580
+        ],
+        "book_pages": [
+          "10-31",
+          "10-32",
+          "10-33"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Review officer's authority",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.17:1",
+          "text": "Rule 10.17 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.17. Guidelines for Reviewing Contingency Accounts In Sonnenberg v. Schumacher & Associates, 2005 ABQB 352, 2005 CarswellAlta 840, 52 Alta. L.R. (4th) 151, 16 C.P.C. (6th) 88, Germain J. set out the following guidelines for taxing officers who are called upon to review contingency accounts. At pp. 155–156, his Lordship said: I set out the following guidelines for taxing officers to utilize when reviewing contingency accounts. These guidelines are not exhaustive. First, the taxing officer should attempt in a summary way to come to a final decision on the taxation issue, using the referral power only sparingly, unless the client in fact requests the referral as permitted in Rule 619(2). This is consistent with the summary nature of the proceedings, yet protects the interests of the parties, as the issue may still be reviewed de novo by a judge. Second, the taxing officer should review the contingency agreement against the checklist in Rule 616, inviting the lawyer to point out technical compliance, if required. If the taxing officer is not satisfied on a balance of probabilities that technical compliance has occurred, then the taxing officer should advise the lawyer to justify the account on a quantum meruit basis. That is, the lawyer should have the opportunity to prove that the account is fair even without the benefit of the contingency agreement. On the other hand, if the taxing officer is satisfied that the contingency agreement does comply with the Rules, then the taxing officer should conduct the taxation on the basis that the contingency agreement is highly significant to what the taxing officer should consider. The taxing officer should recognize a fundamental entitlement to legal fees on a contingency, but this should not be the only factor for the taxing officer to consider. Third, when taxing an account to which a valid contingency agreement applies, the taxing officer is free to refer to prior cases of comparable complexity. In relatively routine motor vehicle actions, where liability is not greatly in dispute, a contingency of 25% seems to me to be close to the upper limit, absent unusual circumstances. In more complex litigation, such as medical malpractice, even 50% may pass a taxation. There is an economic reality to legal work, such that the law firm may have a sliding scale, which too may pass taxation. The sliding scale may be based on the number of steps taken, with the largest percentage payable in cases that go to trial and a much lower percentage in cases that settle early in the negotiation stage. In the alternative, the sliding scale may have the percentage higher on the first dollars, but lower as the amount collected increases. The taxing officer may find either approach reasonable. It is clear, however, that the taxing officer must do some analysis of the work effort, the risk, and the result, regardless of any valid contingency agreement. Otherwise, Rule 616(2)(h) would be unnecessary. Fourth, in more complicated taxations, the taxing officer may wish to give reasons, but is free not to do so, in light of the summary nature of taxation. Finally, when the taxing officer uses Rule 619(2) to refer a matter to a judge, the taxing officer and the client can expect the judge to deal with all issues arising in the taxation and not only the narrow issue that motivated the referral, although the judge is free not to conduct such a broad review. This is consistent with the summary and expeditious approach to be taken in the taxation of legal accounts. The alternative, of deciding the narrow issue referred and remitting the matter to the taxing officer, should generally be expected only in complex accounts, where there are numerous mathematical calculations and considerations."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_17_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_016",
+        "part10_rule_10_17_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_018"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "83c1d9b6898244aa460ea9dc66a32508cb3a105bf0f6e529e8e53e8742bc2950",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Review officer’s authority",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "d0a693b7549dd03a3a0c9330570d385d279919d9e823cea26463ef46b57cbd39",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The authority under rule 10.17(1)(b) to direct the production of records is intended to empower the review officer to order production, and not to preclude the court PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.17",
+      "title_official": "Review officer’s authority"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "01bd774b3465cfa49252d53fcf75806d570e3dc77534647280f5bd99fc10a62a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1491,
+            1580
+          ],
+          "book_pages": [
+            "10-31",
+            "10-32",
+            "10-33"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "83c1d9b6898244aa460ea9dc66a32508cb3a105bf0f6e529e8e53e8742bc2950",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "d0a693b7549dd03a3a0c9330570d385d279919d9e823cea26463ef46b57cbd39",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "f3d84465f8a580b128e59b053e7c3fe80c8f82a6227984700d3bc940ec1c6594",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            202
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "4f1252e111f43e7f7f8464bb5d06d7dbc0b99537ca61d59d1bde975b61129e42"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.17 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.17 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.17 BOOK_C commentary sentence split dropped",
+    "10.17 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.17 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

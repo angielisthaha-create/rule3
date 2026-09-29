@@ -1,0 +1,264 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.19",
+  "title": {
+    "official": "Review officer’s decision",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.19(1)  A review of a lawyer’s charges must take into\nconsideration the factors described in rule 10.2, except to the extent\nthat a retainer agreement otherwise provides.\n(2)  A review of a retainer agreement must be based on the\ncircumstances that existed when the retainer agreement was entered\ninto.\n(3)  The review officer may, in a review of a lawyer’s charges,\nallow the charges, or vary, reduce or disallow all or any of the\ncharges, and certify the amount payable for and against each party,\nand may issue an interim certificate.\n(4)  A review officer’s decision must be given by an interim or\nfinal certificate, which may be endorsed on a copy of the lawyer’s\naccount, and the certificate must\n(a) certify the amount to be paid by each party or person,\n(b) certify any special circumstance and the amount to be paid\nby each party or person with respect to the special\ncircumstance, and\n(c) be dated and signed by the review officer.\n(5)   An interim or final certificate of a review officer that meets the\nrequirements set out in subrule (4) is conclusive proof of the\namount that a party or person who had notice of the review must\npay.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "1121cfbe6a716f01bdf532426df00e69e65d6cc0a53dee6dd37a55e8e7cc8cb6"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          203,
+          204
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Review Ofﬁcer’s Decision",
+      "operative_text_raw": "10.19(1) A review of a lawyer’s charges must take into consideration the factors\ndescribed in rule 10.2 [Payment for lawyer’s services and contents of lawyer’s\naccount], except to the extent that a retainer agreement otherwise provides.\n(2) A review of a retainer agreement must be based on the circumstances that\nexisted when the retainer agreement was entered into.\n(3) The review ofﬁcer may, in a review of a lawyer’s charges, allow the charges, or\nvary, reduce or disallow all or any of the charges and certify the amount payable\nfor and against each party, and may issue an interim certiﬁcate.\n(4) A review ofﬁcer’s decision must be given by an interim or ﬁnal certiﬁcate,\nwhich may be endorsed on a copy of the lawyer’s account, and the certiﬁcate\nmust\n(a) certify the amount to be paid by each party or person,\n(b) certify any special circumstance and the amount to be paid by each\nparty or person with respect to the special circumstance, and\n(c) be dated and signed by the review ofﬁcer.\n(5) An interim or ﬁnal certiﬁcate of a review ofﬁcer that meets the requirements\nset out in subrule (4) is conclusive proof of the amount that a party or person\nwho had notice of the review must pay.",
+      "operative_text_sha256": "17d76f2df66c0ae008c92859f3bf65653484419020a4f8c9ba1ef788cfc53694",
+      "related_provisions": "10.9 (contingency fee agreement reviewable for reasonableness).",
+      "commentary": "See also R.10.9 n.\nThe appellant had argued for a decision on whether the Review Ofﬁcer found the 10 lawyers’\nperiodic bills being reviewed were interim and to be reviewed as a whole at the end, or each\nﬁnal and to be reviewed individually. The parties disagreed on that topic. The Review Ofﬁcer\nnever decided that basic question, and his view is unclear, which omission was a clear error of\nlaw.¹\nIt is vital to determine that question for two reasons: to know how to assess each bill, and\nto see whether any bills were being reviewed outside the one-year limitation (and most of these\nbills were reviewed more than a year after their receipt under R.10.10(2) ).²\nSo the decision was\nquashed and a new review by a different Review Ofﬁcer was ordered.³\nIf a review ofﬁcer ﬁnds the retainer agreement unfair, or if a King's Bench judge or the Court\nof Appeal ﬁnds the decision under appeal unreasonable, then that higher ofﬁcer or judge must\nanalyze the fee afresh, and set the fee on any reasonable basis, not necessarily a percentage of\nrecovery.⁴\nIf a lawyer collects fees from a retainer and then his or her account is reduced on review, that is\nres judicata and a court order. The same is true if the account is reduced on appeal from review.⁵\nA duty to refund is implicit when a paid lawyer’s account is assessed down.⁶\nOne common-law spouse was in privity with the other and bound by adverse court rulings\nagainst the other, though not named in the style of cause.⁷\nOn negligence by the lawyer, see R.10.1 and commentary, supra.\nBecause of Rr.10.2 and 10.19, even an unenforceable contingent-fee agreement has some\n(limited) relevance.⁸",
+      "footnotes": [
+        {
+          "page": "10-35",
+          "number": 1,
+          "text": "Larocque v. Kantor LLP 2024 ABKB 327, JCC 2101 13183 (May 31) (¶’s 10, 14, 18, 23-24, 26)."
+        },
+        {
+          "page": "10-35",
+          "number": 2,
+          "text": "Larocque v. Kantor: id. at ¶’s 1, 18, 20-22, 24, 26."
+        },
+        {
+          "page": "10-35",
+          "number": 3,
+          "text": "Larocque v. Kantor: id. at ¶ 28."
+        },
+        {
+          "page": "10-35",
+          "number": 4,
+          "text": "Tallcree F. N. v. Rath & Co.2022 ABCA 174, Edm 2103 0093 AC (May 11) (¶ 90, 107-08, 110), leave den (SCC 16 Mar ’23)."
+        },
+        {
+          "page": "10-35",
+          "number": 5,
+          "text": "Severin v. Veale (#2) 2000 ABCA 180, 261 AR 369. On interest, see the C. P. E. , Chapter 51, Part A.9."
+        },
+        {
+          "page": "10-35",
+          "number": 6,
+          "text": "Severin v. Veale (#2) 2000 ABCA 180, 261 AR 369; cf. Tallcree F. N. v. Rath & Co. (#2) 2021 ABQB 234, JCE 1803 05262 (Mar 26) (¶’s 64-66), vard 2022 ABCA 174. Costs to be refunded draw interest: Hanke v. Resurﬁce Corp. (#2) 2006 ABCA 116, 384 AR 52. See also C. P. E. , Chapter 51, Part A.9."
+        },
+        {
+          "page": "10-35",
+          "number": 7,
+          "text": "Polis v. Edwards 2010 ABCA 59, 24 Alta LR(5th) 12 (¶’s 25-37)."
+        },
+        {
+          "page": "10-35",
+          "number": 8,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2021 ABCA 129, [2021] AJ #480 (¶’s 19-21)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1634,
+          1696
+        ],
+        "book_pages": [
+          "10-34",
+          "10-35"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Review officer's decision",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_19_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_024"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "a30cce32a0bc1264e4d64d5ba3aed1c88b3021c9ddae8b0da1247401e9ae9b5b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Review officer’s decision",
+      "division_heading": null,
+      "operative_text_raw": "(1) A review of a lawyer’s charges must take into consideration the factors described in rule 10.2 [Payment for lawyer’s services and contents of lawyer’s account], except to the extent that a retainer agreement otherwise provides.\n(2) A review of a retainer agreement must be based on the circumstances that existed when the retainer agreement was entered into.\n(3) The review officer may, in a review of a lawyer’s charges, allow the charges, or vary, reduce or disallow all or any of the charges, and certify the amount payable for and against each party, and may issue an interim PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+      "operative_text_sha256": "7d7adfd73729f7b178e2b6a4818c3eff94a75015e1784848266e684129b46c2e",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6093,
+      "differences": [
+        {
+          "op": "replace",
+          "official": "certificate. (4) a review officer's decision must be given by an interim or final certificate, which may be endorsed on a copy",
+          "carrier": "part 10 lawyers' charges, recoverable costs"
+        },
+        {
+          "op": "replace",
+          "official": "the lawyer's account,",
+          "carrier": "litigation,"
+        },
+        {
+          "op": "replace",
+          "official": "the certificate must (a) certify the amount to be paid by each party or person, (b) certify any special circumstance and the amount to be paid by each party or person with respect to the special circumstance, and (c) be dated and signed by the review officer. (5) an interim or final certificate of a review officer that meets the requirements set out in subrule (4) is conclusive proof of the amount that a party or person who had notice of the review must pay.",
+          "carrier": "sanctions"
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.19",
+      "title_official": "Review officer’s decision"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "17d76f2df66c0ae008c92859f3bf65653484419020a4f8c9ba1ef788cfc53694",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1634,
+            1696
+          ],
+          "book_pages": [
+            "10-34",
+            "10-35"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "a30cce32a0bc1264e4d64d5ba3aed1c88b3021c9ddae8b0da1247401e9ae9b5b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "7d7adfd73729f7b178e2b6a4818c3eff94a75015e1784848266e684129b46c2e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "1121cfbe6a716f01bdf532426df00e69e65d6cc0a53dee6dd37a55e8e7cc8cb6",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            203,
+            204
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "6d16138a54e1c6d182ffca1d4841fa427e607437654dc96ebb76679d8ca95589"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.19 BOOK_B: operative text dropped (EXACT_MATCH)"
+  ]
+}

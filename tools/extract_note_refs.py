@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PART = os.environ.get("ARC_PART", "2")   # set ARC_PART=3 for Part 3
-LAST = 77 if PART == "3" else 32
+LAST = {"3": 77, "10": 55}.get(PART, 32)
 PAT = re.compile(r"[^\"]{0,120}(?:pp?\.\s?\d{1,2}-\d+|lines? \d+)[^\"]{0,60}")
 
 

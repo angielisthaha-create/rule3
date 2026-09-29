@@ -1,0 +1,228 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.25",
+  "title": {
+    "official": "Order to return records",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.25   On application by a client, the Court may order a lawyer to\ndeliver to a person named in the order any record of the client\nunder the lawyer’s control.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "89fe46140e7eb8dfd692b04c352ebee5b9966b03ee12cf1bd495e91b9d4186ed"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.25 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*\n\nSubdivision 5: APPEAL FROM REVIEW OFFICER’S DECISION"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          205
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Order to Return Records",
+      "operative_text_raw": null,
+      "operative_text_sha256": "71c6e4705a84c44ed6b51cd81cf7ec2494f78030328e0e80ded743a5e6f6b41a",
+      "related_provisions": "2.28 (change of lawyer) ; 5.13 (obtaining records from others)",
+      "commentary": "The former solicitor for an estate would not (after a while) answer correspondence or even\ncooperate in service of papers, so the court ordered that the papers be turned over to the new\nsolicitor.⁴\n\nThere is a discussion of whether the client or the lawyer owns any given papers on the ﬁle of\nthat lawyer. That the paper in question was created by work for which that solicitor charged that\nclient is not conclusive. References to internal memos and communications should not be read\nliterally, and should be conﬁned to topics administrative or for the sole assistance of the law ﬁrm.\nMany papers will have been created for more than one purpose, and then one should see which\nwas the dominant purpose. Ownership between principal and agent is not the test. There are few\nbright lines.¹",
+      "footnotes": [
+        {
+          "page": "10-38",
+          "number": 3,
+          "text": "Quite similar to previous 1968 R.649. It came from 1914 R.779 (amended by O. C.1590-36), and 1944 C. R. 782. Cf. (Imp. ) 6 & 7 Vict. c.73 s.37, 7th para."
+        },
+        {
+          "page": "10-38",
+          "number": 4,
+          "text": "Re Marchuk Est.2006 ABQB 24."
+        },
+        {
+          "page": "10-39",
+          "number": 1,
+          "text": "CPC Networks Corp. v. McDougall Gauley 2023 SKCA 90 (Aug 10) (¶’s 15-37). A set of 6 rules is given in ¶ 37: ibid."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1836,
+          1866
+        ],
+        "book_pages": [
+          "10-38",
+          "10-39"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Order to return records",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_25_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_042"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "1cb4b5a2a3c695076b0041431c9e124fb05db168a6e4c0fcbc79aa60e994e923",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Order to return records",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "e1617e30c7efd097867800592be607729ab579121186e868c9a1fe5c84b14dfb",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.25",
+      "title_official": "Order to return records"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "71c6e4705a84c44ed6b51cd81cf7ec2494f78030328e0e80ded743a5e6f6b41a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1836,
+            1866
+          ],
+          "book_pages": [
+            "10-38",
+            "10-39"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "1cb4b5a2a3c695076b0041431c9e124fb05db168a6e4c0fcbc79aa60e994e923",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "e1617e30c7efd097867800592be607729ab579121186e868c9a1fe5c84b14dfb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "89fe46140e7eb8dfd692b04c352ebee5b9966b03ee12cf1bd495e91b9d4186ed",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            205
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "72f209452f4f03b95862c5e969389467fc688dcd0299141b9248098a9190ccb4"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.25 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.25 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.25 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.25 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

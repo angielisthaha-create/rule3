@@ -1,0 +1,37 @@
+WORKFLOW - Part 10 (rules 10.1-10.55: Lawyers' Charges, Recoverable Costs of Litigation, and Sanctions)
+
+The method, checklists 3A/3B/3C and the pass plan (6A) are in rule2_subrules/WORKFLOW.txt and apply unchanged; rule3_subrules/WORKFLOW.txt
+records what was learned in Part 3 (read its "PASS 3" paragraph before starting). Part 10 is built by tools/build_rule10_reconciliation.py
+into rule10_subrules/. Helpers: source tools/qa_display_helpers.sh (gate_all10 ...), and ARC_PART=10 python3 tools/show_rule_notes.py /
+extract_note_refs.py / edit_helpers.py.
+
+STATUS
+   Builder run: 2026-09-29. Built 55 rules, gate_all10 -> 55 x valid. No manual pass has started (Pass 1 is next).
+
+SOURCES (all in the repository root)
+   OFFICIAL  Alberta_Rules_of_Court.txt (Part 10 = second "Part 10" heading to second "Part 11" heading; Division and Subdivision headings
+             are read from the table of contents)
+   BOOK_A    combined_rule10.txt (9,134 lines; page markers "10-N" at the TOP of each page, footnotes set apart in "Footnote" blocks with
+             superscript markers, as in Part 2; running heads "PART 10: ... R.10.x(y)"). Book pages 10-3 to the end of Part 10.
+   BOOK_B    rule10_part01_document.json ... rule10_part12_document.json (Fradsham; headings "10.N. Title", commentary "Commentary § 10.N:k";
+             the Part/Division running head is repeated as a paragraph and is skipped)
+   BOOK_C    "441-460_10_1 to 10_10.json", "461-480_10_11 to 10_31.json", "481-500_10_32 to 10_46.json", "501-520_10_47 to 11_9.json"
+             (10.32 is listed twice in the 481-500 file; the builder merges the entries and keeps every part)
+
+BUILDER DIFFERENCES FROM PARTS 2 AND 3
+   Base: Part 3's builder (subdivisions, alphanumeric comparison tier, Book B/C parsing, manual tables and dedupe) with Part 2's Book A parser
+   (footnotes split out per page). Additions: Book A "DIVISION N" headings (upper-case lines) and "Subdivision N" headings (matched to the
+   official table-of-contents headings) are marked as structure, not rule text; the Book A rule-start pattern refuses "10.N(1) (" so that a
+   cross-reference wrapped over a line break ('R.\n10.6(1) (b)') is not taken for the rule (found at 10.6).
+   All MANUAL_* tables start empty.
+
+BUILD RESULT (before any manual review): pairwise statuses vs official over 165 comparisons -
+   EXACT_MATCH 103, NORMALIZATION_ONLY_DIFFERENCE 34, WORDING_DIFFERENCE 15, CARRIER_MISSING_TEXT 12, CARRIER_HAS_EXTRA_TEXT 1.
+   Gate results: THREE_BOOK_SOURCE_RECONCILED 29, SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED 26.
+   Very long Book A notes (characters): 10.31 62,235; 10.33 28,070; 10.52 24,946; 10.29 18,462; 10.53 13,108; 10.7 9,378.
+   Known items to check in Pass 1: 10.35 (Book A prints 'Form⁴⁴' - the form number as a superscript, read as a footnote marker; footnote 44 has
+   no text, and Book A's text is flagged CARRIER_MISSING_TEXT); Book C CARRIER_MISSING_TEXT at 10.5, 10.13, 10.14, 10.24, 10.26, 10.29, 10.30,
+   10.31, 10.35, 10.38, 10.39 and CARRIER_HAS_EXTRA_TEXT at 10.45; the Book C title of 10.52 begins 'which authorizes ...' (misparse); footnote
+   defects (text not found on the page) at 10.10 (10-26 #9), 10.29 (10-53 #12, #13), 10.31 (12 defects) and 10.35 (10-124 #44).
+
+NEXT: Pass 1 (full read, checklists 3A+3B+3C, write-after-search rule), then Pass 2 verification (plan 6A), then Pass 3.

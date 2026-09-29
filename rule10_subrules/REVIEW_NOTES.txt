@@ -1,0 +1,112 @@
+REVIEW NOTES - Alberta Rules of Court Part 10 (rules 10.1-10.55). One block per rule; pass lines are added with
+ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No manual pass has been done yet.
+
+10.1 Definitions
+
+10.2 Payment for lawyer’s services and contents of lawyer’s account
+
+10.3 Lawyer acting in representative capacity
+
+10.4 Charging order for payment of lawyer’s charges
+
+10.5 Retainer agreements
+
+10.6 Void provisions
+
+10.7 Contingency fee agreement requirements
+
+10.8 Lawyer’s non-compliance with contingency fee agreement
+
+10.9 Reasonableness of retainer agreements and charges subject to review
+
+10.10 Time limitation on reviewing retainer agreements and charges
+
+10.11 Who may request review of lawyer’s charges
+
+10.12 Location of review
+
+10.13 Appointment for review
+
+10.14 Client-obtained appointment: lawyer’s responsibility
+
+10.15 Retainer agreement confidentiality
+
+10.16 Absence of person at appointment for review
+
+10.17 Review officer’s authority
+
+10.18 Reference to Court
+
+10.19 Review officer’s decision
+
+10.20 Enforcement of review officer’s decision
+
+10.21 Repayment of charges
+
+10.22 Action for payment of lawyer’s charges
+
+10.23 Costs of review
+
+10.24 Reviewing lawyer’s charges: incomplete services and particular events
+
+10.25 Order to return records
+
+10.26 Appeal to judge
+
+10.27 Decision of judge
+
+10.28 Definition of “party”
+
+10.29 General rule for payment of litigation costs
+
+10.30 When costs award may be made
+
+10.31 Court-ordered costs award
+
+10.32 Costs in class proceeding
+
+10.33 Court considerations in making costs award
+
+10.34 Court-ordered assessment of costs
+
+10.35 Preparation of bill of costs
+
+10.36 Assessment of bill of costs
+
+10.37 Appointment for assessment
+
+10.38 Assessment officer’s authority
+
+10.39 Reference to Court
+
+10.40 Absence of person served with notice of appointment for assessment
+
+10.41 Assessment officer’s decision
+
+10.42 Actions within Provincial Court jurisdiction
+
+10.43 Certification of costs payable
+
+10.44 Appeal to judge
+
+10.45 Decision of the judge
+
+10.46 Review and assessment under enactments
+
+10.47 Liability of litigation representative for costs
+
+10.48 Recovery of goods and services tax
+
+10.49 Penalty for contravening rules
+
+10.50 Costs imposed on lawyer
+
+10.51 Order to appear
+
+10.52 Declaration of civil contempt
+
+10.53 Punishment for civil contempt of Court
+
+10.54 Mental disorder
+
+10.55 Inherent jurisdiction

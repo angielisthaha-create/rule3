@@ -1,0 +1,232 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.24",
+  "title": {
+    "official": "Reviewing lawyer’s charges: incomplete services and particular events",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.24(1)  If any of the following events occurs, a lawyer, the\nlawyer’s personal representative or a client may make an\nappointment with a review officer for the purpose of determining\nthe amount of the lawyer’s charges payable by the client:\n(a) the lawyer dies;\n(b) the lawyer is suspended, disbarred or incapacitated;\n(c) the lawyer ceases to be the client’s lawyer or the client\nceases to be the lawyer’s client;\n(d) a dispute arises about the apportionment of contingency\nfees under a contingency fee agreement under which 2 or\nmore lawyers are engaged, whether or not the contingency\nhas occurred;\n(e) the client retains a new lawyer in the action;\n(f) the client unreasonably discontinues or abandons any\nmatter to which a contingency fee agreement applies;\n(g) any other event that creates uncertainty about a lawyer’s\ncharges or who is to pay them or to whom they are to be\npaid.\n(2)  When making a decision under this rule, the review officer\nmust take into consideration the factors described in rule 10.2,\nexcept to the extent that a retainer agreement otherwise provides.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "0ff6b488a77a5615a64bb21f7a528f59d74cc36b2410e11d7c0f3e0c7275c15d"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.24 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          205
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Reviewing Lawyer’s Charges: Incomplete Services and Particular Events",
+      "operative_text_raw": "10.24(1) If any of the following events occurs, a lawyer, the lawyer’s personal\nrepresentative or a client may make an appointment with a review ofﬁcer for the\npurpose of determining the amount of the lawyer’s charges payable by the client:\n(a) the lawyer dies;\n(b) the lawyer is suspended, disbarred or incapacitated;\n(c) the lawyer ceases to be the client’s lawyer or the client ceases to be\nthe lawyer’s client;\n(d) a dispute arises about the apportionment of contingency fees under\na contingency fee agreement under which 2 or more lawyers are\nengaged, whether or not the contingency has occurred;\n(e) the client retains a new lawyer in the action;\n(f) the client unreasonably discontinues or abandons any matter to\nwhich a contingency fee agreement applies;\n(g) any other event that creates uncertainty about a lawyer’s charges or\nwho is to pay them or to whom they are to be paid.¹\n(2) When making a decision under this rule, the review ofﬁcer must take into\nconsideration the factors described in rule 10.2 [Payment for lawyer’s services\nand contents of lawyers account], except to the extent that a retainer agreement\notherwise provides.",
+      "operative_text_sha256": "ca5b658268f87b96470680cbc4e94437c7d2739cb3113e4d8b82ee5826f5b849",
+      "related_provisions": null,
+      "commentary": "retainer agreement, review officer\nRule 10.24 is separate and more speciﬁc than R.10.10(2).²",
+      "footnotes": [
+        {
+          "page": "10-38",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.621. It came from 1914 Rr.751, 752. Subrule (1) was new in 1968, (2) came from 1944 C. R.752, (3) came from 1944 C. R.754, (4) was new in 1968, (5) was new in 1968, and (6) came from 1944 C. Rr.752, 753."
+        },
+        {
+          "page": "10-38",
+          "number": 2,
+          "text": "Lising v. Smith 2018 ABQB 1061, JCE 1803 13042."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1813,
+          1835
+        ],
+        "book_pages": [
+          "10-38"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Reviewing lawyer's charges: incomplete services and particular events",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.24:1",
+          "text": "Rule 10.24 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.24. In Lising v. Smith, 2018 ABQB 1061, 2018 CarswellAlta 3189, Justice Shelley had before her an appeal by a lawyer from a Review Officer's decision in relation to a retainer agreement between the lawyer and his then client. The lawyer submitted that the “Review Officer ought not to have reviewed his [the lawyer's] account because more than six months had passed between the date [the lawyer] sent the account [to the client] and the date the Appointment for Review was filed.” Justice Shelley found that the lawyer “did not complete the services contemplated in the Retainer Agreement. He was suspended [by the Law Society], the result of which is that he ceased to be capable of completing the services because he could no longer be the Respondents' lawyer.” Justice Shelley found that Rule 10.24 applied, that Rule 10.24 was not subject to the time limitation set out in Rule 10.10(2). Her Ladyship said: [21]… More importantly, Rule 10.24 is a separate Rule specific to this circumstance and does not contain any limitation on a client's right to have a lawyer's charges reviewed where, for any of the reasons set out in that Rule, a lawyer is unable to complete the services for which the lawyer was retained. [22] I therefore reject Mr. Smith's argument that the Review Officer should not have reviewed the October 3, 2017 invoice on the basis that he was precluded from doing so by virtue of Rule 10.10(2)."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_24_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_038",
+        "part10_rule_10_24_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_040"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "afca03f3e19e77dfd3c0b45b45380a82381dd8b83abf9f4f6629f24260b16d03",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Reviewing lawyer’s charges: incomplete services and particular events",
+      "division_heading": null,
+      "operative_text_raw": "(1) If any of the following events occurs, a lawyer, the lawyer’s personal representative or a client may make an appointment with a review officer for the purpose of determining the amount of the lawyer’s charges payable by the client:\n(2) When making a decision under this rule, the review officer must take into consideration the factors described in rule 10.2 [Payment for lawyer’s services and contents of lawyer’s account], except to the extent that a retainer agreement otherwise provides.",
+      "operative_text_sha256": "8c3ffc278f088fa32d7a0356edaff15ce3c713b40a9e6f9c9a6b5860ee8bc383",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.5613,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "(a) the lawyer dies; (b) the lawyer is suspended, disbarred or incapacitated; (c) the lawyer ceases to be the client's lawyer or the client ceases to be the lawyer's client; (d) a dispute arises about the apportionment of contingency fees under a contingency fee agreement under which 2 or more lawyers are engaged, whether or not the contingency has occurred; (e) the client retains a new lawyer in the action; (f) the client unreasonably discontinues or abandons any matter to which a contingency fee agreement applies; (g) any other event that creates uncertainty about a lawyer's charges or who is to pay them or to whom they are to be paid.",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.24",
+      "title_official": "Reviewing lawyer’s charges: incomplete services and particular events"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "ca5b658268f87b96470680cbc4e94437c7d2739cb3113e4d8b82ee5826f5b849",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1813,
+            1835
+          ],
+          "book_pages": [
+            "10-38"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "afca03f3e19e77dfd3c0b45b45380a82381dd8b83abf9f4f6629f24260b16d03",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "8c3ffc278f088fa32d7a0356edaff15ce3c713b40a9e6f9c9a6b5860ee8bc383",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "0ff6b488a77a5615a64bb21f7a528f59d74cc36b2410e11d7c0f3e0c7275c15d",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            205
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "696965d724a76e76013cff238b6e0a6fe4dacf3f8f61dde6d36a434ec1cb3b69"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.24 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.24 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

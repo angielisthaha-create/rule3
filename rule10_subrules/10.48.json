@@ -1,0 +1,276 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.48",
+  "title": {
+    "official": "Recovery of goods and services tax",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Other Matters Related to Lawyers’ Charges and Litigation Costs"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "10.48(1)  Unless the Court otherwise orders, a party entitled to a\ncosts award is entitled to an additional amount on account of goods\nand services tax\n(a) on the fees portion of the costs award, and\n(b) on those disbursements, if any, that are taxable supplies\nunder the Excise Tax Act (Canada).\n(2)  Notwithstanding subrule (1), no additional amount on account\nof goods and services tax is recoverable where the tax is refundable\nor rebateable pursuant to the Excise Tax Act (Canada).",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "dd45728db58ced86f29c3036727315b6c7471b2657adc35a27d933d3472b7a41"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s10.48;140/2013",
+    "amending_regulations": [
+      "140/2013"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;140/13]"
+      ],
+      "BOOK_B": "Alta. Reg. 140/2013, s. 12",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.48 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*\n\nReg. 140/2013, s. 12]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          219
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Recovery of Goods and Services Tax",
+      "operative_text_raw": "10.48(1) Unless the Court otherwise orders, a party entitled to a costs award is\nentitled to an additional amount on account of goods and services tax³\n(a) on the fees portion of the costs award, and\n(b) on those disbursements, if any, that are taxable supplies under the\nExcise Tax Act (Canada).\n(2) Notwithstanding subrule (1), no additional amount on account of goods and\nservices tax is recoverable where the tax is refundable or rebateable pursuant to\nthe Excise Tax Act (Canada).⁴\n[Alta. Reg.124/10;140/13]",
+      "operative_text_sha256": "ecdfc59d48766a6e7df584d3e2c836c4a15161023a15bc21559369546957f86c",
+      "related_provisions": "10.31 (costs awards)",
+      "commentary": "What is popularly called the goods and services tax, or \"GST\", is a tax levied under the federal\nExcise Tax Act. (In many provinces, it is called the “harmonized sales tax” or “HST”. )\nRule 10.48 used to require an afﬁdavit saying that the GST is actually payable by the person\nbeneﬁtting from a costs award,⁵\nbut the court could waive that.⁶\nThat requirement has now been\ntaken out of the Rule, but a form replaces that. Form 44 (Writ of Enforcement) contains a warranty\nthat the recipient of party-party costs is not entitled to reimbursement of GST from anyone else.\nThat warranty has to be present and signed, to add GST to the costs.⁷\nMost businesses are\nentitled to that reimbursement from Revenue Canada, and so cannot add GST to party-party\ncosts.\n\nThis tax is in no sense compensation to a solicitor, who collects it merely as agent for the\ngovernment.¹\nWhere one party to the litigation is the federal government, it may be ordered to reimburse\nany GST which the opposing side has paid on its litigation expenses.²\nBut if the party is a private\nperson, it may be presumed that he or she cannot pass GST on, and should be reimbursed for it.³\nA municipality used to pay GST, but then got a rebate of about ½, and so could claim only the\nnet GST in costs.⁴",
+      "footnotes": [
+        {
+          "page": "10-138",
+          "number": 3,
+          "text": "Quite similar to previous R.605(9). It was ﬁrst enacted by Alta. Reg.38/03."
+        },
+        {
+          "page": "10-138",
+          "number": 4,
+          "text": "Quite similar to previous R.605(10). It was ﬁrst enacted by Alta. Reg.38/03, and amended later in 2003."
+        },
+        {
+          "page": "10-138",
+          "number": 5,
+          "text": "When enacted, the predecessor Rule removed the doubts expressed in a number of court decisions in the previous few years. GST was not added where there was doubt whether the payee of the costs would ultimately bear the burden of the GST: 574095 Alta. v. Brendanco Inv.2002 ABQB 487, 319 AR 383."
+        },
+        {
+          "page": "10-138",
+          "number": 6,
+          "text": "Horizon Res. Mgmt. v. Blaze Enr.2013 ABCA 139, 544 AR 239."
+        },
+        {
+          "page": "10-138",
+          "number": 7,
+          "text": "Especially where the person paying costs is not an ultimate consumer and is likely entitled to an input tax credit: Ekman v. Brooks (City) (#2) (M) 2022 ABQB 326, JCMH 1608 00432 (26 Oct ’21/5 May ’22) (¶ 9)."
+        },
+        {
+          "page": "10-139",
+          "number": 1,
+          "text": "So a contractual cap on the solicitor’s compensation does not exclude G. S. T. : Morrison v. Rod Pantony P. C.2008 ABCA 145, 429 AR 259 (¶’s 22-3)."
+        },
+        {
+          "page": "10-139",
+          "number": 2,
+          "text": "See the C. P. E. , Chapter 71, Part H."
+        },
+        {
+          "page": "10-139",
+          "number": 3,
+          "text": "Huet v. Lynch (#3), supra; Huet (V. A. H. ) v. Lynch 1998 ABCA 1020, 238 AR 201; Phillip v. Whitecourt Gen. Hosp. (#2) 2005 ABQB 174, 381 AR 234, affd 2006 ABCA 245, 397 AR 333, leave den (SCC 12 Apr ’07). But cf. Peter Pond Hldg. v. Shragge 2002 ABQB 746, 326 AR 44, revd other grds 2003 ABCA 290, 346 AR 135, leave den (SCC 22 Apr ’04), and Mar Automobile Hldg. v. Rawlusyk 2001 ABQB 516, 295 AR 152. Between pronouncement and entry of judgment, the trial judge added GST to the large amount which he had awarded, as by statute the plaintiff would have to pay that tax. He felt he had enough evidence: Klemke Mining Corp. v. Shell Can. (#2) 2007 ABQB 427, affd 2008 ABCA 257, 433 AR 172."
+        },
+        {
+          "page": "10-139",
+          "number": 4,
+          "text": "Peter Pond Hldg. v. Shragge, supra; Edm. Regl. Airports Authy. v. N. W. Geomatics (#2) 2003 ABQB 280, 332 AR 299."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7383,
+          7435
+        ],
+        "book_pages": [
+          "10-138",
+          "10-139"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Recovery of goods and services tax",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_48_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_038"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "dfef7f2b6c2654e8fda2dfa3f7387ebd01787819614e096e07882fd5d1495ed3",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Recovery of goods and services tax",
+      "division_heading": "Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "cea2d095a9de71b6652546675cf7388e41b77f1eabd6278c8c00687b2bacd1e3",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule precludes recovery of GST in a costs award where the claiming party receives an input tax credit under the Excise Tax Act, because that is the sort of “reimbursement” contemplated by rule 10.48(2)(c) - and Form 44 requires a warranty to the effect that the GST will not be reimbursed by any other person. ConocoPhillips Canada Operations Ltd. v. 1835651 Alberta Ltd., [2020] A.J. No. 20, 2020 ABQB Rule 10.48 is prefaced by the words “[u]nless the court otherwise orders”. In Horizon Resource Management Ltd. v. Blaze Energy Ltd., [2013] A.J. No. 342, 2013 ABCA 139 (Alta. C.A.). the trial judge specifically directed that there would be no Goods and Services Tax (GST) payable on fees. There was no specific direction by the trial judge regarding the payment of GST on disbursements. The order stated that the bills of costs had been assessed and the order allowed the costs as set out in those bills of costs. Horizon’s bill of costs included a claim for GST on disbursements. The Court of PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": [
+            {
+              "neutral_citation": "2013 ABCA 139",
+              "style_of_cause": "In Horizon Resource Management Ltd. v. Blaze Energy Ltd."
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "501-520_10_47 to 11_9.json",
+        "source_file": "501-520_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.48",
+      "title_official": "Recovery of goods and services tax"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "ecdfc59d48766a6e7df584d3e2c836c4a15161023a15bc21559369546957f86c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7383,
+            7435
+          ],
+          "book_pages": [
+            "10-138",
+            "10-139"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "dfef7f2b6c2654e8fda2dfa3f7387ebd01787819614e096e07882fd5d1495ed3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "cea2d095a9de71b6652546675cf7388e41b77f1eabd6278c8c00687b2bacd1e3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "501-520_10_47 to 11_9.json",
+          "source_file": "501-520_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "dd45728db58ced86f29c3036727315b6c7471b2657adc35a27d933d3472b7a41",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            219
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b6e1faf4df8ef29bfd9b4802cb934b1370e498724b8534a14b71a637aae724ee"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.48 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.48 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.48 BOOK_C citation context dropped (2013 ABCA 139): verbatim in kept text",
+    "10.48 BOOK_C commentary sentence split dropped",
+    "10.48 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.48 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

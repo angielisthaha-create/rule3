@@ -1,0 +1,390 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.2",
+  "title": {
+    "official": "Payment for lawyer’s services and contents of lawyer’s account",
+    "variants": {
+      "BOOK_A": "Payment for Lawyers’ Services and Contents of Lawyer’s Account"
+    }
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Lawyers’ Charges"
+  },
+  "operative_text": {
+    "controlling": "10.2(1)  Except to the extent that a retainer agreement otherwise\nprovides, a lawyer is entitled to be paid a reasonable amount for the\nservices the lawyer performs for a client considering\n(a) the nature, importance and urgency of the matter,\n(b) the client’s circumstances,\n(c) the trust, estate or fund, if any, out of which the lawyer’s\ncharges are to be paid,\n(d) the manner in which the services are performed,\n(e) the skill, work and responsibility involved, and\n(f) any other factor that is appropriate to consider in the\ncircumstances.\n(2)  A lawyer may be paid in advance or take security for future\nlawyer’s charges.\n(3)  Every lawyer’s account must\n(a) contain a reasonable statement or description of the\nservices performed,\n(b) show the fee for the service, and\n(c) set out separately the details of any disbursements paid or\nto be paid by the lawyer or any other charges of the\nlawyer in performing the lawyer’s services.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "6c9217e7cf183d6032fef33ee55c27071b4cfdb6bb8ab5e74c663a98b68fbc64"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.2 effective November 1, 2010 Alta. Gaz. May 15, 2021]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          193,
+          194
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Payment for Lawyers’ Services and Contents of Lawyer’s Account",
+      "operative_text_raw": null,
+      "operative_text_sha256": "1eca737d6d8bd454a5de4ce2c4c65ccd729bc64b0dff44ea94e4b487edc715c2",
+      "related_provisions": "2.17 (lawyer as litigation representative) ; 10.35 (contents of bill of costs) ; 2.25 (duty of lawyer); 2.27 (limited retainers) ; 10.4 (charging order)",
+      "commentary": "There are reference works about lawyers’s charges to their clients.²\nA. Contract vs. Default Mode\nThe lawyer and client can contract for payment on any basis which they wish,³\nsubject to the\npower of the review ofﬁcer to intervene if a contingency fee contract was unreasonable.⁴\nOn what\na retainer agreement cannot do, see R.10.5n.\nRule 10.2(1) is only a default mode, operating in absence of different contractual provisions\nbetween the lawyer and client.⁵\nRule 10.2 also applies if a contrary contract is unenforceable, e. g.\na contingency agreement with serious deviations from R.10.7.⁶\nSo in such a case the client does\nnot escape making any payment.⁷\nIf there is no express contract, then the amount of the fees is initially ﬁxed by the lawyer’s bill,\nbut the client has the right to have the review ofﬁcer reduce it.⁸\nOn a review where there is no\nexpress contract, or the contract seems to invoke R.10.2, the factors in R.10.2 govern.⁹\nIt will\nbe noted that the hours spent are only one of about 11 factors listed there. But if the time was\nproperly spent, in many cases it will be the most important of those factors.¹⁰\nGenerally speaking, the lawyer should not charge for unnecessary steps, nor steps taken\nwhich did not justify their cost.¹¹\n\nThe criteria for fees settling an estate may differ somewhat.¹\nB. More Than One Payor\nThis Rule also applies where someone not the client (such as a mortgagor) has contracted to\npay the lawyer’s bill, but the contract does not set the basis for payment.²\nIf a law ﬁrm works for two clients at once, it is presumed that they share the bill and that the\nﬁrm does not get paid twice.³\nC. Misconduct\nIf a lawyer is negligent, that may lead to a set-off of any resulting loss, but is not usually\nenough in itself to deprive the lawyer entirely of any fee.⁴\nA conﬂict of interest by the lawyer need not disentitle him or her to the usual fee, if the work was\nproperly done and no prejudice is shown.⁵\nNor is breach of the Law Society’s Code of Conduct in\nitself ground to reduce the fee; but failure or refusal to communicate with the client, or rudeness\nto the client, may be.⁶\nD. Instructions Govern\nIn litigation between siblings where all sides seem to be carrying questions of principle beyond\nwhat is really practical, one cannot cut back the fees of the lawyer to his client on one side to\nthe amounts in issue or some proportion to them.⁷\nA client can demand Cadillac treatment, and\nthen will have to pay for it, not merely pay for basic or minimal help. Lawyers can only give time\nestimates and seek instructions; they cannot judge whether a suit is important to their clients,\nespecially where on its face the claim could yield a large sum. If the client tells the lawyer to leave\nno stone unturned, the client must pay for that and cannot later complain of lack of economy.⁸\nE. Security for Fees\nIt is common for a lawyer to get a deposit or even advance payment of a fee before he or\nshe acts. Most lawyers know that the accounting Rules of the Law Society, and the Code of\nProfessional Conduct, bear heavily on putting that payment into trust and when it can come out\nof trust.\nFewer lawyers are familiar with R.10.1(2) or the possibility of taking other security such as a\nmortgage.⁹\nThe expectation that fruits of litigation will pass through the hands of the winner’s lawyer is a\nsort of security for that lawyer. Rule 10.31(4) might suggest that it can easily be defeated.¹⁰\n\nF. Dangers for Lawyer\nA lawyer must walk a tightrope in rendering an account. On the one hand, she would violate\ncodes of conduct if she rendered an account which she knew to be much too high, as a bargaining\ndevice. On the other hand, the account usually binds the lawyer, so she cannot later substitute a\nbigger account if the ﬁrst one was lower than need be. There is a fairly wide exception where the\nbill or bills rendered were only interim ones, but the whole topic is intricate, and the numerous\ncases conﬂict somewhat.¹\nG. Miscellaneous\nOn the history of courts’ regulation of solicitors’ fees, see the Hamill case.²\nThere is no longer a requirement that an account initially be signed, but if a lawyer wants his\nor her account reviewed, he or she must ﬁrst sign it.³\nAfter settlement of a class action subject to approval in four provinces, counsel fees were\napproved at an agreed $37.29 million. Criteria were discussed.⁴\nWhere the Supreme Court of Canada appoints counsel at public expense, the usual legal\naid rates for defence counsel are not a ceiling, nor even a presumed rate, even if the Legal Aid\nSociety administers the retainer. But usual rates are a signiﬁcant factor, and the court cannot\npresume that resources will cover every need. Importance, complexity, and experience of counsel\nare also relevant.⁵\nA provincial “sales” tax on lawyers’ services is constitutional.⁶\nCan the court authorize prepayment of costs out of a trust? See the Residential Warranty\ncase.⁷\nRule 10.2 does not apply to the question of costs to the opponent on a solicitor-client (full\nindemnity) basis.⁸",
+      "footnotes": [
+        {
+          "page": "10-3",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.613. It came from 1914 R.747 (as amended), and 1944 C. R.748."
+        },
+        {
+          "page": "10-3",
+          "number": 2,
+          "text": "Quite similar to previous 1968 R.624. It came from 1944 C. R.756, and (up to the comma) to 1914 R.624."
+        },
+        {
+          "page": "10-4",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.645(1). It came from 1944 C. R.779, new then."
+        },
+        {
+          "page": "10-4",
+          "number": 2,
+          "text": "Alberta Justice Court Services, Court of Queen's Bench Costs Manual: Review of a Lawyer’s Charges. .. (2010) ; Orkin, The Law of Costs (Canada 2. B. looseleaf)"
+        },
+        {
+          "page": "10-4",
+          "number": 3,
+          "text": "R.10.5; and see the notes to it, infra, and Samson Cree v. O'Reilly Assoc. , supra. But cf. Khan v. Paul A. Kazakoff P. C.2019 ABQB 168, JCC 1801 00721 (Mar 8)."
+        },
+        {
+          "page": "10-4",
+          "number": 4,
+          "text": "R.10.7(7). There is some general discussion of policy where the lawyer runs some risk of not being paid if his client does not win the lawsuit, in Ritchie v. Walker 2006 SCC 45, [2006] 2 SCR 428. And even if a contingency agreement was defective, if it does not harm the client it may still (in part) bond the law ﬁrm: Betser-Zilevitch v. Prowse Chowne 2020 ABQB 732, JCE 1803 16987 (Nov 24) (¶’s 54-67), affd 2021 ABCA 129, Edm 2003 0226 AC (Apr 12). See further R.10.7 and notes."
+        },
+        {
+          "page": "10-4",
+          "number": 5,
+          "text": "Steinke v. Hajduk Gibbs, infra (¶ 53) ; Samson Cree N. v. O’Reilly & Associés 2014 ABCA 268, 580 AR 181. Where the lawyer's retainer was oral, but regular accounts were submitted based entirely on time, the calculation was each invoice, the invoices were due immediately and indeed provided for interest, and there was no other evidence to suggest that anything would be calculated or allowed for later or readjusted later, then the bills rendered were ﬁnal; nothing in R.10.2 would apply: O’Brian v. de Villars Jones (M) 2015 ABQB 535, 27 Alta LR(6th) 17."
+        },
+        {
+          "page": "10-4",
+          "number": 6,
+          "text": "Downes v. Botan 2018 ABQB 341, JCE 1703 07595 (Apr 26) (¶’s 27-31)."
+        },
+        {
+          "page": "10-4",
+          "number": 7,
+          "text": "Downes v. Botan, supra."
+        },
+        {
+          "page": "10-4",
+          "number": 8,
+          "text": "R.10.9"
+        },
+        {
+          "page": "10-4",
+          "number": 9,
+          "text": "McDonald Crawford v. Morrow 2004 ABCA 150, 348 AR 118."
+        },
+        {
+          "page": "10-4",
+          "number": 10,
+          "text": "How the courts have applied such Rules is described in the C. P. E. , Chapter 82, Parts R.3 and C to H."
+        },
+        {
+          "page": "10-4",
+          "number": 11,
+          "text": "Steinke v. Hajduk Gibbs 2014 ABQB 34, 581 AR 91 (¶’s 63-4)."
+        },
+        {
+          "page": "10-5",
+          "number": 1,
+          "text": "Re Halun Est.2002 ABQB 563, 319 AR 380, and R.10.3."
+        },
+        {
+          "page": "10-5",
+          "number": 2,
+          "text": "See the C. P. E. , Chapter 82, Part I and Chapter 82, Part R.5."
+        },
+        {
+          "page": "10-5",
+          "number": 3,
+          "text": "See the C. P. E. , Chapter 82, Parts B.8 and Q.1."
+        },
+        {
+          "page": "10-5",
+          "number": 4,
+          "text": "O’Keefe v. Overacker (PrC 2002) 326 AR 201. But cf. Khan v. Paul A. Kazakoff P. C. , supra, Part A."
+        },
+        {
+          "page": "10-5",
+          "number": 5,
+          "text": "Côté v. Rancourt 2004 SCC 58, [2004] 3 SCR 248; but cf. Khan v. Kazakoff, supra, Part A."
+        },
+        {
+          "page": "10-5",
+          "number": 6,
+          "text": "Gunn & Prithipaul v. Daniel 2005 ABQB 6."
+        },
+        {
+          "page": "10-5",
+          "number": 7,
+          "text": "Prowse Chowne v. Wasylyshyn 2006 ABQB 68, 393 AR 237."
+        },
+        {
+          "page": "10-5",
+          "number": 8,
+          "text": "Steinke v. Hajduk Gibbs, supra (¶’s 65, 93, 96)."
+        },
+        {
+          "page": "10-5",
+          "number": 9,
+          "text": "On holding papers or funds received as security, see the C. P. E. , Chapter 82, Part O."
+        },
+        {
+          "page": "10-5",
+          "number": 10,
+          "text": "But cf. the cases in the C. P. E. , Chapter 82, Part O."
+        },
+        {
+          "page": "10-6",
+          "number": 1,
+          "text": "On withdrawing a bill, see the C. P. E. , Chapter 82, Part R. On what is an interim account, see ibid, and Chapter 82, Part S.4."
+        },
+        {
+          "page": "10-6",
+          "number": 2,
+          "text": "Hamill v. Kudryk 2014 ABCA 82, Edm 1203 0139 AC (one JA Feb 27) (¶’s 21 ff)."
+        },
+        {
+          "page": "10-6",
+          "number": 3,
+          "text": "R.10.13(2) (c)."
+        },
+        {
+          "page": "10-6",
+          "number": 4,
+          "text": "Adrian v. A. -G. Can. (Min. of Health) (#2) 2007 ABQB 377, 418 AR 215. See also Northwest v. A. -G. Can. 2006 ABQB 902, 45 CPC(6th) 171."
+        },
+        {
+          "page": "10-6",
+          "number": 5,
+          "text": "R. v. White 2010 SCC 59, [2010] 3 SCR 374. Though Legal Aid for a complex case would not ordinarily go over $120 an hour, the court here approved $225 for an experienced leader and $175 for an experienced junior: R. v. White, supra."
+        },
+        {
+          "page": "10-6",
+          "number": 6,
+          "text": "Christie v. A. -G. B. C.2007 SCC 21, [2007] 1 SCR 873."
+        },
+        {
+          "page": "10-6",
+          "number": 7,
+          "text": "Re Residential Warranty Co. of Can. (#1) 2006 ABQB 236, 393 AR 340."
+        },
+        {
+          "page": "10-6",
+          "number": 8,
+          "text": "McAteer v. Devoncroft Dev. (#2) 2003 ABQB 425, 340 AR 1."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          67,
+          216
+        ],
+        "book_pages": [
+          "10-3",
+          "10-4",
+          "10-5",
+          "10-6"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Payment for lawyer's services and contents of lawyer's account",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.2:1",
+          "text": "Rule 10.2 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.2. 1. Right to Fees Is Based in Contract The Applicants suggest that R. 613 and following of the Rules of Court give lawyers the substantive right to receive payments from their clients for legal fees. I disagree. The right for a solicitor to receive fees for legal services rendered to a client derives from the contractual arrangement between the solicitor and the client, be it a verbal or written retainer agreement in the case of a private client, or the signed certificate in respect of a legal aid matter. The process of taxation does not create this substantive right. I construe the taxation of an account by a solicitor as an assessment of amounts due and owing under a contract, in connection with a collection procedure. P., Barristers & Solicitors v. Legal Aid Society (Alberta) (1994), 26 Alta. L.R. (3d) 167 (Q.B.), at 172–73, per Fruman J. And at p. 173, her Ladyship added: The Taxation Officer has the authority to assess the costs to ascertain that they are a reasonable amount to be paid by the client for the services performed, having regard to the factors enumerated in R. 613. This is an assessment, which is procedural, not the creation of a substantive right. It is my view that the provisions in the Rules of Court relating to the taxation of accounts by solicitors are procedural, as are the provisions for the payment of lawyers' accounts contained in the Legal Aid Rules. P., Barristers & Solicitors v. Legal Aid Society (Alberta), supra. 2. Principle Underlying Rule I think a guiding principle in taxing a solicitor-and-client bill is that it have some relation to the amount in issue … Rule 613 enunciates the overriding principle as between solicitor and client that the charges be reasonable … When considering whether a bill is reasonable or not, I think the prime aspect of reasonableness is that it be reasonable in all the circumstances of the case … The hourly rate method of arriving at the total fee is sometimes useful. However, when it results in a total fee that is out of all proportion to the nature of the case as is the case here, it is not satisfactory. Wainco Oil & Gas Ltd. v. Solick (1987), 49 Alta. L.R. (2d) 390 (Q.B.), at 393–94, per Cavanagh J. 3. Non-Contingent Fee Agreements In McDonald Crawford v. Morrow, 2004 ABCA 150, 2004 CarswellAlta 546, 348 A.R. 118, 28 Alta. L.R. (4th) 62, Berger J.A., speaking for majority, commented on non-contingent fee agreements. He reproduced the following quotation from The Law of Costs by Mark M. Orkin (Canada Law Book Inc., 1978, 2nd edition): In all cases of an agreement respecting remuneration, there is an onus on the solicitor to take care that the client thoroughly understands not merely the terms but also the effect of such an agreement, otherwise it will be unenforceable. … Berger J.A. then said at p. 71: In my opinion, the same considerations apply to non-contingent fee agreements. In my opinion, an agreement for fees must be construed as of the date upon which it is made and not after settlement has taken place. … Rule 613 factors apply to the taxation of a solicitor's account absent any agreement as to fees, or when an agreement invokes or can be interpreted to invoke the Rule. If a solicitor and his or her client have not agreed beforehand on what the solicitor's charges will be, the solicitor is entitled to reasonable compensation on a quantum meruit basis, to be measured by the factors listed in Rule 613. Both the solicitor and the client can marshall the recited factors in support of their respective positions. And at p. 72, he said: Rule 613 and its recited factors do not accrue to the benefit of a law firm seeking a fee greater than the hourly rate specified in a retainer agreement. … It is an error to confuse the right to tax with the right to seek a greater fee than that contracted for. If a lawyer seeks to recover the amount owing on an unpaid statement of account delivered to his client, he may do so by taxing his account and thereafter applying for a fiat to enter the taxed solicitor/client bill as a judgment. … A lawyer may also invoke the Rule to demonstrate to the client the appropriateness of the fee. But, it is not open to the lawyer to invoke Rule 613 to increase the fees beyond what was contracted for. He concluded, at pp. 73–74: In my opinion, the fundamental principle governing legal fees is that a solicitor may not stipulate for, charge or accept any fee that is not fully disclosed, fair and reasonable. In the absence of an express agreement, the solicitor's obligation of utmost good faith precludes the reservation of a right to charge a bonus if there is a resounding success. A “premium” fee based on a favourable result in the absence of full prior disclosure is wholly inconsistent with the obligation of the solicitor to clearly and fairly advise a client of the terms of his or her contract. … The solicitor and client can make any express contract which they desire. It follows that if, after the litigation smoke clears, a retainer contract is relied upon by a solicitor to exact a “premium” fee based on “the difficulty and importance of matters” and “the results obtained”, the authority to do so must be expressly stated. 4. Office Handling and Service Charge With regard to the item $20 for office handling and service charge, this seems to be an afterthought to obtain an extra $20. A lawyer is not a general contractor entitled to charge a supervision fee, nor is he a finance company entitled to charge service charges. In my view, that $20 should not be allowed. Wainco Oil & Gas Ltd. v. Solick, supra, at 394. 5. Common law factors under R. 10.2(1) In Rath & Co. v. Sweetgrass First Nation, 2013 ABQB 165, 2013 CarswellAlta 399, 559 A.R. 12, 85 Alta. L.R. (5th) 219, Justice Tilleman discussed (at paragraphs 77–78) the common law factors to be considered under Rule 10.2(1): 77 Common law factors to be included under rule 10.2(1) include the difficulty of the matter; the monetary value at stake; the competence of the lawyer; the results achieved; the client's expectations regarding fees; and the client's ability to pay: MacDonald & Freund v. Chernetski (1987), 81 AR 142 at paras 21–26, 29–46 (QB) [MacDonald], Witten Binder at paras 27–30. Understandably, the solicitor's bill, which is the solicitor's conscientious estimate of the value of the work performed, is an important consideration in a review proceeding: McLennan Ross 1 at para 9. 78 Principles of contractual interpretation suggest the interpretive principle of contra proferentem applies to retainer agreements and their reasonableness is considered in the context of the circumstances known to the parties at the time the agreement was signed: Rod Pantony Corp at paras 12, 21 and 29, rule 10.19(2). 6. Reasonableness and Factors to Be Considered Reasonableness can be looked at at the date when the work is completed. Usipuik v. Jensen, Mitchel, [1987] 1 W.W.R. 120 at 125 (B.C. S.C.). The factors to be used in assessing an appropriate fee were dealt with in Yule v. Saskatoon (1955), 16 W.W.R. (N.S.) 305 (Sask. Q.B.), at 313: In fixing the remuneration of the plaintiff in this case all factors essential to justice and fair play must be taken into account: Re Solicitor (1920), 47 O.L.R. 522; affirmed on appeal, 48 O.L.R. 363. The circumstances to be considered in arriving at the proper amount are the extent and character of the services rendered; the labour, time and trouble involved; the character and importance of the litigation in which the services were rendered; the amount of money or the value of the property to be affected; the professional skill and experience called for; the character and standing in his profession of the counsel; the results secured, and to some extent at least the ability of the client to pay: Murphy v. Corry (1906), 7 O.W.R. 363. A client's expectations are an additional factor to consider …MacDonald & Freund v. Chernetski (1987), 81 A.R. 142 (Q.B.), at 145–46, per Picard J. 7. Ability to pay I interpret para. (b) as dealing with the ability of the client to pay. Here, because the client is able to pass the bill on to the oil company, there are no straitened circumstances of the client which might require a reduction from the ordinary fee. Wainco Oil & Gas Ltd. v. Solick (1987), 49 Alta. L.R. (2d) 390 (Q.B.), at 393, per Cavanagh J. 8. Source of fund I interpret para. (c) as being applicable when it is a question of paying the fees out of an estate or a trust fund to which the parties are all entitled. I do not interpret it as warranting an increased fee because an oil company has the means to pay more. Wainco Oil & Gas Ltd. v. Solick, supra, at 393. 9. History of Costs and the Principles An interesting review of the history of costs and the applicable principles is found in Alberta Treasury Branches v. 14010507 Alberta Ltd., 2013 ABQB 748, 2013 CarswellAlta 2719, 579 A.R. 152."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_2_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_006",
+        "part10_rule_10_2_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_008"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "d121fd38ec438b8383256861a3e427b4adc92c1c9473d12efe638ae546228add",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Payment for lawyer’s services and contents of lawyer’s account",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "3a6d6ab391c7ce988321496a147f765814f6a45335f46142102fae2f10cd3614",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The default method used to assess legal accounts where no retainer agreement is found is rule 10.2.1 Rule 10.2(1) introduces a reasonableness measure shaped by four specific but hard-to- similar conclusions as to what is a reasonable amount. The value of this process is not PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "441-460_10_1 to 10_10.json",
+        "source_file": "441-460_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.2",
+      "title_official": "Payment for lawyer’s services and contents of lawyer’s account"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "1eca737d6d8bd454a5de4ce2c4c65ccd729bc64b0dff44ea94e4b487edc715c2",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            67,
+            216
+          ],
+          "book_pages": [
+            "10-3",
+            "10-4",
+            "10-5",
+            "10-6"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "d121fd38ec438b8383256861a3e427b4adc92c1c9473d12efe638ae546228add",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "3a6d6ab391c7ce988321496a147f765814f6a45335f46142102fae2f10cd3614",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "441-460_10_1 to 10_10.json",
+          "source_file": "441-460_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "6c9217e7cf183d6032fef33ee55c27071b4cfdb6bb8ab5e74c663a98b68fbc64",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            193,
+            194
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "0db72ec898d8d3f4b319f451603894b2fdf68cba23deae3f9fae0fc205df57b0"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.2 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.2 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.2 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.2 BOOK_C commentary sentence split dropped",
+    "10.2 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

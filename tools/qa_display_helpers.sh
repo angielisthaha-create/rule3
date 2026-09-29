@@ -113,3 +113,14 @@ gate_all3() {
   rm -f "$g"
 }
 # Python helpers take the Part from the environment: ARC_PART=3 python3 tools/show_rule_notes.py 2
+
+# ---- Part 10 ------------------------------------------------------------------------------------------------
+# Validate every Part 10 subrule's gate record. Usage: gate_all10 [first] [last]   (default 1 55)
+gate_all10() {
+  local g; g=$(mktemp)
+  for i in $(seq "${1:-1}" "${2:-55}"); do
+    python3 -c "import json;json.dump(json.load(open('rule10_subrules/10.$i.json'))['three_book_gate'],open('$g','w'))"
+    printf '10.%s ' "$i"; python3 tools/validate_three_book_gate.py "$g" | grep -o '"valid": [a-z]*'
+  done
+  rm -f "$g"
+}

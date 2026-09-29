@@ -1,0 +1,291 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.32",
+  "title": {
+    "official": "Costs in class proceeding",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rule, Considerations and Court Authority"
+  },
+  "operative_text": {
+    "controlling": "10.32   In a proceeding under the Class Proceedings Act or in a\nrepresentative action, the Court, in determining whether a costs\naward should be made against the unsuccessful representative\nparty, may take into account one or more of the following factors,\nin addition to any other factors the Court considers appropriate:\n(a) the public interest;\n(b) whether the action involved a novel point of law;\n(c) whether the proceeding or action was a test case;\n(d) access to justice considerations.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "f2d1efa601fedd875908cfed22e0ecbdd7b1d0c0381c8b0da96ad4ca133428e5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.32 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          210
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Costs in Class Proceeding",
+      "operative_text_raw": null,
+      "operative_text_sha256": "1db717f80bfe53d4e83ec1271ee6d7044ff29745557ef811b6d4243bcb458b63",
+      "related_provisions": "2.61 (representative actions)",
+      "commentary": "Costs are discretionary in all suits, even class actions.²\nDecisions from other provinces can be\nmisleading, as often their legislation on costs in class actions is different, even opposite.³\nThe factors in Rr.10.32 and 10.33 are not naturally exclusive; the reference in R.10.32 includes\nR.10.33’s factors. And R.10.33 on reducing costs can be inﬂuenced by R.10.32 factors, on “any\nother matter related”.⁴\nWhich factor in Rr.10.32 and 10.33 to use in an individual case, is up to the\ntrial judge, even in a failed class action.⁵\nFor costs, access to justice is relevant and disabled elderly people can be a “disadvantaged\ngroup”.⁶\nIn a class actions costs, what relation the elderly disabled had with their counsel and how\nit was funded, are relevant.⁷\nBehavior modiﬁcation is a legitimate consideration for party-party costs, especially in a class\naction.⁸\nThat the suit is a class action is itself also relevant.⁹\nDeep pockets are generally irrelevant,\nbut have some weight in a class action.¹⁰\n\nIt took years of litigation, in ﬁve provinces, with appeals and objections by large commercial\ncompanies advancing their own common interests, not any public interest, to get approval to\nsettle class actions, for over $45 million. So three times Column 5 was awarded as costs for that\napproval process.¹",
+      "footnotes": [
+        {
+          "page": "10-103",
+          "number": 2,
+          "text": "Kerr v. Danier Leather 2007 SCC 44, [2007] 3 SCR 331."
+        },
+        {
+          "page": "10-103",
+          "number": 3,
+          "text": "Macaronies Hair Club &c. v. BofA Can. Bank (#_) 2022 ABQB 143, 36 Alta LR(7th) 354 (¶’s 12-13). Even if a provincial statute bars costs of a failed class action, that does not bind the Supreme Court of Canada, and it can award costs to the defendants of a failed Supreme Court of Canada appeal: Sharbern Hldg. v. Vancouver Airport Centre 2011 SCC 23, 416 NR 1."
+        },
+        {
+          "page": "10-103",
+          "number": 4,
+          "text": "Elder Advocates of Alta. Socy. v. Alta. Health Serv. (#__) 2021 ABCA 67, 21 Alta LR(7th) 128 (¶ 24)."
+        },
+        {
+          "page": "10-103",
+          "number": 5,
+          "text": "Elder Advocates v. Alta. Health (#__), supra (¶ 25)."
+        },
+        {
+          "page": "10-103",
+          "number": 6,
+          "text": "Elder Advocates v. Alta. Health (#__), supra (¶ 37)."
+        },
+        {
+          "page": "10-103",
+          "number": 7,
+          "text": "Elder Advocates v. Alta. Health (#__), supra (¶ 40)."
+        },
+        {
+          "page": "10-103",
+          "number": 8,
+          "text": "Bell Mobility v. Anderson (#3) 2015 NWTCA 3, [2015] 2 WWR 215 (¶ 113)."
+        },
+        {
+          "page": "10-103",
+          "number": 9,
+          "text": "id. at ¶ 114."
+        },
+        {
+          "page": "10-103",
+          "number": 10,
+          "text": "id. at ¶ 116."
+        },
+        {
+          "page": "10-104",
+          "number": 1,
+          "text": "Macaronies Hair Club, supra (¶’s 8-11, 17-21)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          5491,
+          5543
+        ],
+        "book_pages": [
+          "10-103",
+          "10-104"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Costs in class proceeding",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.32:1",
+          "text": "Rule 10.32 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.32. In Andriuk v. Merrill Lynch Canada Inc., 2014 ABQB 28, 2014 CarswellAlta 61, 578 A.R. 85, 60 C.P.C. (7th) 437, Madam Justice Martin discussed the approach to follow when considering an award of costs in class proceedings. She said, at paragraphs 1, 3, and 4: 1 S.L. MARTIN J.:—This judgment concerns one issue: should the court exercise its discretion to award a multiplier on the costs the plaintiffs agreed to pay after their application to have their claim certified as a class action was dismissed. Alberta is one of a few jurisdictions in Canada that permits costs awards in class proceedings. Nevertheless, any award remains in the discretion of the court, in accordance with the Rules of Court. It is possible that costs will not always follow the event when an application for certification is dismissed because of the underlying goals of class proceedings: the aggregation of claims to pursue efficiency, access to justice and behaviour modification. … 3 Courts have the discretion to award enhanced costs. According to Morrison Petroleum Ltd. v. Phoenix Canada Ltd. (1998), 236 AR 95 some relevant factors to consider when addressing claimed increases to the tariffs include: the difficulty and complexity of the issues; the importance of the case between the parties and or the community at large; the length of the trial; the position and relationship of the parties and their conduct prior to and during the course of the trial; and other factors which may affect the fairness of a cost award. Such factors may have some bearing in a class proceeding. See also Eaton v. HMS Financial Inc., 2010 ABQB 364. 4 The defendants claim that a multiplier is justified based on the difficult and complex issues in this case, the conduct of the litigation, and the resulting length of the application. It is to be remembered that an application for certification as a class action is a preliminary and interlocutory step governed by legislation. If certification is denied, the action proceeds as an individual action, based upon the filed statement of claim. The certification process adds another step in the litigation and involves a multi-part statutory test. To some extent, the mere framework of class proceedings adds difficulty and complexity to any litigation. However, in my view it is not appropriate to conclude that enhanced costs should apply automatically to certification proceedings. The factor of the difficulty and complexity of the issues ought to be gauged by reference to other certification applications. In the end, Madam Justice Martin concluded that in the case before her: 6 However, based on the other factors I have concluded that no multiplier is justified in the circumstances. The complexity and delay are dealt with by allowing recovery for each step in fact taken and the missing elements led to the dismissal of the application. This matter is of significance to the plaintiffs and the larger investor community. Each party has argued the misconduct of the other and case law supports the use of multipliers to discourage behaviours that increase the duration and expense of litigation. However, while the application took some time to be heard and was hard-fought at all stages, I am not prepared to say that that any impugned conduct is sufficient to warrant enhanced costs. 7 Other factors to be considered in relation to the fairness of enhanced costs include the fact that no multiplier was requested or granted in relation to the two previous costs awards in this case: one in favor of each party. Further, a court should consider whether significantly enhanced costs at the preliminary stage may have a disproportionately negative impact on the progress of a filed action. 8 For these reasons no multiplier is granted …. For an example of Rule 10.32 being applied, see: Elder Advocates of Alberta Society v. Alberta, 2020 ABQB 54, 2020 CarswellAlta 96, 96 C.C.L.I. (5th) 236; appeal dismissed 2021 ABCA 67."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_32_001",
+        "part10_alberta_rules_of_court_rule_10_part_9_001",
+        "part10_rule_10_32_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part09_document.json"
+        ]
+      },
+      "operative_text_sha256": "8e397e1fc1b7519209ada71b4dd8e86de00ff4878865a84af086bc9392f7ab7b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Costs in class proceeding",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "080eef35196065a8c358ee6913bd0d3788952cd0b708e2644a6857cbc309bc45",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General principles",
+          "text": "There is overlap between the factors in rules 10.32 and 10.33. Rule",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "merged_duplicate_entries": [
+        {
+          "file": "481-500_10_32 to 10_46.json",
+          "parsed_title": "Costs in class proceeding",
+          "role": "kept as rule entry",
+          "rule_text_of_merged_entry": null
+        },
+        {
+          "file": "481-500_10_32 to 10_46.json",
+          "parsed_title": "applies in addition to, rather than substituting, the general rules dealing with cost awards such as rules 10.28",
+          "role": "merged into it",
+          "rule_text_of_merged_entry": "10.31, 10.33 and 14.88. They are all open for consideration in addressing possible costs against a representative plaintiff. Elder Advocates of Alberta Society v. Alberta Health Services, [2021] A.J. No. 245, 2021 ABCA PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS"
+        }
+      ],
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.32",
+      "title_official": "Costs in class proceeding"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "1db717f80bfe53d4e83ec1271ee6d7044ff29745557ef811b6d4243bcb458b63",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            5491,
+            5543
+          ],
+          "book_pages": [
+            "10-103",
+            "10-104"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "8e397e1fc1b7519209ada71b4dd8e86de00ff4878865a84af086bc9392f7ab7b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part09_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "080eef35196065a8c358ee6913bd0d3788952cd0b708e2644a6857cbc309bc45",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "f2d1efa601fedd875908cfed22e0ecbdd7b1d0c0381c8b0da96ad4ca133428e5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            210
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "1cc70ba4a15ea8907950536ad456a8113fb7bc2e7030d51fb27ae698f6d1dd9a"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.32 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.32 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.32 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.32 BOOK_C commentary sentence split dropped",
+    "10.32 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

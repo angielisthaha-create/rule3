@@ -1,0 +1,329 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.26",
+  "title": {
+    "official": "Appeal to judge",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 5,
+    "heading": "Appeal from Review Officer’s Decision"
+  },
+  "operative_text": {
+    "controlling": "10.26(1)  A party to a review officer’s decision under this Division\nmay appeal the decision to a judge.\n(2)  The appeal from a review officer’s decision is an appeal on the\nrecord of proceedings before the review officer.\n(3)  The record of proceedings is\n(a) Form 42 served under rule 10.13(2),\n(b) the material the parties filed to support or oppose, or that\nwas required for, the review,\n(c) the transcript of the proceedings before the review officer,\nunless the judge waives this requirement, and\n(d) the review officer’s certificate.\n(4)  The appellant must file and serve on the respondent to the\nappeal, within one month after the date of the review officer’s\ndecision,\n(a) notice of the appeal in Form 43 including the date, time\nand place of the hearing,\n(b) the record of proceedings described in subrule (3) or, if\nthe transcript is not available at the time of filing,\nconfirmation that the transcript of the proceedings has\nbeen ordered, and\n(c) any further written argument.\n(5)  The respondent to the appeal must, within 10 days after service\nof the notice of appeal, file and serve on the appellant any written\nargument the respondent wishes to make.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "77d4c5c47ee7941677bc52c9bc7c48dfdc2eda43521d9ae0e50418513fbaec50"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          205,
+          206
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Appeal to Judge",
+      "operative_text_raw": null,
+      "operative_text_sha256": "81d7281a8415be794369ee150affd0e9951afc01b909ab8824acef2fb7a77447",
+      "related_provisions": "10.44 (appeal from assessment officer)",
+      "commentary": "The time limits in R.10.26(4) should be watched carefully. They could be extended under R.\n13.5, but one would have to explain the delay and maybe show merit to the appeal.¹\nExtending\nthe time to review is discussed in the Samson Cree case.²\nWould those criteria apply by analogy\nhere? Or would some of them?\nSuch appeals can be difﬁcult for several other reasons:\n1. They are conﬁned to the evidence before the review ofﬁcer,³\nbut parties rarely think to ask\nto have the evidence before that ofﬁcer recorded or kept.⁴\nSome review ofﬁcers used not\nto allow a court reporter to attend (which is a fundamental error and injustice). The ofﬁcer\nprobably records on the \"FTR\" system now, but often the paper record is deﬁcient, and\na lot of oral communications or even credibility are involved. Unless the chambers judge\nwants to conduct a long hearing de novo,⁵\nan appeal may be hopeless without a proper\nrecord. If for the ﬁrst time, on appeal the judge or judges ﬁnds the retainer unreasonable,\nthen for the ﬁrst time more evidence becomes relevant and need not meet the Palmer\ntest for new evidence on appeal.⁶\nWhat salaried lawyers or judges earn has little weight,\nas they are paid promptly and without exception and so are risk free. Nor are contingent\nreal estate commissions relevant, nor income taxes.⁷\nIf the retainer agreement is held\nunenforceable on appeal, the appeal court can ﬁx the fees on any reasonable basis, not\nmerely the one in the agreement.⁸\n2. The courts will not change the result of a review without proof of some error in law\nor principle affecting the result, or a result which is clearly outside the proper range.⁹\nThat is partly because the ofﬁcer has specialized knowledge and experience, and partly\nbecause he or she gets the evidence ﬁrst hand.¹⁰\nOn deference by a judge on appeal, see\n\nfurther the Court of Appeal in the Betzer case.¹\nDeciding a topic which he had no power\nto decide, would be error in principle by the review ofﬁcer.²\nExamples of reviewable error\nby the ofﬁcer are given.³\nStrictly speaking, the size of a proper fee is a question of weight,\nnot of discretion.⁴\nBut interpretation of a fee contract is a question of law decided on a\ncorrectness standard, and there is no question then of deferring to the review ofﬁcer’s fact\nﬁndings.⁵\nLeave to appeal from an assessment to a judge was refused, as the appeal had little chance\nof success, given the standard of review.⁶\nWhere an assessment ofﬁcer feels unable to deal with the amount of fees, because of serious\nissues of fact and law about the contract between the parties, or lack of a contract, no leave is\nnecessary to appeal to the Court of Appeal from a chambers judge’s appeal from the assessment\nofﬁcer.⁷\nA local registrar or taxing ofﬁcer taxing a lawyer’s account to his or her client looks at what the\nwork done was worth and what agreements, arrangements, estimates, or legislation governed\nsuch amounts. It is about quantum, not about whether there was any duty to pay fees at all.⁸\nTo try\nto appeal on the grounds of no liability to pay at all is an attempted collateral attack on a decision\nto refer to the local registrar or taxing ofﬁcer.⁹\nAn appeal about a dispute between a lawyer and his client over the lawyer’s fees is probably\nnot “as to costs only” requiring leave to appeal to the Court of Appeal. “Costs” normally refers\nto payments between opposing parties. And review of a lawyer’s contingency fee agreement is\ndeﬁnitely not as to costs alone, as it raises other issues of principle, and no previous decision\nholds that that is as to “costs alone”. So leave is not needed.¹⁰\nA decision of a Review Ofﬁcer may be upset and a new review ordered, if the Ofﬁcer failed to\ndecide a basic topic, such as whether the legal accounts being reviewed were interim or ﬁnal.¹¹",
+      "footnotes": [
+        {
+          "page": "10-40",
+          "number": 1,
+          "text": "See further the C. P. E. , Chapter 73, Parts P.1 to P.6, and Cowling v. Carpenter, infra."
+        },
+        {
+          "page": "10-40",
+          "number": 2,
+          "text": "Samson Cree N. v. O’Reilly & Associés 2014 ABCA 268, 375 DLR(4th) 663."
+        },
+        {
+          "page": "10-40",
+          "number": 3,
+          "text": "R.10.26(2)."
+        },
+        {
+          "page": "10-40",
+          "number": 4,
+          "text": "In practice the proceedings are usually sound recorded now, but the papers are not kept."
+        },
+        {
+          "page": "10-40",
+          "number": 5,
+          "text": "Which is rarely done: Panther Petr. v. Code Hunter (#2) 2002 ABQB 158. Especially if the parties waived recording the evidence: ditto. Indeed it is now very hard to admit new evidence on appeal, maybe impossible: Fraser Milner Casgrain v. Kristof Finl.2012 ABQB 359, 541 AR 245."
+        },
+        {
+          "page": "10-40",
+          "number": 6,
+          "text": "Tallcree F. N. v. Rath & Co.2022 ABCA 174, Edm 2103 0093 AC (May 11) (¶’s 107-08), leave den (SCC 16 Mar ’23)."
+        },
+        {
+          "page": "10-40",
+          "number": 7,
+          "text": "id. at ¶’s 114-17."
+        },
+        {
+          "page": "10-40",
+          "number": 8,
+          "text": "Tallcree v. Rath, supra (¶ 110)."
+        },
+        {
+          "page": "10-40",
+          "number": 9,
+          "text": "See the C. P. E. , Chapter 73, Parts P.9 to P.12; Panther v. Code Hunter, supra; Fontaine v. Veylan 2002 ABQB 327, 307 AR 390; Putnam v. Reynolds Mirth & Co.2002 ABQB 53, 305 AR 397; Gunn & Prithipaul v. Daniel 2005 ABQB 6; Tang v. Muwais 2014 ABQB 511, [2014] AR Uned 540; Cowling v. Carpenter 2014 ABQB 460, 591 AR 280; Bertram Family Tr. v. Felesky Flynn 2024 ABKB 341, JCE 2203 09727 (Jun 11) (¶’s 35, 38) ; dicta in Larocque v. Kantor LLP 2024 ABKB 327, JCC 2101 13183 (May 31) (¶ 12). But cf. Tallcree F. N. v. Rath & Co. (#2) 2021 ABQB 234, JCE 1803 05262 (Mar 26), vard 2022 ABCA 174. A number of examples of reviewable error, what is error in principle, and what are sufﬁcient reasons by the review ofﬁcer, are discussed, in Repchuk v. Silverberg 2013 ABQB 305, 563 AR 245 (¶’s 38-58). Nor will the judge hearing the appeal retry even credibility ﬁndings by the taxing ofﬁcer: Brown v. Snyder & Assoc. 2004 ABQB 899, 264 AR 266. A chambers judge was wrong to reverse a taxation of a solicitor’s account without identifying some error in principle or palpable error: Dear v. McLennan Ross 2008 ABCA 137, 429 AR 75. But questions of contractual interpretation are questions of law: Morrison v. Rod Pantony P. C.2008 ABCA 145, 429 AR 259 (¶ 11)."
+        },
+        {
+          "page": "10-40",
+          "number": 10,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2020 ABQB 732, JCE 1803 16987 (Nov 24) (¶’s 34-36), affd 2021 ABCA 129, Edm 2003 0226 AC. And see Adebisi v. Dentons Can.2023 ABKB 452, JCE 2103 13357 (Jul 31) (¶’s 24-28, 41-52) ; Bertram Family Tr. v. Felesky Flynn 2024 ABKB 341, JCE 2203 09727 (Jun 11) (¶ 35)."
+        },
+        {
+          "page": "10-41",
+          "number": 1,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2021 ABCA 129, [2021] AJ #480 (¶ 12)."
+        },
+        {
+          "page": "10-41",
+          "number": 2,
+          "text": "Cowling v. Carpenter, supra."
+        },
+        {
+          "page": "10-41",
+          "number": 3,
+          "text": "Betser-Zilevitch v. Prowse Chowne, supra (¶ 35) ; Bertram Family Tr. v. Felesky Flynn, supra (¶’s 36, 55)."
+        },
+        {
+          "page": "10-41",
+          "number": 4,
+          "text": "Panther v. Code Hunter, supra."
+        },
+        {
+          "page": "10-41",
+          "number": 5,
+          "text": "McDonald Crawford v. Morrow 2004 ABCA 150, 348 AR 118; Dear v. McLennan Ross, supra. The Supreme Court of Canada may have modiﬁed that rule (standard of review) for all contracts?"
+        },
+        {
+          "page": "10-41",
+          "number": 6,
+          "text": "Rocks v. Ian Savage P. C. (#1) 2015 ABCA 77, Calg 1401 0283 AC (Mar 2), leave den (SCC 1 Oct ’15)."
+        },
+        {
+          "page": "10-41",
+          "number": 7,
+          "text": "Stubbard v. Hajduk Gibbs 2015 ABCA 73, Edm 1403 0288 AC (one JA Feb 20)."
+        },
+        {
+          "page": "10-41",
+          "number": 8,
+          "text": "Barth v. McDougall Gauley 2022 SKCA 67, CACV 3785 (Jun 2) (¶’s 32-33)."
+        },
+        {
+          "page": "10-41",
+          "number": 9,
+          "text": "Barth v. McDougall, supra (¶ 34)."
+        },
+        {
+          "page": "10-41",
+          "number": 10,
+          "text": "Tallcree F. N. v. Rath & Co.2020 ABCA 433, [2020] AJ #1321 (one JA)."
+        },
+        {
+          "page": "10-41",
+          "number": 11,
+          "text": "See the Larocque decision in R.10.19 n."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1867,
+          1992
+        ],
+        "book_pages": [
+          "10-39",
+          "10-40",
+          "10-41"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Appeal to judge",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.26:1",
+          "text": "Rule 10.26 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.26. Review by a Judge of Court of Queen's Bench Accordingly, I am prepared to deal with the matter on the basis that I have already set out in Petty v. Bishop & McKenzie (1977), 2 A.R. 241, and repeat what I said at pp. 243–244: One cardinal rule is that a Judge should not overrule a Taxing Officer except where the Officer has proceeded on a wrong principle … Where the appeal is largely on the basis that the bill is too high for the services rendered the following appear to be the guiding principles: R. v. Curry (1920), 47 O.L.R. 45. Middleton, J., said at p. 47: It is settled practice that the Court will not interfere in matters left to the discretion of the Taxing Officer on any question of quantum … (To interfere here would be to substitute my discretion for that of an officer whose duty it is to pass on the quantum of counsel fees,) and whose discretion is by the law made the touchstone. Had any error of principle been pointed out, I might have interfered. This decision was approved by Cormack, J., in Rusnak v. Edge (1982), 48 A.R. 311. A recent decision of the Alberta Court of Appeal in Mercantile Bank and Keen v. McLennan Ross (September 10, 1987), Appeal No. 8703-0434-AC revisited this area of the law. Kerans, J.A., said at p. 3: The correct standard of review in the circumstances to apply in circumstances of this case is whether the award of the taxing officer was so inordinately high or low as to require interference: the learned chambers judge did not apply that standard, and his decision cannot be left to stand. Jackie & Handerek v. Dohman (1987), 83 A.R. 308 (Q.B.), at 312, per Miller A.C.J. In Pacholok v. Neil W. Nichols Professional Corp. (1991), 79 Alta. L.R. (2d) 289, the Court of Appeal reaffirmed the test set forth in McLennan Ross, and at p. 293 quoted from the reasons of Stevenson J.A.: In McLennan Ross v. Mercantile Bank of Can. (1988), 59 Alta. L.R. (2d) 369 … this court established the test for judicial review of a taxing officer's decision. Stevenson J.A. said, at p. 313: “In my view in Alberta the primary question on review of a quantum fixed by a taxing officer is (as in many other jurisdictions) whether he had made an error of principle, or whether the award is inordinately high or low."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_26_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_044",
+        "part10_rule_10_26_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_046"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "24a0d85a49c968ee7b5ec03d082b03038cfb9c94c237030b9ca520fe844de6c4",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Appeal to judge",
+      "division_heading": null,
+      "operative_text_raw": "(1) A party to a review officer’s decision under this",
+      "operative_text_sha256": "cc47889c6c551ce79cd0d1b6dd4885e3b82ae68b577811685d34062270253880",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.0957,
+      "differences": [
+        {
+          "op": "delete",
+          "official": "division may appeal the decision to a judge. (2) the appeal from a review officer's decision is an appeal on the record of proceedings before the review officer. (3) the record of proceedings is (a) form 42 served under rule 10.13(2), (b) the material the parties filed to support or oppose, or that was required for, the review, (c) the transcript of the proceedings before the review officer, unless the judge waives this requirement, and (d) the review officer's certificate. (4) the appellant must file and serve on the respondent to the appeal, within one month after the date of the review officer's decision, (a) notice of the appeal in form 43 including the date, time and place of the hearing, (b) the record of proceedings described in subrule (3) or, if the transcript is not available at the time of filing, confirmation that the transcript of the proceedings has been ordered, and (c) any further written argument. (5) the respondent to the appeal must, within 10 days after service of the notice of appeal, file and serve on the appellant any written argument the respondent wishes to make.",
+          "carrier": ""
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.26",
+      "title_official": "Appeal to judge"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "81d7281a8415be794369ee150affd0e9951afc01b909ab8824acef2fb7a77447",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1867,
+            1992
+          ],
+          "book_pages": [
+            "10-39",
+            "10-40",
+            "10-41"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "24a0d85a49c968ee7b5ec03d082b03038cfb9c94c237030b9ca520fe844de6c4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "cc47889c6c551ce79cd0d1b6dd4885e3b82ae68b577811685d34062270253880",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "77d4c5c47ee7941677bc52c9bc7c48dfdc2eda43521d9ae0e50418513fbaec50",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            205,
+            206
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "1f8de9ac93ca5f43da901a3f89c2ab39edda373403b31c6a97b331f2dca4d26a"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.26 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.26 BOOK_B: operative text dropped (EXACT_MATCH)"
+  ]
+}

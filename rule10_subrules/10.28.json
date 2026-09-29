@@ -1,0 +1,247 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.28",
+  "title": {
+    "official": "Definition of “party”",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rule, Considerations and Court Authority"
+  },
+  "operative_text": {
+    "controlling": "10.28   In this Division, “party” includes a person filing or\nparticipating in an application or proceeding who is or may be\nentitled to or subject to a costs award.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "46b1ab8fcfabaffded6239f7ca1f54e08e01dd47477702756f1745a501c7ce81"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.28 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          207
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Deﬁnition of “Party”",
+      "operative_text_raw": null,
+      "operative_text_sha256": "1e200e50db1200bc2606c7f8d20fb1a27e91fc92259c85e67d1248c897ea25e0",
+      "related_provisions": "Appendix - “party”; 10.50 (costs payable by lawyer)",
+      "commentary": "The court can make a costs order against a non-party who ﬁled a document or participated in\nan application, or opposed an application made by the court on its own motion,¹\neven if the court\ninvited certain persons thus to join in.²\nAn insurer was the real instigator of the litigation and the real one who would have beneﬁtted,\nand had been told that it would have to pay costs. Costs were ordered against it when its side lost.³\nEven where there are exceptional circumstances (no one to argue the other side), if a tribunal\nargues its powers or the merits properly before the Court of Appeal, lack of misconduct does not\nimmunize it from paying costs if it loses.⁴",
+      "footnotes": [
+        {
+          "page": "10-43",
+          "number": 1,
+          "text": "1985 Sawridge Tr. v. Pub. T’ee. (Stoney v. Twinn) (#9) 2018 ABQB 213, [2018] 7 WWR 411 (¶’s 17, 18), revd 2019 ABCA 244, Edm 1803 0076 AC (citing this book) ; Dezotell Hldg. v. St. -Jean (#2) 2019 ABQB 476, 99 Alta LR(6th) 368 (¶’s 9-16) (participated in motion and appeal, and one ﬁled evidence and a brief)."
+        },
+        {
+          "page": "10-43",
+          "number": 2,
+          "text": "Wang v. Alta.2022 ABCA 79, Calg 2101 0003 AC (Mar 4) (¶’s 19-23) (vexatious litigant process joined with parties affected)."
+        },
+        {
+          "page": "10-43",
+          "number": 3,
+          "text": "Ernst & Young v. Cent. Guar. Tr.2010 ABQB 26, 479 AR 202 (¶’s 88-113)."
+        },
+        {
+          "page": "10-43",
+          "number": 4,
+          "text": "Univ. of Calg. v. J. R.2015 ABCA 118, 382 DLR(4th) 299 (¶’s 52-56)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          2049,
+          2083
+        ],
+        "book_pages": [
+          "10-42",
+          "10-43"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Definition of “party”",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_28_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_052"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Definition of “party”",
+      "division_heading": "Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 10.28 is in Division 2 (Recoverable Costs of Litigation) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.28",
+      "title_official": "Definition of “party”"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "1e200e50db1200bc2606c7f8d20fb1a27e91fc92259c85e67d1248c897ea25e0",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            2049,
+            2083
+          ],
+          "book_pages": [
+            "10-42",
+            "10-43"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "46b1ab8fcfabaffded6239f7ca1f54e08e01dd47477702756f1745a501c7ce81",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            207
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "6c8f2f817966efc497e859d35cfea678dffd937e74b85fd23098380e93a46ffa"
+  },
+  "information_notes": [
+    {
+      "text": "Party is defined in the Appendix [Definitions] as a party to an action. There are other Court\nproceedings that are not “actions” and so the definition of party is expanded to allow a costs\naward against anyone participating in an application or proceeding that is not an action\nstarted by statement of claim or originating application. `",
+      "carriers": [
+        "BOOK_A"
+      ]
+    },
+    {
+      "text": "PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+      "carriers": [
+        "BOOK_C"
+      ]
+    }
+  ],
+  "dedupe_log": [
+    "10.28 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.28 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.28 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.28 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

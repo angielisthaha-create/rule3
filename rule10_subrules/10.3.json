@@ -1,0 +1,253 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.3",
+  "title": {
+    "official": "Lawyer acting in representative capacity",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Lawyers’ Charges"
+  },
+  "operative_text": {
+    "controlling": "10.3(1)  A lawyer may charge lawyer’s fees for services performed\nas a lawyer whether or not the lawyer is also acting in the capacity\nof a guardian, mortgagee, personal representative or trustee.\n(2)  Despite subrule (1), a lawyer acting as a guardian, mortgagee,\npersonal representative or trustee is not entitled to be paid out of or\nto charge to a trust, an estate, a fund, mortgaged property or a\nmortgage loan for which the lawyer performs lawyer’s services\nunless\n(a) the Court orders the amount paid or charged,\n(b) every person interested in the trust, estate, fund,\nmortgaged property or mortgage loan is legally competent\nand agrees to the payment or the charge, or\n(c) the lawyer’s charges have been reviewed and certified by\na review officer.\n(3)  This rule does not apply to client funds held by a lawyer in the\nlawyer’s trust account.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "0a96928153b1271662851a695062217322f53e4d44d715681b925a01294de3c5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.3 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          194
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Lawyer Acting in Representative Capacity",
+      "operative_text_raw": null,
+      "operative_text_sha256": "398152fe52cb76b6d72fc0e0a94a22bce1d00324d045b86952840a903d30d476",
+      "related_provisions": null,
+      "commentary": "trustee\nA lawyer can act both as executor and as the lawyer for the estate, and bill for that; but if he\nor she does, the roles have to be kept distinct, and careful records made to distinguish the two.³\nA lawyer cannot justify a bill to an estate on the grounds that the deceased had agreed to the\nmethod of billing, without corroboration of the lawyer’s evidence about the agreement, particularly\nwhere on its face the agreement alleged seems to produce too high a fee.⁴\nOn an agreement about fees to an estate, see the Salmon case.⁵\nIf a co-trustee and guardian of an estate is a solicitor, the court must approve his or her fees\nor disbursements, and if they are taken without approval, the court can review the charges and\norder some paid back.⁶\nIf the solicitor does clerical work for the estate, the charges for that should\nbe lower than lawyers’ rates.⁷",
+      "footnotes": [
+        {
+          "page": "10-6",
+          "number": 9,
+          "text": "Quite similar to previous 1968 R.622. It came from 1914 R.753, and 1944 C. R.754."
+        },
+        {
+          "page": "10-7",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.623(1). It was similar to 1914 R.754, and 1944 C. R.755. Cf. (Imp. ) 6 & 7 Vict. c.7 s.39."
+        },
+        {
+          "page": "10-7",
+          "number": 2,
+          "text": "Quite similar to previous 1968 R.623(2). It came from 1914 R.754, and 1944 C. R.755. Cf. (Imp. ) 6 & 7 Vict. c.73 s.39."
+        },
+        {
+          "page": "10-7",
+          "number": 3,
+          "text": "Re Salmon Est. , infra. See also Re Boje Est.2006 ABQB 599, 405 AR 41."
+        },
+        {
+          "page": "10-7",
+          "number": 4,
+          "text": "Re Salmon Est. (#1) 2004 ABQB 598, 370 AR 316. Guidelines for a lawyer’s bill to an estate: Re Czaban Est.2005 ABQB 917."
+        },
+        {
+          "page": "10-7",
+          "number": 5,
+          "text": "Re Salmon Est. (#1), supra."
+        },
+        {
+          "page": "10-7",
+          "number": 6,
+          "text": "Pub. T’ee. v. Koska 2010 ABQB 239 (Apr 9)."
+        },
+        {
+          "page": "10-7",
+          "number": 7,
+          "text": "Pub. T’ee. v. Koska, supra."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          217,
+          263
+        ],
+        "book_pages": [
+          "10-6",
+          "10-7"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Lawyer acting in representative capacity",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_3_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_010"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "ec3a5b5f27f5a5ff0fb047e5f4e6b87020f705e777bb6d8ab9ed92740e235197",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Lawyer acting in representative capacity",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "5d45ad1713ecd3004279322dbb8fc05746add694c771ea36427771529629597c",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "441-460_10_1 to 10_10.json",
+        "source_file": "441-460_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.3",
+      "title_official": "Lawyer acting in representative capacity"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "398152fe52cb76b6d72fc0e0a94a22bce1d00324d045b86952840a903d30d476",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            217,
+            263
+          ],
+          "book_pages": [
+            "10-6",
+            "10-7"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "ec3a5b5f27f5a5ff0fb047e5f4e6b87020f705e777bb6d8ab9ed92740e235197",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "5d45ad1713ecd3004279322dbb8fc05746add694c771ea36427771529629597c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "441-460_10_1 to 10_10.json",
+          "source_file": "441-460_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "0a96928153b1271662851a695062217322f53e4d44d715681b925a01294de3c5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            194
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "37bd1e1689181b1f5220aca46f416eae338fe10b5cccade32338355683403c0a"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.3 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.3 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.3 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.3 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

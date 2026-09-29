@@ -1,0 +1,212 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.16",
+  "title": {
+    "official": "Absence of person at appointment for review",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.16   A review officer may, on proof of service of the notice of\nappointment for review, proceed with the review of a retainer\nagreement or a lawyer’s charges despite the absence of the person\nserved.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "3e5fe6fd5cec583db3c7dd62908b93403b81678456cda6f1d4bdf55dec5376e2"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.16 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          201,
+          202
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Absence of Person at Appointment for Review",
+      "operative_text_raw": null,
+      "operative_text_sha256": "c7684764b1a742e81719c9dc0356d7b918cc25718e72f1d6b3540cfb0132bf9f",
+      "related_provisions": "3.36 (failure to defend) ; 9.15(1) (b) (setting aside order on failure to appear) ; 10.14(3) (failure of lawyer to comply with rules); 10.40 (failure to appear on assessment)",
+      "commentary": null,
+      "footnotes": [],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1482,
+          1490
+        ],
+        "book_pages": [
+          "10-31"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Absence of person at appointment for review",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_16_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_014"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "ef3031b37af28100973e2e098885c7ab5054e0a55c13290ace1a545f6697fef6",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Absence of person at appointment for review",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "a9ba587775edcf106e2f583085b7a79be9f5a73c2ddd1c08c049c0fe4659f79b",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.16",
+      "title_official": "Absence of person at appointment for review"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "c7684764b1a742e81719c9dc0356d7b918cc25718e72f1d6b3540cfb0132bf9f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1482,
+            1490
+          ],
+          "book_pages": [
+            "10-31"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "ef3031b37af28100973e2e098885c7ab5054e0a55c13290ace1a545f6697fef6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "a9ba587775edcf106e2f583085b7a79be9f5a73c2ddd1c08c049c0fe4659f79b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "3e5fe6fd5cec583db3c7dd62908b93403b81678456cda6f1d4bdf55dec5376e2",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            201,
+            202
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b6bc888ce978ccc26148d7f1bfdcb5835d205e0aa9ac3e1c16e15ba768dc1307"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.16 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.16 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.16 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.16 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

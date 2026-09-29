@@ -1,0 +1,236 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.45",
+  "title": {
+    "official": "Decision of the judge",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 3,
+    "heading": "Appeal from Assessment Officer’s Decision"
+  },
+  "operative_text": {
+    "controlling": "10.45(1)  After hearing an appeal from an assessment officer’s\ndecision, the judge may, by order, do one or more of the following:\n(a) confirm, vary or revoke the decision;\n(b) revoke the decision and substitute a decision;\n(c) revoke all or part of the decision and refer the matter back\nto the same or another assessment officer;\n(d) make any other order the judge considers appropriate.\n(2)  If the amount of costs payable as originally assessed by the\nassessment officer has been paid and, after payment, is reduced on\nappeal, the judge hearing the appeal may order the return of the\nexcess by the party who has received it and the order may be\nenforced as an order of the Court.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "a6e6ce6bd049475753d8503c85df5b38844a64b280b0aab37713da3a385ae0c5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s10.45;163/2010",
+    "amending_regulations": [
+      "163/2010"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;163/10]"
+      ],
+      "BOOK_B": "Alta. Reg. 163/2010, s. 6",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.45 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*\n\nReg. 163/2010, s. 6]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          217
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Decision of the Judge",
+      "operative_text_raw": "10.45(1) After hearing an appeal from an assessment ofﬁcer’s decision, the\njudge may, by order, do one or more of the following:\n(a) conﬁrm, vary or revoke the decision;\n(b) revoke the decision and substitute a decision;\n(c) revoke all or part of the decision and refer the matter back to the\nsame or another assessment ofﬁcer;\n(d) make any other order the judge considers appropriate.\n(2) If the amount of costs payable as originally assessed by the assessment\nofﬁcer has been paid and, after payment, is reduced on appeal, the judge hearing\nthe appeal may order the return of the excess by the party who has received it\nand the order may be enforced as an order of the Court.⁵\n[Alta. Reg.124/10;163/10]",
+      "operative_text_sha256": "0776f20797ca666630a78b0776b17d5b1dbaf59f6ec3e761326d9f4e871bccdf",
+      "related_provisions": "10.26 (appeal from review officer)",
+      "commentary": "An appeal from an Assessment Ofﬁcer is on the record and gets deference because of the\nAssessment Ofﬁcer’s experience and knowledge.⁶",
+      "footnotes": [
+        {
+          "page": "10-136",
+          "number": 5,
+          "text": "Quite similar to previous 1968 R.648(3). It came from 1944 C. R.780, as amended by Alta. Reg.86/60. New R.10.45(2) was enacted by Alta. Reg.163/2010."
+        },
+        {
+          "page": "10-136",
+          "number": 6,
+          "text": "Vizor v.383501, supra (¶’s 80 ff. )."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7299,
+          7335
+        ],
+        "book_pages": [
+          "10-136",
+          "10-137"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Decision of the judge",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_45_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_032"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "f50a243fcde783ea39c607dd96b1cf098d12cb5375e2c2f174601786be2241ed",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Decision of the judge",
+      "division_heading": null,
+      "operative_text_raw": "(1) After hearing an appeal from an assessment officer’s decision, the judge may, by order, do one or more of the following:\n(a) confirm, vary or revoke the decision;\n(b) revoke the decision and substitute a decision;\n(c) revoke all or part of the decision and refer the matter back to the same or another assessment officer; and (d) make any other order the judge considers appropriate.\n(2) If the amount of costs payable as originally assessed by the assessment officer has been paid and, after payment, is reduced on appeal, the judge hearing the appeal may order the return of the excess by the party who has received it and the order may be enforced as an order of the Court.",
+      "operative_text_sha256": "2796bb72204c266dd13d47f78207146bae6852d2625bf46329b8e35c0767a3b1",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_HAS_EXTRA_TEXT",
+      "similarity": 0.9959,
+      "differences": [
+        {
+          "op": "insert",
+          "official": "",
+          "carrier": "and"
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.45",
+      "title_official": "Decision of the judge"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_HAS_EXTRA_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "0776f20797ca666630a78b0776b17d5b1dbaf59f6ec3e761326d9f4e871bccdf",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7299,
+            7335
+          ],
+          "book_pages": [
+            "10-136",
+            "10-137"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "f50a243fcde783ea39c607dd96b1cf098d12cb5375e2c2f174601786be2241ed",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "2796bb72204c266dd13d47f78207146bae6852d2625bf46329b8e35c0767a3b1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "a6e6ce6bd049475753d8503c85df5b38844a64b280b0aab37713da3a385ae0c5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            217
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "0bae3cc2dab2c2cf9cb9052c3f7c8e683a1b7b6452315242b3508531a34f4117"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.45 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.45 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.45 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

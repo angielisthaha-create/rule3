@@ -1,0 +1,268 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.18",
+  "title": {
+    "official": "Reference to Court",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.18(1)  A review officer\n(a) must refer any question arising about the terms of a\nretainer agreement to the Court for a decision or direction,\nand\n(b) may refer any question arising about a lawyer’s charges to\nthe Court for a decision or direction.\n(2)  The review officer may do all or any of the following:\n(a) require one party to serve another party or other interested\nperson with notice of the reference;\n(b) specify how a reference to the Court is to be prepared and\nby whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efficient\ndisposition of the reference.\n(3)  On considering a question referred to it, the Court may make\nany order it considers appropriate in the circumstances, including\n(a) an order to enforce a direction given under rule 10.17, or\n(b) with respect to a review of the terms of a retainer\nagreement, an order approving the agreement or varying\nor disallowing the agreement in whole or in part.\n(4)  If a contingency fee agreement is disallowed, the amount\npayable to the lawyer for the lawyer’s charges must be determined\nunder rule 10.2.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "b4afd305a81fa272501bec41bb9af9f010d89f0be686b7727ff1da11cb66e28f"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.18 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          202,
+          203
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Reference to Court",
+      "operative_text_raw": "10.18(1) A review ofﬁcer\n(a) must refer any question arising about the terms of a retainer\nagreement to the Court for a decision or direction, and\n(b) may refer any question arising about a lawyer’s charges to the Court\nfor a decision or direction.\n(2) The review ofﬁcer may do all or any of the following:\n(a) require one party to serve another party or other interested person\nwith notice of the reference;\n(b) specify how a reference to the Court is to be prepared and by whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efﬁcient disposition of\nthe reference.\n(3) On considering a question referred to it, the Court may make any order it\nconsiders appropriate in the circumstances, including\n(a) an order to enforce a direction given under rule 10.17 [Review\nofficer’s authority], or\n(b) with respect to a review of the terms of a retainer agreement, an order\napproving the agreement or varying or disallowing the agreement in\nwhole or in part.\n(4) If a contingency fee agreement is disallowed, the amount payable to the\nlawyer for the lawyer’s charges must be determined under rule 10.2 [Payment for\nlawyer’s services and contents of a lawyer’s account].",
+      "operative_text_sha256": "ef36b6676c59a29cb4b45a139a0c82af9b43d0b1c90b5fdc0835b73b235a2863",
+      "related_provisions": null,
+      "commentary": "review officer\n\nThe cases once were divided on whether the review ofﬁcer can decide whether there was a\nretainer or liability, or whether there must be a suit or trial of an issue before a judge to decide\nthat.¹\nBut in Alberta now the latter view seems to prevail because of R.10.18.²\nAt one time reviews\nwere by Clerks without legal training, but now when legally-trained ofﬁcers perform them, whether\nthe lawyer who rendered the account was negligent is a proper topic for the review.³\nIf a judge\nconsiders whether a solicitor was negligent, that is not a collateral attack on a review ofﬁcer’s\ndecision earlier, if the ofﬁcer could not and did not rule on the negligence question.⁴\nThe terms of the retainer agreement cannot be decided by the review ofﬁcer, and that includes\nquestions of interpretation, and includes implied retainer agreements or oral agreements.⁵\nA Review Ofﬁcer hearing a dispute about a legal bill has power to take evidence, even unsworn\nevidence. An allegation that the retainer (for an hourly charge) had been suspended and that\nfurther work was free, is a dispute about amount, and does not need a reference to the court\nunder this Rule.⁶",
+      "footnotes": [
+        {
+          "page": "10-34",
+          "number": 1,
+          "text": "See the C. P. E. , Chapter 82, Part Q, and Prowse Chowne v. Northey (Alta TO 2002) 38 CPC(5th) 370. Incompetence or breach of contract by the lawyer retained are not quantum topics, and a review ofﬁcer given an account to review cannot decide them, and so neither can a judge on appeal. A fresh suit is necessary? Duford v. Soby Boyden 2006 ABQB 609. Quaere."
+        },
+        {
+          "page": "10-34",
+          "number": 2,
+          "text": "Shreem Hldg. v. Barr Picard (#1) 2013 ABQB 257, 560 AR 272; Moll v. MacPherson Leslie & Co.2014 ABCA 45, 569 AR 69."
+        },
+        {
+          "page": "10-34",
+          "number": 3,
+          "text": "Cf. dicta in Fontaine v. Veylan 2002 ABQB 327, 307 AR 390; but cf. Repchuk v. Silverberg, infra."
+        },
+        {
+          "page": "10-34",
+          "number": 4,
+          "text": "Koopmans v. Joseph (#2) 2014 ABQB 721, 603 AR 23 (¶’s 21-24)."
+        },
+        {
+          "page": "10-34",
+          "number": 5,
+          "text": "Sweetgrass F. N. v. Rath & Co.2013 ABQB 165, 559 AR 12; Repchuk v. Silverberg 2013 ABQB 305, 563 AR 245 (¶’s 63-64). But the review ofﬁcer can proceed on his or her own if the agreement is clear on its face, or the parties agree what it means: Repchuk v. Silverberg (¶ 66)."
+        },
+        {
+          "page": "10-34",
+          "number": 6,
+          "text": "Monaghan v. Optrics 2022 ABQB 16, JCE 2003 05608 (Jan 7) (¶’s 28-41)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1581,
+          1633
+        ],
+        "book_pages": [
+          "10-33",
+          "10-34"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Reference to Court",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.18:1",
+          "text": "Rule 10.18 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.18. 1. Rules 10.18(1)(a) and 10.9 In Rath & Co. v. Sweetgrass First Nation, 2014 ABCA 426, 2014 CarswellAlta 2278, the Court said commented on the duties of a review officer, and when a reviewing judge may overturn a review officer's decision. At paragraphs 3–6: 3 The reviewing judge correctly noted that the review officer's decision was owed deference unless some improper principle was relied upon, the quantum was so inordinately high or low it revealed a mistaken principle, the review officer failed to consider the evidence and representations, a fact finding was clearly in error, or the review officer exceeded his jurisdiction. As set out in the Alberta Rules of Court, review officers may review retainer agreements and lawyer's charges for reasonableness, but they have no jurisdiction to interpret retainer agreements. Any question arising about the terms of a retainer agreement must be referred to the Court pursuant to Rule 10.18(1)(a). 4 The reviewing judge concluded there was a dispute about the terms of the oral or implied retainer agreements, and therefore the review officer proceeded without jurisdiction because he had to interpret the retainer in order to assess quantum. Mindful that the review officer had stated “In my view, reasonableness is to be read into the clause as follows …” (emphasis added), the reviewing judge held that the review officer exceeded his jurisdiction by improperly interpreting the contingency fee agreement. He further noted that the reductions were prima facie inordinate and raised concerns of principle. 5 In our view, notwithstanding the review officer's choice of words, he did not exceed his jurisdiction. He, in fact, neither interpreted the oral or implied retainer agreements nor the written contingency fee agreement. The record, read as a whole, reveals that he was well aware of the limits on his jurisdiction, and he correctly noted that he was able to review the retainer agreements and the amounts charged for reasonableness only. 6 While some terms of the oral or implied retainer agreements may have been unspecified, that does not mean they must automatically be referred to the court for interpretation. The review officer properly concluded that the accounts could be assessed on a quantum meruit basis because the parties had not expressly agreed beforehand what the fees would be: McDonald Crawford v Morrow, 2004 ABCA 150 at para 11, 348 AR 118. The review officer's comment that reasonableness was to be “read into” the contingency fee agreement does not mean that he was interpreting that agreement. In so doing, he was simply complying with that which Rule 10.9 of the Rules of Court mandates."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_18_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_020",
+        "part10_rule_10_18_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_022"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "050e032bca70de803bbfe911e56cddeabf75c646307aafdd99efa999eac21f8b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Reference to Court",
+      "division_heading": null,
+      "operative_text_raw": "(1) A review officer (a) must refer any question arising about the terms of a retainer agreement to the Court for a decision or direction, and (b) may refer any question arising about a lawyer’s charges to the Court for a decision or direction.\n(2) The review officer may do all or any of the following:\n(a) require one party to serve another party or other interested person with notice of the reference;\n(b) specify how a reference to the Court is to be prepared and by whom;\n(c) prescribe time limits;\n(d) specify any other matter for the effective and efficient disposition of the reference.\n(3) On considering a question referred to it, the Court may make any order it considers appropriate in the circumstances, including (a) an order to enforce a direction given under rule 10.17 [Review officer’s authority], or (b) with respect to a review of the terms of a retainer agreement, an order approving the agreement or varying or disallowing the agreement in whole or in part.\n(4) If a contingency fee agreement is disallowed, the amount payable to the lawyer for the lawyer’s charges must be determined under rule 10.2 [Payment for lawyer’s services and contents of lawyer’s account].",
+      "operative_text_sha256": "16d5d190102c94d5a0b6ff0c9c4ca4ff262aa849b5a3d680dbb3060361a455ac",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The court deals with questions relating to the interpretation, enforceability and application of a retainer agreement. Any disputes over the reasonableness 10.18(1)(a) says that he or she “must refer any question [about terms of the retainer] to the Court for a decision or direction”. “Question” in this rule must mean a dispute, that the dispute (question) must be known for the review officer to trigger a referral. M.M. v. MacPherson Leslie & Tyerman LLP, [2014] A.J. No. 92, 2014 ABCA 45 at para. 45 (Alta. C.A.).\nRule 10.18(1) serves as the foundation for the jurisdiction of the Court of King’s Bench to answer questions about a retainer agreement and “any question arising about a lawyer’s charges”. Shreem Holdings Inc. v. Barr Picard, [2014] A.J. No. 205, 2014 ABQB 112 at para. 47 (Alta. Q.B.). Rules 10.20(1) and 10.27(1) also found the court’s jurisdiction.  Shreem Holdings Inc. v. Barr Picard, [2014] A.J. No. 205, 2014 ABQB 112 at para. 47 (Alta. Q.B.).\nRule 10.18(1) grants the review officer the power to refer a question about a lawyer’s charges to the court for a decision or direction. No other provision gives an officer or judge the original jurisdiction to do so. A judge of the Court of King’s Bench may do so on appeal.\nRule 10.27(1) allows a judge to allow an appeal and either direct the review officer to refer to a question to the court under rule 10.18(1) or do so directly. Shreem Holdings Inc. v. Barr Picard, [2014] A.J. No. 205, 2014 ABQB 112 at para. 69 (Alta. Q.B.).",
+          "citations": [
+            {
+              "neutral_citation": "2014 ABCA 45",
+              "style_of_cause": "M.M. v. MacPherson Leslie"
+            },
+            {
+              "neutral_citation": "2014 ABQB 112",
+              "style_of_cause": "Shreem Holdings Inc. v. Barr Picard"
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.18",
+      "title_official": "Reference to Court"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "ef36b6676c59a29cb4b45a139a0c82af9b43d0b1c90b5fdc0835b73b235a2863",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1581,
+            1633
+          ],
+          "book_pages": [
+            "10-33",
+            "10-34"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "050e032bca70de803bbfe911e56cddeabf75c646307aafdd99efa999eac21f8b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "16d5d190102c94d5a0b6ff0c9c4ca4ff262aa849b5a3d680dbb3060361a455ac",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "b4afd305a81fa272501bec41bb9af9f010d89f0be686b7727ff1da11cb66e28f",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            202,
+            203
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c7d9e15bba0b10428ecb682bcff21af3a0153db6b402e97c7bc1053bfdc64c65"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.18 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.18 BOOK_C citation context dropped (2014 ABCA 45): verbatim in kept text",
+    "10.18 BOOK_C citation context dropped (2014 ABQB 112): verbatim in kept text",
+    "10.18 BOOK_C commentary sentence split dropped",
+    "10.18 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

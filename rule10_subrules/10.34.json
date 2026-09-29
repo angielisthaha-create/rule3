@@ -1,0 +1,256 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.34",
+  "title": {
+    "official": "Court-ordered assessment of costs",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rule, Considerations and Court Authority"
+  },
+  "operative_text": {
+    "controlling": "10.34(1)  The Court may order an assessment of costs by an\nassessment officer and may give directions to the assessment\nofficer about the assessment.\n(2)  The Court must keep a record on the court file of a direction\n(a) given to an assessment officer,\n(b) requested by a party and refused by the Court, or\n(c) requested by a party that the Court declines to make but\nleaves to an assessment officer’s discretion.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "7970d117f51322f692119aaadf30905366bc4e0d72d9e126098fcb1ea69acbeb"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.34 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          211
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Court-ordered Assessment of Costs",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0c629f82ac1a3494c2dad27f39d0b0db59f93aca8d52729a7d817ea54dfc74a6",
+      "related_provisions": "10.28(2) (appointment for assessment)",
+      "commentary": "On when costs are payable, see the Crouser case.⁷\nA chambers judge used R.9.12 to give full costs of a suit, even after entry of a formal summary\njudgment which had only given costs of that application.⁸\n\nWhere a consent order awards solicitor-client costs, the assessment ofﬁcer cannot cut them\nin half.¹",
+      "footnotes": [
+        {
+          "page": "10-123",
+          "number": 6,
+          "text": "Quite similar to previous R.601(4). It was ﬁrst enacted by Alta. Reg.152/98."
+        },
+        {
+          "page": "10-123",
+          "number": 7,
+          "text": "Crouser-Reymon v. Tawa Dev.2010 ABQB 166, 491 AR 301."
+        },
+        {
+          "page": "10-123",
+          "number": 8,
+          "text": "Richter v. Chemerinski (#2?) 2010 ABQB 717, 4 CPC(7th) 283."
+        },
+        {
+          "page": "10-124",
+          "number": 1,
+          "text": "Alta. Treas. Br. v.1401057 Alta.2013 ABQB 748, 579 AR 152."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6696,
+          6731
+        ],
+        "book_pages": [
+          "10-123",
+          "10-124"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Court-ordered assessment of costs",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_34_001",
+        "part10_alberta_rules_of_court_rule_10_part_10_001"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "474a320c65d8d111ae7460f091fd011ae07977b08fcc976de68cae7503c4d2be",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Court-ordered assessment of costs",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "a66dd95206b78ebfa1c8be40270e9eb57062abd49e807e3b92cade1fa47fbb13",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General principles",
+          "text": "Courts have discretion to direct that an assessment of costs be conducted by an assessment officer, and may give specific directions for the assessment — such as ensuring that a bill of costs includes only costs and legal expenses incurred with respect to a particular proceeding.  Condominium Plan No. 052 6233 v. Seehra, [2014] A.J. No. 1059, 2014 ABQB 588 at para. 29 (Alta. Q.B.).\nDirecting an assessment is useful when actual legal expenses are used as the basis of party and party costs. McAllister v. Calgary (City), [2021] A.J. No. 109, 2021 ABCA 25 at paras. 46, 66 (Alta. C.A.); Patel v. Chief Medical Supplies Ltd., [2021] A.J. No. 625, 2021 ABQB 355 at paras. 130-131 (Alta. Q.B.).\nSubdivision 2: ASSESSMENT OF COSTS BY ASSESSMENT OFFICER",
+          "citations": [
+            {
+              "neutral_citation": "2014 ABQB 588",
+              "style_of_cause": "Condominium Plan No. 052 6233 v. Seehra"
+            },
+            {
+              "neutral_citation": "2021 ABCA 25",
+              "style_of_cause": "McAllister v. Calgary"
+            },
+            {
+              "neutral_citation": "2021 ABQB 355",
+              "style_of_cause": "Patel v. Chief Medical Supplies Ltd."
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.34",
+      "title_official": "Court-ordered assessment of costs"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "0c629f82ac1a3494c2dad27f39d0b0db59f93aca8d52729a7d817ea54dfc74a6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6696,
+            6731
+          ],
+          "book_pages": [
+            "10-123",
+            "10-124"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "474a320c65d8d111ae7460f091fd011ae07977b08fcc976de68cae7503c4d2be",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "a66dd95206b78ebfa1c8be40270e9eb57062abd49e807e3b92cade1fa47fbb13",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "7970d117f51322f692119aaadf30905366bc4e0d72d9e126098fcb1ea69acbeb",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            211
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "0e992600dc94dc5dda61ccdce93120bb3297de3749eca35369dbeac17cc2520d"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.34 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.34 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.34 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.34 BOOK_C citation context dropped (2014 ABQB 588): verbatim in kept text",
+    "10.34 BOOK_C citation context dropped (2021 ABCA 25): verbatim in kept text",
+    "10.34 BOOK_C citation context dropped (2021 ABQB 355): verbatim in kept text",
+    "10.34 BOOK_C commentary sentence split dropped",
+    "10.34 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

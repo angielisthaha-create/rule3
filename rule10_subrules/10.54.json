@@ -1,0 +1,236 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.54",
+  "title": {
+    "official": "Mental disorder",
+    "variants": {}
+  },
+  "division": {
+    "number": 5,
+    "heading": "Medical Examination"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "10.54(1)  In this rule,\n(a) “examination” means a medical examination conducted\nfor the purpose of determining a person’s mental state;\n(b) “facility” means\n(i) a facility as defined in the Mental Health Act, or\n(ii) a correctional institution as defined in the\nCorrections Act.\n(2)  If a person is declared to be in civil contempt of Court and the\njudge is satisfied that there are reasonable and probable grounds to\nbelieve that the person is\n(a) suffering from a mental disorder, or\n(b) likely to cause harm to himself or herself or others or to\nsuffer substantial mental or physical deterioration or\nserious physical impairment,\nand would otherwise be unwilling, on that person’s own initiative,\nto attend an examination, the judge may order that the person be\ntaken into custody by a peace officer and taken to a facility for the\npurpose of examination and a report to the Court, as directed by the\nCourt.\n(3)  An order made under subrule (2) is sufficient authority to\ndetain, control, transport, examine, care for, observe, assess and\nprepare a report for the Court about the person named in the order.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "72d2d59ca34e11e25e1bdc2dc37245bcf68ffadab6fa42b3b6e656c19a1c66c7"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.54 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          222
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Mental Disorder",
+      "operative_text_raw": null,
+      "operative_text_sha256": "9e278fdea0e923c82c36a6402c3388e2554da5d0e52f2b1551adb0351f80a13d",
+      "related_provisions": "5.41 (independent medical examinations) ; 6.40 (court appointed experts)",
+      "commentary": null,
+      "footnotes": [
+        {
+          "page": "10-169",
+          "number": 1,
+          "text": "Quite similar to previous R.704.1. It was ﬁrst enacted by Alta. Reg.243/96."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          9078,
+          9120
+        ],
+        "book_pages": [
+          "10-168",
+          "10-169"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Mental disorder",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_54_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_010"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part12_document.json"
+        ]
+      },
+      "operative_text_sha256": "a60ccf490f6ba4e180427d31e2abdd3e96693da504a1d680ffce7068a756ba46",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Mental disorder",
+      "division_heading": "Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS",
+      "operative_text_raw": "(1) In this rule, (a) “examination” means a medical examination conducted for the purpose of determining a person’s mental state;\n(b) “facility” means (i) a facility as defined in the , or Mental Health Act (ii) a correctional institution as defined in the .\nCorrections Act (2) If a person is declared to be in civil contempt of Court and the judge is satisfied that there are reasonable and probable grounds to believe that the person is (a) suffering from a mental disorder, or (b) likely to cause harm to himself or herself or others or to suffer substantial mental or physical deterioration or serious physical impairment, and would otherwise be unwilling, on that person’s own initiative, to attend an examination, the judge may order that the person be taken into custody by a peace officer and taken to a facility for the purpose of examination and a report to the Court, as directed by the Court.\n(3) An order made under subrule (2) is sufficient authority to detain, control, transport, examine, care for, observe, assess and prepare a report for the Court about the person named in the order.",
+      "operative_text_sha256": "b46d74249b3cdbffa4b2bdd687279e4b3b7cbb3c4fc8abe429545d54727e6555",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "501-520_10_47 to 11_9.json",
+        "source_file": "501-520_revised.md"
+      },
+      "division_heading_flag": "wrong in Book C: rule 10.54 is in Division 5 (Medical Examination) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9734,
+      "differences": [
+        {
+          "op": "replace",
+          "official": "the",
+          "carrier": "the, or"
+        },
+        {
+          "op": "replace",
+          "official": "act, or",
+          "carrier": "act"
+        },
+        {
+          "op": "replace",
+          "official": "the",
+          "carrier": "the."
+        },
+        {
+          "op": "replace",
+          "official": "act.",
+          "carrier": "act"
+        }
+      ],
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.54",
+      "title_official": "Mental disorder"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "9e278fdea0e923c82c36a6402c3388e2554da5d0e52f2b1551adb0351f80a13d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            9078,
+            9120
+          ],
+          "book_pages": [
+            "10-168",
+            "10-169"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "a60ccf490f6ba4e180427d31e2abdd3e96693da504a1d680ffce7068a756ba46",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part12_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "b46d74249b3cdbffa4b2bdd687279e4b3b7cbb3c4fc8abe429545d54727e6555",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "501-520_10_47 to 11_9.json",
+          "source_file": "501-520_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "72d2d59ca34e11e25e1bdc2dc37245bcf68ffadab6fa42b3b6e656c19a1c66c7",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            222
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "9eeb7d2d9800b1ca13bcc134da551a7ab6ca9cbe7110966467e8871b9c516333"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.54 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.54 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.54 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

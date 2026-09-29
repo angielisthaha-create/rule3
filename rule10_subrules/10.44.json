@@ -1,0 +1,253 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.44",
+  "title": {
+    "official": "Appeal to judge",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 3,
+    "heading": "Appeal from Assessment Officer’s Decision"
+  },
+  "operative_text": {
+    "controlling": "10.44(1)  A party to an assessment officer’s decision under this\nDivision or a party to an assessment officer’s decision under rule\n9.35 may appeal the decision to a judge.\n(2)  The appeal from an assessment officer’s decision is an appeal\non the record of proceedings before the assessment officer.\n(3)  The record of proceedings is\n(a) Form 45 served under rule 10.37(2),\n(b) the material the parties filed to support or oppose, or that\nwas required for, the assessment,\n(c) the transcript of the proceedings before the assessment\nofficer, unless the judge waives this requirement, and\n(d) the assessment officer’s certificate.\n(4)  The appellant must file and serve on the respondent to the\nappeal, within one month after the date of the assessment officer’s\ndecision,\n(a) notice of the appeal in Form 46,\n(b) the record of proceedings described in subrule (3) or, if\nthe transcript is not available at the time of filing,\nconfirmation that the transcript of the proceedings has\nbeen ordered, and\n(c) any further written argument.\n(5)  The respondent to the appeal must, within 10 days after service\nof the notice of appeal, file and serve on the appellant any written\nargument the respondent wishes to make.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "e9c5faf46ca175f0d5f2e8e7ab5172d64d50eb5175a94e9cce78c9bc4f1f0989"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.44 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          216,
+          217
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Appeal to Judge",
+      "operative_text_raw": "10.44(1) A party to an assessment ofﬁcer’s decision under this Division or a\nparty to an assessment ofﬁcer’s decision under rule 9.35 [Checking calculations:\nassessment of costs and corrections] may appeal the decision to a judge.\n(2) The appeal from an assessment ofﬁcer’s decision is an appeal on the record\nof proceedings before the assessment ofﬁcer.\n(3) The record of proceedings is\n(a) Form 45 served under rule 10.37(2),\n(b) the material the parties ﬁled to support or oppose, or that was\nrequired for, the assessment,\n(c) the transcript of the proceedings before the assessment ofﬁcer,\nunless the judge waives this requirement, and\n(d) the assessment ofﬁcer’s certiﬁcate.\n(4) The appellant must ﬁle and serve on the respondent to the appeal, within one\nmonth after the date of the assessment ofﬁcer’s decision,\n(a) notice of the appeal in Form 46,\n(b) the record of proceedings described in subrule (3) or, if the transcript\nis not available at the time of ﬁling, conﬁrmation that the transcript\nof the proceedings has been ordered, and\n(c) any further written argument.\n(5) The respondent to the appeal must, within 10 days after service of the notice\nof appeal, ﬁle and serve on the appellant any written argument the respondent\nwishes to make.",
+      "operative_text_sha256": "6872d2ead9786de4c4cb7ba330cf0cd69dbe3f7bcf2b546f161890abffb521dd",
+      "related_provisions": "10.26 (appeal from review officer)",
+      "commentary": "See R.10.24n.\n\nExtending time to appeal from an Assessment Ofﬁcer is governed by Cairns v. Cairns (1931),\nand the time limit is very short. But the onus on the appellant is heavy. No timely intent to appeal\nwas shown here, though the appeal was arguable, and lack of prejudice was not enough to extend\ntime. Five unexplained months elapsed, and a self-represented party cannot just ignore time\nlimits.¹\nOn an appeal from assessment of a party-party bill, the judge appealed to can look at the\nassessed version of the bill of costs in question, if it is on the Court ﬁle.²\nOn appeal to a King’s Bench justice, a review ofﬁcer gets much deference because of his\nexperience and expertise, but some appeals do succeed: wrong principle, or amount far out of\nline.³\nSemble one Justice of Appeal can hear an appeal from an assessment ofﬁcer’s assessment\nof costs awarded by a panel on an appeal.⁴",
+      "footnotes": [
+        {
+          "page": "10-136",
+          "number": 1,
+          "text": "Vizor v.383501 Alta.2022 ABQB 5, JCE 1903 07391 (Jan 6) (¶’s 80-126)."
+        },
+        {
+          "page": "10-136",
+          "number": 2,
+          "text": "Oleynik v. Univ. of Calg.2013 ABCA 395, 2013 CarswellAlta 2302 (one JA Nov 22) (¶ 4), leave den 2014 ABCA 19, 2014 CarswellAlta 53. (Jan 16)."
+        },
+        {
+          "page": "10-136",
+          "number": 3,
+          "text": "Kirk Montoute Dawson v. Hearn 2022 ABKB 775, JCC 2101 11878 (Nov 22) (¶’s 7-9) ; cf. Adebisi v. Dentons Can.2023 ABKB 452, JCE 2103 13357 (Jul 31) (a review of a lawyer’s bill to a client, not of party- party costs)."
+        },
+        {
+          "page": "10-136",
+          "number": 4,
+          "text": "Hamill v. Kudryk 2014 ABCA 82, Edm 1203 0139 AC (one JA Feb 27)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7256,
+          7298
+        ],
+        "book_pages": [
+          "10-135",
+          "10-136"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Appeal to judge",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.44:1",
+          "text": "Rule 10.44 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.44. 1. Standard of Review In Singh v. Noce, 2018 ABQB 950, 2018 CarswellAlta 2757, 80 Alta. L.R. (6th) 125, 27 C.P.C. (8th) 150, Justice Feehan gave this summary of the standard of review to be employed on an appeal of as Assessment Officer's decision: [3] Appeal from an Assessment Officer's decision is an appeal on the record of the proceedings before the Assessment Officer (Rule 10.44(2)). The decision of the Assessment Officer, or a Review Officer, is to be given deference, as he or she has specialized knowledge and experience in assessing the reasonableness of accounts, and is in the best position to assess and weigh the evidence. Interference with the decision is justified only in the application of a wrong principle of law, a finding of fact clearly in error or an assessment amount that is so unreasonable as to constitute an error in principle (see Samuel Eng & Associates v Ho, (2009) ONCA 150 at para 1; Fraser Milner Casgrain LLP v Kristof Financial Inc., 2012 ABQB 359 (CanLII), at paras 15–16; Rabbani v Niagara (Regional Municipality), 2012 ONCA 280 (CanLII), at para 6; Rocks v Ian Savage Professional Corporation, 2015 ABCA 77 (CanLII) at para 15; Willier v McGurk, 2015 ABCA 299 (CanLII) at para 8). The appeal judge may confirm, vary or revoke all or part of the decision, substitute a different decision, refer the matter back to the assessment officer, or make any other order the judge considers appropriate (Rule 10.45(1)). [4] Clearly, wrongful assumption of jurisdiction where none exists, on an erroneous interpretation of the Rules, would be an error of law. Therefore, the standard of review on the jurisdiction of the Assessment Officer must be correctness. Determination as to whether an offer is genuine is within the specialized knowledge and experience of the Assessment Officer and should be given deference. In Ma v. Coyne, 2013 ABQB 426, 2013 CarswellAlta 1500, 568 A.R. 30, 43 C.P.C. (7th) 125, Madam Justice Bensler said, at paragraphs 16–19: 16 The new Alberta Rules of Court, Alta Reg 124/2010 [Rules of Court] have reformed terminology such as “taxing officer”. In Sweetgrass First Nation v. Rath & Company, 2013 ABQB 165 [Sweetgrass First Nation], at paras 22 and 23, Justice Tilleman recognized terminology changes in the Rules of Court while emphasizing the enduring significance of jurisprudence relating to the old Alberta Rules of Court, Alta Reg 390/1968 [Old Rules]: Despite the new Rules, the old jurisprudence remains instructive. The change in name from “taxing officer” under the old Alberta Rules of Court, Alta Reg 390/1968 [Old Rules] to “review officer” under the new Rules is consistent with the goal of increasing usability and simplifying complex language: Alberta Law Reform Institute, Rules of Court Project, Final Report No. 95 (Edmonton: ALRI, 2008) at para 9. In that report's rule concordance table, there is consistency that old rules regarding “taxation” concord with new rules regarding “review.” In Champagne v. Sidorsky, 2012 ABQB 522 at para 26, 220 ACWS (3d) 708 [Champagne], Justice Jones found “that the term ‘litigation representative’ under the Rules replaces and is inclusive of ‘next friend’ and ‘guardian ad litem’ under the Old Rules”. Likewise, I find that a “review officer” replaces a “taxing officer” and a “review” replaces a “taxation.” In many instances this Court has turned to jurisprudence from the Old Rules to inform its interpretation of the Rules. Champagne is one example where Jones J, again at para 26, found the existing jurisprudence, “at the very least, highly influential.”[emphasis in original] 17 As in Sweetgrass First Nation, I find that “assessment officer” in the new Rules of Court stems from “taxing officer” in the Old Rules and consequently, the standard of review for an “assessment officer” would be comparable to that of a “review officer” or a “taxing officer”. 18 In Fraser Milner Casgrain LLP v. Kristof Financial Inc, 2012 ABQB 359, 541 AR 245, Justice Yamauchi summarized the standard of review for “review officers” at paras 16–18: When one reviews the many cases that deal with appeals from decisions of review officers (or taxing officers, as they were formerly known), there are certain principles that emerge. A review officer's decision is entitled to curial deference: 509703, [2000] A.J. No. 1607, at para 11. Why? A review officer's “duties commonly call for him to do this type of vetting because of the nature of his position and the expertise that he gathers in carrying out those duties”: Carr & Co v. Markdale Ltd. (1996), 46 Alta LR (3d) 324 at para 20 (QB) [“Carr & Company”]. See also McLennan Ross v. Mercantile Bank of Canada (1988), 59 Alta LR (2d) 369 at para 6 (CA) [“McLennan Ross”]. The Alberta Court of Appeal in McLennan Ross went on to say that, “the taxing officer's function is a specialized one and he may have to bring his own experience and expertise to bear” (at para 12). Curial deference, however, is not absolute. A court hearing an appeal from a review officer's decision may interfere if the review officer “operated on a wrong principle and thereby fell into error”: McLennan Ross at para 6, citing Cape Breton Landowners v. Stora Kopparbergs Bergslags Aktiebolag (1983), 33 CPC 1, 146 DLR (3d) 369, 58 NSR (2d) 193, 123 APR (NSCA); Petty v. Bishop & McKenzie (1977), 2 AR 241 at 243 (QB). An error in principle may include a situation where the quantum that the review officer awards is inordinately high or low: McLennan Ross ibid; 509703 at para 11. Similarly, a court hearing an appeal from a review officer's decision may interfere if the review officer makes an error concerning the scope of the retainer agreement under which the parties are operating: Brown v. Snyder & Associates, 2004 ABQB 899 at para 20 [“Brown”]. Finally, a court hearing an appeal from a review officer's decision may find that the review officer made a finding of fact that is clearly in error: Carter v. Blake (1982), 41 AR 418 at para 7 (NWTCA) [“Carter”]. With respect to the latter point, a court hearing an appeal from a review officer's decision must exercise caution, and must not step too far into arena of gathering evidence and weighing that evidence. …[emphasis in original] 19 To summarize, the jurisprudence with respect to the standard of review for “taxing officer” continues to apply to “review officers” and “assessment officers” as defined in the Rules of Court. Therefore, the standard of review for erroneous legal principles continues to be correctness while curial deference is applied where the standard of review is reasonableness."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_44_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_028",
+        "part10_rule_10_44_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_030"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "71ecf15b93b221a28246686d2296aa76cea22458607c09805815e5c768240cef",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Appeal to judge",
+      "division_heading": null,
+      "operative_text_raw": "(1) A party to an assessment officer’s decision under this Division or a party to an assessment officer’s decision under rule 9.35 [Checking calculations: assessment of costs and corrections] may appeal the decision to a judge.\n(2) The appeal from an assessment officer’s decision is an appeal on the record of proceedings before the assessment officer.\n(3) The record of proceedings is (a) Form 45 served under rule 10.37(2), (b) the material the parties filed to support or oppose, or that was required for, the assessment, (c) the transcript of the proceedings before the assessment officer, unless the judge waives this requirement, and (d) the assessment officer’s certificate.\n(4) The appellant must file and serve on the respondent to the appeal, within one month after the date of the assessment officer’s decision, (a) notice of the appeal in Form 46, (b) the record of proceedings described in subrule (3) or, if the transcript is not available at the time of filing, confirmation that the transcript of the proceedings has been ordered, and (c) any further written argument.\n(5) The respondent to the appeal must, within 10 days after service of the notice of appeal, file and serve on the appellant any written argument the respondent wishes to make.",
+      "operative_text_sha256": "225a42b1830bb9dd3d6cadcf946455c3b6611ffae838a37daaefef111bb88be8",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The court has the jurisdiction under rules 1.3 and 1.4 to remedy any procedural problems, and this general authority applies to rule 10.44(4).  Royal Bank of Canada v. Ondrik, [2015] A.J. No. 113, 2015 ABQB 70 at para. 12 (Ont. Q.B.). Form 46 itself does not specifically require that the appellant set out its grounds of appeal. Royal Bank of Canada v. Ondrik, [2015] A.J. No. 113, 2015 ABQB 70 at para. 14 (Ont. Q.B.).\nRule 10.44(4) and (5) appear to have some gaps in that the respondent must respond within 10 days after service of the Notice of Appeal, but the Notice of Appeal Form 46 does not require any written argument or setting out of the grounds of appeal, even though rule 10.44(4)(c) allows “further” written argument. Royal Bank of Canada v. Ondrik, [2015] A.J. No. 113, 2015 ABQB 70 at para. 15 (Ont. Q.B.).\nPART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": [
+            {
+              "neutral_citation": "2015 ABQB 70",
+              "style_of_cause": "Royal Bank of Canada v. Ondrik"
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.44",
+      "title_official": "Appeal to judge"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "6872d2ead9786de4c4cb7ba330cf0cd69dbe3f7bcf2b546f161890abffb521dd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7256,
+            7298
+          ],
+          "book_pages": [
+            "10-135",
+            "10-136"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "71ecf15b93b221a28246686d2296aa76cea22458607c09805815e5c768240cef",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "225a42b1830bb9dd3d6cadcf946455c3b6611ffae838a37daaefef111bb88be8",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "e9c5faf46ca175f0d5f2e8e7ab5172d64d50eb5175a94e9cce78c9bc4f1f0989",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            216,
+            217
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "aee048f3be51455a5cae5d710a5da2d19b5242a6e665c46bb5f601e38edebb20"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "10.44 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.44 BOOK_C citation context dropped (2015 ABQB 70): verbatim in kept text",
+    "10.44 BOOK_C commentary sentence split dropped",
+    "10.44 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

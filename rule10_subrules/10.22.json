@@ -1,0 +1,235 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.22",
+  "title": {
+    "official": "Action for payment of lawyer’s charges",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.22   If an action is brought for payment of a lawyer’s charges,\n(a) despite rule 3.36, no judgment may be entered in default\nof defence without the Court’s permission, and\n(b) no costs award with respect to the action is to be made\nunless the Court specifically so orders.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "e210eec05c7a77cef34b244fe983f21d2463b45b91a8eee89b3e0a6efa4edb00"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.22 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*\n\nInformation note This rule is an exception to • the general rule that judgment may be entered against a defendant who does not file a statement of defence or demand for notice (see rule 3.36 [Judgment in default of defence and noting in default], and PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          204
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Action For Payment of Lawyer’s Charges",
+      "operative_text_raw": "10.22 If an action is brought for payment of a lawyer’s charges,\n(a) despite rule 3.36 [Judgment in default of defence and noting in\ndefault], no judgment may be entered in default of defence without\nthe Court’s permission, and\n(b) no costs award with respect to the action is to be made unless the\nCourt speciﬁcally so orders.⁶",
+      "operative_text_sha256": "32c92c0dd9934f25ce76abfd2774c38891278632e2257142012af9817f5c5c75",
+      "related_provisions": "10.20 (enforcement of review officer’s decision) ; 10.29 (costs follow event)",
+      "commentary": "Public policy is so tender to the interests of clients, that this Rule bars default judgment or\ncosts of suit in a suit on legal fees (unless there is leave of the court), when the plaintiff is the\nlawyer or a lawyer’s assignee. The court often orders review of the account,¹\nbut that makes little\nsense if the amount of the account seems reasonable, especially as an evasive client will later\ndeny the retainer, or claim that he has paid, neither of which the review ofﬁcer can deal with. The\nlawyer should note the defendant in default, and then apply in chambers as though for summary\njudgment, with personal service again. Review should be ordered only if the defendant or the\nmaterial from the plaintiff shows some question as to quantum.",
+      "footnotes": [
+        {
+          "page": "10-36",
+          "number": 6,
+          "text": "Quite similar to previous 1968 R.626. It came from 1914 R. And 1944 C. R.759 before 1976 amendment. (Imp. ) 6 & 7 Vict. , c.73, s.37 forbade suit until after one month after delivery of a bill of costs. The 1976 amendment made the Rule depend on the original creditor, not on who is the plaintiff."
+        },
+        {
+          "page": "10-37",
+          "number": 1,
+          "text": "This Rule lets Alberta Court of Justice refer a suit on a lawyer’s account for taxation by the usual King's Bench taxing ofﬁcer: Witten v. Arsenault 2006 ABPC 29, 393 AR 216."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1742,
+          1787
+        ],
+        "book_pages": [
+          "10-36",
+          "10-37"
+        ]
+      }
+    },
+    "BOOK_B": {
+      "title": "Action for payment of lawyer's charges",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.22:1",
+          "text": "Rule 10.22—Action for costs due See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.22. 1. Purpose Although the rule [then R. 626] is rather unhappily worded, it has been generally interpreted in the Court of Queen's Bench as referring to actions brought by lawyers to recover legal fees. The rule, for reasons of public policy, prohibits a solicitor from obtaining judgment in Queen's Bench for his legal account by default without a court order … Because a solicitor is an officer of the court, the Court of Queen's Bench and the courts which preceded it have never allowed a solicitor to obtain a judgment for his legal fees against a client, even one who is in default, without being satisfied that the account is fair and reasonable (see R. 613). After examining a lawyer's account a Queen's Bench judge either orders the bill taxed or dispenses with a taxation as he sees fit. It has never been the practice in the Court of Queen's Bench to insist that a solicitor have his account taxed in every instance before judgment is entered. The application of R. 626 was discussed by Cavanagh J. in Fowle, Todd & Co. v. Klassen (1980), 31 A.R. 494 at 496 (Q.B.): It is true that not every account need be taxed. However, a judge cannot dispense with taxation of an account he has never seen. It seems to me elementary that a copy of the account should accompany an application to enter judgment. Furthermore, I think the very least the solicitor can do is to prepare his bill showing all the detail required under R. 645. One significant consideration in deciding whether a solicitor's account should be taxed has always been the amount of the account. The smaller the legal bill the less likely Queen's Bench will require a taxation with its attendant delay and expense to the parties … Referring again to R. 626, it is important to note that the rule is directed to the clerk of the Court of Queen's Bench. The purpose of the rule is to prohibit the clerk from entering judgment by default when a solicitor has sued for legal fees. It creates an exception to the main rule which permits the clerk to enter a default judgment in a case involving a claim for a debt or liquidated demand upon the claimant satisfying the clerk that proper service has been made and that the defendant has not filed a statement of defence or demand of notice. Dennis W. Crowe Professional Corp. v. Allford (1983), 26 Alta. L.R. (2d) 21 (Q.B.), at 24–25, per Holmes J. 2. Application of Rule There are conflicting Provincial Court decisions about whether then Rule 626 applies to actions brought in the Provincial Court. In Murska Management (1969) Ltd. v. Flesher (1990), 118 A.R. 251 (Prov. Ct.), His Honour Judge Allford said at p. 253: I see no real distinction between a barrister and solicitor getting a default judgment and any other claimant other than the obstruction afforded in rule 626. But where you look at [s. 53(1) of the Provincial Court Act] which does … set out a mandatory provision that the Clerk of the court shall enter a default judgment once the preliminaries that are mentioned … in the section are met, that, in my view, would override the application of 626. However, in Witten LLP v. Arsenault, 2006 ABPC 29, 2006 CarswellAlta 132, 393 A.R. 216, 27 C.P.C. (6th) 174, Judge Ingram specifically disagreed, and said, at paras. 29–32: In my view, Rule 626 should apply to all accounts between lawyers and their clients both in the Court of Queen's Bench and the Provincial Court. At the present time, a serious anomaly exists. Under the Murska Management (1969) Ltd. judgment and the practice of the Provincial Court, a solicitor's account may be treated as a debt or liquidated demand in respect of which a default judgment may be entered without any supervision from the court.30 In this respect, I concur entirely with the observations of Holmes, J., in Dennis W. Crowe Professional Corp. v. Allford, supra, as follows: ¶ 8 Although [Rule 626] is rather unhappily worded, it has been generally interpreted in the Court of Queen's Bench as referring to actions brought by lawyers to recover legal fees. The rule, for reasons of public policy, prohibits a solicitor from obtaining judgment in Queen's Bench for his legal account by default without a court order. It was argued that unless the rule is applied in the Small Claims Division solicitors will not only effectively by-pass a long standing public policy requirement by obtaining a judgment by default in Provincial Court but will do so without being required to tax their accounts. ¶ 9 Because a solicitor is an officer of the court, the Court of Queen's Bench and the courts which preceded it have never allowed a solicitor to obtain a judgment for his legal fees against a client, even one who is in default, without being satisfied that the account is fair and reasonable (see Rule 613). After examining a lawyer's account a Queen's Bench judge either orders the bill taxed or dispenses with a taxation as he sees fit. It has never been the practice in the Court of Queen's Bench to insist that a solicitor have his account taxed in every instance before judgment is entered. ¶ 10 The application of Rule 626 was discussed by Cavanagh, J., in Fowle, Todd & Co. v. Klassen (1980), 31 A.R. 494 at 496 (Q.B.): It is true that not every account need be taxed. However, a judge cannot dispense with taxation of an account he has never seen. It seems to me elementary that a copy of the account should accompany an application to enter judgment. Furthermore, I think the very least the solicitor can do is to prepare his bill showing all the detail required under Rule 645. One significant consideration in deciding whether a solicitor's account should be taxed has always been the amount of the account. The smaller the legal bill the less likely Queen's Bench will require a taxation with its attendant delay and expense to the parties. The public policy which is the basis of Rule 626 should be the same in Provincial Court as in the Court of Queen's Bench and is the same now as it was in 1983. No legislative or regulatory change is required to achieve harmonious application of the law in the Provincial and the Queen's Bench courts in accordance with principle of public policy that prevents a lawyer from obtaining default judgment for his legal account without a court order. The Provincial Court should simply apply Rule 626 and require a court order prior to judgment in all actions for lawyer's accounts. The Provincial Court Judge to whom an action for a lawyer's account is referred, must then examine the account and either “order the account taxed or dispense with taxation as he sees fit”. As Holmes, J., points out it is not the practice to insist that the account be taxed in every instance before judgment is entered. The adoption of the practice outlined above is necessary to ensure consistency in the practices of the two courts with concurrent jurisdiction, a matter of some legitimate concern since the increase in the monetary jurisdiction of the Provincial Court. As I indicated earlier, Taxation (within its scope) may be preferred over assessment of legal fees by individual Provincial Court judges in some cases and should not be precluded nor, of course, should it be used where not appropriate."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_22_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_032",
+        "part10_rule_10_22_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_034"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "4e1fbf32cabcfaf25690c5085502c1f0236c031c6e50e8d69cc6bbb83a465a95",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Action for payment of lawyer’s charges",
+      "division_heading": null,
+      "operative_text_raw": "If an action is brought for payment of a lawyer’s charges, (a) despite rule 3.36 [Judgment in default of defence and noting in default], no judgment may be entered in default of defence without the Court’s permission, and (b) no costs award with respect to the action is to be made unless the Court specifically so orders.",
+      "operative_text_sha256": "8129c44484c0538ee93cbe0072da575cb7a7b5cb02994fa420d66a82482ca862",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      }
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.22",
+      "title_official": "Action for payment of lawyer’s charges"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "32c92c0dd9934f25ce76abfd2774c38891278632e2257142012af9817f5c5c75",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1742,
+            1787
+          ],
+          "book_pages": [
+            "10-36",
+            "10-37"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "4e1fbf32cabcfaf25690c5085502c1f0236c031c6e50e8d69cc6bbb83a465a95",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "8129c44484c0538ee93cbe0072da575cb7a7b5cb02994fa420d66a82482ca862",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "e210eec05c7a77cef34b244fe983f21d2463b45b91a8eee89b3e0a6efa4edb00",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            204
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "cb7b032cfd0101493a0a3f61e539317e9be26e36f5ecafc563b54121c1aa2d8e"
+  },
+  "information_notes": [
+    {
+      "text": "This rule is an exception to\n- the general rule that judgment may be entered against a defendant who does not file\na statement of defence or demand for notice (see rule 3.36 [Judgment in default of\ndefence and noting in default], and\n- the general rule that a successful party is entitled to a costs award.\nA lawyer who obtains a default judgment gets costs only if the Court so orders.",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "dedupe_log": [
+    "10.22 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.22 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}
