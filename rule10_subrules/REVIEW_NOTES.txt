@@ -68,6 +68,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read by hand in all four sources. Official 10.22(a)-(b) equals Book B; Book A and Book C add the bracket label after 'rule 3.36' (both raw texts dropped, Book A with a note). Information Note is Book A's (the official text prints none); Book C's copy sits truncated inside its amendment-note field (flagged). Book A history 'previous 1968 R.626' agrees with Book B's 'then R. 626'; note adds 'or a lawyer's assignee' which neither the rule nor Book B says; footnote 1 (Witten v. Arsenault 2006 ABPC 29) agrees with Book B. 2 footnotes (p.10-36 fn 6, p.10-37 fn 1). Book B commentary 7,290 chars (Dennis Crowe, Fowle Todd, Murska, Witten).
 
 10.23 Costs of review
+     [1st pass] Read by hand in all four sources. Official 10.23 equals Book A (en dashes in 'client-requested'/'lawyer-requested'), Book B and Book C; no Book B commentary. Book A note is a two-line summary of Botan v. St. Amand (#2) that concerns costs of a lawsuit on fees (10.22(b)/10.29), not the costs of a review; history fn 2 (1968 R.629) not corroborated. 2 footnotes (p.10-37 fns 2-3). Book C commentary (328 chars) agrees with 10.13(1), 10.19(4)(a) and 10.23; its footnote number '140' is stuck to 'rule 10.23.' and the source is not named.
 
 10.24 Reviewing lawyer’s charges: incomplete services and particular events
 

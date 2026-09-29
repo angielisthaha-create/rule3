@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.23 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked."
     }
   },
   "sources": {
@@ -67,7 +70,8 @@
           "10-38"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-37 (line 1788) to p.10-38 (line 1810): title (line 1788), rule text (lines 1789-1796; marker '2' after (b)), and a two-line note (lines 1798-1799: 'Where a lawyer got only a small fraction of the fees he claimed, he got no costs and had to pay costs.³') with footnotes: fn 2 (history, marker in the rule text) and fn 3 of p.10-37 (block after the text of 10.23, line 1801 ff.) = 2; fn 1 of that block (Witten v. Arsenault) belongs to the 10.22 note. Read against the official text: the rule text equals official 10.23 (EXACT_MATCH: the only differences are the en dashes Book A prints in 'client–requested' and 'lawyer–requested' where the official text has hyphens, and the ligature 'ofﬁcer'). FLAG: the note ('he got no costs and had to pay costs', fn 3: 'The fee award to a lawyer was under 1/20th of the amount claimed. The lawyer was denied any costs of the lawsuit over his fees ... Party-party costs on Schedule C were increased by about 1/3: Botan v. St. Amand (#2) 2012 ABQB 260, 538 AR 306, affd 2013 ABCA 227') describes costs of a lawsuit on the lawyer's fees (the subject of 10.22(b) and 10.29), not the costs of a review by a review officer under 10.23; the same case is cited in the 10.7, 10.29 and 10.33 notes on costs (see-also). History fn 2: 'Quite similar to previous 1968 R.629. It came from 1944 C. R.762(e). Cf.1914 R.761, Eng.1883 O.65 r.27, and (Imp.) 6 & 7 Vict. c.73 s.37 para.6.' - the same 'Cf.1914 R.761, Eng.1883 O.65 r.27' is in the 10.17 history (p.10-31 fn 2, 1968 R.628; 1944 C. R.762); Book B and Book C print no history, so it is not corroborated. supra/infra: no supra or infra is used in this note."
     },
     "BOOK_B": {
       "title": "Costs of review",
@@ -95,7 +99,8 @@
         {
           "topic": "General Principles",
           "text": "A request for review filed under rule 10.13(1) gives the review officer the authority to issue an interim or final certificate that certifies the amount of a lawyer’s charges to be paid (rule 10.19(4)(a)). It also accords the review officer the jurisdiction to make a costs award related to the review pursuant to rule 10.23.140",
-          "citations": []
+          "citations": [],
+          "review_flag": "(1) The commentary ('General Principles', 328 characters, no citation): 'A request for review filed under rule 10.13(1) gives the review officer the authority to issue an interim or final certificate that certifies the amount of a lawyer's charges to be paid (rule 10.19(4)(a)). It also accords the review officer the jurisdiction to make a costs award related to the review pursuant to rule 10.23.140' - the '140' after 'rule 10.23.' is a footnote number whose text is not printed (it is not a rule number), so the source of the passage is not named. It agrees with the official text: 10.13(1) (a lawyer or a client may obtain an appointment date for a review), 10.19(4)(a) (the certificate must 'certify the amount to be paid by each party or person') and 10.23 (the review officer 'may allow or disallow the reasonable and proper costs of a review'). Neither Book A nor Book B has a matching passage (Book A's note is the Botan v. St. Amand case on costs of an action). The passage is kept as printed (flagged)."
         }
       ],
       "misattributed_entries": [],
@@ -222,6 +227,12 @@
     "gate_artifact_sha256": "767b94e4778a525a3074865ee5d53220c717f3409687af361fcfe7f83c5727df"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.23' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1545) and the rule (line 12297). No other rule or form cites 10.23 by number. By subject: 10.13(1) (appointment date for a review), 10.19(3)-(4) (the review officer's decision and certificate: 'certify the amount to be paid by each party or person'), 10.22(b) (no costs award in an action for a lawyer's charges unless the Court specifically so orders), 10.29 (title 'General rule for payment of litigation costs', line 1570) and 10.24 (the next rule, review after particular events).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running head (combined_rule10.txt line 1767, p.10-37) and the rule text (line 1789); no other Book A file cites 10.23 by number. The note's case, Botan v. St. Amand (#2) 2012 ABQB 260, 538 AR 306, affd 2013 ABCA 227, is also cited in the 10.7 note (p.10-17, line 789 'See also (#2) 2012 ABQB 260'; p.10-21, line 1000 'Botan v. St. Amand (#1) & (#2), supra'), in the 10.29 note (p.10-47, line 2327) and in the 10.33 note (p.10-111, line 5967; p.10-114, line 6122), all on costs.",
+    "BOOK_B: a heading paragraph and no commentary ('10.23. Costs of review', rule10_part04_document.json); no other Book B file cites 10.23 by number.",
+    "BOOK_C: the entry for 10.23 in '461-480_10_11 to 10_31.json' (text and amendment note and a 'General Principles' commentary of 328 characters, citing rules 10.13(1), 10.19(4)(a) and 10.23); no other Book C file cites 10.23 by number."
+  ],
   "dedupe_log": [
     "10.23 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.23 BOOK_B: operative text dropped (EXACT_MATCH)",
