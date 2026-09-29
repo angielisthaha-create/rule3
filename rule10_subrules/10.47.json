@@ -23,6 +23,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.47 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file '501-520_10_47 to 11_9.json' (no Division heading in front of it) and has no commentary and no citation."
     }
   },
   "sources": {
@@ -63,7 +66,8 @@
           "10-138"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-137 (line 7358) to p.10-138 (line 7382): title (line 7358), rule text (lines 7359-7365; no footnote marker, no amendment bracket), the Information Note (lines 7366-7368: 'For rules about litigation representatives see Part 2 [The Parties to Litigation] Division 2 [Litigation Representatives].'), the marker 10-138 (line 7370) and running head (line 7371), Related Provisions (lines 7373-7374: '2.11 (litigation representatives) ; 2.14(2) (f) (acknowledgment of liability for costs).', with a full stop at the end), the note (two paragraphs, lines 7376-7380 with marker '1' and lines 7381-7382 with marker '2') and 2 footnotes: p.10-138 fn 1 (line 7411, Re Respec Oilﬁeld Serv. 2010 ABQB 277 (Apr 28)) and fn 2 (line 7412, L. C. v. R. (Alta. ) 2015 ABQB 713, JCE 0703 10836 (Nov 7)); fns 3 and 4 and the history of that block belong to 10.48. Read against the official text: the rule text equals official 10.47 (EXACT_MATCH, no differences); the Information Note is printed in Book A (and in a garbled copy in Book C); the official text has no such note; its references land: official Part 2 is 'The Parties to Litigation' (line 89 of the table of contents) and the litigation representative rules are 2.11 to 2.14 and following. (1) Related Provisions: '2.11 (litigation representatives)' is a label for official 2.11 'Litigation representative required'; '2.14(2) (f) (acknowledgment of liability for costs)' does not land: official 2.14(2)(f) is 'if the litigation representative is a corporation, the place of business or activity of the corporation in Alberta'; the acknowledgment of potential liability for a costs award is 2.14(2)(g). The same pointer '2.14(2) (f)' is printed in the Rule 2 note (combined_rule2.txt line 1555). (2) The note's statements read against the rule: 'In complex receivership, where the court had to supervise, the court refused to allocate costs based on the proportion of debt owed to each creditor to the total debt owed by the debtor ... The two secured creditors should not bear more than their pro rata share of allocated costs' (fn 1, Re Respec Oilfield Serv. 2010 ABQB 277) is about allocating costs among creditors in a receivership and does not concern the liability of a litigation representative under 10.47; 'The litigation representative of a minor plaintiff, the named plaintiff in a class action by minors, got exemption from paying costs of the upcoming certification motion' (fn 2, L. C. v. R. (Alta.) 2015 ABQB 713) is an exception to official 10.47(1) (a litigation representative for a plaintiff is liable to pay a costs award against the plaintiff), which has no exception clause; fn 2 has the file number 'JCE 0703 10836', which is also the file number of 'L. C. v. Child Welfare (#_) 2023 ABKB 334, JCE 0703 10836' in the 10.34 note (p.10-123 fn 1, line 6713), so the two footnotes name the same proceeding differently ('L. C. v. R. (Alta.)' and 'L. C. v. Child Welfare'). (3) No supra or infra is used; no '(#_)'-type placeholder in the two footnotes ('(Alta. )' is Book A's court label). The rule has no history footnote, so no old-rule references. Book B has no commentary for this rule (its 2.11/2.14 commentary cites r 10.47 in rule2_part02_document.json), so nothing in this note is corroborated by Book B."
     },
     "BOOK_B": {
       "title": "Liability of litigation representative for costs",
@@ -214,20 +218,25 @@
     {
       "text": "For rules about litigation representatives see Part 2 [The Parties to Litigation] Division 2\n[Litigation Representatives].",
       "carriers": [
-        "BOOK_A"
-      ]
-    },
-    {
-      "text": "For rules about litigation representatives see Part  Thompson v. Procrane Inc (c.o.b. Sterling Crane) . , [2016] A.J. No. 237, 2016 ABCA 71 at para. 12 (Alta. C.A.). [The Parties to Litigation]",
-      "carriers": [
+        "BOOK_A",
         "BOOK_C"
-      ]
+      ],
+      "carrier_defects": {
+        "BOOK_C": "Book C's Information Note field for this rule is garbled and is not retained (the note is kept from Book A alone): it reads 'For rules about litigation representatives see Part  Thompson v. Procrane Inc (c.o.b. Sterling Crane) . , [2016] A.J. No. 237, 2016 ABCA 71 at para. 12 (Alta. C.A.). [The Parties to Litigation]', that is, the words of the note ('For rules about litigation representatives see Part [2] [The Parties to Litigation] ...') are broken in the middle by a case citation, Thompson v. Procrane Inc (c.o.b. Sterling Crane), 2016 ABCA 71 at para. 12, whose proposition and place are not printed (Book A's 10.47 note does not cite it; Book B prints Thompson v. Procrane 2016 ABCA 71 in its 10.33 commentary, paragraphs 15-16, and Book A in the 10.33 note, line 6129); the digit of the Part number and the Division 2 words are missing."
+      }
     }
+  ],
+  "see_also": [
+    "Official text (searched for '10.47' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1644) and the rule (line 13075). No other rule or form cites 10.47 by number. By subject: 2.11 'Litigation representative required' (official line 138), 2.14 'Self-appointed litigation representatives' (line 147; 2.14(2)(g), not (f), is 'an acknowledgment of potential liability for payment of a costs award attributable to or liable to be paid by the litigation representative'), and Part 2 'The Parties to Litigation'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.31 note (line 4553, p.10-86, fn 8: '... and R.10.47.') and this rule (line 7359); in combined_rule2.txt lines 1555 (fn 10: 'Rules 2.14(2) (f), 10.47'), 1755, 1840, 1844, 1882, 1971 and 2059 (Related Provisions and text of the Rule 2 notes: '10.47 (liability for costs)', 'see rule 10.47 [Liability of ...'); in 'combined rule3.txt' line 440 ('with costs under R.10.47').",
+    "BOOK_B: rule10_part10_document.json (8 lines with '10.47': this rule's heading and paragraph records) holds the heading and the rule text (EXACT_MATCH) and no commentary; rule2_part02_document.json (line 1827, a commentary in that file, not identified: '... be willing to pay the court costs of the litigation: see Rules of Court, r 10.47').",
+    "BOOK_C: '501-520_10_47 to 11_9.json' (the entry is the first of the file; rule text equal to the official text, amendment note, one garbled Information Note field, no commentary); no other Book C file cites 10.47 by number."
   ],
   "dedupe_log": [
     "10.47 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.47 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.47 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.47 BOOK_C information note dropped (manual review)",
     "10.47 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
   ]
 }
