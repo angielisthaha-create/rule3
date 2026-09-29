@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.24 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. Book C's entry has no commentary and no citation."
     }
   },
   "sources": {
@@ -39,7 +42,7 @@
     },
     "BOOK_A": {
       "title": "Reviewing Lawyer’s Charges: Incomplete Services and Particular Events",
-      "operative_text_raw": "10.24(1) If any of the following events occurs, a lawyer, the lawyer’s personal\nrepresentative or a client may make an appointment with a review ofﬁcer for the\npurpose of determining the amount of the lawyer’s charges payable by the client:\n(a) the lawyer dies;\n(b) the lawyer is suspended, disbarred or incapacitated;\n(c) the lawyer ceases to be the client’s lawyer or the client ceases to be\nthe lawyer’s client;\n(d) a dispute arises about the apportionment of contingency fees under\na contingency fee agreement under which 2 or more lawyers are\nengaged, whether or not the contingency has occurred;\n(e) the client retains a new lawyer in the action;\n(f) the client unreasonably discontinues or abandons any matter to\nwhich a contingency fee agreement applies;\n(g) any other event that creates uncertainty about a lawyer’s charges or\nwho is to pay them or to whom they are to be paid.¹\n(2) When making a decision under this rule, the review ofﬁcer must take into\nconsideration the factors described in rule 10.2 [Payment for lawyer’s services\nand contents of lawyers account], except to the extent that a retainer agreement\notherwise provides.",
+      "operative_text_raw": null,
       "operative_text_sha256": "ca5b658268f87b96470680cbc4e94437c7d2739cb3113e4d8b82ee5826f5b849",
       "related_provisions": null,
       "commentary": "retainer agreement, review officer\nRule 10.24 is separate and more speciﬁc than R.10.10(2).²",
@@ -64,7 +67,9 @@
         "book_pages": [
           "10-38"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (lines 1814-1832, title on line 1813) has the same words as the official text (compared by hand, subrule (1) with paragraphs (a)-(g) and subrule (2)) with one addition: the bracket label '[Payment for lawyer's services and contents of lawyers account]' after 'rule 10.2' in (2) (the official text has no label; the label here has 'lawyers account' with no apostrophe, where Book A's labels in 10.18(4) and 10.19(1) read 'a lawyer's account' and 'lawyer's account', and the official title of 10.2 reads 'contents of lawyer's account'); it also differs in ligatures ('ofﬁcer'), spacing and line breaks, and the footnote marker '1' after (g). It has no amendment bracket (the official history is 'AR 124/2010', no amending regulation). The official text controls; the raw Book A lines are not kept.",
+      "commentary_review_flag": "Read in full, p.10-38 (lines 1813-1835 and the footnote block, line 1847 ff.): title (line 1813), rule text (lines 1814-1832; marker '1' after (1)(g)), a bare line 'retainer agreement, review officer' (line 1834, printed alone between blank lines, before the note), and a one-sentence note (line 1835: 'Rule 10.24 is separate and more specific than R.10.10(2).²') with fns 1-2 of p.10-38 (lines 1848-1852; the block also holds the 10.25 history, fn 3) = 2. Read against the official text: the rule text equals official 10.24(1)(a)-(g) and (2) apart from the bracket label. The bare line 'retainer agreement, review officer' is not a sentence of the note and is printed without a heading; it has the form of the 'Defined Terms' lists that Book A's Part 3 file prints under a 'Defined Terms' heading (74 hits in combined rule3.txt; none in combined_rule10.txt), and 'retainer agreement' and 'review officer' are terms the rule uses (the same bare-line pattern is printed at the 10.18 note ('review officer') and, per the 10.3 flag, at 'trustee'); it is kept in the commentary field as printed. 'Rule 10.24 is separate and more specific than R.10.10(2)' is the sentence also in the 10.10 note (p.10-26, line 1240); it agrees with Book B's 10.24 commentary (Lising v. Smith 2018 ABQB 1061, paras 21-22: 10.24 'does not contain any limitation on a client's right to have a lawyer's charges reviewed') and fn 2 cites that case ('Lising v. Smith 2018 ABQB 1061, JCE 1803 13042'). FLAG: the 10.10 note's description of the same case ('The time limit for review did not bar review here because (at the clients' request) some of the services were rendered well after the invoice for them', with fn 3 'Lising v. Smith 2018 ABQB 1061 ... Quaere') does not match Book B's account of the facts (a suspended lawyer who could not complete the services; the invoice of October 3, 2017 was reviewed although more than six months had passed): to be checked when the 10.10 flags are re-read. History fn 1: 'Quite similar to previous 1968 R.621. It came from 1914 Rr.751, 752. Subrule (1) was new in 1968, (2) came from 1944 C. R.752, (3) came from 1944 C. R.754, (4) was new in 1968, (5) was new in 1968, and (6) came from 1944 C. R.752, 753.' - the note speaks of six subrules of old R.621 while official 10.24 has two, so the numbering is the old rule's; not corroborated by Book B or Book C. The pointer in the 10.44 Related Provisions ('See R.10.24n.', p.10-135, line 7283) has no matching text in this note (its only sentence concerns 10.10(2); the 10.44 rule is on appeal from an assessment officer's decision). supra/infra: no supra or infra is used in this note."
     },
     "BOOK_B": {
       "title": "Reviewing lawyer's charges: incomplete services and particular events",
@@ -92,7 +97,7 @@
     "BOOK_C": {
       "title": "Reviewing lawyer’s charges: incomplete services and particular events",
       "division_heading": null,
-      "operative_text_raw": "(1) If any of the following events occurs, a lawyer, the lawyer’s personal representative or a client may make an appointment with a review officer for the purpose of determining the amount of the lawyer’s charges payable by the client:\n(2) When making a decision under this rule, the review officer must take into consideration the factors described in rule 10.2 [Payment for lawyer’s services and contents of lawyer’s account], except to the extent that a retainer agreement otherwise provides.",
+      "operative_text_raw": null,
       "operative_text_sha256": "8c3ffc278f088fa32d7a0356edaff15ce3c713b40a9e6f9c9a6b5860ee8bc383",
       "citations": [],
       "commentary": [],
@@ -100,7 +105,8 @@
       "locator": {
         "file": "461-480_10_11 to 10_31.json",
         "source_file": "461-480_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (1) is cut off after 'payable by the client:' so paragraphs (a)-(g) are missing; subrule (2) is complete but carries the bracket label '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' (the official text has none)."
     }
   },
   "comparison_vs_official": {
@@ -108,7 +114,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (lines 1814-1832, title on line 1813) has the same words as the official text (compared by hand, subrule (1) with paragraphs (a)-(g) and subrule (2)) with one addition: the bracket label '[Payment for lawyer's services and contents of lawyers account]' after 'rule 10.2' in (2) (the official text has no label; the label here has 'lawyers account' with no apostrophe, where Book A's labels in 10.18(4) and 10.19(1) read 'a lawyer's account' and 'lawyer's account', and the official title of 10.2 reads 'contents of lawyer's account'); it also differs in ligatures ('ofﬁcer'), spacing and line breaks, and the footnote marker '1' after (g). It has no amendment bracket (the official history is 'AR 124/2010', no amending regulation). The official text controls; the raw Book A lines are not kept."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -118,13 +125,6 @@
     "BOOK_C": {
       "status": "CARRIER_MISSING_TEXT",
       "similarity": 0.5613,
-      "differences": [
-        {
-          "op": "delete",
-          "official": "(a) the lawyer dies; (b) the lawyer is suspended, disbarred or incapacitated; (c) the lawyer ceases to be the client's lawyer or the client ceases to be the lawyer's client; (d) a dispute arises about the apportionment of contingency fees under a contingency fee agreement under which 2 or more lawyers are engaged, whether or not the contingency has occurred; (e) the client retains a new lawyer in the action; (f) the client unreasonably discontinues or abandons any matter to which a contingency fee agreement applies; (g) any other event that creates uncertainty about a lawyer's charges or who is to pay them or to whom they are to be paid.",
-          "carrier": ""
-        }
-      ],
       "version_identity": "SAME_VERSION_PROVEN"
     }
   },
@@ -225,8 +225,16 @@
     "gate_artifact_sha256": "696965d724a76e76013cff238b6e0a6fe4dacf3f8f61dde6d36a434ec1cb3b69"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.24' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1548), the rule heading (line 12309, 'Rule 10.24') and the rule text (line 12322). No other rule or form cites 10.24 by number. By subject: 10.10 (the time limit for review that Book A and Book B say does not bar a review under 10.24), 10.2 (the factors 10.24(2) makes the review officer consider), 10.13-10.14 (the appointment), 10.7-10.9 (contingency fee agreements: 10.24(1)(d) and (f)), 10.23 (costs of review) and 10.25 (the next rule, return of records).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running head (combined_rule10.txt line 1812), the rule text (line 1814) and the note (line 1835, p.10-38: 'Rule 10.24 is separate and more specific than R.10.10(2).'). Other Book A passages that cite 10.24: the 10.9 Related Provisions, p.10-22 (line 1037, '10.24 (review in special circumstances)', a label for the official title 'Reviewing lawyer's charges: incomplete services and particular events'); the 10.10 note, p.10-26 (line 1240, 'And R.10.24 is separate and more specific than R.10.10(2).' - the same sentence as here); and the 10.44 Related Provisions, p.10-135 (line 7283, 'See R.10.24n.', after '10.26 (appeal from review officer)'). No other Book A file cites 10.24.",
+    "BOOK_B: this rule's own commentary ('Commentary § 10.24:1', 1,482 characters, rule10_part04_document.json: Lising v. Smith 2018 ABQB 1061, Justice Shelley, paras 21-22: the lawyer, suspended by the Law Society, 'did not complete the services contemplated in the Retainer Agreement'; Rule 10.24 'is a separate Rule specific to this circumstance and does not contain any limitation on a client's right to have a lawyer's charges reviewed'; the Review Officer was not precluded 'by virtue of Rule 10.10(2)'). Every hit for '10.24' in Book B is in this rule's heading paragraphs and this commentary (rule10_part04_document.json); no other Book B file cites 10.24.",
+    "BOOK_C: the entry for 10.24 in '461-480_10_11 to 10_31.json' (text and amendment note; no commentary); no other Book C file cites 10.24 by number."
+  ],
   "dedupe_log": [
     "10.24 BOOK_B: operative text dropped (EXACT_MATCH)",
-    "10.24 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.24 BOOK_C: rule text dropped (manual review)",
+    "10.24 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.24 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }
