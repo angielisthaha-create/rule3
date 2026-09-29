@@ -1,0 +1,471 @@
+{
+  "source_file": "241-260_revised.md",
+  "definitions": [],
+  "hierarchy": [
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.7",
+        "title": "Producible records",
+        "text": "(1) Each producible record in an affidavit of records must (a) be numbered in a convenient order, and (b) be briefly described.\n(2) A group of records may be bundled and treated as a single record if (a) the records are all of the same nature, and (b) the bundle is described in sufficient detail to enable another party to understand what it contains.",
+        "sentences": [
+          "(1) Each producible record in an affidavit of records must",
+          "(a) be numbered in a convenient order, and",
+          "(b) be briefly described.",
+          "(2) A group of records may be bundled and treated as a single record if",
+          "(a) the records are all of the same nature, and",
+          "(b) the bundle is described in sufficient detail to enable another party to understand what it contains."
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "The wording of rule 5.7, requiring all records in an affidavit of records to be numbered and briefly described, is awkward and misleading. “Producible” in this rule refers to records that are relevant and material and under a party’s control — in other all words, records that are producible. prima facie",
+            "sentences": [
+              "The wording of rule 5.7, requiring all records in an affidavit of records to be numbered and briefly described, is awkward and misleading. “Producible” in this rule refers to records that are relevant and material and under a party’s control — in other all words, records that are producible. prima facie"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.8",
+        "title": "Producible records for which there is an objection to produce — (1) Subject to subrules (3) to (5), for each producible record that a party objects to produce, the affidavit of records must (a) number the record in a convenient order, and (b) describe the grounds for the objection to produce the record.",
+        "text": "(2) For the purposes of this rule, the description in the affidavit of records of any record the party objects to produce and the grounds for the objection must be sufficient to enable a court reviewing the records to confirm that each record is disclosed in the affidavit without undermining or proving the privilege that is claimed in respect of the records.\n(3) Subject to subrule (4), if a party objects to produce a number of related records on the same grounds, the records may be bundled and numbered, and the records along with the grounds for the objection to produce the records may be collectively described in the affidavit of records.\n(4) For greater certainty, (a) producible records that a party objects to produce that are in the files of a lawyer (i) may be disclosed collectively in the affidavit of records without being numbered, if the records consist of the lawyer’s work product, including working notes and memoranda prepared by the lawyer or the law firm and communications with the client and opposing counsel, (ii) may be numbered or bundled and may be disclosed collectively in the affidavit of records, if the records are described in a manner that distinguishes (A) records for which solicitor and client privilege is claimed, (B) records that were prepared for the dominant purpose of litigation, and (C) records for which production is objected to on a ground other than those referred to in paragraphs (A) and (B), and (b) producible records that a party does not object to produce that are in the files of a lawyer must be separately disclosed in the affidavit of records.\n(5) Expert reports prepared for the dominant purpose of litigation, and records related to those expert reports, must be disclosed in accordance with rule 5.35 , and not in accordance with [Sequence of exchange of experts’ reports] this Division.",
+        "sentences": [
+          "(2) For the purposes of this rule, the description in the affidavit of records of any record the party objects to produce and the grounds for the objection must be sufficient to enable a court reviewing the records to confirm that each record is disclosed in the affidavit without undermining or proving the privilege that is claimed in respect of the records.",
+          "(3) Subject to subrule (4), if a party objects to produce a number of related records on the same grounds, the records may be bundled and numbered, and the records along with the grounds for the objection to produce the records may be collectively described in the affidavit of records.",
+          "(4) For greater certainty",
+          "(a) producible records that a party objects to produce that are in the files of a lawyer",
+          "(i) may be disclosed collectively in the affidavit of records without being numbered, if the records consist of the lawyer’s work product, including working notes and memoranda prepared by the lawyer or the law firm and communications with the client and opposing counsel",
+          "(ii) may be numbered or bundled and may be disclosed collectively in the affidavit of records, if the records are described in a manner that distinguishes (A) records for which solicitor and client privilege is claimed, (B) records that were prepared for the dominant purpose of litigation, and (C) records for which production is objected to on a ground other than those referred to in paragraphs (A) and (B), and",
+          "(b) producible records that a party does not object to produce that are in the files of a lawyer must be separately disclosed in the affidavit of records.",
+          "(5) Expert reports prepared for the dominant purpose of litigation, and records related to those expert reports, must be disclosed in accordance with rule 5.35 , and not in accordance with [Sequence of exchange of experts’ reports] this Division."
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 5.8 imposes additional requirements on a party who objects to produce an otherwise producible record. The rule requires the party to identify the “grounds for the objection”. This means that the party must state the specific objection being relied upon for that record (or bundle of records) and the party must describe how the record (or bundle of records) fits within the claimed objection. Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at paras. 9, 42, 43 (Alta. C.A.).\nDescription – The description of the objection must be detailed enough to allow the other",
+            "sentences": [
+              "Rule 5.8 imposes additional requirements on a party who objects to produce an otherwise producible record.",
+              "The rule requires the party to identify the “grounds for the objection”.",
+              "This means that the party must state the specific objection being relied upon for that record (or bundle of records) and the party must describe how the record (or bundle of records) fits within the claimed objection.",
+              "Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at paras. 9, 42, 43 (Alta. C.A.).",
+              "Description – The description of the objection must be detailed enough to allow the other"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2014 ABCA 289",
+                "style_of_cause": "Canadian Natural Resources Ltd. v. ShawCor Ltd.",
+                "context": "ecord (or bundle of records) and the party must describe how the record (or bundle of records) fits within the claimed objection. Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at paras. 9, 42, 43 (Alta. C.A.).\nDescription – The description of the objection must be detailed e"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.9",
+        "title": "Who makes affidavit of records",
+        "text": "(1) Subject to subrule (2), an affidavit of records must be sworn by (a) the party, (b) if the party is a corporation, by the corporation’s corporate representative, or (c) if a litigation representative is appointed for a party, by the party’s litigation representative.\n(2) Asuitable person, other than the lawyer of record of the party, may swear the affidavit of records if (a) it is inconvenient for the party, the corporate representative or the litigation representative to do so, and (b) the parties agree or the Court so orders.",
+        "sentences": [
+          "(1) Subject to subrule (2), an affidavit of records must be sworn by",
+          "(a) the party",
+          "(b) if the party is a corporation, by the corporation’s corporate representative, or",
+          "(c) if a litigation representative is appointed for a party, by the party’s litigation representative.",
+          "(2) Asuitable person, other than the lawyer of record of the party, may swear the affidavit of records if",
+          "(a) it is inconvenient for the party, the corporate representative or the litigation representative to do so, and",
+          "(b) the parties agree or the Court so orders."
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 5.9 provides who must swear an affidavit of records. Note the interplay between this rule and rules 5.4 (Corporate Representative) and 2.11 to 2.17 (Litigation representatives). The “inconvenience” threshold under rule 5.9(2) requires agreement by the parties or a court order. Given that the law is now clear that a person who swears an affidavit of records may be cross-examined as of right, Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 10 (Alta. Q.B.). and that the default is that a party or the corporate representative must swear the affidavits of records, presumably “inconvenience” would encompass some manifest, provable reasonable inability on the part of the proper deponent to attend to swearing the affidavit of records within the time limits set out in rule 5.5.",
+            "sentences": [
+              "Rule 5.9 provides who must swear an affidavit of records. Note the interplay between this rule and rules 5.4 (Corporate Representative) and 2.11 to 2.17 (Litigation representatives).",
+              "The “inconvenience” threshold under rule 5.9(2) requires agreement by the parties or a court order. Given that the law is now clear that a person who swears an affidavit of records may be cross-examined as of right, Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 10 (Alta. Q.B.). and that the default is that a party or the corporate representative must swear the affidavits of records, presumably “inconvenience” would encompass some manifest, provable reasonable inability on the part of the proper deponent to attend to swearing the affidavit of records within the time limits set out in rule 5.5."
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2017 ABQB 26",
+                "style_of_cause": "Penn West Petroleum Ltd. v. Devon Canada Corp.",
+                "context": "a court order. Given that the law is now clear that a person who swears an affidavit of records may be cross-examined as of right, Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 10 (Alta. Q.B.). and that the default is that a party or the corporate representative must"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.10",
+        "title": "Subsequent disclosure of records",
+        "text": "If, after a party has served an affidavit of records on other parties, the first party finds, creates or obtains control of a relevant and material record not previously disclosed, the first",
+        "sentences": [
+          "If, after a party has served an affidavit of records on other parties, the first party finds, creates or obtains control of a relevant and material record not previously disclosed, the first"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.11",
+        "title": "Order for record to be produced",
+        "text": "(1) On application, the Court may order a record to be produced if the Court is satisfied that (a) a relevant and material record under the control of a party has been omitted from an affidavit of records, or (b) a claim of privilege has been incorrectly or improperly made in respect of a record.\n(2) For the purpose of making a decision on the application, the Court may",
+        "sentences": [
+          "(1) On application, the Court may order a record to be produced if the Court is satisfied that",
+          "(a) a relevant and material record under the control of a party has been omitted from an affidavit of records, or",
+          "(b) a claim of privilege has been incorrectly or improperly made in respect of a record.",
+          "(2) For the purpose of making a decision on the application, the Court may"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 5.11 permits a party to apply to court for production of relevant and material records not disclosed by a party and under that party’s control, and to challenge claims of privilege or irrelevance. It also sets out the role of the court when a party alleges a relevant and material record has been omitted or a claim of privilege has been made incorrectly or improperly. Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at para. If an opposing party is unable to determine whether privilege is properly claimed from the way the affidavit of records is drafted, that party is entitled to take other steps to assess the validity of the claim. Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at para. Rule 5.11 makes plain that parties are entitled to seek to satisfy themselves on this point, such as by seeking inspection by the court. Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at para.\nPursuant to rule 3.68 (4)(b)(iii), the court may strike out all or any pleadings if a party without sufficient cause does not comply with rule 5.11.104 Cross-Examination on Affidavit of Records – The ability to cross-examine on an affidavit of records is as of right; no court order is required. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.). There is “nothing to be gained” in terms of expediting litigation, by requiring a party to obtain the court’s permission to cross-examine a party or its representative on an affidavit of records — it adds another step needlessly. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.).\nThe affidavit of records is a pivotal document under the New Rules and it is impossible to test the methodology or the adequacy of document production without cross-examining on an affidavit. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 7 (Alta. Q.B.). However, if such a step is abusive, then the right to cross-examination could be denied. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.).\nRedactions Permitted for Privilege and Relevance – Counsel may redact information that is both private and irrelevant (for example, certain information on tax records). Talisman Energy Inc. v. Flo-Dynamics Systems Inc., [2015] A.J. No. 178, 2015 ABQB 100 at para. 34 (Alta. Q.B.). If there is no reason for the opposite party to see irrelevant and immaterial information, the court ought",
+            "sentences": [
+              "Rule 5.11 permits a party to apply to court for production of relevant and material records not disclosed by a party and under that party’s control, and to challenge claims of privilege or irrelevance.",
+              "It also sets out the role of the court when a party alleges a relevant and material record has been omitted or a claim of privilege has been made incorrectly or improperly.",
+              "Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at para. If an opposing party is unable to determine whether privilege is properly claimed from the way the affidavit of records is drafted, that party is entitled to take other steps to assess the validity of the claim.",
+              "Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at para. Rule 5.11 makes plain that parties are entitled to seek to satisfy themselves on this point, such as by seeking inspection by the court.",
+              "Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at para. Pursuant to rule 3.68 (4)(b)(iii), the court may strike out all or any pleadings if a party without sufficient cause does not comply with rule 5.11.104 Cross-Examination on Affidavit of Records – The ability to cross-examine on an affidavit of records is as of right",
+              "no court order is required. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.).",
+              "There is “nothing to be gained” in terms of expediting litigation, by requiring a party to obtain the court’s permission to cross-examine a party or its representative on an affidavit of records — it adds another step needlessly.",
+              "Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.).",
+              "The affidavit of records is a pivotal document under the New Rules and it is impossible to test the methodology or the adequacy of document production without cross-examining on an affidavit.",
+              "Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 7 (Alta. Q.B.).",
+              "However, if such a step is abusive, then the right to cross-examination could be denied. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.).",
+              "Redactions Permitted for Privilege and Relevance – Counsel may redact information that is both private and irrelevant (for example, certain information on tax records).",
+              "Talisman Energy Inc. v. Flo-Dynamics Systems Inc., [2015] A.J. No. 178, 2015 ABQB 100 at para. 34 (Alta. Q.B.).",
+              "If there is no reason for the opposite party to see irrelevant and immaterial information, the court ought"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2014 ABCA 289",
+                "style_of_cause": "Canadian Natural Resources Ltd. v. ShawCor Ltd.",
+                "context": "a party alleges a relevant and material record has been omitted or a claim of privilege has been made incorrectly or improperly. Canadian Natural Resources Ltd. v. ShawCor Ltd., [2014] A.J. No. 976, 2014 ABCA 289 at para. If an opposing party is unable to determine whether privilege is properly claimed from the"
+              },
+              {
+                "neutral_citation": "2017 ABQB 26",
+                "style_of_cause": "Penn West Petroleum Ltd. v. Devon Canada Corp.",
+                "context": "tion on Affidavit of Records – The ability to cross-examine on an affidavit of records is as of right; no court order is required. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.). There is “nothing to be gained” in terms of expediting litigation, by requ"
+              },
+              {
+                "neutral_citation": "2015 ABQB 100",
+                "style_of_cause": "Talisman Energy Inc. v. Flo-Dynamics Systems Inc.",
+                "context": "levance – Counsel may redact information that is both private and irrelevant (for example, certain information on tax records). Talisman Energy Inc. v. Flo-Dynamics Systems Inc., [2015] A.J. No. 178, 2015 ABQB 100 at para. 34 (Alta. Q.B.). If there is no reason for the opposite party to see irrelevant and immate"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.12",
+        "title": "Penalty for not serving affidavit of records",
+        "text": "(1) In addition to any other [Tariff of Recoverable Fees], or any larger or smaller amount the Court may determine, on a party who, without sufficient cause, (a) does not serve an affidavit of records in accordance with rule 5.5 [When an affidavit of records must be served] or within any modified period agreed on by the parties or set by the Court, (b) does not comply with rule 5.10 , or [Subsequent disclosure of records]\n(c) does not comply with an order under rule 5.11 [Order for a record to be produced].\n(2) If there is more than one party adverse in interest to the party ordered to pay the penalty, the penalty must be paid to the parties in the proportions determined by the Court.\n(3) A penalty imposed under this rule applies irrespective of the final outcome of the action.",
+        "sentences": [
+          "(1) In addition to any other [Tariff of Recoverable Fees], or any larger or smaller amount the Court may determine, on a party who, without sufficient cause",
+          "(a) does not serve an affidavit of records in accordance with rule 5.5 [When an affidavit of records must be served] or within any modified period agreed on by the parties or set by the Court",
+          "(b) does not comply with rule 5.10 , or [Subsequent disclosure of records]",
+          "(c) does not comply with an order under rule 5.11 [Order for a record to be produced].",
+          "(2) If there is more than one party adverse in interest to the party ordered to pay the penalty, the penalty must be paid to the parties in the proportions determined by the Court.",
+          "(3) A penalty imposed under this rule applies irrespective of the final outcome of the action."
+        ],
+        "citations": [],
+        "info_notes": [
+          "One of the additional sanctions that may be imposed is the striking out of pleadings. See rule 3.68(3) .\n[Court options to deal with significant deficiencies]"
+        ],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "While language of rule 5.12 is more permissive than its Former Rule counterpart (rule 190), Sun Life Assurance Co. of Canada v. Tom 2003-1 Limited Partnership #2, [2010] A.J. No. 1639, it, like the Former Rule, is intended to have a deterrent effect for",
+            "sentences": [
+              "While language of rule 5.12 is more permissive than its Former Rule counterpart (rule 190), Sun Life Assurance Co. of Canada v. Tom 2003-1 Limited Partnership #2, [2010] A.J. No. 1639, it, like the Former Rule, is intended to have a deterrent effect for"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.13",
+        "title": "Obtaining records from others",
+        "text": "(1) On application, and after notice of (2) The person requesting the record must pay the person producing the record an amount determined by the Court.",
+        "sentences": [
+          "(1) On application, and after notice of",
+          "(2) The person requesting the record must pay the person producing the record an amount determined by the Court."
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "This rule enables parties to obtain copies of relevant and material records in the hands of non-parties to the litigation by application. Dow Chemical Canada Inc. v. Nova Chemical Corp., [2014] A.J. No. 790, 2014 ABCA 244 at para. 12 (Alta. C.A.); , [2015] A.J. No. Rule 5.13 uses language from former rule 209. The jurisprudential approach under that rule applies to the new rule 5.13.135 The process under rule 5.13 is not intended to facilitate a “fishing expedition”, 136nor compel disclosure, 1985 Sawridge Trust (Trustees of) v. Alberta (Public Trustee), [2015] A.J. No. 1443, 2015 ABQB and items sought must be particularized, meaning that this process is not a substitute for discovery. 1985 Sawridge Trust (Trustees of) v. Alberta (Public Trustee), [2015] A.J. No. 1443, 2015 ABQB Where circumstances are relatively straightforward, the issues of control, privilege and confidentiality may be decided together.  Kaddoura v. Hanson, [2015] A.J. No. 489, 2015 ABCA 154 at para. 30 (Alta. C.A.), affd the approach to r. 5.13 taken in , [2012] A.J. No. 279, 2012 ABQB 169 Rhino Legal Finance Inc. v. Salmon (Alta. Q.B. (Master)). Prior to availing itself of rule 5.13, the requesting party should be able to show the court it made efforts to obtain the documents from the opposing party in the litigation.  M. (B.) v. S. (W.), [2024] A.J. No. 313, 2024 ABKB 158 at paras. 13-14 (Alta. K.B.).\nThe Test – To obtain an order for production from a non-party, notice of the application must be served on the party affected by it, and the applicant must generally show that: (1) the records exist; (2) they are under the control of the non-party; (3) they are relevant and material; (4) they cannot be obtained from a party; (5) it is appropriate to order the non-party",
+            "sentences": [
+              "This rule enables parties to obtain copies of relevant and material records in the hands of non-parties to the litigation by application.",
+              "Dow Chemical Canada Inc. v. Nova Chemical Corp., [2014] A.J. No. 790, 2014 ABCA 244 at para. 12 (Alta. C.A.)",
+              ", [2015] A.J. No. Rule 5.13 uses language from former rule 209.",
+              "The jurisprudential approach under that rule applies to the new rule 5.13.135 The process under rule 5.13 is not intended to facilitate a “fishing expedition”, 136nor compel disclosure, 1985 Sawridge Trust (Trustees of) v. Alberta (Public Trustee), [2015] A.J. No. 1443, 2015 ABQB and items sought must be particularized, meaning that this process is not a substitute for discovery. 1985 Sawridge Trust (Trustees of) v. Alberta (Public Trustee), [2015] A.J. No. 1443, 2015 ABQB Where circumstances are relatively straightforward, the issues of control, privilege and confidentiality may be decided together. Kaddoura v. Hanson, [2015] A.J. No. 489, 2015 ABCA 154 at para. 30 (Alta. C.A.), affd the approach to r. 5.13 taken in , [2012] A.J. No. 279, 2012 ABQB 169 Rhino Legal Finance Inc. v. Salmon (Alta. Q.B. (Master)).",
+              "Prior to availing itself of rule 5.13, the requesting party should be able to show the court it made efforts to obtain the documents from the opposing party in the litigation.",
+              "M. (B.) v. S. (W.), [2024] A.J. No. 313, 2024 ABKB 158 at paras. 13-14 (Alta. K.B.).",
+              "The Test – To obtain an order for production from a non-party, notice of the application must be served on the party affected by it, and the applicant must generally show that:",
+              "(1) the records exist",
+              "(2) they are under the control of the non-party",
+              "(3) they are relevant and material",
+              "(4) they cannot be obtained from a party",
+              "(5) it is appropriate to order the non-party"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2014 ABCA 244",
+                "style_of_cause": "Dow Chemical Canada Inc. v. Nova Chemical Corp.",
+                "context": "e enables parties to obtain copies of relevant and material records in the hands of non-parties to the litigation by application. Dow Chemical Canada Inc. v. Nova Chemical Corp., [2014] A.J. No. 790, 2014 ABCA 244 at para. 12 (Alta. C.A.); , [2015] A.J. No. Rule 5.13 uses language from former rule 209. The juris"
+              },
+              {
+                "neutral_citation": "2015 ABCA 154",
+                "style_of_cause": "Kaddoura v. Hanson",
+                "context": "5] A.J. No. 1443, 2015 ABQB Where circumstances are relatively straightforward, the issues of control, privilege and confidentiality may be decided together.  Kaddoura v. Hanson, [2015] A.J. No. 489, 2015 ABCA 154 at para. 30 (Alta. C.A.), affd the approach to r. 5.13 taken in , [2012] A.J. No. 279, 2012 ABQB 16"
+              },
+              {
+                "neutral_citation": "2012 ABQB 169",
+                "style_of_cause": "Kaddoura v. Hanson",
+                "context": ", privilege and confidentiality may be decided together.  Kaddoura v. Hanson, [2015] A.J. No. 489, 2015 ABCA 154 at para. 30 (Alta. C.A.), affd the approach to r. 5.13 taken in , [2012] A.J. No. 279, 2012 ABQB 169 Rhino Legal Finance Inc. v. Salmon (Alta. Q.B. (Master)). Prior to availing itself of rule 5.13, th"
+              },
+              {
+                "neutral_citation": "2024 ABKB 158",
+                "style_of_cause": null,
+                "context": "itself of rule 5.13, the requesting party should be able to show the court it made efforts to obtain the documents from the opposing party in the litigation.  M. (B.) v. S. (W.), [2024] A.J. No. 313, 2024 ABKB 158 at paras. 13-14 (Alta. K.B.).\nThe Test – To obtain an order for production from a non-party, notice"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.14",
+        "title": "Inspection and copying of records",
+        "text": "(1) Every party is entitled, with respect to a record that is relevant and material and that is under the control of another party, to all of the following:\n(a) to inspect the record on one or more occasions on making a written request to do so;\n(b) to receive a copy of the record on making a written request for the copy and paying reasonable copying expenses;\n(c) to make copies of the record when it is produced.\n(2) This rule does not apply to a record for which a claim of privilege is made unless the Court orders the record to be produced for inspection.\n(3) The Court or a party to an action who receives a computer-generated document that was filed with the court clerk may request the person filing that document or causing it to be issued to provide a copy of it in an electronic format.",
+        "sentences": [
+          "(1) Every party is entitled, with respect to a record that is relevant and material and that is under the control of another party, to all of the following:",
+          "(a) to inspect the record on one or more occasions on making a written request to do so",
+          "(b) to receive a copy of the record on making a written request for the copy and paying reasonable copying expenses",
+          "(c) to make copies of the record when it is produced.",
+          "(2) This rule does not apply to a record for which a claim of privilege is made unless the Court orders the record to be produced for inspection.",
+          "(3) The Court or a party to an action who receives a computer-generated document that was filed with the court clerk may request the person filing that document or causing it to be issued to provide a copy of it in an electronic format."
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "This rule provides that an opposing party may inspect records upon written request, or may receive a copy of them upon written request and payment of litigation to provide records in electronic form rather than to appear in person and review",
+            "sentences": [
+              "This rule provides that an opposing party may inspect records upon written request, or may receive a copy of them upon written request and payment of litigation to provide records in electronic form rather than to appear in person and review"
+            ],
+            "citations": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.15",
+        "title": "Admissions of authenticity of records",
+        "text": "(1) In this rule, “authentic” includes the fact that (a) a document that is said to be an original was printed, written, signed or executed as it purports to have been, and (b) a document that is said to be a copy is a true copy of the original.\n(2) Subject to subrules (3), (4), (5) and (6), a party who makes an affidavit of records or on whose behalf of records is filed and a party on whom an affidavit of records is served are both presumed to admit that (a) a record specified or referred to in the affidavit is authentic, and (b) if a record purports or appears to have been transmitted, the original was sent by the sender and was received by the addressee.\n(3) Subrule (2) (a) does not apply if the maker or the recipient of the affidavit objects in accordance with subrule (4), (b) does not prejudice the right of a party to object to the admission of a record in evidence, and (c) does not constitute an agreement or acknowledgement that the record is relevant and material.\n(4) The maker or recipient of an affidavit of records is not presumed to make the admission referred to in subrule (2) if, within 3 months after the date on which the records are produced, the maker or recipient serves notice on the other party that the authenticity or transmittal of a record, as the case may be, is disputed and that it must be proved at trial.\n(5) Notwithstanding that the maker or recipient of an affidavit of records does not serve a notice under subrule (4) within the time provided by that subrule, the Court may order that the maker or recipient is not presumed to make the admission referred to in subrule (2).",
+        "sentences": [
+          "(1) In this rule, “authentic” includes the fact that",
+          "(a) a document that is said to be an original was printed, written, signed or executed as it purports to have been, and",
+          "(b) a document that is said to be a copy is a true copy of the original.",
+          "(2) Subject to subrules (3), (4)",
+          "(5) and (6), a party who makes an affidavit of records or on whose behalf of records is filed and a party on whom an affidavit of records is served are both presumed to admit that",
+          "(a) a record specified or referred to in the affidavit is authentic, and",
+          "(b) if a record purports or appears to have been transmitted, the original was sent by the sender and was received by the addressee.",
+          "(3) Subrule",
+          "(a) does not apply if the maker or the recipient of the affidavit objects in accordance with subrule (4)",
+          "(b) does not prejudice the right of a party to object to the admission of a record in evidence, and",
+          "(c) does not constitute an agreement or acknowledgement that the record is relevant and material.",
+          "(4) The maker or recipient of an affidavit of records is not presumed to make the admission referred to in subrule",
+          "(2) if, within 3 months after the date on which the records are produced, the maker or recipient serves notice on the other party that the authenticity or transmittal of a record, as the case may be, is disputed and that it must be proved at trial.",
+          "(5) Notwithstanding that the maker or recipient of an affidavit of records does not serve a notice under subrule",
+          "(4) within the time provided by that subrule, the Court may order that the maker or recipient is not presumed to make the admission referred to in subrule (2)."
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.16",
+        "title": "Undisclosed records not to be used without permission",
+        "text": "A party who (a) does not disclose a relevant and material record in an affidavit of records referred to in rule 5.6 [Form and contents of affidavit of records], (b) does not disclose as required by rule 5.10 [Subsequent disclosure of records] a relevant and material record that is found, created or obtained, or (c) does not produce a relevant and material record in accordance with a valid request to do so under rule 5.14 [Inspection and copying of records] may not afterwards use the record in evidence in the action unless the parties otherwise agree or the court otherwise orders on the basis that there was a sufficient reason for the failure to disclose.",
+        "sentences": [
+          "A party who",
+          "(a) does not disclose a relevant and material record in an affidavit of records referred to in rule 5.6 [Form and contents of affidavit of records]",
+          "(b) does not disclose as required by rule 5.10 [Subsequent disclosure of records] a relevant and material record that is found, created or obtained, or",
+          "(c) does not produce a relevant and material record in accordance with a valid request to do so under rule 5.14 [Inspection and copying of records] may not afterwards use the record in evidence in the action unless the parties otherwise agree or the court otherwise orders on the basis that there was a sufficient reason for the failure to disclose."
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "The rule uses the phrase “may not afterwards use the record in evidence in the action.” This is broader than use at trial, and arguably extends to use at discoveries and in applications.\nCertainly, rule 5.16 prevents undisclosed records from being produced at prima facie trial. Ursa Ventures Ltd. v. Edmonton (City), [2015] A.J. No. 759, 2015 ABQB 438 at para. 42 (Alta. Q.B.), affd [2016] A.J. No. 471, 2016 ABCA 135 (Alta. C.A.); Signalta Resources Ltd. v. Canadian Natural Resources Ltd., [2022] A.J. No. 227, 2022 ABQB 89 at para. 35 (Alta. Q.B.). In conjunction with rule 5.10, rule 5.16 requires the production of relevant and material records prior to trial precisely in order to prevent trial by ambush. Smith v. Smith, [2016] A.J. No. 1238, 2016 ABCA 376 at para. 42 (Alta. C.A.).\n“Records not disclosed in the sworn affidavit of records may not afterwards be used in evidence in an action unless the parties otherwise agree or the court otherwise orders, on the [2015] A.J. No. 87,  ABQB 792 (Alta. Q.B.) (A mixed outcome led to split costs for each respective party’s applications, but Master Schlosser affirming the Rule applies irrespective of action outcome). ABQB 54 at para. 51 (Alta. Master).\n[2017] A.J. No. 177, 2017 ABQB  Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.). at para. 351 (Alta. Q.B.), vard [2018] A.J. No. 1123, 2018 ABCA",
+            "sentences": [
+              "The rule uses the phrase “may not afterwards use the record in evidence in the action.” This is broader than use at trial, and arguably extends to use at discoveries and in applications. Certainly, rule 5.16 prevents undisclosed records from being produced at prima facie trial.",
+              "Ursa Ventures Ltd. v. Edmonton (City), [2015] A.J. No. 759, 2015 ABQB 438 at para. 42 (Alta. Q.B.), affd [2016] A.J. No. 471, 2016 ABCA 135 (Alta. C.A.)",
+              "Signalta Resources Ltd. v. Canadian Natural Resources Ltd., [2022] A.J. No. 227, 2022 ABQB 89 at para. 35 (Alta. Q.B.).",
+              "In conjunction with rule 5.10, rule 5.16 requires the production of relevant and material records prior to trial precisely in order to prevent trial by ambush.",
+              "Smith v. Smith, [2016] A.J. No. 1238, 2016 ABCA 376 at para. 42 (Alta. C.A.). “Records not disclosed in the sworn affidavit of records may not afterwards be used in evidence in an action unless the parties otherwise agree or the court otherwise orders, on the [2015] A.J. No. 87, ABQB 792 (Alta. Q.B.) (A mixed outcome led to split costs for each respective party’s applications, but Master Schlosser affirming the Rule applies irrespective of action outcome).",
+              "ABQB 54 at para. 51 (Alta. Master). [2017] A.J. No. 177, 2017 ABQB Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.). at para. 351 (Alta. Q.B.), vard [2018] A.J. No. 1123, 2018 ABCA"
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2015 ABQB 438",
+                "style_of_cause": "Ursa Ventures Ltd. v. Edmonton",
+                "context": "ends to use at discoveries and in applications.\nCertainly, rule 5.16 prevents undisclosed records from being produced at prima facie trial. Ursa Ventures Ltd. v. Edmonton (City), [2015] A.J. No. 759, 2015 ABQB 438 at para. 42 (Alta. Q.B.), affd [2016] A.J. No. 471, 2016 ABCA 135 (Alta. C.A.); Signalta Resources"
+              },
+              {
+                "neutral_citation": "2016 ABCA 135",
+                "style_of_cause": "Ursa Ventures Ltd. v. Edmonton",
+                "context": "16 prevents undisclosed records from being produced at prima facie trial. Ursa Ventures Ltd. v. Edmonton (City), [2015] A.J. No. 759, 2015 ABQB 438 at para. 42 (Alta. Q.B.), affd [2016] A.J. No. 471, 2016 ABCA 135 (Alta. C.A.); Signalta Resources Ltd. v. Canadian Natural Resources Ltd., [2022] A.J. No. 227, 2022"
+              },
+              {
+                "neutral_citation": "2022 ABQB 89",
+                "style_of_cause": "Signalta Resources Ltd. v. Canadian Natural Resources Ltd.",
+                "context": "y), [2015] A.J. No. 759, 2015 ABQB 438 at para. 42 (Alta. Q.B.), affd [2016] A.J. No. 471, 2016 ABCA 135 (Alta. C.A.); Signalta Resources Ltd. v. Canadian Natural Resources Ltd., [2022] A.J. No. 227, 2022 ABQB 89 at para. 35 (Alta. Q.B.). In conjunction with rule 5.10, rule 5.16 requires the production of relev"
+              },
+              {
+                "neutral_citation": "2016 ABCA 376",
+                "style_of_cause": "Smith v. Smith",
+                "context": ". In conjunction with rule 5.10, rule 5.16 requires the production of relevant and material records prior to trial precisely in order to prevent trial by ambush. Smith v. Smith, [2016] A.J. No. 1238, 2016 ABCA 376 at para. 42 (Alta. C.A.).\n“Records not disclosed in the sworn affidavit of records may not afterwar"
+              },
+              {
+                "neutral_citation": "2017 ABQB 26",
+                "style_of_cause": "ABQB  Penn West Petroleum Ltd. v. Devon Canada Corp.",
+                "context": "er affirming the Rule applies irrespective of action outcome). ABQB 54 at para. 51 (Alta. Master).\n[2017] A.J. No. 177, 2017 ABQB  Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 9 (Alta. Q.B.). at para. 351 (Alta. Q.B.), vard [2018] A.J. No. 1123, 2018 ABCA"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "5.17",
+        "title": "People who may be questioned",
+        "text": "(1) A party is entitled to ask the following persons questions under oath about relevant and material records and relevant and material information:\n(a) each of the other parties who is adverse in interest, and;\n(b) if the party adverse in interest is a corporation, (i) one or more officers or former officers of the corporation who have or appear to have relevant and material information that was acquired because they are or were officers of the corpora- tion, and (ii) the corporate representative;\n(c) if a litigation representative is appointed for a party, R. 5.17 (2) If a questioning party questions more than one person of a party adverse in interest under subrule (1) and the person questioned is (a) an officer or former officer of a corporation described in subrule (1)(b)(i), (b) an employee or former employee of the party adverse in interest described in subrule (1)(d), (c) an auditor or former auditor described in subrule (1)(e), (d) a partner or former partner of a partnership referred to in subrule (1)(f), or (e) an employee, former employee, officer or former officer described in subrule (1)(g)(iii), other than a corporate representative, the costs of questioning the second and subsequent persons are to be paid by the questioning party unless (f) the parties otherwise agree, or (g) the Court otherwise orders.\n(3) This rule applies whether the person to be questioned is within or outside the Court’s jurisdiction.\nPART 5",
+        "sentences": [
+          "(1) A party is entitled to ask the following persons questions under oath about relevant and material records and relevant and material information:",
+          "(a) each of the other parties who is adverse in interest, and",
+          "(b) if the party adverse in interest is a corporation",
+          "(i) one or more officers or former officers of the corporation who have or appear to have relevant and material information that was acquired because they are or were officers of the corpora- tion, and",
+          "(ii) the corporate representative",
+          "(c) if a litigation representative is appointed for a party, R. 5.17",
+          "(2) If a questioning party questions more than one person of a party adverse in interest under subrule",
+          "(1) and the person questioned is",
+          "(a) an officer or former officer of a corporation described in subrule (1)(b)(i)",
+          "(b) an employee or former employee of the party adverse in interest described in subrule (1)(d)",
+          "(c) an auditor or former auditor described in subrule (1)(e)",
+          "(d) a partner or former partner of a partnership referred to in subrule (1)(f), or",
+          "(e) an employee, former employee, officer or former officer described in subrule (1)(g)(iii), other than a corporate representative, the costs of questioning the second and subsequent persons are to be paid by the questioning party unless",
+          "(f) the parties otherwise agree, or",
+          "(g) the Court otherwise orders.",
+          "(3) This rule applies whether the person to be questioned is within or outside the Court’s jurisdiction."
+        ],
+        "citations": [],
+        "info_notes": [
+          "The Class Proceedings Act contains limitations on who can be questioned when the action is a proceeding under that Act."
+        ],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Rule 5.17 states that a party is entitled to ask adverse parties questions under oath about relevant and material records and information. Rainville v. Pontin, [2013] A.J. No. 424, 2013 ABQB 256 at para. 9 (Alta. Q.B.). This includes questions about the affidavit of records. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 8 (Alta. Q.B.). Refer to rule 5.2(1), and the case law cited thereunder for what is considered relevant and material.\nParties are required to make a person who is prepared to answer questions about relevant and material records and information under rule 5.17 available for questioning. Stoney Indian Band v. Alberta, [2013] A.J. No. 1294, 2013 ABQB 344 at para. 112 (Alta. Q.B.), affd [2015] A.J. No. 211, 2015 ABCA 76 (Alta. C.A.).\nRemote Questioning – In appropriate circumstances, taking into account concerns about issues of credibility (recognizing that testimony by video conferencing is not necessary inconsistent with credibility assessments), the court has jurisdiction to direct discovery questioning by means of video conferencing. Mostafa Altalibi Professional Corp. v. Lorne S. Kamelchuk Professional Corp., [2022] A.J. No. 853, 2022 ABCA 239 at paras. 14-23 (Alta. C.A.); , Sandhu v. Siri Guru Nanak Sikh Gurdwara of Alberta Adverse in Interest – On the plain meaning of the rule, questioning can only occur if a party is adverse in interest. CCS Corp. v. Secure Energy Services Inc., [2016] A.J. No. 187, 2016 ABQB 94 at para. 34 (Alta. Q.B.). Whether parties to litigation are adverse in interest is determined by reference not only to the pleadings, but also to the record as a whole. If there is nothing before a court but the pleadings, the pleadings will usually suffice. A party to a cause or matter may be said to be adverse in interest to another party if it has a direct pecuniary or other substantial legal adverse interest to the legal interest of the other party, even though they may be upon the same side of the record. CCS Corp. v. Secure Energy Services Inc., [2016] A.J. No. 187, 2016 ABQB 94 at paras. 36-38 (Alta. Q.B.).\nOfficers and Employees – Rule 5.17 permits examination of officers and employees who have or appear to have relevant and material information acquired because the person is or was an officer or employee of the party. Cogent Group Inc. v. EnCana Leasehold Limited Partnership, [2011] A.J. No. 585, 2011 ABQB This is a two-part test; both parts must be met to [2020] A.J. No. 654, 2020 ABQB 359 at para. 30 (Alta. Q.B.).",
+            "sentences": [
+              "Rule 5.17 states that a party is entitled to ask adverse parties questions under oath about relevant and material records and information.",
+              "Rainville v. Pontin, [2013] A.J. No. 424, 2013 ABQB 256 at para. 9 (Alta. Q.B.).",
+              "This includes questions about the affidavit of records. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 8 (Alta. Q.B.).",
+              "Refer to rule 5.2(1), and the case law cited thereunder for what is considered relevant and material.",
+              "Parties are required to make a person who is prepared to answer questions about relevant and material records and information under rule 5.17 available for questioning.",
+              "Stoney Indian Band v. Alberta, [2013] A.J. No. 1294, 2013 ABQB 344 at para. 112 (Alta. Q.B.), affd [2015] A.J. No. 211, 2015 ABCA 76 (Alta. C.A.).",
+              "Remote Questioning – In appropriate circumstances, taking into account concerns about issues of credibility (recognizing that testimony by video conferencing is not necessary inconsistent with credibility assessments), the court has jurisdiction to direct discovery questioning by means of video conferencing.",
+              "Mostafa Altalibi Professional Corp. v. Lorne S.",
+              "Kamelchuk Professional Corp., [2022] A.J. No. 853, 2022 ABCA 239 at paras. 14-23 (Alta. C.A.)",
+              ", Sandhu v. Siri Guru Nanak Sikh Gurdwara of Alberta Adverse in Interest – On the plain meaning of the rule, questioning can only occur if a party is adverse in interest.",
+              "CCS Corp. v. Secure Energy Services Inc., [2016] A.J. No. 187, 2016 ABQB 94 at para. 34 (Alta. Q.B.).",
+              "Whether parties to litigation are adverse in interest is determined by reference not only to the pleadings, but also to the record as a whole.",
+              "If there is nothing before a court but the pleadings, the pleadings will usually suffice.",
+              "A party to a cause or matter may be said to be adverse in interest to another party if it has a direct pecuniary or other substantial legal adverse interest to the legal interest of the other party, even though they may be upon the same side of the record.",
+              "CCS Corp. v. Secure Energy Services Inc., [2016] A.J. No. 187, 2016 ABQB 94 at paras. 36-38 (Alta. Q.B.).",
+              "Officers and Employees – Rule 5.17 permits examination of officers and employees who have or appear to have relevant and material information acquired because the person is or was an officer or employee of the party.",
+              "Cogent Group Inc. v. EnCana Leasehold Limited Partnership, [2011] A.J. No. 585, 2011 ABQB This is a two-part test",
+              "both parts must be met to [2020] A.J. No. 654, 2020 ABQB 359 at para. 30 (Alta. Q.B.)."
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2013 ABQB 256",
+                "style_of_cause": "Rainville v. Pontin",
+                "context": "Rule 5.17 states that a party is entitled to ask adverse parties questions under oath about relevant and material records and information. Rainville v. Pontin, [2013] A.J. No. 424, 2013 ABQB 256 at para. 9 (Alta. Q.B.). This includes questions about the affidavit of records. Penn West Petroleu"
+              },
+              {
+                "neutral_citation": "2017 ABQB 26",
+                "style_of_cause": "This includes questions about the affidavit of records. Penn West Petroleum Ltd. v. Devon Canada Corp.",
+                "context": "lle v. Pontin, [2013] A.J. No. 424, 2013 ABQB 256 at para. 9 (Alta. Q.B.). This includes questions about the affidavit of records. Penn West Petroleum Ltd. v. Devon Canada Corp., [2017] A.J. No. 163, 2017 ABQB 26 at para. 8 (Alta. Q.B.). Refer to rule 5.2(1), and the case law cited thereunder for what is consid"
+              },
+              {
+                "neutral_citation": "2013 ABQB 344",
+                "style_of_cause": "Stoney Indian Band v. Alberta",
+                "context": "o make a person who is prepared to answer questions about relevant and material records and information under rule 5.17 available for questioning. Stoney Indian Band v. Alberta, [2013] A.J. No. 1294, 2013 ABQB 344 at para. 112 (Alta. Q.B.), affd [2015] A.J. No. 211, 2015 ABCA 76 (Alta. C.A.).\nRemote Questioning"
+              },
+              {
+                "neutral_citation": "2015 ABCA 76",
+                "style_of_cause": "Stoney Indian Band v. Alberta",
+                "context": "and material records and information under rule 5.17 available for questioning. Stoney Indian Band v. Alberta, [2013] A.J. No. 1294, 2013 ABQB 344 at para. 112 (Alta. Q.B.), affd [2015] A.J. No. 211, 2015 ABCA 76 (Alta. C.A.).\nRemote Questioning – In appropriate circumstances, taking into account concerns about"
+              },
+              {
+                "neutral_citation": "2022 ABCA 239",
+                "style_of_cause": "Mostafa Altalibi Professional Corp. v. Lorne S. Kamelchuk Professional Corp.",
+                "context": "ssments), the court has jurisdiction to direct discovery questioning by means of video conferencing. Mostafa Altalibi Professional Corp. v. Lorne S. Kamelchuk Professional Corp., [2022] A.J. No. 853, 2022 ABCA 239 at paras. 14-23 (Alta. C.A.); , Sandhu v. Siri Guru Nanak Sikh Gurdwara of Alberta Adverse in Inter"
+              },
+              {
+                "neutral_citation": "2016 ABQB 94",
+                "style_of_cause": "CCS Corp. v. Secure Energy Services Inc.",
+                "context": "urdwara of Alberta Adverse in Interest – On the plain meaning of the rule, questioning can only occur if a party is adverse in interest. CCS Corp. v. Secure Energy Services Inc., [2016] A.J. No. 187, 2016 ABQB 94 at para. 34 (Alta. Q.B.). Whether parties to litigation are adverse in interest is determined by re"
+              },
+              {
+                "neutral_citation": "2020 ABQB 359",
+                "style_of_cause": "Inc. v. EnCana Leasehold Limited Partnership",
+                "context": "an officer or employee of the party. Cogent Group Inc. v. EnCana Leasehold Limited Partnership, [2011] A.J. No. 585, 2011 ABQB This is a two-part test; both parts must be met to [2020] A.J. No. 654, 2020 ABQB 359 at para. 30 (Alta. Q.B.)."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

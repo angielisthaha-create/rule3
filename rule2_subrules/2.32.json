@@ -1,0 +1,221 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.32",
+  "title": {
+    "official": "Automatic termination of lawyer of record and resolving difficulties",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Lawyer of Record"
+  },
+  "operative_text": {
+    "controlling": "2.32(1)  A lawyer or firm of lawyers ceases to be the lawyer of\nrecord if\n(a) in the case of an individual lawyer,\n(i) the lawyer dies,\n(ii) the lawyer is suspended or disbarred from practice as\na lawyer, or\n(iii) the lawyer ceases to practise as a lawyer;\n(b) in the case of a firm of lawyers, the firm dissolves.\n(2)  If any of the circumstances described in subrule (1) occurs, any\nparty may apply to the Court, without notice to any other party, for\ndirections respecting service of documents.\n(3)  The Court may\n(a) direct the manner in which service is to be effected,\n(b) dispense with service in accordance with rule 11.29, or\n(c) make any other order respecting service that the\ncircumstances require.\n(4)  An order under this rule applies until a notice is given under\nrule 2.28 or 2.29 or the Court otherwise orders.\n(5)  Nothing in this rule prevents a party from serving a notice of\nchange of lawyer of record or notice that the party intends to\nself-represent.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "ca5bd8ce1dcd98b1cdafb2264b9104f59d942e5ed5136376264bec317b9f6ee1"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          48
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Automatic Termination of Lawyer of Record and Resolving Difﬁculties",
+      "operative_text_raw": null,
+      "operative_text_sha256": "873f9320d05cb990348241d3f7f7d2c022601470310395a0cb0642dca1a7cbee",
+      "related_provisions": "2.28 (change of lawyer) ; 2.29 (withdrawal of lawyer) ; 11.17 (service on lawyer of record).",
+      "commentary": null,
+      "footnotes": [
+        {
+          "page": "2-66",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.556. It came from 1944 C. R.646(3), English O.67 r.7 (1962). Much like Ont. R.393."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          3296,
+          3333
+        ],
+        "book_pages": [
+          "2-65",
+          "2-66"
+        ]
+      },
+      "operative_text_note": "differs from official in form only: (1)(a)(iii) 'practice' (official 'practise', same meaning); (3) 'The court' lower case; (4) garbled 'rule 2.28 or [label] or 2.29 [label]' (repeated 'or'); bracketed labels. Official text controls."
+    },
+    "BOOK_B": {
+      "title": "Automatic termination of lawyer of record and resolving difficulties",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_063",
+        "part2_rule_2_32_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_064"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "04e89310e3e8a35d7ed7d3ba591dede4b541e4ed76b4b8fc8300faeee1cb0e6f",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Automatic termination of lawyer of record and resolving difficulties",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "c82a204f7bce0c1939a063f06380e3259e1960977f4c88c1af1acc89f19830de",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "same as official except (1)(a)(iii) 'practice' (official 'practise') and (4) labels out of order ('[Withdrawal of lawyer or 2.29 of record]'). Official text controls."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9915,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "differs from official in form only: (1)(a)(iii) 'practice' (official 'practise', same meaning); (3) 'The court' lower case; (4) garbled 'rule 2.28 or [label] or 2.29 [label]' (repeated 'or'); bracketed labels. Official text controls."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9885,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.32",
+      "title_official": "Automatic termination of lawyer of record and resolving difficulties"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "873f9320d05cb990348241d3f7f7d2c022601470310395a0cb0642dca1a7cbee",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            3296,
+            3333
+          ],
+          "book_pages": [
+            "2-65",
+            "2-66"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "04e89310e3e8a35d7ed7d3ba591dede4b541e4ed76b4b8fc8300faeee1cb0e6f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "c82a204f7bce0c1939a063f06380e3259e1960977f4c88c1af1acc89f19830de",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "ca5bd8ce1dcd98b1cdafb2264b9104f59d942e5ed5136376264bec317b9f6ee1",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            48
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e1f8715cff95a8920048fda8a5d6cbb8e0caafe53b834a24b21616ee6eaff71b"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.11.29 information note (p.11-61): 'Rule 2.32(2) ... provides that a party may apply to the Court for directions concerning service of documents if a lawyer stops acting'.",
+    "Rules 2.28 and 2.29: BOOK_A related provisions list 2.32; 2.32(4) refers back to notices under 2.28 or 2.29.",
+    "Rule 11.29 (dispensing with service): named in 2.32(3)(b)."
+  ],
+  "dedupe_log": [
+    "2.32 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.32 BOOK_C: rule text dropped (manual review)",
+    "2.32 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.32 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

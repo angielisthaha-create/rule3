@@ -1,0 +1,244 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.45",
+  "title": {
+    "official": "Decision of the judge",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 3,
+    "heading": "Appeal from Assessment Officer’s Decision"
+  },
+  "operative_text": {
+    "controlling": "10.45(1)  After hearing an appeal from an assessment officer’s\ndecision, the judge may, by order, do one or more of the following:\n(a) confirm, vary or revoke the decision;\n(b) revoke the decision and substitute a decision;\n(c) revoke all or part of the decision and refer the matter back\nto the same or another assessment officer;\n(d) make any other order the judge considers appropriate.\n(2)  If the amount of costs payable as originally assessed by the\nassessment officer has been paid and, after payment, is reduced on\nappeal, the judge hearing the appeal may order the return of the\nexcess by the party who has received it and the order may be\nenforced as an order of the Court.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "a6e6ce6bd049475753d8503c85df5b38844a64b280b0aab37713da3a385ae0c5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s10.45;163/2010",
+    "amending_regulations": [
+      "163/2010"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;163/10]"
+      ],
+      "BOOK_B": "Alta. Reg. 163/2010, s. 6",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.45 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*\n\nReg. 163/2010, s. 6]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.45 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*' then a line break and 'Reg. 163/2010, s. 6]': 'Alta. Reg. 124/2010' and 'Alta. Reg. 163/2010, s. 6' agree with the official history ('AR 124/2010 s10.45;163/2010') and Book B ('Alta. Reg. 163/2010, s. 6'); the dates 'November 1, 2010' and the Gazette date 'May 15, 2021' (the one Book C prints throughout Part 10, see the 10.1 flag) were not checked. The entry is an orphan entry in the file (no Division heading in front of it) and has no commentary and no citation."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          217
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Decision of the Judge",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0776f20797ca666630a78b0776b17d5b1dbaf59f6ec3e761326d9f4e871bccdf",
+      "related_provisions": "10.26 (appeal from review officer)",
+      "commentary": "An appeal from an Assessment Ofﬁcer is on the record and gets deference because of the\nAssessment Ofﬁcer’s experience and knowledge.⁶",
+      "footnotes": [
+        {
+          "page": "10-136",
+          "number": 5,
+          "text": "Quite similar to previous 1968 R.648(3). It came from 1944 C. R.780, as amended by Alta. Reg.86/60. New R.10.45(2) was enacted by Alta. Reg.163/2010."
+        },
+        {
+          "page": "10-136",
+          "number": 6,
+          "text": "Vizor v.383501, supra (¶’s 80 ff. )."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7299,
+          7335
+        ],
+        "book_pages": [
+          "10-136",
+          "10-137"
+        ]
+      },
+      "operative_text_note": "Book A's rule text (title on line 7299, text lines 7300-7311) has the same words as the official text (compared token by token) with these differences: the footnote marker '5' after '...enforced as an order of the Court.' (line 7310), the ligatures 'ofﬁcer' and 'conﬁrm', and the amendment bracket '[Alta. Reg.124/10;163/10]' on a line of its own after (2) (line 7311), which agrees with the official history 'AR 124/2010 s10.45;163/2010' and with Book B's 'Alta. Reg. 163/2010, s. 6'. Paragraphs (1)(a)-(d) and (2) are complete.",
+      "commentary_review_flag": "Read in full, p.10-136 (line 7299) to p.10-137 (line 7317): title (line 7299), rule text (lines 7300-7311), Related Provisions (lines 7313-7314: '10.26 (appeal from review officer)'), the note (lines 7316-7317, one sentence: 'An appeal from an Assessment Officer is on the record and gets deference because of the Assessment Officer's experience and knowledge.', marker '6') and 2 footnotes in the p.10-136 block (lines 7327-7329): fn 5 (history: 'Quite similar to previous 1968 R.648(3). It came from 1944 C. R.780, as amended by Alta. Reg.86/60. New R.10.45(2) was enacted by Alta. Reg.163/2010.') and fn 6 ('Vizor v.383501, supra (¶'s 80 ff. )'); fns 1-4 of that block (lines 7320-7326) belong to the 10.44 note. Read against the official text: the rule text equals official 10.45 apart from the marker, the ligatures and the amendment bracket (see the text note). (1) Related Provisions '10.26 (appeal from review officer)' is a label for official 10.26 'Appeal to judge'; the counterpart of 10.45 is 10.27 'Decision of judge', which is not listed here (the same 10.26 label is printed under 10.44). (2) The note's sentence agrees with official 10.44(2) (an appeal on the record) and with the 10.44 note's fn 3; 'gets deference' is not in the rule and comes from Vizor v.383501 Alta. 2022 ABQB 5 (fn 6, ¶'s 80 ff.), whose full citation is fn 1 of the 10.44 note (line 7320), so the 'supra' points back correctly. (3) The history footnote's statement 'New R.10.45(2) was enacted by Alta. Reg.163/2010' agrees with the official history ('AR 124/2010 s10.45;163/2010'); the old-rule references (1968 R.648(3), 1944 C. R.780, Alta. Reg.86/60) were not checked against any old-rule text. No infra and no '(#_)'-type placeholder is used. Book B has no commentary for this rule, so nothing in this note is corroborated by Book B (Book B's 10.44 commentary quotes 'Rule 10.45(1)' from Singh v. Noce para 3: the appeal judge may confirm, vary or revoke all or part of the decision, substitute a different decision, refer the matter back, or make any other order, which agrees with 10.45(1)(a)-(d))."
+    },
+    "BOOK_B": {
+      "title": "Decision of the judge",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_45_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_032"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "f50a243fcde783ea39c607dd96b1cf098d12cb5375e2c2f174601786be2241ed",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Decision of the judge",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "2796bb72204c266dd13d47f78207146bae6852d2625bf46329b8e35c0767a3b1",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): the words equal the official text except that the word 'and' is added after '(c) ... same or another assessment officer;' before '(d) make any other order the judge considers appropriate.' (the official text and Book A have no 'and' there); paragraph (d) is run onto the same line as (c)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 7299, text lines 7300-7311) has the same words as the official text (compared token by token) with these differences: the footnote marker '5' after '...enforced as an order of the Court.' (line 7310), the ligatures 'ofﬁcer' and 'conﬁrm', and the amendment bracket '[Alta. Reg.124/10;163/10]' on a line of its own after (2) (line 7311), which agrees with the official history 'AR 124/2010 s10.45;163/2010' and with Book B's 'Alta. Reg. 163/2010, s. 6'. Paragraphs (1)(a)-(d) and (2) are complete."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_HAS_EXTRA_TEXT",
+      "similarity": 0.9959,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.45",
+      "title_official": "Decision of the judge"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_HAS_EXTRA_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "0776f20797ca666630a78b0776b17d5b1dbaf59f6ec3e761326d9f4e871bccdf",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7299,
+            7335
+          ],
+          "book_pages": [
+            "10-136",
+            "10-137"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "f50a243fcde783ea39c607dd96b1cf098d12cb5375e2c2f174601786be2241ed",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "2796bb72204c266dd13d47f78207146bae6852d2625bf46329b8e35c0767a3b1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "a6e6ce6bd049475753d8503c85df5b38844a64b280b0aab37713da3a385ae0c5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            217
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "0bae3cc2dab2c2cf9cb9052c3f7c8e683a1b7b6452315242b3508531a34f4117"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.45' with the pattern that also finds line-wrapped forms; ranges searched separately): five hits, the table of contents (line 1635), the page heading (line 12985), the rule (line 13016), its history line (line 13032, 'AR 124/2010 s10.45;163/2010') and 10.46(4) (line 13073: 'rule 10.27 or 10.45 applies as the case requires'). By subject: 10.44 'Appeal to judge', 10.27 'Decision of judge' (the review officer's counterpart, official line 1560; its own history also cites 163/2010).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the running head (line 7286, p.10-136), the rule (line 7300) and the 10.46 text (line 7355, p.10-137: 'rule 10.27 [Decision of the judge] or 10.45 [Decision of the judge]'); no other Book A file cites 10.45.",
+    "BOOK_B: rule10_part10_document.json (12 lines with '10.45': this rule's heading, rule text (EXACT_MATCH) and paragraph records, and the 10.44 commentary's quotation 'Rule 10.45(1)'); no commentary of its own. Amendment note 'Alta. Reg. 163/2010, s. 6'.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' (5 hits: this entry, with rule text and the amendment note 'Alta. Reg. 124/2010, r. 10.45 ...; Alta. Reg. 163/2010, s. 6', no commentary, no citation); no other Book C file cites 10.45."
+  ],
+  "dedupe_log": [
+    "10.45 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.45 BOOK_C: rule text dropped (manual review)",
+    "10.45 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.45 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.45 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

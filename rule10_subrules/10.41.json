@@ -1,0 +1,391 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.41",
+  "title": {
+    "official": "Assessment officer’s decision",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.41(1)  Subject to an order, if any, an assessment officer may,\nwith respect to an assessment of costs payable, determine whether\nthe costs that a party incurred to\n(a) file an application,\n(b) take proceedings,\n(c) carry on an action, or\n(d) participate in an action, application or proceeding,\nare reasonable and proper costs.\n(2)  Reasonable and proper costs of a party under subrule (1)\n(a) include the reasonable and proper costs that a party\nincurred to bring an action,\n(b) unless the Court otherwise orders, include costs that a\nparty incurred in an assessment of costs before the Court,\n(c) unless the Court or an assessment officer otherwise\ndirects, include costs that a party incurred in an\nassessment of costs before an assessment officer,\n(d) do not include costs related to a dispute resolution process\ndescribed in rule 4.16 or a judicial dispute resolution\nprocess under an arrangement described in rule 4.18\nunless a party engages in serious misconduct in the course\nof the dispute resolution process or the judicial dispute\nresolution process, and\n(e) do not include, unless the Court otherwise orders, the fees\nand other charges of an expert for an investigation or\ninquiry, or the fees and other charges of an expert for\nassisting in the conduct of a streamlined trial or a trial.\n(3)  In making an assessment under subrule (1) and taking into\naccount the conduct of the parties, the assessment officer\n(a) may decide whether an item in the bill of costs is\nreasonably and properly incurred,\n(b) may disallow an item in a bill of costs that is improper,\nunnecessary, excessive or a mistake,\n(c) may fix the amount recoverable for services performed by\na lawyer that are not specified or described in Schedule C,\n(d) may not allow lawyer’s fees at more than the amounts\nspecified in Schedule C except when these rules,\nincluding the Schedule, explicitly permit or a written\nagreement expressly provides for a different basis for\nrecovery,\n(e) may not reduce an amount provided for in Schedule C\n(i) unless Schedule C so permits, or\n(ii) except in exceptional circumstances,\nand\n(f) may, in exceptional circumstances, reduce an amount, or\nallow a fraction of an amount, if the services were\nincomplete or limited.\n(4)  If the assessment officer disallows or reduces a fee specified in\nSchedule C, the assessment officer must give reasons for doing so.\n(5)  If a party that is liable to pay costs is also entitled to payment\nof costs, the assessment officer may\n(a) adjust the amount payable by way of deduction or set-off,\nor\n(b) delay ordering the payment of costs to a party until that\nparty has paid any costs for which that party is liable.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "db95af5fbfd6bfc3bd6e3c490f7459e78fc879edfc3a041f4255912c398739a4"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s10.41;126/2023",
+    "amending_regulations": [
+      "126/2023"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.126/23]"
+      ],
+      "BOOK_B": "Alta. Reg. 126/2023, s. 15"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints no amendment note for rule 10.41 (the entry ends in the running head after the lead-in of (3), with no commentary and no citation); the official history is 'AR 124/2010 s10.41;126/2023', Book A prints '[Alta. Reg.126/23]' (mid-rule, after (2)(e)) and Book B 'Alta. Reg. 126/2023, s. 15'. The entry is an orphan entry in the file (no Division heading in front of it)."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          214,
+          215
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Assessment Ofﬁcer’s Decision",
+      "operative_text_raw": null,
+      "operative_text_sha256": "3ee4a3e82c963732c7733c8077dffa729b5e1486fb573c5b2b6c7ccc2d82e800",
+      "related_provisions": "10.31(4) (set off of costs)",
+      "commentary": "A. References\nFor the general principles of assessment, see R.10.29 n. A, and R.10.31 n. E. On inﬂation and\nthe obsolescence of the amounts in Schedule C, see R.10.31n. E.3.\nB. Reasonableness\nThe word “reasonable” can refer to different things. Before a taxing officer it means whether\nthe expense seemed desirable at the time and not too large, given the litigation existing and all\nits issues and implications. Whether the costs are payable under a Rule or because a justice or\nApplications Judge ordered costs, is not subject to a reasonableness test, even usually before the\njustice or Applications Judge. Costs usually go to the winner, even if the loser’s case was arguable\nand his or her conduct reasonable.³\nSubrule (b) (iii) about unnecessary work or expenditures also applies to full-indemnity, for only\nreasonable work is usually indemniﬁed.⁴\nC. Picking a Column or Level\nFor column of costs, only two numbers are material: the amount of money which the plaintiff’s\npleadings claim, and the amount which the plaintiff actually recovers. Costs need to be based\non something certain, not “representations throughout the litigation process”, especially as that\nwould waste post-trial time hunting “through transcripts and submissions for materially inconsistent\ndamages characterizations”.⁵\nThis Rule lets the assessment ofﬁcer double costs because of an offer bettered, under R.\n4.29.⁶\n\nIt is customary to multiply the top column (5) in complex actions about very large amounts, and\nin one case it was tripled. At one time, some percentage of the winning party’s actual legal bills\nused to be thought an unreliable benchmark for party-party costs, though a useful cross check,\nbut no longer.¹\nA long hard complex suit important to both sides likely has a big indirect amount in\nissue, for costs purposes.²\nSee also R.10.33 and commentary above on that Rule.\nIf contributory negligence reduces the plaintiff’s award, the trial judge can use the lower\ncolumn appropriate to the net award, or can reduce costs for split result; but not both, which would\nbe double deduction.³\nThe costs in the case of a counterclaim on two competing contracts were\nbased on the net result of dismissing the claim on one and allowing the other.⁴\nA contract about costs between one of the parties to this suit, and a non-party, is not relevant.⁵\nA judge awarded solicitor-client costs for moving to set aside Anton Piller and injunction\norders, but that did not extend to the level of costs of a motion to quantify or particularize costs as\nthat is usually a stand-alone step?⁶\nD. Miscellaneous\nThere will be no double costs for a step at trial taken but once, even if two unconsolidated suits\nwere then tried together.⁷\nIf a case management conference is much more like a special chambers application, then the\n$250 in Schedule C is not enough and a larger fee is proper.⁸\nSchedule C names $5, 000 for written ﬁnal argument, but if it was useful, that may well be too\nlow, and $15, 000 was awarded here.⁹\nA default judgment for debt “and costs to be taxed” means ordinary party-party costs, and the\nclerk (who gave default judgment) had no jurisdiction to order more.¹⁰\nAgreeing with some of the opponent’s submissions is evidence of reasonableness, not\nmisfeasance.¹¹\nIf there are multiple parties, then set-off may involve apportioning costs.¹²\nWhether two parties\non one side had overlapping argument or needed separate argument is not central, as the analysis\napparently starts with what is a proportionate amount to award to the winning party, and then\n\ndivides it up later in some manner among the losing parties.¹\nA party may not get costs for papers\nor work unnecessary because they duplicate papers or work already done by another party.²\nOne\ncannot set off costs payable by a company against costs payable to its shareholders.³\nIf set-off\nwould require apportionment among different parties, apportionment may be referred back to the\njudge who initially awarded costs.⁴\nTechnical reasons under maintenance legislation were used to\nrefuse to offset costs owing against ongoing maintenance payments.⁵\nA draft bill of costs by one party is not necessarily an admission, especially if produced at a\nmediation session.⁶\nThere is a discussion of the principles of assessing solicitor-client bills of costs (here on a\nforeclosure), and appeals from them, and criticism of using rules of thumb as opposed to an\nindividual assessment.⁷\nA substantial portion of a half day justiﬁes the full fee for a half day.⁸",
+      "footnotes": [
+        {
+          "page": "10-130",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.605(4). Quite similar to 1914 R.734. Rule 605 came from 1944 C. Rr.732-4; 1944 C. R.734 was amended by Alta. Reg.259/58."
+        },
+        {
+          "page": "10-130",
+          "number": 2,
+          "text": "Quite similar to previous 1968 R.605(1). Quite similar to 1914 R.734, except at the beginning. Came via 1944 C. Rr.732-4.1944 C. R.732 was amended by Alta. Reg.259/58."
+        },
+        {
+          "page": "10-130",
+          "number": 3,
+          "text": "Quite similar to previous R.605(1.1) beg. It was ﬁrst enacted by Alta. Reg.38/03."
+        },
+        {
+          "page": "10-131",
+          "number": 1,
+          "text": "Quite similar to previous R.605(1.1) end. It was ﬁrst enacted by Alta. Reg.38/03."
+        },
+        {
+          "page": "10-131",
+          "number": 2,
+          "text": "Quite similar to previous 1968 R.641. It came from 1914 R.769. Very similar to 1914 R.770. Came via 1944 C. R.775. Largely reversed the rule as to liens in Reg. General. H. T.1853 r.63. Cf. R. Ont.1921 R.666, and Eng. O.65 r.14."
+        },
+        {
+          "page": "10-131",
+          "number": 3,
+          "text": "Thobani v. Chahal (#2) 2022 ABQB 159, JCC 2101 00052 (Feb 22) (¶’s 21-22)."
+        },
+        {
+          "page": "10-131",
+          "number": 4,
+          "text": "Sunridge Nissan v. McRuer 2023 ABCA 128, Calg 2101 0331/4 AC (Apr 24) (¶’s 56-58)."
+        },
+        {
+          "page": "10-131",
+          "number": 5,
+          "text": "Annett v. Enterprise Rent-A-Car Can. (#2) 2020 ABQB 74, JCE 1503 16963 (Jan 30) (¶’s 14-15)."
+        },
+        {
+          "page": "10-131",
+          "number": 6,
+          "text": "dictum in Singh v. Noce 2018 ABQB 950, JCE 1603 08959."
+        },
+        {
+          "page": "10-132",
+          "number": 1,
+          "text": "Nexxtep Res. v. Talisman Enr. (#2) 2012 ABQB 708, [2012] AR Uned 786 (Nov 14). That has now changed. See R.10.31n. E.3(b), (c) on the need to compare the award with what are the full legal expenses."
+        },
+        {
+          "page": "10-132",
+          "number": 2,
+          "text": "Northland Material Handling v. Parkland (Cty. ) 2012 ABQB 586, [2012] AR Uned 688 (Sep 27) (¶’s 27, 32)."
+        },
+        {
+          "page": "10-132",
+          "number": 3,
+          "text": "Anderson v. L. J. Ryder Inv. (#1) 2002 ABCA 38, 199 AR 135."
+        },
+        {
+          "page": "10-132",
+          "number": 4,
+          "text": "Apex Corp. v. Ceco Dev. (#2) 2006 ABQB 584, 406 AR 243, revd other grds 2008 ABCA 125, 429 AR 110, leave den (SCC 2008) 391 NR 383."
+        },
+        {
+          "page": "10-132",
+          "number": 5,
+          "text": "Berman v. Berman 2021 ABQB 933, JCC 4801 169252 (Nov 19) (¶’s 14-16)."
+        },
+        {
+          "page": "10-132",
+          "number": 6,
+          "text": "Secure Res. v. Wilson (#2) 2022 ABQB 337, JCE 2103 08890 (May 9) (¶’s 5-8). Quaere; see R.10.41(2) (b), (c)."
+        },
+        {
+          "page": "10-132",
+          "number": 7,
+          "text": "Davidson v. Patten (#4) 2005 ABQB 521, 381 AR 6 (¶’s 26-29)."
+        },
+        {
+          "page": "10-132",
+          "number": 8,
+          "text": "Ponich v. Ponich 2008 ABQB 613; cf. Boyd v. JBS Foods Can. (#2) 2015 ABCA 191, 602 AR 84."
+        },
+        {
+          "page": "10-132",
+          "number": 9,
+          "text": "410675 Alta. v. Trail S. Dev. (#2) 2011 ABQB 706, 520 AR 288."
+        },
+        {
+          "page": "10-132",
+          "number": 10,
+          "text": "Arbitus Leasing v. X-Zibit A 2006 ABQB 764, 405 AR 288."
+        },
+        {
+          "page": "10-132",
+          "number": 11,
+          "text": "Remington Dev. Corp. v. C. P. R. (#3) 2023 ABKB 591, JCC 0801 03152 (Oct 20) (¶ 51)."
+        },
+        {
+          "page": "10-132",
+          "number": 12,
+          "text": "See Firemaster Oilﬁeld Serv. v. Safety Boss (Can. ) (#2) 2002 ABCA 88, [2002] 7 WWR 69."
+        },
+        {
+          "page": "10-133",
+          "number": 1,
+          "text": "UFCW-Can. Local 401 (Utd. Food & Commr’l. Workers) v. Info. & Privacy Comm’r. (#2) 2012 ABCA 244, [2012] 10 WWR 635; on argument much the same before the Applications Judge and before a justice, see DeeThree Expl. v. Cabot Petr. Can. Corp.2012 ABQB 450, [2012] AR Uned 860 (Jul 13)."
+        },
+        {
+          "page": "10-133",
+          "number": 2,
+          "text": "Benﬁeld Corp. Risk Can. v. Beaufort Int. Ins.2013 ABCA 200, 365 DLR(4th) 628 (¶ 143)."
+        },
+        {
+          "page": "10-133",
+          "number": 3,
+          "text": "See the C. P. E. , Chapter 73, Part C.3(b)."
+        },
+        {
+          "page": "10-133",
+          "number": 4,
+          "text": "Firemaster Oilﬁeld Serv. v. Safety Boss (Can. ) (#2) 2002 ABCA 88, [2002] 7 WWR 69. Also, see the C. P. E. , Chapter 73, Part C.3(b)."
+        },
+        {
+          "page": "10-133",
+          "number": 5,
+          "text": "Bains v. Bains (#2) 2008 ABQB 319, 441 AR 70. Quaere. Corollary relief under the Divorce Act should not be limited to column 1 of Schedule C where the paying party is self-employed and what his income is, is a complex question: S. L. T. v. A. K. T. (#_) 2008 ABQB 450, 1 Alta LR(5th) 324."
+        },
+        {
+          "page": "10-133",
+          "number": 6,
+          "text": "Adeshina v. Litwiniuk & Co.2010 ABQB 80, 483 AR 81 (¶’s 132 ff. )."
+        },
+        {
+          "page": "10-133",
+          "number": 7,
+          "text": "Alta. Treas. Br. v.1401057 Alta.2013 ABQB 748, 89 Alta LR(5th) 185."
+        },
+        {
+          "page": "10-133",
+          "number": 8,
+          "text": "Patterson v. Hryciuk 2005 ABQB 136, 45 Alta LR(4th) 240."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6982,
+          7162
+        ],
+        "book_pages": [
+          "10-129",
+          "10-130",
+          "10-131",
+          "10-132",
+          "10-133"
+        ]
+      },
+      "operative_text_note": "Book A's rule text (title on line 6982, text lines 6983-6990 for (1) on p.10-129, lines 7002-7038 for (2)-(3) on p.10-130 and lines 7050-7057 for (4)-(5) on p.10-131) has the same words as the official text (compared token by token) with these differences: the ligatures 'ofﬁcer', 'ﬁle', 'ﬁx' and 'speciﬁed'; no full stop after 'are reasonable and proper costs' at the end of (1) (line 6990; the official text has 'costs.'); the bracket labels '[Dispute resolution processes]' after 'rule 4.16' and '[Judicial dispute resolution arrangement]' after 'rule 4.18' in (2)(d) (each agrees with the official title of that rule), and '[Tariff of Recoverable Fees]' after 'Schedule C' (five times, in (3)(c), (3)(d), (3)(e), (3)(e)(i) and (4)); the amendment bracket '[Alta. Reg.126/23]' printed in the middle of the rule at the end of (2)(e) (line 7019; it agrees with the official history 'AR 124/2010 s10.41;126/2023' and with Book B's 'Alta. Reg. 126/2023, s. 15'); the footnote markers '1' after (3)(c) (line 7028), '2' after (3)(d) (line 7032), '3' after (3)(e)(ii) (line 7036), '1' after (4) (line 7052) and '2' after (5)(b) (line 7057); and three page breaks inside the rule: between (1) and (2) the p.10-129 footnote block (lines 6992-6998, fns 1-5 of the 10.39 and 10.40 notes) and the marker 10-130 (line 7000) are printed, between (3)(f) and (4) the p.10-130 footnote block (lines 7041-7046) and the marker 10-131 (line 7048).",
+      "commentary_review_flag": "Read in full, p.10-129 (line 6982) to p.10-133 (line 7162): title (line 6982), rule text (see the text note; the amendment bracket '[Alta. Reg.126/23]' is at the end of (2)(e), line 7019), Related Provisions (lines 7059-7060: '10.31(4) (set off of costs)'), and the note in four lettered parts (A. References line 7062, B. Reasonableness line 7065, C. Picking a Column or Level line 7074, D. Miscellaneous line 7111; its last sentence, 'A substantial portion of a half day justifies the full fee for a half day.', is at the top of p.10-133 before the 10.42 heading at line 7163) with 29 footnotes counted per page from the file: p.10-130 fns 1-3 (lines 7042-7046, the history of (3)(c), (d) and (e)(ii)), p.10-131 fns 1-6 (lines 7084-7091: fns 1 and 2 are the history of (4) and (5), fns 3-6 the note), p.10-132 fns 1-12 (lines 7128-7143) and p.10-133 fns 1-8 (lines 7182-7194; fns 9 and 10 of that block are the history of 10.42) = 29 (3+6+12+8); the p.10-129 block's fns 1-5 (lines 6993-6998) belong to 10.39 and 10.40. Read against the official text: the rule text equals official 10.41 apart from the differences listed in the text note. (1) Related Provisions '10.31(4) (set off of costs)' lands on official 10.31(4) (deduction or set-off); the same list is printed under 10.4 (line 308) and 10.31 (line 3031) as '10.41(5) (set off of costs)', which lands on official 10.41(5)(a). (2) Pointers read against the official text and the other notes: 'R.10.29 n. A' and 'R.10.31 n. E' (line 7063) land (10.29 note part A, line 2124; 10.31 note part E 'The Level and Tariff of Fees', line 3204); 'R.10.31n. E.3' (line 7064, inflation and obsolescence of Schedule C) lands on 10.31 note E.3 'Tariff (Schedule C)' (line 3296, with (b) Inflation at line 3315); 'R.10.31n. E.3(b), (c)' (fn 1, line 7129) lands on E.3(b) Inflation and E.3(c) Not Using Schedule C (line 3366), the subject of the comparison with full legal expenses was not checked; 'See also R.10.33 and commentary above on that Rule' (line 7101) lands on the 10.33 note above; 'R.10.41(2) (b), (c)' (fn 6, line 7136) lands on official 10.41(2)(b) and (c) (costs of an assessment before the Court and before an assessment officer); 'Subrule (b) (iii) about unnecessary work or expenditures' (line 7072) does not land: official 10.41(3)(b) has no paragraph (iii) ('may disallow an item in a bill of costs that is improper, unnecessary, excessive or a mistake'); 'This Rule lets the assessment officer double costs because of an offer bettered, under R.4.29' (line 7080) is not in the text of 10.41, which says nothing about double costs; it is a dictum of Singh v. Noce 2018 ABQB 950 (fn 6, line 7091), and Book B quotes that case at para 39 (10.41(3)(d) read with 4.29, official 10.41(3)(d): the assessment officer may allow fees above Schedule C 'when these rules, including the Schedule, explicitly permit'). (3) Schedule C amounts in the note do not match the current official Schedule C: 'If a case management conference is much more like a special chambers application, then the $250 in Schedule C is not enough' (line 7115; official Schedule C item 9(1) 'Trial readiness/case management', official line 40252, has $340, $540, $800, $1080 and $1350 in Columns 1-5) and 'Schedule C names $5, 000 for written final argument ... $15, 000 was awarded here' (lines 7116-7117; official item 12 'Submission of written argument', line 40358, has $1350, $2700, $4050, $5400 and $6750 in Columns 1-5); the note's figures are not the current figures (the 10.31 note says Schedule C was updated in 2020, lines 3315-3318 and 4658); 'the top column (5)' (line 7095) agrees with the five columns of the tariff. (4) Statements in the note that are case-law summaries and not the rule (each with its footnote): 'costs are payable under a Rule or because a justice ordered costs, is not subject to a reasonableness test' (fn 3, Thobani v. Chahal (#2) 2022 ABQB 159); 'the amount which the plaintiff's pleadings claim, and the amount which the plaintiff actually recovers' (fn 5, Annett v. Enterprise Rent-A-Car Can. (#2) 2020 ABQB 74); 'It is customary to multiply the top column (5) in complex actions ... in one case it was tripled' and the percentage of actual legal bills (fn 1, Nexxtep Res. v. Talisman Enr. (#2) 2012 ABQB 708, with the note 'That has now changed'); 'If contributory negligence reduces the plaintiff's award ... not both, which would be double deduction' (fn 3, Anderson v. L. J. Ryder Inv. (#1) 2002 ABCA 38, 199 AR 135); the counterclaim on two competing contracts (fn 4, Apex Corp. v. Ceco Dev. (#2) 2006 ABQB 584); 'A judge awarded solicitor-client costs for moving to set aside Anton Piller and injunction orders ... usually a stand-alone step?' (line 7110, fn 6, Secure Res. v. Wilson (#2) 2022 ABQB 337, with 'Quaere'); D. Miscellaneous items (fns 7-12 and p.10-133 fns 1-8: Davidson v. Patten (#4), Ponich v. Ponich, Boyd v. JBS Foods Can. (#2), 410675 Alta. v. Trail S. Dev. (#2), Arbitus Leasing v. X-Zibit A, Remington Dev. Corp. v. C. P. R. (#3), Firemaster Oilfield Serv. v. Safety Boss (#2), UFCW-Can. Local 401 v. Info. & Privacy Comm'r (#2), Benfield Corp. Risk Can. v. Beaufort Int. Ins., Bains v. Bains (#2), Adeshina v. Litwiniuk & Co., Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748, Patterson v. Hryciuk). (5) supra/infra and placeholders: no 'supra' or 'infra' and no '(#_)'-type placeholder is used in the 29 footnotes (the only 'supra.' found in lines 6982-7162 is the p.10-129 fn 3 that belongs to the 10.39 note, line 6995); '(#2)', '(#1)', '(#3)', '(#4)' are real numbers. The history footnotes name old rules (R.605(1), 605(1.1), 605(4), 605(7), 605(8), 1968 R.605, 1968 R.641, 1914 R.734, 1914 R.769, 1914 R.770, 1944 C. Rr.732-4, 1944 C. R.775, Reg. General H. T.1853 r.63, R. Ont.1921 R.666, Eng. O.65 r.14, Alta. Reg.259/58, 38/03, 152/98) that were not checked against any old-rule text. The 'C. P. E.' (a treatise) is cited by chapter and part (Chapter 73, Part C.3(b)), which is not part of the sources. Book B's commentary '10.41:1' (25,515 characters, read in full) has five numbered sections: 1 Pre-commencement costs (Ma v. Coyne 2013 ABQB 426, Bensler J., paragraphs 26-28 and 60-62, and the Court of Appeal in Ma v. Coyne 2016 ABCA 119, printed 'Ma v. Coyne, 2016 ABCA 119, 2016 ABCA 119' with the citation doubled: the rule allows reasonable pre-commencement steps under 10.41(1)(a)-(b) and 10.41(2)(a), anticipated costs are not 'incurred'); 2 Disbursements (Sidorsky v. CFCN Communications 1998, Ed Miller Sales & Rentals v. Caterpillar Tractor, quoting the old 'Rule 605(3)'); 3 Excessive or improper costs (Harwood v. Harwood (1998) 61 Alta. L.R. (3d) 56, quoting the old 'Rules 613 and 635'); 4 When the mortgage provides for solicitor-client costs to the mortgagee (Paradigm Quest Inc. v. Moser 2015 ABQB 557, Browne J., citing Alberta Treasury Branches v 14010507 Alberta Ltd 2013 ABQB 748 and its ten costs principles, and Trinier v. Shurnaik 2011 ABCA 314); 5 Assessment Officer's jurisdiction to award double costs (Singh v. Noce 2018 ABQB 950, Feehan J., paragraphs 13-17, 39 and 52). It spells 'Wortz' (section 1, paragraph 27) and 'Wertz' / 'W[e]rtz' (the Court of Appeal decision in paragraphs 5 and 9) for the same Municipal District of Bow Island case. Book B overlaps this note in Singh v. Noce (Book A fn 6, line 7091, for the sentence at line 7080), Davidson v Patten 2005 ABQB 521 (Book A p.10-132 fn 7) and Alta. Treas. Br. 2013 ABQB 748 (Book A p.10-133 fn 7); Book A does not cite Ma v. Coyne (no hit for '2013 ABQB 426' or 'Ma v. Coyne' in combined_rule10.txt in this note)."
+    },
+    "BOOK_B": {
+      "title": "Assessment officer's decision",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.41:1",
+          "text": "Rule 10.41 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.41. 1. Pre-commencement costs In Ma v. Coyne, 2013 ABQB 426, 2013 CarswellAlta 1500, 568 A.R. 30, 43 C.P.C. (7th) 125, the plaintiffs sought disbursements for an interpreter's fees which were incurred prior to the commencement of the action. The assessment officer allowed the claim. On review, Bensler, J. agreed that the fees were recoverable. Her Ladyship said, at paragraphs 26–28: 26 The language in the Rules of Court was revised from the Old Rules and through this process, the phrase “to file an application” was added. This addition expands upon the authority of an assessment officer in determining whether costs incurred are reasonable and proper. 27 “To file an application” would include reasonable steps that lead up to the filing of the application which could include pre-commencement translation costs. The Court of Appeal's decision in Wortz is distinguishable by the change in the language of the Rules of Court. 28 When reviewed on a standard of correctness, the assessment officer applied the correct legal principal in allowing pre-commencement translation costs. This portion of the appeal is dismissed. However, Justice Bensler held that anticipated costs could not be awarded; only incurred costs could be awarded. Her Ladyship said, at paragraphs 60–62: 60 The assessment officer allowed anticipated costs in this case with the caveat that they seemed reasonable. The costs were set at a relatively reasonable rate and time. The justification for this decision was that it would be more practical than obtaining supplemental or updated bills. For example, the assessment officer stated that an hour to conclude a settlement process did not appear to be out of line. 61 I agree that it would be practical to allow anticipated costs for interpreters, so long as the anticipated costs were reasonable in the circumstances. Where reasonable and necessary, this would seem to be a more efficient and practical process than obtaining and submitting an updated Bill of Costs. 62 However, Rule 10.41(1) states that “[…] an assessment officer may, with respect to an assessment of costs payable, determine whether the costs that a party incurred […] are reasonable and proper.”[emphasis added] The operative word in the new Rules of Court is the word “incurred”. At the time of the assessment hearing, the anticipated interpreter costs had not yet been incurred although they were likely to be incurred. Consequently, although the approach taken by the assessment officer was practical, I find the assessment officer made a palpable error in allowing anticipated costs given my reading of Rule 10.41(1). The appeal is successful in this regard, the costs for anticipated interpreter services are not allowed. An appeal of Justice Bensler's order was dismissed by the Court of Appeal. In Ma v. Coyne, 2016 ABCA 119, 2016 ABCA 119, the Court said: 5 Most of the cases decided under now-repealed r 600 (and its predecessor, r 16(2)) concluded that pre-commencement disbursements were not recoverable, see e.g., Municipal District of Bow Island v Wertz (1921), 61 DLR 87, [1921] A.J. No 48 (Alta SCAD); Kha v Salhab, 2001 ABQB 44, 282 AR 324; Court of Queen's Bench 2011 Costs Manual. An exception is Davidson v Patten, 2005 ABQB 521, 381 AR 6. 6 However, the wording of the new Rules is very different from the repealed r 600. 7 Rule 10.31(1)(a) permits a Court of Queen's Bench judge to award “the reasonable and proper costs that a party incurred to file an application [or] to take proceedings”. For added clarity, r 10.31(2)(a) states that “reasonable and proper costs under subrule (1)(a) include the reasonable and proper costs that a party incurred to bring an action”. 8 Rule 10.41(1)(a) and (b) grants an assessment officer jurisdiction to “determine whether the costs that a party incurred to file an application [or] take proceedings are reasonable and proper costs.” Rule 10.41(2)(a) clarifies that “[r]easonable and proper costs of a party under subrule (1) include the reasonable and proper costs that a party incurred to bring an action”. 9 The chambers judge said that the new Rules expanded the authority of an assessment officer and concluded: [27]“To file an application”[in r 10.41(1)(a)] would include reasonable steps that lead up to the filing of the application which could include pre-commencement translation costs. The Court of Appeal's decision in W[e]rtz is distinguishable by the change in the language of the Rules of Court. 10 The appellants rely on the repealed r 600 cases and contend that the chambers judge's departure from them is an error “in spite of” r 10.41 now being in effect. 11 The appellants' submission offends the “presumption against tautology, ‘[e]very word in a statute is presumed to make sense and to have a specific role to play in advancing the legislative purpose’… To the extent that it is possible to do so, courts should avoid adopting interpretations that render any portion of a statute meaningless or redundant”: Placer Dome Canada Ltd v Ontario (Minister of Finance), [2006] 1 SCR 715 at para 45, 2006 SCC 20. III. Conclusion 12 The plain wording of rr 10.31 and 10.41 contemplate that reasonable and proper costs of steps taken to file an application or to take proceedings are compensable. The cases which held otherwise have been overtaken by the new rules. 2. Disbursements The Court of Appeal in a memorandum of decision in Sidorsky v. CFCN Communications Ltd. (1998), 216 A.R. 151 (C.A.); [additional reasons (1999) 232 A.R. 189 (C.A.)], noted that claims for disbursements must not be permitted to distort the costs scheme set up by Sched. C. At p. 153, the court said: Disbursements should not be used as a means, even unintentionally, of distorting the cost scheme by allowing, as a disbursement, fees for work normally considered part of the cost of litigation to which Schedule C applies. Taken to the extreme, preparation for trial could be subcontracted to another firm and reimbursement of that firm's account sought as a disbursement. The function of Sched. C in determining costs was reviewed by the Court of Appeal in Ed Miller Sales & Rentals Ltd. v. Caterpillar Tractor Co. (1998), 61 Alta. L.R. (3d) 256; [additional reasons to (1996) 41 Alta. L.R. (3d) 217 (C.A.); leave to appeal refused (1997) 209 A.R. 400n (S.C.C.)]. At pp. 258–59, the court said: At the end, an award of party-party costs becomes one lump sum. It is often calculated as a whole series of individual items, often under Schedule C. But that is only calculation. There are different ways to adjust Schedule C when its product seems inadequate: higher column, multiples of a column, a multiplier for inflation or otherwise, extra lump sums, some fraction of solicitor-client costs, and so forth. Several modes of adjustment may be reasonable; indeed several different modes may amount to much the same thing. The ultimate question is whether the final total is reasonable or not. . . . . . Schedule C is addressed to taxing officers, not judges. For the sake of convenience and certainty, it arbitrarily selects certain steps in a lawsuit, and compensates for them. It omits all other steps. In large suit such as the present one, if one awards multiples of the top column (6), on its face that may seem to overcompensate for certain work. But one must recall that on its face it awards nothing for much other work. And Rule 605(3) expressly says that the items in Schedule C cover all necessary or convenient work for fully completing the step directed, which obviously includes preparation. . . . . . Schedule C is a series of rubber stamps which a judge may approve for a bill of costs. But rubber stamps are not really adequate here in such an unusual case. They are well worth looking at, but merely stamping them onto a blank piece of paper does not describe the complete picture. It is also worth looking at the hours actually expended on certain tasks, at the conduct of the parties in the suit, and at the total bill to the client… In an unusual case like this, one is more or less forced to calculate the proposed costs on a number of different bases, and then compare them with each other and with the solicitor-client bill to the winning client. All of those are cross-checks on reasonableness. 3. Excessive or improper costs In Harwood v. Harwood (1998), 61 Alta. L.R. (3d) 56 (Q.B.), a certificate of taxation issued by a taxing officer was under appeal. The wife in a matrimonial action had been awarded “full indemnity for all of her solicitor/client costs and disbursements up to and including the costs of this action”. The wife's lawyer sought taxation of the wife's solicitor's account in the amount of $39,914.50. The wife did not object to the account, but the taxing officer taxed the account at the reduced amount of $32,000. In upholding the learned taxing officer's decision, and discussing the duty of the taxing officer, Wilson J. said, at p. 58: The Taxing Officer was under a duty to tax the bill as though the client were resisting. His duty is to fix the proper fee for the services rendered. He had to test that claim, and to do so he had to follow the taxation principles that are set out in the Rules of Court for accounts between solicitor and client. To suggest that the bill must be accepted at the amount stated by the solicitor, if the client does not complain or resist, would make the taxation a useless exercise, and remove entirely his discretion to determine what is fair and reasonable for the work done. It would leave him only to consider whether the work was done, how long it took and apply the hourly rate. Any deviation he made from the claims made by the solicitor in those three areas would be made in direct opposition, without evidence, to the statement by the solicitor herself, that the work was done, that it took a certain length of time, and that her rate was as stated in the retainer. The mandate of the Taxing Officer is larger than that, and so is his duty. He must take into account the matters stated in the Rules, including particularly Rules 613 and 635. 4. When the mortgage provides for solicitor-client costs to the mortgagee In Paradigm Quest Inc. v. Moser, 2015 ABQB 557, the Paradigm Quest Inc. foreclosed on a mortgage which had been granted to it by the Defendants. The mortgage provided for “legal fees and disbursements on a full indemnification basis” to be paid to Paradigm if Paradigm engaged in “enforcing [its] rights”. The Assessment Officer awarded costs lower than the solicitor-client costs billed to Paradigm by its lawyers. That award was upheld on appeal to a Master. Both the Assessment Officer and the Master concluded that the actual billable time spent on the file was less than the amount billed, and that the mortgagor should not have to pay more than the billable time. An appeal from the Master was heard by Madam Justice Browne. Her Ladyship allowed the appeal and awarded costs on a full solicitor-client basis. Her Ladyship said: 20 The Master was entitled to review de novo the costs sought by Paradigm to be paid by the Mosers. Subject to the Rules and his limited jurisdiction granted under the Court of Queen's Bench Act, he would be entitled to hear submissions and review affidavit evidence to determine whether the costs incurred and sought against Paradigm were reasonable and proper. The issue before me is whether he was correct in his approach and conclusions. 21 As a general principle, the successful party in an action is entitled to costs assessed according to the tariff in Schedule C of the Rules: Vallieres v Vozniak, 2014 ABCA 384 at para 7, 588 AR 17. However, a mortgage agreement which provides for a different scale of costs is a recognized exception to that general rule. The Assessment Officer's discretion to disallow costs in a foreclosure action was said to be limited to when “an item is manifestly unreasonable” (Credit Foncier Trust Co v Hornigold (1984), 59 AR 103 (QB) per Agrios J at para 27). In Manufacturers Life Insurance Co v Toronto Dominion Bank (1988), 92 AR 92 (CA), the Court of Appeal noted that where there is no misconduct or harshness, express covenants for solicitor-client costs will be enforced. More recently the Court of Appeal in HSBC Bank Canada v Serval Corp, 2000 ABCA 169 noted, at para 12, that courts enforce such costs covenants in mortgages every day. 22 In Trinier v Shurnaik, 2011 ABCA 314, the Court of Appeal addressed the question of whether the Court had discretion to deny solicitor-client costs. It held that such discretion was doubtful, in light of the guarantee calling for solicitor and own client costs and the guarantee's subsequent assignment with power of attorney to the plaintiffs (para 39). Moreover, it held that even if there was a discretion, there was no legal basis upon which to exercise it, since there was no misconduct, sharp practice, churning or unnecessary steps by the mortgagee (at para 41). … 27 Courts have said that “full indemnity” is the “highest scale of costs … formerly known as costs on a scale of a solicitor-and-his-own-client”: 1188710 Ontario Ltd v Gartner, 2013 ONSC 2008, at para 14. There has long been ambiguity and attempts to distinguish the terms “solicitor-and-client costs” and “solicitor-and-own-client” costs: Stagg v Condominium Plan 882-2999, 2013 ABQB 684 at paras 25–30, 574 AR 363, (per Tilleman J). I agree with Tilleman J that no distinction exists at the practical level (at para 30). 28 The language in the mortgage agreement is unambiguous. Given the authorities, the wording of the mortgage agreement, and the wording of the Orders made in the foreclosure proceedings, I agree with counsel for Paradigm that a principled approach to the awarding of costs would see Paradigm indemnified for its legal fees and expenses incurred in the foreclosure proceedings up to the Assessment Officer's review of the Bill of Costs. However, full indemnity does not necessarily mean there is no role for an Assessment Officer or the Court. Rather, the Court must look to whether the fees were reasonable, equitable, harsh, or otherwise unprofessional. B. — What is the Assessment Officer's role in assessing reasonableness where the contract calls for full indemnity? 29 Even where solicitor-and-own-client costs are ordered, there is a limit to what lawyers may charge their clients or, as in this case, require another party to pay. Rooke J, as he then was, stated that costs on a solicitor-and-client basis means “the reasonable fees and disbursements for all steps reasonably necessary, including fees for clerks and students, and steps before the suit was begun”: Guarantee Co of North America v Beasse (1993), 139 AR 241 at para 5 (Alta QB), citing Jean E Côté& William A Stevenson, Civil Procedure Encyclopedia, (Edmonton: Juriliber, 1992) at 1418. 30 Regarding quantum, the courts will allow all reasonably incurred costs, “provided the rates charged by counsel bear some reasonable relationship to those prevailing in the relevant marketplace for counsel of comparable skill and experience”: 131843 Canada Inc v Double “R” (Toronto) Ltd (1992), 11 CPC (3d) 190 at para 15 (Ont Ct J (Gen Div)). However, courts should be wary about imposing their own views of what may be reasonable because judges are insulated from the business factors that come into play in the setting of such rates. 31 In ATB, Wakeling J (as he then was) set out ten, now generally consolidated into seven, principles, summarized by the Master at para 12: (1) The court is responsible for settling the costs, if this is requested, or mandated by the Rules or the Order (ATB para. 18); (2) A contract provision does not oust the jurisdiction of the court (ATB para. 28; and now see also: Stubbard v. Hajduk Gibbs LLP, 2014 ABQB 632, (per Germain J.) and Royal Bank of Canada v Learmonth, 2014 ABQB 695 (per Schulz, M. and the cases cited there). (3) The court must act in a principled manner in assessing costs (ATB para.29); (4) Full indemnification is unlikely and exceptional, except when the contract specifies “full indemnity costs ”. In general terms, the court must enforce a fee agreement “unless there is a compelling reason not to do so. The court may choose to hold the party to its bargain (these are the fourth, fifth, sixth and seventh principles found at ATB, paras. 32–37). (5) Steps that advance the purpose of the action merit indemnity (ATB para. 39); (6) Unnecessary steps won't be compensated (see, for example, the examples in ATB footnote 19 and para. 40). (7) The tenth costs principle is that the court has an overriding obligation to ensure that those who are obliged to pay for legal services are treated reasonably, taking into account all the circumstances. This is an important function in all cases but particularly so when the person who may be liable to pay a lawyers' charges does not select the lawyer,” as here. (ATB para. 44. emphasis added.) (Master's emphasis in italics; this Court's emphasis in bold) 32 The Assessment Officer's task (or the Court's) in reviewing costs is not to substitute its opinion of what it considers were, or ought to have been, the true costs, but to determine whether the costs submitted are unreasonable or improper. In doing so, the Court should consider two lines of inquiry: (1) whether costs were reasonably incurred (in other words, were the costs associated with necessary steps and incurred without the use of unnecessary resources); and (2) whether the quantum is reasonable and proper (that is, would the costs reasonably be allowed in respect of a solicitor of the status or type which should have been retained): Wraith v Sheffield Foremasters Ltd, [1996] 2 All ER 527 at 534 (QB). 33 As Wakeling J noted in ATB, a reviewing court “must act in a principled manner … within a logical framework” (para 29). He cites Rule 10.2(1) of the Rules as providing some factors which assist in determining what costs would be reasonable, including the following: the nature, importance and urgency of the matter; the client's circumstances; the manner in which the services are performed; and the skill, work and responsibility involved (para 30). 34 The Master began his analysis with the assumption (at para 14) that “neither the wording of the lending documents nor the terms of the Order make a costs claim immune from review”, and that the first step is to compare the account to the average range for fees in a standard foreclosure—typically between $3500 and $4000. He then suggests that this amount may be adjusted upward if there are additional applications. 35 I find that this is an error in principle. If the mortgage documents and/or the foreclosure order provide for full indemnity, the only inquiry on assessing those fees is whether there has been some inequitable conduct, some harshness, or other similar egregious conduct. Here, Paradigm and the Mosers entered into an agreement under which the Mosers agreed to pay Paradigm's full legal costs in foreclosure and Paradigm entered into an agreement with its lawyers to pay legal costs under a tariff they negotiated between them. In the absence of evidence that these fees were inequitable or harsh, Paradigm is entitled to be indemnified. 36 The difference between billable time and the agreed upon tariff is irrelevant, since the parties agreed to fees based on the tariff and not on the basis of billable hours. While the average range of fees has some bearing on whether the fees were inequitable or harsh, the only basis relied on by the Master to assess harshness was the billable time, noting: • I do not see why the debtor should be obliged to pay a tariff rate that exceeds billable time. … In my view, the disparity would be a “compelling reason”… to depart from the claimed tariff items and adjust it down to actual time. 37 However, r 10.41 provides that a written agreement may expressly provide for a different basis for recovery, and Wakeling J in ATB also provided that full indemnification would be rare, except where there was an express agreement. The Master's conclusion that the disparity between billable time and tariff constituted a compelling reason not to enforce a fee agreement is circular. The agreement was to bill based on the tariff, not time, and therefore relying on time essentially negates the agreement. 38 I conclude that the Master erred when he refused to enforce the full indemnity agreement in the mortgage. This is further supported by the recent case law, including Master Schlosser's own, more recent decision in Ethier, dealing with virtually identical fee amounts. Justice Browne went on to note that counsel need to provide appropriate information to the Assessment Officer: 39 I have a few additional comments. The Assessment Officer carries out the review of many Bills of Costs every day. If Counsel wishes proper consideration, they must provide proper information to the Assessment Officer. Sending in an accounting with a total and no understandable information to explain the calculation is not sufficient to allow the Assessment Officer to carry out their duty. As noted by Master Schulz in an earlier Paradigm decision, they are not mind readers. The Assessment Officer should not have to request an explanation for the Bill of Costs. 5. Assessment Officer's Jurisdiction to Award Double Costs In Singh v. Noce, 2018 ABQB 950, 2018 CarswellAlta 2757, 80 Alta. L.R. (6th) 125, 27 C.P.C. (8th) 150, Justice Feehan was called upon to decide this issue: “Does the Assessment Officer have jurisdiction to award double costs on a Formal Offer where that issue was neither before, nor determined by the Master of Judge?” His Lordship concluded that the Assessment Officer does have the jurisdiction except in specific circumstances. Justice Feehan said: [13] The Rules provide that a Court may order an assessment of costs by an Assessment Officer and give directions to the Assessment Officer about the assessment (r 10.34(1)). Thereafter, the Assessment Officer, in accordance with any Court direction or order, may make an assessment of costs in accordance with r 10.41 (r 10.36(1) & (2)). [14] Rule 10.41(1) says that subject to any Court order, an assessment may determine whether the costs that a party incurred are “reasonable and proper”, including costs incurred to bring an action, and in the assessment of costs before the Court or Assessment Officer, but not including costs relating to a dispute resolution or judicial dispute resolution process except in cases of serious misconduct, nor expert fees for an investigation, inquiry, or for assisting in the conduct of a trial or summary trial, unless otherwise ordered by the Court (r 10.41(1) & (2)). In making a costs assessment, the Assessment Officer may decide whether an item in the Bill of Costs is reasonably and properly incurred, may disallow an item, and may fix the amount recoverable for any services performed by a lawyer not described in the schedule (r 10.41(3)(a)–(c)). The Assessment Officer may not reduce an amount as provided in Schedule C, unless the schedule permits or in exceptional circumstances (r 10.41(3)(e) & (f)). [15] Importantly, r 10.41(3)(d) provides that the Assessment Officer may not allow lawyer's fees at more than the amount specified in Schedule C “except when these rules, including the Schedule, explicitly permit or an agreement expressly provides for a different basis for recovery”. As a result, the Assessment Officer may increase legal fees when explicitly permitted in the Rules. [16] The Rules do expressly permit a double costs award in the circumstances set out in r 4.29: (2) Subject to subrule (4), if a defendant makes a formal offer to settle that is not accepted and a judgment or order in the action is made that is equal to or more favourable to the defendant than the offer, the defendant is entitled to costs for all steps taken in the action in relation to the action or claim after service of the offer. (3) A defendant is entitled to double the costs provided for in subrule (2), excluding disbursements, if (a) subrule (2) applies, and (b) the action or claim that is the subject of the formal offer to settle is dismissed. [17] The entitlement to double costs does not apply if costs are awarded on an indemnity basis, in a lump sum instead of or in addition to assessed costs, or in special circumstances where the Court orders that the rule is not to apply (rr 4.29(4)(a) & (e) and 10.31(1)(b)). In the present case, Schlosser M did not award indemnity costs nor a lump sum instead of or in addition to assessed costs, nor did he order that r 4.29 does not apply. Therefore, it does. … [39] The Assessment Officer has jurisdiction to award double costs in the circumstances set out in r 4.29 of the Rules, unless the Court has ordered otherwise or the Court award was on an indemnity or lump sum basis. That authority is granted in r 10.41(3)(d) read in conjunction with r 4.29. … [52] Based upon the above consideration of the facts, the decisions of the Master and Assessment Officer, the operation of the Rules of Court, the case law reviewed and analysis conducted, I reach the following conclusions: 1. The Assessment Officer does have jurisdiction to award double costs on a Formal Offer where that issue was not before nor determined by the Master or Judge, except where a court has ordered otherwise, or if the court award was on an indemnity or lump sum basis. …"
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_41_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_020",
+        "part10_rule_10_41_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_022"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "367dfa6d2e9f1097a0bd7c4f9d96ba2d6eeccb9e31d36849327c577788d8b2bd",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Assessment officer’s decision",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "96593f601f6cdff9fddfe3dc9560d44cbe9ffef3278d079388260ccc36e6ab21",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): (1) and (2)(a)-(e) equal the official words, but (2)(d) carries the bracket labels '[Dispute resolution processes]' (after 'a judicial dispute', splitting 'a judicial dispute resolution process') and '[Judicial dispute resolution arrangement]' (after 'rule 4.18'), and the text ends inside the lead-in of subrule (3), 'the assessment officer', followed by the page's running head 'PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS'; paragraphs (3)(a)-(f), (4) and (5) are missing."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 6982, text lines 6983-6990 for (1) on p.10-129, lines 7002-7038 for (2)-(3) on p.10-130 and lines 7050-7057 for (4)-(5) on p.10-131) has the same words as the official text (compared token by token) with these differences: the ligatures 'ofﬁcer', 'ﬁle', 'ﬁx' and 'speciﬁed'; no full stop after 'are reasonable and proper costs' at the end of (1) (line 6990; the official text has 'costs.'); the bracket labels '[Dispute resolution processes]' after 'rule 4.16' and '[Judicial dispute resolution arrangement]' after 'rule 4.18' in (2)(d) (each agrees with the official title of that rule), and '[Tariff of Recoverable Fees]' after 'Schedule C' (five times, in (3)(c), (3)(d), (3)(e), (3)(e)(i) and (4)); the amendment bracket '[Alta. Reg.126/23]' printed in the middle of the rule at the end of (2)(e) (line 7019; it agrees with the official history 'AR 124/2010 s10.41;126/2023' and with Book B's 'Alta. Reg. 126/2023, s. 15'); the footnote markers '1' after (3)(c) (line 7028), '2' after (3)(d) (line 7032), '3' after (3)(e)(ii) (line 7036), '1' after (4) (line 7052) and '2' after (5)(b) (line 7057); and three page breaks inside the rule: between (1) and (2) the p.10-129 footnote block (lines 6992-6998, fns 1-5 of the 10.39 and 10.40 notes) and the marker 10-130 (line 7000) are printed, between (3)(f) and (4) the p.10-130 footnote block (lines 7041-7046) and the marker 10-131 (line 7048)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6838,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.41",
+      "title_official": "Assessment officer’s decision"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "3ee4a3e82c963732c7733c8077dffa729b5e1486fb573c5b2b6c7ccc2d82e800",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6982,
+            7162
+          ],
+          "book_pages": [
+            "10-129",
+            "10-130",
+            "10-131",
+            "10-132",
+            "10-133"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "367dfa6d2e9f1097a0bd7c4f9d96ba2d6eeccb9e31d36849327c577788d8b2bd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "96593f601f6cdff9fddfe3dc9560d44cbe9ffef3278d079388260ccc36e6ab21",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "db95af5fbfd6bfc3bd6e3c490f7459e78fc879edfc3a041f4255912c398739a4",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            214,
+            215
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "5f4e15a773b0463ce136c326f4a851abcf2d086cc8099e429461e3e867a4fcf1"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.41' with the pattern that also finds line-wrapped forms; ranges searched separately): eight hits, the table of contents (line 1609), 9.35(1)(b) (line 11239: 'the assessment officer must assess the reasonable and proper costs under rule 10.41 unless otherwise ordered by the Court'), 10.29(1)(b) (line 12447: 'the assessment officer's discretion under rule 10.41'), 10.36(1) and (2) (lines 12711 and 12721), the rule (line 12834), its history line (line 12921, 'AR 124/2010 s10.41;126/2023') and Schedule B (line 39583: 'the reasonable fees that the Court may order under rule 10.31(1)(a) or the assessment officer may fix under rule 10.41'). By subject: 10.31 'Court-ordered costs award' (10.31(4) set-off, 10.31(2) which parallels 10.41(2)), 10.33, 4.29 'Costs consequences of formal offer to settle', 4.16 and 4.18 (dispute resolution processes), Schedule C 'Tariff of Recoverable Fees'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.4 Related Provisions (line 308, p.10-8: '10.41(5) (set off of costs)'), the 10.29 note and text (lines 2091, 2194 'See R.10.41.'), the 10.31 Related Provisions (line 3031, p.10-60: '10.41(5) (set off of costs)') and note (lines 3206 'On the role of the assessment officer, see R.10.41 and notes.', 3332, 3604 'judges rarely apply subrule 10.41(3) (c)'), the 10.36 text (lines 6792, 6801) and this rule; in combined_rule4.txt line 3619 ('under Rr.4.29 and 10.41(3) (d)'); in combined_rule9.txt lines 4369 (the 9.35 text, 'under rule 10.41 [Assessment officer's decision]') and 4587 (a Related Provisions list: '10.41 (certified bill of costs)'). The pointers that name a paragraph land: 10.41(5) is the set-off/delay paragraph and 10.41(3)(c) the paragraph on services not described in Schedule C; 10.41(3)(d) is the Schedule C ceiling.",
+    "BOOK_B: rule10_part10_document.json (36 hits: this rule's heading, rule text (EXACT_MATCH) and one commentary '10.41:1' of 25,515 characters in 5 numbered sections, read in full); other Book B files that cite 10.41 by number: rule10_part04_document.json (10.29 text, 10.29(1)(b)), rule10_part07_document.json (the 10.31:1 commentary: 'no over-indemnification under R. 10.41(3)(e)(ii)'), rule15_part01_document.json (Schedule B). Book B's 10.41 commentary quotes Singh v. Noce 2018 ABQB 950 at para 39: 'The Assessment Officer has jurisdiction to award double costs in the circumstances set out in r 4.29 of the Rules ... That authority is granted in r 10.41(3)(d) read in conjunction with r 4.29.'",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry ('Assessment officer's decision', an orphan entry, rule text cut off at the lead-in of (3), no amendment note, no commentary); '421-440_9_29 to 9_51.json' cites 10.41 in the 9.35 text (2 hits)."
+  ],
+  "dedupe_log": [
+    "10.41 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.41 BOOK_C: rule text dropped (manual review)",
+    "10.41 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.41 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

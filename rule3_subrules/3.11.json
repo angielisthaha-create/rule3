@@ -1,0 +1,231 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.11",
+  "title": {
+    "official": "Service and filing of affidavits and other evidence in reply and response",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rules"
+  },
+  "operative_text": {
+    "controlling": "3.11(1)  If the respondent to an originating application intends to\nrely on an affidavit or other evidence when the originating\napplication is heard or considered, the respondent must reply by\nserving on the originating applicant, a reasonable time before the\noriginating application is to be heard or considered, a copy of the\naffidavit or other evidence on which the respondent intends to rely.\n(2)  The originating applicant may respond by affidavit or other\nevidence to the respondent’s affidavit or other evidence and must\n(a) serve the response affidavit or other evidence on the\nrespondent a reasonable time before the originating\napplication is to be heard or considered, and\n(b) limit the response to replying to the respondent’s affidavit\nor other evidence.\n(3)  If either the respondent or originating applicant does not give\nthe other reasonable notice under this rule, and an adjournment is\nnot granted,\n(a) the party who did not give reasonable notice may not rely\non the affidavit or other evidence unless the Court\notherwise permits, and\n(b) the Court may make a costs award against the party who\ndid not give reasonable notice.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "6df64460a5a44fd95a7af407a4149811320e6806a3e38c8808a1a0beb478a257"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          53,
+          54
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Service and Filing of Affidavits and Other Evidence in Reply and Response",
+      "operative_text_raw": null,
+      "operative_text_sha256": "aff9b058c1fc8f88d1019fdc7aa215e1dd66765736d0c7a7c52b867e7d48a794",
+      "defined_terms": "costs award, party",
+      "related_provisions": "6.6 (late responses to application)",
+      "commentary": "of cooperation to allow quick cross-examination. But a party wishing to enforce quick cross-\n\nPART 3:COURT ACTIONSR.3.12 3-29\n\nappear in person with hard copies of materials. 2Abel v. Modi2020 ABQB 530, JCC 1801 14851 (Sep 11) (¶'s 14-21). 3Re Sultan Mgmt.Grp.2023 ABCA 110, Edm 2203 0085 AC (Mar 31). 4Karmali v. Donorworx(M) 2015 ABQB 105, 610 AR 258.Similar isTAQA Drilling Solutions v.Yar Hldg. 2021 ABQB 309, JCE 2003 08740 (Apr 26) (¶'s 17-25). 5dictuminGG & HH v. 2306084 Alta.2022 ABQB 58, JCC 2101 07555 (¶ 23).\n\n6id.at ¶ 23. 7Bromley v.Robertson2019 ABQB 79, JCC FL01 27788 (¶ 1(1)). Applications in the Court of King's Bench often see one or both sides (and maybe the judge) present only electronically by videolink.The default for appearances on applications in Edmonton\n\nand Calgary is again in-person.Requests can be made to appear remotely by filling out a\n\n1This is unpredictable.The Court of King's Bench has a Sharepoint document management service, but counsel cannot access it directly to upload materials.They must instead send documents to a Sharepoint\n\nemail address.These may not make it to the presiding judge by the time of the hearing. Counsel should\n\nform and submitting it to the Manager, Court Coordination.Outside of Edmonton and Calgary Application Judges Chambers are held in accordance with the start times and sitting dates On late responses to an application, see R.6.6n.\n\npublished on the website.That is a problem if the documents made available to the judge (now only electronically) are incomplete, and still more so if one party wishes to rely on materials only recently (electronically) filed, or not yet filed at all.\n\nwas struck out;it contained information which the affiant had before the deadline.Unilateral non- compliance is improper, especially without notice, still less a request to adjust deadlines.And a\n\nA supporting affidavit had been presented for filing in the court below by the respondent, but a bad backlog in the Clerk's office led to its being stamped and filed almost two months late.The chambers judge was allowed either to consider date of presentation as the date of filing, or to consider the delay a curable, technical defect because of the filing backlog, as theBankruptcy Act On order of filing and service, see R.3.9n.\n\naffidavit the day before the new return date, well after the deadline fixed at the time, but the court dealt with that only in costs, accepting the affidavit. A party filing a reply affidavit late and so\n\nIt is important to comply with orders setting schedules or deadlines.A big part of a late affidavit time extension cannot be got later without reason for the delay. expressly requires where there is no incurable injustice resulting.\n\nThe court criticized getting the opponent's application adjourned and then filing a replying fairly shortly before the date for the hearing of the application, should give a substantial degree examination must give a formal notice and serve conduct money. A party has the right to run its own case and decide what evidence to lead or leave out.A non-\n\nparty cannot file affidavits or other evidence in a lawsuit, even for an application. *Application of Statement of Claim Rules to Originating Applications*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-28",
+          "3-29"
+        ],
+        "offset_in_clean_text": [
+          80299,
+          84763
+        ]
+      },
+      "operative_text_note": "same wording as official 3.11(1)-(3) (read by eye) except missing spaces, '*' line marks, the title in capitals and the footnote marker '3' after (3)(b). No amendment bracket; the official text lists no amendment for 3.11. No substantive difference.",
+      "commentary_review_flag": "Read in full, p.3-28 (line 634) to p.3-29 (line 670). (1) Defined Terms 'costs award, party' (the Appendix defines both) and Related Provisions '6.6 (late responses to application)': official 6.6 is 'Response and reply to application' - a near copy of 3.11 for ordinary applications; its subrule (3) deals with lack of reasonable notice (costs; no reliance without permission), so the label covers only 6.6(3). (2) Footnotes on p.3-29 (seven, printed among the paragraphs): 1 'This is unpredictable. The Court of King's Bench has a Sharepoint document management service, but counsel cannot access it directly to upload materials ...'; 2 Abel v. Modi 2020 ABQB 530, JCC 1801 14851 (Sep 11) (paras. 14-21); 3 Re Sultan Mgmt. Grp. 2023 ABCA 110, Edm 2203 0085 AC (Mar 31); 4 Karmali v. Donorworx (M) 2015 ABQB 105, 610 AR 258, and TAQA Drilling Solutions v. Yar Hldg. 2021 ABQB 309, JCE 2003 08740 (Apr 26) (paras. 17-25); 5 dictum in GG & HH v. 2306084 Alta. 2022 ABQB 58, JCC 2101 07555 (para. 23); 6 'id. at para. 23'; 7 Bromley v. Robertson 2019 ABQB 79, JCC FL01 27788 (para. 1(1)). The built commentary ends with the title of 3.12. (3) Extraction: paragraphs are interleaved and sentences are split ('But a party wishing to enforce quick cross-' ... 'examination must give a formal notice and serve conduct money'; 'A supporting affidavit had been presented ... as the Bankruptcy Act' ... 'On order of filing and service, see R.3.9n.'). (4) Pointers: 'On order of filing and service, see R.3.9n.' resolves (3.9's note: filing and service is sequential, file then serve); 'On late responses to an application, see R.6.6n.' (to be checked in the 6.6 pass; official 6.6 is the matching rule). The backlog passage here ('a bad backlog in the Clerk's office led to its being stamped and filed almost two months late', line 662) is the same case as the one in R.13.41's note (p.13-102). (5) Statements of law and practice without a source in the repository (not checked): the Court of King's Bench appearance defaults in Edmonton and Calgary and the request form to the Manager, Court Coordination; that a non-party cannot file affidavits; that a party has the right to run its own case; that a late affidavit was dealt with only in costs and accepted; that cross-examination requires formal notice and conduct money."
+    },
+    "BOOK_B": {
+      "title": "Service and filing of affidavits and other evidence in reply and response",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_11_001",
+        "part3_part_3_court_actions_030"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "76806976cb40f223efcb6f904de07e526399557461a7c019868adbeffe2e3bc9",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Service and filing of affidavits and other evidence in reply and response",
+      "division_heading": "Division 2 – ACTIONS STARTED BY ORIGINATING APPLICATION",
+      "operative_text_raw": null,
+      "operative_text_sha256": "50236dc2d024b670921b01a56f90ea5fd4aa8cf0a7638f18c2b6970419b575c6",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "A respondent’s evidence must be served within a reasonable time before the hearing on the originating applicant. Generally, what is reasonable is contextual.\nThe applicant is then entitled to deliver response evidence. Rule 3.11(3) makes it clear that if reasonable notice is not given, the court could decide that the offending party cannot rely on the evidence.\nAs a matter of practice, where there is no urgency, it will be rare that the court will allow the application to proceed without considering a responding affidavit not served within a reasonable time. The common outcome is for the applicant to be given the option of proceeding with the hearing, with the responding affidavit being considered, and having the lateness dealt with as a matter of costs; or being entitled to an adjournment, with thrown away costs to be paid by the respondent.",
+          "citations": [],
+          "review_flag": "agrees with official 3.11(1)-(3) (reasonable time; response evidence; without reasonable notice a party may not rely on the evidence unless the Court permits, and costs may be awarded). The 'common outcome' sentences (option to proceed with the late affidavit considered and lateness dealt with in costs, or an adjournment with thrown-away costs) are practice commentary with no source in Books A or B (Book A's note, p.3-29, describes one late affidavit accepted with the delay dealt with in costs). Not repeated elsewhere."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): subrule (2)(a) stops after 'serve the response affidavit or other evidence on the respondent a' and the words 'reasonable time before the originating application is to be heard or considered, and (b) limit the response to replying to the respondent's affidavit or other evidence.' are missing; subrules (1) and (3) equal the official text. Amendment note agrees (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8391,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.11(1)-(3) (read by eye) except missing spaces, '*' line marks, the title in capitals and the footnote marker '3' after (3)(b). No amendment bracket; the official text lists no amendment for 3.11. No substantive difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.9249,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.11",
+      "title_official": "Service and filing of affidavits and other evidence in reply and response"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "aff9b058c1fc8f88d1019fdc7aa215e1dd66765736d0c7a7c52b867e7d48a794",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-28",
+            "3-29"
+          ],
+          "offset_in_clean_text": [
+            80299,
+            84763
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "76806976cb40f223efcb6f904de07e526399557461a7c019868adbeffe2e3bc9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "50236dc2d024b670921b01a56f90ea5fd4aa8cf0a7638f18c2b6970419b575c6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "6df64460a5a44fd95a7af407a4149811320e6806a3e38c8808a1a0beb478a257",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            53,
+            54
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "a5eaf8119c16431a1f3da2974295f6bd39c97a489ad41e9de0fc6a6b2ef8bddd"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 3.11', lists, line-wrapped forms and form headings): 12.26(4) ('Despite rule 3.11(1) and 12.44(2), if the respondent to the application under this rule intends to rely on an ...') and 12.27(4) ('Despite rule 3.11(1), if the respondent to an application to vary a custody order ...'); no form heading names 3.11. By subject: 6.6 (response and reply to application: 6.6(1)-(3) parallel 3.11(1)-(3)), 3.9 (service time for the originating application), 3.13 (questioning on affidavits), 13.18-13.19 (affidavits), 12.44.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt; pages from the markers; rule numbers from the text): R.6.6 related provisions p.6-59 (line 3097) '3.11 (reply materials for originating applications)' (matches: 6.6 is the ordinary-application counterpart); R.13.18 note p.13-74 (line 3867) 'On deadlines for affidavits, see Rr.3.11, 6.6, and 12.44' and R.13.18 checklist p.13-85 (line 4447) 'Filed and served reasonable time before motion (if to oppose motion or to reply) Rr.3.11, 6.6'; R.12.26(4) p.12-24 and R.12.27(4) p.12-28 quote 'Despite rule 3.11(1) [Service and filing of affidavits and other evidence in reply and response] ...' (title matches the official). Inside Part 3: none besides 3.11's own note and the 3.9 pointer above.",
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule12_part01_document.json (12.26(4) 'Despite rule 3.11(1) and 12.44(2)'; 12.27(4) 'Despite rule 3.11(1)'); BOOK_C: no other file cites 3.11 (only its own 3.11 commentary 'Rule 3.11(3) makes it clear ...'). BOOK_B has no 3.11 commentary (rule text only, equal to the official 3.11)."
+  ],
+  "dedupe_log": [
+    "3.11 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.11 BOOK_C commentary sentence split dropped",
+    "3.11 BOOK_C: rule text dropped (manual review)",
+    "3.11 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.11 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

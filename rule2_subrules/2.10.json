@@ -1,0 +1,703 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.10",
+  "title": {
+    "official": "Intervenor status",
+    "variants": {
+      "BOOK_A": "Intervener Status"
+    }
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.10   On application, a Court may grant status to a person to\nintervene in an action subject to any terms and conditions and with\nthe rights and privileges specified by the Court.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "55c0714d1467225f7ba5e5287a0739a757b7e7ecc7ef230d349fcc2d001700c2"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.10 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          39
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Intervener Status",
+      "operative_text_raw": null,
+      "operative_text_sha256": "94232fb97a6b0e75b766f2b1d9db5acaf3a4f04d0d5bb1b7b47f7c890833a138",
+      "related_provisions": "3.17 (standing of Attorney General on judicial review) ; 14.58 (intervenor on appeal)",
+      "commentary": "A. Introduction\nThere is a textbook.¹\nThere being no former Rules on interveners, the common-law principles formerly applied; and\nnew R.2.10 does not suggest that the existing common-law rules cease to apply.²\nOn interventions in appeals, see R.14.58n.\nCourts have an inherent power to allow a non-party to intervene in an action.³\nOne must distinguish the standing of an existing party to raise an issue (such as a certain\nCharter right), from the question of letting non-parties intervene.⁴\nB. Who Can Intervene⁵\nSomeone wishing to intervene in a lawsuit to which he, she or it is not a party must show either\nspecial expertise, special circumstances, or that the suit would have a special effect upon him or\nher.⁶\nA body with no interests at stake but useful expertise sometimes gets leave to intervene.⁷\nConversely, someone who will be affected only by setting here a precedent, but with no fresh\nexpertise or information should not intervene.⁸\nA group with some expertise but no fresh viewpoint\nor new information, and totally unaffected by the result, was not allowed to intervene in an appeal\nwhich already had affected parties on both sides.⁹\n\nA body with no standing or personal interest can intervene only if the useful and different test\nis met. That requires showing what particular different submissions or analyses are proposed;\na broad brush description is not enough. Its special expertise is not enough either. Its proposed\nadditions must be different and useful.¹\nPublic interest intervention is more readily allowed.²\nWhere there is no other effective way to\nput the issue before the courts, a party may be given status to bring an action as plaintiff. The\nplaintiff need not be directly affected if it has a true interest and there is no other reasonable and\nefﬁcacious way to bring the question before the court.³\nThe proposed intervener may be somebody specially affected by the decision,⁴\nor it may have\nsome special expertise or insight. There can also be an intervener where the existing party will not\nfully protect or argue the position of the non-party. The court should ﬁrst look at the subject matter\nof the proceeding and then look at the interest of the proposed intervener.⁵\nAlso relevant are possible delay, prejudice, widening the dispute, and making the court a\npolitical forum.⁶\nIndividual members of an Indian Band, not appointed by it to represent the Band, cannot rely\n(in defence to a trespass suit) on alleged failure of the plaintiff railway to consult the Band, a duty\nowed (if at all) only to the Band.⁷\nAn Indian Band, whose membership a lawyer kept trying to\nrelitigate, was allowed to intervene in this suit (which is against a trust) since the Band would be\nheavily impacted were the court to ﬁnd that the litigant was a member; the Band held property and\nother beneﬁts for its members.⁸\nAn intervention should be on a legal question which can be stated concretely, not vaguely.⁹\n\n“Intervener” usually refers to someone seeking to join an existing law suit or appeal, and most\noften it is some organization or association, not an individual. But the substantive connection\nwhich distinguishes an arguable intervener from a mere busybody, is standing, usually public-\ninterest standing. In all such disputed situations, often the person or group claiming standing is\nnot the perfect plaintiff or defendant, but has some connection or grievance or danger, and there\nseems to be no more suitable litigant willing to take part.¹\nC. Lack of Standing\nThis is a separate topic, and is important beyond intervener status. See also R.3.69 n. B.\nMore important than intervention is whether a person has the right and power to sue, or to\ndefend a suit. But oddly no Rule expressly mentions this, certainly not in Chapter 2. (Rule 3.68\ninvolves it, but the commentary on that Rule is already complex. So this Part C is inserted into\nChapter 2 here. )\nNot everyone has a right to sue about everything. Standing is about who can sue, and about\nwhat.²\nLack of standing of a party is a ground to strike pleadings under subrule (1) or (2) (d) of R.3.68.\nPublic standing is weighed liberally and generously, and involves a serious justiciable issue, a real\nstake or genuine interest, and a reasonable way to litigate.³\nA person with no interest should not be added as a party, especially if he or she is already an\nintervener, even to make him or her pay costs.⁴\nNor should someone with an interest be added\nto an ongoing suit (even for judicial review) to get relief, if the limitation period has expired.⁵\nNor\nshould a lawyer be allowed to intervene in an existing appeal which he has ﬁled, ostensibly for\na client, after the client denies authorizing the appeal, even if the lawyer’s interests (fees) are\ninvolved.⁶\nThe common law requiring standing to be a party is not abolished by references in the Rules\nto “a person adverse in interest”. Not everyone who chooses to participate is a person interested,\nand persons allowed to intervene or otherwise take part are not necessarily full parties.⁷\nWhere the parties lack sufﬁcient standing to start litigation, the fact that some interveners have\nmore interest in the matter does not cure it, and such attempts to bootstrap standing in litigation\nare to be discouraged.\nQuebec law provides that a party must have a “sufﬁcient interest” in an action to have standing.\nThe Code does not deﬁne “sufﬁcient interest”, but the Supreme Court of Canada enunciated that\n“sufﬁcient interest” must be direct and personal. It cannot be based on another party’s right of\naction. The sufﬁciency of an interest must be established by the claimant, who must allege facts\nnecessary to demonstrate the existence of a substantive right. Shareholders usually do not have\nseparate standing in an action concerning faults committed against a corporation in which they\n\nhold shares. The court should not need to determine whether the claim is founded in law. It instead\nmust draw inferences and conclusions regarding the sufﬁciency of the claimant’s interest.¹\nPrivate interest standing is as of right and not discretionary and is sometimes called being\n“aggrieved”, i. e. having an interest in the legality of something, greater than the interests of the\ngeneral public. It is widely deﬁned and can include likely harm.²\nCases about what is a real stake in the suit are cited. Some factors relevant to whether this\nsuit is a reasonable and effective way to get to court are cited.³\nHere the non-proﬁt party was\nvery young and had very tenuous connection between its stated objectives and its past history of\naction, and the subject of the present suit. So it and its members lacked relevant experience and\nexpertise, nor a useful collection of information lacked evidentiary support.⁴\nPublic interest standing is the same topic as being able to claim intervener status, or at least\noverlaps heavily with it. About that, see Part B above.\nRule 3.68(1) is not limited to striking out claims; paragraph (d) allows stays of actions or\napplications. A challenge to the plaintiff’s standing is not primarily under R.3.68(2) (b) (“no\nreasonable claim or defence”), so there is no bar to hearing evidence. No standing means that it\nis not the plaintiff’s business, and no issues can be raised, and the most appropriate remedy is a\nstay. And an application to strike out a claim because it is not based on a ﬁrm evidentiary or factual\nrecord, is not under paragraph (2) (b) either, as the cause of action might be a recognized one, but\nraised in the abstract, so then there is no bar to evidence.⁵\nWhether a mere intervener can appeal, seek leave to appeal, or seek a rehearing, or needs\nto be notiﬁed of such steps, may depend upon the precise wording of the legislation or Rules on\nsuch steps.⁶\nSimilarly, only exceptionally can one get leave to intervene before anyone has been\ngiven leave to appeal. If no one else has an opposing interest, an intervener may get permission\nto contest leave to appeal.⁷\nUnless the legislation otherwise provides, a complainant has no standing in professional\ndiscipline, and cannot seek judicial review of it.⁸\nThe complainant in a disciplinary matter has\nstanding to challenge the procedural fairness of an appeal of a decision (not to proceed), but\ncannot challenge the merits of the decision itself.⁹\nA creditor of a dissolved company may have standing, but a taxing authority is not a creditor\nuntil it issues an ofﬁcial assessment.¹⁰\n\nIf someone takes no part in a suit and is not a privy of any of the parties, it may well be that\nthere will be no res judicata vis-à-vis him, and so no harm to him.¹\nUnderlying the need for standing is that courts ordinarily do not answer hypothetical questions,\nnor give advisory opinions before any actual dispute occurs.²\nIn a constitutional case, a group may\nget public interest standing because the court otherwise has no facts, only hypothetical situations.³\nD. Denying Intervention\nThere should be no intervention on a factual question.⁴\nIf the question on which intervention is\nsuggested may not arise, intervention early may be denied, with a stay of argument later to enable\nit, if the relevant issue actually later arises.⁵\nThe courts are slow to allow intervention by a non-party in a private dispute.⁶\nAn income\ntax appeal was adjourned to give notice to the federal Ministers where their interests might be\ndifferent from those of Alberta.⁷\nQuebec Rules do not allow someone who is not a party to intervene in order to represent the\ninterests of an existing party. An intervention is to be allowed where there is a separate interest\nwhich should be represented. Another bar is Quebec legislation on who can represent another\nperson in court.⁸\nIt is not routine to allow a non-party to intervene in an appeal, and the order is discretionary.⁹\nA company was not allowed to intervene where its directors had known all along of the litigation,\nand had never asked to take any part until just before an appeal was to be heard. Nor would any\ndecision made in the lawsuit affect the status or rights of the company.¹⁰\nAn association of municipalities was denied leave to intervene in a pending appeal, where the\nexisting respondent was a municipality with competent counsel, with no motive to hold back any\n\nargument which the association might suggest.¹\nInterventions were denied in a criminal appeal.\nThe accused had competent counsel who would argue all of this.²\nA body's expertise in the types of persons involved is not enough, if the issue before the court\nis a pure question of general law (issue estoppel), but the expertise may sufﬁce on policy issues.³\nGetting free legal help is not a legitimate ground for allowing an intervention.⁴\nSome other cases denying intervention are found in Part C above.\nE. Procedure\nOn an intervention motion, the proposed intervener must put its best foot forward.⁵\nA proposed intervener should state its intended position.⁶\nOn the interaction of interventions and the timing of an urgent appeal, see Thomson.⁷\nSometimes an intervention motion for an appeal will be heard by a panel beforehand, and\nsometimes it will be referred to the panel which hears the substantive appeal.⁸\nIn an urgent case,\none justice of appeal can allow an intervention in an appeal.⁹\nAnd now a hearing about intervention\nbefore one judge is the usual practice in Alberta.\nThe intervener has to take the case as he or she ﬁnds it, and cannot argue new issues or new\nevidence, thus prejudicing the existing parties.¹⁰\nUsually interventions are limited to existing issues\nraised by the parties.¹¹\nThe Supreme Court of Canada expects all interventions' submissions to be helpful to the\ncourt, different from the parties' submissions. The dispute is and remains between the parties,\nand the submission of an intervener is not to support a party (even if it generally aligns with one\nparty over another), but rather the proper aim is to advance the intervener's own view of a legal\nissue before the court. So an intervener should not take a position on the outcome of the appeal.\nNor should it challenge fact ﬁndings, introduce new issues, nor try to expand the case.¹²\nOften intervention is allowed only on terms or conditions.¹³\nTerms may be imposed to manage\ndelay resulting from an intervention,¹⁴\nor to avoid overlap in argument by different parties.¹⁵\nWhere\n\nan intervention was allowed on certain questions, the intervener should not ﬁle a factum on other\nquestions; such a factum may be struck out.¹\nUsually an intervener pays its own costs, even where the constitutional issue on which it\nintervened was withdrawn by the party which had raised it.²\nBut a tribunal which took an active\npartisan rôle in an appeal, and failed to attend the hearing, thus causing a second hearing, had\nto pay costs.³\nSee further R.3.24 n. D.\nCase law on costs against interveners is reviewed. There can be costs if the intervener gave\na unique viewpoint or had a speciﬁc role by statute. Also relevant are who provoked intervention,\nand terms of the order allowing it. Poor interveners do not get costs because of their poverty,\nthough poverty may help shield them from paying costs.⁴\nF. Special Status\nEven if there is a contest over whether the superior court or an administrative tribunal should\ndecide a question, the tribunal is not a proper party to the suit, especially if it says that it will abide\nby the court’s decision.⁵\nThe limited right of an administrative tribunal to make submissions to a\nhigher body justifying the correctness of its decisions means that if it does that on appeal to an\ninternal disciplinary tribunal, a new hearing before the latter must be ordered?⁶\n\nThere was mild criticism of a tribunal’s not taking part in judicial review attacks on it, or an\nappeal from it, because there was no party in the proceedings who would oppose the judicial\nreview!¹\nThe Attorney General can intervene in any case where validity of a statute is questioned, and\nhas more scope if no party wishes to defend the legislation.²\nThe federal Trust and Loan Companies Act gives the Attorney-General standing to apply\nunder the Winding-up and Restructuring Act.³\nG. Constitutional Cases\nIntervention was easier in constitutional cases,⁴\nbut is far from automatic, and getting harder.⁵\nThe most common cases are now Charter cases. Insofar as this involves standing to sue, as\ndistinct from intervention, the principal question is whether there is another way to bring the\nmatter before the courts.\nWhere the constitutionality of a statute is impugned in litigation, the Attorney General has\na right to intervene. If proper notice has not been given to one Attorney General of the original\n(or even of a second) set of constitutional arguments, the Court may refuse to hear them.⁶\nA\nmember of the public with no more interest than others cannot challenge the constitutionality of\nlegislation?⁷\nFiling a notice of constitutional questions does not necessarily amend the pleadings, nor\nrequire leave to amend.⁸\nIntervention is easier than in most other cases where human rights\nlegislation is being interpreted?⁹",
+      "footnotes": [
+        {
+          "page": "2-22",
+          "number": 1,
+          "text": "Milne and Roach (eds. ), Public Interest Litigation in Canada (Lexis Nexis 2019)."
+        },
+        {
+          "page": "2-22",
+          "number": 2,
+          "text": "Univ. of Alta. v. Info. & Privacy Comm’r.2011 ABQB 389, 55 Alta LR(5th) 131."
+        },
+        {
+          "page": "2-22",
+          "number": 3,
+          "text": "In an appeal in a dispute with one Métis Settlement, another Settlement was allowed to intervene because what was in issue was the criteria for admitting members to all Settlements. The only person taking one constitutional position was an individual with no lawyer, and an amicus curiae was appointed to represent her and her viewpoint: Min. of Justice v. Métis Settlements Appeal Tribunal 2005 ABCA 143, 367 AR 34. In a complex area where computer calculations are often used, a private software ﬁrm was allowed to appear as a friend of the court and explain discrepancies in support calculations: Kelly v. Kelly 1998 ABQB 220, 231 AR 383 and 389. In a criminal case, a police service got intervener status, because it had an interest in the procedure for disclosing wiretap evidence: R. v. Szczerba (#2) 2002 ABQB 660, 321 AR 102."
+        },
+        {
+          "page": "2-22",
+          "number": 4,
+          "text": "See Carbon Dev. P’ship. v. A. E. U. B.2007 ABCA 231."
+        },
+        {
+          "page": "2-22",
+          "number": 5,
+          "text": "There is some discussion of principles, in Edmonton (City) v. Edm. S. D. A. B. (Urban Dev. Inst. ) 2014 ABCA 340, 584 AR 255. For citation of some authority on interventions, see R. v. Hirsekorn 2011 ABQB 156, [2011] AR Uned 70 (Mar 14). The common-law rules for intervention are reviewed, in R. v. Trang 2002 ABQB 185, [2002] 8 WWR 755."
+        },
+        {
+          "page": "2-22",
+          "number": 6,
+          "text": "Dir. of Human Rts. etc. v. Kellogg, supra; Alta. Pro-Life v. Univ. of Alta.2018 ABCA 350, Edm 1703 0283 AC (one JA) ; R. v. Ndhlovu 2019 ABCA 132, Edm 1803 0111 A (one JA) ; J. H. v. Min. of Justice 2019 ABCA 420, Calg 1901 0249 AC (one JA Nov 1) (¶’s 11-14)."
+        },
+        {
+          "page": "2-22",
+          "number": 7,
+          "text": "Lameman v. A. -G. Can. (#1) 2005 ABCA 320, 380 AR 301; J. H. v. Min. of Justice, supra (¶’s 11-14). But an Indian Band usually has to show some legal and factual interest in the subject matter: Dene Tha’ F. N. v. A. E. U. B.2005 ABCA 68, 363 AR 234, leave den [2005] 2 SCR vii."
+        },
+        {
+          "page": "2-22",
+          "number": 8,
+          "text": "Pedersen v. R. , supra."
+        },
+        {
+          "page": "2-22",
+          "number": 9,
+          "text": "Cdn. Centre for Bio-Ethical Reform v. Grande Prairie (City) 2017 ABCA 280, Edm 1703 0017 AC (one JA Sep 1); J. H. v. Min. of Justice, supra (¶’s 15, 25-26)."
+        },
+        {
+          "page": "2-23",
+          "number": 1,
+          "text": "Rebel News Network v. Election Comm’r. (#2) 2020 ABQB 687 (Nov 5). See also V. L. M. v. Dominey Est. 2023 ABCA 226, Edm 2203 0107 AC (one JA Jul 31) (non-proﬁt law “clinic” with no interest nor particular special viewpoint, a law ﬁrm without a client)."
+        },
+        {
+          "page": "2-23",
+          "number": 2,
+          "text": "Discussed generally in the C. P. E. , Chapter 10, Part B. Public interest standing is discussed in Trang v. Edm. Remand Centre 2002 ABQB 1042, 329 AR 292. It was recognized where no one else would likely raise the question, which was worth review, in Carter v. R.2001 ABQB 429, 290 AR 127, affd 2002 ABCA 303, 317 AR 299, leave den (SCC 19 Jun ’03). An example complicated by a rare statutory deﬁnition is found in Bengtson v. Nat. Res. Conser. Bd.2003 ABCA 173, 330 AR 81."
+        },
+        {
+          "page": "2-23",
+          "number": 3,
+          "text": "Conseil du Patronat v. P. -G. Qué. [1991] 3 SCR 685, 134 NR 29, adopting Chouinard J. A. (diss. ) (1988) 16 QAC 11. But cf. Predator Corp. v. Ricks N. S. Co. (2001) 318 AR 1."
+        },
+        {
+          "page": "2-23",
+          "number": 4,
+          "text": "Such as an association of the great majority of persons affected: Edmonton (City) v. Edm. S. D. A. B. , supra. But some cases deny intervention to those affected, if others similarly situate are already parties and will represent that interest: Calder v.1088294 Alta. (Re Stewart Est. ) (#1) 2014 ABCA 222, 577 AR 57 (one JA); Porter v. Anytime Custom Mech.2014 ABQB 193, 586 AR 89; Ecojustice Can. Socy. v. Alta.2020 ABQB 364, JCC 1901 16255 (Jun 11) (¶’s 65-68). See also Part D below."
+        },
+        {
+          "page": "2-23",
+          "number": 5,
+          "text": "Univ. of Alta. v. Info. & Privacy Comm’r.2011 ABQB 389, 55 Alta LR(5th) 131 (¶’s 13-14) ; Alta. Pro-Life v. Univ. of Alta. , supra."
+        },
+        {
+          "page": "2-23",
+          "number": 6,
+          "text": "Alta. Pro-Life v. Univ. of Alta. , supra."
+        },
+        {
+          "page": "2-23",
+          "number": 7,
+          "text": "Behn (B. C. ) v. Moulton Contr.2013 SCC 26, [2013] 2 SCR 227."
+        },
+        {
+          "page": "2-23",
+          "number": 8,
+          "text": "Re Sawridge Band Inter Vivos Settlement (1985 Sawridge Tr. ) v. Twinn and Pub. T’ee. (#__) 2017 ABQB 436, JCE 1103 14112 (Jul 12)."
+        },
+        {
+          "page": "2-23",
+          "number": 9,
+          "text": "Univ. of Alta. v. Info. & Privacy Comm'r. , infra. But that may not be possible on a government reference to the Court of Appeal: Reference re Greenhouse Gas etc. , supra, Part C. Topics for the proposed intervention should be deﬁned with particularity. Here the reposed intervener wanted to advance 4 propositions, and got leave to intervene and to raise 3 of them but not the fourth: Alta. Pro-Life v. Univ. of Alta.2018 ABCA 350, Edm 1703 0283 AC (one JA)."
+        },
+        {
+          "page": "2-24",
+          "number": 1,
+          "text": "See W. V. v. M. V. , infra (¶’s 118-130) (a relative’s medically-assisted dying plan)."
+        },
+        {
+          "page": "2-24",
+          "number": 2,
+          "text": "W. V. v. M. V.2024 ABKB 174, JCC 2401 01432 (Mar 25) (¶ 110)."
+        },
+        {
+          "page": "2-24",
+          "number": 3,
+          "text": "Coalition for Justice &c. v. Edmonton (City), infra (¶’s 10-13)."
+        },
+        {
+          "page": "2-24",
+          "number": 4,
+          "text": "Spracklin v. Kichton 2003 ABCA 9, 320 AR 309."
+        },
+        {
+          "page": "2-24",
+          "number": 5,
+          "text": "A. -G. Alta. v. Berry and U. F. C. W. Local 401 2011 ABCA 93, 502 AR 188. See further R.3.74n. F."
+        },
+        {
+          "page": "2-24",
+          "number": 6,
+          "text": "Boyko (Sklar Est. ) v. Sklar 2011 ABCA 26, 505 AR 68."
+        },
+        {
+          "page": "2-24",
+          "number": 7,
+          "text": "Reference re Greenhouse Gas Pollution Pricing Act (#5?) 2019 ABCA 361, Edm 1903 0157 AC (one JA Oct 3) (¶ 7)."
+        },
+        {
+          "page": "2-25",
+          "number": 1,
+          "text": "Brunette v. Legault Joly Thiffault 2018 SCC 55, [2018] 3 SCR 481."
+        },
+        {
+          "page": "2-25",
+          "number": 2,
+          "text": "W. V. v. M. V.2024 ABKB 174, JCC 2401 01432 (Mar 25) (¶’s 112-17)."
+        },
+        {
+          "page": "2-25",
+          "number": 3,
+          "text": "See ¶’s 1-14, 19."
+        },
+        {
+          "page": "2-25",
+          "number": 4,
+          "text": "Coalition for Justice &c. v. Edmonton (City) 2024 ABKB 26, JCE 2303 15571 (Jan 16)."
+        },
+        {
+          "page": "2-25",
+          "number": 5,
+          "text": "A. U. P. E. v. R. (Alta. ) 2021 ABCA 416, Edm 2103 0148 AC (Dec 14) (¶’s 16-20), leave den (SCC 4 Aug ’22)."
+        },
+        {
+          "page": "2-25",
+          "number": 6,
+          "text": "Compare M. v. H. [1999] 2 SCR 3, 238 NR 178; with N. H. (D. H. ) v. H. M. (#2) [1999] 1 SCR 761, 238 NR 80. But many cases bar an appeal by an intervener, including Lebel J. in Alliance for Marriage & Fam. v. A. A. 2007 SCC 40, [2007] 3 SCR 124 (one SCC J. ) ; Dreco Enr. Serv. v. Wenzel Downhole Tools 2008 ABCA 36, 429 AR 57. See also A. -G. Alta. v. U. F. C. W. Local 401, infra. See further C. P. E. , Chapter 10, Part C.4 and Chapter 74, Part L.9."
+        },
+        {
+          "page": "2-25",
+          "number": 7,
+          "text": "R. v. N. M. P. (Re Stepping Stone) 2000 SCC 59, [2000] 2 SCR 857 (Arbour J. alone 2 Nov) ; Carbon Dev. P’ship. v. A. E. U. B. , supra. Rarely will the court allow intervention in a motion for leave to appeal or on a motion ancillary to a leave motion: Hay v. R. (one J 21 Oct ’10), [2010] SCCA #13."
+        },
+        {
+          "page": "2-25",
+          "number": 8,
+          "text": "Friends of the Old Man R. Socy. v. A. P. E. G. G. A.2001 ABCA 107, 277 AR 378, leave den [2001] 3 SCR vii, 284 NR 193."
+        },
+        {
+          "page": "2-25",
+          "number": 9,
+          "text": "Mitten v. College of Alta. Psychologists 2010 ABCA 159, 26 Alta LR(5th) 102."
+        },
+        {
+          "page": "2-25",
+          "number": 10,
+          "text": "A. -G. Can. v.18335898 2023 ABKB 357, JCE 2303 08199 (AJ Jun 14)."
+        },
+        {
+          "page": "2-26",
+          "number": 1,
+          "text": "Cf. B. M. v. Cochrane 2011 ABQB 259, 512 AR 153."
+        },
+        {
+          "page": "2-26",
+          "number": 2,
+          "text": "A. U. P. E. v. R. (Alta. ) 2021 ABCA 416, Edm 2103 0148 AC (Dec 14) (¶’s 45-46), leave den (SCC 4 Aug ’22)."
+        },
+        {
+          "page": "2-26",
+          "number": 3,
+          "text": "A. U. P. E. v. R. , supra (¶’s 71-78)."
+        },
+        {
+          "page": "2-26",
+          "number": 4,
+          "text": "Cf. Lameman v. A. -G. Can. (#2) 2006 ABCA 43, 380 AR 306, revd other grds 2008 SCC 14, 372 NR 239, 429 AR 26; Supreme Court of Canada Notice to the Profession on Interventions (15 Nov ’21). But cf. Friends of the Calg. Gen. Hosp. v. R. (#1) 2000 ABQB 43, 258 AR 22 (discretionary administrative decision). One reason that the intervening federal government could not adduce fresh evidence was that it included commentary and analysis; and the order for interventions barred more evidence: R. v. Powley (2003) 301 NR 388, 170 OAC 220 (Binnie J. alone Mar 14)."
+        },
+        {
+          "page": "2-26",
+          "number": 5,
+          "text": "R. v. Rain (#2) (CA 1997) 196 AR 315, 43 CRR(2d) 374."
+        },
+        {
+          "page": "2-26",
+          "number": 6,
+          "text": "The principles and tests are discussed in the C. P. E. , Chapter 10, Part B. , and in Carbon Dev. P’ship. v. A. E. U. B. , supra. Examples are given in its Part D. An Indian Band could not intervene in a contested adoption, as the natural father could make all the arguments and lead all the evidence, proposed by the Band: N. P. v. LDS Adoption Serv.2006 ABQB 78, 392 AR 282. Other examples are Com. & Ind. Ins. Co. Can. v. Singleton Assoc. Eng.2005 ABQB 500, 379 AR 125; Telus Comm’ns. v. Telecommunications Workers U. (#__) 2006 ABCA 397, 401 AR 137."
+        },
+        {
+          "page": "2-26",
+          "number": 7,
+          "text": "Excel Enr. v. R. (CA 1996) 178 AR 255."
+        },
+        {
+          "page": "2-26",
+          "number": 8,
+          "text": "Bibaud (Boisvert) v. Régie de l’assurance-maladie du Qué.2004 SCC 35, [2004] 2 SCR 3."
+        },
+        {
+          "page": "2-26",
+          "number": 9,
+          "text": "Phillips v. Avena, infra; cf. Wheatland v. Calder, infra. In considering applications to intervene, the court may be mindful of the need not unduly to imbalance the arguments before it: Supreme Court of Canada Notice to the Profession on Interventiosn (15 Nov ’21)."
+        },
+        {
+          "page": "2-26",
+          "number": 10,
+          "text": "Phillips v. Avena (Phillips) (#1) 2005 ABCA 342 (one JA Oct 11). Cf. Wheatland Farming Co. v. Calder (Re Stewart Est. (#2) ) 2014 ABCA 296, Calg 1301 0360 AC."
+        },
+        {
+          "page": "2-27",
+          "number": 1,
+          "text": "Cdn. Legion etc. v. Edmonton (City) (CA 1993) 141 AR 290; Ecojustice Can. Socy. v. Alta.2020 ABQB 364, JCC 1901 16255 (Jun 11) (¶ 64). Arguments not open to an intervener could be made by the appellant, in Lameman v. A. -G. Can. (#2), supra. Cf. Phillips v. Avena, supra."
+        },
+        {
+          "page": "2-27",
+          "number": 2,
+          "text": "R. v. Neve [1996] 8 WWR 294, 184 AR 359."
+        },
+        {
+          "page": "2-27",
+          "number": 3,
+          "text": "Hamm v. A. -G. Can. (#1) 2019 ABCA 389, Edm 1903 0113 AC (one JA Oct 17)."
+        },
+        {
+          "page": "2-27",
+          "number": 4,
+          "text": "R. v. Ndhlovu, supra."
+        },
+        {
+          "page": "2-27",
+          "number": 5,
+          "text": "Rebel News Network v. Election Comm’r. (#2) 2020 ABQB 687 (Nov 5)."
+        },
+        {
+          "page": "2-27",
+          "number": 6,
+          "text": "J. H. v. Min. of Justice, supra (¶ 19)."
+        },
+        {
+          "page": "2-27",
+          "number": 7,
+          "text": "Thomson Nwsp. Co. v. A. -G. Can. (27 Mar/May ’97) (Lamer CJC alone; chambers)."
+        },
+        {
+          "page": "2-27",
+          "number": 8,
+          "text": "R. v. Rain (#2), supra. On whether one judge alone can allow an intervention, see the doubts in Imp. Oil v. R. (Lynnview Ridge Residents’ Assn. ) 2005 ABCA 375, 376 AR 381."
+        },
+        {
+          "page": "2-27",
+          "number": 9,
+          "text": "Knox v. Conservative Party of Can. (#2) 2007 ABCA 141, 404 AR 217."
+        },
+        {
+          "page": "2-27",
+          "number": 10,
+          "text": "Univ. of Alta. v. Info. & Privacy Comm’r.2011 ABQB 389, 55 Alta LR(5th) 131; Auer v. Auer 2018 ABQB 510, [2018] 9 WWR 744 (¶’s 108, 128). See 2018 ABCA 409."
+        },
+        {
+          "page": "2-27",
+          "number": 11,
+          "text": "Ringstad (Regl. Mgr. ) v. Taku R. Tlingit F. N. (Binnie J. alone, 27 Oct ’03) ; Lameman v. A. -G. Can. (#2), supra; Cunningham v. R. (Peavine Métis Settlement) 2008 ABCA 83, 425 AR 1; R. v. McGregor 2023 SCC 4, 422 CCC(3d) 415 (one concurring J. )."
+        },
+        {
+          "page": "2-27",
+          "number": 12,
+          "text": "Supreme Court of Canada Notice to the Profession on Interventions (15 Nov ’21)."
+        },
+        {
+          "page": "2-27",
+          "number": 13,
+          "text": "R. v. Hirsekoro 2011 ABQB 156, [2011] AR Uned 70 (Mar 14). For example, one brief factum jointly for two interveners, conﬁned to one speciﬁed topic: R. v. Ndhlovu 2019 ABCA 132, Edm 1803 0111 A (one JA Apr 11)."
+        },
+        {
+          "page": "2-27",
+          "number": 14,
+          "text": "J. H. v. Min. of Justice 2019 ABCA 420, Calg 1901 0249 AC (one JA Nov 1) (¶ 17)."
+        },
+        {
+          "page": "2-27",
+          "number": 15,
+          "text": "J. H. v. Min. of Justice (¶ 20)."
+        },
+        {
+          "page": "2-28",
+          "number": 1,
+          "text": "Lameman v. A. -G. Can. (#2), supra. Binnie J. sitting alone struck out certain portions of the factum ﬁled by an intervener because they tended to enlarge the issues from those before the court: U. S. A. v. Burns & Rafay SCC ﬁle #26129 (Binnie J.3 May ’00), (which was then argued before the Court and judgment on the substantive appeal dismissed [2001] 1 SCR 283)."
+        },
+        {
+          "page": "2-28",
+          "number": 2,
+          "text": "Lameman v. R. (Papaschase I. B. No.136 v. R. ) 2006 ABCA 392, 404 AR 349 (¶ 64), revg other grds 2004 ABQB 655, 365 AR 1, but Court of Appeal was revd other grds and King's Bench restd 2008 SCC 14, 372 NR 239. See C. P. E. , Chapter 10, Part C.7. But an intervener which took full part in a case as though it were a party, may be ordered to pay costs: Utd. B’hood. of Carpenters & Joiners of Amer. v. J. V. Driver Installations (#2) 2005 ABQB 310, 383 AR 200."
+        },
+        {
+          "page": "2-28",
+          "number": 3,
+          "text": "Optimax Dev. v. Calgary (City) 2016 ABQB 70, JCC 1401 09537 (Feb 3). On acting like a party, see also S. M. v. Director, supra (¶’s 31-37)."
+        },
+        {
+          "page": "2-28",
+          "number": 4,
+          "text": "S. M. v. Dir. of Child, Youth & Fam. Enhancement Act (#2) 2020 ABQB 558, JCC FL01 28890 (Sep 25) (¶’s 31-37)."
+        },
+        {
+          "page": "2-28",
+          "number": 5,
+          "text": "Ermineskin Cree Nation v. R. (#1) 2005 ABQB 76, 378 AR 279. A Subdivision and Development Appeal Board should not make submissions on the merits during a motion for leave to appeal from it to the Court of Appeal, even if the municipality does not appear: Spencer v. Smoky Lake (Town) 2014 ABCA 443, Edm 1403 0273 AC (one JA Dec 17). See further R.14.58n. An arbitrator could not intervene in an appeal about his conduct: Flock v. Flock 2007 ABCA 287, 42 RFL(6th) 9. Counsel for a tribunal being appealed from has a limited role before the appeal court: See the C. P. E. , Chapter 10, Part C.8, and Chapter 74, Part L.9, and Chapter 76, Part K. In appeals, an intervener should not extend legal argument beyond what the trial court and the parties advance, or an issue inextricably linked to the existing issues. Where only one unrepresented party opposes all the other parties, and important Charter issues are involved, the court may appoint an amicus curiae: Min. of Justice v. Métis Settlements Appeal Tribunal 2005 ABCA 143, 367 AR 34. An intervener took the evidence as it found it, but made a new argument of law. There was no unfairness or surprise to any party. It was another route to a conclusion on what was always the central issue. If that argument is correct and is one of law alone, the Court should be able to use it. In the Supreme Court, a true party should be able to advance that argument and the Court adopt it. Dicta in Mikisew Cree F. N. v. Copps (Min. of Cdn. Heritage) 2005 SCC 69, [2005] 3 SCR 388 (¶’s 40-41). Like the test for raising a new point on appeal (¶ 41)."
+        },
+        {
+          "page": "2-28",
+          "number": 6,
+          "text": "Clayre v. Assn. of Prof. Engineers etc.2005 ABCA 59, 363 AR 114. But a more nuanced approach was taken, in Springﬁeld Cap. v. Grande Prairie S. D. A. B.2018 ABCA 203, Edm 1803 0016 AC (one JA May 25)."
+        },
+        {
+          "page": "2-29",
+          "number": 1,
+          "text": "But it was not bad enough for advance costs, or at least the facts about that were not investigated enough: Edmonton (City) v. Edm. S. D. A. B. (#2) 2018 ABCA 382, Edm 1803 0166 AC (one JA)."
+        },
+        {
+          "page": "2-29",
+          "number": 2,
+          "text": "Auer v. Auer 2018 ABQB 510, [2018] 9 WWR 744 (¶’s 108, 112). See 2018 ABCA 409."
+        },
+        {
+          "page": "2-29",
+          "number": 3,
+          "text": "A. -G. Can. v. Security Home Mtge. Corp. (CA 1996) 187 AR 378, 44 Alta LR(3d) 333."
+        },
+        {
+          "page": "2-29",
+          "number": 4,
+          "text": "Athabasca Tribal Council v. Min. of Env’l. Protection 1998 ABQB 875, 235 AR 387; Auer v. Auer, supra (¶ 111)."
+        },
+        {
+          "page": "2-29",
+          "number": 5,
+          "text": "Pederson v. R.2008 ABCA 192, 432 AR 219; Dir. of Human Rts. & Citizenship Comm. v. Kellog Brown & Root (Can. ) 2007 ABCA 175; but cf. A. U. P. E. v. R. (Alta. ) 2019 ABQB 553, JCE 1903 13095 (Jul 22)."
+        },
+        {
+          "page": "2-29",
+          "number": 6,
+          "text": "Byatt v. Dykema (R. v. Byatt) (CA 1998) 216 AR 100, 115-16, 62 Alta LR(3d) 10; R. v. Aberdeen 2006 ABCA 164, 384 AR 395 (even though provincial prosecutor got some notice) ; Re Thompson 2018 ABCA 111, Edm 1803 0047 AC (one JA), leave den (SCC 31 Jan ’19) ; but on the court’s expanding the questions, cf. R. v. Batchewana I. B. (Corbiere v. R. ) [1999] 2 SCR 3, 239 NR 1, reh den (SCC 3 Nov ’00)."
+        },
+        {
+          "page": "2-29",
+          "number": 7,
+          "text": "Grenon v. A. -G. Can. (M) 2007 ABQB 403, 421 AR 107. The general proposition is arguable, but its factual application in this case seems odd."
+        },
+        {
+          "page": "2-29",
+          "number": 8,
+          "text": "Stoney Nakoda N. v. A. -G. Can.2012 ABCA 316, 2012 CarswellAlta 1816 (Nov 2)."
+        },
+        {
+          "page": "2-29",
+          "number": 9,
+          "text": "Suncor Enr. v. Unifor Local 707A 2014 ABQB 555, 596 AR 390."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          1000,
+          1430
+        ],
+        "book_pages": [
+          "2-21",
+          "2-22",
+          "2-23",
+          "2-24",
+          "2-25",
+          "2-26",
+          "2-27",
+          "2-28",
+          "2-29"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "short-form cites checked: all 26 'supra/infra' references resolve to a full cite inside Book A. Direction wrong in these (Book A drafting): p.2-22 fn 6 Kellogg and fn 8 Pedersen 'supra' (full cites only at p.2-29 fn 5: Dir. of Human Rts. & Citizenship Comm. v. Kellog Brown & Root (Can.) 2007 ABCA 175; Pederson v. R. 2008 ABCA 192, 432 AR 219); p.2-23 fn 9 Reference re Greenhouse Gas 'supra, Part C' (full cite later, p.2-24 fn 7: 2019 ABCA 361); p.2-25 fn 6 A.-G. Alta. v. U.F.C.W. Local 401 'infra' (full cite earlier, p.2-24 fn 5: 2011 ABCA 93); p.2-28 fn 3 S. M. v. Director 'supra' (full cite in the next footnote, fn 4: 2020 ABQB 558). Spelling: Book A has 'Pedersen' (p.2-22) and 'Pederson' (p.2-29) for 2008 ABCA 192; Book B spells it 'Pedersen v Alberta'. 7th pass (full Book A): Part 14 also prints 'Pederson v. R. 2008 ABCA 192, 432 AR 219', so both of Book A's full cites read 'Pederson'; Part 14 prints 2007 ABCA 175 both as 'Kellog Brown & Root' and 'Kellogg Brown & Root'. Source page number '2-26' is printed twice (lines 1234, 1236); footnote numbering is unaffected. CORRECTED IN 4TH PASS: p.2-23 fn 9 'Univ. of Alta. v. Info. & Privacy Comm'r., infra' is right - the case is cited in full again later, p.2-27 fn 10 (2011 ABQB 389; page corrected in 5th pass); the 3rd-pass flag had listed it as wrong. New in 4th pass: p.2-27 fn 13 'R. v. Hirsekoro 2011 ABQB 156' - p.2-22 fn 5 spells it 'Hirsekorn' (same citation). Not corrected."
+    },
+    "BOOK_B": {
+      "title": "Intervenor status",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.10:1",
+          "text": "Rule 2.10 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.10. 1. Intervenors In UAlberta Pro-Life v. Governors of the University of Alberta, 2018 ABCA 350, 2018 CarswellAlta 2440, Justice Schutz gave this summary of the law governing the granting of intervenor status: [8] Rules 14.37(2)(e) and 14.58 of the Alberta Rules of Court, Alta Reg 124/2010 authorize a single judge to consider an application to intervene and to impose conditions. As an exercise of discretion, intervenor status should be granted sparingly: Telus Communications Inc v Telecommunications Workers Union, 2006 ABCA 297 (CanLII) at para 4, 401 AR 57 [Telus]; Pedersen v Alberta, 2008 ABCA 192 (CanLII) at para 4, 432 AR 219 [Pedersen]. [9] Generally, the Court must first consider the subject matter of the proceeding and then determine the proposed intervenor's interest in that subject matter: Papaschase Indian Band (Descendants of) v Canada (Attorney General), 2005 ABCA 320 (CanLII) at para 5, 380 AR 301 [Papaschase]. A proposed intervenor's interest in the subject matter is determined by assessing the following considerations: a. whether the proposed intervenor would be directly and “specially” affected by the outcome of the appeal or, b. whether the proposed intervenor has special expertise or a unique perspective relating to the subject matter of the appeal that will assist the Court in its deliberations. Papaschase at para 2; Telus at para 4; Edmonton (City) v Edmonton (Subdivision and Development Appeal Board), 2014 ABCA 340 (CanLII) at para 8, 584 AR 255 [Edmonton (City)]. [10] The following questions are also relevant to the consideration of whether an intervenor application ought to be granted: 1. Is the presence of the intervenor necessary for the court to properly decide the matter? 2. Might the intervenor's interest in the proceedings not be fully protected by the parties? 3. Will the intervention unduly delay the proceedings? 4. Will there possibly be prejudice to the parties if intervention is granted? 5. Will intervention widen the dispute between the parties? 6. Will the intervention transform the court into a political arena? Pedersen at para 3; Edmonton (City) at paras 8–14; Stewart Estate (Re), 2014 ABCA 222 (CanLII) at para 5, 577 AR 57; Styles v Canadian Association of Counsel for Employers, 2016 ABCA 218 (CanLII) at paras 13–15. [11] Further, if intervenor status is granted, an intervenor may not raise or argue issues not raised by the parties to the appeal unless otherwise ordered: Rule 14.58(3). Finally, a proposed intervenor should define the question on which they wish to intervene with particularity: R v Neve, 1996 ABCA 242 (CanLII) at para 16, 184 AR 359. In R. v. Hirsekorn, 2011 ABQB 156, 2011 CarswellAlta 393, [2011] 2 C.N.L.R. 269, Chief Justice Wittmann discussed applications for intervenor status. At paragraphs 12–15, his Lordship stated: 12 All parties cite Rule 2.10 of the Alberta Rules of Court which states as follows:\n2.10 On application a Court may grant status to a person to intervene in an action subject to any terms and conditions and with the rights and privileges specified by the Court.\n13 In Papaschase Indian Band v. Canada (Attorney General), 2005 ABCA 320, Chief Justice Fraser, speaking for the Court, said at para. 2: It may be fairly stated that, as a general principle, an intervention may be allowed where the proposed intervenor is specially affected by the decision facing the Court or the proposed intervenor has some special expertise or insight to bring to bear on the issues facing the court. She went on at para. 3 to cite Batchewana Indian Band v. Canada (Minister of Indian and Northern Affairs) (1996), 199 N.R. (F.C.A.) 1 where it was stated “… an Intervenor in an appellate court must take the case as she finds it and cannot, to the prejudice of the parties, argue new issues which require the introduction of fresh evidence.” 14 para. 5 of Papaschase is also instructive referring to a two-step approach to the determination of an Intervenor application where it is stated that the Court typically considers first the subject matter of the proceeding and second determines the proposed Intervenor's interest in the subject matter. 15 Another principle articulated at para. 6 of Papaschase is that where cases involve constitutional issues or which have a “constitutional dimension”, courts are generally more lenient in granting Intervenor status. In Peavine Metis Settlement v. Alberta (Minister of Energy), 2011 ABQB 472, 2011 CarswellAlta 1258, 23 C.P.C. (7th) 174, at paragraphs 9-10, Justice Browne referred with approval to R. v. Hirsekorn. In University of Alberta v. Alberta (Information & Privacy Commissioner), 2011 ABQB 389, 2011 CarswellAlta 1043, 55 Alta. L.R. (5th) 131; additional reasons at 2011 CarswellAlta 1320, 2011 ABQB 486, 58 Alta. L.R. (5th) 415, Justice Lee, at paragraph 14, referred with approval to Hirsekorn, and went on to say, at paragraph 16: 16 Lefsrud J in Smyth v. Edmonton (City) Police Service, 2005 ABQB 652 discussed the two part test to be applied in an intervenor application, and noted (at paras. 15-16): To determine whether a party should be permitted to intervene, the Court must apply a two step process. (Ahyasou v. Lund, [1998] A.J. No. 1154 (Q.B.) referred to with approval by the Court of Appeal in the Alberta (Minister of Justice) v. Métis Settlements Appeal Tribunal[2005] A.J. No. 362, 2005 ABCA 143). The first step is to characterize the subject matter of the proceedings, and the second step is to determine what interest, if any, the proposed intervenor has in it. The Alberta Court of Appeal in the Metis Settlements endorsed the following three grounds for determining whether the proposed intervenor has sufficient interest in the subject matter. Those grounds are whether the Applicant: 1. will be specially affected by the decision facing the Court; 2. has some special expertise or insight to bring to bear on the issues facing the Court, or 3. has interests that may not be fully protected by the parties. In Alberta Sports & Recreation Assn. for the Blind v. Edmonton (City) (1993), 14 Alta. L.R. (3d) 301 (Q.B.), at 302-304, Ritter J. said: It is conceded by all parties that the Court has jurisdiction to grant intervenor status as this status was historically exercised by the English Chancery Court. In addition ss. 4 and 5 of the Judicature Act, R.S.A. 1980, c. J-1, confirm inherent jurisdiction to allow a non-party to intervene in matters before the Court… It is clear that intervenor status has traditionally been granted where a non-party applicant has an interest in the actual dispute between the parties … It is also clear that where there is a challenge to legislation pursuant to the Charter of Rights and Freedoms, the courts are prepared to give a less stringent interpretation of the normal requirements for intervenor status. In C.L.C. v. Bhindi (1985), 17 D.L.R. (4th) 193 (B.C. C.A.), Anderson J.A. discusses the role of intervenors and notes that [p. 203]: (2) The evidence adduced in respect of s. 1 of the Charter should be introduced at the trial level. In fact, as a matter of practice, all documentary evidence should be made available to the opposite ‘parties’ or ‘intervenors’ prior to trial. If any of the ‘parties’ or ‘intervenors’ are desirous of calling expert witnesses, summaries of the evidence sought to be introduced by expert witnesses should also be made available to the opposite ‘parties’ or ‘intervenors’ prior to the relevancy or admissibility of documentary or viva voce evidence would be dealt with by the trial judge. The courts have consistently stated that the application of s. 1 of the Charter requires evidence. If that evidence is either within the abilities of a proposed intervenor or its adduction can be assisted by a proposed intervenor, then it is not unreasonable to presume that the difficulties with application of s. 1 of the Charter can more readily be avoided. Further Anderson J.A. at p. 204 of C.L.C. v. Bhindi, supra, states: I would add on this point, that it is important in dealing with Charter issues raised for the first time, that the courts have the assistance of argument from all segments of the community. The courts should not resist but should welcome such assistance. Further at p. 205 of C.L.C. v. Bhindi, supra, Anderson J.A. states: (6) While no doubt the intervention of the appellant will add to the length and complexity of the trial, the additional expense is on balance, justified. Issues relating to s. 1 of the Charter cannot and should not be addressed in a vacuum. The defendant suggests that the applicants must show some unique position which is different from that of the defendant. This matter was also raised in C.L.C. v. Bhindi, supra, and at pp. 203-204, Anderson J.A. states: (4) No authority has been offered in support of the argument that before intervenor status will be granted, the applicant must show that its interests differ from the interests of the Union. On the contrary, in the Supreme Court of Canada, ‘intervenor’ status will be granted in constitutional cases where the proposed ‘intervenor’ can show that its interests will be affected by the outcome of the litigation; see, for example, Law Society of Upper Canada v. Skapinker (1984), 9 D.L.R. (4th) 161 … where the Federation of Law Societies of Canada was given leave to intervene. … The plaintiff also argued that the proposed intervenors have not consulted with the defendants to determine whether the defendants would likely be raising the same defences in any event and whether the defendants would be prepared to advance the proposed intervenor's position to the Court. Again, this matter was dealt with by Anderson J.A. in C.L.C. v. Bhindi, supra, and at p. 206 he states: (7) While it is possible that the Union could employ counsel employed by the appellant and conduct its defence in accordance with the wishes of the appellant, it is not for the courts to interfere in such matters. In Suncor Energy Inc. v. Unifor, Local 707 A, 2014 ABQB 555, 2014 CarswellAlta 1655, Chief Justice Wittmann summarized the matters to be considered on an application for intervenor status. At paragraphs 7-8, his Lordship said: [7] Although the Alberta Rules of Court (“ARC”) in ARC 2.10 provide that a Court may grant status to a person to intervene subject to any terms and conditions and with the rights and privileges specified by the Court, no test is set forth to guide the Court in intervention applications. The common law governs. [8] None of the parties disputes the test to guide judicial discretion. As set forth in the Applicants' brief, the considerations are as follows: 1. Will the proposed interveners be specially or directly affected by the decision of the Court: Papaschase Indian Band v Canada (Attorney General), 2005 ABCA 320 (CanLII), [2005] AJ No 1273 at paragraph 2; Knox v. Conservative Party of Canada, 2007 ABCA 141 (CanLII) at paragraph 5; Alberta (Minister of Justice) v Metis Settlements Appeals Tribunal, 2005 ABCA 143 (CanLII) at paragraph 4; R v Finta, 1993 CanLII 132 (SCC), [1993] 1 SCR 1138 at 1143; Carbon Development Partnership v Alberta (Energy and Utilities Board), 2007 ABCA 231 (CanLII), [2007] AJ No 727 at paragraph 10. 2. Will the proposed interveners bring special expertise or insight to bear on the issues facing the Court: Papaschase at paragraph 2; Goudreau v Falher Consolidated School District No 69, 1993 ABCA 72 at paragraph 17. This question is akin to whether an intervener would provide “fresh information or fresh perspective”. Reference Re Workers' Compensation Act, 1983 (Nfld), 1989 CanLII 23 (SCC), [1989] 2 SCR 335 at 340; Stewart Estate (Re), 2014 ABCA 222 (CanLII) at paragraph 7. 3. Are the proposed interveners' interests at risk of not being fully protected or fully argued by one of the parties: United Taxi Drivers' Fellowship of Southern Alberta v Calgary (City), 202 ABCA 243 at paragraph 2; Gift Lake Metis Settlement v. Canadian Natural Resources Limited, 2008 ABCA 391 (CanLII) at paragraph 6; Metis Settlements Appeal Tribunal at paragraph 4. 4. Will the interveners presence “provide the Court with fresh information or a fresh perspective on a constitutional or public issue”Reference Re Workers' Compensation Act at 340; Papaschase at paragraph 9. Another factor is whether granting a right to intervene would unduly prejudice a party. In Athabasca Tribal Council v. Alberta (Minister of Environmental Protection) (1998), 67 Alta. L.R. (3d) 232 (Q.B.), Mr. Justice Medhurst gave the following summary of the law relating to intervenors (at p. 236): Whether or not a party can intervene in an action is a matter that is to be decided at the discretion of the judge hearing the application. While many Canadian jurisdictions have rules which specify conditions in which intervenor status will be granted, Alberta has no such rules and reference must be had to the common law. The test developed in the common law is essentially that a party should only be granted intervenor status if the party will be directly affected by the ultimate decision of the case and/or where the presence of the party is necessary for the Court to properly decide the matter. . . . . . In making a determination on this issue, a two step approach is appropriate: “The first step is to characterize the subject-matter or the nature of the proceeding. The second step is to determine what interest the proposed intervenor has in it.” (P. Muldoon Law of Intervention Status and Practice (Ontario: Canada Law Books Inc. 1989) at 40.) In R. v. Trang, 2002 ABQB 185, 2002 CarswellAlta 247, 4 Alta. L.R. (4th) 161, Marceau J., referred with approval to Athabasca Tribal Council v. Alberta (Minister of Environmental Protection) (1998), 67 Alta. L.R. (3d) 232 (Q.B.), and then said (at pp. 167-168): A line of cases at the Federal Court has stated that a proposed intervenor must have more than a jurisprudential interest in order to intervene in a particular case. … In R. v. Boulton, [1976] 1 F.C. 252 (Fed. C.A.), Jackett C.J. explained this concept at 253: In our view, no matter how widely one interprets the Court's power to permit persons to be heard, it does not extend to permit a person to be heard merely because he has an interest in another controversy where the same question of law will or may arise as that which will or may arise in the controversy that is before the Court. There are cases that indicate that an organization may have a sufficiently direct interest to be granted intervenor status if it represents those who themselves have a substantial interest in the matter. … However, there ought to be a distinction made between the case of a parent organization whose members are affected by a decision and that of an organization of lawyers whose members are not affected by a decision but whose members represent those who are. … … Therefore, the ultimate test is that stated in [Athabasca Tribal Council, supra]: the proposed intervenor will either have a direct interest (not a merely jurisprudential one) or its presence will be necessary for a decision (because its expertise will be of assistance). In P. (N.) v. LDS Adoption Services, 2006 ABQB 78, 2006 CarswellAlta 126, 392 A.R. 282, 57 Alta. L.R. (4th) 59, Langston J. said, at pp. 77-78: In Alberta, in contrast to some other jurisdictions, there are no specific rules with respect to intervenor status and resort must be had to the common law. Oddly enough, the test that has been applied appears to be substantially similar to the test for determining party status. In W.A. Stevenson & J.E. Côté, Civil Procedure Encyclopedia, vol. 1 (Edmonton: Juriliber, 2003) it is said at p. 10-11 that “The test [for intervention in private disputes] is whether the proposed intervener would be directly affected by the decision, and whether its presence is necessary for the court properly to decide the matter.” This was also the view taken by Gallant J. of this Court in Veterinary Medical Assn. (Alberta) v. Pequin, 2002 ABQB 115 (Alta. Q.B.). Two interesting cases out of Manitoba indicate that the second criterion requires the proposed intervenor to demonstrate that it will bring before the court something that will not be brought forward by the parties. In Klachefsky v. Brown (1987), [1988] 1 W.W.R. 755 (Man. C.A.), the Women's Legal Education and Action Fund sought intervenor status to raise the issue of sexual equality in a custody matter. The trial judge refused and the Manitoba Court of Appeal dismissed the appeal, making the following comments at p. 758: Counsel for the wife is entirely capable of raising and ventilating any issue relative to the Charter of Rights and Freedoms should counsel consider that such an argument would advance the cause of her client. … I can well understand an intervention where counsel for one of the parties is unwilling or unable to raise an issue of substance which could affect the development of the law in future cases. Those are not the circumstances here. Counsel for the wife labours under no restraints in raising those arguments which might find favour with the court, including any argument based upon Charter principles. The intervention of a third party into what is essentially a private dispute is not to be lightly entertained. An intervention adds unnecessarily to the cost of proceedings and might well also add to the length of litigation. It constitutes an inconvenience to the parties which ought not to be imposed upon them except under compelling circumstances, which do not exist in this case. In Mr. Pawn Ltd. v. Winnipeg (City) (1998), [1999] 2 W.W.R. 521 (Man. Q.B.), a community interest organization sought to intervene in an application challenging the city's authority to pass certain by-laws relating to pawn shops. Steel J. noted at p. 524 that it was not clear that the community group would make arguments different from those made by the city, but that the group took the position that its concerns were unique: Counsel did not identify a specific argument or issue that would be advanced by the intervenor over and above the proposed argument by the City of Winnipeg. The intervenor indicated that at the present time it was not familiar with all the arguments that might be presented on behalf of the City, nor had it decided upon the extent of its own arguments. Rather, the intervenor contended that it would be placing emphasis on different points of law or different cases than might be put forward by the City of Winnipeg. This argument may be summarized by referring to Reverend Lehotsky's affidavit where he states: We believe that the neighbourhood affected by this Application has unique and special concerns that may not necessarily be expressed by the City of Winnipeg, as the latter can be expected to take a position and frame its arguments on behalf of the whole city and all its constituents. For example, we believe that the pawn-shop licensing by-law can and should be interpreted in a manner that affords greater scope for public participation in decision-making, enables the City of Winnipeg to consider the density of pawnshops in a particular area in determining whether granting such license (sic) is injurious to the public interest, and takes greater account of Plan Winnipeg, the City's main planning document. Though he acknowledged that the extent to which a proposed intervenor's interests must diverge from those of the parties will depend upon the circumstances of the case, Steel J. found at p. 529 that there must be some difference in the arguments sought to be made: Depending on the circumstances, it may not be necessary for the proposed intervenor to put forward a substantially different issue. In Charter cases, for example, different nuances in argument may be important to be heard, not because they affect the outcome of the case but because they may affect the reasons for decisions and therefore the precedential authority of the case. Where policy issues are being decided within a Charter of Rights framework, presentations that provide different perspectives and assist in identifying consequences and ramifications can be especially helpful to the courts. . . . . . Yet, no purpose is served by having intervenors duplicate the arguments of the parties. At a minimum, the applicants must be able to show how their submissions will be useful and different from those of the other parties in some way. 2. Public Interest Standing In Scenic Acres Community Assn. v. Calgary (City), 2015 ABQB 586, a community association sought a declaration that the Calgary Board of Education had violated s. 672 of the Municipal Government Act (Alberta) in transferring a particular parcel of land to different school region. The issue determined by Justice D. B. Nixon was whether the community association had standing to bring the action. His Lordship said: 44 The threshold question in this case is whether the Community Association has standing to advance this matter in this Court. The Defendants assert that the Community Association lacks the necessary standing to maintain this application because it is not specially and particularly affected by the decision of City Council to approve the transfer of the Lands jointly to the City and FrancoSud. The Defendants cite Finlay v Canada, [1986] 2 SCR 607 in support of this proposition. 45 It is clear that the Community Association has no specific standing. Accordingly, the next question is whether the Community Association satisfies the “public interest standing” threshold. 46 The law in Canada in respect of “public interest standing” has changed over the decades. In recent years, the Courts have taken a more liberal approach to the concept. While the Finlay decision relied upon by the Defendants is instructive, Canada (AG) v Downtown Eastside Sex Workers, 2012 SCC 45, [2012] 2 S.C.R. 524 is more relevant because it updates the law in this area. 47 In Downtown Eastside, Justice Cromwell commented that Canadian courts have relaxed limitations on public interest standing. In particular, he commented that the Courts have taken a flexible, discretionary approach to public interest standing and are to be guided by the purposes which underlie the traditional limitations: Downtown Eastside, at para 1. 48 In analyzing the appropriate boundaries of “public interest standing”, Justice Cromwell commented at paras 35-36: The decision to grant or refuse standing involves the careful exercise of judicial discretion through the weighing of the three factors (serious justiciable issue, the nature of the plaintiff's interest, and other reasonable and effective means [of bringing the issue before the court]) … … the factors should be seen as interrelated considerations to be weighed cumulatively, not individually, and in light of their purposes. 49 The most significant shift that Downtown Eastside brought to the “public interest standing” framework was in respect of the third factor. In his consideration of this factor, Justice Cromwell indicated that the question should be whether the proposed suit is a reasonable and effective means to bring the challenge to court. He further indicated that this “… approach to the third factor better reflects the flexible, discretionary and purposive approach to public interest standing that underpins all of the Court's decisions in this area”: Downtown Eastside, at para 44. 50 The effect of that judicial comment was to make it clear that the strict requirement outlined by the majority in Minister of Justice v Borowski, [1981] 2 SCR 575 no longer applied. In Borowski, the majority held at page 598 that the person seeking standing had “… to show … that there [was]…no other reasonable effective manner in which the issue may be brought before the Court” (emphasis added). 1. —Three Factors 51 Given this updated judicial framework, the facts must be considered in the context of these three enumerated factors to determine whether the Community Association should be granted “public interest standing”. a. —The First Factor—Serious Justiciable Issue 52 In Downtown Eastside at para 42, the Supreme Court confirmed its holding in Finlay that, to constitute a serious issue, a claim must be “far from frivolous”. However, the courts need not examine the merits of the case in “other than a preliminary manner”. … b. —The Second Factor—The Nature of the Plaintiff's Interest 57 The second factor is “whether the party bringing the action has a real stake or a genuine interest in its outcome” (emphasis added): Downtown Eastside, at para 2. The purpose underlying this factor “… reflects the concern for conserving scarce judicial resources …”: Downtown Eastside, at para 43, referencing Finlay at page 633. … c. —The Third Factor—Reasonable and Effective Means 64 Notwithstanding the above determination concerning the second factor, the Supreme Court of Canada's direction in Downtown Eastside is that all factors be considered cumulatively. Accordingly, a review of the third factor is required. 65 The Community Association seeks relief under the Judicature Act, R.S.A. 2000, c.J-2 (the “Judicature Act”) and the Alberta Rules of Court, Alta. Reg. 124/2010 (the “Rules of Court”). It has chosen this procedure rather than seeking a judicial review or filing an objection under the MGA, which has a specific appeal provision. 66 This Court is not satisfied that the procedure chosen by the Community Association is the only “reasonable and effective means of bringing the issue[s] before the Court”. Other appeal mechanisms were available, but were not pursued. That being the case, the third factor has not been satisfied. 3. Party status? In Auer v. Auer, 2018 ABQB 510, 2018 CarswellAlta 1309, 73 Alta. L.R. (6th) 153, 11 R.F.L. (8th) 338, [2018] 9 W.W.R. 744, the Attorney General of Canada applied for intervenor status in a matter in which one of the parties sought a declaration that the Federal Child Support Guidelines were ultra vires the Divorce Act (Canada). Justice Gates granted that application, and then had to decide the extent to which the Attorney General would be allowed to participate in the action. His Lordship granted what he termed “party-like status”. Gates, J. said: 126 Rule 2.10 is silent on the scope of intervention that is appropriate when a court grants intervenor status pursuant to this rule. Rule 2.10 does not specify whether this Court has the power to grant the Attorney General the status of a full party. 127 The Attorney General relies on the Ontario decision in North American Financial Group Inc v Ontario (Securities Commission), 2017 ONSC 2965, as support for the argument that she is entitled to party status. However, in Stratum Projects Alberta Inc v Aman Building Corp, 2017 ABQB 351 at paras 21–28, Master Schlosser notes that the Ontario Rules of Civil Procedure, RRO 1990, Reg 194, explicitly allow for intervention as an added party, whereas the Alberta Rules of Court do not contain similarly explicit language. As such, Master Schlosser questions whether Rule 2.10 contemplates granting party status to an intervenor. 128 Generally, Alberta case law cautions that the scope of any intervention should be limited to only what is required for a court to make a proper determination on the issues before it: R v Hirsekorn, 2011 ABQB 156 at para 21. An intervenor should generally not be allowed to introduce new issues or enlarge the issues already before the court. In the current circumstances, however, where this Court is faced with an otherwise unopposed challenge to the vires of the Guidelines, the Attorney General is, in my view, entitled to participate fully in this process. 129 Accordingly, the Attorney General of Canada is granted intervenor status with rights and duties comparable to that of a party, which includes: (a) The right to cross-examine on the previously specified affidavits for no more than one day; (b) The right to make oral and/or written submissions on any aspect of the vires application, including evidentiary and jurisdictional issues; (c) The right to put public documents before the Court to establish legislative and social facts concerning the development and implementation of the Guidelines; and (d) The right to appeal an adverse decision. 130 The Attorney General's right to appeal stems from the Alberta Rules of Court, which allows appeals from a party to an action heard before the Court of Queen's Bench: Peavine Metis Settlement v Whitehead, 2015 ABCA 366 at paras 50–52. 131 It is also applicable regardless of whether Rule 2.10 contemplates an intervenor being given party status. Even if Rule 2.10 does not contemplate party status, I would still grant the Attorney General party-like status, including the right to appeal, due to the extraordinary nature of Dr. Auer's otherwise unopposed vires challenge to the Guidelines. 4. Costs for Intervenors See the annotation “Costs for Intervenors” under Rule 10.31. Generally see: Imperial Oil Ltd. v. Alberta (Minister of Environment), 2005 ABCA 375, 2005 CarswellAlta 1595 at paragraph 25."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_023",
+        "part2_rule_2_10_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_024",
+        "part2_alberta_rules_of_court_rule_2_part_1_025",
+        "part2_rule_2_10_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_001",
+        "part2_rule_2_10_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_002"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json",
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "cd019f4f6580c32a3d8c8cf82afc3ec87109715d4276ed5968cf44e7043fbb16",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Intervenor status",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "cd019f4f6580c32a3d8c8cf82afc3ec87109715d4276ed5968cf44e7043fbb16",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 2.10 provides no test for granting intervenor status, so the common law governs. R. v. McKee Suncor Energy Inc. , [2023] A.J. No. 1047, 2023 ABKB 579 at para. 10 (Alta. K.B.); v. Unifor, Local 707 A Stratum , [2014] A.J. No. 1025, 2014 ABQB 555 at para. 7 (Alta. Q.B.). See also, Projects Alberta Inc. v. Aman Building Corp., [2017] A.J. No. 528, 2017 ABQB 351 at para. 23 (Alta. Q.B.). It seems that this rule and cases dealing with intervenor status apply both in King’s Bench and on the Court of Appeal, Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA although intervention on appeals is more common and more likely to be allowed.\nIn determining whether to grant intervenor status, the court considers the subject matter of the appeal and determines (1) whether the applicant is significantly and directly affected by the outcome of the appeal; and (2) whether the applicant has expertise, fresh information or a fresh perspective on the subject matter of the appeal that is useful for the appeal’s resolution. Jonsson v. Lymer Papaschase , [2019] A.J. No. 360, 2019 ABCA 113 at para. 18 (Alta. C.A.); Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273, 2005 ABCA 320 at para. 2 (Alta. C.A.); , [2013] A.J. No. 1444, 2013 ABQB 726 at para. 27 (Alta. Q.B.); G. (G.) v. G. (J.T.) Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659, 2019 ABCA 385 at paras. 11-13 (Alta. C.A.). While past case law suggested that both criteria must be met, recent decisions have clarified that intervenor status does not automatically follow from showing either an “interest” or a “fresh perspective”. The test is not strictly conjunctive or disjunctive, but rather involves a consideration of both factors in all cases. Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para. 9 (Alta. C.A.); , [2023] A.J. No. 1221, 2023 Canadian Life and Health Insurance Assn. v. Thomson ABCA 340 at para. 8 (Alta. C.A.); , [2023] A.J. No. 814, 2023 ABCA 226 M. (V.L.) v. Dominey Estate at para. 3 (Alta. C.A.). Under rule 14.58(3) an intervenor is restricted in what they may argue, though a court may permit an intervenor to argue a point inextricably linked to an issue raised by the parties. Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908, 2014 ABCA The following are relevant factors to consider when determining whether to grant intervenor status under the foregoing two-stage test:\n1. Will the intervenor be directly affected by the appeal;\n2. Is the presence of the intervenor necessary for the court to properly decide the matter;\n3. Might the intervenor’s interest in the proceedings not be fully protected by the parties;\n4. Will the intervenor’s submission be useful and different or bring particular expertise to the subject matter of the appeal;\n5. Will the intervention unduly delay the proceedings;\n6. Will there possibly be prejudice to the parties if intervention is granted;\n7. Will intervention widen the between the parties; and lis 8. Will the intervention transform the court into a political arena?  Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790, 2016 ABCA 238 at para.\nR. v. Neve, [1996] A.J. No. 570, 1996 ABCA 242 at para. 16 (Alta. C.A.).",
+          "citations": [
+            {
+              "neutral_citation": "2023 ABKB 579",
+              "style_of_cause": "R. v. McKee, [2023] A.J. No. 1047"
+            },
+            {
+              "neutral_citation": "2014 ABQB 555",
+              "style_of_cause": "Suncor Energy Inc. v. Unifor, Local 707A, [2014] A.J. No. 1025"
+            },
+            {
+              "neutral_citation": "2017 ABQB 351",
+              "style_of_cause": "Stratum Projects Alberta Inc. v. Aman Building Corp., [2017] A.J. No. 528"
+            },
+            {
+              "neutral_citation": "2019 ABCA 113",
+              "style_of_cause": "Jonsson v. Lymer, [2019] A.J. No. 360"
+            },
+            {
+              "neutral_citation": "2005 ABCA 320",
+              "style_of_cause": "Papaschase Indian Band v. Canada (Attorney General), [2005] A.J. No. 1273"
+            },
+            {
+              "neutral_citation": "2013 ABQB 726",
+              "style_of_cause": "G. (G.) v. G. (J.T.), [2013] A.J. No. 1444"
+            },
+            {
+              "neutral_citation": "2019 ABCA 385",
+              "style_of_cause": "Wilcox v. Alberta Prison Justice Society, [2019] A.J. No. 1659"
+            },
+            {
+              "neutral_citation": "2016 ABCA 238",
+              "style_of_cause": "Grant Thornton Ltd. v. Alberta Energy Regulator, [2016] A.J. No. 790"
+            },
+            {
+              "neutral_citation": "2023 ABCA 226",
+              "style_of_cause": "M. (V.L.) v. Dominey Estate, [2023] A.J. No. 814"
+            },
+            {
+              "neutral_citation": "1996 ABCA 242",
+              "style_of_cause": "R. v. Neve, [1996] A.J. No. 570"
+            },
+            {
+              "neutral_citation": "2023 ABCA 340",
+              "style_of_cause": "Canadian Life and Health Insurance Assn. v. Thomson, [2023] A.J. No. 1221",
+              "note": "cited at para. 8 in the commentary text; missing from Book C's citation list"
+            },
+            {
+              "neutral_citation": "2014 ABCA [number lost]",
+              "style_of_cause": "Gauchier v. Alberta (Metis Settlements Land Registry, Registrar), [2014] A.J. No. 908",
+              "note": "cited twice in the text; neutral citation number cut off in source - verify before citing"
+            }
+          ],
+          "review_flag": "case names corrected from the commentary text (the source's name/citation pairing was scrambled); factor 7 garbled in source: read 'Will intervention widen the lis between the parties'."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.10",
+      "title_official": "Intervenor status"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "94232fb97a6b0e75b766f2b1d9db5acaf3a4f04d0d5bb1b7b47f7c890833a138",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            1000,
+            1430
+          ],
+          "book_pages": [
+            "2-21",
+            "2-22",
+            "2-23",
+            "2-24",
+            "2-25",
+            "2-26",
+            "2-27",
+            "2-28",
+            "2-29"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "cd019f4f6580c32a3d8c8cf82afc3ec87109715d4276ed5968cf44e7043fbb16",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json",
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "cd019f4f6580c32a3d8c8cf82afc3ec87109715d4276ed5968cf44e7043fbb16",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "55c0714d1467225f7ba5e5287a0739a757b7e7ecc7ef230d349fcc2d001700c2",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            39
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "a72ad7e52ec4e1a27d0760d447da88ed250997362c4d36e6b6510a933a30acaa"
+  },
+  "information_notes": [
+    {
+      "text": "The rules about making applications to the Court are in Part 6 [Resolving Issues and\nPreserving Rights] - see rule 6.3 [Applications generally].",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "same note as BOOK_A, garbled, with two citations mixed in (reworded in 5th pass - earlier called 'unrelated'): Champagne v. Sidorsky 2012 ABQB 522 para 67 stands where the number '6' of 'Part 6' should be (an extraction pattern seen throughout Book C) and appears nowhere else in Book C; its link to 2.10 cannot be shown. Grant Thornton 2016 ABCA 238 (pinpoint lost) is an intervenor case that Book C's 2.10 commentary itself cites (para 9), so it is kept there. Note not retained."
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A; 7th pass): R.3.17 information note and related provisions (p.3-57) - the same note BOOK_C prints ('The Court may grant intervenor status ... under rule 2.10'); R.3.15 and later Part 3 notes (p.3-51, p.3-69): 'see R.2.10n.E' on costs (matches this rule's Part E); R.3.69 notes (p.3-220, 3-221): 'Rr.2.10 n.C' twice (matches Part C, Lack of Standing) and 'See Rr.2.10, and 14.58'; R.6.3 fn 2 (p.6-28) 'See R.2.10 on interveners'; R.10.31 fn 4 (p.10-98) on costs 'and R.2.10'; listed under R.14.58 (p.14-173). This rule's own pointers verified: R.3.24 n. D is 'Costs'; R.3.69 n. B 'Standing'; R.3.74 n. F 'Limitation Periods'; R.14.58n exists (about 430 lines on intervention).",
+    "Official, by subject (6th pass): in Part 14 'party' includes an intervenor where the context requires (14.1(1)(k) and the Appendix); rule 14.25(3) - an intervenor's factum takes the respondent's form; rule 14.26(1)(d) - 30 pages for an intervenor; rule 14.37(2)(e) - a single appeal judge may grant permission to intervene.",
+    "Rule 3.17 (standing of Attorney General on judicial review): BOOK_C's 3.17 information note (101-120 json line 693) says 'The Court may grant intervenor status to other persons under rule 2.10'; BOOK_A lists 3.17 as a related provision.",
+    "Rule 14.58 (intervenor on appeal): BOOK_A related provision and 'On interventions in appeals, see R.14.58n.'; BOOK_B and BOOK_C cite 14.58(3) (intervenor may not raise new issues).",
+    "Rule 3.68 (striking pleadings for lack of standing): BOOK_A Part C; rule 10.31 (costs for intervenors): BOOK_B section 4 ('See the annotation Costs for Intervenors under Rule 10.31').",
+    "Cross-book (4th pass): BOOK_C's re-paired names are independently confirmed - Suncor v. Unifor Local 707A 2014 ABQB 555 (BOOK_A p.2-29 fn 9; BOOK_B section 1 'Local 707 A'); Stratum 2017 ABQB 351 (BOOK_B section 3); R. v. Neve 1996 ABCA 242 (BOOK_B, 184 AR 359 = BOOK_A p.2-27 fn 2 '[1996] 8 WWR 294, 184 AR 359'); Papaschase Indian Band v. Canada (AG) 2005 ABCA 320 (BOOK_B, 380 AR 301 = BOOK_A p.2-22 fn 7 'Lameman v. A.-G. Can. (#1) 2005 ABCA 320, 380 AR 301' - same case, different style); M. (V.L.) v. Dominey Estate 2023 ABCA 226 (BOOK_A p.2-23 fn 1 [page corrected in 5th pass], an intervention decision, distinct from the 2023 ABCA 261 merits decision cited in BOOK_A 2.9). BOOK_A's 'Thomson' (p.2-27 fn 7, Thomson Nwsp. 1997) is a different case from BOOK_C's Canadian Life and Health Insurance Assn. v. Thomson 2023 ABCA 340. BOOK_B read in full (sections 1-4, ends at source); its '202 ABCA 243' (United Taxi) is printed so in the source (probably 2002)."
+  ],
+  "dedupe_log": [
+    "2.10 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.10 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.10 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.10 BOOK_C citation context dropped (2023 ABKB 579): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2014 ABQB 555): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2017 ABQB 351): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2019 ABCA 113): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2005 ABCA 320): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2013 ABQB 726): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2019 ABCA 385): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2016 ABCA 238): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (2023 ABCA 226): verbatim in kept text",
+    "2.10 BOOK_C citation context dropped (1996 ABCA 242): verbatim in kept text",
+    "2.10 BOOK_C commentary sentence split dropped",
+    "2.10 BOOK_C information note dropped (manual review)",
+    "2.10 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

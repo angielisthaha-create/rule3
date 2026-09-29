@@ -1,0 +1,2008 @@
+
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.2.0-final",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-04T00:30:00Z",
+      "source_manifests": [
+        "05100.rtf",
+        "05101.rtf",
+        "05102.rtf",
+        "05103.rtf",
+        "05104.rtf",
+        "05105.rtf",
+        "05106.rtf",
+        "05107.rtf",
+        "05108.rtf",
+        "05109.rtf",
+        "page_0004.rtf",
+        "page_0005.rtf",
+        "page_0006.rtf",
+        "page_0007.rtf",
+        "page_0008.rtf",
+        "page_0009.rtf",
+        "page_0010.rtf",
+        "page_0011.rtf",
+        "page_0012.rtf",
+        "page_0013.rtf",
+        "page_0014.rtf",
+        "page_0015.rtf",
+        "page_0016.rtf",
+        "page_0017.rtf",
+        "page_0018.rtf",
+        "page_0019.rtf",
+        "page_0020.rtf",
+        "page_0021.rtf",
+        "page_0022.rtf",
+        "page_0023.rtf",
+        "page_0024.rtf"
+      ],
+      "node_count": 31,
+      "relationship_count": 35,
+      "consolidated_references": {
+        "case_law_citations": [
+          "M & D Farm v. Man. Agric. Cr. Corp., [1999] 2 SCR 961",
+          "C.I.B.C. v. Green, 2015 SCC 60",
+          "Kwadrans v. Kwadrans, 2023 ABCA 203",
+          "Jonsson v. Lymer, 2020 ABCA 167",
+          "Piikani Nation v. Kostic, 2025 ABCA 7",
+          "Rana v. Rana, 2024 ABKB 292",
+          "Re Thompson, 2018 ABQB 87",
+          "Odland v. Odland, 2017 ABCA 397",
+          "Apache Canada Ltd. v. Johnson, 2005 ABCA 71",
+          "Regular v. Regular, 2016 ABQB 570",
+          "Siver v Siver, 2010 ABQB 755",
+          "Royal Trust Corp. of Canada v. Fillo (1981), 17 Alta. L.R. (2d) 283 (Q.B.)",
+          "Keaton v. Keaton, 2017 ABQB 429",
+          "Shell Can. Prods. v. Sunterra Beef, 2013 ABQB 193",
+          "Karas v. Mongeon, 2018 ABQB 149",
+          "Fufa v. Univ. of Alta., 2012 ABQB 405",
+          "Goska Nowak P.C. v. Robinson, 2011 ABQB 385",
+          "Wolfe v. Shawcor, 2016 ABQB 261",
+          "Chamchuk v. A.-G. Alta., 2002 ABQB 412"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3, Division 1"
+        ],
+        "manifest_references": [
+          "05101.rtf",
+          "05102.rtf",
+          "05103.rtf",
+          "05104.rtf",
+          "05105.rtf",
+          "05106.rtf",
+          "05107.rtf",
+          "page_0004.rtf",
+          "page_0006.rtf",
+          "page_0007.rtf"
+        ]
+      },
+      "tactical_play_count": 4,
+      "countermeasure_count": 4
+    },
+    "nodes": [
+      {
+        "node_id": "cm-r3-2-6-curative-provision",
+        "node_type": "ControlMechanism",
+        "label": "Curative Power for Improper Commencement",
+        "description": "Rule 3.2(6) grants the Court broad discretionary power to make any procedural order to correct and continue a proceeding that was started in the wrong form, preventing procedural errors from being fatal.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If an action that is started in one form should have been started or should continue in another, the Court may make any procedural order to correct and continue the proceeding and deal with any related matter.",
+              "source_reference": "05101.rtf#r3.2(6)"
+            },
+            {
+              "text": "Commencing a suit the wrong way is usually not fatal, for 3 reasons. First, R. 3.2(6) says so.",
+              "source_reference": "page_0006.rtf#commentary-r3.2(6)-fatal"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.2(6)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is the primary defensive shield against procedural attacks on the form of commencement. It allows a party who made a mistake to seek the court's intervention to save the action, shifting the focus from technical compliance to substantive justice, provided there is no prejudice.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If challenged for using an Originating Application instead of a Statement of Claim (or vice-versa), immediately invoke R. 3.2(6) and argue that the error is curable and causes no prejudice.",
+            "Offensive (Defendant): When a plaintiff seeks to use R. 3.2(6), argue that the error is not merely formal but substantive, and that allowing a correction would cause irreparable prejudice (e.g., by circumventing a limitation period that has since passed).",
+            "Strategic Consideration: Frame the request for a curative order as a matter of efficiency and proportionality, arguing that striking the action would only lead to it being re-filed, wasting time and resources."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Patrus v. W.C.B., 2014 ABCA 117",
+              "proposition": "It did not matter that an application was commenced as an appeal, rather than as judicial review; the proceeding could be converted into the proper form as long as there was no prejudice."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-improper-commencement-form",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Commencing Action in Wrong Form",
+        "description": "An action may be vulnerable to being struck or delayed if it is commenced by Originating Application when a Statement of Claim is required (e.g., due to a substantial factual dispute), or vice versa.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A statement of claim must be used to start an action unless (a) there is no substantial factual dispute...",
+              "source_reference": "05101.rtf#r3.2(2)(a)"
+            },
+            {
+              "text": "See discussions of the differences between relative merits of an Originating Application and a statement of claim. The former is not possible where there is substantial dispute as to facts.",
+              "source_reference": "page_0008.rtf#commentary-r3.2(6)-dispute"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.2(2)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This trap allows a defendant to attack the very foundation of the plaintiff's action on procedural grounds, forcing the plaintiff onto the defensive and potentially causing significant delays and costs, even if the error is ultimately curable.",
+          "litigation_implications": [
+            "Offensive (Defendant): Scrutinize any Originating Application for hidden factual disputes. If found, bring a motion to strike or convert the action, arguing the chosen procedure is improper and prejudicial.",
+            "Defensive (Plaintiff): Before filing an Originating Application, rigorously assess whether any material facts could be contested. If so, default to a Statement of Claim to avoid this trap.",
+            "Cost Weapon: A successful challenge can lead to a costs award against the party who chose the wrong form."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Shell Can. Prods. v. Sunterra Beef, 2013 ABQB 193",
+              "proposition": "An Originating Application is not possible where there is a substantial dispute as to facts."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-2-vexatious-litigant-framework",
+        "node_type": "WarfareFramework",
+        "label": "Vexatious Litigant Containment Framework",
+        "description": "A strategic framework for declaring a litigant vexatious, primarily under the Judicature Act, which imposes court access restrictions to prevent abuse of the judicial process. This is a powerful tool to neutralize a persistent and abusive opponent.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In summary, the following principles underlie vexatious litigant applications: (a) The primary jurisdiction for awarding a vexatious litigant order is under the Judicature Act. Applications should prima facie be initiated pursuant to the statute...",
+              "source_reference": "05102.rtf#jonsson-v-lymer-para85a"
+            },
+            {
+              "text": "Vexatious litigant orders should only be made when other procedural techniques have proven to be inadequate and the offensive conduct is persistent.",
+              "source_reference": "05102.rtf#jonsson-v-lymer-para85f"
+            }
+          ],
+          "source_references": [
+            "Judicature Act, s. 23.1(1)",
+            "Jonsson v. Lymer, 2020 ABCA 167"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This framework provides a mechanism to stop an opponent who uses litigation not to resolve a legitimate dispute, but to harass, delay, or drain resources. It shifts the burden onto the restricted litigant, who must thereafter seek leave from the court before initiating any new proceeding.",
+          "litigation_implications": [
+            "Offensive Tactic: Compile a detailed record of the opponent's persistent, meritless, and abusive litigation conduct. Bring an application under the Judicature Act, giving notice to the Attorney General.",
+            "Defensive Tactic: Argue that the conduct, while perhaps aggressive, is not 'vexatious' and that less restrictive measures like case management or costs awards are more appropriate.",
+            "Strategic Goal: Obtain an order that is proportional to the misconduct, potentially requiring the opponent to obtain legal representation or pay outstanding costs before being granted leave to proceed."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Jonsson v. Lymer, 2020 ABCA 167",
+              "proposition": "Establishes the primary principles for vexatious litigant applications, emphasizing the primacy of the Judicature Act, the need for persistence, and proportionality of restrictions."
+            },
+            {
+              "case_name": "Piikani Nation v. Kostic, 2025 ABCA 7",
+              "proposition": "Clarifies that not every court access restriction is a vexatious litigant order; less restrictive tools like case management orders should be used first."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Test for Vexatious Litigant to Obtain Leave",
+        "description": "A person subject to a vexatious litigant order is presumed to engage in illegitimate litigation and must meet a two-part test to obtain leave: (1) establish reasonable grounds for the litigation, and (2) depose fully and completely to the facts.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A person subject to Court access restrictions must: 1) establish reasonable grounds for the litigation; and 2) depose fully and completely as to the facts and circumstances surrounding the proposed claim or proceeding.",
+              "source_reference": "05102.rtf#rana-v-rana-para8"
+            },
+            {
+              "text": "This threshold, which must be established on a balance of probabilities, is not a high one, and, in many ways, parallels the test for Summary Judgment...",
+              "source_reference": "05102.rtf#rana-v-rana-para9"
+            }
+          ],
+          "source_references": [
+            "Rana v. Rana, 2024 ABKB 292"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This pillar defines the gateway through which a restricted litigant must pass. It acts as a quality control mechanism, forcing the litigant to put their 'best foot forward' and demonstrate merit before being allowed to consume court and party resources.",
+          "litigation_implications": [
+            "Gatekeeping (Opponent): When a vexatious litigant seeks leave, rigorously attack their materials for failing to establish reasonable grounds or for not providing full and frank disclosure in their affidavit.",
+            "Seeking Access (Vexatious Litigant): Prepare a comprehensive affidavit and a draft of the proposed initiating document that clearly demonstrates a meritorious claim, anticipating and addressing potential weaknesses.",
+            "Procedural Requirement: The application for leave must be supported by an Affidavit and a copy of the proposed initiating document."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Rana v. Rana, 2024 ABKB 292",
+              "proposition": "Sets out the two-part test for a declared vexatious litigant to obtain leave to commence or continue litigation."
+            },
+            {
+              "case_name": "Re Thompson, 2018 ABQB 87",
+              "proposition": "A person subject to court access control is presumed to engage in illegitimate litigation unless the Court is satisfied otherwise. The threshold for leave parallels the test for Summary Judgment."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-3-venue-presumption",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Presumption of Correct Venue",
+        "description": "If an action is commenced in compliance with Rule 3.3, it is presumed to have been brought in the correct judicial centre. The onus shifts to the challenging party to rebut this presumption.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In our view, rule 3.3 operates much like a presumption. If the action is commenced in compliance with rule 3.3, it is presumed that it was brought in the correct judicial centre. If a defendant wishes to challenge the plaintiff's choice, the defendant must rebut that presumption and bears the burden of establishing that the plaintiff's choice was unreasonable.",
+              "source_reference": "05107.rtf#odland-v-odland-para19"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.3",
+            "Odland v. Odland, 2017 ABCA 397"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This presumption provides a significant tactical advantage to the plaintiff who correctly applies Rule 3.3. It forces the defendant to carry the burden of proof in any venue challenge, making it more difficult and costly to move the action.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Carefully select the judicial centre according to Rule 3.3 to gain the benefit of the presumption. In response to a transfer application, emphasize that the defendant bears the heavy onus of proving the choice is 'unreasonable'.",
+            "Defensive (Defendant): To overcome the presumption, build a strong evidentiary case based on the 'balance of convenience' factors to demonstrate that carrying on the action in the plaintiff's chosen centre is unreasonable.",
+            "Counter-Tactic: If the plaintiff did NOT comply with Rule 3.3, the presumption is lost, and the onus shifts to the plaintiff to prove their choice was reasonable. This is a key vulnerability to exploit."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Odland v. Odland, 2017 ABCA 397",
+              "proposition": "Establishes that Rule 3.3 creates a presumption of correct venue and clarifies that the onus is on the defendant to rebut it if the plaintiff complied with the rule, but on the plaintiff to justify their choice if they did not."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-4-defendant-demand-transfer-land",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Defendant's Right to Demand Transfer in Land Claims",
+        "description": "In an action claiming possession of land, if the plaintiff files in a judicial centre that is not closest to the land or a defendant's residence, a defendant has a non-discretionary right to demand the action be transferred by filing a request in Form 6.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite rule 3.3 [Determining the appropriate judicial centre], if possession of land is claimed in a statement of claim that was not filed in (a) the judicial centre that is closest, by road, to the land, or (b) the judicial centre that is closest, by road, to the Alberta residence of a defendant, a defendant may, by making a request in Form 6, require the court clerk in the judicial centre in which the action is located to transfer the action...",
+              "source_reference": "05105.rtf#r3.4(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.4(1)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This rule provides the defendant with a powerful, non-discretionary tool to seize control of the venue in land possession cases. Unlike a Rule 3.5 application, it does not depend on the 'balance of convenience'; it is a procedural right triggered by the plaintiff's failure to file in a specified location.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a foreclosure or other land possession action is filed in an inconvenient but technically permissible judicial centre, immediately file a Form 6 request to transfer it to the centre closest to the land, forcing the plaintiff to litigate on your preferred turf.",
+            "Defensive (Plaintiff): To neutralize this weapon, ensure any action claiming possession of land is filed in the judicial centre closest to the land or a defendant's residence.",
+            "Procedural Trap: The defendant must file the request before the close of pleadings, and the plaintiff has only 10 days to object."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-4-transfer-request-deadline",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Deadline for Land Claim Transfer Request",
+        "description": "The defendant's right to demand a transfer of a land claim action under Rule 3.4 is forfeited if the request is not filed before the close of pleadings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The request must (a) be filed before close of pleadings in the judicial centre in which the action is located...",
+              "source_reference": "05105.rtf#r3.4(3)(a)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.4(3)(a)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This deadline acts as a trap for an inattentive defendant. A powerful procedural right can be lost through simple inaction, allowing the plaintiff to maintain their potentially inconvenient choice of venue.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If you filed a land claim in a non-ideal venue and the defendant has not filed a transfer request, move quickly to close pleadings to spring the trap and lock in your choice of venue.",
+            "Defensive (Defendant): Upon being served with a claim for possession of land, immediately assess the venue and, if advantageous, file the Form 6 transfer request well before the deadline for filing a Statement of Defence."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-5-transfer-framework-unreasonable",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Discretionary Transfer of Action",
+        "description": "Rule 3.5 provides the framework for a discretionary transfer of an action if the court is satisfied that it would be 'unreasonable' for the action to continue in its current judicial centre. The test for 'unreasonable' is the 'balance of convenience'.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may order that an action be transferred from one judicial centre to another (a) if the Court is satisfied that it would be unreasonable for the action to be carried on in the judicial centre in which it is located...",
+              "source_reference": "05106.rtf#r3.5(a)"
+            },
+            {
+              "text": "The weight of authority is that rule 3.5 imposes a “balance of convenience” test.",
+              "source_reference": "05107.rtf#regular-v-regular-para7"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.5"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This framework is the primary tool for challenging a plaintiff's choice of venue when the non-discretionary Rule 3.4 does not apply. It allows a party to argue for a more convenient forum by weighing a series of practical factors, aiming to shift the litigation to a more favorable location.",
+          "litigation_implications": [
+            "Offensive (Party Seeking Transfer): File an application supported by affidavit evidence detailing how the balance of convenience factors (witness location, party location, cost, etc.) overwhelmingly favor the proposed new judicial centre.",
+            "Defensive (Party Opposing Transfer): File responding evidence that minimizes the asserted inconveniences and highlights the convenience of the current location, arguing the applicant has not met the high onus to show the current venue is 'unreasonable'.",
+            "Strategic Consideration: Frame the argument in terms of fairness and efficiency for all parties and the administration of justice, not just your own client's convenience."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Odland v. Odland, 2017 ABCA 397",
+              "proposition": "Endorses the approach that reasonableness under Rule 3.5 is determined on the balance of convenience."
+            },
+            {
+              "case_name": "Regular v. Regular, 2016 ABQB 570",
+              "proposition": "The onus of proof lies on the party applying for the transfer of an action to another judicial centre."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-5-balance-of-convenience-test",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Balance of Convenience Test for Transfer",
+        "description": "The core test for determining if a venue is 'unreasonable' under Rule 3.5. It involves weighing factors such as the location of parties and witnesses, financial resources, and where the key events occurred.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The following factors were considered under the balance of convenience in Regular at paragraph 9: a) the number of parties or witnesses in the current and proposed judicial centre; b) the nature of the issues in the lawsuit; c) the relationship between the parties in respect of the issues in the lawsuit... d) the parties' financial resources; e) the stage of proceedings; f) the convenience of location for pre-trial motions; and g) the location of relevant assets.",
+              "source_reference": "05107.rtf#odland-v-odland-para21"
+            }
+          ],
+          "source_references": [
+            "Odland v. Odland, 2017 ABCA 397",
+            "Regular v. Regular, 2016 ABQB 570"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This pillar operationalizes the abstract concept of 'unreasonable' into a concrete, multi-factor analysis. It provides the ammunition for arguments for or against a transfer, allowing litigators to build a case based on tangible inconveniences and costs.",
+          "litigation_implications": [
+            "Argument Structuring: Use the enumerated factors as headings for an affidavit and written argument to systematically demonstrate why the balance of convenience favors a transfer.",
+            "Evidence Gathering: Focus discovery and investigation on gathering facts that support these factors, such as lists of witnesses and their locations, or evidence of financial hardship associated with travel.",
+            "Counter-Argument: Systematically dismantle the opponent's arguments under each factor, showing that the alleged inconveniences are overstated or balanced by other considerations."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Regular v. Regular, 2016 ABQB 570",
+              "proposition": "Provides a comprehensive list of factors to be considered in the balance of convenience test for a Rule 3.5 transfer application."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-5-counsel-location-irrelevant",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Arguing Convenience of Counsel",
+        "description": "A common but consistently rejected argument in a transfer application is the convenience of a party's legal counsel. Courts hold that counsel should follow the case, not the other way around.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Generally, the location of counsel is not a decisive factor: Pacific Investments at para 38; Regular at para 8.",
+              "source_reference": "05107.rtf#odland-v-odland-para22"
+            },
+            {
+              "text": "In our view, the location of the principle place of business of counsel for the parties should not be a significant factor in deciding the balance of convenience. Counsel should follow the case, not the reverse.",
+              "source_reference": "05107.rtf#ft-anderson-case"
+            }
+          ],
+          "source_references": [
+            "Odland v. Odland, 2017 ABCA 397",
+            "F.T. Anderson & Associates v. Kent (9th October 1981)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is a trap for inexperienced litigators. Relying on this argument weakens the overall application and signals to the court a misunderstanding of the core principles of the balance of convenience test, damaging credibility.",
+          "litigation_implications": [
+            "Offensive (Opposing Transfer): If the applicant raises the convenience of their counsel, point out that this is a non-factor according to appellate authority, thereby undermining a key part of their argument.",
+            "Defensive (Seeking Transfer): Avoid mentioning the convenience of your own counsel. Focus exclusively on the factors that matter: convenience of the parties and witnesses.",
+            "Strategic Avoidance: Never make convenience of counsel the primary basis for a transfer application; it is a losing argument."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Odland v. Odland, 2017 ABCA 397",
+              "proposition": "The location of counsel is generally not a decisive factor in a balance of convenience analysis for a transfer application."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-5-application-venue",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Application to Transfer Must Be in Original Centre",
+        "description": "An application to transfer an action must be brought in the judicial centre from which the transfer is sought, not in the desired destination centre.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Applications must be made in the judicial district in which the action was commenced, that is, an application to transfer must be made in the judicial district from which the applicant wants the action transferred.",
+              "source_reference": "05107.rtf#royal-trust-corp-case"
+            }
+          ],
+          "source_references": [
+            "Royal Trust Corp. of Canada v. Fillo (1981)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is a fundamental procedural trap. Filing the application in the wrong court is a jurisdictional error that will result in the application being dismissed, wasting time and money and potentially leading to an adverse costs award.",
+          "litigation_implications": [
+            "Offensive (Opposing Transfer): If the applicant files the transfer application in the proposed destination centre, bring a preliminary motion to strike the application for being filed in the wrong venue.",
+            "Defensive (Seeking Transfer): Ensure the application to transfer is filed with the clerk of the court in the judicial centre where the action currently resides.",
+            "Risk Mitigation: Always double-check the filing location for transfer applications to avoid this simple but fatal procedural error."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Royal Trust Corp. of Canada v. Fillo (1981), 17 Alta. L.R. (2d) 283 (Q.B.)",
+              "proposition": "An application to transfer an action must be made in the judicial district from which the transfer is sought."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-6-2-discretionary-hearing-location",
+        "node_type": "ControlMechanism",
+        "label": "Control: Decoupling Hearing Location from File Venue",
+        "description": "Rule 3.6(2) gives the Court the discretion to hear an application or hold a trial in any place, even if it is not the judicial centre where the action is formally located. This provides flexibility to address convenience without formally transferring the entire file.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite subrule (1), an application and an originating application may be heard or a trial may be held in any place specified by the Court other than the judicial centre.",
+              "source_reference": "05108.rtf#r3.6(2)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.6(2)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This mechanism offers a tactical middle ground. Instead of the all-or-nothing battle of a full file transfer under Rule 3.5, a party can seek a more limited order to have a specific event (like a key application or the trial itself) heard in a more convenient location, potentially for a single judge or a key witness.",
+          "litigation_implications": [
+            "Alternative Strategy: If a full transfer application under R. 3.5 is unlikely to succeed, propose an order under R. 3.6(2) as a less drastic alternative to address a specific inconvenience.",
+            "Targeted Relief: Use this rule to request that a lengthy chambers application involving out-of-town witnesses be heard in their home city to save costs.",
+            "Judicial Efficiency: Frame the request as a matter of judicial economy, arguing that hearing a specific matter elsewhere is the most efficient use of court resources."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Min. of Justice v. Mohamed, 2018 ABQB 897",
+              "proposition": "Counsel was criticized for not first getting a direction under R. 3.6(2) before bringing an application in a judicial centre other than where the action was started."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-7-temporary-transfer-for-enforcement",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Temporary Post-Judgment Transfer for Enforcement",
+        "description": "Rule 3.7 allows a judgment creditor to request a temporary transfer of an action to a different judicial centre specifically for the purpose of an application to enforce the judgment or order.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "After judgment or an order has been entered in a judicial centre, a judgment creditor, on notice to each of the other parties, may request a temporary transfer of the action to a different judicial centre for purposes of an application to enforce the judgment or order.",
+              "source_reference": "05109.rtf#r3.7(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.7(1)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is a crucial enforcement weapon. It allows a judgment creditor to 'follow the assets' or the debtor, enabling them to bring enforcement proceedings (like a questioning in aid of execution) in the judicial centre where the debtor resides or works, without having to permanently transfer the entire action file.",
+          "litigation_implications": [
+            "Offensive (Judgment Creditor): If a judgment debtor resides or has assets in a different judicial centre, use this rule to temporarily transfer the file to that centre to conduct questioning or bring a seizure application.",
+            "Efficiency: This avoids the cumbersome process of a full transfer and ensures enforcement proceedings are conducted in the most practical location.",
+            "Procedural Step: The request requires notice to all other parties, and any resulting orders must be filed back in the original judicial centre."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-2-6-curative-limit",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Limit of Curative Power (Non-Commencement Document)",
+        "description": "The court's curative power under Rule 3.2(6) is not unlimited. It cannot be used to validate a document that does not qualify as a commencement document under Rule 3.2(1), nor can it cure a proceeding that is a substantive nullity.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...we do not accept that a Notice to Attend Family Docket Court starts or commences an action as contemplated by rule 3.2 as a Notice to Attend Family Docket Court is not referenced in rule 3.2(1).",
+              "source_reference": "05102.rtf#kwadrans-v-kwadrans-para25"
+            },
+            {
+              "text": "However, where no viable cause of action is pled in a statement of claim and no ground for judicial review (like bias) is alleged, and quashing is not sought, then the court cannot convert the statement of claim into a judicial review application.",
+              "source_reference": "page_0006.rtf#fufa-case-ref"
+            }
+          ],
+          "source_references": [
+            "Kwadrans v. Kwadrans, 2023 ABCA 203",
+            "Fufa v. Univ. of Alta., 2012 ABQB 405"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This represents the outer boundary of the court's corrective jurisdiction and a trap for those who rely too heavily on it. A party who files a document that is fundamentally not a 'commencement document' cannot be saved by R. 3.2(6), making the error fatal.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a plaintiff attempts to cure a proceeding started with a non-commencement document (e.g., a simple Notice of Motion), argue that R. 3.2(6) is inapplicable as there was no 'action started' to correct.",
+            "Defensive (Plaintiff): Ensure that any document intended to start an action is one of the forms explicitly listed in Rule 3.2(1) to avoid this fatal trap.",
+            "Jurisdictional Argument: Frame the issue as jurisdictional – the court lacks the power under R. 3.2(6) to breathe life into a proceeding that was never properly born."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Kwadrans v. Kwadrans, 2023 ABCA 203",
+              "proposition": "The curative power in R. 3.2(6) cannot be invoked for a document that is not a commencement document under R. 3.2(1)."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-3-plaintiff-selection-power",
+        "node_type": "ControlMechanism",
+        "label": "Control: Plaintiff's Power to Select Venue",
+        "description": "When a single closest judicial centre cannot be determined for all parties, Rule 3.3(1)(b) grants the plaintiff the power to select the judicial centre that is closest to the residence or place of business of any one of the parties.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "if a single judicial centre cannot be determined under clause (a), the judicial centre that is, by road, the closest to the Alberta residence or Alberta place of business of one of the parties, that party being selected by the party starting the action.",
+              "source_reference": "05103.rtf#r3.3(1)(b)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.3(1)(b)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This rule provides the plaintiff with a degree of strategic control over the initial venue when parties are geographically dispersed. It allows the plaintiff to choose the most advantageous forum among the available options, forcing the defendant to litigate there unless they can meet the burden of a transfer application.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): In a multi-party action with defendants in different cities, strategically select the judicial centre closest to the defendant who is least likely to object or for whom travel is most difficult, or closest to your own client.",
+            "Defensive (Defendant): If the plaintiff's choice under this subrule creates a significant inconvenience, you must use a Rule 3.5 application and the 'balance of convenience' test to challenge it.",
+            "Strategic Analysis: Before filing, map out the locations of all parties to determine if this selection power is triggered and how it can be used to best effect."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-3-3-party-agreement-override",
+        "node_type": "ControlMechanism",
+        "label": "Control: Party Agreement to Override Venue Rules",
+        "description": "Rule 3.3(3) allows parties to agree on a judicial centre, which then becomes the appropriate judicial centre, overriding the default geographical calculations in subrules (1) and (2).",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite subrules (1) and (2), the parties may agree on a judicial centre in which to start and carry on the action, in which case the judicial centre agreed on by the parties is the appropriate judicial centre unless the Court otherwise orders.",
+              "source_reference": "05103.rtf#r3.3(3)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.3(3)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This mechanism provides parties with autonomy and a tool for efficiency. It allows them to bypass potential disputes over venue by selecting a mutually convenient location, which can be a powerful negotiation tool in commercial contracts (forum selection clauses) or during pre-litigation discussions.",
+          "litigation_implications": [
+            "Contract Drafting: Proactively include a forum selection clause in contracts to pre-determine the judicial centre for any future disputes, leveraging this rule.",
+            "Litigation Negotiation: As part of early procedural discussions, propose agreeing on a neutral or mutually convenient judicial centre to avoid the cost and delay of a contested transfer application.",
+            "Enforcement: If an action is commenced in breach of a forum selection clause, bring an application to transfer the action to the agreed-upon centre, relying on this rule."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Baxter v. Darby, 2009 ABQB 559",
+              "proposition": "A clause in a mortgage sued on constitutes consent to suing in the 'wrong' Judicial Centre under the rules."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-2-nullity-vs-irregularity",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Nullity vs. Curable Irregularity",
+        "description": "A core jurisdictional principle distinguishing between a procedural error that is a mere 'irregularity' (curable under rules like 3.2(6)) and one that renders the proceeding a 'nullity' from the outset (incurable), such as commencing an action without mandatory statutory leave.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "suit commenced without leave given during a federally-legislated moratorium is a nullity.",
+              "source_reference": "page_0004.rtf#m-d-farm-case"
+            },
+            {
+              "text": "So is a statutory suit (even a proposed class action begun) without the leave to sue which legislation imposes.",
+              "source_reference": "page_0004.rtf#cibc-v-green-case"
+            }
+          ],
+          "source_references": [
+            "M & D Farm v. Man. Agric. Cr. Corp., [1999] 2 SCR 961",
+            "C.I.B.C. v. Green, 2015 SCC 60"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This principle defines the absolute limit of the court's curative powers. Identifying an error as a 'nullity' is a kill shot for a proceeding, bypassing any arguments about prejudice or proportionality. It is a powerful weapon against actions that are fundamentally void.",
+          "litigation_implications": [
+            "Offensive (Defendant): When faced with a procedurally defective action, first analyze if the defect is a substantive failure to meet a condition precedent (like statutory leave), which would make it a nullity and immune to cure under R. 3.2(6).",
+            "Defensive (Plaintiff): If an error is made, frame it as a procedural irregularity that does not go to the court's core jurisdiction, thus making it curable.",
+            "Strategic Analysis: This distinction is critical when a limitation period has passed. If the original action is a nullity, it cannot be cured, and a new action would be statute-barred."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "M & D Farm v. Man. Agric. Cr. Corp., [1999] 2 SCR 961",
+              "proposition": "A suit commenced without leave during a statutory moratorium is a nullity."
+            },
+            {
+              "case_name": "C.I.B.C. v. Green, 2015 SCC 60",
+              "proposition": "A statutory suit begun without mandatory leave to sue is a nullity."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-2-family-law-commencement-exception",
+        "node_type": "ControlMechanism",
+        "label": "Exception: Mandatory Commencement for Family Law",
+        "description": "Rule 12.16 creates a mandatory exception to Rule 3.2, requiring that proceedings under the Family Law Act must be started by filing a Claim in Form FL-10, not a standard Statement of Claim or Originating Application.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 12.16 provides that despite Rule 3.2, proceedings under the Family Law Act must be started by filing a Claim in Form FL-10.",
+              "source_reference": "05102.rtf#karas-v-mongeon-para22"
+            },
+            {
+              "text": "The effect of Rule 3.2 read with Rule 12.16, is that there are in fact 4 ways to commence an action under the Alberta Rules of Court.",
+              "source_reference": "05102.rtf#karas-v-mongeon-para23"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 12.16",
+            "Karas v. Mongeon, 2018 ABQB 149"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This node captures a critical, domain-specific procedural requirement. Failure to use the correct form in family law can lead to procedural challenges, delays, and costs. It represents a procedural trap for those unfamiliar with the Family Law Rules.",
+          "litigation_implications": [
+            "Compliance Check: Always verify the correct commencement document for any family law matter to avoid an initial procedural battle.",
+            "Offensive (Opponent): If a family law action is improperly started with a Statement of Claim, bring an application to strike, forcing the other party to rely on the curative provision (R. 3.2(6)) and potentially gaining a costs award.",
+            "Defensive (Filer): If an error is made, immediately cite *Karas v. Mongeon* and Rule 3.2(6) to argue the deficiency is correctable and the action should proceed."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Karas v. Mongeon, 2018 ABQB 149",
+              "proposition": "Establishes that Rule 12.16 creates a fourth way to commence an action (Claim Form FL-10) for Family Law Act matters, but that the curative power of Rule 3.2(6) still applies to deficiencies."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-2-2-oa-safe-harbor",
+        "node_type": "ControlMechanism",
+        "label": "Control: Safe Harbor for Originating Applications",
+        "description": "Rule 3.2(2) provides a 'safe harbor' by explicitly authorizing the use of an Originating Application (OA) in specific circumstances, such as when there is no substantial factual dispute, for judicial review, or when an enactment permits it.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A statement of claim must be used to start an action unless (a) there is no substantial factual dispute, (c) a decision, act or omission of a person or body is to be the subject of judicial review, (d) an enactment authorizes or requires an application... to be used...",
+              "source_reference": "05101.rtf#r3.2(2)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.2(2)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This rule provides the primary justification and shield for a plaintiff who chooses to proceed by OA. It defines the conditions under which this expedited process is not just permissible but is the intended procedure, allowing the plaintiff to defend their choice against challenges.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): When a defendant challenges the use of an OA, the plaintiff must demonstrate that their action falls squarely within one of the enumerated safe harbors in Rule 3.2(2).",
+            "Offensive (Plaintiff): Use an OA to gain a speed and cost advantage when the legal issue is clear and there are no material facts in dispute, forcing the defendant into a summary process.",
+            "Strategic Analysis: Before filing, a plaintiff must assess if they can credibly argue that their case fits a safe harbor, as a wrong choice invites a procedural attack."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-3-carries-on-business-test",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: 'Carries on Business' Venue Test",
+        "description": "The determination of where a corporation 'carries on business' for venue purposes under Rule 3.3 is a fact-specific inquiry. It requires examining the corporation's structure, the nature of the lawsuit, and the relationship between the parties to establish a 'significant connection' to the judicial district.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In order to establish whether a significant connection exists in a particular case, it is necessary to examine the particular structure of the corporation's operations, the nature of and issues in the lawsuit, and the relationship between the parties in respect of those issues. Such examinations are fact specific.",
+              "source_reference": "05104.rtf#apache-canada-para7"
+            },
+            {
+              "text": "If a party carries on business in more than one Alberta location, the place of business in Alberta of that party for the purpose of this rule is the place of business that is nearest to the location at which the matters in issue in the action arose or were transacted.",
+              "source_reference": "05103.rtf#r3.3(2)"
+            }
+          ],
+          "source_references": [
+            "Apache Canada Ltd. v. Johnson, 2005 ABCA 71",
+            "Alberta Rules of Court, r. 3.3(2)"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This test is a critical weapon in venue disputes involving corporations. It prevents a company from rigidly claiming its head office is its only place of business, allowing an opposing party to argue that a regional office or operational site with a 'significant connection' to the lawsuit is the proper venue.",
+          "litigation_implications": [
+            "Offensive (Challenging Venue): If a corporation sues from its head office, but the dispute arose from a field office, use this test to argue the field office is the relevant 'place of business' and seek a transfer to that judicial centre.",
+            "Defensive (Corporate Plaintiff): To defend a choice of venue, be prepared to argue that despite the existence of field offices, the head office has the most significant connection to the litigation (e.g., where contracts were approved, decisions were made).",
+            "Evidence Gathering: Focus discovery on the corporate structure and where the specific interactions giving rise to the lawsuit actually took place."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Apache Canada Ltd. v. Johnson, 2005 ABCA 71",
+              "proposition": "Establishes the contextual, fact-specific test for determining where a corporation 'carries on business' for the purpose of venue selection, focusing on a 'significant connection' to the lawsuit."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-leave-denied-abusive-indicia",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Leave Denied for Indicia of Abuse",
+        "description": "A vexatious litigant's application for leave to commence an action will be rejected if the proposed submissions exhibit indicia of abusive litigation.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... if the submissions exhibit indicia of abusive litigation...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-2"
+            }
+          ],
+          "source_references": [
+            "Rana v. Rana, 2024 ABKB 292"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This provides a substantive basis to oppose a leave application, even if it appears to have some facial merit. It allows the opposing party to argue that the *purpose* and *nature* of the proposed litigation are abusive, regardless of the specific legal claims being advanced.",
+          "litigation_implications": [
+            "Offensive (Opposing Leave): Scrutinize the proposed action for hallmarks of abuse, such as re-litigating decided issues, targeting counsel, or making scandalous and irrelevant allegations, and argue these 'indicia' warrant denial of leave.",
+            "Defensive (Seeking Leave): Ensure the proposed claim is framed narrowly, professionally, and focuses only on legitimate, unresolved legal issues to avoid any appearance of abusive intent."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "ET v. Calgary Catholic School District No 1, 2017 ABCA 349",
+              "proposition": "Cited as an authority for rejecting leave submissions that exhibit indicia of abusive litigation."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-leave-denied-refusal-to-provide-filing",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Leave Denied for Refusing to Provide Proposed Filing",
+        "description": "A vexatious litigant's application for leave will be rejected if they refuse to provide the court with a copy of the proposed initiating document (e.g., Statement of Claim).",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the abusive litigant refuses to provide the proposed filing...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-3"
+            }
+          ],
+          "source_references": [
+            "Rana v. Rana, 2024 ABKB 292"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is a hard procedural gate. The court cannot assess the merit of a proposed action without seeing the action itself. A refusal to provide the document is a fatal, non-curable defect in the leave application.",
+          "litigation_implications": [
+            "Offensive (Opposing Leave): If the applicant has not included a draft of their proposed filing, this is a simple and conclusive ground to have the leave application dismissed.",
+            "Defensive (Seeking Leave): Always attach a complete draft of the proposed Statement of Claim, Originating Application, or other initiating document to the leave application."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Re Thompson, 2018 ABQB 355",
+              "proposition": "An example of a case where leave was rejected because the abusive litigant refused to provide the proposed filing."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-leave-denied-false-or-incomplete-info",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Leave Denied for False or Incomplete Information",
+        "description": "A vexatious litigant's application for leave will be rejected if they provide false information or fail to provide necessary information in their supporting materials.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the abusive litigant provides false information or fails to provide necessary information...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-4"
+            }
+          ],
+          "source_references": [
+            "Rana v. Rana, 2024 ABKB 292"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This trap weaponizes the duty of full and frank disclosure. It allows an opponent to defeat a leave application by attacking the credibility and completeness of the applicant's affidavit evidence, turning the focus from the merits of the proposed claim to the misconduct in the leave application itself.",
+          "litigation_implications": [
+            "Offensive (Opposing Leave): Cross-reference the applicant's affidavit with the known record. Identify any material omissions, misstatements, or outright falsehoods and present them to the court as grounds for dismissal.",
+            "Defensive (Seeking Leave): The supporting affidavit must be scrupulously accurate and complete. It is better to address an unfavorable fact head-on than to omit it and be accused of misleading the court."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Re Gauthier, 2018 ABQB 99",
+              "proposition": "Authority for rejecting leave where the abusive litigant provides false or incomplete information."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-leave-denied-missing-evaluation-materials",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Leave Denied for Missing Essential Materials",
+        "description": "A vexatious litigant's application for leave will be rejected if they fail to provide materials essential for the court to evaluate the proposed litigation, such as a transcript of the proceeding being appealed.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the abusive litigant fails to provide materials that are required to evaluate the proposed litigation step, such as a transcript of a proceeding proposed for appeal...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-5"
+            }
+          ],
+          "source_references": [
+            "Rana v. Rana, 2024 ABKB 292"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This trap prevents the court from having to make a decision in a vacuum. It places a positive obligation on the applicant to provide the complete record necessary for a merits assessment. Failure to do so is a fatal procedural defect.",
+          "litigation_implications": [
+            "Offensive (Opposing Leave): If the applicant seeks to appeal a decision but fails to provide the transcript or the reasons for judgment, argue that the court cannot possibly assess whether there are 'reasonable grounds' for an appeal and the application must be dismissed.",
+            "Defensive (Seeking Leave): Ensure all necessary underlying documents, especially reasons for judgment and transcripts for any proposed appeal, are included with the application materials."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Alberta Treasury Branches v Hok, 2018 ABQB 316",
+              "proposition": "An example where leave was rejected for failure to provide materials required to evaluate the proposed litigation step."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-leave-denied-no-jurisdiction",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Leave Denied for Lack of Jurisdiction",
+        "description": "A vexatious litigant's application for leave will be rejected if the court has no jurisdiction over the matter they propose to litigate.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the Court has no jurisdiction over the matter...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-6"
+            }
+          ],
+          "source_references": [
+            "Rana v. Rana, 2024 ABKB 292"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is a fundamental barrier. A claim cannot have 'reasonable grounds' if the court fundamentally lacks the authority to hear it. This allows for a quick dismissal of the leave application without any consideration of the factual or legal merits of the underlying dispute.",
+          "litigation_implications": [
+            "Offensive (Opposing Leave): Analyze the proposed claim to see if it falls outside the court's jurisdiction (e.g., it's a federal matter, or exclusive to a specific tribunal). If so, this is a complete answer to the leave application.",
+            "Defensive (Seeking Leave): Before filing, confirm that the Court of King's Bench is the proper forum with jurisdiction over the subject matter and the parties."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hayden v Alberta Health Services, 2022 ABQB 335",
+              "proposition": "Authority for rejecting a leave application where the court has no jurisdiction over the matter."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-leave-denied-no-standing",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Leave Denied for Lack of Standing",
+        "description": "A vexatious litigant's application for leave will be rejected if the individual subject to the court access restrictions does not have standing to make the leave request or bring the proposed claim.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the individual subject to court access restrictions does not have standing to make the leave request...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-7"
+            }
+          ],
+          "source_references": [
+            "Rana v. Rana, 2024 ABKB 292"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This trap attacks the litigant's fundamental connection to the lawsuit. If the applicant cannot demonstrate a personal stake or legal right to bring the claim, the claim has no 'reasonable grounds' by definition. This provides another avenue for a quick dismissal.",
+          "litigation_implications": [
+            "Offensive (Opposing Leave): Assess whether the applicant is the proper party to bring the proposed claim. If they are trying to sue on behalf of someone else without the right to do so, or have no direct interest, argue they lack standing.",
+            "Defensive (Seeking Leave): Clearly articulate in the affidavit the legal and factual basis for the applicant's standing to bring the proposed action."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Ubah v Ubah, 2023 ABKB 388",
+              "proposition": "An example where leave was denied because the individual did not have standing to make the request."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-2-commencement-by-struck-company",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Commencement by Struck Company",
+        "description": "An action commenced by a company that has been struck from the corporate register is a potential nullity, as the plaintiff lacks legal personality and the capacity to sue.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Denying a plaintiff company’s incorporation sufficiently pleads its lack of legal personality, and a company struck off cannot start a suit, and the possibility of cure by restoration is irrelevant if it has not been restored.",
+              "source_reference": "page_0006.rtf#wolfe-v-shawcor-ref"
+            }
+          ],
+          "source_references": [
+            "Wolfe v. Shawcor, 2016 ABQB 261"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is a powerful procedural weapon for a defendant. It attacks the very existence of the plaintiff entity, potentially rendering the entire action void from inception, especially if a limitation period has passed.",
+          "litigation_implications": [
+            "Offensive (Defendant): Upon being sued by a small or unfamiliar corporate entity, conduct a corporate search to verify its status. If struck, bring a motion to strike the claim as a nullity.",
+            "Defensive (Plaintiff): If a claim was inadvertently filed while the company was struck, immediately take steps to have the company restored to the register.",
+            "Limitation Period Risk: This trap is most potent if the limitation period expires before the company can be restored, as a new action would be statute-barred."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Wolfe v. Shawcor, 2016 ABQB 261",
+              "proposition": "A company that has been struck off the register cannot start a suit, and the possibility of a future cure by restoration is irrelevant if it has not yet been restored."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-2-corporate-revival-cure",
+        "node_type": "ControlMechanism",
+        "label": "Counter: Corporate Revival Cures Commencement Defect",
+        "description": "The subsequent revival of a company that was struck from the register at the time it commenced an action usually cures the defect of its lack of legal personality, retroactively validating the action.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where a suit is brought by a company struck off the Register, legislation protecting ’rights acquired by any person prior to the revival’, on the revival of a company to the register, does not refer to a potential defence of lack of parties. So revival usually cures the defect.",
+              "source_reference": "page_0006.rtf#goska-nowak-ref"
+            }
+          ],
+          "source_references": [
+            "Goska Nowak P.C. v. Robinson, 2011 ABQB 385"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This is the primary defensive countermeasure to an attack based on a plaintiff company's struck status. It allows a plaintiff to retroactively fix a potentially fatal flaw, preserving the action and its original filing date for limitation purposes.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If a defendant moves to strike a claim because the company was struck, the plaintiff's immediate response should be to file for corporate revival and then argue that the revival has cured the defect.",
+            "Offensive (Defendant): When faced with this counter, a defendant might argue that they have acquired a 'right' (e.g., a limitations defence) that should not be prejudiced by the revival, although this is a difficult argument to win."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Goska Nowak P.C. v. Robinson, 2011 ABQB 385",
+              "proposition": "The revival of a struck company to the register usually cures the defect of having commenced a suit while lacking legal personality."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-2-clerk-duty-to-file-defective-form",
+        "node_type": "ControlMechanism",
+        "label": "Control: Clerk's Duty to File Formally Defective Documents",
+        "description": "The Court Clerk should not refuse to file a commencement document due to defects in its form. Their role is administrative, and the question of a pleading's validity is a judicial matter to be determined by the court.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Clerk should not refuse to issue a statement of claim for defects in form.",
+              "source_reference": "page_0007.rtf#chamchuk-ref"
+            }
+          ],
+          "source_references": [
+            "Chamchuk v. A.-G. Alta., 2002 ABQB 412"
+          ],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This mechanism prevents administrative staff from acting as gatekeepers and ensures a litigant's access to the court. It forces any challenge to a pleading's form into the proper judicial channel (e.g., a strike application), where the filing party has the right to be heard and can seek curative orders.",
+          "litigation_implications": [
+            "Offensive (Filing Party): If a clerk refuses to file a document due to a formal defect near a limitation deadline, counsel can insist on the filing to preserve the date, citing this principle. This shifts the onus to the opposing party to bring a formal strike motion.",
+            "Strategic Consideration: This ensures that procedural battles are fought before a judge, who has the discretion to grant curative orders, rather than being summarily blocked at the counter."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Chamchuk v. A.-G. Alta., 2002 ABQB 412",
+              "proposition": "The Clerk of the Court should not refuse to issue a statement of claim because of defects in form, such as improper attachments."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-curative-counters-improper-form",
+        "source_node_id": "cm-r3-2-6-curative-provision",
+        "target_node_id": "pt-r3-2-improper-commencement-form",
+        "relationship_type": "COUNTERS",
+        "description": "The court's broad curative power under Rule 3.2(6) is the primary countermeasure to an attack based on commencing an action in the wrong procedural form.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If an action that is started in one form should have been started or should continue in another, the Court may make any procedural order to correct and continue the proceeding...",
+              "source_reference": "05101.rtf#r3.2(6)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship represents the core procedural battleground for commencement errors: the defendant springs the trap (improper form), and the plaintiff deploys the countermeasure (curative provision).",
+          "litigation_implications": [
+            "A plaintiff facing a motion to strike for improper form should simultaneously bring a cross-application for a curative order under R. 3.2(6)."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-curative-limit-modifies-curative-power",
+        "source_node_id": "pt-r3-2-6-curative-limit",
+        "target_node_id": "cm-r3-2-6-curative-provision",
+        "relationship_type": "MODIFIES",
+        "description": "The limits on the curative power, such as the inability to validate a non-commencement document, define the boundaries and modify the otherwise broad scope of Rule 3.2(6).",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...we do not accept that a Notice to Attend Family Docket Court starts or commences an action as contemplated by rule 3.2...",
+              "source_reference": "05102.rtf#kwadrans-v-kwadrans-para25"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link highlights a critical vulnerability in the curative defense. An opponent can argue that the error is so fundamental that it falls outside the scope of what R. 3.2(6) can fix.",
+          "litigation_implications": [
+            "When a plaintiff relies on R. 3.2(6), the defendant should analyze if the error is merely formal or if it's a fundamental failure to commence an action at all, which would render the curative provision inapplicable."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-vexatious-framework-modifies-commencement",
+        "source_node_id": "wf-r3-2-vexatious-litigant-framework",
+        "target_node_id": "cm-r3-2-6-curative-provision",
+        "relationship_type": "MODIFIES",
+        "description": "The Vexatious Litigant Framework fundamentally modifies the right to start an action by imposing a requirement to seek leave, creating a barrier to commencement that cannot be cured by Rule 3.2(6).",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On a statement of claim issued despite a vexatious-litigant order forbidding suits without leave, see the Badawy case.",
+              "source_reference": "page_0006.rtf#badawy-case-ref"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship shows that a vexatious litigant order is a substantive barrier, not a mere procedural misstep. It creates a condition precedent to filing that, if not met, renders the action a nullity.",
+          "litigation_implications": [
+            "A defendant served by a declared vexatious litigant who has not obtained leave should move to strike the action as a nullity, arguing R. 3.2(6) cannot cure the lack of leave."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-leave-test-operationalizes-vexatious-framework",
+        "source_node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "target_node_id": "wf-r3-2-vexatious-litigant-framework",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The two-part test for obtaining leave is the specific legal standard that operationalizes the access restrictions imposed by the vexatious litigant framework.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Permission to initiate litigation or continue stayed litigation both test the merit of proposed Court activities on the same standard.",
+              "source_reference": "05102.rtf#rana-v-rana-para8"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link connects the general strategy (containing a vexatious litigant) to the specific legal test that must be met, providing a clear roadmap for both the restricted litigant and the party opposing their application for leave.",
+          "litigation_implications": [
+            "Arguments for or against a leave application must be structured around the two prongs of this test: reasonable grounds and full disclosure."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-transfer-framework-challenges-venue-presumption",
+        "source_node_id": "wf-r3-5-transfer-framework-unreasonable",
+        "target_node_id": "fp-r3-3-venue-presumption",
+        "relationship_type": "COUNTERS",
+        "description": "The discretionary transfer framework under Rule 3.5 is the primary mechanism used to challenge and rebut the presumption that a plaintiff's chosen venue is correct.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a defendant wishes to challenge the plaintiff's choice, the defendant must rebut that presumption and bears the burden of establishing that the plaintiff's choice was unreasonable.",
+              "source_reference": "05107.rtf#odland-v-odland-para19"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship defines the adversarial dynamic of a venue dispute. The plaintiff relies on the presumption as a shield, and the defendant uses the transfer framework as a sword to pierce it.",
+          "litigation_implications": [
+            "A defendant must use the tools within the R. 3.5 framework (i.e., the balance of convenience test) to generate enough evidence to overcome the R. 3.3 presumption."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-balance-of-convenience-operationalizes-transfer",
+        "source_node_id": "fp-r3-5-balance-of-convenience-test",
+        "target_node_id": "wf-r3-5-transfer-framework-unreasonable",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The multi-factor balance of convenience test provides the concrete legal standard and analytical tool to determine whether a venue is 'unreasonable' under the Rule 3.5 framework.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "We endorse the approach that reasonableness is determined on the balance of convenience...",
+              "source_reference": "05107.rtf#odland-v-odland-para20"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link connects the high-level rule to the practical test applied by the courts, showing litigators exactly what criteria they need to address in their arguments.",
+          "litigation_implications": [
+            "An application to transfer must be built around the factors of the balance of convenience test to have any prospect of success."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-counsel-location-trap-reinforces-boc-test",
+        "source_node_id": "pt-r3-5-counsel-location-irrelevant",
+        "target_node_id": "fp-r3-5-balance-of-convenience-test",
+        "relationship_type": "REINFORCES",
+        "description": "The rule that counsel's convenience is irrelevant reinforces the integrity of the balance of convenience test by ensuring it remains focused on the parties and witnesses, not the lawyers.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Generally, the location of counsel is not a decisive factor...",
+              "source_reference": "05107.rtf#odland-v-odland-para22"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This highlights a common error and reinforces what the test is *not* about, helping litigators avoid weak arguments and focus on what is persuasive to the court.",
+          "litigation_implications": [
+            "A party should never rely on their lawyer's location as a reason for or against a transfer."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-land-claim-transfer-modifies-venue-presumption",
+        "source_node_id": "cm-r3-4-defendant-demand-transfer-land",
+        "target_node_id": "fp-r3-3-venue-presumption",
+        "relationship_type": "MODIFIES",
+        "description": "The defendant's absolute right to demand a transfer in a land claim case under Rule 3.4 acts as a specific exception that overrides the general venue presumption of Rule 3.3.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite rule 3.3 [Determining the appropriate judicial centre], if possession of land is claimed...",
+              "source_reference": "05105.rtf#r3.4(1)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship shows a specific rule trumping a general one. In land possession cases, the defendant's right under R. 3.4 is paramount and bypasses the usual discretionary analysis.",
+          "litigation_implications": [
+            "In a land claim, the defendant's first step should be to check venue compliance for a R. 3.4 transfer, as it is a more powerful and certain remedy than a R. 3.5 application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-deadline-trap-requires-land-claim-transfer",
+        "source_node_id": "pt-r3-4-transfer-request-deadline",
+        "target_node_id": "cm-r3-4-defendant-demand-transfer-land",
+        "relationship_type": "REQUIRES",
+        "description": "The exercise of the right to demand a transfer in a land claim is strictly conditioned upon meeting the deadline of filing the request before the close of pleadings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The request must (a) be filed before close of pleadings...",
+              "source_reference": "05105.rtf#r3.4(3)(a)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This highlights the procedural gatekeeping for a powerful right. The right exists, but it is worthless if the procedural requirement (the deadline) is not met.",
+          "litigation_implications": [
+            "A defendant must be vigilant about this deadline to avoid forfeiting their right to control the venue."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-hearing-location-modifies-transfer-framework",
+        "source_node_id": "cm-r3-6-2-discretionary-hearing-location",
+        "target_node_id": "wf-r3-5-transfer-framework-unreasonable",
+        "relationship_type": "MODIFIES",
+        "description": "The power to set a hearing in a different location under Rule 3.6(2) offers a less drastic alternative to a full file transfer under Rule 3.5, modifying the strategic options available in a venue dispute.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite subrule (1), an application and an originating application may be heard or a trial may be held in any place specified by the Court other than the judicial centre.",
+              "source_reference": "05108.rtf#r3.6(2)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link illustrates tactical flexibility. It shows that a venue-related problem can be solved with a targeted tool (R. 3.6(2)) instead of the blunt instrument of a full transfer (R. 3.5).",
+          "litigation_implications": [
+            "If a motion to transfer under R. 3.5 seems unlikely to succeed, a party can argue in the alternative for relief under R. 3.6(2) to have a specific, inconvenient event heard elsewhere."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-application-venue-trap-requires-transfer-framework",
+        "source_node_id": "pt-r3-5-application-venue",
+        "target_node_id": "wf-r3-5-transfer-framework-unreasonable",
+        "relationship_type": "REQUIRES",
+        "description": "Properly initiating the transfer framework requires filing the application in the correct venue (the original centre), making this a mandatory procedural prerequisite.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Applications must be made in the judicial district in which the action was commenced...",
+              "source_reference": "05107.rtf#royal-trust-corp-case"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship underscores a critical, non-negotiable step. Failure to comply with this procedural requirement will prevent the merits of the transfer application from ever being heard.",
+          "litigation_implications": [
+            "A simple check of where the transfer application was filed can be a knockout blow to the application before any substantive argument begins."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-plaintiff-selection-reinforces-venue-presumption",
+        "source_node_id": "cm-r3-3-plaintiff-selection-power",
+        "target_node_id": "fp-r3-3-venue-presumption",
+        "relationship_type": "REINFORCES",
+        "description": "The plaintiff's explicit power to select a venue under Rule 3.3(1)(b) reinforces the strength of the venue presumption, as the choice is not arbitrary but is sanctioned by a specific rule.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the judicial centre that is, by road, the closest to the Alberta residence or Alberta place of business of one of the parties, that party being selected by the party starting the action.",
+              "source_reference": "05103.rtf#r3.3(1)(b)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link shows that the plaintiff's choice is not just a default but an exercise of a granted power, making the presumption harder for a defendant to overcome.",
+          "litigation_implications": [
+            "A plaintiff defending a venue choice should explicitly state that they were exercising their selection right under R. 3.3(1)(b), strengthening their position."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-party-agreement-counters-venue-presumption",
+        "source_node_id": "cm-r3-3-3-party-agreement-override",
+        "target_node_id": "fp-r3-3-venue-presumption",
+        "relationship_type": "COUNTERS",
+        "description": "A valid agreement between the parties on a judicial centre completely counters and displaces the default venue presumption established by the geographical rules.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite subrules (1) and (2), the parties may agree on a judicial centre...",
+              "source_reference": "05103.rtf#r3.3(3)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship highlights the supremacy of party autonomy over the default procedural rules. An agreement on venue is a powerful tool that removes the issue from dispute.",
+          "litigation_implications": [
+            "In the face of a venue challenge, producing a contract with a forum selection clause is a definitive countermeasure."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-post-judgment-transfer-modifies-hearing-location",
+        "source_node_id": "cm-r3-7-temporary-transfer-for-enforcement",
+        "target_node_id": "cm-r3-6-2-discretionary-hearing-location",
+        "relationship_type": "MODIFIES",
+        "description": "The specific mechanism for temporary post-judgment transfer for enforcement is a specialized application of the general principle that hearings can occur in different locations, but with a defined purpose (enforcement) and procedure.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...may request a temporary transfer of the action to a different judicial centre for purposes of an application to enforce the judgment or order.",
+              "source_reference": "05109.rtf#r3.7(1)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link shows a specific, purpose-driven rule that modifies a general discretionary power, providing a clear path for judgment creditors.",
+          "litigation_implications": [
+            "A judgment creditor should use the specific R. 3.7 procedure for enforcement rather than relying on the general discretion in R. 3.6(2)."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-nullity-counters-curative-power",
+        "source_node_id": "fp-r3-2-nullity-vs-irregularity",
+        "target_node_id": "cm-r3-2-6-curative-provision",
+        "relationship_type": "COUNTERS",
+        "description": "The principle of nullity acts as a hard counter to the court's curative power; if a proceeding is void from the start, there is nothing for Rule 3.2(6) to cure.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "suit commenced without leave given during a federally-legislated moratorium is a nullity.",
+              "source_reference": "page_0004.rtf#m-d-farm-case"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship establishes the ultimate trump card in a procedural fight over commencement. Proving nullity makes the plaintiff's reliance on the curative power irrelevant.",
+          "litigation_implications": [
+            "A defendant's primary argument against a curative order should be that the defect is so fundamental it creates a nullity, rendering the proceeding incurable."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-family-law-modifies-commencement-trap",
+        "source_node_id": "cm-r3-2-family-law-commencement-exception",
+        "target_node_id": "pt-r3-2-improper-commencement-form",
+        "relationship_type": "MODIFIES",
+        "description": "The mandatory Family Law commencement procedure creates a specific instance of the general trap of using the wrong form to start an action.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 12.16 provides that despite Rule 3.2, proceedings under the Family Law Act must be started by filing a Claim in Form FL-10.",
+              "source_reference": "05102.rtf#karas-v-mongeon-para22"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link highlights a domain-specific vulnerability. General practitioners who are unaware of this exception can easily fall into the trap.",
+          "litigation_implications": [
+            "In family law, using a standard Statement of Claim is an immediate procedural vulnerability that an opponent can exploit."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-oa-safe-harbor-counters-improper-form-trap",
+        "source_node_id": "cm-r3-2-2-oa-safe-harbor",
+        "target_node_id": "pt-r3-2-improper-commencement-form",
+        "relationship_type": "COUNTERS",
+        "description": "The 'safe harbor' provisions of Rule 3.2(2) provide a direct defense against an accusation that an Originating Application was an improper form of commencement.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A statement of claim must be used to start an action unless (a) there is no substantial factual dispute...",
+              "source_reference": "05101.rtf#r3.2(2)(a)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship models the primary defensive argument for a plaintiff using an OA. It allows them to affirmatively justify their procedural choice by pointing to the express authority in the rules.",
+          "litigation_implications": [
+            "A plaintiff defending the use of an OA must anchor their argument in one of the specific sub-rules of R. 3.2(2)."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-carries-on-business-operationalizes-venue-presumption",
+        "source_node_id": "fp-r3-3-carries-on-business-test",
+        "target_node_id": "fp-r3-3-venue-presumption",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The 'carries on business' test is a key component used to determine the proper venue for a corporate party, thereby operationalizing the conditions required to gain the benefit of the venue presumption.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In order to establish whether a significant connection exists in a particular case, it is necessary to examine the particular structure of the corporation's operations...",
+              "source_reference": "05104.rtf#apache-canada-para7"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link connects the abstract presumption to a concrete factual inquiry that is often the central battleground in corporate venue disputes.",
+          "litigation_implications": [
+            "To establish or rebut the venue presumption involving a corporation, arguments must address the factual elements of the 'carries on business' test."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-abusive-indicia-trap-modifies-leave-test",
+        "source_node_id": "pt-r3-2-leave-denied-abusive-indicia",
+        "target_node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "relationship_type": "MODIFIES",
+        "description": "The potential for a leave application to be denied for exhibiting indicia of abuse adds a qualitative, subjective layer to the otherwise objective test for leave.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... if the submissions exhibit indicia of abusive litigation...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link shows that the leave test isn't just about facial merit; it's also about the good faith and proper purpose of the proposed litigation.",
+          "litigation_implications": [
+            "An opponent can defeat a leave application by showing the proposed action is a continuation of a campaign of harassment, even if a technical cause of action is pleaded."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-refusal-to-file-trap-modifies-leave-test",
+        "source_node_id": "pt-r3-2-leave-denied-refusal-to-provide-filing",
+        "target_node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "relationship_type": "MODIFIES",
+        "description": "The mandatory requirement to provide the proposed filing acts as a procedural gatekeeper for the leave test; without it, the test cannot even be applied.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the abusive litigant refuses to provide the proposed filing...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This highlights a non-negotiable prerequisite for any leave application.",
+          "litigation_implications": [
+            "This is often the first and easiest checkpoint for an opponent to verify when served with a leave application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-021-false-info-trap-modifies-leave-test",
+        "source_node_id": "pt-r3-2-leave-denied-false-or-incomplete-info",
+        "target_node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "relationship_type": "MODIFIES",
+        "description": "The prohibition on false or incomplete information modifies the leave test by imposing a duty of candor on the applicant, failure of which is grounds for dismissal.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the abusive litigant provides false information or fails to provide necessary information...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-4"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link emphasizes that the process of seeking leave is itself a test of the litigant's conduct.",
+          "litigation_implications": [
+            "Attacking the credibility of the applicant's affidavit can be as effective as attacking the merits of their proposed claim."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-022-missing-materials-trap-modifies-leave-test",
+        "source_node_id": "pt-r3-2-leave-denied-missing-evaluation-materials",
+        "target_node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "relationship_type": "MODIFIES",
+        "description": "The requirement to provide all necessary evaluation materials (like transcripts) is a procedural condition that modifies the application of the leave test.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the abusive litigant fails to provide materials that are required to evaluate the proposed litigation step...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-5"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This ensures the court has a complete record, preventing the applicant from strategically omitting unfavorable documents.",
+          "litigation_implications": [
+            "For an appeal, the absence of the lower court's reasons or transcript is a fatal flaw in the leave application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-023-no-jurisdiction-trap-counters-leave-test",
+        "source_node_id": "pt-r3-2-leave-denied-no-jurisdiction",
+        "target_node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "relationship_type": "COUNTERS",
+        "description": "A lack of jurisdiction is a complete counter to a leave application, as a claim cannot have 'reasonable grounds' if the court lacks authority to hear it.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the Court has no jurisdiction over the matter...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-6"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This provides a knockout blow that bypasses any need to consider the merits of the proposed action.",
+          "litigation_implications": [
+            "Always conduct a jurisdictional analysis first when opposing a leave application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-024-no-standing-trap-counters-leave-test",
+        "source_node_id": "pt-r3-2-leave-denied-no-standing",
+        "target_node_id": "fp-r3-2-leave-test-vexatious-litigant",
+        "relationship_type": "COUNTERS",
+        "description": "A lack of standing is a complete counter to a leave application, as the applicant cannot establish 'reasonable grounds' for a claim they have no right to bring.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leave submissions to initiate or continue litigation may also be rejected: ... where the individual subject to court access restrictions does not have standing...",
+              "source_reference": "05102.rtf#rana-v-rana-para13-7"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This attacks the applicant's fundamental connection to the lawsuit, providing another path to dismissal without a hearing on the merits.",
+          "litigation_implications": [
+            "If the applicant is attempting to litigate on behalf of another or for a harm they did not suffer, a standing argument is a powerful tool to deny leave."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-025-revival-counters-struck-company",
+        "source_node_id": "cm-r3-2-corporate-revival-cure",
+        "target_node_id": "pt-r3-2-commencement-by-struck-company",
+        "relationship_type": "COUNTERS",
+        "description": "The ability to revive a struck company and have that revival retroactively cure the defect of its prior lack of legal personality is a direct countermeasure to an application to strike the claim as a nullity.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "So revival usually cures the defect.",
+              "source_reference": "page_0006.rtf#goska-nowak-ref"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship models the specific defense to a specific attack on a corporate plaintiff's existence, providing a clear path to remedy a potentially fatal procedural flaw.",
+          "litigation_implications": [
+            "A plaintiff company that is the subject of a motion to strike for being struck from the register should immediately commence revival proceedings to deploy this countermeasure."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-026-clerk-duty-modifies-improper-form-trap",
+        "source_node_id": "cm-r3-2-clerk-duty-to-file-defective-form",
+        "target_node_id": "pt-r3-2-improper-commencement-form",
+        "relationship_type": "MODIFIES",
+        "description": "The Clerk's duty to file formally defective documents modifies the improper commencement trap by ensuring the trap must be sprung by a judicial application from the opposing party, not by an administrative rejection at the court counter.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Clerk should not refuse to issue a statement of claim for defects in form.",
+              "source_reference": "page_0007.rtf#chamchuk-ref"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This link clarifies the proper forum for procedural battles. It prevents a defendant from benefiting from an administrative block and forces them to make their arguments for striking a pleading before a judge, where the plaintiff can simultaneously argue for a curative order.",
+          "litigation_implications": [
+            "This principle is a crucial tool for a plaintiff filing near a limitation period, as it allows them to secure a filing date even if the document has formal defects, forcing the fight over those defects into court."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-027-struck-company-is-a-nullity",
+        "source_node_id": "pt-r3-2-commencement-by-struck-company",
+        "target_node_id": "fp-r3-2-nullity-vs-irregularity",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "Commencing an action by a company with no legal status (i.e., struck off) is a prime example of a defect that renders the proceeding a nullity, rather than a mere irregularity, if not cured.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...a company struck off cannot start a suit...",
+              "source_reference": "page_0006.rtf#wolfe-v-shawcor-ref"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T00:30:00Z",
+          "strategic_rationale": "This relationship connects the specific trap to the overarching legal principle. It provides the legal foundation for a defendant's argument that the claim should be struck as void ab initio, not simply corrected.",
+          "litigation_implications": [
+            "A defendant's argument to strike a claim from a struck company should be framed as an issue of nullity, which is a more powerful argument than a mere procedural defect."
+          ],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-venue-control-gambit",
+        "title": "The Venue Control Gambit",
+        "objective": "For a defendant to seize control of the litigation venue from the plaintiff by forcing a transfer to a more favorable judicial centre.",
+        "prerequisites": [
+          "Plaintiff has commenced an action in a judicial centre that is inconvenient for the defendant."
+        ],
+        "expected_outcome": "The action is transferred to the defendant's preferred judicial centre, increasing costs and inconvenience for the plaintiff and providing a home-turf advantage to the defendant.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Analyze the Statement of Claim. If it includes a claim for possession of land, check if the action was filed in the centre closest to the land or your client's residence.",
+            "justification": "Despite rule 3.3 [Determining the appropriate judicial centre], if possession of land is claimed in a statement of claim that was not filed in (a) the judicial centre that is closest, by road, to the land, or (b) the judicial centre that is closest, by road, to the Alberta residence of a defendant...",
+            "node_refs": [
+              "cm-r3-4-defendant-demand-transfer-land"
+            ]
+          },
+          {
+            "step_number": 2,
+            "action": "If the conditions for a land claim transfer are met, immediately file a Form 6 Request to Transfer before filing a defence to exercise the non-discretionary right to move the action.",
+            "justification": "...a defendant may, by making a request in Form 6, require the court clerk...to transfer the action... The request must (a) be filed before close of pleadings...",
+            "node_refs": [
+              "cm-r3-4-defendant-demand-transfer-land",
+              "pt-r3-4-transfer-request-deadline"
+            ]
+          },
+          {
+            "step_number": 3,
+            "action": "If Rule 3.4 does not apply, build an evidentiary record for a discretionary transfer application under Rule 3.5. Gather evidence on the location of all key witnesses and parties.",
+            "justification": "The Court may order that an action be transferred...if the Court is satisfied that it would be unreasonable for the action to be carried on in the judicial centre in which it is located...",
+            "node_refs": [
+              "wf-r3-5-transfer-framework-unreasonable"
+            ]
+          },
+          {
+            "step_number": 4,
+            "action": "File the transfer application in the original judicial centre, arguing the 'balance of convenience' overwhelmingly favors the new location. Emphasize witness convenience and costs, while avoiding arguments about counsel's convenience.",
+            "justification": "The weight of authority is that rule 3.5 imposes a “balance of convenience” test... Generally, the location of counsel is not a decisive factor.",
+            "node_refs": [
+              "fp-r3-5-balance-of-convenience-test",
+              "pt-r3-5-counsel-location-irrelevant",
+              "pt-r3-5-application-venue"
+            ]
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-curative-commencement-rescue",
+        "title": "The Curative Commencement Rescue",
+        "objective": "For a plaintiff who has started an action in the wrong form (e.g., Originating Application with disputed facts) to rescue the action from being struck.",
+        "prerequisites": [
+          "Defendant has brought a motion to strike the action for being commenced in an improper form."
+        ],
+        "expected_outcome": "The Court issues a procedural order converting the action to the correct form (e.g., Originating Application becomes a Statement of Claim) and allowing it to continue, avoiding a dismissal.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Pre-emptive Step (if applicable): If filing near a limitation period and the Clerk refuses to accept the document for a formal defect, insist on the filing to secure the date, citing the Clerk's duty to file.",
+            "justification": "The Clerk should not refuse to issue a statement of claim for defects in form.",
+            "node_refs": [
+              "cm-r3-2-clerk-duty-to-file-defective-form"
+            ]
+          },
+          {
+            "step_number": 2,
+            "action": "Upon receiving the defendant's strike application, immediately concede the formal error in commencement.",
+            "justification": "Commencing a suit the wrong way is usually not fatal...",
+            "node_refs": [
+              "pt-r3-2-improper-commencement-form"
+            ]
+          },
+          {
+            "step_number": 3,
+            "action": "Bring a cross-application seeking a curative order under Rule 3.2(6) to correct the proceeding and allow it to continue in the proper form.",
+            "justification": "If an action that is started in one form should have been started or should continue in another, the Court may make any procedural order to correct and continue the proceeding...",
+            "node_refs": [
+              "cm-r3-2-6-curative-provision"
+            ]
+          },
+          {
+            "step_number": 4,
+            "action": "Argue that the defendant has suffered no prejudice that cannot be compensated by costs. Frame the issue as one of proportionality and efficiency, as striking the claim would only result in it being re-filed correctly, wasting time and resources.",
+            "justification": "It did not matter that an application was commenced as an appeal, rather than as judicial review; the proceeding could be converted into the proper form as long as there was no prejudice.",
+            "node_refs": [
+              "cm-r3-2-6-curative-provision"
+            ]
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-vexatious-litigant-containment",
+        "title": "The Vexatious Litigant Containment Protocol",
+        "objective": "To obtain a court order declaring an opposing party a vexatious litigant, thereby restricting their ability to initiate or continue litigation without leave of the court.",
+        "prerequisites": [
+          "Opposing party has a documented history of persistent, abusive, and meritless litigation."
+        ],
+        "expected_outcome": "A court order is granted under the Judicature Act, requiring the opponent to seek leave for any future court filings, effectively neutralizing their ability to use litigation as a tool of harassment.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Compile a comprehensive evidentiary record of the opponent's litigation history, highlighting every instance of repetitive, baseless, or abusive proceedings.",
+            "justification": "Vexatious litigant orders should only be made when other procedural techniques have proven to be inadequate and the offensive conduct is persistent.",
+            "node_refs": [
+              "wf-r3-2-vexatious-litigant-framework"
+            ]
+          },
+          {
+            "step_number": 2,
+            "action": "Initiate an application primarily under the Judicature Act, not the court's inherent jurisdiction.",
+            "justification": "The primary jurisdiction for awarding a vexatious litigant order is under the Judicature Act. Applications should prima facie be initiated pursuant to the statute...",
+            "node_refs": [
+              "wf-r3-2-vexatious-litigant-framework"
+            ]
+          },
+          {
+            "step_number": 3,
+            "action": "Serve the application on the respondent and the Attorney General, as required.",
+            "justification": "Applications for vexatious litigant orders are to be brought on notice to the respondent and the Attorney General...",
+            "node_refs": [
+              "wf-r3-2-vexatious-litigant-framework"
+            ]
+          },
+          {
+            "step_number": 4,
+            "action": "In argument, request restrictions that are proportional to the misconduct, such as requiring leave for new actions or even requiring payment of outstanding costs as a precondition.",
+            "justification": "Any restrictions imposed in a vexatious litigant order must be focused on the particular litigant, be proportional to the problematic conduct revealed by the record, and they should be incremental and adapted to the specific problem.",
+            "node_refs": [
+              "wf-r3-2-vexatious-litigant-framework"
+            ]
+          }
+        ]
+      },
+      {
+        "play_id": "tp-004-defeating-vexatious-leave-application",
+        "title": "The Vexatious Leave Application Kill-Shot",
+        "objective": "To defeat an application for leave brought by a declared vexatious litigant by systematically deploying a checklist of fatal procedural and substantive traps.",
+        "prerequisites": [
+          "A declared vexatious litigant has filed an application for leave to commence a new action."
+        ],
+        "expected_outcome": "The application for leave is dismissed with costs, preventing the vexatious litigant from initiating a new, meritless proceeding.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Initial Triage: Check for fundamental, non-curable defects. Does the court have jurisdiction? Does the applicant have standing? Has the applicant provided a copy of the proposed filing?",
+            "justification": "Leave submissions to initiate or continue litigation may also be rejected: ... where the Court has no jurisdiction over the matter... where the individual... does not have standing... where the abusive litigant refuses to provide the proposed filing...",
+            "node_refs": [
+              "pt-r3-2-leave-denied-no-jurisdiction",
+              "pt-r3-2-leave-denied-no-standing",
+              "pt-r3-2-leave-denied-refusal-to-provide-filing"
+            ]
+          },
+          {
+            "step_number": 2,
+            "action": "Record Integrity Check: If the proposed action is an appeal, verify that the applicant has filed the necessary transcripts and reasons for judgment from the lower court.",
+            "justification": "...where the abusive litigant fails to provide materials that are required to evaluate the proposed litigation step, such as a transcript of a proceeding proposed for appeal...",
+            "node_refs": [
+              "pt-r3-2-leave-denied-missing-evaluation-materials"
+            ]
+          },
+          {
+            "step_number": 3,
+            "action": "Credibility Attack: Scrutinize the applicant's supporting affidavit for any material misstatements, omissions, or outright falsehoods when compared to the known record.",
+            "justification": "...where the abusive litigant provides false information or fails to provide necessary information...",
+            "node_refs": [
+              "pt-r3-2-leave-denied-false-or-incomplete-info"
+            ]
+          },
+          {
+            "step_number": 4,
+            "action": "Substantive Attack: Argue that the proposed claim itself exhibits indicia of abuse (e.g., re-litigating old issues, targeting individuals for harassment) and fails to establish reasonable grounds for litigation.",
+            "justification": "...if the submissions exhibit indicia of abusive litigation... A person subject to Court access restrictions must: 1) establish reasonable grounds for the litigation...",
+            "node_refs": [
+              "pt-r3-2-leave-denied-abusive-indicia",
+              "fp-r3-2-leave-test-vexatious-litigant"
+            ]
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-improper-venue-challenge",
+        "title": "Simulation: The Improper Venue Challenge",
+        "scenario": "A Plaintiff corporation with its head office in Calgary commences an action in Calgary against a Defendant who resides and operates a business in Grande Prairie, where all matters in issue arose. The Plaintiff's choice of Calgary does not comply with Rule 3.3.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant's counsel identifies that the Plaintiff's choice of venue is improper under Rule 3.3 and that the presumption of correctness does not apply.",
+            "node_refs": [
+              "fp-r3-3-venue-presumption"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "Defendant files an application in the Calgary court to transfer the action to Grande Prairie, arguing that Calgary is an unreasonable venue.",
+            "node_refs": [
+              "wf-r3-5-transfer-framework-unreasonable",
+              "pt-r3-5-application-venue"
+            ]
+          },
+          {
+            "move_number": 3,
+            "description": "In the supporting affidavit, the Defendant details the balance of convenience factors: all witnesses are in Grande Prairie, all events occurred there, and travel to Calgary would impose significant financial hardship.",
+            "node_refs": [
+              "fp-r3-5-balance-of-convenience-test"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Plaintiff files a responding affidavit, arguing that its corporate records and key decision-makers are in Calgary and that modern technology (video conferencing) mitigates any travel inconvenience for witnesses.",
+            "node_refs": [
+              "fp-r3-5-balance-of-convenience-test"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "Plaintiff argues that since they did not comply with Rule 3.3, the onus is on them to show their choice was reasonable, and that the convenience to their head office makes the choice reasonable, even if not presumptive.",
+            "node_refs": [
+              "fp-r3-3-venue-presumption"
+            ]
+          }
+        ],
+        "decision_points": [
+          "The key decision point for the court is whether the Plaintiff's asserted convenience in Calgary is sufficient to make the choice 'reasonable', despite non-compliance with Rule 3.3 and the clear balance of convenience (witnesses, events) favoring Grande Prairie."
+        ],
+        "likely_resolution": "The court will likely grant the Defendant's application and transfer the action to Grande Prairie. The onus shifts to the Plaintiff when Rule 3.3 is not followed, and the balance of convenience heavily favors the location where the events arose and the witnesses reside. The Plaintiff's corporate convenience is a minor factor and will not outweigh the significant inconvenience to the Defendant and third-party witnesses."
+      },
+      {
+        "simulation_id": "cms-002-originating-application-conversion-battle",
+        "title": "Simulation: The Originating Application Conversion Battle",
+        "scenario": "A Plaintiff starts an action via Originating Application seeking a declaration about the interpretation of a contract. The Plaintiff asserts there are no material facts in dispute. The Defendant believes the Plaintiff's conduct leading up to the dispute is critical and constitutes a factual dispute.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant files a response to the Originating Application, including an affidavit that raises significant factual issues regarding pre-contractual representations and post-contractual conduct, directly contradicting the Plaintiff's narrative.",
+            "node_refs": [
+              "pt-r3-2-improper-commencement-form"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "Defendant brings an application to strike the Originating Application or, in the alternative, for an order converting it into a Statement of Claim, arguing that the presence of a 'substantial factual dispute' makes the summary procedure improper.",
+            "node_refs": [
+              "pt-r3-2-improper-commencement-form"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Plaintiff argues that the facts raised by the Defendant are not 'material' to the core issue of contractual interpretation and are merely an attempt to muddy the waters and delay a summary resolution.",
+            "node_refs": [
+              "cm-r3-2-2-oa-safe-harbor"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "In the alternative, if the court finds the factual disputes are material, the Plaintiff invokes the court's curative power and asks for an order under Rule 3.2(6) to convert the proceeding, rather than striking it, to save time and costs.",
+            "node_refs": [
+              "cm-r3-2-6-curative-provision"
+            ]
+          }
+        ],
+        "decision_points": [
+          "The court must first decide if the factual disputes raised by the Defendant are 'substantial' and 'material' to the legal issue. If they are, the court must then decide whether to strike the action entirely or exercise its discretion to cure the procedural defect by converting it."
+        ],
+        "likely_resolution": "The court will likely find that the conflicting affidavit evidence creates a substantial factual dispute requiring discovery and a trial. Rather than striking the action, which would be inefficient, the court will almost certainly exercise its curative power under Rule 3.2(6) and order the Originating Application to be converted. The Plaintiff will be ordered to file a Statement of Claim, the Defendant a Statement of Defence, and the action will proceed as a normal lawsuit. The Defendant will likely be awarded costs for the application."
+      },
+      {
+        "simulation_id": "cms-003-corporate-venue-attack",
+        "title": "Simulation: The Corporate Venue Attack",
+        "scenario": "A large corporation (Plaintiff) with its head office in Calgary sues a small supplier (Defendant) from Lethbridge. The lawsuit concerns a contract negotiated and performed entirely by the staff of the Plaintiff's Lethbridge regional office. The Plaintiff files the action in Calgary, citing its head office location.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant's counsel files an application to transfer the action to Lethbridge. The application argues that while the Plaintiff's head office is in Calgary, it 'carries on business' in Lethbridge for the purposes of this lawsuit.",
+            "node_refs": [
+              "wf-r3-5-transfer-framework-unreasonable"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "The Defendant's affidavit provides evidence that all negotiations, transactions, and interactions related to the lawsuit occurred at the Plaintiff's Lethbridge office, with Lethbridge-based employees. This establishes a 'significant connection' to Lethbridge.",
+            "node_refs": [
+              "fp-r3-3-carries-on-business-test"
+            ]
+          },
+          {
+            "move_number": 3,
+            "description": "The Defendant argues that based on the 'carries on business' test, the proper venue under Rule 3.3 is Lethbridge, and therefore the Plaintiff does not get the benefit of the venue presumption. The balance of convenience (witnesses, location of events) overwhelmingly favors Lethbridge.",
+            "node_refs": [
+              "fp-r3-3-venue-presumption",
+              "fp-r3-5-balance-of-convenience-test"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "The Plaintiff argues that its choice of Calgary is presumptively correct because it is the closest judicial centre to its primary 'place of business' (its head office).",
+            "node_refs": [
+              "fp-r3-3-venue-presumption"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "The Plaintiff argues that while some activities occurred in Lethbridge, all major decisions and contract approvals were made in Calgary, making it the location with the most significant connection to the dispute.",
+            "node_refs": [
+              "fp-r3-3-carries-on-business-test"
+            ]
+          }
+        ],
+        "decision_points": [
+          "The court must apply the fact-specific 'carries on business' test. The key question is whether the operational activities at the Lethbridge regional office create a more 'significant connection' to the lawsuit than the executive/administrative functions at the Calgary head office."
+        ],
+        "likely_resolution": "The court is highly likely to grant the transfer to Lethbridge. The commentary on *Apache Canada Ltd. v. Johnson* makes it clear that courts look beyond the head office to where the actual matters in issue arose. Since all transactions and interactions occurred in Lethbridge, it has the most significant connection. The Plaintiff will lose the benefit of the presumption, and the balance of convenience will clearly favor Lethbridge, where the defendant and most witnesses are located."
+      },
+      {
+        "simulation_id": "cms-004-corporate-revival-defense",
+        "title": "Simulation: The Corporate Revival Defense",
+        "scenario": "Plaintiff Corp. files a Statement of Claim against Defendant Inc. on the last day of a limitation period. During initial investigations, Defendant Inc.'s counsel discovers that Plaintiff Corp. was struck from the corporate register one month before the claim was filed for failure to file annual returns.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant Inc. files a motion to strike the Plaintiff's claim, arguing it is a nullity because Plaintiff Corp. lacked legal personality at the time of commencement.",
+            "node_refs": [
+              "pt-r3-2-commencement-by-struck-company"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "In its legal brief, Defendant Inc. argues that the action is void ab initio, and because the limitation period has now passed, the defect is incurable and the Plaintiff's claim is statute-barred.",
+            "node_refs": [
+              "fp-r3-2-nullity-vs-irregularity"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Upon receiving the motion, counsel for Plaintiff Corp. immediately files the necessary paperwork to have the company revived on the corporate register.",
+            "node_refs": [
+              "cm-r3-2-corporate-revival-cure"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "In response to the motion, Plaintiff Corp. provides evidence of the revival and argues that, according to established case law, the revival retroactively cures the defect in commencement.",
+            "node_refs": [
+              "cm-r3-2-corporate-revival-cure"
+            ]
+          },
+          {
+            "move_number": 3,
+            "description": "Plaintiff Corp. argues that the Defendant did not acquire a 'right' to a limitations defence that is protected from the effects of a corporate revival, and therefore the action should be allowed to continue.",
+            "node_refs": [
+              "cm-r3-2-corporate-revival-cure"
+            ]
+          }
+        ],
+        "decision_points": [
+          "The central issue is whether the revival of the company can retroactively validate an action that was a nullity when filed, particularly when a limitation period has passed in the interim."
+        ],
+        "likely_resolution": "The court will likely follow the principle that 'revival usually cures the defect.' The Defendant's motion to strike will be dismissed. The revival is treated as having retroactive effect, meaning the action is deemed to have been validly commenced on its original filing date, thus defeating the limitations defence. The Plaintiff will likely have to pay the costs of the motion due to their initial error."
+      }
+    ]
+  }
+}

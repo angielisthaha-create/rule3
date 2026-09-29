@@ -1,0 +1,238 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.19",
+  "title": {
+    "official": "Sending in certified record of proceedings",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.19(1)  On receipt of an originating application for judicial review\nand a notice in accordance with rule 3.18, the person or body\nnamed in the notice must, as soon as practicable,\n(a) comply with the notice and send to the court clerk a\ncertified record of proceedings in Form 9, or\n(b) provide in Form 9 a written explanation why the notice\ncannot be complied with or fully complied with.\n(2)  The certified record of proceedings sent to the court clerk\nunder this rule constitutes part of the court file of the originating\napplication.\n(3)  If the Court is not satisfied with the explanation for not sending\nall or part of the record of proceedings, the Court may order any or\nall of the following:\n(a) the person or body to provide a better explanation;\n(b) the person or body to send a certified copy of a record to\nthe court clerk;\n(c) the person or body to take any other action the Court\nconsiders appropriate.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "23ed645d2766111767bbca19c06b515892ec0303fa833f9dedf8a3e99f8051c0"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          57
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Sending in Certified Record of Proceedings",
+      "operative_text_raw": null,
+      "operative_text_sha256": "fe7a1e6aeeceff50973ff28947241718d77ae9ce90ea8e78efe1b8893e2b31f3",
+      "defined_terms": "Court, court clerk, prescribed form This is about how to comply with R.3.18. The tribunal has to send up the original of its complete record.The tribunal must send all papers in its return under R.3.19, and destroy none. There is no requirement to put the certified copy (\"return\") in sworn form, but it should be certified.How the contents are organized is a housekeeping matter for the King's Bench judge in charge, and a Court of Appeal should not interfere with that question. Nor to Rule 3.19 does not require the tribunal to create and file written reasons, if none exist. create a verbatim transcript from a statutory tribunal, and affidavits can be used to show whether there was evidence of something. The return need not contain papers subject to solicitor-client privilege, even if they were before the tribunal when it decided whether or not any legal opinion in these papers is correct. A tribunal has\"deliberative\"secrecy for the content of and substance of its decision making and deliberations, but not for the formal process which it established to ensure consistency. Where a tribunal learns that judicial review of its decision is pending, it should not of its own motion give a reconsideration as a way of producing additional reasons to shore up its original reasons. 1Caron v.Alta. Human Rts.& Citizenship Comm.2007 ABQB 200, 426 AR 370. 2TransAlta Generation P'ship. v.Balancing Pool etc.2012 ABQB 2, 73 Alta LR(5th) 189 (¶'s 58-59) (quoting this book). 3Quite similar to previous 1987 R.753.14, new in 1987. 4Patterson v. Alta.Dental Assn.2004 ABQB 210, 355 AR 116. 5Calg.Police Service Chief v.Info.& Privacy Comm'r.2018 ABCA 114, 30 Admin LR(6th) 45. Despite the statutory right to communicate with Alberta courts in French, and to get an interpreter, neither the tribunal being reviewed, nor the opponent before that tribunal, need translate their files into French for the applicant. A body need not file a Record for judicial review, if the body is not subject to judicial review. *Other CircumstancesWhen Record of Proceedings May Be Required*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-59",
+          "3-61"
+        ],
+        "offset_in_clean_text": [
+          187971,
+          192259
+        ]
+      },
+      "operative_text_note": "same wording as official 3.19(1)-(3) (read by eye) except: (3)(b) prints 'a certified copy of a record to be sent to the court clerk' where the official says 'a certified copy of a record to the court clerk' ('to be sent' added); the bracket label '[Notice to obtain record of proceedings]' after 'rule 3.18' (matches the official title of 3.18); the title in title case ('Sending in Certified Record of Proceedings'); missing spaces and '*' line marks; the footnote marker '1' printed before 'Defined Terms'. The lead-in of (3) is printed in two pieces out of order ('(3)If the Court is not satisfied with the explanation for not sending all or part of' at p.3-60 line 1595 and 'the record of proceedings,the Court may order any or all of the following:' at line 1588); read as the official. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). The dropped raw text also held the p.3-60 footnote blocks, printed between (1) and (2) and between (2) and (3); kept here verbatim because Book A's footnotes are not split out: '5C.U.P.E.v. Montreal (City)[1997] 1 SCR 793, 210 NR 101. 6Dhillon v. Gen.Faculty Council of the Univ.of Alta.1999 ABQB 635, 17 Admin LR(3d) 16. 7Pritchard v. Ont.Human Rts.Comm.(CA 2003) 167 OAC 356,affd2004 SCC 31, [2004] 1 SCR 809. 8See the C.P.E., Chapter 79, Part Q.2.There is an extended discussion both of deliberative privilege, and how to handle contested privilege claims for a return, inIMS Health Can.v.Info.& Privacy Comm'r.2005 ABCA 325, 376 AR 336. 9Johnson v. Appeals Comm.ofW.C.B.2011 ABCA 345, 515 AR 373 (¶'s 9-10). 2003 ABQB 551, 336 AR 1.But on notes made by an arbitrator, cf.Jamani v. Subway Franchise Sys.of 1Quite similar to previous 1987 R.753.13.It stemmed from 1914 Rr.827, 828;and 1944 C.R.865, 866; and Ont.Rr.1292-3 (1897, 1928).Quite similar to 1968 R.744. 2See the C.P.E., Chapter 79, Part Q.4.The return should include any internal policy of the tribunal that applied to the decision under review:WBA Mgmt.Socy. (W. Brewers Assn.) v.Beverage Container Mgmt.Bd.Can.2008 ABQB 438, 62 CPC(6th) 127.On the mechanics, see the C.P.E., Chapter 79, Part Q.2, 3. 3Dechant v.Law Socy. of Alta.2001 ABCA 284,affg and adopting(Alta 23 Oct '01) JDE 4803 116674. 4See the C.P.E., Chapter 79, Part Q.2.'",
+      "commentary_review_flag": "Read in full, p.3-59 (line 1577) to p.3-61 (line 1613): rule text, Defined Terms 'Court, court clerk, prescribed form' (Appendix defines 'Court', 'court clerk' (line 40697) and 'prescribed form' (line 41017)), the note (p.3-60 lines 1596-1604; p.3-61 line 1613) and footnotes as printed. The built record holds no commentary field for Book A 3.19: the Defined Terms line, the note and the p.3-61 footnotes are together in the defined_terms field (2,073 characters, nothing dropped); the p.3-60 footnotes are in the rule-text field (see the text note); the text ends with the title of 3.20 ('Other Circumstances When Record of Proceedings May Be Required', line 1615). No Related Provisions or information note is printed for 3.19. (1) Wording: (3)(b) has 'to be sent' added (see the text note). (2) Statements read against the official text: 'There is no requirement to put the certified copy (\"return\") in sworn form, but it should be certified' agrees with 3.19(1)(a) ('a certified record of proceedings in Form 9'; Form 9 is headed '[Rule 3.19]'); 'Rule 3.19 does not require the tribunal to create and file written reasons, if none exist' agrees with 3.18(2)(b) ('the reasons given for the decision or act, if any') and 3.19(1)(b) (written explanation); 'The tribunal has to send up the original of its complete record' - official 3.19(1)(a) says 'a certified record'; 'original' and 'destroy none' are Book A's words; 'A body need not file a Record for judicial review, if the body is not subject to judicial review' (p.3-61, line 1613) is the same point as the passage Book C quotes at the end of its commentary. (3) Pointers: 'See R.3.19n.' (in the 3.18 note, two footnotes) and 'the annotation to Rr.3.18 and 3.19' (3.15 note) land here; the range 'Rr.3.18 to 3.20 can be applied to R.3.14 by analogy under R.1.7' (3.18 note, p.3-59 line 1573; PAGE 59 marker line 1550) includes 3.19 without naming it, as does Book C's 121-140 passage (Campbell v. Chief Electoral Officer 2018 ABQB 248) that 'rules 3.18 to 3.20 can apply to originating applications for statutory reviews' (both are recorded in the 3.18 and 3.20 flags); 'C.P.E., Chapter 79, Part Q.2, Q.3, Q.4' point to another work; the history footnote 1 ('Quite similar to previous 1987 R.753.13 ... Quite similar to 1968 R.744') names former rules not in the official text; Book B's quotation ('Rules 743 and 744 [now R. 753.12 and 753.13]') ties 1968 R.744 to R.753.13 (agrees). (4) Footnotes as printed: p.3-60 5 C.U.P.E. v. Montreal; 6 Dhillon; 7 Pritchard; 8 C.P.E. and IMS Health Can. v. Info. & Privacy Comm'r. 2005 ABCA 325, 376 AR 336 (agrees with Book B's citation 2005 ABCA 325, 376 A.R. 336); 9 Johnson; then 1 (history), 2, 3 (Dechant), 4; p.3-61 1 Caron 2007 ABQB 200; 2 TransAlta Generation P'ship. v. Balancing Pool 2012 ABQB 2 ((¶'s 58-59) 'quoting this book'); 3 'Quite similar to previous 1987 R.753.14, new in 1987' (the history of 3.20); 4 Patterson; 5 Calg. Police Service Chief v. Info. & Privacy Comm'r. 2018 ABCA 114. Fragment '2003 ABQB 551, 336 AR 1.But on notes made by an arbitrator, cf. Jamani v. Subway Franchise Sys. of' (line 1589) starts with a citation whose name is not shown. Which footnote goes with which sentence is not shown; not counted. (5) Book A's 3.20 text (p.3-61, line 1617) prints '3.19 [Sending in certified copy of record of proceedings]', official title 'Sending in certified record of proceedings' ('copy of' added; the same label is in Book C's 3.20 text) - to be settled in the 3.20 pass. (6) Statements of law (privilege, deliberative secrecy, reconsideration, French translation) and the cases were not checked."
+    },
+    "BOOK_B": {
+      "title": "Sending in certified record of proceedings",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.19:1",
+          "text": "Rule 3.19 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.19. 1. The Return In IMS Health Canada Ltd. v. Information and Privacy Commissioner, 2005 ABCA 325, 2005 CarswellAlta 1416, 376 A.R. 336, 53 Alta. L.R. (4th) 201, Ritter J.A. discussed what must be returned under Rule 753.13. In that case, the Alberta Information and Privacy Commissioner had decided to investigate certain disclosures made by pharmacies to IMS Health Canada Ltd. (a company that collected and analyzed information concerning health care). IMS sought judicial review of the Commissioner's decision, and a dispute arose over what should be included in the Commissioner's return to the Court. At pp. 347-351, his Lordship said: Two points can be drawn from these decisions. First, “the matter” to be touched upon is the decision itself or the hearing that led to the decision. Only what was before the decision-maker at the hearing forms the return. Second, there must be a basis or reason for including a paper or document in the record. I will examine each of these propositions. 1. — What is “the matter” being touched upon? What is in issue? “The matter” is determined by what has been put in issue by the originating notice. In many instances what is in issue will be the ultimate decision made by a decision-maker. However, in some judicial reviews the substantive decisions are not the only focus of an attack; challenges can be made to procedural choices and prior, related decisions. To the extent that Broda and Robertson seem to have limited “the matter” to the ultimate decision, I disagree with that conclusion. . . . . . Support for the conclusion that “the matter” is to be determined by what an applicant has put into issue is found in Ady v. Law Society of Alberta (1994), 29 Admin. L.R. (2d) 56 (Alta. C.A.). In Ady the issue was whether the return should have included material relating to decisions made at a lower level of a chain of decision-makers. This court held that as Ady's originating motion addressed the decision of the Hearing Committee but did not request a review of the initial decision of the Conduct Committee, he was barred from “extending through the back door” any additional records relating to the prior, included decision of the Conduct Committee. At paras. 4 and 11-12 the panel stated: We note that the originating motion before the Queen's Bench asks for statutory review of the decision of the Hearing Committee to discipline Mr. Ady. It does not seek statutory review of earlier decisions by the deputy secretary or the Conduct Committee, decisions that may or may not have led to the hearing before the Hearing Committee … Mr. Ady argues that the real object of his original application was the Law Society itself, not the decision of the Hearing Committee, and that the entire matter is all one proceeding. We do not agree. His motion does not say that and, even if it did, we would be inclined to require a more specific attack. These statements suggest that had the earlier decision of the Conduct Committee been placed in issue by Ady, the return may have had to include the papers or documents required to deal with that issue. … The threshold for allegations of differential treatment Administrative decision-makers are to be granted limited deliberative secrecy: Tremblay v. Commission des affaires sociales et autre, [1992] 1 S.C.R. 952, 136 N.R. 5, 47 Q.A.C. 169. The ability to draw conclusions untrammelled by any concern of subsequent disclosure of the thought process and the ability to change those thoughts after further reflection without fear of subsequent criticism or explanation are necessary elements to decision-making: Glengarry Memorial Hospital v. Pay Equity Hearings Tribunal (Ont.) et al. (1993), 60 O.A.C. 161, 99 D.L.R. (4th) 682 (Div. Ct.); leave to appeal denied on this issue (1993), 99 D.L.R. (4th) 706 (Ont. Div. Ct.); see also Ron Ellis and Paul Atterma, Deliberative Secrecy and Adjudicative Independence: The Glengarry Precipice, (1994) 7 C.J.A.L.P. 171. These principles are relevant to an examination of the investigative decision. Deliberative secrecy is not absolute; it must be balanced with deliberative openness. To ensure that a balance is kept, simple allegations or speculation of differential treatment or unfairness are insufficient; a threshold must be met. Such a threshold must include a factual foundation for the allegation in the originating motion. Support for the use of a threshold exists in the British Columbia Court of Appeal decisions of Kuntz v. College of Physicians and Surgeons (B.C.) (1996), 73 B.C.A.C. 167, 120 W.A.C. 167, 21 B.C.L.R. (3d) 219 (C.A.) and Hammami v. College of Physicians and Surgeons (B.C.) (1996), 73 B.C.A.C. 205, 120 W.A.C. 205, 21 B.C.L.R. (3d) 267 (C.A.). In these companion cases, the court held that for a further, more comprehensive production of records for judicial review, there must be an evidentiary basis and the allegations must not be intended to “investigate the possibility”. Similarly, in Tremblay at p. 966 [S.C.R.], the Supreme Court also established a threshold for piercing the veil of deliberative secrecy: by the very nature of the control exercised over their decisions administrative tribunals cannot rely on deliberative secrecy to the same extent as judicial tribunals. Of course, secrecy remains the rule, but it may nonetheless be lifted when the litigant can present valid reasons for believing that the process followed did not comply with the rules of natural justice. In Waverley (Village Commissioners) et al. v. Kerr et al. (1994), 129 N.S.R. (2d) 298, 362 A.P.R. 298, the Nova Scotia Court of Appeal used similar wording to establish a threshold: A distinction exists between discovery, which is a somewhat unfocussed fact gathering exercise, and the examination of witnesses in the course of a judicial review, when issues are more defined and questions must be relevant to them. In either case, discovery or testimony, a proper evidentiary foundation must be created, generally by affidavit evidence, to establish that valid reasons exist for concern that there has been a want of natural justice or procedural fairness, or that the discretionary authority has been otherwise exceeded. Thus a party must show that there is a valid reason for belief in the allegation before records related to that matter must be included in the return. A valid reason for belief can be shown by affidavit. Another way in which a valid reason for belief is established is through the actions or admissions of a decision-maker. … 2. — What does “touching” the matter mean? What constitutes something which “touches” the matter? I conclude that the items which “touch” the matter are broader than the items specifically enumerated in rule 753.13(1)(a)(b) and (c). If rule 753.13(1)(d) were limited to the items specifically enumerated, the use of the term “touching the matter” would be unnecessary. The phrase “touching the matter” was originally included in rule 200(1) which allowed parties at examination for discovery to examine other parties on anything “touching the matters in question”. On November 1, 1999 this phrase was replaced with the test of relevance and materiality. In this context, there is substantial case law giving the phrase a broad and expansive meaning. In Canadian Utilities Ltd. v. Mannix Ltd. et al. (1959), 27 W.W.R. (N.S.) 508 (Alta. T.D.), at p. 521, Riley, J., held that the discovery rules permitted greater latitude than that permitted by the rules of admissibility at trial. The term “touching the matters in question” was found to be broader in scope than “material” and “relevant”. Justice Haddad took a similar approach in Czuy v. Mitchell et al. (1976), 1 A.R. 434, 72 D.L.R. (3d) 424 (C.A.), at p. 427-429. He concluded that questions which were relevant to the matters in issue or which could possibly affect the issues between the parties, were questions which touched the matters in question. Prior to 1977, British Columbia's discovery rules also contained the phrase “touching the matters in question.” Again, the phrase was broadly interpreted. Relevant questions, and even potentially relevant questions, touch the matters in question: see Hopper v. Dunsmuir (1903), 10 B.C.R. 23 (C.A.); Wismer v. Maclean-Hunter Publishing Co. and Fraser No. 2 (1953), 10 W.W.R.(N.S.) 625 (B.C.C.A.); Cominco Ltd. v. Westinghouse Canada Ltd. (1979), 11 B.C.L.R. 142 (C.A.). Other courts have also broadly interpreted similar phrases. In Saskatchewan, rule 222 permits oral discovery “touching the matters in issue in the action”. The interpretation of this phrase is consistent with that in British Columbia and Alberta. Something less than materiality or relevance is required: see R. and Minister of Highways v. Wells (W.C.) Construction Co. (1969), 72 W.W.R.(N.S.) 121 (Sask. Q.B.); Cominco Ltd. v. Phillips Cables Ltd. et al., [1987] 3 W.W.R. 562, 54 Sask.R. 134 (C.A.); Steier et al. v. University Hospital Board et al., [1988] 4 W.W.R. 303, 67 Sask. R. 81 (C.A.). In Compagnie Financière et Commerciale du Pacifique v. Peruvian Guano Co. (1882), 11 Q.B.D. 55 (C.A.), the English Court of Appeal interpreted the phrase “relating to any matter in question” in Order XXXI rule 12. The court held at p. 62-65 that the phrase included documents: … which not only would be evidence upon any issue, but also which, it is reasonable to suppose, contains information which may—not which must—either directly or indirectly enable the party requiring the affidavit to advance his own case, or to damage the case of his adversary … a document can properly be said to contain information which may enable the party requiring the affidavit to either advance his own case or to damage the case of his adversary, if it is a document which may fairly lead him to a train of inquiry… These interpretations provide some guidance. Concerns about far ranging returns are alleviated by the fact that the return is only directed at what is in issue. Moreover, in circumstances where the administrative decision-maker is insulated from investigative and other preliminary processes, the decision-maker will not possess documents relating to those functions and cannot be expected to include them in the return. Demands for more expansive returns cannot become fishing expeditions because the party attacking administrative decisions will not be granted access to the documents unless they have raised a valid reason for belief in the allegations underlying their attack. The Commissioner is required to include in his return all things which touch on the issue of his decision to conduct an investigation and to issue an order relating only to the disclosures made by pharmacists and pharmacies to IMS. 2. Transcript or Recording Must Be Forwarded The words of Rule 753.13(1) are quite broad and equally clear: “the judgment, order or decision, as the case may be, together with the process commencing the proceedings, the evidence and all exhibits filed, if any, and all things touching the matter and the notice served on him…” This is sufficiently broad to include the transcript and any evidence considered by the tribunal. If a transcript is not available, but the proceedings were mechanically or otherwise recorded, submission of such records would be sufficient to comply with the Rules. Friends of the Old Man River Society v. Assn. of Professional Engineers, Geologists & Geophysicists (Alberta) (1997), 55 Alta. L.R. (3d) 373 (Q.B.), at p. 406, per Cooke J. 3. The Meaning of “All other papers …” In Robertson v. Edmonton (City) Police Service, 2004 ABQB 243, 2004 CarswellAlta 511, 355 A.R. 281, 39 Alta. L.R. (4th) 239, Slatter J. said, at p. 298: The requirement to produce “all other papers or documents touching the matter” does not mean that the tribunal has to make full disclosure of all records in its possession or power. For the purposes of the Return the “matter” is the decision and the way it was made. Generally only documents that were actually before the decision-maker at the time the decision was made need be included: Broda v. Edmonton (City), supra, at paras. 6-12; Labour Relations Board (Alta.) v. International Brotherhood of Electrical Workers, Local 1007 (1991), 83 Alta. L.R. (2d) 253, § 18 (Q.B.); Ady v. Law Society of Alberta (1994), 29 Admin. L.R. (2d) 56, (C.A.). 4. No Right of Examination except under the Rules In Operative Plasterers' and Cement Masons' International Association of the United States and Canada, Local 222 v. Alberta, 2007 ABQB 34, 2007 CarswellAlta 77, 413 A.R. 184, Bielby J. said, at p. 187: In the absence of a Rule of Court or other statutory authority authorizing same, the Applicants are not entitled to conduct an examination as if for discovery of the party who certified the contents of a Return filed in relation to an application for judicial review. Her Ladyship then said, at pp. 191-192: There is no requirement in the Rules of Court nor elsewhere that the Crown submit to an examination or cross-examination on the contents of a Return. The subject of the contents of the Return may be canvassed during the course of a Rule 266 examination, however."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_19_001",
+        "part3_part_3_court_actions_010",
+        "part3_rule_3_19_002",
+        "part3_part_3_court_actions_012"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "0b886d43d663a1236083798aff09760a6a8c0fac3e0cf105dacb2771fa6f8073",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Sending in certified record of proceedings",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "078e40dd611eef5eb6dceec0daf693f808652228ebf065cb160f676aabad20ff",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule works in conjunction with rule 3.18. It mandates the return of a Form 9 certified record of proceedings or an explanation as to why compliance is partially or fully impossible. The purpose is to obtain the record of what was before the decision-maker so that the court will have the same record as the basis for its review of the decision.\n[2004] O.J. No. 4351 (Ont. Div. Ct.), when stating: “[a] record need not be produced if the body and act in question were not subject to judicial review and the time to make that determination was prior to the hearing of the full review application.”",
+          "citations": [],
+          "review_flag": "(1) The first paragraph agrees with official 3.19(1)(a)-(b) ('a Form 9 certified record of proceedings or an explanation as to why compliance is partially or fully impossible') and 'This rule works in conjunction with rule 3.18'. (2) The second paragraph begins with a citation fragment '[2004] O.J. No. 4351 (Ont. Div. Ct.), when stating: \"[a] record need not be produced if the body and act in question were not subject to judicial review and the time to make that determination was prior to the hearing of the full review application.\"': the case name and the words that led into it are missing (the paragraph starts inside a citation; '4351' appears in no other book file searched: Book A, Book B, Book C). Book A's sentence 'A body need not file a Record for judicial review, if the body is not subject to judicial review' (p.3-61, line 1613) is the same point in other words."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same wording as official 3.19(1)-(3) (read by eye) except that the bracket label '[Notice to obtain record of proceedings]' is printed after 'named in the' instead of after 'rule 3.18' (with a stray space before the comma after 'rule 3.18'), and the subrule (3) paragraphs run together. The amendment note '[Alta. Reg. 124/2010, r. 3.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.4732,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.19(1)-(3) (read by eye) except: (3)(b) prints 'a certified copy of a record to be sent to the court clerk' where the official says 'a certified copy of a record to the court clerk' ('to be sent' added); the bracket label '[Notice to obtain record of proceedings]' after 'rule 3.18' (matches the official title of 3.18); the title in title case ('Sending in Certified Record of Proceedings'); missing spaces and '*' line marks; the footnote marker '1' printed before 'Defined Terms'. The lead-in of (3) is printed in two pieces out of order ('(3)If the Court is not satisfied with the explanation for not sending all or part of' at p.3-60 line 1595 and 'the record of proceedings,the Court may order any or all of the following:' at line 1588); read as the official. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). The dropped raw text also held the p.3-60 footnote blocks, printed between (1) and (2) and between (2) and (3); kept here verbatim because Book A's footnotes are not split out: '5C.U.P.E.v. Montreal (City)[1997] 1 SCR 793, 210 NR 101. 6Dhillon v. Gen.Faculty Council of the Univ.of Alta.1999 ABQB 635, 17 Admin LR(3d) 16. 7Pritchard v. Ont.Human Rts.Comm.(CA 2003) 167 OAC 356,affd2004 SCC 31, [2004] 1 SCR 809. 8See the C.P.E., Chapter 79, Part Q.2.There is an extended discussion both of deliberative privilege, and how to handle contested privilege claims for a return, inIMS Health Can.v.Info.& Privacy Comm'r.2005 ABCA 325, 376 AR 336. 9Johnson v. Appeals Comm.ofW.C.B.2011 ABCA 345, 515 AR 373 (¶'s 9-10). 2003 ABQB 551, 336 AR 1.But on notes made by an arbitrator, cf.Jamani v. Subway Franchise Sys.of 1Quite similar to previous 1987 R.753.13.It stemmed from 1914 Rr.827, 828;and 1944 C.R.865, 866; and Ont.Rr.1292-3 (1897, 1928).Quite similar to 1968 R.744. 2See the C.P.E., Chapter 79, Part Q.4.The return should include any internal policy of the tribunal that applied to the decision under review:WBA Mgmt.Socy. (W. Brewers Assn.) v.Beverage Container Mgmt.Bd.Can.2008 ABQB 438, 62 CPC(6th) 127.On the mechanics, see the C.P.E., Chapter 79, Part Q.2, 3. 3Dechant v.Law Socy. of Alta.2001 ABCA 284,affg and adopting(Alta 23 Oct '01) JDE 4803 116674. 4See the C.P.E., Chapter 79, Part Q.2.'"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.19(1)-(3) (read by eye) except that the bracket label '[Notice to obtain record of proceedings]' is printed after 'named in the' instead of after 'rule 3.18' (with a stray space before the comma after 'rule 3.18'), and the subrule (3) paragraphs run together. The amendment note '[Alta. Reg. 124/2010, r. 3.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.19",
+      "title_official": "Sending in certified record of proceedings"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "fe7a1e6aeeceff50973ff28947241718d77ae9ce90ea8e78efe1b8893e2b31f3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-59",
+            "3-61"
+          ],
+          "offset_in_clean_text": [
+            187971,
+            192259
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "0b886d43d663a1236083798aff09760a6a8c0fac3e0cf105dacb2771fa6f8073",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "078e40dd611eef5eb6dceec0daf693f808652228ebf065cb160f676aabad20ff",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "23ed645d2766111767bbca19c06b515892ec0303fa833f9dedf8a3e99f8051c0",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            57
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "bb11c8691457dd3e6a1217b86e0e758ff65bc529a7b6980be267b6870889b46d"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule3_part02_document.json 3.20 text ('rules 3.18(3) and 3.19 apply'); no other Book B file cites 3.19 by number. BOOK_C 101-120 file (3.18 commentary 'This rule works in conjunction with rule 3.19') and 121-140 file (3.20 text with the labels '[Notice to obtain record of proceedings] [Sending in certified copy o...]'). BOOK_B 3.19: rule text (paragraph part3_part_3_court_actions_010) equal to the official; no amendment note; one commentary section 'Commentary § 3.19:1' (13,200 characters, READ IN FULL): four numbered parts, no gap: 1 The Return (IMS Health Canada v. Information and Privacy Commissioner, 2005 ABCA 325, quoted at length, with its internal parts 1 'What is the matter being touched upon?' and 2 'What does touching the matter mean?'; Ady v. Law Society of Alberta), 2 Transcript or Recording Must Be Forwarded (Friends of the Old Man River Society), 3 The Meaning of 'All other papers ...' (Robertson v. Edmonton (City) Police Service, 2004 ABQB 243), 4 No Right of Examination except under the Rules (Operative Plasterers ... Local 222 v. Alberta, 2007 ABQB 34). It applies the former Rule 753.13 and 'Rule 266' and is not compared with the current 3.19. Same neutral citations as Book A: IMS Health 2005 ABCA 325 (376 AR 336) and Robertson 2004 ABQB 243 (355 AR 281). BOOK_C 3.19: rule text NORMALIZATION_ONLY_DIFFERENCE (label displaced; noted); amendment note agrees with the official; commentary kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.15 note p.3-42 (line 1016, footnote 7) 'See the annotation to Rr.3.18 and 3.19, infra'; 3.18 note p.3-59 (lines 1555 and 1563) 'See R.3.19n.' (twice; lands); 3.20 text p.3-61 (line 1617) '3.19 [Sending in certified copy of record of proceedings]' (label differs from the official title, see the flag); 3.22 note p.3-64 (line 1698; the built segment of 3.22 runs from its marker at line 1635 to 3.23's at line 1724) '... a return under Rr.3.19 and 3.20. The Court should not have to guess whether a return would ha[ve]'.",
+    "OFFICIAL text (searched for 'rule 3.19', 'rules 3.19', lists, line-wrapped forms and form headings): 3.20(3) ('rules 3.18(3) and 3.19 apply, unless the Court otherwise orders'); Form 9 is headed '[Rule 3.19]'; Form 9 (Certified Record of Proceedings; its item 3 says 'I certify that I have attached all records as required by rule 3.19(1)': the wrapped text is on lines 21010-21011, on pdf page 360 (marker at line 20996) whose running head reads 'Form 10' (line 21000); Form 10 itself is headed '[Rule 3.25]', line 21016); the other hit is the running page header. By subject (read): 3.18 (notice in Form 8), 3.20 (order for production where the application is not to set aside), Appendix 'court clerk' and 'prescribed form'. The Schedule A table of forms (official lines 20212 ff., Division 1, 'Forms for Parts 2 to 11 and 13') lists 'Certified Record of Proceedings' with rule '3.19' as Form 9 (official line 20249)."
+  ],
+  "dedupe_log": [
+    "3.19 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.19 BOOK_C commentary sentence split dropped",
+    "3.19 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.19 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.19 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

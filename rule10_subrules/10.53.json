@@ -1,0 +1,714 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.53",
+  "title": {
+    "official": "Punishment for civil contempt of Court",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Sanctions"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Civil Contempt of Court"
+  },
+  "operative_text": {
+    "controlling": "10.53(1)  Every person declared to be in civil contempt of Court is\nliable to any one or more of the following penalties or sanctions in\nthe discretion of a judge:\n(a) imprisonment until the person has purged the person’s\ncontempt;\n(b) imprisonment for not more than 2 years;\n(c) a fine and, in default of paying the fine, imprisonment for\nnot more than 6 months;\n(d) if the person is a party to an action, application or\nproceeding, an order that\n(i) all or part of a commencement document, affidavit or\npleading be struck out,\n(ii) an action or an application be stayed,\n(iii) a claim, action, defence, application or proceeding be\ndismissed, or judgment be entered or an order be\nmade, or\n(iv) a record or evidence be prohibited from being used\nor entered in an application, proceeding or at trial.\n(2)  The Court may also make a costs award against a person\ndeclared to be in civil contempt of Court.\n(3)  If a person declared to be in civil contempt of Court purges the\nperson’s contempt, the Court may waive or suspend any penalty or\nsanction.\n(4)  The judge who imposed a penalty or sanction for civil\ncontempt may, on notice to the person concerned, increase, vary or\nremit the penalty or sanction.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "c299c481b1f8b007b1fe10716252f44bae3d8bdf7b1ddb219ebacc83d10e75ca"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.53 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.53 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is printed under the Division heading 'Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS', which is wrong for this rule: official 10.53 is in Division 4 'Sanctions', Subdivision 2 'Civil Contempt of Court'."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          221
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Punishment for Civil Contempt of Court",
+      "operative_text_raw": null,
+      "operative_text_sha256": "235ad162d4ceb7ab9062efb1a4a037713a1e3283ed119b8865fdcff97b6c954e",
+      "related_provisions": "5.12 (penalty for failure to serve affidavit of records) ; 10.33(2) (f) (costs for non-compliance with rules or orders); 10.50 (costs payable by lawyer) ; 10.52 (declaration of civil contempt)",
+      "commentary": "pleading, record\nA. Introduction\nGenerally on penalties for contempt, see the discussion and authorities in the textbooks.¹\nThe penalty for contempt is not limited to what is listed in R.10.53. The Court may substitute\na more comprehensive simpler ban harder to argue about.²\nContempt is intended both to punish and to end the wrong conduct.³\nAnd to deter such\nmisconduct by others.⁴\nOne must remember that contempt is not the only way to enforce a court order. In many\ncases the Civil Enforcement Act will offer a variety of remedies, either instead or in addition. And\nif someone fails to convey property as ordered, the court may authorize a court ofﬁcial to sign the\nconveyance.⁵\nSee further R.10.52 n. M.\nOn whether part of R.10.53 is unconstitutional, see the reference to litigation in the Turkawski\ncase.⁶\nB. Penalties\n1. Aims and Aggravation\nA number of criteria for sentencing and weight of penalty are reviewed.⁷\nContinuing earlier\ndeliberate deﬁance, with little attempt to purge the contempt, and stubbornness, and refusal to\npay any costs, were bad⁸\nand led to striking out the contemnor's pleadings.⁹\nFurthermore, both the common law and Rr.10.53(1) (a), 10.53(3) and 10.53(4) allow the\ncourt to suspend, end, vary, or remit a penalty for contempt.¹⁰\nThat can be done to encourage\nbelated obedience by the contemnor and encourage his or her undoing the effects of his or\nher contempt.¹¹\nOr it can be done retroactively to give him or her credit for such restitution or\n\nrepentance.¹\nEncouraging compliance (rather than punishing) is important where the contempt\nwas failure to give discovery.²\nIf there is no public deﬁance, contempt is usually more a matter of enforcement than of\npunishment, though orders often properly seek to do both.³\nIf a penalty is imposed for a continuing\ndisobedience, it is useful for the court to indicate how much of that penalty is for the past and so\nirrevocable, and how much is for the future and so might be reduced or discharged if there is later\nobedience.⁴\nBut continued deliberate and dishonest disobedience produces a need for a penalty\nto deter the miscreant and others tempted to do the same.⁵\nAggravating circumstances for a higher penalty include being a lawyer, the potential beneﬁts\n(savings) of disobedience, public nature of the contempt, the harm done to the opposing party\n(including thrown-away costs) and to the court (though compensation is not a licensing fee or\nsubstitute for the penalty), the motive for disobeying, other consequences, the context, the degree\nof culpability of each person, the nature of the contempt, whether the disobedience was reported,\nknowledge and understanding, displays of deﬁance, effects on the public, need for deterrence,\nand ability to pay.⁶\nThat a party (eventually and reluctantly) purged his contempt and ﬁnally obeyed an order, is\nno reason to decline to decide whether he had been in contempt before that. Purging is relevant\nonly to the size of the penalty.⁷\nA continuing failure to obey a mandatory order (e. g. to produce items) is not a continuing\ncontempt allowing repeated convictions, nor allowing additions to an existing ﬁxed-length jail\nsentence. A new conviction requires a new actus reus. But if the injunction is negative, a new act\nis a new actus reus.⁸\nAn indeﬁnite sentence until the contempt is purged may be appropriate.⁹\nAnd breach of more court orders after the contempt conviction is relevant too.¹⁰\n\n2. Jail¹\nIt was sometimes suggested that jail is not imposed in Alberta for contempt, but that is not\ncorrect. Most such sentences are merely not in writing or reported; some have no recorded\nreasons, especially as the reasons are oral.²\nA few days’ jail for breach of a restraining order is\ncommon, and in many cases time in custody is imposed after someone has been arrested while\nbreaching an order.³\nNinety days in jail plus community service, was imposed on a disbarred\nlawyer who very persistently for years kept practising law despite court orders forbidding that.⁴\nEven indeterminate jail sentences are known, and the only limit is 5 years (because there is a\nright to a jury over 5 years).⁵\nThere is full power to order community service as a penalty, and it need not be structured as\na condition (e. g. for remission of jail).⁶\nThe court has inherent power to impose other remedies or punishments not listed in the Rules\nof Court for contempt, so long as they meet judicial criteria.⁷\n3. Fines\nFines are important penalties for contempt of court, though ability to pay and surrounding\ncircumstances must be carefully looked at; some case law reviewed.⁸\nFinancial penalties under R.10.49(1) and R.10.53(1) (c) are to be paid to the Government of\nAlberta, not to individual litigants.⁹\nThere is no longer any ceiling on the ﬁne which may be imposed.¹⁰\n$400, 000 was upheld for\ntwo public contempts in the United Nurses case.¹¹\n$400, 000 ﬁne for a single instance of civil\ncontempt was too high. Its publicity and the intent are not relevant if the conviction is for civil, not\n\ncriminal, contempt. The ﬁne was cut to $200, 000.¹\nFor wrongly gaining revenues of $6 million, the\ncontemnor paid a $500, 000 ﬁne plus full indemnity costs, plus $29, 000 paid under a settlement to\nbe repaid.²\nBreach of an Alberta injunction against pursuing proceedings abroad led to a further\nAlberta order to abandon both those proceedings, on threat of $1 million ﬁne (plus $10, 000 a\nday).³\nFlagrant and repeated disobedience of a court order (by self-represented parties), here led\nto a $1000 ﬁne (payable to the Clerk), plus full-indemnity costs. In default of payment of either,\nthe upcoming summary judgment motion by the parties would be stayed and not re-scheduled\nwithout such payments (despite long waits to get that scheduled date).⁴\nFor continuing long-standing failure to obey a court order to produce certain records, a ﬁne of\n$1, 500 was imposed, plus $100 extra for each future calendar day until full compliance.⁵\nIt was proper to use a large ﬁne paid for contempt of court in a civil matter, to pay the\npsychologists involved in treating the children, but the father paying the ﬁne was not to be\nconsidered to have paid for that counselling. He paid the court as punishment.⁶\nEven with continued contempt (disobeying court orders), another judge cannot vary a contempt\npenalty set by the ﬁrst judge.⁷\n4. Procedural Penalties\nSee also Part D below.\nPleadings are often struck out,⁸\nor an action is commonly stayed,⁹\nto enforce compliance, but\nit is not often proceeded with once compliance has been secured.¹⁰\nBut if default goes on long\nenough and after enough orders or warnings, pleadings may be struck out. That is because the\n\ncourts and the public are less willing to waste scarce resources on the contumelious or extremely\nlax litigant; most litigation is too slow as it is.¹\nWhere a litigant persists in disobeying an order for\nbetter discovery, the Court may strike out his pleading if he does not comply.²\nHis own discovery\nmay be ended.³\nFor the plaintiff's repeated disobedience of orders to renew letters of credit given as security,\nthe suit would be dismissed, unless within 5 days the security was restored.⁴\nPersistent contempt\nand failure to purge it, led to a penalty of dismissing the contemnor's pending application to add a\nnew defendant to existing litigation.⁵\nThe remedy of forbidding a party to adduce certain evidence⁶\nis a good one which is not used\nenough.⁷\nA party who ﬂees and adduces no evidence risks losing even a child custody ﬁght: not\nas a penalty, but because only the other side’s evidence is available.⁸\nPersistent contempt can produce other enforcement measures outside the litigation, such as\nvacating premises while a realtor is there to inspect or show property which the court has ordered\nsold.⁹\nIf the contemnor is an executor or trustee, all compensation from the estate for services or\nexpenses may be denied him or her.¹⁰\nC. Costs\nIf contempt is found, costs should be imposed (on top of any penalty). Usually full indemnity\nis the appropriate level. Those costs are not just a sanction or a declaration; the innocent party\nshould not have to pay for the publicly-vital task of enforcing court orders. Otherwise the innocent\nparty is being punished.¹¹\n\nConviction for contempt usually leads to heavy costs as well as any penalty.¹\nThe costs are\nremedial. Partial indemnity thrown-away party-party costs are not a sufﬁcient remedy for deliberate\nbreach of a court order. A substantial portion of the expenses directly caused should ordinarily\nbe a minimum.²\nOften “solicitor-client” (full indemnity) costs are ordered.³\nIn one case,⁴\nthe hourly\nrate of the lawyer applying was low, so slightly enhanced solicitor-client costs were upheld on\nappeal.⁵\nIn another case the contemnor paid $136, 000 costs (plus a hefty ﬁne).⁶\nThe penalty will\nbe inﬂuenced by the role of counsel, motives, consequences of the acts, the history of the suit,\nexpense caused to others, and degree of culpability.⁷\nA protestor in contempt of an injunction\nthough he thought he had a right to protest, may have to pay a proportionate share of the costs.⁸\nA defendant found guilty of contempt partway through the suit had to pay costs at once, not\nat the end of the suit, to impose discipline on the litigation process, given the nature of contempt,\nbecause an earlier order had set dates to pay the costs. Costs are paid forthwith, and there were\nno special circumstances.⁹\nContempt was found and not purged, but trial would come in a few months and the steps about\ncontempt and about getting to trial could not be easily separated, so the trial judge should deal\nwith all the costs, even those for contempt.¹⁰\nCosts imposed by a justice as a penalty for contempt cannot ordinarily be reversed by another\njustice later.¹¹\nD. Party in Contempt Cannot Make Application\nContempt of court does more than expose the guilty person to the penalties for contempt set\nout in R.10.53. It also bars that person from taking any active voluntary positive step in court\nwhile he or she is still in contempt.¹²\nThe contempt does not bar self-defence, but it does bar\n\nappeals from anything but the contempt ﬁnding.¹\nAn appeal over custody may be adjourned until\nthe appellant purges her contempt by bringing the children back to Alberta.²\nAn act contrary to an\norder may be void for illegality.³\nHere the ﬁne levied for the contempts found had been paid. The costs had not, but failure to\npay them is for money and so not contempt. More ongoing breaches of the injunction were sworn\nto, but there had been no motion for ﬁnding contempt by them, and contempt needs proof beyond\na reasonable doubt. So audience and consideration on the merits were allowed here.⁴\nSee also Part B.4 above.\nE. Miscellaneous\nNatural justice and the audi alteram partem rule require the court to give counsel the\nopportunity to address a proposed sanction.⁵\nA judge asked to punish for contempt of court should alert counsel before imposing a sanction\nsigniﬁcantly exceeding or differing from that sought by the party asking for punishment or\nenforcement, and give both counsel the chance to address the new proposed sanction.⁶\nTo get a stay of contempt sanctions pending appeal, it is not enough to swear that one lacks\nfunds to pay the sanctions; clear convincing or cogent evidence in support is needed. And an\nexpensive lifestyle and unexplained disappearance of assets can be evidence pointing the other\nway. Harm to reputation from contempt diminishes after contempt is found.⁷\nSomeone convicted of contempt can purge his or her contempt only by complying with the\norders or duties disobeyed, albeit not complying perfectly.⁸\nThere was a ﬁnding that certain\npayments were not paid for the ﬁne and did not purge contempt.⁹\nVery sloppy incomplete acts (in\nanswering a questionnaire about assets) were not enough to purge contempt.¹⁰\nBreach of a court order is not of itself a ground for damages to another party.¹¹\nThe court can\ngive damages for breach of an undertaking by a solicitor.¹²\nA witness who fails to appear may also\nbe liable for any resulting damage.¹³\nFailure to disclose facts to the court when seeking an order\nex parte might lead to damages as a remedy?¹⁴\n\nOn appeal, the appeal court should be slow to substitute different penalties for those imposed\nby a King's Bench justice;¹\nthe discretion encompasses penalty too.²\nRule 10.53 is discretionary\nand so reviewed on appeal for palpable and overriding error.³\nAn appeal was not ground for\nrelease from jail for contempt pending appeal, where there still was a serious ﬂight risk.⁴\nThe Supreme Court of Canada’s individual judges have power to give bail pending appeal to\nthe Supreme Court of Canada from contempt, even civil contempt.⁵\nConviction for contempt does not bar a later prosecution under the Criminal Code, e. g. for\nharassment (stalking).⁶\nAs contempt is a wrong to the court and the public,⁷\nit is not surprising that assigning oneself\ninto bankruptcy may well not stop contempt punishment.⁸\nA self-proclaimed Sovereign Free-will Man and his documents and notions ran afoul of the\ncriminal bail régime.⁹",
+      "footnotes": [
+        {
+          "page": "10-160",
+          "number": 4,
+          "text": "Quite similar to previous 1968 R.704(1) -(4). It was new in 1968."
+        },
+        {
+          "page": "10-161",
+          "number": 1,
+          "text": "C. P. E. , Chapter 62, Parts T to Y; Hals. Laws of Canada, Civil Procedure, 1005 ff. (2d reissue 2012) ; Abrams and McGuinness, Canadian Civil Procedure Law, 1658 ff. (2d ed.2010). And see Re Lymer (R. ) 2014 ABQB 674, 9 Alta LR(6th) 57."
+        },
+        {
+          "page": "10-161",
+          "number": 2,
+          "text": "Ban on use of ampliﬁed sound anywhere in the City: Pawlowski v. Calgary (City) (#2) 2008 ABQB 267, 445 AR 18."
+        },
+        {
+          "page": "10-161",
+          "number": 3,
+          "text": "Builders Enr. Serv. v. Paddock (#2) 2008 ABQB 617, 447 AR 195, affd 2009 ABCA 153, 457 AR 266 (with a small variation for jail time served); Law Socy. v. Beaver 2021 ABCA 163, 31 Alta LR(7th) 308 (¶’s 74-89), leave den (SCC 20 Jan ’22). See also McInroy v. Burnstad, supra, and R.10.52 n. A."
+        },
+        {
+          "page": "10-161",
+          "number": 4,
+          "text": "0678786 B. C. v. Bennett Jones (#2) 2023 ABKB 470, JCC 1701 17308 (Aug 15) (¶’s 19 ff. )."
+        },
+        {
+          "page": "10-161",
+          "number": 5,
+          "text": "See the C. P. E. , Chapter 62, Part T."
+        },
+        {
+          "page": "10-161",
+          "number": 6,
+          "text": "Turkawski v. Boyle (#4) 2007 ABCA 275 (one JA)."
+        },
+        {
+          "page": "10-161",
+          "number": 7,
+          "text": "Re McDonald Est.2012 ABQB 704, 552 AR 308; Bourque v. Tensfeldt 2017 ABQB 519, JCE 1503 12891 (Aug 25) (¶’s 81-90) ; Law Socy. of Alta. v. Beaver (#__) 2021 ABQB 134, JCE 1603 01216 (Feb 22) (¶’s 74- 89), leave den (SCC 20 Jan ’22). There is sometimes undue reluctance to apply this in family-law matters, as the correct dicta but weaker actual penalty may show in I. D. v. D. B.2022 ABKB 831, JCE 4803 176036 (Dec 9) (¶’s 95-106)."
+        },
+        {
+          "page": "10-161",
+          "number": 8,
+          "text": "Law Socy. of Alta. v. Beaver, supra; Bourque v. Tensfeldt, supra."
+        },
+        {
+          "page": "10-161",
+          "number": 9,
+          "text": "Bourque v. Tensfeldt, supra."
+        },
+        {
+          "page": "10-161",
+          "number": 10,
+          "text": "Such an application was adjourned to allow the respondent to adduce more evidence, in Turkawski v. Boyle (#5) 2005 ABQB 339, 288 AR 187."
+        },
+        {
+          "page": "10-161",
+          "number": 11,
+          "text": "Another chance was given, in Envacon v.829693 Alta. (#_) 2017 ABQB 623, JCE 1103 06556 (Oct 19). One more week to pay the money was given, in Imp. Finishing v. Moderno Homes 2019 ABQB 64, JCC 1703 16342 (¶ 64)."
+        },
+        {
+          "page": "10-162",
+          "number": 1,
+          "text": "See Attendance Bd. v. V. L. P.2001 ABQB 670, 290 AR 390 (probation for a child under 16) ; A. A. B. v. J. E. M. (#2) 2001 ABQB 643, 301 AR 201 (order to attend parental counselling sessions) ; Free Est. v. Jones 2004 ABQB 486, 364 AR 384. See Deloitte v. Braun, infra. Minor well-meaning acts by lay people need not be penalized: Bellerose v. E. Prairie Métis Settlement 2005 ABQB 322. But events occurring after, or learned after, sentence give very limited grounds to vary the sentence: Turkawski v.738675 Alta. (#10) 2006 ABQB 301, 398 AR 250. Nor can habeas corpus be used to vary imprisonment ordered by a judge and not yet served, absent a Charter motion and appropriate evidence for it: ibid."
+        },
+        {
+          "page": "10-162",
+          "number": 2,
+          "text": "McInroy v. Burnstad 2010 ABQB 375 (Jun 16)."
+        },
+        {
+          "page": "10-162",
+          "number": 3,
+          "text": "Envacon v.829693 Alta. , infra; cf. Alta. Health Serv. v. Pawlowski 2022 ABCA 254, 472 DLR(4th) 222."
+        },
+        {
+          "page": "10-162",
+          "number": 4,
+          "text": "Envacon v.829693 Alta.2018 ABCA 313, 75 Alta LR(6th) 9 (¶’s 60-69)."
+        },
+        {
+          "page": "10-162",
+          "number": 5,
+          "text": "Law Socy. of Alta. v. Beaver (#__) 2021 ABQB 134, JCE 1603 01216 (Feb 22) (¶’s 74-89), leave den (SCC 20 Jan ’22). There is sometimes undue reluctance to apply this in family-law matters, as the correct dicta but weaker actual penalty may show in I. D. v. D. B.2022 ABKB 831, JCE 4803 176036 (Dec 9) (¶’s 95-106)."
+        },
+        {
+          "page": "10-162",
+          "number": 6,
+          "text": "0678786 B. C. v. Bennett Jones (#2) 2023 ABKB 470, JCC 1701 17308 (Aug 15) (¶’s 19-24, 32, 36, 38, 41-44) ($50 thousand penalty, plus costs)."
+        },
+        {
+          "page": "10-162",
+          "number": 7,
+          "text": "0678786 B. C. v. Bennett Jones, supra (¶’s 14, 30)."
+        },
+        {
+          "page": "10-162",
+          "number": 8,
+          "text": "Deloitte & Touche (Braun Est. ) v. Braun 2006 ABCA 23, 384 AR 80; cf. Turkawski v.738675 Alta. (#4) 2004 ABQB 845, 372 AR 280."
+        },
+        {
+          "page": "10-162",
+          "number": 9,
+          "text": "Turkawski v.738675 Alta. , supra."
+        },
+        {
+          "page": "10-162",
+          "number": 10,
+          "text": "Re McDonald Est. , supra."
+        },
+        {
+          "page": "10-163",
+          "number": 1,
+          "text": "Alberta authorities are reviewed, in Re Lymer, supra (¶’s 184 ff. ). Those factors also include non-payment of past costs: Alanen v. Elliot 2019 ABCA 485, Calg 1801 0252 AC (Dec 10) (¶ 12) ; Law Socy. v. Beaver, supra."
+        },
+        {
+          "page": "10-163",
+          "number": 2,
+          "text": "Cf. Olson v. Olson (#_) 2022 ABQB 356, JCE 4803 178433 (May 19). But cf. questionable dicta in Stokes v. Heck 2023 ABKB 58, JCC 2201 14370 (Jan 31) (¶’s 21-23) ; quaere."
+        },
+        {
+          "page": "10-163",
+          "number": 3,
+          "text": "Diachuk v. Diachuk 2017 ABQB 750, JCE 4803 178815 (Dec 6). A charge of breach of a court order, laid under the Criminal Code, led to 6 months in jail, in R. v. Dingwall 2005 ABCA 14, 361 AR 306."
+        },
+        {
+          "page": "10-163",
+          "number": 4,
+          "text": "Law Socy. v. Beaver 2021 ABCA 163, 31 Alta LR(7th) 308 (¶’s 74-89), leave den (SCC 20 Jan ’22)."
+        },
+        {
+          "page": "10-163",
+          "number": 5,
+          "text": "Turkawski v.738675 Alta. (#11) 2006 ABQB 360, 402 AR 150. Such a sentence does not merge with a criminal sentence also being served: ibid. See further Turkawski v.738675 Alta. (#12) 2007 ABQB 745, 435 AR 162. After many years of neglecting a series of orders to disclose information, and previous (brief) imprisonment, the C. A. upheld a judge’s order for two years’ imprisonment, with directions of what to do to purge the contempt and ask to be let out of jail: Walker v. Walker 2013 ABCA 213, 553 AR 166."
+        },
+        {
+          "page": "10-163",
+          "number": 6,
+          "text": "Ouellet v. B. M.2010 ABCA 240, 482 AR 273."
+        },
+        {
+          "page": "10-163",
+          "number": 7,
+          "text": "Alta. Dental Assn. v. Unrau 2001 ABQB 315, 287 AR 391; B. M. v. Dir. of Child, Youth and Fam. Enhancement (#3) 2009 ABCA 270, supra (one JA) (community service) ; Imp. Finishing v. Moderno Homes, supra (¶ 40). Or security for costs: Lastiwka v. TD Waterhouse Inv. Serv. (Can. ) (#2) 2005 ABQB 782, 385 AR 353. Or staying all proceedings until costs are paid: Kelly v. Calg. Soccer Fedn.2006 ABQB 195. Contempt by a lawyer is ground for ﬁne or prison, but not for disbarment if he then wrote or acted as a suitor in the court, not as a lawyer: Wallace v. JJ. of N. S. (PC (NS) 1866) 36 LJPC 9, LR 1 PC 283."
+        },
+        {
+          "page": "10-163",
+          "number": 8,
+          "text": "Wade v. Wade 2022 ABQB 64, JCE 2103 10903 (Jan 21) (¶’s 4-8) (reviewing case law)."
+        },
+        {
+          "page": "10-163",
+          "number": 9,
+          "text": "Makis v. Alta. Health Serv.2020 ABCA 168, Edm 1803 0363 AC (¶ 66)."
+        },
+        {
+          "page": "10-163",
+          "number": 10,
+          "text": "On ceilings on imprisonment, see Turkawski v.738675 Alta. (#11), supra."
+        },
+        {
+          "page": "10-163",
+          "number": 11,
+          "text": "C. P. E. , Chapter 62, Part V. $500, 000 was upheld in Builders Enr. Serv. v. Paddock 2009 ABCA 153, 457 AR 266."
+        },
+        {
+          "page": "10-164",
+          "number": 1,
+          "text": "Continuing Care Employers’ Bargaining Assn. v. A. U. P. E. & Maclennan 2002 ABCA 148, 303 AR 137 (¶’s 113-18). Where someone has committed a contempt by withholding money; then purged it by repaying the money, on the issue of a penalty, his ﬁnancial resources and the amount of money taken are relevant: Berube v. Wingrowich (#6) 2003 ABQB 805, 24 Alta LR(4th) 398. A $75, 000 ﬁne (plus heavy costs) was imposed for deliberately destroying or erasing records which were owed under discovery, after a long history of obstreperousness: Dreco Enr. Serv. v. Wenzel (#9) 2006 ABQB 356, 399 AR 166. The proper penalty for spoliation (destroying evidence) depends in part on the amount of harm done, and so it cannot be decided before trial: N. Amer. Rd. v. Hitachi Constr. Mach.2005 ABQB 847, 385 AR 314. Fine of $1 million plus $10 thousand/day threatened plus all incurred costs now awarded. (U. S. judge agreed Alberta arbitration was proper forum and U. S. public policy was not infringed. ): BG Int. v. Grynberg 2009 ABQB 452, 486 AR 51."
+        },
+        {
+          "page": "10-164",
+          "number": 2,
+          "text": "Builders Enr. Serv. v. Paddock (#2) 2008 ABQB 617, 447 AR 195, affd 2009 ABCA 153, 457 AR 266."
+        },
+        {
+          "page": "10-164",
+          "number": 3,
+          "text": "BG Int. v. Grynberg Prodn. Corp. , supra."
+        },
+        {
+          "page": "10-164",
+          "number": 4,
+          "text": "Alston v. Foothills (M. D. ) 2021 ABQB 951, JCC 1001 10269 (Nov 30) (¶’s 31-41)."
+        },
+        {
+          "page": "10-164",
+          "number": 5,
+          "text": "1254748 Alta. v. McBurney 2023 ABKB 264, JCGP 2304 00089 (May 1) (¶’s 51-55). Rooke A. C. J. has sometimes given such daily penalties to vexatious disobeying litigants, in the years just before 2023."
+        },
+        {
+          "page": "10-164",
+          "number": 6,
+          "text": "R. M. B. v. D. T. B.2020 ABQB 690, JCE 4803 156833 (Nov 9) (¶’s 18-20)."
+        },
+        {
+          "page": "10-164",
+          "number": 7,
+          "text": "Olson v. Olson (#_) 2022 ABQB 356, JCE 4803 178433 (May 19) (¶’s 49-50)."
+        },
+        {
+          "page": "10-164",
+          "number": 8,
+          "text": "Bourque v. Tensfeldt 2017 ABQB 519, JCE 1503 12891 (Aug 25) (¶s 81-90)."
+        },
+        {
+          "page": "10-164",
+          "number": 9,
+          "text": "Oommen v. Cap. Reg. Housing Corp. (#1) 2017 ABCA 143, Edm 1603 0155 AC (May 9) (¶’s 9-12). A suit was stayed because of non-payment of previous costs and vexatious refusal to give discovery. Claimed lack of funds, but seemed to have enough to keep litigating: S. D. M. (S. D. S. ) v. R.2006 ABQB 278, 393 AR 47."
+        },
+        {
+          "page": "10-164",
+          "number": 10,
+          "text": "On the discretion not to proceed with contempt, see Kuhl v. Kuhl (CA 1999) 250 AR 149. Cf. Kruse v. Blosser 2001 ABCA 128, 293 AR 192, and McInroy v. Burnstad, supra. Exacting compliance is often more important that punishing, but a penalty for contempt by disobeying a court order can give some weight to punishing. Imprisonment for some time is not undue after lengthy repeated disobedience of a series of similar orders, and after a previous brief imprisonment ended by the contemnor’s seeking and getting release in order to obey the orders: Walker v. Walker, supra (¶’s 28-31, 47, 48)."
+        },
+        {
+          "page": "10-165",
+          "number": 1,
+          "text": "Trigg v. Lee-Knight 2009 ABCA 224, leave den (SCC 14 Jan ’10) ; Imp. Finishing v. Moderno Homes 2019 ABQB 64, JCC 1703 16342 (¶’s 48-61) ; Hergert v. Megale (#_) 2022 ABQB 126, JCC 4801 171103 (Feb 11) (repeated long-standing failure to give repeatedly-ordered vital ﬁnancial disclosure in a matrimonial property suit, with liberty for the innocent party to move for summary judgment and assessment). But misconduct at an examination for discovery is not usually grounds to dismiss the suit: Northland Bank v. Wettstein (CA 1997) 200 AR 150. In a divorce case, a parent who repeatedly ﬂouted court orders was barred from bringing further applications: B. A. V. v. C. A. V.2001 ABQB 753, 300 AR 361."
+        },
+        {
+          "page": "10-165",
+          "number": 2,
+          "text": "Bains Eng. Corp. v.734560 Alta.2005 ABCA 187, 367 AR 125; Innersense Int. v. Fisher 2005 ABQB 392; Koerner v. Cap. Health Authy. (#6) 2011 ABQB 191, 506 AR 113, affd 2011 ABCA 289; Kostic v. Alger 2021 ABCA 31, Calg 1901 0310 AC (Jan 27) (¶’s 23-24), leave den (SCC 13 Jan ’22) ; cf. Pettit v. Condo. Plan 9121282 & Allan (#1) 2005 ABQB 528, and cf. Pettit v. Condo. Plan 9121282 & Allan (#2) 2005 ABQB 644. But striking out the statement of claim may not be appropriate where the defendant has admitted liability on the merits of the suit: McInroy v. Burnstad, supra."
+        },
+        {
+          "page": "10-165",
+          "number": 3,
+          "text": "Koerner v. Cap. Health Authy. (#__) 2010 ABQB 557, 498 AR 99."
+        },
+        {
+          "page": "10-165",
+          "number": 4,
+          "text": "AMEC Foster Wheeler etc. v. Attila Dogan Constr. etc.2016 ABQB 305, JCC 0701 09436 (May 27)."
+        },
+        {
+          "page": "10-165",
+          "number": 5,
+          "text": "Kostic v. Alger, supra."
+        },
+        {
+          "page": "10-165",
+          "number": 6,
+          "text": "R.10.53(1) (d) (iv)."
+        },
+        {
+          "page": "10-165",
+          "number": 7,
+          "text": "On discovery, ex-employees refused to tell what they had learned after their employment ended, and then refused to come back or answer any other questions. They were barred from testifying at trial unless they complied with all discovery obligations. Q. B. Practice Note #7 used expressly to allow orders of that sort, subject to the trial judge’s power to change that decision about admitting evidence: Tremco v. Gienow Bldg. Prods.2000 ABCA 273, 255 AR 273. And a plaintiff who disobeyed court orders to answer undertakings on examination for discovery was barred from leading trial evidence for those heads of damages, in Jervis v. Nendze 2002 ABQB 673, 318 AR 293."
+        },
+        {
+          "page": "10-165",
+          "number": 8,
+          "text": "G. L. B. v. M. P. [1995] 4 SCR 592, 190 NR 182."
+        },
+        {
+          "page": "10-165",
+          "number": 9,
+          "text": "Fitzpatrick v. Fitzpatrick (#_) 2023 ABKB 281, JCC 4801 185855 (May 10) (¶’s 26-29)."
+        },
+        {
+          "page": "10-165",
+          "number": 10,
+          "text": "Re McDonald Est. , supra."
+        },
+        {
+          "page": "10-165",
+          "number": 11,
+          "text": "Beattie v.1382549 Alta. (#_) 2023 ABKB 600, JCC 1901 14203 (Oct 24). Much authority is cited: Wade v. Wade 2022 ABQB 64, JCE 2103 10903 (Jan 21) (¶’s 9-16)."
+        },
+        {
+          "page": "10-166",
+          "number": 1,
+          "text": "B. A. V. v. C. A. V. , supra; Cochard v. Cochard (#2) 2002 ABQB 138, 306 AR 249; cf. S. W. v. K. T.2002 ABQB 223, 302 AR 325 (costs plus a stay until payment) ; B. M. v. Dir. of Child, Youth and Fam. Enhancement (#3) 2009 ABCA 270, 460 AR 224; BG Int. v. Grynberg Prodn. Corp. , supra; McInroy v. Burnstad, supra; Re McDonald Est.2012 ABQB 704, 552 AR 308; Alta. (Govt. ) v. A. U. P. E. (#2) 2014 ABCA 326, 584 AR 135; 0678786 B. C. v. Bennett Jones (#2) 2023 ABKB 470, JCC 1701 17308 (Aug 15) (¶’s 51-56)."
+        },
+        {
+          "page": "10-166",
+          "number": 2,
+          "text": "Dreco Enr. Serv. v. Wenzel (#4) 2005 ABCA 185, 371 AR 11; D. B. C. v. R. M. W. (#2) 2005 ABQB 898, 393 AR 160; but cf. S. W. v. K. T. (#3) 2005 ABQB 298, 379 AR 320; cf. Demb v. Valhalla, infra."
+        },
+        {
+          "page": "10-166",
+          "number": 3,
+          "text": "Alta. (Govt. ) v. A. U. P. E. (#2), supra; Fitzpatrick v. Fitzpatrick, supra (¶ 83). And should be ordered: Fuller W. Rubber Linings v. Spence Corrosion Serv.2012 ABCA 137, 524 AR 246 (¶’s 15 ff. ). Demb v. Valhalla Grp.2017 ABCA 340, [2017] AJ #1073; Envacon v.829693 Alta.2018 ABCA 313, 75 Alta LR(6th) 9 (¶’s 68-69)."
+        },
+        {
+          "page": "10-166",
+          "number": 4,
+          "text": "Secur. Bancorp v. Faria (#2) 2010 ABQB 61 (Jan 27)."
+        },
+        {
+          "page": "10-166",
+          "number": 5,
+          "text": "Ouellet v. B. M.2010 ABCA 240, supra"
+        },
+        {
+          "page": "10-166",
+          "number": 6,
+          "text": "Dreco Enr. Serv. v. Wenzel (#9), supra. A lawyer paid solicitor-client costs up to $5, 000 personally, in McNamara v. McNamara 2007 ABQB 51, 406 AR 87."
+        },
+        {
+          "page": "10-166",
+          "number": 7,
+          "text": "Dreco v. Wenzel (#4), supra."
+        },
+        {
+          "page": "10-166",
+          "number": 8,
+          "text": "Transport Secy. v. Cuciurean [2022] EWCA Civ 661 (May 16)."
+        },
+        {
+          "page": "10-166",
+          "number": 9,
+          "text": "1400467 Alta. v. Adderley (#_) 2014 ABQB 152, [2014] AR Uned 340 (¶’s 23-28)."
+        },
+        {
+          "page": "10-166",
+          "number": 10,
+          "text": "Burn v. Burn 2018 ABQB 275, JCE FL03 52210 (Apr 9) (¶’s 6-7)."
+        },
+        {
+          "page": "10-166",
+          "number": 11,
+          "text": "M. A. K. v. T. J. K.2020 ABCA 196, Edm 1903 0210 AC (May 12) (¶’s 59-60)."
+        },
+        {
+          "page": "10-166",
+          "number": 12,
+          "text": "Schmidt v. Wood 2012 ABCA 235, 533 AR 381 (one JA). Cf. B. A. V. v. C. A. V.2001 ABQB 753, 300 AR 361; cf. Oommen v. Cap. Reg. Housing Corp. (#2) 2017 ABCA 360, Edm 1703 0181 AC (one JA Nov 1) ; Recycling Worx Solutions v. Hunter (#_) 2023 ABKB 51, JCC 1301 05335 (Jan 27) (¶’s 38 ff. ) ; Kekkonnen v. Sheridan 2024 ABCA 89, Calg 2301 0287 AC (Mar 13) (¶’s 7-8) (said to be discretionary) ; but cf. Free Est. v. Jones 2004 ABQB 486, 364 AR 384, and Bergen (Ricketts) v. Bergen 2008 ABQB 237 (to ventilate a child’s rights only)."
+        },
+        {
+          "page": "10-167",
+          "number": 1,
+          "text": "Schmidt v. Wood, supra (dicta) ; Kekkonnen v. Sheridan, supra (¶’s 7-8) (said to be discretionary). It may bar an appeal even from the order in question: Phillips v. Avena (Phillips) 2005 ABCA 405, 380 AR 167; Dickie v. Dickie 2007 SCC 8, [2007] 1 SCR 346 (in the discretion of the Court of Appeal). On contempt as bar to appeal generally, see Brown, Civil Appeals §§ 5: 4200 to 5: 4213 (Carswell 2009)."
+        },
+        {
+          "page": "10-167",
+          "number": 2,
+          "text": "See the C. P. E. , Chapter 62, Part O.2."
+        },
+        {
+          "page": "10-167",
+          "number": 3,
+          "text": "See the C. P. E. , Chapter 62, Part P.7."
+        },
+        {
+          "page": "10-167",
+          "number": 4,
+          "text": "Recycling Worx v. Hunter (#_), supra (¶’s 38-47)."
+        },
+        {
+          "page": "10-167",
+          "number": 5,
+          "text": "Alta. Health Serv. v. Pawlowski, infra."
+        },
+        {
+          "page": "10-167",
+          "number": 6,
+          "text": "Alta. Health Serv. v. Pawlowski 2022 ABCA 254, 472 DLR(4th) 222 (¶’s 31-33)."
+        },
+        {
+          "page": "10-167",
+          "number": 7,
+          "text": "Mella v.336239 Alta.2016 ABCA 226, [2016] AJ #763 (one JA Jul 27)."
+        },
+        {
+          "page": "10-167",
+          "number": 8,
+          "text": "Re Lymer (#__) (R. ) 2020 ABQB 157, 11 Alta LR(7th) 157 (¶’s 27 ff. )."
+        },
+        {
+          "page": "10-167",
+          "number": 9,
+          "text": "336239 Alta. v. Mella 2016 ABQB 174, 87 CPC(7th) 396. See appeal, supra."
+        },
+        {
+          "page": "10-167",
+          "number": 10,
+          "text": "Kostic v. Alger 2021 ABCA 31, Calg 1901 0310 AC (Jan 29) (¶’s 19-21, leave den (SCC 13 Jan ’22) )."
+        },
+        {
+          "page": "10-167",
+          "number": 11,
+          "text": "MacDonald & Freund v. Haljan (CA 1996) 200 AR 266, 8 CPC(4th) 201, leave den (1997) 212 AR 38; but cf. Holland v. Min. of Agric.2008 SCC 42, [2008] 2 SCR 551. Also relevant is Frame v. Smith [1987] 2 SCR 99, 78 NR 40, but it seems to turn more on the cause of action selected there, plus certain legislation; it does not seem to bar damages. The cost of airline tickets wasted because of breach of a court order was awarded, in Chase v. Chase 2003 ABCA 29, 320 AR 201 (one JA)."
+        },
+        {
+          "page": "10-167",
+          "number": 12,
+          "text": "Ibid."
+        },
+        {
+          "page": "10-167",
+          "number": 13,
+          "text": "Alberta Evidence Act, RSA 200, c. A-18, s.21."
+        },
+        {
+          "page": "10-167",
+          "number": 14,
+          "text": "W. Got & Assoc. Elec. v. Royal Bank (CA) [1997] 6 WWR 715, 196 AR 241, affd [1999] 3 SCR 408, 247 NR 1."
+        },
+        {
+          "page": "10-168",
+          "number": 1,
+          "text": "Mella v.336239 Alta. , supra; Alta. Health Serv. v. Pawlowski 2022 ABCA 254, 472 DLR(4th) 222. See the C. P. E. , Chapter 62, Part Z."
+        },
+        {
+          "page": "10-168",
+          "number": 2,
+          "text": "Broda v. Broda 2004 ABCA 73, 346 AR 376; Broda v. Broda 2004 ABCA 72, 346 AR 372."
+        },
+        {
+          "page": "10-168",
+          "number": 3,
+          "text": "Alanen v. Elliot 2019 ABCA 485, Calg 1801 0252 AC (Dec 10) (¶s 8-11)."
+        },
+        {
+          "page": "10-168",
+          "number": 4,
+          "text": "Turkawski v. Boyle (738675 Alta. ) 2007 ABCA 39, 401 AR 280 (one JA)."
+        },
+        {
+          "page": "10-168",
+          "number": 5,
+          "text": "It can be done under the general stay power. See the C. P. E. , Chapter 62, Part Z."
+        },
+        {
+          "page": "10-168",
+          "number": 6,
+          "text": "See the C. P. E. , Chapter 62, Parts J. N. Ordinarily a court can order that a sentence for civil contempt run consecutively to a criminal sentence for a regulatory offence, though it was not done here because the judge considered herself functus: Turkawski v.738675 Alta. (#4) 2004 ABQB 845, 372 AR 280."
+        },
+        {
+          "page": "10-168",
+          "number": 7,
+          "text": "336239 Alta. v. Mella, supra."
+        },
+        {
+          "page": "10-168",
+          "number": 8,
+          "text": "Walker v. Walker 2013 ABCA 213, 553 AR 166 (¶’s 18-27)."
+        },
+        {
+          "page": "10-168",
+          "number": 9,
+          "text": "R. v. A. N. B.2012 ABQB 556, 570 AR 146."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          8622,
+          9077
+        ],
+        "book_pages": [
+          "10-160",
+          "10-161",
+          "10-162",
+          "10-163",
+          "10-164",
+          "10-165",
+          "10-166",
+          "10-167",
+          "10-168"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-160 (line 8622) to p.10-168 (line 9075): title (line 8622), rule text (lines 8623-8643; footnote marker '4' after (4), line 8643), a stray line 'pleading, record' (line 8645, between the rule text and 'Related Provisions'; the words occur in (1)(d)(i) and (iv), the line occurs nowhere else in the Book A files), Related Provisions (lines 8646-8649: 4 entries) and the note in five parts: A. Introduction (p.10-161, line 8659), B. Penalties (line 8673; 1. Aims and Aggravation, line 8674; 2. Jail, p.10-163, line 8766; 3. Fines, line 8781; 4. Procedural Penalties, p.10-164, line 8839), C. Costs (p.10-165, line 8900), D. Party in Contempt Cannot Make Application (p.10-166, line 8964) and E. Miscellaneous (p.10-167, line 9010), followed by untitled paragraphs on p.10-168 (lines 9060-9075: appellate review, bail pending appeal, a later Criminal Code prosecution, bankruptcy, a 'Sovereign Free-will Man') before 'DIVISION 5' (line 9076); the locator (lines 8622-9077) includes the two heading lines of the next rule ('DIVISION 5', 'MEDICAL EXAMINATION', lines 9076-9077). Running heads: 'R.10.53(1)' (p.10-160), 'R.10.53(4)' (p.10-161 to p.10-167) and 'R.10.54(1)' (p.10-168). 89 footnotes counted per page: p.10-160 fn 4 (1; fns 1-3 belong to the 10.52 note), p.10-161 11, p.10-162 10, p.10-163 11, p.10-164 10, p.10-165 11, p.10-166 12, p.10-167 14 and p.10-168 9 (printed after the 10.54(1)-(2) rule text, lines 9096-9130) = 89. Footnote 4 of p.10-160 ('Quite similar to previous 1968 R.704(1) -(4). It was new in 1968.') is a history footnote naming an old rule; no old-rule text is among the sources (Book B's judgments quote old Rule 704(1)(a), 704(3) and 704(4) for the same matters as official (1)(a), (3) and (4)), so it was not checked. Read against the official text: the rule text has the same words as official 10.53 (215 tokens compared) apart from the ligatures 'ﬁne' and 'afﬁdavit' and the footnote marker after (4). (1) Related Provisions (lines 8647-8649): 5.12 (label 'penalty for failure to serve affidavit of records'; official 'Penalty for not serving affidavit of records'), 10.33(2)(f) (label 'costs for non-compliance with rules or orders'; official (2)(f) is 'a contravention of or non-compliance with these rules or an order', which lands), 10.50 (label 'costs payable by lawyer'; official 'Costs imposed on lawyer') and 10.52 (label 'declaration of civil contempt'; official title). (2) Pointers in the note that land: 'R.10.52 n. M' (p.10-161, line 8670; Part M of the 10.52 note), 'R.10.52 n. A' (line 8695; Part A), 'R.10.49(1) and R.10.53(1) (c)' (p.10-163, line 8784; official 10.49(1) 'pay to the court clerk a penalty' and 10.53(1)(c) 'a fine'), 'Rr.10.53(1) (a), 10.53(3) and 10.53(4) allow the court to suspend, end, vary, or remit a penalty' (p.10-161, lines 8680-8681; official (1)(a) imprisonment until purged, (3) waive or suspend, (4) increase, vary or remit), 'R.10.53(1) (d) (iv)' (p.10-165 fn 6, line 8923; official 'a record or evidence be prohibited from being used or entered'), 'See also Part D below' (line 8840) and 'See also Part B.4 above' (line 9009); no pointer in the note names a subrule or part that does not exist. (3) Statements read against the rule and Book B: 'There is no longer any ceiling on the ﬁne which may be imposed' (p.10-163, line 8786; fn 10 Turkawski (#11)) agrees with official (1)(c) (no maximum for the fine; the 6 months is for default) and with Book B section 7 (Zelazo v. Masson, Côté J.: 'The Rules of Court allow imprisonment, or a fine up to $1,000. The latter ceiling is now hopelessly out of date'); 'Even indeterminate jail sentences are known, and the only limit is 5 years (because there is a right to a jury over 5 years)' (p.10-163, lines 8775-8776; fn 5 Turkawski (#11) 2006 ABQB 360) corresponds to Book B section 5 (Turkawski v. 738675 Alberta 2006, 402 AR 150, Veit J., under old R. 704(1)(a): 'the only limit ... is the maximum of 5 years less a day', from the jury right in s. 11(f) of the Charter), but Book A says '5 years' and 'over 5 years' where Book B says '5 years less a day' and 'five years or longer', and the note does not mention official (1)(b) 'imprisonment for not more than 2 years' for a fixed term; not decided; 'Financial penalties under R.10.49(1) and R.10.53(1) (c) are to be paid to the Government of Alberta, not to individual litigants' (p.10-163, lines 8784-8785; fn 9 Makis v. Alta. Health Serv. 2020 ABCA 168 ¶ 66) agrees with Book B section 8 (Mella 2016 ABQB 174 paragraph 40: 'in the absence of a clear direction ... such fines are payable to the Clerk of the Court') but differs from Book A's own p.10-164 (lines 8834-8836; fn 6 R. M. B. v. D. T. B. 2020 ABQB 690: a large fine paid for contempt in a civil matter was used to pay the psychologists treating the children) and from Mella 2016 ABCA 226 paragraph 22 in Book B's 10.52:2 block ('Sometimes, it is appropriate to direct payment of fines for contempt to other than the Clerk of the Court'); Part C (p.10-165, lines 8901-8904; fn 11 Beattie 2023 ABKB 600 and Wade v. Wade 2022 ABQB 64 ¶'s 9-16: 'Usually full indemnity is the appropriate level') and p.10-166 (lines 8939-8949; fn 2 Dreco (#4) 2005 ABCA 185: partial-indemnity thrown-away costs are not a sufficient remedy; '$136, 000 costs (plus a hefty ﬁne)', fn 6 Dreco (#9)) agree with Book B section 9 (Wade v. Wade paragraph 9, 'full-indemnity costs (or costs in that neighbourhood) are often warranted'; Beattie adopting that summary; Dreco 2005 ABCA 185 paragraph 11) and section 2 ('thrown-away costs in the amount of $136,146.27 plus GST ... fined $75,000', Dreco (2006) 399 AR 166), and with p.10-164 fn 1 ('A $75, 000 ﬁne (plus heavy costs) ... Dreco Enr. Serv. v. Wenzel (#9) 2006 ABQB 356, 399 AR 166'); official (2) 'The Court may also make a costs award against a person declared to be in civil contempt of Court' agrees with Part C; the purge statements ('Someone convicted of contempt can purge his or her contempt only by complying with the orders or duties disobeyed, albeit not complying perfectly', p.10-167, lines 9020-9021, fn 8 Re Lymer (#__) (R. ) 2020 ABQB 157 ¶'s 27 ff.; and 'A new conviction requires a new actus reus', p.10-162, lines 8735-8738, fn 8 Deloitte & Touche (Braun Est. ) v. Braun 2006 ABCA 23) agree with Book B sections 14 (Lymer (Re) 2020 ABQB 157 paragraph 37, not perfect compliance) and 13 (Braun Estate (Trustee of) v. Braun (2006) 55 Alta. L.R. (4th) 18 (C.A.): a new actus reus; the court keeps jurisdiction to reduce a sentence when the contemnor later complies), and with official (3) and (4); Part D (p.10-166, lines 8965-8968, 'It also bars that person from taking any active voluntary positive step in court while he or she is still in contempt'; fn 12 Schmidt v. Wood 2012 ABCA 235; p.10-167 fn 1 Kekkonnen v. Sheridan 2024 ABCA 89 '(said to be discretionary)') is stated more firmly in its text than in its footnotes; Book B sections 11 and 12 give the rule as 'the court will not entertain any application by that person until he or she obeys the order' (Hadkinson) but also Denning L.J.'s 'not of itself a bar to his being heard' and O'Leary J.A.'s 'I question whether a person who is in contempt ... is entitled to the assistance of this Court' (Phillips v. Phillips (2005) 56 Alta. L.R. (4th) 26 (C.A. in Chambers)); 'The Court may substitute a more comprehensive simpler ban' (p.10-161, lines 8661-8662) and 'The court has inherent power to impose other remedies or punishments not listed in the Rules of Court for contempt, so long as they meet judicial criteria' (p.10-163, lines 8779-8780) agree with Book B section 4 (Unrau: the rule 'does not purport to take away the court's inherent power to impose other sanctions'; 'the “other sanctions” must themselves meet judicial criteria'). (4) Authorities: Book A's note prints, and Book B's 10.53 commentary also prints (each searched by name): Koerner, Dreco (2005 ABCA 185; 2006 ABQB 356), Re McDonald Est. 2012 ABQB 704, Demb v. Valhalla 2017 ABCA 340, Oommen, Unrau, Turkawski, Law Socy. of Alta. v. Beaver 2021 ABCA 163, Mella 2016 ABQB 174, Wade v. Wade 2022 ABQB 64, Envacon 2018 ABCA 313, Imperial Finishing 2019 ABQB 64, Alston 2021 ABQB 951, Broda, Braun, Lymer 2020 ABQB 157, Beattie, S. W. v. K. T. 2005 ABQB 298 and Bains; and does not print (searched by name in lines 8622-9130; a different spelling would not have been found): Michel v. Lafrentz, Precision Forest, Cassidy, Boucher, Pilpel, S. (E.F.) v. L. (P.D.), JLZ v. CMZ, Ansah, Point on the Bow, Kin Franchising, Zelazo v. Masson, Rarick, Laurin, Hadkinson, F. (E.) v. S. (J.S.), the Judgment Interest Act and Book B's 'affirmed 2008 ABCA 136' for Turkawski (#11). Citation differences between the books: 'Alta. Dental Assn. v. Unrau 2001 ABQB 315, 287 AR 391' (p.10-163 fn 7, line 8807) against Book B's 'Dental Association (Alta.) v. Unrau (2001), 287 A.R. 381 (Q.B.)' (first page 391 against 381); 'Kostic v. Alger 2021 ABCA 31, Calg 1901 0310 AC (Jan 27)' (p.10-165 fn 2, line 8916) against '(Jan 29)' (p.10-167 fn 10, line 9047). (5) supra/infra (each 'supra' and 'infra' in this note checked): forward 'supra': p.10-161 fn 3 'See also McInroy v. Burnstad, supra' (line 8695) comes before the only full citation, 'McInroy v. Burnstad 2010 ABQB 375 (Jun 16)' in p.10-162 fn 2 (line 8750; no earlier occurrence in Part 10, searched); p.10-163 fn 7 'B. M. v. Dir. of Child, Youth and Fam. Enhancement (#3) 2009 ABCA 270, supra (one JA)' (line 8808) has 'supra' but its fuller citation, 'B. M. ... (#3) 2009 ABCA 270, 460 AR 224', is later, in p.10-166 fn 1 (lines 8972-8973) (the only other occurrence of '2009 ABCA 270' in Part 10, searched); 'infra' where a full citation is earlier: p.10-167 fn 5 'Alta. Health Serv. v. Pawlowski, infra' (line 9042; the full citation follows in fn 6, line 9043, but an earlier full citation is in p.10-162 fn 3, line 8751); correct forward pointers: p.10-162 fn 1 'Deloitte v. Braun, infra' (line 8745, full in fn 8, line 8759), fn 3 'Envacon v.829693 Alta. , infra' (line 8751, full in fn 4, line 8752) and p.10-166 fn 2 'cf. Demb v. Valhalla, infra' (line 8977, full in fn 3, line 8979); every other 'supra' (Beaver, Bourque, Bennett Jones, Turkawski (#11), Re McDonald Est., Re Lymer, Imp. Finishing, BG Int. v. Grynberg, Walker, Kostic, B. A. V., Alta. (Govt. ) v. A. U. P. E. (#2), Fitzpatrick, Ouellet, Dreco (#9) and (#4), Schmidt v. Wood, Kekkonnen, Recycling Worx, Mella) follows a full citation earlier in the note (checked one by one). (6) Placeholders and misprints: '(#__)' or '(#_)' in Law Socy. of Alta. v. Beaver (p.10-161 fn 7, line 8700; p.10-162 fn 5, line 8753), Envacon v.829693 Alta. (2017 ABQB 623, p.10-161 fn 11, line 8708), Olson v. Olson (p.10-163 fn 2, line 8796; p.10-164 fn 7, line 8865), Hergert v. Megale (p.10-165 fn 1, line 8908), Koerner v. Cap. Health Authy. (p.10-165 fn 3, line 8920), Fitzpatrick v. Fitzpatrick (2023 ABKB 281, p.10-165 fn 9, line 8932), Beattie v.1382549 Alta. (p.10-165 fn 11, line 8934), 1400467 Alta. v. Adderley (p.10-166 fn 9, line 8988), Recycling Worx Solutions v. Hunter (p.10-166 fn 12, line 8993; p.10-167 fn 4, line 9041) and Re Lymer (2020 ABQB 157, p.10-167 fn 8, line 9045); 'Alberta Evidence Act, RSA 200, c. A-18, s.21' (p.10-167 fn 13, line 9054; the year 2000 is cut off); the statement 'Failure to disclose facts to the court when seeking an order ex parte might lead to damages as a remedy?' (p.10-167, lines 9031-9032; fn 14 W. Got & Assoc. Elec. v. Royal Bank) ends in a question mark; authorities from outside Alberta: 'Transport Secy. v. Cuciurean [2022] EWCA Civ 661' (p.10-166 fn 8, line 8987) and 'Wallace v. JJ. of N. S. (PC (NS) 1866) 36 LJPC 9' (p.10-163 fn 7, line 8812). The textbooks (the C. P. E. chapter 62 by part, Hals. Laws of Canada, Abrams and McGuinness, Brown Civil Appeals) are not part of the sources. Book B's commentary '10.53:1' (54,561 characters, read in full) has no counterpart headings in Book A; it prints 'Michael v. Lafrentz' (section 2, inside the McDonald extract) against 'Michel v. Lafrentz' (sections 2, 6 and 11), 'ommission' (section 2), 'whether come public benefit lay at the root' and 'a mistake or understanding' inside the Precision Forest extract, 'Kee hills' for 'Keephills' (section 14), and the block ends in mid-sentence ('... Turkawski II at paras 4–5 15; Kee hills at para 18; Demb ABCA 2017 at paras 5–6', no full stop) inside the Lymer 2020 ABQB 157 extract; it quotes old Rules 704(1)(a), 704(3), 704(4) and 703 in judgments, which are not the current text."
+    },
+    "BOOK_B": {
+      "title": "Punishment for civil contempt of Court",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.53:1",
+          "text": "Rule 10.53 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.53. 1. New Rule is Essentially the same as the Old Rule In Koerner v. Capital Health Authority, 2011 ABQB 191, 2011 CarswellAlta 456; affirmed 2011 CarswellAlta 2079 (C.A.); leave to appeal refused 2012 CarswellAlta 724 (S.C.C.), Madam Justice Shelley said, at paragraph 46: 46 R. 10.53 of the Rules of Court outlines the penalties available to a court for civil contempt. It is essentially the same as the penalties set out in Rule 704 of the old Rules. … 2. Factors to Consider … any kind of negligence (advertent or inadvertent, by ommission or commission) is less blameworthy than deliberate defiance of a court order. Reliance upon (mistaken) legal advice has been recognized by some cases as a mitigating factor, when sentence is imposed … Furthermore, where the contempt consists of some type of failure to give discovery, a host of cases say that the object of the exercise is to secure the discovery, more than to punish. Severe punishments, such as summary dismissal, or striking out a defence, have been later remitted after belated compliance, in a number of cases. And any kind of attempt to purge the contempt, or to apologize, is relevant. Michel v. Lafrentz (1998), 68 Alta. L.R. (3d) 140 (C.A.), at 146, per Côté J.A. In Dreco Energy Services Ltd. v. Wenzel (2005), 48 Alta. L.R. (4th) 250 (C.A.), Fraser C.J.A., speaking for the panel, set aside a $5000 penalty assessed against a party found to be in contempt by not producing documents which had been ordered to be produced. At p. 252, Her Ladyship said: In terms of the sanction for contempt, we are of the view that the amount ordered is not adequate for its purpose. Requiring those in contempt to pay a part only of thrown-away costs related directly to the contempt does not bring home to the contemnors the seriousness of their actions and their responsibilities for the consequences attributable to that contempt. There is a public policy aspect to this entire issue. Generally, in principle, those who are found in civil contempt ought, at a minimum, to be required to accept responsibility for a substantial portion of the costs directly related to that contempt. It may be that a judge would also consider it appropriate to impose further monetary penalties or other sanctions, whether including striking of pleadings, drawing of adverse inferences, etc. In the context of this case, it is open to the case management judge in assessing the sanctions which should be imposed to take into account a number of considerations including: (1) the role of counsel, including the extent to which the actions of the respondents' counsel might have contributed to the respondents' contempt; (2) the motivation for the destruction/erasure of the computer records while the undertakings to produce them remained extant; (3) the consequences flowing from the destruction of those records and what redress should flow from that, including consideration of whether any adverse inferences should be drawn as a result thereof; (4) the entire context and history of the litigation; (5) the amount of reasonable thrown-away costs properly incurred; (6) the nature of the contempt; and (7) the degree of culpability of the contemnors. The matter was returned to chamber judge for reconsideration of the appropriate penalty. Greckol J. awarded the plaintiffs their thrown-away costs in the amount of $136,146.27 plus GST. She also ordered production of the missing information, in default of which the defendants were fined $75,000. [See: (2006), 399 A.R. 166 (Alta. Q.B.)] In McDonald Estate, Re, 2013 ABQB 602, 3 CarswellAlta 2002, 573 A.R. 1, Justice Mahoney reviewed the factors to be considered when determining the appropriate penalty for contempt. He said at paragraph 28: 28 As Justice Gates stated in his written reasons when dealing with Ms. Gusa's contempt in the related estate matter before him (McDonald Estate, 2012 ABQB 704, 552 AR 308 at para 55) there is a list of factors to be taken into consideration in determining the penalty for contempt such as: (1) whether there was deliberate defiance of a court order or whether there was an inadvertent failure to comply with the court order; (2) the role of legal counsel; (3) where there has been a failure to give discovery, the object of the exercise is more to secure the discovery rather than to punish; (4) attempts to purge contempt or to apologize are relevant; (5) the entire context in the history of the litigation; (6) the amount of reasonable thrown-away costs properly incurred; (7) the nature of the contempt; and (8) the degree of culpability of the contemnor. In Precision Forest Industries Ltd. v. Cox, 2013 ABQB 524, 2013 CarswellAlta 1772, 574 A.R. 34, Mr. Justice Lee set out the following factors to be considered (at paragraphs 55-56): 55 In addition to the nature of the contemptuous conduct, in determining the appropriate remedy in response to a finding of contempt for breach of a court order, the court may consider factors including: a. whether the contemnor has admitted the breach; b. whether the contemnor has tendered a formal apology to the court; c. whether the breach was a single act of part of an ongoing pattern of conduct; d. whether the breach occurred with the full knowledge and understanding that it was a breach rather than as a result of a mistake or understanding; e. the extent to which the conduct of the contemnor displayed defiance; f. whether the order was a private one, affecting only the parties to the suit of whether come public benefit lay at the root of the order; g. the need for specific and general deterrence; and h. the ability of the contemnor to pay. i. the sanction of contempt should be proportional to the personal responsibility of the person in contempt and to the seriousness of the contempt. 56 In the case of breach of Court Orders which prevents an opposing party from defending an action, it may be appropriate to strike the pleading, but even this should be done on a gradual basis. This type of escalating response is found in for example my decision of S.W. v. K.T., 2005 ABQB 298 where fines and double fines were first imposed because the Plaintiff was unresponsive and contradictory with respect to Answers to the Undertakings, similar to the present case. The Plaintiffs in S.W. were forced to go directly to trial and had to live with their answers. Similarly Kevin Cox is now stuck with his answers to the Questioning until trial, which could prove to be a major problem for him. In Demb v. Valhalla Group Ltd., 2015 ABCA 29, in concurring with the other two Court of Appeal justices in dismissing an appeal from a case management judge's order finding that the defendants were not in contempt, Justice O'Ferrall said that a finding of contempt can have deterrence as its objective. His Lordship said: 38 As the majority correctly points out, the appropriate standard of review demands deference to the case management judge's exercise of discretion. Furthermore, it appears that the case management judge may not yet be finished with respect to the issue of contempt. The order appealed from required the respondents to provide yet another further and better affidavit by September 10, 2013, and two of the respondents failed to file the required affidavit. On the hearing of this appeal, we were advised that a second contempt application had been made to the case management judge. It was adjourned pending this appeal. 39 Although we must defer, I question the respondents' sincerity when it comes to complying with the Rules of Court or with the orders of the Master and the case management judge. The respondents appear to have adopted an attitude of “Let's see how little disclosure we can get away with”. Also, their delays in complying appear to be of their own making. This is not a case where the difficulty in complying with the Rules is disproportionate to the likely benefit. Nor does it appear there are any remaining unresolved issues with respect to the relevancy and materiality of the documents sought. 40 It appears the case management judge adopted the approach that contempt proceedings are designed to compel compliance rather that to punish and fashioned his order with this in mind. While the case management judge was certainly entitled to adopt that approach, there are occasions when it is appropriate to grant contempt orders that have as their object denunciation and deterrence (both specific and general). That is, the sanctions prescribed in Division 4 of Part 10 of the Rules of Court for contravening the Rules and disobeying court orders may be employed to secure compliance; but they also may be employed to denounce and deter such behaviour, communicating to the broader legal community that the court will not accept non-compliance and disobedience as a litigation tactic. 41 Counsel for the appellant quite correctly characterizes repeated and unsanctioned non-compliance with the Rules or orders as a denial of access to justice to the party delayed or denied resolution. I agree. This is a matter the case management judge may yet address in the upcoming contempt proceedings. In Oommen v. Capital Housing Corp., 2016 ABQB 283, 2016 CarswellAlta 903, 87 C.P.C. (7th) 87, Justice Veit adopted the following principles relating to the imposition of sanctions for civil contempt: 37 The recent Crawford decision in Ontario usefully sets out some general principles concerning the sanctioning of civil contempt. Although the decision deals specifically with family law proceedings, the principles apply to all areas of civil litigation. 192 In Cassidy v. Cassidy, 2010 ONSC 2707, [2010] O.J. No. 1927, the Court set out the following regarding sentencing in contempt proceedings: The sanction imposed upon a finding of contempt must be significant and of such consequence as to ensure the administration of justice is not brought into disrepute. Sentencing in contempt proceedings, particular in family law proceedings, should be comprised of two components. It should be restorative to the victim of the contempt and punitive to the contemnor. To accomplish the former requires the sentence to correlate to the conduct that produces the contempt and to accomplish the latter requires the sentence not to reflect a marked departure from those imposed in like circumstances. In determining an appropriate sentence in the present case, considerations include the following: (a) The available sentences: For practical purposes the list of available penalties for civil contempt is a short one, consisting of: no penalty (where the contempt has been purged), a suspended sentence (perhaps conditional upon some act or event occurring), a fine, or incarceration. (b) The proportionality of the sentence to the wrongdoing: A sentence, to be fit, must be proportionate to the gravity of the wrongdoing. Although a finding of contempt carries with it the recognition that the conduct was deliberate and wilful, contempt can reflect degrees of wrongdoing. All instances of contempt are serious, but some are more serious than others. (c) The similarity of sentences in like circumstances: A sentence should not reflect a marked departure from those imposed in like circumstances. Unfortunately, in the area of sentencing for contempt the reported and unreported decisions are scarce. Those that do exist are heavily fact-driven. While each case turns on its own facts, the general principles applied by the court are the same and the penalties differ, depending on the facts. (d) The presence of mitigating factors: An admission of the facts by the contemnor may constitute a mitigating factor. (e) The presence of aggravating factors: That the contemnor's conduct was flagrant and continued over a long period were aggravating factors. (f) Deterrence: The primary purpose of sentencing in contempt proceedings, apart from coercing compliance, is deterrence: both general and specific. The punishment for contempt should serve as a disincentive to those who might be included to breach court orders. (g) The reasonableness of a fine: Where civil contempt is concerned, the ability to pay a fine is a crucial consideration in determining its size. A small fine for a wealthy person is not a punishment. Deterrence is not achieved unless fines are imposed in meaningful amounts. A fine must be a punishment, not a nuisance. Where a fine is imposed it must, in all of the circumstances, reflect the seriousness of the contempt. (h) The reasonableness of incarceration: Incarceration is reasonable only where no other less restrictive sanction is appropriate. It is appropriate in cases where there have been multiple breaches of court orders. For any motion necessitated by contempt, the contemnor must pay the solicitor and client costs of the moving party. 193 In Boucher v. Kennedy, [1998] O.J. No. 1612 (C.J.) the following factors were considered when determining the appropriate sanctions: (a) whether the contemnor had admitted the breach; (b) whether the contemnor has demonstrated a full acceptance of the paramountcy of the rule of law, by tendering a formal apology to the Court; (c) whether the breach was a single act or part of an ongoing pattern of conduct in which there were repeated breaches; (d) whether the breach occurred with the full knowledge and understanding of the contemnor that it was a breach rather than as a result of mistake or misunderstanding; (e) the extent to which the conduct of the contemnor displayed defiance; (f) whether the Order was a private one, affecting only the parties to the suit or whether some public benefit lay at the root of the Order; (g) the need for specific and general deterrence; and the ability of the contemnor to pay. 38 In our own province, in McDonald Estate (Re), Gates J. has summarized the principles in this way: 55 The Respondent refers to Michael v. Lafrentz, [1998] A.J. No. 1489, 1998 CarswellAlta 657 (CA) at paras. 31 and 32 and to Dreco Energy Services Ltd. v. Wenzel, [2005] A.J. No. 662, 2005 CarswellAlta 739 (CA) at para. 12 for this list of factors to be taken into consideration in determining the penalty for contempt: 1. Whether there was deliberate defiance of a Court order or whether there was an inadvertent failure to comply with the Court order; 2. The role of legal counsel; 3. Where there has been a failure to give discovery, the object of the exercise is more to secure the discovery rather than to punish; 4. Attempts to purge contempt or to apologize are relevant; 5. The entire context in the history of the litigation; 6. The amount of reasonable thrown-away costs properly incurred; 7. The nature of the contempt 8. The degree of culpability of the contemnor. 3. Family Law Situations Many authorities go on to say that, family law situations should be treated as a special class of contempt, and that in those situations, jail should be the very last resort … With respect for those of that persuasion, I conclude that, without evidence on the point, a judge is not entitled to assume that a jail sentence is counter-productive in every family law contempt situation. Because we think of family in terms of harmony and unity, it is perhaps counter-intuitive to expect that, for some types of contempt, and for some types of spouses or parents, a swift, sure jail sanction could, in the long run, prod family members towards greater harmony. Yet, a judge could hear evidence that a firm stigmatizing of certain types of contempt can be in the best interests of both the family and of the public. I adopt the more contemporary views on this issue as outlined by Beaulieu, J., in [Pilpel v. Pilpel (1993), 27 C.P.C. (3d) 157 (Ont. Gen. Div.)]. In summary, contempt in family law situations should, in my view, be assessed like other forms of civil contempt: all aggravating and mitigating factors in the case must be considered. S. (E.F.) v. L. (P.D.) (1995), 171 A.R. 217 (Q.B.), at 221, per Veit J. In JLZ v. CMZ, 2021 ABCA 200, 2021 CarswellAlta 1343, 27 Alta. L.R. (7th) 60, 58 R.F.L. (8th) 313, the court discussed the use of a change in parenting as a consequence of a finding of contempt. [62] In summary, a change in parenting is available following a finding of contempt. It should be used with restraint. It must be proportionate to the gravity of the conduct and the personal culpability of the contemnor and the court must consider other, less drastic measures. The overriding principle is whether the order is in the best interests of the child. Two of the courts' fundamental obligations form the foundation of this case: the obligation to safeguard the dignity of the courts and the force of their orders, and the obligation to safeguard the best interests of children. The primary mechanism by which the courts protect children is the making of orders. A parent's wilful and repeated contempt of court orders may force the court to consider whether it can effectively maintain its parens patriae role while the children are in that parent's care. In rare circumstances, a change of parenting might be necessary in service 4. Suspended Sentences and Other Penalties In [Ansah v. Ansah, [1977] 2 W.L.R. 760 (C.A.)], the British Court of Appeal made some useful comments about the technique of suspending sentence in civil contempt cases. It described that technique as “dangerous”. It continued: It would have been much safer to have adjourned the summons to commit with liberty to restore in the event of a further breach of the injunction or of a term imposed by the court at the first hearing of the summons. S. (E.F.) v. L. (P.D.) (1995), 171 A.R. 217 (Q.B.), at 222, per Veit J. However, in Dental Association (Alta.) v. Unrau (2001), 287 A.R. 381 (Q.B.), Madam Justice Veit again considered “suspended sentences” and other penalties. At pp. 394–395, Her Ladyship said: The court has the common law power to suspend punishment for contempt; that power has not been taken away by the Alberta Rules of Practice. There is no explicit power under the Rules of Court to suspend a sanction for contempt in circumstances where the contemnor has not purged his contempt. … Although Stevenson & Côté's Alberta Civil Procedure Handbook 2001 states that rule 704(3) states that both the common law and rule 704(3) allow the court to suspend a penalty for contempt, it must be noted that rule 704(3) allow the suspension of a sanction is limited to those situations “where a person held in civil contempt has purged his contempt”. … Because Mr. Unrau has not purged his contempt, strictly speaking the power in rule 704(3) to suspend the punishment does not apply to him. It is relatively well established in Canadian law that courts do have the inherent or common law power to suspend sanctioning in civil contempt: [MacMillan Bloedel Ltd. v. Brown et al. (1994), 88 C.C.C. (3d) 148, (B.C. C.A.)], Westfair Foods Ltd. v. Naherny et al. (1990), 63 Man. R. (2d) 238, (Man. C.A.). In the latter case, the Manitoba Court of Appeal upheld the courts' jurisdiction to sentence contemnors to perform community service which could, of course, be imposed as part of a suspended sentence with probation attached. Although rule 704 sets out certain types of punishment which a court could impose for civil contempt, that rule does not purport to take away the court's inherent power to impose other sanctions. The “other sanctions” must themselves meet judicial criteria; for example, a judge could not order a contemnor, a person found in contempt, to serve a jail sentence longer than five years: R. v. Cohn ([1984), 4 O.A.C. 293 (Ont. C.A.)]. More importantly, in sanctioning for civil contempt, as in sanctioning for criminal misconduct, is that the sentence must be proportional, that is that it must reflect both the gravity of the offence and personal culpability, or blameworthiness, of the contemnor. So long as the punishment for contempt respects those norms, an Alberta judge is not restricted to the sentences outlined in rule 704. 5. Maximum Possible Gaol Sentence In Turkawski v. 738675 Alberta Ltd. (2006), 402 A.R. 150 (Alta. Q.B.); affirmed 2008 ABCA 136 (Alta. C.A.), Veit J. stated, at p. 154 [402 A.R. 150]: • Section 718.3(4) of the Criminal Code relating to consecutive and concurrent sentences does not apply to coercive sanctions of imprisonment imposed for civil contempt; • the provisions of the Corrections and Conditional Release Act relating to the merger of sentences do not apply to indeterminate sentences for civil contempt; • Rule 704(1)(a), the Rule pursuant to which the court ordered Mr. Boyle's imprisonment, does not limit the time for which imprisonment can be ordered to a period of two years; • no limits, other than those found in R. 704, on the length of imprisonment as a sanction for civil contempt are found in Alberta law; • although Parliament imposed a limit of 2 years imprisonment for the offence of failing to comply with a court order under s. 127(1) of the Criminal Code of Canada, that section of the Code could not be used here because of the development in the Alberta Rules of Court of a code dealing with civil contempt of court: Gaudreault. An amendment to the Rules of Court, or a legislative amendment, would be required to impose a two year time limit on the permissible period of imprisonment pursuant to R. 704(1)(a); • the only limit on the length of period which an Alberta court can impose as an indeterminate sentence for civil contempt under the provisions of R 704(1)(a) is the maximum of 5 years less a day which is imposed by operation of law as a result of Mr. Boyle's constitutional right to a jury trial for periods of imprisonment of five years or longer: s. 11(f) Charter of Rights and Freedoms. 6. Striking Pleadings as a Remedy for Contempt In Koerner v. Capital Health Authority, 2011 ABQB 191, 2011 CarswellAlta 456; affirmed 2011 CarswellAlta 2079 (C.A.); leave to appeal refused 2012 CarswellAlta 724 (S.C.C.), the Defendants sought an order declaring the Plaintiff to be in contempt of court by her failure to obey orders of the Court, and striking out the Plaintiff's claim. Madam Justice Shelley found the Plaintiff to be in contempt because she had failed to comply with orders that she present herself for the completion of questioning, and she had not produced certain records which the Court had ordered to be produced. As to the remedy sought by the Defendants, Justice Shelley said, at paragraph 7, “Striking a claim on the basis of contempt is an extreme remedy. …” At paragraphs 57–61, her Ladyship said; 57 The Defendants ask that I dismiss Ms. Koerner's action. A number of cases have addressed when it is appropriate to dismiss an action as a remedy for civil contempt. In Jervis v. Nendze, 2002 ABQB 673, 318 A.R. 293, Veit J. refused to strike out the plaintiff's claim because the disclosure was not crucial to the defendant's ability to defend. In Michel v. Lafrentz, 1998 ABCA 231, 219 A.R. 192, the Court of Appeal refused to strike the appeal, because the failure was the result of inadvertence, misunderstanding, or simple neglect, and because by the time of the application, the contempt had been purged. 58 Here, the Defendants cannot properly defend the action if they cannot complete their Questioning of Ms. Koerner. I agree with the Defendants that in this case teleconferencing is not an adequate alternative. There are many documents that Ms. Koerner will be questioned about. Ms. Koerner has not numbered her production, and the process of identifying which documents are being referred to would be unduly cumbersome and time-consuming. 59 I am most concerned by Ms. Koerner's failure to provide (or request records where she is not in possession of them) the Psychiatric and Psychological Records. The Defendants are asserting that Ms. Koerner's damages are not caused by their actions, but by a mental illness. These records are essential to pursuing that defence. Ms. Koerner's continuing response is that she does not have to produce them because she has a privacy interest in the records. This is not a case of inadvertence, misunderstanding, or simple neglect. She has repeatedly refused to produce them despite this Court's Orders. 60 This is not the first time that Ms. Koerner has failed to comply with Court Orders in this action. Despite numerous opportunities to produce records and to attend to the Questioning of the Defendants, she repeatedly failed to do so. In the latter instance I declined to strike her claim. Her failure to Question the Defendants did not impede their ability to defend the action. Instead, I terminated Ms. Koerner's ability to schedule any further Questioning of the Defendants or their representatives. However, Ms. Koerner's continuing failure to fully produce relevant records and to allow the Defendants to complete their Questioning of her does seriously impede their ability to defend the action. 61 I therefore dismiss the Plaintiff's action against all the Defendants. In W. (S.) v. T. (K.) (2005), 52 Alta. L.R. (4th) 57 (Q.B.), Lee J. said, at p. 65: Striking out pleadings is a serious remedy that should only be exercised in true cases of contempt. Determining whether or not to strike out pleadings in involves the exercise of a significant degree of discretion, and is largely fact based. And at pp. 69–70, Lee J. said: … there are two circumstances in which it may be appropriate to strike out pleadings: (1) where the breach of a Court order prevents the other party from defending an action; or (2) where the breach constitutes a flouting or flaunting of a judicial order, or demonstrates a persistent failure to obey. … In the same vein, a pattern of delay and lack of cooperation, combined with breach of a Court order, can also lead to a finding of contempt and the striking out of pleadings. … Parties cannot be given infinite chances to modify their behaviour; at some point, a final sanction must be imposed. … In Point on the Bow Development Ltd. v. William Kelly & Sons Plumbing Contractors Ltd. (2006), 68 Alta. L.R. (4th) 308 (Alta. Q.B.); affirmed (2007) 78 Alta. L.R. (4th) 16 (Alta. C.A.)], Rooke J., at p. 340, reviewed the law relating to the striking of pleadings as a punishment for contempt of court: The Court of Appeal said in Kin Franchising Ltd. v. Donco Ltd. (1993), 7 Alta L.R. (3d) 313 at 317 at 317 that “If no one case is ever bad enough to strike out pleadings, then the Rules will have no teeth”. The thrust of these cases is aptly set out in the following comment made by Clark J. in Bains at para. 32: The remedy of striking pleadings is appropriate in cases in which the breach of the court order by one party prevents the other party from defending the claim [citation omitted]. It is also appropriate in a case where a litigant persists in disobeying an order: William A. Stevenson & Jean E. Côté, Alberta Civil Procedure Handbook (Edmonton: Juriliber, 2004) at 590. 7. Fine versus Imprisonment During a lawsuit between partners, the court granted an interim injunction to restrain the removal of any documents from the partnership offices until the trial was held. One partner disobeyed the injunction and the other sought an order of contempt. Mr. Justice Côté held: Both parties suggest that the defendant should pay significant costs to the plaintiff in respect of this contempt. I agree. I do not think that it should be damages, but true costs. Damages (if any) should be assessed and awarded at trial. In principle the costs should be on a solicitor-client basis, but limited to the contempt motion … The costs merely serve to indemnify the male plaintiff for expenses which he has incurred coming to court. They are not really punishment as such. Should there by any other penalty? The Rules of Court allow imprisonment, or a fine up to $1,000. The latter ceiling is now hopelessly out of date. It was set by the Rules Committee late in 1967, and today's dollar is now worth only about 20 cents in 1967 dollars. In this case, $1,000 would hardly be a serious penalty. Removal of that dollar limit has been imminent for some time, but the Lieutenant Governor-in-Council has not yet passed it. The defendant is a chartered accountant, who should know better than to disobey a court order. I see nothing to show that he did not know better. Indeed, there is some evidence that he deliberately stole a march by his unilateral acts. Taking these papers contrary to the court order was not his only unilateral act, but it was a significant one. The defendant gained little legitimate thereby except mere convenience; yet he did potential harm to the plaintiff by denying the plaintiff access to, or inspection of, those papers. I do not want professional or business people to think that they can buy their way out of an injunction for a few thousand dollars. Those who are the subject of injunctions often ask their lawyers what the penalty would be if they were to disobey; in effect, what are the odds. I do not want lawyers to have to say that there is a strong chance that costs or a small fine will be all the penalty in a premeditated case. The affidavit by the defendant seems to suggest that the court order was something of an unnecessary technicality, or that it was just wrong. The affidavit does not show any understanding of the need for full careful compliance with a court order, however unpalatable that may be. Indeed, the defendant seems more than willing to second guess the court. His affidavit includes this statement: Again, I hasten to point out that it is for a client to decide who does his accounting work and not for Mr. Zelazo or myself or this Honourable Court and to continue this Order and to attempt to have me cited in contempt of Court is a harassment only. He sounds completely unrepentant. Certainly he does not apologize. His affidavit is his only statement. The motion was scheduled well in advance as a special chambers motion. The defendant did not attend; only his counsel did. Indeed the defendant's actions are eloquent. He had not by the time of the motion returned the items wrongly taken. He only offered to return one category of them. Instead he was in effect arguing that the court was wrong and that he had a higher right to take them. What continued at the time of the contempt motion is almost contumacy … This case is not minor. I will not impose a minor fine, or impose no penalty (besides costs). But in view of the fact that the items taken had moderate worth, it should not be too heavy a penalty. It may be objected that imprisonment for contempt is uncommon in Alberta, but that is not correct. It is common to sentence the offender to time spent in custody, which is commonly several days. In most cases of contempt the offender sincerely apologizes and repents. The offence was not committed here on the spur of the moment, nor in the heat of an argument or emotional scene. To locate and load 50 or 54 files and sort out certain billing records, takes time and care. I order the defendant John Masson imprisoned in any provincial jail for five days. A warrant will issue. Peace officers are directed to assist. Zelazo v. Masson (1992), 84 Alta. L.R. (2d) 364 (Q.B.), at 369-71, per Côté J. For another example of a gaol sentence (90 days) being imposed for civil contempt, see: Law Society of Alberta v Beaver, 2021 ABCA 163. 8. To Whom is a Fine for Contempt Payable? In 336239 Alberta Ltd. v. Mella, 2016 ABQB 174, 2016 CarswellAlta 531, Justice Shelley had to determine whether a party had purged its contempt by satisfying a previously issued Contempt Order. Her Ladyship said: 40 Justice Mandersheid's order did not specify to whom the fine was to be paid. It seems to be that, in the absence of a clear direction from the Justice making the contempt order, the assumption should be that such fines are payable to the Clerk of the Court. … 9. Costs In Demb v. Valhalla Group Ltd., 2017 ABCA 340, 2017 CarswellAlta 1844 the Court spoke about costs awards on contempt proceedings. At paragraph 9 the Court said: … It is generally fit to make the contemnor pay the costs of contempt proceedings, both as a form of sanction, and because the innocent party should not have to bear the costs of enforcing court orders. Just because contempt was only found later than it might have been does not displace this principle. In Wade v. Wade, 2022 ABQB 64, 2022 CarswellAlta 206, Justice Lema gave this summary of the law relating to costs awards in contempt proceedings: [9] The prevailing Alberta law is that full-indemnity costs (or costs in that neighbourhood) are often warranted for successful contempt proceedings. [10] In Dreco Energy Services Ltd v Wenzel, 2005 ABCA 185, the Court of Appeal stated: In terms of the sanction for contempt, we are of the view that the amount ordered is not adequate for its purpose. Requiring those in contempt to pay a part only of thrown-away costs related directly to the contempt does not bring home to the contemnors the seriousness of their actions and their responsibilities for the consequences attributable to that contempt. There is a public policy aspect to this entire issue. Generally, in principle, those who are found in civil contempt ought, at a minimum, to be required to accept responsibility for a substantial portion of the costs directly related to that contempt. It may be that a judge would also consider it appropriate to impose further monetary penalties or other sanctions, whether including striking of pleadings, drawing of adverse inferences, etc. [para 11] [emphasis added] [11] In Demb v Valhalla Group Ltd, 2017 ABCA 340, that Court stated: ... the appellants submit that solicitor and client costs are commonly awarded as a sanction in contempt proceedings. The case management judge awarded costs for the contempt proceedings and appeal, but only on Column 4. No reasons were given for this disposition, other than that no contempt had been found until the appeal resulting in 2016 ABCA 172. ... While costs orders are highly discretionary, and entitled to considerable deference on appeal, this costs order is unreasonable. It is generally fit to make the contemnor pay the costs of contempt proceedings, both as a form of sanction, and because the innocent party should not have to bear the costs of enforcing court orders. Just because contempt was only found later than it might have been does not displace this principle. In this situation, the appellants should be awarded reasonable assessed costs of the first two phases of the proceedings on a solicitor-client basis... [paras 8, 9 and 10] [emphasis added] [12] Per 1307347 Ontario Inc v 1243058 Ontario Inc [2001] OJ No. 585 (ONSC) (Nordheimer J.): There ought to be something approaching a complete indemnity to the successful party in such [contempt] motions since to do otherwise would involve some cost or punishment to the successful party arising solely out of the conduct of the other party in violating the court order. [para 5] [emphasis added] [13] See also Envacon Inc v 829693 Alberta Ltd, 2018 ABCA 313 (paras 58, 68 and 69) (solicitor-and-client costs for “all steps taken in relation to securing compliance with [a certain] Production Order...”); Rarick v Rarick, 2000 ABQB 284 (Veit J.) (paras 1, 2, 30-32, 36, 41 and 42) (solicitor-client costs awarded where breach-of-orders contempt); Laurin v Paterson, 2011 ABQB 521 (Greckol J. as she then was) (para 27: “solicitor-client costs for enforcement of [a certain] order”); Imperial Finishing Ltd v Moderno Homes Inc, 2019 ABQB 64 (Labrenz J.) (para 67: “... as is consistent with the approach of the many legal authorities I have cited, and in recognition that this application was made necessary because of the refusal to obey an order of this Court, I would award costs on a Solicitor-Client basis, meant to properly reflect the Plaintiffs’ thrown-away costs...”); and Alston v Municipal District of Foothills No. 31, 2021 ABQB 951 (Hollins J.), where breach of a certain no-contact order was found to be contempt, with full-indemnity solicitor-client costs awarded (para 35). Justice Devlin adopted that summary in Beattie v. 1382549 Alberta LTD, 2023 ABKB 600 at para. 4. 10. An Order Staying Interest on a Judgment In Point on the Bow Development Ltd. v. William Kelly & Sons Plumbing Contractors Ltd. (2006), 68 Alta. L.R. (4th) 308 (Alta. Q.B.); affirmed (2007) 78 Alta. L.R. (4th) 16 (Alta. C.A.)], Rooke J. ordered, as a remedy for contempt, that interest which would otherwise be payable on any judgment granted be stayed for a specific period of time. At pp. 341–342, his Lordship said: 107 During the hearing I raised the possibility of “staying interest on any judgment to which Point may be entitled” as a remedy—effectively granting an “interest holiday” or “interest recess” for a specified time. I have been unable to locate any reported case in which this has been done but, as acknowledged by Counsel for Point during the hearing, the Judgment Interest Act, R.S.A. 2000, c. J-1 appears to provide for this possibility in s. 2(3): 2. (3) If it considers it just to do so having regard to changes in market interest rates, the circumstances of the case or the conduct of the action, the court may (a) refuse to award interest under this Part, (b) award interest under this Part at a rate higher or lower than the rate set out in this Part, or (c) award interest under this Part for a period other than the period provided for in this Part. [Emphasis added.] 108 In addition to other remedies granted herein, as one remedy for the delay throughout, in the event Point has success in the action, I direct, pursuant to s. 2(3)(a) above, that no interest shall be paid for the period January 9, 2003 (for the reasons that follow) to the date of these Reasons. 11. Disobeying Court Order The case of Hadkinson v. Hadkinson, [1952] 2 T.L.R. 416 (C.A.), is particularly helpful, since the facts in it are very similar to those before us. In that case, Lord Romer set out (at p. 418) the general rule that where a person disobeys an order of the court, the court will not entertain any application by that person until he or she obeys the order. He then stated as follows (at p. 420) his reasons for concluding that the general rule should apply: It appears to me that this is the very kind of case in which the ordinary rule should be applied in all its strictness. Disregard of an order of the court is a matter of sufficient gravity, whatever the order may be. Where, however, the order relates to a child the court is (or should be) adamant upon its due observance (cf. the recent case of Corcoran v. Corcoran, [[1950] 1 All E.R. 495]). Such an order is made in the interests of the welfare of the child and the court will not tolerate any interference with or disregard of its decisions upon these matters. Least of all will the court permit disobedience of an order that a child shall not be removed outside its jurisdiction. The reason for this is obvious. The court cannot exercise its quasi-parental powers in relation to a child unless effect can be given to its orders, and it cannot enforce its orders if the child is taken abroad. In the same case Lord Denning said at p. 424: It is a strong thing for a court to refuse to hear a party to a cause and it is only to be justified by grave considerations of public policy. It is a step which a court will only take when the contempt itself impedes the course of justice and there is no other effective means of securing his compliance … Applying this principle I am of opinion that the facts that a party to a cause has disobeyed an order of the court is not of itself a bar to his being heard, but if his disobedience is such that, so long as it continues, it impedes the course of justice in the cause, by making it more difficult for the court to ascertain the truth or to enforce the orders which it may make, then the court may in its discretion refuse to hear him until the impediment is removed or good reason is shown why it should not be removed. These principles have been accepted in Canada in the cases cited by the respondent. We agree with them. F. (E.) v. S. (J.S.) (1995), 30 Alta. L.R. (3d) 401 (C.A.), at 403, per curiam. In Broda v. Broda (2004), 346 A.R. 376 (C.A.), a husband in a family law proceeding was ordered (by way of a consent order) to produce certain documents by a specified date. He failed to do so, and was found in contempt. He appealed that contempt finding on the grounds that he had a reasonable excuse: he had underestimated the time he would need to produce the documents given the other things he had to do in his life. As the Court of Appeal noted (at p. 379–380): The husband advances many reasons to justify his delay, including time spent on construction of an office building, acting on his own behalf in his divorce action, and exercising access. Moreover, he submits that the statements could not be completed without providing further material to the accountant, and there had been no time to do this. In short, the husband argues that, at worst, he was guilty of not properly estimating the time within which the documents should be produced. As such, he says that he had a reasonable excuse for not producing the documents and that the mens rea requirement for a finding of civil contempt was not met. In rejecting that line of reasoning and upholding the finding of contempt, the Court said, at p. 380: In Michel v. Lafrentz et al. (1998), 219 A.R. 192, 179 W.A.C. 192, 1998 ABCA 231, at para. 21, Côté, J.A., cites a number of previous cases to support his finding that intent to disobey the court is not a necessary requirement for a finding of contempt: “[w]here someone is ordered by the court to do something, he or she must use a sufficient degree of diligence to perform, or to have the act performed.” This same principle was espoused recently by the British Columbia Court of Appeal in Topgro Greenhouses Ltd. et al. v. Houweling (2003), 184 B.C.A.C. 118, 302 W.A.C. 118, 2003 BCCA 355, at para. 6, where Smith, J.A., citing R. v. Perkins, [1980] 4 W.W.R. 763 (B.C. C.A.), stated: To knowingly breach a court order is to commit a contempt of court. All that is necessary to establish the contempt is proof of deliberate conduct that has the effect of contravening the order; an intent to bring the court into disrepute or to interfere with the due course of justice or with the lawful process of the court is not an essential element of civil contempt. Of course, civil contempt proceedings have serious consequences and a criminal element to them. Sometimes, even where the necessary elements are made out, making such a finding may be inappropriate in the circumstances. For example, where noncompliance is due to circumstances beyond the control of the party alleged to be in contempt: Metaxas et al. v. Ship Galaxias et al. (No. 2), [1989] 1 F.C. 386, 19 F.T.R. 108 (T.D.). That is not the case here. Here the husband made elective choices as to how to spend his time. The time limits he breached were his own. It was a consent order that he breached. … 12. Can One Seek the Assistance of the Court When Still In Contempt? In Phillips v. Phillips (2005), 56 Alta. L.R. (4th) 26 (C.A. [In Chambers]), O'Leary J.A. (In Chambers) raised, without deciding, the question of whether the applicant before him who was seeking a stay of proceedings could ask for such assistance when she was still in contempt of court orders. At p. 30, his Lordship said: Although I do not base my decision on this point, and it was not fully addressed in argument, I question whether a person who is in contempt of court for failure to obey specific orders of the Court of Queen's Bench is entitled to the assistance of this Court. The orders she has failed to obey are those under appeal and it is suggested she may succeed in her appeals and the contempt will then cease. I do not agree with that suggestion. Unless the applicant has complied with the orders and thus purged her contempt, or has been specifically excused from compliance, she remains in contempt. In any event, the applicant is in contempt of the courts in the State of Washington in proceedings related to these. There is authority for the proposition that a court will not assist a person in contempt of its orders: F. (E.) v. S. (J.S.) (1995), 30 Alta. L.R. (3d) 401 (Alta. C.A.), Horrey v. Litterst (1995), 32 Alta. L.R. (3d) 40 (Alta. C.A.). 13. When Does a Court become Functus in Contempt Proceedings? In Braun Estate (Trustee of) v. Braun (2006), 55 Alta. L.R. (4th) 18 (C.A.), Ms. Braun was the subject of a receiving order which required her to file an affidavit setting out monies received and paid by either her or her company. She failed to file the affidavit within the time stipulated, and she also failed to attend examinations properly scheduled by counsel for the trustee in bankruptcy. She was found to be in civil contempt, and when she failed to purge her contempt, she was sentenced (on August 23, 2004) to 14 days' imprisonment. She continued to refuse to comply with the court's orders, and, on October 20, 2004, was sentenced to a 4-month term of imprisonment. On February 16, 2005, Ms. Braun again appeared before the court and advised that she still would not comply with the orders. Her counsel submitted that the earlier determinate sentence of 4 months' imprisonment (which had been served) rendered the Court functus and that the Court could impose no further sanction for the contempt. The matter was put over to March 11, 2005, for decision. The learned justice disagreed with defence counsel, and “held that the Court of Queen's Bench was not without jurisdiction to impose further sanctions with respect to ‘[Braun's] ongoing contempt regarding Orders of this Court.’” Ms. Braun was found to still be in contempt, and was sentenced to another 4-month term of imprisonment (referred to by the Court of Appeal as “sixth Murray order”). The March 11, 2005, order was the subject of this appeal. Berger J.A., speaking for the panel, allowed the accused's appeal, and held that the lower court was functus when it imposed the sentence on March 11, 2005. At pp. 26–27, his Lordship said: The gravamen of the analysis, I suggest, is to ascertain whether (using the criminal law analogy) the impugned act amounts to a new actus reus. A person who is in possession of stolen property over a period of five days is not subject to prosecution for five offences. On the other hand, five bank robberies will attract five charges. The same is true of contempt. Where there is a subsequent breach of a court order stemming from a positive act on the part of the contemnor, such as the breach of a restraining order or a breach of an injunction, the subsequent breach can found a second contempt charge resulting in further sanctions: Skeena Kraft Ltd. v. Pulp & Paper Workers of Canada, supra, and U.N.A. v. Alberta (Attorney General) (1990), 104 A.R. 246 (Alta. C.A.); affirmed [1992] 1 S.C.R. 901 (S.C.C.). On the other hand, if an individual is ordered to attend examinations and wilfully fails to do so, the contempt crystallizes at the moment of non-compliance. Like possession of stolen property, nonattendance the following day does not constitute a new actus reus. If the contempt is not purged, the gravity of disobedience in the context of all of the circumstances is readily ascertained. This includes an assessment of the contemnor's motives for non-compliance, the impact on interested third parties, the public nature of the contempt and its implications for the integrity of the administration of justice. In such circumstances, one way of proceeding would be to adjourn once a finding of contempt is made and to schedule a sentencing hearing at some future date. This would allow the contemnor to consider whether to purge her contempt. If the contemnor elects to purge, that may be a mitigating factor. If the contempt is not purged, continued disobedience is neither an aggravating feature nor a fresh transgression. The sentence imposed should assume continued non-compliance. The nature of the contempt will have been assessed and will have been the subject of judicial pronouncement and sanction. Of course, it is always open to a contemnor to thereafter purge her contempt and to thereby mitigate the punishment that has been imposed. The Court, in my opinion, retains jurisdiction to reduce a fine or a term of imprisonment already imposed when a contemnor later elects to comply with the Court's order. The Court is not functus. Rule 704(4) and the common law preserve the Court's ability, in appropriate circumstances, to vary or remit the sanction. By proceeding in this fashion, respect for the administration of justice is enhanced, certainty is restored, and compliance with court orders is encouraged. Of course, the present restrained and measured practices of the Courts will continue. Judges who find a party to an action in civil contempt will almost always first consider non-penal sanctions such as the striking of pleadings and the imposition of costs. That said, if a penal sanction such as imprisonment or a fine is imposed, the judicial arsenal is not thereby depleted. The Court retains control over its own process and, if the unpurged contempt affects the fair adjudication of the suit, non-penal sanctions may still be invoked. Conclusion For the reasons set out above, I am of the view that the determinate sentence of imprisonment imposed upon the Appellant on October 20, 2004, brought the contempt proceedings to an end. The appeal from the “sixth Murray order” is allowed and that order is vacated. 14. Purging contempt In Lymer (Re), 2020 ABQB 157, 2020 CarswellAlta 398, 11 Alta. L.R. (7th) 157 (Registrar in Bankruptcy), the Registrar (L.A. Smart), gave this guidance as to when a person purges his or her contempt: A. — Purging Contempt (i)—The Test [29] A court may set aside a contempt order where “the contemnor subsequently complies with the order or otherwise purges his or her contempt”: Carey v Laiken, 2015 SCC 17, [2015] 2 SCR 79 at para 66 [Carey]. Rule 10.53(3) of the Alberta Rules of Court, Alta Reg 124/2010 provides that the Court may waive or suspend penalty or sanction “[i]f a person declared to be in civil contempt of Court purges the person's contempt.” [30] It is the party seeking to purge their contempt who bears the onus of demonstrating on a balance of probabilities that they have done so: Lymer (Re), 2017 ABQB 110 at paras 23, 29; Korea Data Systems Co v Chiang, 2009 ONCA 3 at paras 50–52 [Chiang]. The contemnor must satisfy the Court that they have subsequently complied with the order they previously breached to the full extent that they are reasonably able: Lymer (Re), 2017 ABQB 110 at paras 24, 29; Lymer (Re), 2018 ABQB 859 at para 157; Turkawski v 738675 Alberta Ltd, 2007 ABQB 745 at para 37 [Turkawski I]. (ii)—Principles [31] The objectives and principles that govern the contempt power are relevant to determining whether a party held in contempt has subsequently purged that contempt. [32] It is vital for a court to be able to enforce compliance with its orders: “The rule of law is directly dependent on the ability of the courts to enforce their process and maintain their dignity and respect” (Carey at para 30, citing United Nurses of Alberta v Alberta (Attorney General), [1992] 1 SCR 901 at 931, 1992 CanLII 99). A civil contempt order has as its main purpose coercion—to promote compliance with a court's orders (Chiang at para 117; Demb v Valhalla Group Ltd, 2017 ABQB 256 at paras 54, 82 [Demb ABQB 2017], aff'd 2017 ABCA 340 [Demb ABCA 2017], citing Schitthelm v Kelemen, 2013 ABQB 42 at para 59). This power, however, is one that courts must use “cautiously and with great restraint” (Carey at para 36, citing TG Industries Ltd v Williams, 2001 NSCA 105 at para 32). As such, a judge may decline to make a finding in contempt where the alleged contemnor acted in good faith in taking reasonable steps to comply with a court order (Carey at para 37). [33] However, it is also important to recognize that, as stated by the Ontario Superior Court of Justice in Knapp v Munro, 2015 ONSC 5444 at para 16: Notwithstanding the court's reluctance to exercise it contempt powers, it is important that such powers be exercised in appropriate cases to ensure that parties … understand that court orders cannot be ignored or disobeyed, and that compliance with a court order is neither an option nor a bargaining chip. [34] A court assessing whether a party has purged their contempt should also consider the context of the original contempt order and the circumstances of the overarching litigation (see e.g. Turkawski I; Turkawski v 738675 Alberta Ltd, 2008 ABQB 27 at paras 4-5, 15 [Turkawski II]; Keephills Aggregate Co v Riverview Properties Inc., 2008 ABQB 540 at para 18 [Keephills]; Demb ABCA 2017 at paras 5-6). … [37] It may be possible for a party found in contempt to purge their contempt without achieving perfect compliance with the order they previously breached. This may be the case where the party shows that they are unable—as opposed to unwilling—to satisfy elements of the earlier order (Turkawski I at para 37; Turkawski II at para 15). Additionally, the court may take into consideration that “the passage of time, and other factors, may affect the true importance of receiving complete satisfaction” of an earlier undertaking or requirement (Turkawski I at para 32). The fact that a party has not achieved perfect compliance with an earlier requirement may be less important where the intended product of that requirement is no longer relevant (Turkawski I at para 53). [38] Similarly, when document production is at the heart of the earlier contempt finding, a court may consider whether production has “run its course” at the time that a party applies to purge its contempt (Demb ABCA 2017 at para 6). … [45] The party seeking to purge its contempt holds the burden of showing that they have complied with the court order they previously breached or that despite their reasonable efforts, they are unable to do so: Turkawski I at para 37; Lymer (Re), 2017 ABQB 110 at paras 24, 29. It is not enough to show merely that any outstanding obligations are extremely difficult or onerous: Lymer (Re), 2017 ABQB 110 at para 27. However, context is an important consideration: see e.g. Turkawski I; Turkawski II at paras 4–5 15; Kee hills at para 18; Demb ABCA 2017 at paras 5–6"
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_53_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_006",
+        "part10_rule_10_53_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_008"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part12_document.json"
+        ]
+      },
+      "operative_text_sha256": "60adc4ae38d8fbfd7f35995339d135dd75b16b990fcd77b60c9a2fd64653eb68",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Punishment for civil contempt of Court",
+      "division_heading": "Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "bdad9f15ccc2ab2f1b1c3aac7de76dc7d5afeff98f82ed7e7be5284759d1d951",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General principles",
+          "text": "The party found to have been in contempt of court bears the onus, on a balance of probabilities, to demonstrate that they have purged their contempt. Lymer v. Jonsson, [2017] A.J. No. 138, 2017 ABQB 110 at para. 23 (Alta. Q.B. (Master)), affd Rule 10.53 [2018] A.J. No. 97, 2018 ABCA 36 (Alta. C.A.).\nPART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": [
+            {
+              "neutral_citation": "2017 ABQB 110",
+              "style_of_cause": "Lymer v. Jonsson"
+            },
+            {
+              "neutral_citation": "2018 ABCA 36",
+              "style_of_cause": "Lymer v. Jonsson",
+              "note": "The commentary prints '... 2017 ABQB 110 at para. 23 (Alta. Q.B. (Master)), affd Rule 10.53 [2018] A.J. No. 97, 2018 ABCA 36 (Alta. C.A.).': the words 'Rule 10.53' sit inside the citation of the appeal (a displaced label). Book A prints 'Lymer v. Jonsson 2018 ABCA 36, Edm 1703 0133 AC (Jan 30) (¶’s 20-30), leave den (SCC 27 Sep ’18)' in the 10.52 note (p.10-149 fn 13)."
+            }
+          ],
+          "review_flag": "The commentary 'General principles' (373 characters) is one sentence and one citation followed by the running head 'PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS' printed as text: 'The party found to have been in contempt of court bears the onus, on a balance of probabilities, to demonstrate that they have purged their contempt. Lymer v. Jonsson, [2017] A.J. No. 138, 2017 ABQB 110 at para. 23 (Alta. Q.B. (Master)), affd Rule 10.53 [2018] A.J. No. 97, 2018 ABCA 36 (Alta. C.A.).' The statement agrees with Book B's section 14 (Lymer (Re) 2020 ABQB 157 paragraph 30: 'It is the party seeking to purge their contempt who bears the onus of demonstrating on a balance of probabilities that they have done so: Lymer (Re), 2017 ABQB 110 at paras 23, 29') and with the 10.52 note of Book A (p.10-149: 'If contempt is shown, the onus lies on the offender to show that he has purged his contempt', fn 10 Re Lymer 2017 ABQB 110 ¶ 23); it is not in the 10.53 note of Book A. Book C prints the court of 2017 ABQB 110 as '(Alta. Q.B. (Master))'; Book B prints the 2020 decision as '(Registrar in Bankruptcy)'. The two citations' names are those printed with them."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "501-520_10_47 to 11_9.json",
+        "source_file": "501-520_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): the words equal the official text except that the numbers are missing in (1)(b) and (1)(c) and displaced citations stand in their places: '(b) imprisonment for not more than  Thompson v. Procrane Inc (c.o.b. Sterling Crane) . , [2016] A.J. No. 237, 2016 ABCA 71 at para. 12 (Alta. C.A.). years;' (the official number is '2') and '(c) a fine and, in default of paying the fine, imprisonment for not more than  Alberta Adolescent Recovery Centre v. Canadian Broadcasting Corp., [2012] A.J. No. 61, 2012 ABQB 48 at para. 66 (Alta. Q.B.). months;' (the official number is '6'). The same Thompson v. Procrane string is printed in place of the '2' of 'Part 2' in Book C's 10.47 entry ('For rules about litigation representatives see Part  Thompson v. Procrane Inc (c.o.b. Sterling Crane) . , [2016] A.J. No. 237, 2016 ABCA 71 at para. 12 (Alta. C.A.). [The Parties to Litigation]'; Book A prints 'see Part 2 [The Parties to Litigation] Division 2', combined_rule10.txt line 7367, p.10-137), so the digits '2' and '6' were replaced by citations in Book C's conversion. Neither citation occurs in the Book A note of this rule or in Book B's 10.53 commentary (searched 'Procrane' and 'Adolescent Recovery'); Book C prints the Adolescent Recovery Centre case again in its 3.68 entry ('at para. 25', file '161-180_3_67 to 4_7.json'). The rest of the text (subrules (1)(a), (1)(d)(i)-(iv), (2), (3), (4)) equals the official words, with the paragraphs run onto one line each.",
+      "citations_note": "The two rule-level citations printed with this record, 2016 ABCA 71 (Thompson v. Procrane Inc) and 2012 ABQB 48 (Alberta Adolescent Recovery Centre v. Canadian Broadcasting Corp.), are displaced from the digits '2' and '6' of the rule text (see the rule-text note) and do not annotate 10.53.",
+      "division_heading_flag": "wrong in Book C: rule 10.53 is in Division 4 (Sanctions) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9161,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.53",
+      "title_official": "Punishment for civil contempt of Court"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "235ad162d4ceb7ab9062efb1a4a037713a1e3283ed119b8865fdcff97b6c954e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            8622,
+            9077
+          ],
+          "book_pages": [
+            "10-160",
+            "10-161",
+            "10-162",
+            "10-163",
+            "10-164",
+            "10-165",
+            "10-166",
+            "10-167",
+            "10-168"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "60adc4ae38d8fbfd7f35995339d135dd75b16b990fcd77b60c9a2fd64653eb68",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part12_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "bdad9f15ccc2ab2f1b1c3aac7de76dc7d5afeff98f82ed7e7be5284759d1d951",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "501-520_10_47 to 11_9.json",
+          "source_file": "501-520_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "c299c481b1f8b007b1fe10716252f44bae3d8bdf7b1ddb219ebacc83d10e75ca",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            221
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "57269fa26884429060c25d4b74ddc9e2f35790eef03d2d7813fe3aa726502409"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.53' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1668), the page heading (line 13196) and the rule (line 13212). No other rule or form cites 10.53 by number. By subject (titles from the official text): 5.12 'Penalty for not serving affidavit of records', 10.33(2)(f) (line 12659: 'a contravention of or non-compliance with these rules or an order'), 10.49 'Penalty for contravening rules' ((1): 'pay to the court clerk a penalty'), 10.50 'Costs imposed on lawyer', 10.52 'Declaration of civil contempt', 10.55 'Inherent jurisdiction'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.33 Related Provisions (line 5604, p.10-105: '10.53 (contempt)') and note (line 6574, p.10-121: 'of contempt, see R.10.53 nn. C, D', which lands on Parts C 'Costs' and D 'Party in Contempt Cannot Make Application' of this note), the 10.51 Related Provisions and fn 4 (lines 7754 and 7782: '10.53 (inherent jurisdiction)', 'The inherent power is confirmed in R.10.53', flagged at 10.51), the 10.52 note (line 8541, flagged at 10.52), the running head (line 8611, p.10-160), this rule and its note (lines 8622-9077, 22 hits in the file in all) and the 10.55 note (line 9130: 'See also R.10.53(1) n. M.'; this note has Parts A-E only, no Part M, while the 10.52 note has a Part M 'Other Avenues to Punish or Enforce'); in combined_rule6.txt line 7387 ('rule 10.53(1) (d) [Punishment for civil contempt of Court]', which lands on official (1)(d)), in 'combined rule1.txt' line 1174 (the same pointer), in 'combined rule14.txt' line 13992 ('See also R.10.53n. C.', which lands on Part C 'Costs') and in 'combined rule3.txt' line 6953 ('Rr.1.4(2)(h), 10.53(1)(d)(ii)', which lands on official (1)(d)(ii) 'an action or an application be stayed').",
+    "BOOK_B: this rule is in rule10_part12_document.json (23 hits): heading, rule text (EXACT_MATCH) and one commentary '10.53:1' of 54,561 characters, read in full, in 14 numbered sections (1. New Rule is Essentially the same as the Old Rule; 2. Factors to Consider; 3. Family Law Situations; 4. Suspended Sentences and Other Penalties; 5. Maximum Possible Gaol Sentence; 6. Striking Pleadings as a Remedy for Contempt; 7. Fine versus Imprisonment; 8. To Whom is a Fine for Contempt Payable?; 9. Costs; 10. An Order Staying Interest on a Judgment; 11. Disobeying Court Order; 12. Can One Seek the Assistance of the Court When Still In Contempt?; 13. When Does a Court become Functus in Contempt Proceedings?; 14. Purging contempt); other Book B hits: rule10_part11_document.json (8 hits, all in the 10.52 commentary and heading records, e.g. 'In a contempt application, a person's liberty may be at risk: Rules rr 10.53(1)(a)–(c)', 'Sentencing: Rules r 10.53 outlines the “penalties” and “sanctions” the judge might impose on the contemnor', 'Rules rr 10.53(3)', 'imprisonment is available in Alberta as a sanction for contempt: Rule 10.53(1)'); the pointers land on official 10.53(1)(a)-(c), 10.53 and 10.53(3).",
+    "BOOK_C: '501-520_10_47 to 11_9.json' (10 hits: this entry (lines 264-313: rule text with two displaced citations, amendment note, commentary 'General principles' of 373 characters, two rule-level citations and two commentary citations) and the 10.52 entry's commentary (line 238: 'Rule 10.53 expressly authorizes the imposition of fines, imprisonment and costs', Mella para. 26, which lands on official 10.53)); other Book C files that cite 10.53 by number: '321-340_6_17 to 6_41.json' (1 hit, line 506: 'to have a pleading, claim or defence struck out or an action or application stayed under rule 10.53(1)(d) [Punishment for civil contempt of Court]', which lands on official (1)(d))."
+  ],
+  "dedupe_log": [
+    "10.53 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.53 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.53 BOOK_C citation context dropped (2016 ABCA 71): verbatim in kept text",
+    "10.53 BOOK_C citation context dropped (2012 ABQB 48): verbatim in kept text",
+    "10.53 BOOK_C citation context dropped (2017 ABQB 110): verbatim in kept text",
+    "10.53 BOOK_C citation context dropped (2018 ABCA 36): verbatim in kept text",
+    "10.53 BOOK_C commentary sentence split dropped",
+    "10.53 BOOK_C: rule text dropped (manual review)",
+    "10.53 BOOK_C: displaced citations dropped ['2016 ABCA 71', '2012 ABQB 48'] (manual review)",
+    "10.53 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

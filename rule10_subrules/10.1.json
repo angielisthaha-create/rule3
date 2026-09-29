@@ -1,0 +1,224 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.1",
+  "title": {
+    "official": "Definitions",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "10.1   In this Part,\n(a) “assessment officer” means the court clerk for the judicial\ncentre in which the action is located;\n(b) “review officer” means an assessment officer who, in the\nopinion of the clerk of the Court, has for the purpose of\nreviewing contingency fee or retainer agreements and\nlawyers’ charges\n(i) an acceptable degree in law, and\n(ii) sufficient experience in the practice of law,\nand who is designated as a review officer by\n(iii) the clerk of the Court for the judicial centre in which\nthe action is located, or\n(iv) if there is no clerk of the Court for the judicial centre\nin which the action is located, the Minister.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "f9ff909239b9cf1f3c0bf8a2b43e3e4130adfa948f83ed33491cb7f1420c535d"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "[Alta. Reg. 124/2010, r. 10.1 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]\nSubdivision 1: LAWYERS’ CHARGES"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '[Alta. Reg. 124/2010, r. 10.1 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation). The Gazette date 'May 15, 2021' is printed on Book C's Part 10 entries throughout (the four Part 10 files, 441-520, have 'Alta. Gaz. May 15, 2021' on 100 lines and 'August 14, 2010' only at rules 11.1-11.8), while its Part 3 entries print 'August 14, 2010'; the official text gives no Gazette date, so the printed date is kept as printed and was not checked."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          192,
+          193
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Deﬁnitions",
+      "operative_text_raw": null,
+      "operative_text_sha256": "647831f641178ea449b91370c8aadbb0f47b9da323b2bb26a749029bf8786678",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          51,
+          66
+        ],
+        "book_pages": [
+          "10-3"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Definitions",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.1:1",
+          "text": "Rule 10.1 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.1. In Shreem Holdings Inc. v. Barr Picard, 2014 ABQB 112, 2014 CarswellAlta 313, 100 Alta. L.R. (5th) 314, Mr. Justice Wakeling said, at paragraphs 66–67: 66 I am satisfied that Part 10, Division 1 of the Alberta Rules of Court constitutes a comprehensive code of a discrete subject matter—the review of a lawyer's charges outside the confines of an action for unpaid charges. This unit determines the amount which a lawyer may charge her client and the obligations a client has to her lawyer. It assigns particular tasks to different adjudicators and determines who may apply for a review, what may be done with the certificate of review and the consequences of a review being initiated. This regime occupies the field and leaves no room for the Court to exercise its inherent jurisdiction and order that the first question be answered through a hearing process. 67 The existence of a comprehensive protocol in the Alberta Rules of Court on a discrete topic is a clear indication on the part of the legislature and the judges of the superior courts20 of Alberta that any matter covered by the comprehensive code is to be governed by the applicable rule and not the court's inherent jurisdiction. Re Stelco Inc., 196 O.A.C. 142, 152 (C.A. 2005) &Etri Fans Ltd. v. N.M.B. (U.K.) Ltd., [1987] 1 W.L.R. 1110, 1114 (C.A). [Footnote omitted] In Rath & Co. v. Sweetgrass First Nation, 2013 ABQB 165, 2013 CarswellAlta 399, 559 A.R. 12, 85 Alta. L.R. (5th) 219, Justice Tilleman discussed the new terminology. At paragraph 22, his Lordship said: 22 Despite the new Rules, the old jurisprudence remains instructive. The change in name from “taxing officer” under the old Alberta Rules of Court, Alta Reg 390/1968 [Old Rules] to “review officer” under the new Rules is consistent with the goal of increasing usability and simplifying complex language: Alberta Law Reform Institute, Rules of Court Project, Final Report No 95 (Edmonton: ALRI, 2008) at para 9. In that report's rule concordance table, there is consistency that old rules regarding “taxation” concord with new rules regarding “review.” In Champagne v. Sidorsky, 2012 ABQB 522 at para 26, 220 ACWS (3d) 708 [Champagne], Justice Jones found “that the term ‘litigation representative’ under the Rules replaces and is inclusive of ‘next friend’ and ‘guardian ad litem’ under the Old Rules”. Likewise, I find that a “review officer” replaces a “taxing officer” and a “review” replaces a “taxation.”"
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_1_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002",
+        "part10_rule_10_1_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_004"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "21c33188ab4235e8a71205a6555dccb7199b7512d758905604b9f9b24e607d93",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Definitions",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "e9e1363d015fde2280f0fc8464838e5fa2727471a60c2c85aadd1713014b5f41",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "441-460_10_1 to 10_10.json",
+        "source_file": "441-460_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops after '(ii) sufficient experience in the practice of law, and who is desig- nated as a review officer by' (with the hyphenated 'desig- nated'), so subparagraphs (iii) and (iv) of (b) are missing; what is printed equals the official words (the official (i)-(ii) are printed inline). The Subdivision heading 'Subdivision 1: LAWYERS' CHARGES' printed after the amendment note is the heading of Subdivision 1, which begins at 10.2 in the official text."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7831,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.1",
+      "title_official": "Definitions"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "647831f641178ea449b91370c8aadbb0f47b9da323b2bb26a749029bf8786678",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            51,
+            66
+          ],
+          "book_pages": [
+            "10-3"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "21c33188ab4235e8a71205a6555dccb7199b7512d758905604b9f9b24e607d93",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "e9e1363d015fde2280f0fc8464838e5fa2727471a60c2c85aadd1713014b5f41",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "441-460_10_1 to 10_10.json",
+          "source_file": "441-460_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "f9ff909239b9cf1f3c0bf8a2b43e3e4130adfa948f83ed33491cb7f1420c535d",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            192,
+            193
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "42de6906bc655c308d4a7011461e5039844b6ec97f3d64b8fc5998523d2afe93"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 10.1', 'Rules 10.1', line-wrapped forms and form headings '[Rule 10.x]'): no rule or form cites 10.1 by number; the only hits are the table of contents (line 1458) and the rule itself (line 11621, pdf pp.192-193: (a) on p.192, (b) on p.193 after the running head 'Rule 10.2'). By subject: the Appendix (Definitions) defines the same two terms in the same words - 'assessment officer' (line 40564, pdf p.668) and 'review officer' (line 41073, pdf pp.676-677; its sub-items are lettered (a)-(b) and (c)-(d) where 10.1 has (i)-(ii) and (iii)-(iv)); the terms are used in 9.35(1)(b) (line 11238), 13.33 (line 17400), 10.9, 10.13, 10.34, 10.36 and the rest of Division 1-2, Schedule B item 6 of Division 1 ('appointment for review by a review officer', line 39408) and the forms for reviews and assessments (Form 42 '[Rule 10.13]', Form 43 '[Rule 10.26]', Form 44 '[Rule 10.35(1)]', Form 45 '[Rule 10.37]', Form 46 '[Rule 10.44]').",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers of combined_rule10.txt): the rule text is at p.10-3 (lines 52-66, running head 'R.10.1' line 47, DIVISION 1 heading lines 48-50); Book A prints no information note, related provisions or commentary for 10.1. The Part introduction (lines 22-41, before the first page marker) lists 'assessment officer' and 'review officer' among the words 'that have defined meanings in the Appendix'. Book A pointers that name 10.1: (1) p.10-5 (line 175, in the 10.2 note E 'Security for Fees'): 'Fewer lawyers are familiar with R.10.1(2) or the possibility of taking other security' - FLAG: official 10.1 has no subrule (2); the official subrule about security is 10.2(2) ('A lawyer may be paid in advance or take security for future lawyer's charges'); the sources do not say which was meant. (2) p.10-8 (line 308, Related Provisions of 10.4): '10.1(2) (agreement to provide security)' - FLAG: same, no 10.1(2) in the official text; the label matches 10.2(2). (3) p.10-35 (line 1694, in the 10.19 note): 'On negligence by the lawyer, see R.10.1 and commentary, supra.' - FLAG: 10.1 is the definitions rule and carries no commentary on negligence; the note on negligence and set-off is in Book A's 10.2 note (Part C 'Misconduct', p.10-5); the sources do not say which rule was meant. (4) p.10-96 (line 5125, footnote 5 in the 10.31 note): 'The test is reasonableness in prosecuting the suit, not R.10.1' - FLAG: 10.1 states no test of reasonableness (10.2(1) does); the sources do not say which rule was meant, but the same decision, McAteer v. Devoncroft Dev. (#2) 2003 ABQB 425, 340 AR 1, is cited in Book A's 10.2 note (p.10-6, footnote 8) for 'Rule 10.2 does not apply to the question of costs to the opponent on a solicitor-client (full indemnity) basis'.",
+    "BOOK_B: one commentary section 'Commentary § 10.1:1' (paragraph part10_part_10_..._004, 2,533 characters as printed with its heading; 2,513 in the built field): Shreem Holdings v. Barr Picard 2014 ABQB 112 paras 66-67 (Part 10, Division 1 is a comprehensive code that leaves no room for inherent jurisdiction) and Rath & Co. v. Sweetgrass First Nation 2013 ABQB 165 para 22 ('review officer' replaces 'taxing officer', quoting Champagne v. Sidorsky 2012 ABQB 522 para 26). Corroboration in Book A: Shreem 2014 ABQB 112 is cited at p.10-22 (line 1055, paras 47-48), p.10-45 (lines 2198-2199, paras 26-42 and 43 ff.) and in combined rule1.txt p.1-20 (line 986, paras 26-42), never for paras 66-67; Rath v. Sweetgrass is cited in Book A as 'Sweetgrass F. N. v. Rath & Co. 2013 ABQB 165, 559 AR 12' (p.10-24, line 1151; p.10-34, line 1663), the same decision and AR cite as Book B, and as 2014 ABCA 426, 588 AR 245 (p.10-13, line 594; p.10-24, line 1154); Champagne v. Sidorsky 2012 ABQB 522, 548 AR 10 (¶ 26) is in combined_rule2.txt p.2-30 (line 1499). Book B prints the heading '10.1. Definitions' twice (paragraphs _001 and _002, with the Part/Division running-head paragraph _003 between); it prints the footnote number '20' inside the quotation ('superior courts20') and '[Footnote omitted]'."
+  ],
+  "dedupe_log": [
+    "10.1 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.1 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.1 BOOK_C: rule text dropped (manual review)",
+    "10.1 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

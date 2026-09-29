@@ -1,0 +1,225 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.3",
+  "title": {
+    "official": "Suing individual partners",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.3(1)  In an action against a partnership in the partnership name, if\na party intends to enforce a judgment or order personally against a\npartner, the party must serve the partner with\n(a) the commencement document, and\n(b) a notice stating that the person was a partner at a time\nspecified in the notice.\n(2)  The person served is presumed to have been a partner at the\ntime specified in the notice unless the person defends the claim\nseparately by denying that the person was a partner at the specified\ntime.\n(3)  An individual partner whether or not served with a notice\nunder this rule may defend the action separately from the\npartnership.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d87be09dfc20fe4c644a8cf6680f9a7988c0dcc37999f48e545c4987e785db5e"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          37
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Suing Individual Partners",
+      "operative_text_raw": null,
+      "operative_text_sha256": "83e0cad38ceb5a04b9b09b12798099a9537e51476ff487ef4efaaf0c9169ca41",
+      "related_provisions": "9.23 (enforcement against partnerships)",
+      "commentary": "Partners need not rely on the statement of defence of the partnership or the managing partner;\nthey can ﬁle individual defences if they wish.¹",
+      "footnotes": [
+        {
+          "page": "2-5",
+          "number": 1,
+          "text": "Point on the Bow Dev. v. William Kelly & Sons Plumbing Contrs.2007 ABCA 204, 417 AR 192."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          96,
+          129
+        ],
+        "book_pages": [
+          "2-4",
+          "2-5"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Suing individual partners",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_007",
+        "part2_rule_2_3_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_008"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "52de790b08d4588b21184b75c154e9d3575509b114ec8792d5bbe5789e7c67a3",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Suing individual partners",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "63b6229d792c6af7c4c1a442752db9342680cf082a00e1e8e8bc36eba7200e9b",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "cut off in source after the first 9 words of (1); nothing else survives. Not usable; official text controls. Book C has no note, commentary or citation for 2.3."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.1475,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.3",
+      "title_official": "Suing individual partners"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "83e0cad38ceb5a04b9b09b12798099a9537e51476ff487ef4efaaf0c9169ca41",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            96,
+            129
+          ],
+          "book_pages": [
+            "2-4",
+            "2-5"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "52de790b08d4588b21184b75c154e9d3575509b114ec8792d5bbe5789e7c67a3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "63b6229d792c6af7c4c1a442752db9342680cf082a00e1e8e8bc36eba7200e9b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d87be09dfc20fe4c644a8cf6680f9a7988c0dcc37999f48e545c4987e785db5e",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            37
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "998f90d999be1cec51a61450a619f3acec16a8fa0808c5480b88ba66778c385b"
+  },
+  "information_notes": [
+    {
+      "text": "Under rule 9.23(2) [Enforcement against partners’ and partnership property] an order against\na partnership using the partnership name may also be enforced against a person served with\nnotice under this rule, if the order so provides. If notice is not served under this rule, an order\nagainst a partnership using the partnership name may still be enforced against a partner but\nonly with the Court’s permission and only if the conditions listed in 9.23(3) are met.",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A; 7th pass): Book A's R.9.23 text (p.9-67) cites rule 2.3 and 2.3(1), as the official 9.23 does. The R.11.15 '2.3 (contract providing for service)' slip is noted in the next item.",
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.11.15's related provisions (p.11-18) list '2.3 (contract providing for service)' - rule 2.3 is about suing individual partners; the label matches official rule 11.3 ('Agreement between parties'), so this is probably a slip for 11.3. Flagged, not corrected.",
+    "Rule 2.2: actions in the partnership name; BOOK_A 2.2 fn 2 (p.2-4) advises naming the individual partners too.",
+    "Rule 2.4: notice to disclose the partners' names and addresses (rules 2.2-2.4 form the partnership rules).",
+    "Rule 9.23 (outside Part 2): enforcement against partners and partnership property - cited in BOOK_A's 2.3 information note and in the related provisions of both 2.2 and 2.3. The official text of 9.23(2) and (3) itself refers to 'a notice under rule 2.3', 'presumed to be a partner under rule 2.3' and 'rule 2.3(1)' (the only references to rules 2.1-2.10 elsewhere in the official Rules; added in 4th pass; re-confirmed in 5th pass - no Division-level reference to Part 2 Division 1 and no form headed [Rule 2.1]-[Rule 2.10]).",
+    "6th pass: 9.23 holds the only references to these rules BY NUMBER; other official rules deal with the same subjects without naming them (see the see_also of 2.1, 2.2, 2.4, 2.6, 2.7, 2.9, 2.10)."
+  ],
+  "dedupe_log": [
+    "2.3 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.3 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.3 BOOK_C: rule text dropped (manual review)"
+  ]
+}

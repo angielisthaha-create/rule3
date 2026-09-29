@@ -1,0 +1,266 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.36",
+  "title": {
+    "official": "Assessment of bill of costs",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.36(1)  After a judgment or order has been entered, an\nassessment officer, in accordance with any Court direction or order,\nmay make an assessment of costs payable in accordance with rule\n10.41 in any of the following circumstances:\n(a) under rule 3.36(3);\n(b) under rule 3.37;\n(c) under rule 3.38;\n(d) under rule 3.39.\n(2)  In cases other than those referred to in subrule (1), the amount\nassessed under rule 10.41 as payable by one party to another must\nbe determined by way of an appointment with an assessment\nofficer unless the Court or the assessment officer otherwise\npermits.\n(3)  Despite subrules (1) and (2), if one party approves a bill of\ncosts prepared by another party adverse in interest, an assessment\nofficer must certify the bill of costs under rule 10.43, without\nchange.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "24c4bc3da759bcf7f5065c99ae74ca245a33edbec9bc4aa9dc5ff052217f8e30"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.36 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.36 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it)."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          212
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Assessment of Bill of Costs",
+      "operative_text_raw": null,
+      "operative_text_sha256": "c321741e238a8c94e888ccb94a22601e463efef1e4c18b0390dd8fddd37ecaf8",
+      "related_provisions": "9.35 (costs in foreclosures)",
+      "commentary": "See also the Rules set out in Schedule C.\nAugust 2021 to January 2022 Court of King's Bench notices having a bearing on reviews and\nassessments, and where to ﬁnd them, are described in R.10.13 n.\nRule 10.36(3) was applied even though not all the parties had consented, in a foreclosure\nwhere it was proved that no one had a ﬁnancial interest or any real likelihood of being affected by\nthe costs other than the party which had consented.¹\nA tariff of fees and an agreement with the sheriffs’ ofﬁce regulate the fees and expenses which\ncan be charged by civil enforcement agencies to enforce a money judgment. It is implicit that this\nsystem gives ﬁgures which are reasonable and proper. The assessment ofﬁcer has no power to\nvary them.²\nWhere a mortgage and a consent order call for solicitor-client costs, the assessment ofﬁcer\ncannot cut them in half, even if there was and remains a costs guideline by the Masters.³\nWhere an executor or trustee has had years to document expenses incurred, and more time\nwill not produce more vouchers, proportional responses should be followed, given the duty of the\nexecutor or trustee. Some expenses may be found legitimate without a voucher, and others may\nbe found not justiﬁed, and the fees of the executor or trustee may be reduced.⁴",
+      "footnotes": [
+        {
+          "page": "10-125",
+          "number": 5,
+          "text": "Quite similar to previous R.629.1. It was ﬁrst enacted as R.652.1, then moved to show that it applied to all bills of costs. The Alberta assessment ofﬁcers used to rely on Crédit Foncier Tr. Co. v. Hornigold (1984) 59 AR 103, 35 Alta LR(2d) 341, and would assess an account even when it was approved by counsel, unless the order speciﬁcally allowed counsel to agree on the costs. The 1992 amendment adding R.652.1 (now R. 629.1) reversed that interpretation. Then the Rule was relocated after R.629, by Alta. Reg.160/93."
+        },
+        {
+          "page": "10-126",
+          "number": 1,
+          "text": "CIBC Mtgs. v.742584 Alta. (#2) 2005 ABQB 862."
+        },
+        {
+          "page": "10-126",
+          "number": 2,
+          "text": "T. -D. Bank v. Hawes 2011 ABQB 76 (Feb 10)."
+        },
+        {
+          "page": "10-126",
+          "number": 3,
+          "text": "Alta. Treas. Br. v.1401057 Alta.2013 ABQB 748, 579 AR 152."
+        },
+        {
+          "page": "10-126",
+          "number": 4,
+          "text": "Re Vanmaele Est.2019 ABCA 499, Edm 1803 0305 AC (Dec 17) (¶’s 27-29)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6789,
+          6840
+        ],
+        "book_pages": [
+          "10-125",
+          "10-126"
+        ]
+      },
+      "operative_text_note": "Book A's rule text (title on line 6789, text lines 6790-6806) has the same words as the official text with these differences: the bracket labels added after rule numbers, '[Assessment officer’s decision]' after 'rule 10.41' in (1) and (2), '[Judgment in default of defence and noting in default]', '[Application for judgment against defendant noted in default]', '[Judgment for recovery of property]' and '[Judgment for debt or liquidated demand]' after rules 3.36(3), 3.37, 3.38 and 3.39 in (1)(a)-(d), and '[Certification of costs payable]' after 'rule 10.43' in (3); each label agrees with the official title of that rule (10.41, 3.36, 3.37, 3.38, 3.39, 10.43); the footnote marker '5' after 'without change.' (line 6806); and the ligature 'ofﬁcer' (four times). The lead-in words, paragraphs (1)(a)-(d) and subrules (2) and (3) are complete.",
+      "commentary_review_flag": "Read in full, p.10-125 (line 6789) to p.10-126 (line 6840): title (line 6789), rule text (lines 6790-6806, footnote marker '5' after (3)), the p.10-125 footnote block (lines 6808-6817: fns 1-4 belong to the 10.35 note, fn 5 is this rule's history), the marker 10-126 (line 6819), Related Provisions (lines 6822-6823, one entry), the note (lines 6825-6840) and 5 footnotes: p.10-125 fn 5 (lines 6813-6817, history: 'Quite similar to previous R.629.1. It was first enacted as R.652.1 ... relocated after R.629, by Alta. Reg.160/93.') and p.10-126 fns 1-4 (lines 6856-6859: CIBC Mtgs. v.742584 Alta. (#2) 2005 ABQB 862; T. -D. Bank v. Hawes 2011 ABQB 76; Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748, 579 AR 152; Re Vanmaele Est. 2019 ABCA 499); fns 5 and 6 of that block (lines 6860-6861) are the history of 10.37(1) and (2)(b). Read against the official text: the rule text equals official 10.36 apart from the bracket labels, the footnote marker and the ligatures (see the text note); every label agrees with the official title of its rule. (1) Related Provisions '9.35 (costs in foreclosures)' lands on 9.35 (a foreclosure order; its 9.35(1)(a)(iv) requires a bill of costs under 10.35); the note line 'See also the Rules set out in Schedule C.' is a pointer to Schedule C. (2) 'August 2021 to January 2022 Court of King's Bench notices having a bearing on reviews and assessments, and where to find them, are described in R.10.13 n.' (lines 6826-6827) does not match its target: the 10.13 note says 'a list with links to 10 court notices from August 2020 to January 2022' (lines 1404-1406). (3) 'Rule 10.36(3) was applied even though not all the parties had consented, in a foreclosure where it was proved that no one had a financial interest or any real likelihood of being affected by the costs other than the party which had consented' (fn 1, CIBC Mtgs. v.742584 Alta. (#2) 2005 ABQB 862): official 10.36(3) speaks of a bill of costs approved by 'one party ... prepared by another party adverse in interest'; the 9.35 note prints the same proposition (combined_rule9.txt lines 4563-4565) with the same citation as its fn 3 (line 4594). 'The assessment officer has no power to vary them' (fn 2) and 'cannot cut them in half' (fn 3) are case-law statements; fn 3 (Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748) is the same citation as p.10-124 fn 1 (line 6763) of the 10.34 note; Book B prints this case as 'Alberta Treasury Branches v 14010507 Alberta Ltd (Katch 22), 2013 ABQB 748' in its 10.36 commentary (the company number is '14010507' there, '1401057' in Book A, Book C and in 40 + 30 places in rule10_part02 and part03 of Book B, so Book B prints both). (4) No supra or infra is used in the five footnotes. Placeholders and misprints: none found (the text 'sheriffs’ ofﬁce' is as printed). The history footnotes name old rules (R.629.1, R.652.1, 1968 R.630, 1914 R.762, 1944 C. Rr.763, 764) and Alta. Reg.160/93, not checked against any old-rule text. Book B's commentary '10.36:1' (3,574 characters, read in full) has one case, Equitable Bank v. Avison 2015 ABQB 109 (Master Schulz), paragraphs 30-35: rule 10.36(3) does not apply where the bill is not endorsed with the defendant's approval and there is no affidavit evidence of consent; counsel should produce evidence (retainer agreement, actual bill, time dockets) and copies of invoices for disbursements; review of the assessment officer's decision is an appeal under rule 10.26 on the record. It cites 'Paradigm Quest Inc v Moser, 2014 ABQB 747' and Wakeling J.'s ten costs principles (2013 ABQB 748). Book A's 10.36 note does not cite Equitable Bank v. Avison or Paradigm Quest (no hit for '2015 ABQB 109' or 'Paradigm' in combined_rule10.txt), but Book A's 9.35 note cites both ('Eq. Bank v. Avison (M) 2015 ABQB 109, 613 AR 31', combined_rule9.txt line 4593, and 'Paradigm Quest v. Moser (M) 2014 ABQB 747', line 4597); and Book B's paragraph 33 quotation ends with an unmatched quotation mark ('... does not select the lawyer,” as here.')."
+    },
+    "BOOK_B": {
+      "title": "Assessment of bill of costs",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.36:1",
+          "text": "Rule 10.36 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.36. In Equitable Bank v. Avison, 2015 ABQB 109, 2015 CarswellAlta 222 (Master), Master Schulz emphasized the need for evidence in relation to assessments. The learned Master said, at paragraphs 30–35: 30 This matter went to the assessment officer at first instance. Counsel sent correspondence to the assessment officer in reference to a reduction in the fees claimed on the Bill of Costs wherein he stated that the assessment officer has … no authority to make this determination … The Defendant, Kenneth Avison, has no issue with regard to our Bill of Costs as there is a shortfall to the second mortgagee. As far as I know, the second mortgagee does not take issue with our Bill of Costs as the steps we took have been very beneficial to the second mortgagee. I am copying this letter to the second mortgagee through his solicitor. 31 It appears that this comment is made in reference to Rule 10.36(3): (3) Despite subrules (1) and (2), if one party approves a bill of costs prepared by another party adverse in interest, an assessment officer must certify the bill of costs under rule 10.43[Certification of costs payable]without change. [Emphasis added] 32 The Bill of Costs submitted to the assessment officer is not endorsed with the approval of the Defendant and there is no affidavit evidence of consent. Accordingly, Rule 10.36(3) does not apply. The assessment officer has the authority to assess the reasonableness of solicitor fees and disbursements. 33 Counsel is also reminded that the Court, and through it the assessment officers, have … an overriding obligation to ensure that those who are obliged to pay for legal services are treated reasonably, taking into account all the circumstances. This is an important function is all cases but particularly so when the person who may be liable to pay a lawyers' charges does not select the lawyer,” as here. Paradigm Quest Inc v Moser, 2014 ABQB 747 at para 12 (Schlosser, M.) (“Paradigm”), summarizing the tenth cost principle enunciated by Wakeling, J. (now J.A.) in Alberta Treasury Branches v 14010507 Alberta Ltd (Katch 22), 2013 ABQB 748 (“ATB”) 34 In correspondence to the assessment officer, Counsel indicates that the “fees set out in the Bill of Costs and Affidavit of Disbursement of Sale Proceeds are the actual legal costs recorded and billed”. The assessment officer is entitled to have evidence of this when assessing the reasonableness of the fees and disbursements and when applying the ten costs principles enunciated in the ATB case. As recommended by Master Schlosser at paragraph 32 of the Paradigm decision, Counsel would be well advised to produce the retainer agreement, evidence of the actual solicitor/client bill rendered to the client, the time dockets substantiating the charges, confirmation that the client has paid the account or at least approved it, and so on. It is up to Counsel to prove to the assessment officer that these are indeed the fees and disbursements charged to the client and that the client has agreed to be liable for that amount. In other words, the client has not imposed a tariff or cap to the fees and disbursements the lawyer can bill, in excess of which the client will not pay. 35 Similarly, Counsel would be well advised to provide copies of the invoices claimed as disbursements, preferably in affidavit form if requested by the assessment officer, keeping in mind that a review of the decision of the assessment officer is an appeal under Rule 10.26 to a justice and is on the record."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_36_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_004",
+        "part10_rule_10_36_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_006"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "7b2cee12e2d084060290ab939efe4f5d81fe8bad0db8983fc82b9203ece84f0c",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Assessment of bill of costs",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "3605d00c041a8f5857888e91745d7cb2a89582c055cc82bc136f980324b47896",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "An assessment under rule 10.36 involves an assessment officer making a decision concerning a dispute between two litigants when it becomes the responsibility of rule is not a review, but an assessment — a procedure addressing a dispute between successful",
+          "citations": [],
+          "review_flag": "The commentary 'General Principles' (254 characters, one sentence) is scrambled and cut off: 'An assessment under rule 10.36 involves an assessment officer making a decision concerning a dispute between two litigants when it becomes the responsibility of rule is not a review, but an assessment — a procedure addressing a dispute between successful'. The words 'of rule is not a review' show that text is lost between 'responsibility of' and 'rule ... is not a review' (the rule number after 'rule' is missing), and the sentence stops after 'between successful' (the noun and the rest are missing, and no citation is printed). It agrees in subject with Book B's commentary (an assessment under 10.36 as against a review under 10.26) but no words are restored here."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): the words equal the official text, but the bracket labels of Book A are displaced: '[Judgment for recovery of property]' is printed on a line of its own after '(c) under rule 3.38 ;' and '[Judgment for debt or liquidated demand]' on a line of its own after '(d) under rule 3.39 .', and '[Certification of costs payable]' on a line of its own after 'rule 10.43 , without change.'; there are stray spaces before the ';', '.' and ',' that follow the rule numbers."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 6789, text lines 6790-6806) has the same words as the official text with these differences: the bracket labels added after rule numbers, '[Assessment officer’s decision]' after 'rule 10.41' in (1) and (2), '[Judgment in default of defence and noting in default]', '[Application for judgment against defendant noted in default]', '[Judgment for recovery of property]' and '[Judgment for debt or liquidated demand]' after rules 3.36(3), 3.37, 3.38 and 3.39 in (1)(a)-(d), and '[Certification of costs payable]' after 'rule 10.43' in (3); each label agrees with the official title of that rule (10.41, 3.36, 3.37, 3.38, 3.39, 10.43); the footnote marker '5' after 'without change.' (line 6806); and the ligature 'ofﬁcer' (four times). The lead-in words, paragraphs (1)(a)-(d) and subrules (2) and (3) are complete."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.36",
+      "title_official": "Assessment of bill of costs"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "c321741e238a8c94e888ccb94a22601e463efef1e4c18b0390dd8fddd37ecaf8",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6789,
+            6840
+          ],
+          "book_pages": [
+            "10-125",
+            "10-126"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "7b2cee12e2d084060290ab939efe4f5d81fe8bad0db8983fc82b9203ece84f0c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "3605d00c041a8f5857888e91745d7cb2a89582c055cc82bc136f980324b47896",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "24c4bc3da759bcf7f5065c99ae74ca245a33edbec9bc4aa9dc5ff052217f8e30",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            212
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "cd1ef820649c5a559b114903c1aeb4894b57e7fa08683480daf5f5a09c6ed943"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.36' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1593), the page heading (line 12700, 'Rule 10.36') and the rule (line 12708). No other rule or form cites 10.36 by number. By subject (titles from the official text): 10.35 'Preparation of bill of costs'; 10.37 'Appointment for assessment'; 10.41 'Assessment officer's decision'; 10.43 'Certification of costs payable'; 3.36 'Judgment in default of defence and noting in default'; 3.37 'Application for judgment against defendant noted in default'; 3.38 'Judgment for recovery of property'; 3.39 'Judgment for debt or liquidated demand'; 9.35 'Checking calculations: assessment of costs and corrections' (foreclosure actions); 10.13 'Appointment for review' and 10.26 'Appeal to judge'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the running head (line 6774, p.10-125), the rule (line 6790), this note (line 6828, 'Rule 10.36(3) was applied even though not all the parties had consented ...') and the 10.37 note (line 6879, p.10-127: 'It is not necessary to wait a long time or reach agreement under R. 10.36(3)'); in combined_rule9.txt line 4563 (the 9.35 note: 'Rule 10.36 was applied even though not all the parties had consented. It was proved that no ...', the same case as this note's fn 1); in 'combined rule3.txt' line 2756 (a Rule 3 note that points to 'rule 10.36 [Assessment of bill of costs]'). The pointer 'R.10.13 n.' in this note (line 6827) leads to the 10.13 note, which prints 'a list with links to 10 court notices from August 2020 to January 2022' (lines 1404-1406) where this note says 'August 2021 to January 2022'.",
+    "BOOK_B: rule10_part10_document.json holds the heading, the rule text (EXACT_MATCH), and one commentary '10.36:1' of 3,574 characters (Equitable Bank v. Avison, 2015 ABQB 109 (Master), paragraphs 30-35, on the need for evidence on an assessment); Book B's 10.41 commentary (rule10_part10_document.json, paragraph 'part10_part_10_..._022') also cites 'r 10.36(1) & (2)'.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry ('Assessment of bill of costs', an orphan entry with no Division heading, rule text, no citations, 'General Principles' commentary of 254 characters); no other Book C file cites 10.36 by number."
+  ],
+  "dedupe_log": [
+    "10.36 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.36 BOOK_C commentary sentence split dropped",
+    "10.36 BOOK_C: rule text dropped (manual review)",
+    "10.36 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.36 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

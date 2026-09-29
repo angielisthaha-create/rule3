@@ -1,0 +1,232 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.56",
+  "title": {
+    "official": "Right to counterclaim",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 7,
+    "heading": "Counterclaims"
+  },
+  "operative_text": {
+    "controlling": "3.56(1)  A defendant may, by counterclaim, file a claim against\n(a) a plaintiff, or\n(b) the plaintiff and another person whether the other person\nis a party to the action by the plaintiff or not.\n(2)  A third party defendant may, by counterclaim, file a claim\nagainst the plaintiff, defendant or third party plaintiff, or any\ncombination of them, with or without any other person, whether the\nother person is a party to the action or not.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "ea6a0b65b3c63cae039d83e12df1dd182613dcb32849856906803543c889730c"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.56 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          72
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Right to Counterclaim",
+      "operative_text_raw": null,
+      "operative_text_sha256": "9cba6bd0df4e9899f1b8217662ceb11b8f5548cfe23ad9461e3acb17eb7ea9aa",
+      "defined_terms": "claim, defendant, file, party, plaintiff, third party defendant, third party plaintiff",
+      "related_provisions": "9.10 (judgment on counterclaim);12.11 (counterclaims in family litigation)",
+      "commentary": "Often a defendant wants to sue the plaintiff.He or she can issue a separate statement of\n\nclaim if desired, but two separate lawsuits are a nuisance, especially if the facts in themoverlap. Occasionally the limitation period for the second suit has expired, but for some personal injury claims, theLimitations Act extends the time for a counterclaim.In any of these cases, a 2 counterclaim is just a method of making the new suit back against the plaintiff part of the main suit. The counterclaim should be worded like a statement of claim. The counterclaim must recite\n\nenough facts to disclose an independent cause of action, and can do that partly by expressly incorporating parts of the statement of defence. Only a defendant can be a plaintiff by counterclaim, but there can be a counterclaim to a counterclaim.Most defendants by counterclaim need not be existing parties to the action, so\n\nlong as at least one of them is a plaintiff in the main suit.Perhaps the causes of action must be related to the main suit if there are some defendants by counterclaim who are not plaintiffs in the main suit.But if the defendants by counterclaim are all plaintiffs, probably the main claim and counterclaim need not be related. The Attorney-General sued for a declaration that a certain practice was legal, other parties\n\narguing that it was illegal.The judge agreed that it was illegal, and gave a declaration of illegality, apparently without a counterclaim. Both parties to a matrimonial property suit can ask to have certain assets unequally divided, even if there is no counterclaim, because the test for inequality is what is just, and the arguments for and against unequal division were not new.\n\nof irreparable prejudice to the plaintiff could not add a late counterclaim, inBrown v.Univ.of Alta. Hosp. (1996) 183 AR 128, 47 CPC(3d) 34. 5Harp v. McCullough2002 ABQB 397, 318 AR 86.See also R.3.56n. 6Fiell v. IntegratedWealth Secur.(M) 2016 ABQB 69, JCC 1301 10329 (Feb 2). 7Austec Electron.Sys. v.Mark IV Ind. (#2)2001 ABQB 349, 285 AR 154.Assuming that the limitations legislation does not extend the time to counterclaim.\n\n8Marlborough Ford Sales v.Ford Motor Co.of Can.2003 ABQB 298, 13 Alta LR(4th) 336. 9L.EgoroffTpt.v. Green Life Distrib.(M) 2020 ABQB 360, JCE 1603 20099 (Jun 5) (¶'s 84-94). \n*Contents of Counterclaim\n*same time period that the plaintiff-by-counterclaim must file a\n1Sovereign Gen.Ins.Co. v.Tanar Ind.2001 ABQB 404, 290 AR 369. 2A.M.v.Matthews2003 ABQB 942, 344 AR 182. 3Deuruneft Deutsche-Russische etc.v. Bullen2002 ABQB 304, 310 AR 164,affd & adopted2003 ABCA 132.\n\n4Deuruneft v. Bullen.Therefore, a defendant who delayed until a lengthy trial was scheduled, with a risk\n\n*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-124",
+          "3-126"
+        ],
+        "offset_in_clean_text": [
+          394615,
+          399471
+        ]
+      },
+      "operative_text_note": "same wording as official 3.56(1)-(2) (read by eye) except: the text is printed in pieces out of order with footnote blocks between them (p.3-124 line 3507 '3.56(1) ... (a) a plaintiff, or'; p.3-125 line 3514 (b) after fn 6-7; line 3515 '... defendant or third party plaintiff, or any combination of them, with or without any'; line 3524 '(2) A third party defendant may, by counterclaim, file a claim against the plaintiff,'; line 3525 'other person, whether the other person is a party to the action or not.') - read as the official; the title in title case ('Right to Counterclaim', printed before the rule number); missing spaces; '*' line marks; the footnote marker '1' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: '6There seems to have been little discussion of that procedural point, though clearly the substantive issues were fully argued:Re Hearing Office Bail Hearings2017 ABQB 74, 2017 CarswellAlta 162 (Feb 3). 7Stalzer Est. v. Stalzer2019 ABQB 658, JCE 4803 143744 (Aug 23) (¶'s 21-25). counterclaim:A.-G. Can.v.Prefontaine2009 ABQB 341, 2009 CarswellAlta 810.The old case law (and 1Quite similar to previous 1968 R.93(1).It came from 1944 C.R.103(1); pt.Judic.Ord.r.110;Eng.1883 O.19 r.3 as am.1929 (#1).A transitional case applying the new Rule and allowing a freestanding counter claim is *T.-D.Bank v. Leffler(M) 2010 ABQB 547 (Aug 25). 2RSA 2000 c.L-12. 3See the prescribed form. 4A \"counterclaim\"by a non-party is a nullity (citing authority):W. Edm.Mall Prop.v. Proctor2020 ABQB 161, JCE 1903 23107 (Mar 2) (¶'s 48-50).And a defendant in an unserved statement of claim cannot former Rule) say that a person cannot be a plaintiff by counterclaim unless he or she was (is) a party to the main claim.Though R.1.2 was argued, the courts cannot rewrite R.3.56 to allow such a person to be a plaintiff by counterclaim.Nor will s.8 of theJudicature Actallow that, desirable as it might be.It is unclear whether (in the right type of suit) the Surrogate Rules (where applicable) might allow that:Decore v.Decore 2016 ABQB 246, 35 Alta LR(6th) 189 (¶'s 72-73, 86, 90 ff.). 5See the C.P.E., Chapter 15, Parts E, F, G and I.But also see R.3.58, and R.3.59 and its commentary, and commentary in the C.P.E., Chapter 15, Part N.' (fn 6-7 of the p.3-125 page, a case fragment 'counterclaim: A.-G. Can. v. Prefontaine 2009 ABQB 341' whose first half is not in this record, this rule's history fn 1 with fns 2-4, and fn 5; the history fn 1 'Quite similar to previous 1968 R.93(1). It came from 1944 C.R.103(1); pt. Judic.Ord. r.110; Eng. 1883 O.19 r.3 as am. 1929 (#1)' matches the marker '1' after (2)).",
+      "commentary_review_flag": "Read p.3-124 (line 3507) to p.3-126 (line 3544, the heading 'Contents of Counterclaim' of 3.57): rule text (in pieces out of order), Defined Terms 'claim, defendant, file, party, plaintiff, third party defendant, third party plaintiff' (the Appendix defines each), Related Provisions '9.10 (judgment on counterclaim); 12.11 (counterclaims in family litigation)' and a note of four paragraphs, with footnotes as printed; the note is skimmed for structure and pointers, not case by case. The built record: the note is in the commentary field (2,706 characters), followed by pieces that belong to the NEXT rule's note (3.57: 'same time period that the plaintiff-by-counterclaim must file a', 'of irreparable prejudice to the plaintiff could not add a late counterclaim, in Brown v. Univ. of Alta. Hosp.', footnotes 4-9 and 1-4 including Sovereign Gen. Ins. Co. v. Tanar, A.M. v. Matthews, Deuruneft v. Bullen, Marlborough Ford, L. Egoroff Tpt. v. Green Life) and the heading 'Contents of Counterclaim'; defined_terms and related_provisions hold the two lines; the raw-text field held the footnote blocks (kept in the text note); nothing dropped. (1) Related Provisions: '9.10 (judgment on counterclaim)' (official 9.10 is 'Judgment for balance on counterclaim'); '12.11 (counterclaims in family litigation)' (official 12.11 is 'Statement of defence, counterclaim and demand for notice'). (2) Statements read against the official text and Book B: 'Only a defendant can be a plaintiff by counterclaim, but there can be a counterclaim to a counterclaim' agrees with 3.56(1) and Book B's Lil Dude Ranch v. 1229122 Alberta 2014 ABQB 39 paras 29-31, 36 ('only a defendant can advance a counterclaim ... No one else can (except a third party, as now expressly provided in rule 3.56(2))'); 'Most defendants by counterclaim need not be existing parties to the action, so long as at least one of them is a plaintiff in the main suit' agrees with 3.56(1)(b); footnote 4 ('A \"counterclaim\" by a non-party is a nullity (citing authority): W. Edm. Mall Prop. v. Proctor 2020 ABQB 161, JCE 1903 23107 (Mar 2) (¶'s 48-50)') agrees with Book B's quotation of West Edmonton Mall Property v. Proctor 2020 ABQB 161 at para 48; 'Decore v. Decore 2016 ABQB 246' is cited in both (Book B: adopted Master Robertson's position at para 69; Book A: '¶'s 72-73, 86, 90 ff.'); 'Though R.1.2 was argued, the courts cannot rewrite R.3.56' agrees with Lil Dude Ranch para 36 (rule 1.2 and 'rewriting'); the statements about limitation periods, the Attorney-General declaration, matrimonial property and late counterclaims are not in the rule text and were not checked. (3) History: fn 1 (1968 R.93(1); 1944 C.R.103(1); Judic.Ord. r.110; Eng. 1883 O.19 r.3) is this rule's (marker '1' after (2)). Book B's Lil Dude Ranch quotation says 'former Rule 93(1)' - agrees. (4) Other rules' pointers to 3.56: 3.32(c) (Book A p.3-82 line 2229 '3.56 [Right to counterclaim]', matches the official title); 3.49(4)(b) (p.3-121 line 3436, '3.56(2) [Right to counterclaim]'); the 3.46 related provision '3.56(2) (counterclaim by third party defendant)' (p.3-119 line 3395); R.9 p.9-21 (line 975) and R.12 p.12-13 (line 565), p.12-21 (line 889) label it '3.56 (counterclaims)' (shortened; the official title is 'Right to counterclaim'); Book B's 10.33 commentary (rule10_part09_document.json) refers to 'a defence based on Rule 3.56(1)' and its 3.74 commentary (rule3_part10_document.json) to 'rule 3.56(1)'. The official text cites 3.56 in 3.32(c) (line 4455) and 3.49(4)(b) (line 4894); the other hits are the table of contents (line 440), the running page header (line 4985) and the rule itself (line 5005)."
+    },
+    "BOOK_B": {
+      "title": "Right to counterclaim",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.56:1",
+          "text": "Rule 3.56 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.56. One Cannot Add a Non-Party as Plaintiff-by-Counterclaim In Lil Dude Ranch Ltd. v. 1229122 Alberta Inc., 2014 ABQB 39, 2014 CarswellAlta 82, 5 Alta. L.R. (6th) 154 (Master), Master Robertson said, at paragraphs 29–31, and 36: 29 It is manifestly clear that the former Rule 93(1) and Rule 3.56(1) say that only a defendant can advance a counterclaim. Although the wording of the new rule is slightly different than the former rule, they both say that a defendant can advance a counterclaim, and in doing so the defendant can add other parties as defendants-by-counterclaim in addition to the plaintiff. Neither the former rule nor the current rule admit of the possibility of adding a stranger to the proceedings as a plaintiff-by-counterclaim. 30 This is what Master Alberstat said clearly in Bhatt v. Hoogstraat, [1989] A.J. No. 927, 1989 CarswellAlta 421 at paragraph 4: The rule is quite explicit. Only a defendant can file a counterclaim. There is no provision whatsoever for someone who is a stranger to the action, to file a counterclaim. The counterclaim therefore is, or was, a nullity. 31 In reaching this conclusion, he was following a decision of the Alberta Supreme Court, Appellate Division in 1957 under an earlier version of the Rules, Makarchuk v. Pollard, [1957] A.J. No. 38, 1957 CarswellAlta 77, which also described a counterclaim made by a non-party as a nullity, and a 1972 decision of the Alberta Supreme Court that had followed Makarchuk, being Saskatchewan v. Buskas, [1972] A.J. No. 111, 1972 CarswellAlta 134, which expressly recognized the changes to the Alberta Rules of Court that had been changed after Makarchuck with the introduction of new Rules in 1966, but followed that earlier case and struck out a counterclaim made by a non-party. … 36 I comment that there is strong appeal to the concept, as reflected in rule 1.2, of adding the new plaintiff-by-counterclaim to make sure that the correct parties are before the Court at trial. The submission is that rule 3.56(1) should be “interpreted” so as to allow the addition of a non-party as plaintiff-by-counterclaim. The difficulty is that I would not be “interpreting” it, but rather re-writing it, and I would be doing so in the face of 57 years of consistent case law that read the same words, albeit in earlier Rules, as saying that the words mean what they say in their plain and ordinary meaning: a defendant can advance a counterclaim. No one else can (except a third party, as now expressly provided in rule 3.56(2)). In West Edmonton Mall Property Inc. v. Proctor, 2020 ABQB 161, 2020 CarswellAlta 373, 47 C.P.C. (8th) 294, 171 C.P.R. (4th) 292, Justice Mah said: [48]… I prefer the interpretation of Rule 3.56 (the rule governing the right to counterclaim) advanced by Master Robertson in Lil Dude Ranch Ltd. v. 1229122 Alberta Inc, 2014 ABQB 39 at para 29 where he found that a counterclaim made by a non-party is a nullity. Master Robertson's position was adopted by Justice Michalyshyn in Decore v Decore, 2016 ABQB 246 at para 69 and by Justice Renke in 623455 Alberta Ltd v The Partnership of Jackie Handerek & Forester and Shawn D. Hagen, 2018 ABQB 86 at para 244."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_56_001",
+        "part3_part_3_court_actions_024",
+        "part3_rule_3_56_002",
+        "part3_part_3_court_actions_026"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "161889c4e5f1ab40d536ff29d958abb17c3d01e73bbcdb0b0b35c8f52ade586f",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Right to counterclaim",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "9113e43ca8ab1646ca64223a192c0b777a0aacb180561eeb3c99eaa446982cb0",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The counterclaim is a powerful tool that permits a defendant or third",
+          "citations": [],
+          "review_flag": "The commentary is cut off after 69 characters: 'The counterclaim is a powerful tool that permits a defendant or third' - the rest is not in the file; the words agree with 3.56(1)-(2)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): after '(1) A defendant may, by counterclaim, file a claim against (a) a plaintiff, or' the running head 'R. 3.54' is printed in place of paragraph (b) ('(b) the plaintiff and another person whether the other person is a party to the action by the plaintiff or not.' is missing) and subrule (2) follows; (2) equals the official text. The amendment note '[Alta. Reg. 124/2010, r. 3.56 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.2597,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.56(1)-(2) (read by eye) except: the text is printed in pieces out of order with footnote blocks between them (p.3-124 line 3507 '3.56(1) ... (a) a plaintiff, or'; p.3-125 line 3514 (b) after fn 6-7; line 3515 '... defendant or third party plaintiff, or any combination of them, with or without any'; line 3524 '(2) A third party defendant may, by counterclaim, file a claim against the plaintiff,'; line 3525 'other person, whether the other person is a party to the action or not.') - read as the official; the title in title case ('Right to Counterclaim', printed before the rule number); missing spaces; '*' line marks; the footnote marker '1' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: '6There seems to have been little discussion of that procedural point, though clearly the substantive issues were fully argued:Re Hearing Office Bail Hearings2017 ABQB 74, 2017 CarswellAlta 162 (Feb 3). 7Stalzer Est. v. Stalzer2019 ABQB 658, JCE 4803 143744 (Aug 23) (¶'s 21-25). counterclaim:A.-G. Can.v.Prefontaine2009 ABQB 341, 2009 CarswellAlta 810.The old case law (and 1Quite similar to previous 1968 R.93(1).It came from 1944 C.R.103(1); pt.Judic.Ord.r.110;Eng.1883 O.19 r.3 as am.1929 (#1).A transitional case applying the new Rule and allowing a freestanding counter claim is *T.-D.Bank v. Leffler(M) 2010 ABQB 547 (Aug 25). 2RSA 2000 c.L-12. 3See the prescribed form. 4A \"counterclaim\"by a non-party is a nullity (citing authority):W. Edm.Mall Prop.v. Proctor2020 ABQB 161, JCE 1903 23107 (Mar 2) (¶'s 48-50).And a defendant in an unserved statement of claim cannot former Rule) say that a person cannot be a plaintiff by counterclaim unless he or she was (is) a party to the main claim.Though R.1.2 was argued, the courts cannot rewrite R.3.56 to allow such a person to be a plaintiff by counterclaim.Nor will s.8 of theJudicature Actallow that, desirable as it might be.It is unclear whether (in the right type of suit) the Surrogate Rules (where applicable) might allow that:Decore v.Decore 2016 ABQB 246, 35 Alta LR(6th) 189 (¶'s 72-73, 86, 90 ff.). 5See the C.P.E., Chapter 15, Parts E, F, G and I.But also see R.3.58, and R.3.59 and its commentary, and commentary in the C.P.E., Chapter 15, Part N.' (fn 6-7 of the p.3-125 page, a case fragment 'counterclaim: A.-G. Can. v. Prefontaine 2009 ABQB 341' whose first half is not in this record, this rule's history fn 1 with fns 2-4, and fn 5; the history fn 1 'Quite similar to previous 1968 R.93(1). It came from 1944 C.R.103(1); pt. Judic.Ord. r.110; Eng. 1883 O.19 r.3 as am. 1929 (#1)' matches the marker '1' after (2))."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8296,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): after '(1) A defendant may, by counterclaim, file a claim against (a) a plaintiff, or' the running head 'R. 3.54' is printed in place of paragraph (b) ('(b) the plaintiff and another person whether the other person is a party to the action by the plaintiff or not.' is missing) and subrule (2) follows; (2) equals the official text. The amendment note '[Alta. Reg. 124/2010, r. 3.56 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.56",
+      "title_official": "Right to counterclaim"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "9cba6bd0df4e9899f1b8217662ceb11b8f5548cfe23ad9461e3acb17eb7ea9aa",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-124",
+            "3-126"
+          ],
+          "offset_in_clean_text": [
+            394615,
+            399471
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "161889c4e5f1ab40d536ff29d958abb17c3d01e73bbcdb0b0b35c8f52ade586f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "9113e43ca8ab1646ca64223a192c0b777a0aacb180561eeb3c99eaa446982cb0",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "ea6a0b65b3c63cae039d83e12df1dd182613dcb32849856906803543c889730c",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            72
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "d85d298bddbcee6fb1067e418f5d585c8633cd84afd0e7fbd8df7459865e3400"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.56 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.56 BOOK_C commentary sentence split dropped",
+    "3.56 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.56 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.56 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.27",
+  "title": {
+    "official": "Retaining lawyer for limited purposes",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Lawyer of Record"
+  },
+  "operative_text": {
+    "controlling": "2.27(1)  If a self-represented litigant or a lawyer of record retains a\nlawyer to appear before the Court for a particular purpose, the\nlawyer appearing must inform the Court of the nature of the\nappearance, either\n(a) orally, or\n(b) before the appearance, by filing the terms of the retainer.\n(2)  If a self-represented litigant retains a lawyer for a particular\npurpose, the litigant must attend the application or proceeding for\nwhich the lawyer is retained unless the Court otherwise permits.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "2cc5b448d58d003c13755a4700a1be653e0daec62b65b497c9cb3042c96ec1b8"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.27 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nR.S.A. 2000, c. L-12, s. 3(2)(c)."
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "a stray statute citation ('R.S.A. 2000, c. L-12, s. 3(2)(c).') follows the amendment note; a bare citation with no text; the Act is not named in any of the sources and it appears nowhere else in Book C, so its connection to 2.27 cannot be shown (reworded in 4th pass - the earlier note asserted it was unrelated). Not used."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          46
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Retaining Lawyer for Limited Purposes",
+      "operative_text_raw": null,
+      "operative_text_sha256": "e763a2bcc5f6264433ab7011871828df260f5f2faf2e122742b7412f517b6137",
+      "related_provisions": "2.24 (lawyer of record; 2.25 (duties of lawyer of record) ; 3.35 (consent orders).",
+      "commentary": "Generally on self-represented parties, see R.2.2 n.",
+      "footnotes": [],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          3136,
+          3149
+        ],
+        "book_pages": [
+          "2-62"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "probable Book A typo: 'Generally on self-represented parties, see R.2.2 n.' - rule 2.2 is about partnerships; self-represented parties are covered at R.2.22 n. Not corrected."
+    },
+    "BOOK_B": {
+      "title": "Retaining lawyer for limited purposes",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.27:1",
+          "text": "Rule 2.27 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.27. 1. The Rule Does Not Allow a Party to Bypass the Rules on Service In 1920341 Alberta Ltd. v. Jonsson, 2018 ABCA 231, 2018 CarswellAlta 1243, Justice Slatter said: 8 Counsel who filed the application for permission to appeal described themselves as “Counsel for the purpose of filing leave to appeal only”. Rule 2.27 recognizes the validity of retainers for specified purposes, but there are limits on the use of this procedure. In this case counsel who filed the Memorandum gave their own address as the address for service. Rule 11.15 allows any other party to serve a litigant at the address for service. Alberta law does not recognize the concept of “refusing service”: Zahmol Properties Ltd. v Calgary (City), 2012 ABCA 89 at para. 18, 522 AR 32, 62 Alta LR (5th) 253. Thus, the respondents were entitled to serve their memoranda of argument in opposition to the application on that firm, and were not obliged to try and serve 1920341 by any other method: Sandhu v MEG Place LP Investment Corp., 2012 ABCA 266 at paras. 21, 24-5, 542 AR 12. Rule 2.27 does not allow parties to bypass the rules on service."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_047",
+        "part2_rule_2_27_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_048",
+        "part2_alberta_rules_of_court_rule_2_part_2_049",
+        "part2_rule_2_27_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_050"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "28227b5381f1b518820f6790136ca2ab73d8ce7df77188e7115197c33978b313",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Retaining lawyer for limited purposes",
+      "division_heading": "Division 3 – REPRESENTATION OR ASSISTANCE BEFORE THE COURT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "cbbec5a5cea79a0122b96ae3ad8093a160a77485366b9d028a189fa87680e8b2",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 2.27 is in Division 4 (Lawyer of Record) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.27",
+      "title_official": "Retaining lawyer for limited purposes"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "e763a2bcc5f6264433ab7011871828df260f5f2faf2e122742b7412f517b6137",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            3136,
+            3149
+          ],
+          "book_pages": [
+            "2-62"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "28227b5381f1b518820f6790136ca2ab73d8ce7df77188e7115197c33978b313",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "cbbec5a5cea79a0122b96ae3ad8093a160a77485366b9d028a189fa87680e8b2",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "2cc5b448d58d003c13755a4700a1be653e0daec62b65b497c9cb3042c96ec1b8",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            46
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "262335fab752325e3c159988163c130ef861cf84958a7d87b6447f4170f025e8"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): listed as a related provision under R.10.2 (p.10-4, 'limited retainers'); R.13.42 notes (p.13-103) list 'Rr.2.27, 3.34, ...' among rules that 'seem to require filing' - official 2.27(1) lets the lawyer inform the Court orally OR by filing the terms of the retainer, so filing is one option, not a requirement.",
+    "Rule 2.24: BOOK_A related provisions list 2.27 (limited retainers).",
+    "Rule 11.15 (address for service): BOOK_B 2.27 (1920341 Alberta v Jonsson 2018 ABCA 231).",
+    "Rule 2.22: BOOK_A 2.27 'Generally on self-represented parties, see R.2.2 n.' - probably R.2.22 (flagged)."
+  ],
+  "dedupe_log": [
+    "2.27 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.27 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.27 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.27 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.37",
+  "title": {
+    "official": "Appointment for assessment",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.37(1)  A party entitled to payment of costs may obtain from an\nassessment officer an appointment date for an assessment of costs.\n(2)  If a party entitled to payment of costs makes the appointment,\nthat party must, 10 days or more before the appointment date,\n(a) file a proposed bill of costs, and\n(b) serve every party affected by the appointment with notice\nof the appointment date in Form 45 and the proposed bill\nof costs.\n(3)  If any other party obtains an appointment date, that party must\n(a) 20 days or more before the appointment date, serve notice\nof the appointment date in Form 45 on every party\naffected, and\n(b) serve on the party entitled to payment of costs a request\nthat the entitled party prepare a proposed bill of costs.\n(4)  The recipient of the request to prepare a proposed bill of costs\nmust do so as soon as practicable and file it and serve it on every\nother party 10 days or more before the appointment date.\n(5)  An assessment officer may vary a time period referred to in\nthis rule whether or not the period has passed.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "870abf33cac2ab3e235b771c903d823c75e8affeef090cc72cff1126a94c7183"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.37 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.37 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it). Its rule text equals the official text."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          212,
+          213
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Appointment for Assessment",
+      "operative_text_raw": null,
+      "operative_text_sha256": "2546815d3f7d9d24aae3e38851dc085cab7377a3424163069098b5de60de9212",
+      "related_provisions": "13.5 (extending time)",
+      "commentary": "When the court awards costs between parties but does not specify their exact amount, the\nprocedure is as follows. The lawyer seeking costs draws up a bill of costs.¹\nIt is traditional to send\nthe draft bill of costs to the lawyer for the payor and ask him or her to agree as to the amount.\nOften negotiation results. It is not necessary to wait a long time or reach agreement under R.\n10.36(3). The payee can get a date from the assessment ofﬁcer for a hearing to approve or vary\nthe bill of costs, print up a formal appointment ﬁxing that day, have the Clerk sign and seal it, and\nserve it on the payor’s lawyer. The other party has no right to object to large swathes of dates for\nthat hearing and so postpone the hearing unduly.²\nBefore an assessment of party-party costs, the payor need not give advance notice that he will\nobject that the proposed costs would exceed full indemnity.³",
+      "footnotes": [
+        {
+          "page": "10-126",
+          "number": 5,
+          "text": "Quite similar to previous 1968 R.630. It was similar to 1914 R.762, and 1944 C. Rr.763, 764."
+        },
+        {
+          "page": "10-126",
+          "number": 6,
+          "text": "Quite similar to previous 1968 R.630. It was similar to 1914 R.762, and 1944 C. Rr.763, 764."
+        },
+        {
+          "page": "10-127",
+          "number": 1,
+          "text": "See the annotation to R.10.35."
+        },
+        {
+          "page": "10-127",
+          "number": 2,
+          "text": "Oleynik v. Univ. of Calg.2013 ABCA 395, 2013 CarswellAlta 2302 (one JA Nov 22) (¶’s 10-19), leave den 2014 ABCA 19, 2014 CarswellAlta 53. (Jan 16)."
+        },
+        {
+          "page": "10-127",
+          "number": 3,
+          "text": "Bychkowski v. McLean & Shaw Ins. (TO 2002) 8 Alta LR(4th) 330."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6841,
+          6884
+        ],
+        "book_pages": [
+          "10-126",
+          "10-127"
+        ]
+      },
+      "operative_text_note": "Book A's rule text (title on line 6841, text lines 6842-6853 on p.10-126 and lines 6865-6869 on p.10-127) has the same words as the official text (compared by hand, all of (1)-(5)) with these differences: the footnote markers '5' after (1) (line 6843) and '6' after (2)(b) (line 6848); 'form 45' with a lower-case f in (2)(b) (line 6848), where the official text and Book A's own (3)(a) have 'Form 45'; the ligatures 'ofﬁcer' and 'ﬁle'; and the page break between (3)(b) and (4): the p.10-126 footnote block (lines 6855-6861) and the marker 10-127 (line 6863) and running head (line 6864) fall between them.",
+      "commentary_review_flag": "Read in full, p.10-126 (line 6841) to p.10-127 (line 6884): title (line 6841), rule text ((1)-(3) lines 6842-6853 on p.10-126; (4)-(5) lines 6865-6869 on p.10-127), Related Provisions (lines 6871-6872, one entry), the note (lines 6874-6884) and 5 footnotes: p.10-126 fns 5 and 6 (lines 6860-6861, the history of (1) and (2)(b), both printed with the same words: 'Quite similar to previous 1968 R.630. It was similar to 1914 R.762, and 1944 C. Rr.763, 764.') and p.10-127 fns 1-3 (lines 6905-6908: 'See the annotation to R.10.35.'; Oleynik v. Univ. of Calg. 2013 ABCA 395, 2013 CarswellAlta 2302 (one JA Nov 22) (¶'s 10-19), leave den 2014 ABCA 19, 2014 CarswellAlta 53. (Jan 16); Bychkowski v. McLean & Shaw Ins. (TO 2002) 8 Alta LR(4th) 330); fns 1-4 of the p.10-126 block (lines 6856-6859) belong to the 10.36 note and fn 4 of the p.10-127 block (line 6909) to 10.38(1)(g). Read against the official text: the rule text equals official 10.37 apart from the footnote markers, the lower-case 'form 45' and the ligatures (see the text note). (1) Related Provisions '13.5 (extending time)' is a label for official 13.5 'Variation of time periods'; 10.37(5) lets the assessment officer vary a time period referred to in the rule whether or not it has passed, so the pointer is apt. (2) The note's statements read against the official text: 'The lawyer seeking costs draws up a bill of costs' and 'The payee can get a date from the assessment officer ... print up a formal appointment fixing that day, have the Clerk sign and seal it, and serve it on the payor's lawyer' agree with official 10.37(1)-(2) (obtain an appointment date; file a proposed bill of costs and serve notice of the appointment date in Form 45 and the bill 10 days or more before) and with Form 45, 'Appointment for Assessment of Costs [Rule 10.37]', which has a clerk's stamp; the official text does not itself mention the clerk signing or sealing; 'It is not necessary to wait a long time or reach agreement under R.10.36(3)' lands on 10.36(3) (certification if the other party approves the bill); 'The other party has no right to object to large swathes of dates for that hearing' (fn 2, Oleynik v. Univ. of Calg.) and 'the payor need not give advance notice that he will object that the proposed costs would exceed full indemnity' (fn 3, Bychkowski v. McLean & Shaw Ins.) are case-law statements not found in the rule; no time period of 10.37(2)-(4) (10 days, 20 days) is stated in the note. (3) 'See the annotation to R.10.35' (fn 1) lands on the 10.35 note. (4) Misprints and names: fn 2 ends 'CarswellAlta 53. (Jan 16).' (a stray full stop before the date); fn 3 names 'Bychkowski v. McLean & Shaw Ins. (TO 2002) 8 Alta LR(4th) 330' where the same citation is printed in the 10.31 note as 'McDonald & Bychkowski v. McLean & Shaw Ins. (TO 2002) 8 Alta LR(4th) 330' (line 4013); Oleynik v. Univ. of Calg. 2013 ABCA 395 is printed again at lines 6953 ('Oleynik v. Univ. of Calg. , supra ... The certificate is no longer needed'), 6997 and 7321, in footnote blocks further on in this Subdivision. No placeholder '(#_)' and no supra or infra is used in these five footnotes. The history footnotes name old rules (1968 R.630, 1914 R.762, 1944 C. Rr.763, 764) that were not checked against any old-rule text; Book B has no commentary for this rule, so the history is not corroborated. Book B has no commentary for this rule, so nothing in this note is corroborated by Book B."
+    },
+    "BOOK_B": {
+      "title": "Appointment for assessment",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_37_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_008"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "94ea5f6388a17e7c998a7aef09057542ae6f6e25c57adeb05646ab5a55cc48dc",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Appointment for assessment",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "e8076d6dd6fa9729549c8047da1a457d44704a596351bd4f9a5be45c5cbcb088",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The usual procedure is to contact the assessment officer’s office and obtain an appointment date, then file and serve the requisite materials setting the matter down.\nNote the discretion of the assessment officer to vary time periods.",
+          "citations": [],
+          "review_flag": "The commentary 'General Principles' (two sentences, no citation): 'The usual procedure is to contact the assessment officer’s office and obtain an appointment date, then file and serve the requisite materials setting the matter down.' agrees with official 10.37(1)-(3) (obtain an appointment date; file and serve a proposed bill of costs and the notice in Form 45); 'Note the discretion of the assessment officer to vary time periods.' agrees with official 10.37(5). Neither sentence has an authority; Book A's note (the lawyer draws up the bill, sends it to the payor's lawyer for agreement, then obtains a date and has the Clerk sign and seal the appointment) covers the same procedure in other words."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 6841, text lines 6842-6853 on p.10-126 and lines 6865-6869 on p.10-127) has the same words as the official text (compared by hand, all of (1)-(5)) with these differences: the footnote markers '5' after (1) (line 6843) and '6' after (2)(b) (line 6848); 'form 45' with a lower-case f in (2)(b) (line 6848), where the official text and Book A's own (3)(a) have 'Form 45'; the ligatures 'ofﬁcer' and 'ﬁle'; and the page break between (3)(b) and (4): the p.10-126 footnote block (lines 6855-6861) and the marker 10-127 (line 6863) and running head (line 6864) fall between them."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.37",
+      "title_official": "Appointment for assessment"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "2546815d3f7d9d24aae3e38851dc085cab7377a3424163069098b5de60de9212",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6841,
+            6884
+          ],
+          "book_pages": [
+            "10-126",
+            "10-127"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "94ea5f6388a17e7c998a7aef09057542ae6f6e25c57adeb05646ab5a55cc48dc",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "e8076d6dd6fa9729549c8047da1a457d44704a596351bd4f9a5be45c5cbcb088",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "870abf33cac2ab3e235b771c903d823c75e8affeef090cc72cff1126a94c7183",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            212,
+            213
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "0c54c3e63a648dea43e538a61e6f32d12a7e44b90b490b788a6ef875b05d7691"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.37' with the pattern that also finds line-wrapped forms; ranges searched separately): six hits, the table of contents (line 1596), 10.30(2) (line 12496: either party may request from an assessment officer an appointment date for an assessment of costs under rule 10.37), the rule (line 12730), 10.44(3)(a) (line 12979: the record of the appeal from an assessment officer's decision is 'Form 45 served under rule 10.37(2)'), the list of forms (line 20383) and the heading of Form 45 (line 23730, '[Rule 10.37]', 'APPOINTMENT FOR ASSESSMENT OF COSTS', with a clerk's stamp). By subject: 10.35 'Preparation of bill of costs', 10.36 'Assessment of bill of costs', 10.38 'Assessment officer's authority', 13.5 'Variation of time periods' (official line 2160).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.30 text (line 2726, 'under rule 10.37 [Appointment for assessment]'), the 10.35 note (line 6745, p.10-124: 'See also R.10.37 and notes.'), the running head (line 6820, p.10-126), and the 10.44 text (line 7263, p.10-135: 'Form 45 served under rule 10.37(2)'); no other Book A file cites 10.37 by number. The 10.37 note's own pointers are 'See the annotation to R.10.35' (fn 1, line 6905) and 'R. 10.36(3)' (line 6878-6879).",
+    "BOOK_B: rule10_part10_document.json holds the heading, the rule text (EXACT_MATCH) and no commentary; other Book B hits for 10.37 are the 10.44 text (rule10_part10_document.json) and the 10.30 rule text (rule10_part06_document.json, 2 hits: the 10.30 text, lines 37 and 70, including 10.30(2)).",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry ('Appointment for assessment', an orphan entry with no Division heading, rule text equal to the official text, 'General Principles' commentary of 2 sentences, no citations); '461-480_10_11 to 10_31.json' cites 10.37 only in the text of 10.30(2) (lines 584, 587)."
+  ],
+  "dedupe_log": [
+    "10.37 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.37 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.37 BOOK_C commentary sentence split dropped",
+    "10.37 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.37 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

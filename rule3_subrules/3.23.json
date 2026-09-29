@@ -1,0 +1,289 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.23",
+  "title": {
+    "official": "Stay of decision",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.23(1)  The Court may stay the operation of a decision or act\nsought to be set aside under an originating application for judicial\nreview pending final determination of the originating application.\n(2)  Despite subrule (1), no order to stay is to be made if, in the\nCourt’s opinion, the stay would be detrimental either to the public\ninterest or to public safety.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d9117791a16dc1e411224dc5459ffaf321a40073630cff42c3c4ed54f6d66052"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          59
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Stay of Decision",
+      "operative_text_raw": null,
+      "operative_text_sha256": "48c53d5558832514650f56331b72dba545b6667a4a2bbc95e42f02db5071d6c3",
+      "defined_terms": "Court, order",
+      "related_provisions": "3.68 (stays of deficient claims)",
+      "commentary": "See also R.3.15n.E.5. One justice of appeal may give a stay. A stay may be given to hold the status quo pending more information and then a hearing. The test for a stay should be like the 3-part test for an interlocutory injunction.\n\n1U.F.C.W. U. Local 401 v.Westfair Foods2010 ABCA 120, 477 AR 315 (¶'s 6-8).In deciding whether hearsay evidence is admissible on an application for judicial review, one has to look not just at the pleadings, but also at the relief sought at the end of argument.Therefore where a new hearing is being sought, maybe hearsay might be admissible, but not where certain aspects were to be finally prohibited or taken off the table:Alta.Teachers'Assn. v.Info.& Privacy Comm'r.,supra.\n\n2Oleynik v.Univ.of Calg.2023 ABKB 43, JCC 2201 04192 (Jan 25). 3Quite similar to previous 1987 R.753.15, new in 1987 (, with liberty to file a new proper brief);Oleynik v. *Univ. of Calg.2023 ABCA 265, Calg 2301 0034 AC (Sep 25) (¶'s 20 ff.). 4Johnston v. Dir. ofVital Statistics2007 ABCA 394, 422 AR 175 (one JA);A.B.v.College of Physicians &\n\nWhere the court or tribunal impugned did nothing, there is nothing to stay or which can be stayed. A stay of what is not ordered in the impugned order is not possible, but the applicant can ask the court or tribunal below to fix the problem.\n\nA standard-form contract (for cell phone service) called for arbitration of disputes.Consumer legislation made a contract contracting out of class-action procedure void.So for the parts of the suit covered, a stay was improper.But other parts of the suit should be stayed for arbitration. A stay was given where the case was not urgent, and the Regulation impugned would cause large loss to some chain stores hard to calculate and so irreparable.\n\nstep in an administrative or professional discipline proceeding is very undesirable, and rarely permitted.So a stay of all further proceedings pending judicial review of the first stage of those\n\n6Quite similar to previous 1987 R.753.05.It was new in 1987. 7Quite similar to previous 1987 R.753.06.It was new in 1987. 8Quite similar to previous 1987 R.753.07.It was new in 1987.\n\n1Johnston v. Dir. ofVital Statistics,supra. 2Weidenfeld v. Min.for Seniors2023 ABCA 14, Calg 2201 0272 AC (one JA Jan 16). 3Seidel v.TELUS Comm'ns.2011 SCC 15, [2011] 1 SCR 531. 4SobeysW. v.Alta.College of Pharmacists2014 ABQB 333, JCE 1403 06927 (Jun 4).(See 2015 ABCA 32.) 5Akinnawonu v. College,supra(¶'s 10-12).\n\nSplitting up judicial review and allowing more than one judicial review application after each\n\nproceedings is properly denied, especially if none of the three tests for a stay is met.\n\n*Additional Remedies on Judicial Review*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-65",
+          "3-66"
+        ],
+        "offset_in_clean_text": [
+          206037,
+          209151
+        ]
+      },
+      "operative_text_note": "same wording as official 3.23(1)-(2) (read by eye) except missing spaces, '*' line marks, the straight apostrophe in 'Court's', the title in title case ('Stay of Decision') and the footnote marker '3' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 3 ('Quite similar to previous 1987 R.753.15, new in 1987 ...') is printed at p.3-65 (line 1731) inside the built commentary and is kept there.",
+      "commentary_review_flag": "Read in full, p.3-65 (line 1724) to p.3-66 (line 1750): rule text, Defined Terms 'Court, order' (the Appendix defines both), Related Provisions '3.68 (stays of deficient claims)' (official 3.68 is 'Court options to deal with significant deficiencies'; 3.68(1)(d) lets the Court order 'that an action, an application or a proceeding be stayed' - the label is a paraphrase of that clause) and the note with footnotes as printed. The built commentary field (2,672 characters) runs to the title of 3.24 ('Additional Remedies on Judicial Review', line 1752); nothing was dropped. Pieces in it that belong to other rules: (a) at p.3-65 lines 1729-1731 the paragraph 'In deciding whether hearsay evidence is admissible on an application for judicial review ...' with footnote 1 (U.F.C.W. U. Local 401 v. Westfair Foods 2010 ABCA 120, 477 AR 315 (¶'s 6-8)) and footnote 2 (Oleynik v. Univ. of Calg. 2023 ABKB 43, JCC 2201 04192 (Jan 25)) are 3.22's note (the 3.22 note cites the same two cases with the same citations at p.3-63 lines 1660 and 1674, and speaks of hearsay at p.3-65 line 1712); (b) at p.3-66 line 1744 footnotes 6, 7, 8 ('Quite similar to previous 1987 R.753.05 / R.753.06 / R.753.07. It was new in 1987') are the history of 3.24(1), (2), (3) (marker '6' follows 3.24(1) at line 1752; Book B's quotation of the former 'Rule 753.05' is the text of 3.24(1)). Pieces of 3.23's own note that are printed before its title, in the built 3.22 record (p.3-65 lines 1714-1722), are: 'Administrative penalties based on impaired driving or the like pursue an object of public safety (¶'s 33-37): Zarysky v. Dir. of SafeRoads 2022 ABQB 142 ... Garcia-Ahmad v. SafeRoads 2023 ABKB 713', footnote 5 'Dhillon v. Gen. Faculty Council etc., supra' with 'A stay was given of administrative proceedings pending a decision as to whether to reopen the King's Bench proceedings to hear a constitutional question: Alta. Turkey Producers v. Leth (#2) 2006 ABQB 497', footnote 6 'Johnston v. Dir. of Vital Statistics, supra. The applicant failed on all 3, in Skydive Ranch v. Fatality Review Bd. ... and in Sturt ... Akinnawonu v. College of Physicians & Surgeons 2024 ABCA 167' and 'An administrative driving suspension can create irreparable harm if it would have all been served before a judicial review application can be heard' (they are about stays and the three tests). (1) Statements read against the official text: 'The test for a stay should be like the 3-part test for an interlocutory injunction' agrees with Book B (Fawcett 2019 ABQB 788: RJR-MacDonald test under Rule 3.23) and Book C; 'Where the court or tribunal impugned did nothing, there is nothing to stay' agrees with 3.23(1) ('the operation of a decision or act sought to be set aside'); the driving-suspension and 'public safety' passages relate to 3.23(2) ('detrimental either to the public interest or to public safety'); 'One justice of appeal may give a stay' (p.3-65, line 1727) is not tied to a rule - Book B's quotation of Russell J.A. in Société Culturelle Mamowapik, 2000 ABCA 148 (former Rule 753.15(1)) says a single judge of the Court of Appeal had no jurisdiction to stay the Board's decision in judicial review proceedings (a stay of a refusal of a stay); the contexts may differ and are not reconciled here. (2) Pointers: 'See also R.3.15n.E.5' lands (3.15 note E.5 'Stay and Transfer of File'); the 3.15 note (p.3-42, line 1030) 'See also R.3.23n.' lands here; Book A's R.6 note (combined_rule6.txt p.6-52, line 2776) '... Muskwachees Ambulance Authy. v. C.U.P.E. 2007 ABQB 697, 83 Alta LR(4th) 183; R.3.23' cites this rule. (3) Footnotes as printed on p.3-66: 1 Johnston v. Dir. of Vital Statistics, supra; 2 Weidenfeld v. Min. for Seniors 2023 ABCA 14 (one JA Jan 16); 3 Seidel v. TELUS Comm'ns. 2011 SCC 15, [2011] 1 SCR 531; 4 Sobeys W. v. Alta. College of Pharmacists 2014 ABQB 333 (See 2015 ABCA 32); 5 Akinnawonu v. College, supra; p.3-65 footnote 4 'Johnston v. Dir. of Vital Statistics 2007 ABCA 394, 422 AR 175 (one JA); A.B. v. College of Physicians &' ends at the page end. Johnston 2007 ABCA 394 and Sobeys West 2014 ABQB 333 are the two authorities Book B's Fawcett passage names for the test. (4) Statements of law and the cases were not checked."
+    },
+    "BOOK_B": {
+      "title": "Stay of decision",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.23:1",
+          "text": "Rule 3.23 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.23. 1. Jurisdiction to grant a stay In Société Culturelle Mamowapik v. Alberta (Gaming & Liquor Commission), 2000 ABCA 148, 2000 CarswellAlta 485, 261 A.R. 198, 83 Alta. L.R. (3d) 266, the applicant had its bingo licence revoked by the Commission. The applicant sought a stay of the Commission's order pending the hearing of a judicial review application. The learned Chambers judge in the Court of Queen's Bench refused to grant a stay. The applicant then sought an order from Russell, J.A., sitting alone, reversing the Chambers decision. In concluding that she did not have jurisdiction, her Ladyship said, at pp. 267-268: The applicants rely on Rule 753.15(1) of the Alberta Rules of Court in seeking relief. Unless otherwise provided by statute, that Rule permits the court hearing the application for judicial review, to stay the operation of the decision sought to be set aside pending final determination of the review. That Rule does not permit a further application de novo before a single judge of this court. This court does not have jurisdiction to stay the Board's decision in judicial review proceedings. Counsel for the applicants properly interpreted paragraph F (5) of the Consolidated Court of Appeal Practice Directions, to permit applications for a stay to be heard by a single judge. But a stay of an order refusing a stay is a hollow remedy. What the applicants really seek is a reversal of the stays, which are tantamount to an appeal of those decisions. Although the refusal of the stay, may be the subject of an appeal to this court, those appeals must be heard by a panel consisting of a quorum of judges. . . . . . The present applications for a stay of a refusal of a stay are similar in that they amount to a rehearing of the interlocutory stay applications or sitting on an appeal of them, neither of which I have jurisdiction to preside over, sitting as a single judge of this Court. 2. Test for a stay under the Rule In Fawcett v. College of Physicians and Surgeons of the Province of Alberta, 2019 ABQB 788, 2019 CarswellAlta 2133, Justice Little said: [7] The parties agree that pursuant to authorities including Johnston v Alberta (Director of Vital Statistics), 2007 ABCA 394 and Sobeys West Inc. v Alberta College of Pharmacists, 2014 ABQB 333, the test for a stay under Rule 3.23 is the same as for an interlocutory injunction as set out in RJR-MacDonald v Canada (Attorney General) and which may be summarized as follows: 1. Whether there is a serious issue to be tried. 2. Whether the applicant would suffer irreparable harm if the application were refused. 3. Whether the balance of convenience favours the applicant. 3. This Rule only addresses staying the operation of the actual order or decision This Rule allows the reviewing Court to enter a stay of the operation of the actual order or decision which is sought to be set aside through the judicial review. The Rule does not address the ability of the Court whose decision is the subject of the judicial review to continue with the proceedings before that Court. That Court's jurisdiction in relation to those proceedings is suspended by operation of law (see the annotation under Rule 3.15: “Service of notice of the application suspends proceedings in the Alberta Court of Justice”)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_23_001",
+        "part3_part_3_court_actions_022",
+        "part3_rule_3_23_002",
+        "part3_part_3_court_actions_024"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "4536edabcbcebf1fc3a2f7cebeb8cfbf9b10314162d1d1b5ce897d7c9f11e7b0",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Stay of decision",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "20311451fecf59c5721982cfb053852ebb5ebafee3611c535714e2f048eb606e",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The established test on an application under this rule is the tripartite test for an interlocutory injunction articulated by the Supreme Court of Canada in RJR- MacDonald Inc. v. Canada (Attorney General). An applicant must establish that:  [1994] S.C.J. No. 17, [1994] 1 S.C.R. 311 at paras. 87-93 (S.C.C.). See also , T. (P.) v. Alberta • there is a serious issue to be tried;\n• the applicant will suffer irreparable harm if no injunction is granted; and • the balance of convenience between the parties favours granting the injunction (stay).\nSerious Issue – In assessing whether there is a serious issue to be tried, the Supreme Court in said the court must make a preliminary assessment of the merits of RJR-MacDonald Inc. the case but a prolonged assessment is not necessary. “Serious question” means “an arguable paras. 40-41 (Alta. Q.B.). See also, , [2019]\nMohamed v. College of Physicians and Surgeons of Alberta A.J. No. 1134, 2019 ABQB 657 at para. 11 (Alta. Q.B.). See also Northern Air Charters (P.R.) Inc. v.\nAlberta Health Services Oleynik , [2023] A.J. No. 375, 2023 ABCA 114 at paras. 6-12 (Alta. C.A.); and v University of Calgary Koester v.\n, [2023] A.J. No. 987, 2023, ABCA 265 at paras. 7-11 (Alta. C.A.);\nWheatland (County), [2024] A.J. No. 261, 2024 ABKB  OmniArch Capital Corp. v. Bishop, [2020] A.J. No. 200, 2020 ABQB 102 at paras. 57-62 (Alta. Q.B.). at paras. 34- Fort McKay First Nation v. Alberta (Minister of Environment and Sustainable Resource Development) Greater St. Albert , [2014] A.J. No. 60, 2014 ABQB 32 at paras. 21-22 (Alta. Q.B.) and Roman Catholic Separate School, District No. 734 v. Buterman, [2013] A.J. No. 909, 2013 ABQB 485 at para. 86 (Alta. Q.B.). (Alta. K.B.).\n[2024] A.J. No. 261, 2024 ABKB  OmniArch Capital Corp. v. Bishop, [2020] A.J. No. 200, 2020 ABQB 102 at paras. 57-62 (Alta. Q.B.). at paras. 34- Fort McKay First Nation v. Alberta (Minister of Environment and Sustainable Resource Development) Greater St. Albert , [2014] A.J. No. 60, 2014 ABQB 32 at paras. 21-22 (Alta. Q.B.) and Roman Catholic Separate School, District No. 734 v. Buterman, [2013] A.J. No. 909, 2013 ABQB 485 at para. 86 (Alta. Q.B.). (Alta. K.B.).\n[2019] A.J. No. 512, 2019 ABCA 158 at para. 20 (Alta. C.A.); ANC Timber Ltd. v. Alberta (Minister of Agriculture and Forestry), [2019] A.J. No. 1121, 2019 ABQB 653 at para. 38 (Alta. Q.B.).",
+          "citations": [
+            {
+              "neutral_citation": "2019 ABQB 657",
+              "style_of_cause": "Mohamed v. College of Physicians and Surgeons of Alberta",
+              "note": "printed 'Mohamed v. College of Physicians and Surgeons of Alberta , [2019] A.J. No. 1134, 2019 ABQB 657 at para. 11': the built name also carried 'A.J. No. 1134'"
+            },
+            {
+              "neutral_citation": "2023 ABCA 114",
+              "style_of_cause": "Northern Air Charters (P.R.) Inc. v. Alberta Health Services",
+              "note": "printed 'Northern Air Charters (P.R.) Inc. v. Alberta Health Services , [2023] A.J. No. 375, 2023 ABCA 114 at paras. 6-12 (Alta. C.A.)' with the words split across lines; no name was built"
+            },
+            {
+              "neutral_citation": "2020 ABQB 102",
+              "style_of_cause": "OmniArch Capital Corp. v. Bishop",
+              "note": "printed 'OmniArch Capital Corp. v. Bishop, [2020] A.J. No. 200, 2020 ABQB 102 at paras. 57-62 (Alta. Q.B.)'; the built name began with the stray words 'ABKB'"
+            },
+            {
+              "neutral_citation": "2014 ABQB 32",
+              "style_of_cause": "Fort McKay First Nation v. Alberta (Minister of Environment and Sustainable Resource Development)",
+              "note": "printed 'Fort McKay First Nation v. Alberta (Minister of Environment and Sustainable Resource Development), [2014] A.J. No. 60, 2014 ABQB 32 at paras. 21-22 (Alta. Q.B.)': the built name stopped at 'Alberta'"
+            },
+            {
+              "neutral_citation": "2013 ABQB 485",
+              "style_of_cause": "Greater St. Albert Roman Catholic Separate School District No. 734 v. Buterman",
+              "note": "printed 'Greater St. Albert ... Roman Catholic Separate School, District No. 734 v. Buterman, [2013] A.J. No. 909, 2013 ABQB 485 at para. 86 (Alta. Q.B.)': the name is split by other text; the built name was 'District No. 734 v. Buterman'"
+            },
+            {
+              "neutral_citation": "2019 ABCA 158",
+              "style_of_cause": null,
+              "note": "printed '[2019] A.J. No. 512, 2019 ABCA 158 at para. 20 (Alta. C.A.);' with no case name in the file; the built name 'District No. 734 v. Buterman' was wrong, so the name is left empty"
+            },
+            {
+              "neutral_citation": "2019 ABQB 653",
+              "style_of_cause": "ANC Timber Ltd. v. Alberta (Minister of Agriculture and Forestry)",
+              "note": "printed 'ANC Timber Ltd. v. Alberta (Minister of Agriculture and Forestry), [2019] A.J. No. 1121, 2019 ABQB 653 at para. 38 (Alta. Q.B.)': the built name stopped at 'Alberta'"
+            },
+            {
+              "neutral_citation": "2023 ABCA 265",
+              "style_of_cause": "Oleynik v. University of Calgary",
+              "note": "printed 'Oleynik v University of Calgary , [2023] A.J. No. 987, 2023, ABCA 265 at paras. 7-11 (Alta. C.A.)': the stray comma after '2023' kept the citation out of the built list"
+            },
+            {
+              "neutral_citation": "2024 ABKB 103",
+              "style_of_cause": "Koester v. Wheatland (County)",
+              "note": "printed 'Koester v. ... Wheatland (County), [2024] A.J. No. 261, 2024 ABKB [ ] at paras. 34-' with the number lost; 103 is taken from Book A (3.22 note, p.3-63: 'Koester v. Wheatland (County) 2024 ABKB 103, JCC 2201 08686 (Jan 22) (¶'s 34 f.f)')"
+            }
+          ],
+          "review_flag": "(1) The three-part test (serious issue, irreparable harm, balance of convenience; RJR-MacDonald Inc. v. Canada (Attorney General), [1994] 1 S.C.R. 311, paras. 87-93) agrees with Book A ('the 3-part test for an interlocutory injunction') and with Book B (Fawcett 2019 ABQB 788, quoting the test for a stay under Rule 3.23). (2) Only the first branch is developed: the 'Serious Issue' paragraph ends inside a sentence ('\"Serious question\" means \"an arguable'), and the file has no text on irreparable harm or the balance of convenience; the case names and citations that should follow are printed in displaced pieces after it. (3) The citation pieces are interleaved and partly repeated: the strings 'OmniArch Capital Corp. v. Bishop, [2020] A.J. No. 200, 2020 ABQB 102 at paras. 57-62 (Alta. Q.B.). at paras. 34- Fort McKay First Nation v. Alberta ... 2014 ABQB 32 ... and Roman Catholic Separate School, District No. 734 v. Buterman, [2013] A.J. No. 909, 2013 ABQB 485 at para. 86 (Alta. Q.B.). (Alta. K.B.).' are printed twice (once after the Koester name line, once on the next line); 'Greater St. Albert' is separated from 'Roman Catholic Separate School, District No. 734 v. Buterman'; 'T. (P.) v. Alberta' is printed without a citation (the number is lost); the citation '[2019] A.J. No. 512, 2019 ABCA 158 at para. 20 (Alta. C.A.)' has no case name in the file; '[2023] A.J. No. 987, 2023, ABCA 265' has a stray comma and Koester v. Wheatland (County) '[2024] A.J. No. 261, 2024 ABKB [ ]' has no number (Book A's 3.22 note gives 'Koester v. Wheatland (County) 2024 ABKB 103, JCC 2201 08686 (Jan 22) (¶'s 34 f.f)', the same case and paragraph 34). (4) The neutral citations that Book A also prints agree: Northern Air Charters v. Alta. Health Serv. 2023 ABCA 114 (Book A 3.22 note p.3-63), Oleynik 2023 ABCA 265 (Book A 3.15 note p.3-44 and this rule's history footnote 3). The citation records were rebuilt from the pieces (see the citation notes)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8205,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.23(1)-(2) (read by eye) except missing spaces, '*' line marks, the straight apostrophe in 'Court's', the title in title case ('Stay of Decision') and the footnote marker '3' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 3 ('Quite similar to previous 1987 R.753.15, new in 1987 ...') is printed at p.3-65 (line 1731) inside the built commentary and is kept there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.23",
+      "title_official": "Stay of decision"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "48c53d5558832514650f56331b72dba545b6667a4a2bbc95e42f02db5071d6c3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-65",
+            "3-66"
+          ],
+          "offset_in_clean_text": [
+            206037,
+            209151
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "4536edabcbcebf1fc3a2f7cebeb8cfbf9b10314162d1d1b5ce897d7c9f11e7b0",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "20311451fecf59c5721982cfb053852ebb5ebafee3611c535714e2f048eb606e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d9117791a16dc1e411224dc5459ffaf321a40073630cff42c3c4ed54f6d66052",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            59
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "3a40d9d7500a352fe8e0dfc65762fbfe181ec6af4abd99be8dec54877ba0683b"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule3_part02_document.json 3.15 commentary part 4 (R. v. Hosack) says 'should not be confused with the provisions of Rule 3.23 which provide a mechanism for the reviewing Court to stay the operation of the decision ... Rule 3.23 deals with the concept of staying the operation of the actual order or decision which is sought to be set aside through the judicial review' (agrees with 3.23(1)); no other Book B file cites 3.23 by number; no Book C file other than its own 3.23 entry. BOOK_B 3.23: rule text (paragraph part3_part_3_court_actions_022) EXACT_MATCH with the official; no amendment note; one commentary section 'Commentary § 3.23:1' (3,367 characters, READ IN FULL): three numbered parts, no gap: 1 Jurisdiction to grant a stay (Societe Culturelle Mamowapik v. Alberta (Gaming & Liquor Commission), 2000 ABCA 148, on former Rule 753.15(1) and the Consolidated Court of Appeal Practice Directions), 2 Test for a stay under the Rule (Fawcett v. College of Physicians and Surgeons, 2019 ABQB 788, naming Johnston v Alberta (Director of Vital Statistics), 2007 ABCA 394 and Sobeys West Inc. v Alberta College of Pharmacists, 2014 ABQB 333 and the RJR-MacDonald test), 3 This Rule only addresses staying the operation of the actual order or decision (points to 'the annotation under Rule 3.15: Service of notice of the application suspends proceedings in the Alberta Court of Justice', which lands: 3.15 commentary part 4 has exactly that heading). BOOK_C 3.23: rule text EXACT_MATCH; amendment note '[Alta. Reg. 124/2010, r. 3.23 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010'; commentary kept with a flag, citation names rebuilt and two citations added.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.15 note p.3-42 (line 1030, note E.5 Stay and Transfer of File) 'See also R.3.23n. Stay of the order impugned pending judicial review follows the usual 3-part test for interlocutory injunctions' (lands and agrees); combined_rule6.txt p.6-52 (line 2776) '... Muskwachees Ambulance Authy. v. C.U.P.E. 2007 ABQB 697, 83 Alta LR(4th) 183; R.3.23. 10 Lameman v. R., supra; Prosper Petr. v. R. (Alta.) 2020 ABQB 127' (a note on stays and injunctions in Part 6; not read in full here); no other Book A file cites 3.23 by number.",
+    "OFFICIAL text (searched for 'rule 3.23', 'rules 3.23', lists, line-wrapped forms and form headings): no other official rule cites 3.23 by number (the only hit is the running page header 'Rule 3.23'); no form heading names it. By subject (read): 3.15(1)(b) (injunction), 3.24(1) (set aside instead of declaring), 3.68(1)(d) (Court may order that an action, application or proceeding be stayed), 3.19 and 3.20 (suspension of the lower court's jurisdiction is not in the Rules; see Book B)."
+  ],
+  "dedupe_log": [
+    "3.23 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.23 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.23 BOOK_C citation context dropped (2019 ABQB 657): verbatim in kept text",
+    "3.23 BOOK_C citation context dropped (2023 ABCA 114): verbatim in kept text",
+    "3.23 BOOK_C citation context dropped (2020 ABQB 102): verbatim in kept text",
+    "3.23 BOOK_C citation context dropped (2014 ABQB 32): verbatim in kept text",
+    "3.23 BOOK_C citation context dropped (2013 ABQB 485): verbatim in kept text",
+    "3.23 BOOK_C citation context dropped (2019 ABCA 158): verbatim in kept text",
+    "3.23 BOOK_C citation context dropped (2019 ABQB 653): verbatim in kept text",
+    "3.23 BOOK_C commentary sentence split dropped",
+    "3.23 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.23 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

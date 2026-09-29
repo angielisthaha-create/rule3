@@ -1,0 +1,243 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.23",
+  "title": {
+    "official": "Costs of review",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.23   A review officer may allow or disallow the reasonable and\nproper costs of a review and fix the amount but may not make a\ncosts award\n(a) against the client as a result of a client-requested review\nunless the client’s request was unreasonable or the client\nacts improperly or unreasonably at the review, or\n(b) against the client as a result of a lawyer-requested review\nunless the client acts improperly or unreasonably at the\nreview and the Court approves the costs award.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "7de3a3dc1a796a01983132fbf29b2055228edf4fce2c14eead142b757599a00c"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.23 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.23 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          204,
+          205
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Costs of Review",
+      "operative_text_raw": null,
+      "operative_text_sha256": "6c06d34006f760293d152a34be8cc5ed4ab84080cdd31fd9edfa483754ea5eb0",
+      "related_provisions": null,
+      "commentary": "Where a lawyer got only a small fraction of the fees he claimed, he got no costs and had to\npay costs.³",
+      "footnotes": [
+        {
+          "page": "10-37",
+          "number": 2,
+          "text": "Quite similar to previous 1968 R.629. It came from 1944 C. R.762(e). Cf.1914 R.761, Eng.1883 O.65 r.27, and (Imp. ) 6 & 7 Vict. c.73 s.37 para.6."
+        },
+        {
+          "page": "10-37",
+          "number": 3,
+          "text": "The fee award to a lawyer was under 1/20th of the amount claimed. The lawyer was denied any costs of the lawsuit over his fees. The lawyer had claimed that the client was lying and the client had made an informal offer. Party-party costs on Schedule C were increased by about 1/3: Botan v. St. Amand (#2) 2012 ABQB 260, 538 AR 306, affd 2013 ABCA 227."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1788,
+          1812
+        ],
+        "book_pages": [
+          "10-37",
+          "10-38"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-37 (line 1788) to p.10-38 (line 1810): title (line 1788), rule text (lines 1789-1796; marker '2' after (b)), and a two-line note (lines 1798-1799: 'Where a lawyer got only a small fraction of the fees he claimed, he got no costs and had to pay costs.³') with footnotes: fn 2 (history, marker in the rule text) and fn 3 of p.10-37 (block after the text of 10.23, line 1801 ff.) = 2; fn 1 of that block (Witten v. Arsenault) belongs to the 10.22 note. Read against the official text: the rule text equals official 10.23 (EXACT_MATCH: the only differences are the en dashes Book A prints in 'client–requested' and 'lawyer–requested' where the official text has hyphens, and the ligature 'ofﬁcer'). FLAG: the note ('he got no costs and had to pay costs', fn 3: 'The fee award to a lawyer was under 1/20th of the amount claimed. The lawyer was denied any costs of the lawsuit over his fees ... Party-party costs on Schedule C were increased by about 1/3: Botan v. St. Amand (#2) 2012 ABQB 260, 538 AR 306, affd 2013 ABCA 227') describes costs of a lawsuit on the lawyer's fees (the subject of 10.22(b) and 10.29), not the costs of a review by a review officer under 10.23; the same case is cited in the 10.7, 10.29 and 10.33 notes on costs (see-also). History fn 2: 'Quite similar to previous 1968 R.629. It came from 1944 C. R.762(e). Cf.1914 R.761, Eng.1883 O.65 r.27, and (Imp.) 6 & 7 Vict. c.73 s.37 para.6.' - the same 'Cf.1914 R.761, Eng.1883 O.65 r.27' is in the 10.17 history (p.10-31 fn 2, 1968 R.628; 1944 C. R.762); Book B and Book C print no history, so it is not corroborated. supra/infra: no supra or infra is used in this note."
+    },
+    "BOOK_B": {
+      "title": "Costs of review",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_23_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_036"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "1dd7450b803feed4082d9563f48131a81baa6a9b1949d20fab13d4e2d26aa081",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Costs of review",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "ccfba40f6bf8d44c82cfdc70a3787e89037da9d9f22568cb15a864f24eed94e6",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "A request for review filed under rule 10.13(1) gives the review officer the authority to issue an interim or final certificate that certifies the amount of a lawyer’s charges to be paid (rule 10.19(4)(a)). It also accords the review officer the jurisdiction to make a costs award related to the review pursuant to rule 10.23.140",
+          "citations": [],
+          "review_flag": "(1) The commentary ('General Principles', 328 characters, no citation): 'A request for review filed under rule 10.13(1) gives the review officer the authority to issue an interim or final certificate that certifies the amount of a lawyer's charges to be paid (rule 10.19(4)(a)). It also accords the review officer the jurisdiction to make a costs award related to the review pursuant to rule 10.23.140' - the '140' after 'rule 10.23.' is a footnote number whose text is not printed (it is not a rule number), so the source of the passage is not named. It agrees with the official text: 10.13(1) (a lawyer or a client may obtain an appointment date for a review), 10.19(4)(a) (the certificate must 'certify the amount to be paid by each party or person') and 10.23 (the review officer 'may allow or disallow the reasonable and proper costs of a review'). Neither Book A nor Book B has a matching passage (Book A's note is the Botan v. St. Amand case on costs of an action). The passage is kept as printed (flagged)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.23",
+      "title_official": "Costs of review"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "6c06d34006f760293d152a34be8cc5ed4ab84080cdd31fd9edfa483754ea5eb0",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1788,
+            1812
+          ],
+          "book_pages": [
+            "10-37",
+            "10-38"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "1dd7450b803feed4082d9563f48131a81baa6a9b1949d20fab13d4e2d26aa081",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "ccfba40f6bf8d44c82cfdc70a3787e89037da9d9f22568cb15a864f24eed94e6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "7de3a3dc1a796a01983132fbf29b2055228edf4fce2c14eead142b757599a00c",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            204,
+            205
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "767b94e4778a525a3074865ee5d53220c717f3409687af361fcfe7f83c5727df"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.23' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1545) and the rule (line 12297). No other rule or form cites 10.23 by number. By subject: 10.13(1) (appointment date for a review), 10.19(3)-(4) (the review officer's decision and certificate: 'certify the amount to be paid by each party or person'), 10.22(b) (no costs award in an action for a lawyer's charges unless the Court specifically so orders), 10.29 (title 'General rule for payment of litigation costs', line 1570) and 10.24 (the next rule, review after particular events).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running head (combined_rule10.txt line 1767, p.10-37) and the rule text (line 1789); no other Book A file cites 10.23 by number. The note's case, Botan v. St. Amand (#2) 2012 ABQB 260, 538 AR 306, affd 2013 ABCA 227, is also cited in the 10.7 note (p.10-17, line 789 'See also (#2) 2012 ABQB 260'; p.10-21, line 1000 'Botan v. St. Amand (#1) & (#2), supra'), in the 10.29 note (p.10-47, line 2327) and in the 10.33 note (p.10-111, line 5967; p.10-114, line 6122), all on costs.",
+    "BOOK_B: a heading paragraph and no commentary ('10.23. Costs of review', rule10_part04_document.json); no other Book B file cites 10.23 by number.",
+    "BOOK_C: the entry for 10.23 in '461-480_10_11 to 10_31.json' (text and amendment note and a 'General Principles' commentary of 328 characters, citing rules 10.13(1), 10.19(4)(a) and 10.23); no other Book C file cites 10.23 by number."
+  ],
+  "dedupe_log": [
+    "10.23 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.23 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.23 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.23 BOOK_C commentary sentence split dropped",
+    "10.23 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

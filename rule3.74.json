@@ -1,0 +1,1870 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.2.0-final",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-04T02:03:00Z",
+      "source_manifests": [
+        "05223.rtf",
+        "05221.rtf",
+        "05225.rtf",
+        "05222.rtf",
+        "05224.rtf",
+        "05219.rtf",
+        "05216.rtf",
+        "05218.rtf",
+        "05214.rtf",
+        "05213.rtf",
+        "05215.rtf",
+        "05211.rtf",
+        "05209.rtf",
+        "05212.rtf",
+        "05210.rtf",
+        "05220.rtf",
+        "05217.rtf",
+        "page_0243.rtf",
+        "page_0242.rtf",
+        "page_0241.rtf",
+        "page_0239.rtf",
+        "page_0240.rtf",
+        "page_0237.rtf",
+        "page_0238.rtf",
+        "page_0236.rtf",
+        "page_0233.rtf",
+        "page_0232.rtf",
+        "page_0235.rtf",
+        "page_0231.rtf",
+        "page_0230.rtf",
+        "page_0229.rtf",
+        "page_0227.rtf",
+        "page_0228.rtf",
+        "page_0226.rtf",
+        "page_0224.rtf",
+        "page_0225.rtf",
+        "page_0221.rtf",
+        "page_0223.rtf",
+        "page_0220.rtf",
+        "page_0222.rtf",
+        "page_0219.rtf"
+      ],
+      "node_count": 22,
+      "relationship_count": 23,
+      "consolidated_references": {
+        "case_law_citations": [
+          "513320 Alberta Inc. v. Jean, 2015 ABQB 826",
+          "Alliance Pipeline Limited v C.E. Franklin Ltd, 2007 ABCA 285",
+          "Amon v. Raphael Tuck & Sons Ltd., [1956] 1 Q.B. 357",
+          "Amoco Canada Petroleum Co. v. Alberta & Southern Gas Co. (1993), 10 Alta. L.R. (3d) 325 (Q.B.)",
+          "Anglin v. Resler, 2022 ABCA 362",
+          "Balm v. 3512061 Canada Ltd., 2003 ABCA 98",
+          "Bernhart v. Umisk Farms Ltd. (1983), 40 A.R. 549 (Master)",
+          "Buckler v. Minchau, 2006 ABQB 291",
+          "Caplink Financial Corp. v. Petra Corp., 2015 ABCA 55",
+          "Condominium Corp. No. 0213028 v. Pasera Corp., 2016 ABQB 477",
+          "Davies v. Elsby Bros. Ltd., [1960] 3 All E.R. 672",
+          "Eisenkrein v. Eisenkrein (1984), 53 A.R. 199 (Master)",
+          "Frank v. Canada (Minister of Indian and Northern Affairs (1987), 88 A.R. 241 (C.A.)",
+          "Frydman v. Pelletier, 2013 ABQB 225",
+          "Int. B’hood. of Elec. Workers v. Lawrence, 2018 SCC 11",
+          "Kent v. Martin, 2011 ABQB 416",
+          "Klychak v. Samchuk, 2012 ABQB 85",
+          "M.L. Rathwell & Sons Trucking Ltd. v. Alforge Metals Corp. (1981), 15 Alta. L.R. (2d) 347 (Master)",
+          "Meyer v. Altex Energy Ltd., 2019 ABQB 787",
+          "Mikisew Cree First Nation v. Canada (1998), 224 A.R. 157 (Q.B.)",
+          "Munro v. Munro, 2011 ABCA 279",
+          "Nagy v. Phillips (1996), 41 Alta. L.R. (3d) 58 (C.A.)",
+          "Pile Base Contractors 1987 Ltd. v. Pasichnyk (1993), 15 Alta. L.R. (3d) 319",
+          "Rocklake Enterprises Ltd. v. Timberjack Inc., 2001 ABCA 191",
+          "Starland School Division No. 30 v. Alberta (1988), 91 A.R. 329 (Q.B.)",
+          "Thames Steel Construction v. Portman (1980), 111 D.L.R. (3d) 460",
+          "Wil-Ton Construction Ltd. v. Amerada Minerals Corp. of Canada Ltd. (1989), 69 Alta. L.R. (2d) 285 at 297 (C.A.)",
+          "Yancey v. Neis (1999), 73 Alta. L.R. (3d) 239 (C.A.)"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3, Division 6"
+        ],
+        "manifest_references": [
+          "05209.rtf",
+          "05210.rtf",
+          "05211.rtf",
+          "05212.rtf",
+          "05213.rtf",
+          "05214.rtf",
+          "05215.rtf",
+          "05216.rtf",
+          "05217.rtf",
+          "05218.rtf",
+          "05219.rtf",
+          "05220.rtf",
+          "05221.rtf",
+          "05222.rtf",
+          "05223.rtf",
+          "05224.rtf",
+          "05225.rtf",
+          "page_0219.rtf",
+          "page_0220.rtf",
+          "page_0221.rtf",
+          "page_0222.rtf",
+          "page_0223.rtf",
+          "page_0224.rtf",
+          "page_0225.rtf",
+          "page_0226.rtf",
+          "page_0227.rtf",
+          "page_0228.rtf",
+          "page_0229.rtf",
+          "page_0230.rtf",
+          "page_0231.rtf",
+          "page_0232.rtf",
+          "page_0233.rtf",
+          "page_0234.rtf",
+          "page_0235.rtf",
+          "page_0236.rtf",
+          "page_0237.rtf",
+          "page_0238.rtf",
+          "page_0239.rtf",
+          "page_0240.rtf",
+          "page_0241.rtf",
+          "page_0242.rtf",
+          "page_0243.rtf"
+        ]
+      },
+      "tactical_play_count": 3,
+      "countermeasure_count": 2
+    },
+    "nodes": [
+      {
+        "node_id": "fp-r3-74-classic-rule-of-amendment",
+        "node_type": "FoundationalPillar",
+        "label": "Classic Rule: Amendments Allowed Unless Prejudicial",
+        "description": "The foundational principle that amendments to add, remove, or substitute parties should be allowed, regardless of carelessness or delay, unless there is serious prejudice to the opposing party that cannot be remedied by costs, an adjournment, or terms.",
+        "source_sentence_ids": [
+          "r3-74-3",
+          "commentary-3-74-1-para-23"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may not make an order under this rule if prejudice would result for a party that could not be remedied by a costs award, an adjournment or the imposition of terms.",
+              "source_reference": "05219.rtf#r3-74-3"
+            },
+            {
+              "text": "Indeed, subsection 3 basically codifies the “classic rule” that “an amendment should be allowed no matter how careless or late, unless there is prejudice” as outlined by Justice Côté in Balm v. 3512061 Canada Ltd. 2003 ABCA 98 at para. 43 and Milfive Inv. v. Sefel (1998) 216 A.R. 196.",
+              "source_reference": "05220.rtf#commentary-3-74-1-para-23"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.74(3)",
+            "Alberta Rules of Court, r. 3.75(3)"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This pillar establishes a high bar for resisting amendments, forcing the opponent to prove concrete, non-compensable harm. It serves as the primary shield for a party seeking to correct a pleading, making procedural perfection less critical than substantive justice.",
+          "litigation_implications": [
+            "Offensive (Amending Party): Frame any amendment application around this principle, arguing that any potential harm to the opponent is purely financial and can be compensated with a costs award.",
+            "Defensive (Resisting Party): Focus arguments exclusively on prejudice that is impossible to remedy, such as the death of a key witness, loss of critical evidence, or the expiry of a limitation period which confers a substantive legal right.",
+            "Cost/Benefit: The cost of a simple amendment is low, but if opposed, it can lead to a costly interlocutory battle. The benefit is ensuring the correct parties are before the court to decide the real issues in dispute."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Balm v. 3512061 Canada Ltd., 2003 ABCA 98",
+              "proposition": "Establishes the 'classic rule' that an amendment should be allowed no matter how careless or late, unless there is prejudice."
+            },
+            {
+              "case_name": "Frank v. Canada (Minister of Indian and Northern Affairs (1987), 88 A.R. 241 (C.A.)",
+              "proposition": "Under the modern approach, the court should not concern itself with whether an action is a 'nullity', but whether the amendment results in prejudice."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-74-limitation-period-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Limitation Period Bar to Adding Parties",
+        "description": "The general rule that a new defendant or plaintiff cannot be added to an action after the relevant limitation period has expired. This is considered the most common and powerful form of non-compensable prejudice.",
+        "source_sentence_ids": [
+          "F-1-General-Rule",
+          "commentary-3-75-6-para-rocklake"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In general, it is not possible to add a new defendant after the limitation period has expired.",
+              "source_reference": "page_0238.rtf#F-1-General-Rule"
+            },
+            {
+              "text": "Adding a new plaintiff or a new defendant or a new cause of action to a suit after the period expires, in effect creates a new suit, so far as that new party or cause of action is concerned.",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-rocklake"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74, 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a defendant's primary weapon against late joinder. The expiry of a limitation period creates a substantive legal defense of repose, which is presumptively prejudicial to lose. It can be a 'kill shot' for a claim against a newly identified party.",
+          "litigation_implications": [
+            "Offensive (Proposed Defendant): Immediately raise the limitation defense to argue that the application to add you must fail due to incurable prejudice.",
+            "Defensive (Plaintiff): Before the limitation expires, sue any potential defendant, even if their involvement is uncertain. If the period has expired, you must find a valid exception (misnomer, statutory exception) to overcome this trap.",
+            "Cost/Benefit: For a defendant, successfully invoking this trap is a complete victory at low cost. For a plaintiff, falling into this trap is catastrophic, potentially barring a valid claim forever."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Wil-Ton Construction Ltd. v. Amerada Minerals Corp. of Canada Ltd. (1989), 69 Alta. L.R. (2d) 285 at 297 (C.A.)",
+              "proposition": "The Rules do not ordinarily permit amendment to add parties defendant or new causes of action after the expiration of a period of limitation."
+            },
+            {
+              "case_name": "Rocklake Enterprises Ltd. v. Timberjack Inc., 2001 ABCA 191",
+              "proposition": "Adding a new party after the limitation period expires violates the policy of limitations legislation, which is to give repose after a certain length of time."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-74-misnomer-correction-framework",
+        "node_type": "WarfareFramework",
+        "label": "Misnomer Correction Framework",
+        "description": "A framework to correct the name of a party who was incorrectly named in a pleading, even after a limitation period has expired. The test is whether a reasonable person receiving the document would know they were the intended party, despite the error in the name.",
+        "source_sentence_ids": [
+          "commentary-3-74-5-para-bauer",
+          "commentary-3-74-5-para-buckler"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The test must be: How would a reasonable person receiving the document take it? If, in all the circumstances of the case and looking at the document as a whole, he would say to himself: ‘Of course, it must mean me, but they have got my name wrong’, then there is a case of mere misnomer.",
+              "source_reference": "05220.rtf#commentary-3-74-5-para-bauer"
+            },
+            {
+              "text": "The Court in Nagy imposed two additional requirements to the misnomer test: (A) Once the Court determines that there has been a misnomer, it must also consider whether the proposed Defendant has been misled or will be substantially injured by the delay in naming him (Nagy at para. 24), and (B) Further, the applicant for an amendment must have been reasonably diligent in seeking to identify the desired defendant and correct the misnomer.",
+              "source_reference": "05220.rtf#commentary-3-74-5-para-buckler"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This framework is a critical offensive tool for plaintiffs to circumvent the limitation period trap. It argues that no 'new' party is being added, but rather the name of an 'existing' party is being corrected. This reframes the debate from prejudice to identification.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If a limitation has passed, argue the error was a 'mere misnomer' by showing the pleadings contained enough detail for the correct party to identify themselves. Emphasize diligence in trying to find the correct name.",
+            "Defensive (Proposed Defendant): Argue the error was not a misnomer but a case of mistaken identity. Show that a reasonable person would not have known they were the intended defendant, or highlight the plaintiff's lack of diligence in identifying you.",
+            "Trap Alert: The Court of Appeal in *Anglin v. Resler* held that using a pseudonym like 'John Doe' is NOT a misnomer, closing a potential loophole."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Davies v. Elsby Bros. Ltd., [1960] 3 All E.R. 672",
+              "proposition": "Establishes the classic 'reasonable person' test for what constitutes a misnomer."
+            },
+            {
+              "case_name": "Nagy v. Phillips (1996), 41 Alta. L.R. (3d) 58 (C.A.)",
+              "proposition": "Adds two requirements to the misnomer test: 1) the defendant must not have been misled or substantially injured by the delay, and 2) the plaintiff must have been reasonably diligent."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-74-john-doe-procedural-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: 'John Doe' Amendment and Service Protocol",
+        "description": "A series of procedural traps for plaintiffs who sue an unknown defendant using a pseudonym like 'John Doe'. Once the defendant's true identity is known, the plaintiff must act promptly to amend the Statement of Claim before taking further substantive steps, such as noting in default.",
+        "source_sentence_ids": [
+          "commentary-3-74-7-para-8",
+          "commentary-3-74-7-para-9",
+          "commentary-3-74-7-para-11",
+          "commentary-3-74-7-para-24"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "once the plaintiff finds out the real name of the “John Doe” defendant, it is incumbent on him to take timely steps to amend the pleadings to properly name that defendant.",
+              "source_reference": "05220.rtf#commentary-3-74-7-para-8"
+            },
+            {
+              "text": "Any required amendment should be made before any other substantive step is taken in the litigation.",
+              "source_reference": "05220.rtf#commentary-3-74-7-para-9"
+            },
+            {
+              "text": "The use of a pseudonym, however, is not a misnomer.",
+              "source_reference": "05220.rtf#commentary-3-74-7-para-11"
+            },
+            {
+              "text": "A plaintiff who notes a defendant in default must diligently comply with the applicable rules... it was inappropriate for the respondent to note the appellant in default before making the necessary amendments.",
+              "source_reference": "05220.rtf#commentary-3-74-7-para-24"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This set of rules creates a minefield for the unwary plaintiff and a powerful counter-attack for a 'John Doe' defendant. Failure to follow the strict amendment protocol can invalidate subsequent steps (like a noting in default) and expose the plaintiff to costs and delay, even if the amendment is ultimately allowed.",
+          "litigation_implications": [
+            "Offensive (Defendant): If you are served as 'John Doe' and the plaintiff delays amending or improperly notes you in default, you can apply to set aside the default and seek costs for the procedural irregularity, creating leverage.",
+            "Defensive (Plaintiff): The moment a 'John Doe' is identified, immediately prepare and file an application to amend the Statement of Claim. Do not serve the un-amended claim or take any other steps until the amendment is granted.",
+            "Counter: A court may allow a late amendment but impose a condition that the improper noting in default be set aside, neutralizing the defendant's tactical advantage."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Anglin v. Resler, 2022 ABCA 362",
+              "proposition": "A plaintiff has an obligation to promptly amend a pleading to substitute the real name for 'John Doe' before taking further substantive steps, and using a pseudonym is not a misnomer."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-75-analytical-approach-special-circumstances",
+        "node_type": "WarfareFramework",
+        "label": "Analytical Approach: Rebutting Presumed Prejudice",
+        "description": "The dominant legal framework in Alberta for applications to add a party after a limitation period. It presumes prejudice from the delay and places the onus on the applicant (plaintiff) to prove 'special circumstances' exist to rebut that presumption. Absence of actual prejudice is a factor but is not sufficient on its own.",
+        "source_sentence_ids": [
+          "commentary-3-75-6-para-yancey-analytical",
+          "commentary-3-75-6-para-yancey-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In contrast, the analytical approach is based on a legislated presumption of prejudice from suing too late. Whether or not the courts agree with that presumption, they are bound by it, unless the plaintiff can establish special circumstances rebutting that presumption.",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-yancey-analytical"
+            },
+            {
+              "text": "The applicant must show that special circumstances exist. The party resisting the application need not show actual prejudice. Absence of actual prejudice is one factor which may contribute to establishing special circumstances.",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-yancey-test"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This framework heavily favors the defendant by creating a high evidentiary burden for the plaintiff. It weaponizes the limitation period by turning it into a presumption of prejudice that the plaintiff must actively disprove with compelling reasons, rather than forcing the defendant to prove actual harm.",
+          "litigation_implications": [
+            "Offensive (Defendant): Argue that the plaintiff has failed to meet the high onus of showing 'special circumstances' and that the court is bound by the legislated presumption of prejudice.",
+            "Defensive (Plaintiff): Marshal all evidence of 'special circumstances,' such as misleading conduct by the defendant, a substantial prior connection showing the defendant had timely notice, and a compelling reason for the delay. Argue that the combination of factors rebuts the presumption.",
+            "Cost/Benefit: This framework makes post-limitation amendments difficult and costly for plaintiffs to litigate, while providing a strong, low-cost defensive position for defendants."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Yancey v. Neis (1999), 73 Alta. L.R. (3d) 239 (C.A.)",
+              "proposition": "Establishes that the 'analytical approach' is the proper test for adding a new party after a limitation period (except for misnomer), requiring the applicant to show special circumstances to rebut the presumption of prejudice."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-lim-act-s6-statutory-bypass",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Limitations Act s.6 Statutory Bypass",
+        "description": "Section 6 of the Alberta Limitations Act provides a statutory mechanism to add a new claim or party after a limitation period has expired, provided the new claim is related to the conduct, transaction, or events already pleaded and specific conditions are met.",
+        "source_sentence_ids": [
+          "F-2-Statutory-Exceptions",
+          "page_0240.rtf#para-2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Alberta’s Limitations Act allows a new claim to be added notwithstanding expiry of a limitation period (whether by new pleading or amendment of the old) in two situations. In both, the new claim must be related to the conduct, transaction or events already pleaded.",
+              "source_reference": "page_0239.rtf#F-2-Statutory-Exceptions"
+            },
+            {
+              "text": "This section 6 bypasses the normal limitation period and removes it as a defence for that new defendant.",
+              "source_reference": "page_0240.rtf#para-2"
+            }
+          ],
+          "source_references": [
+            "Limitations Act, RSA 2000, c L-12, s 6"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This statutory provision is a powerful offensive weapon for a plaintiff, creating a direct, codified counter to the limitation period trap. It shifts the analysis from the judge-made 'special circumstances' test to a more structured, rule-based inquiry, potentially lowering the bar for a post-limitation amendment.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If a limitation has expired, immediately assess if the claim fits within Section 6. Frame the application around the statutory requirements, arguing that the new claim is 'related' and the defendant had sufficient knowledge within the prescribed time.",
+            "Defensive (Defendant): Attack the plaintiff's reliance on Section 6 by arguing the new claim is not sufficiently 'related' to the original pleadings, or that you did not receive the required knowledge of the new claim in time to prevent prejudice to your defense.",
+            "Cost/Benefit: Successfully invoking this mechanism can save a claim that would otherwise be statute-barred, providing immense benefit. The cost is a complex application requiring careful analysis of the statutory criteria."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Condominium Corp. No. 0213028 v. Pasera Corp., 2016 ABQB 477",
+              "proposition": "Outlines the court's options when an amendment is sought with limitations issues, including considering s. 6 of the Limitations Act."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-73-saving-provision-for-party-errors",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Incorrect Parties Not Fatal to Action",
+        "description": "Rule 3.73 establishes that an action does not fail solely due to procedural errors in joining, omitting, or incorrectly naming parties. This is a saving provision designed to prevent actions from being defeated on technicalities.",
+        "source_sentence_ids": [
+          "r3-73-1",
+          "page_0230.rtf#para-3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "No claim or action fails solely because (a) 2 or more parties join in an action that they should not have joined, (b) 2 or more parties do not join an action that they could or should have joined, or (c) a party was incorrectly named as a party or was incorrectly omitted from being named as a party.",
+              "source_reference": "05217.rtf#r3-73-1"
+            },
+            {
+              "text": "The concept of nullity’s proper range is very narrow, especially in light of the aims of modern Rules. Nullity should be used only in cases of prejudice or unfairness.",
+              "source_reference": "page_0230.rtf#para-3"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.73"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This pillar serves as a fundamental shield against procedural attacks aimed at dismissing an action for party-related defects. It reinforces the court's broad discretion to cure errors and ensures that disputes are resolved on their merits, not on procedural missteps.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If a defendant moves to strike your claim for misjoinder or non-joinder, invoke Rule 3.73 to argue the proper remedy is to add or remove parties, not to dismiss the action.",
+            "Offensive (Defendant): Avoid bringing motions to dismiss based solely on party errors, as they are likely to fail. Instead, frame the issue as one of prejudice that cannot be remedied by simply changing the parties.",
+            "Cost/Benefit: Relying on this rule can save a procedurally flawed action from dismissal at a low cost. Attacking in the face of this rule is likely a waste of resources."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Int. B’hood. of Elec. Workers v. Lawrence, 2018 SCC 11",
+              "proposition": "Affirms that a lawsuit started against a non-legal entity (like a union) is not a nullity and can be corrected by substituting representative defendants, even after a limitation period, to avoid unfairness."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-72-consolidation-factors",
+        "node_type": "WarfareFramework",
+        "label": "Consolidation Framework (Mikisew Factors)",
+        "description": "The framework for determining whether to consolidate actions, try them together, or try them one after the other. The court weighs factors including common claims, potential savings in time and resources, and potential prejudice to the parties, with the overall objective of serving the interests of justice.",
+        "source_sentence_ids": [
+          "commentary-3-72-1-para-12",
+          "commentary-3-72-3-para-mikisew"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The guiding principles in considering whether two or more cases should be consolidated or tried together were set out succinctly by the Court of Appeal in Alliance Pipeline Limited v C.E. Franklin Ltd, 2007 ABCA 285 at para. 6: The purpose of consolidation is to enhance the administration of justice. A court should consider the possibility of inconsistent verdicts, the prospect of prejudice to the parties and the impact of consolidation and non-consolidation... on scarce resources...",
+              "source_reference": "05216.rtf#commentary-3-72-1-para-12"
+            },
+            {
+              "text": "In Shah v. Bakkenn... the court lists a number of factors which [one] should take into account in an application to consolidate. These include: i) whether there are common claims, disputes and relationships between the parties; ii) whether consolidation will save time and resources in pretrial procedures; iii) whether time at trial will be reduced; iv) whether one party will be seriously prejudiced by having two trials together; v) whether one action is at a more advanced stage than the other; and vi) whether consolidation will delay the trial of one action which will cause serious prejudice to one party.",
+              "source_reference": "05216.rtf#commentary-3-72-3-para-mikisew"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.72",
+            "Alberta Rules of Court, Commentary on r. 3.72"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This framework is a powerful tool for shaping the battlefield. A party can use it offensively to force a reluctant opponent into a consolidated action, increasing complexity and cost for them. Defensively, a party can use the prejudice and delay factors to resist consolidation and keep actions separate and more manageable.",
+          "litigation_implications": [
+            "Offensive Tactic: If you are a defendant in multiple related actions, apply to consolidate them to streamline your defense, reduce overall costs, and prevent inconsistent findings across the actions.",
+            "Defensive Tactic: If an opponent seeks to consolidate their new, unprepared action with your trial-ready action, vigorously oppose it by highlighting the 'prejudicial delay' factor, arguing it unfairly retards your litigation.",
+            "Cost/Benefit: A successful consolidation can save enormous expense and prevent the risk of contradictory judgments. A failed application can result in adverse costs and signal a strategic misstep."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Mikisew Cree First Nation v. Canada (1998), 224 A.R. 157 (Q.B.)",
+              "proposition": "Sets out the six key factors to consider in an application to consolidate actions, focusing on commonality, efficiency, and prejudice."
+            },
+            {
+              "case_name": "Alliance Pipeline Limited v C.E. Franklin Ltd, 2007 ABCA 285",
+              "proposition": "The overarching purpose of consolidation is to enhance the administration of justice by balancing the risk of inconsistent verdicts, prejudice, and the use of scarce resources."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-72-alternative-orders",
+        "node_type": "ControlMechanism",
+        "label": "Weaponized Alternatives to Full Consolidation",
+        "description": "The court possesses a suite of flexible powers short of full consolidation, including ordering actions to be tried at the same time, one after the other, or staying one action pending the determination of another. These are tactical options to achieve efficiency without the full merger of actions.",
+        "source_sentence_ids": [
+          "r3-72-1",
+          "commentary-3-72-6-para-athabasca"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may order one or more of the following: (b) that 2 or more claims or actions be tried at the same time or one after the other; (c) that one or more claims or actions be stayed until another claim or action is determined;",
+              "source_reference": "05215.rtf#r3-72-1"
+            },
+            {
+              "text": "Rule 229 also provides that the court can order that the actions be tried at the same time and this seems to me to be far less cumbersome while achieving the desirable result of allowing a Trial Judge to hear all of the relevant matters without the necessity of two separate trials covering similar evidence and witnesses.",
+              "source_reference": "05216.rtf#commentary-3-72-6-para-athabasca"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.72(1)"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "These alternatives provide a tactical middle ground. A party can propose them to counter a full consolidation application, appearing reasonable while still achieving a strategic goal (e.g., ensuring their stronger case is heard first). They allow a party to gain the benefits of a single trier of fact without the procedural complexities of merging pleadings and discovery.",
+          "litigation_implications": [
+            "Offensive Tactic: If full consolidation is denied due to prejudice, propose the alternative of having the actions tried 'one after the other' by the same judge to still avoid inconsistent verdicts.",
+            "Defensive Tactic: If you are the plaintiff in a 'test case', apply to stay similar actions pending the outcome of yours, thereby positioning your case as the decisive one and putting pressure on the common defendant.",
+            "Cost/Benefit: These options are often less contentious and cheaper to argue than full consolidation, offering a high degree of efficiency with lower procedural friction."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Athabasca Realty Co. v. Humeniuk (1978), 14 A.R. 79 (T.D.)",
+              "proposition": "Ordering actions to be tried at the same time can be less cumbersome than full consolidation while still achieving the goal of having one judge hear all relevant matters."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-71-severance-power",
+        "node_type": "ControlMechanism",
+        "label": "Weapon: Severance of Claims or Parties",
+        "description": "The court's power to separate claims or order separate trials if joined claims or parties may unduly complicate, delay, or cause undue prejudice to a party. This mechanism allows for the surgical removal of problematic elements from an action.",
+        "source_sentence_ids": [
+          "r3-71-1",
+          "commentary-3-71-3-para-bank-of-bc"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "When 2 or more claims are made in an action or when 2 or more parties join or are joined in an action, the Court may make an order under this rule if the Court is satisfied that the joined claims or parties, or both, may (a) unduly complicate or delay the action, or (b) cause undue prejudice to a party.",
+              "source_reference": "05213.rtf#r3-71-1"
+            },
+            {
+              "text": "The sole test in an application under R. 95 is whether the counterclaim can be conveniently disposed of in the same action. If it cannot, the court may grant an appropriate order.",
+              "source_reference": "05214.rtf#commentary-3-71-3-para-bank-of-bc"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.71"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "Severance is a defensive weapon to streamline litigation and manage risk. A defendant can use it to carve out a complex or frivolous claim brought by the plaintiff, forcing it to be litigated separately and potentially delaying it. A plaintiff can use it to sever a defendant's complex counterclaim that is bogging down the main action, based on the 'balance of convenience'.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a plaintiff has joined a strong claim with a weak, speculative one, apply to sever the weak claim to focus the litigation and potentially dispose of it early.",
+            "Defensive (Plaintiff): If a defendant files a massive, complex counterclaim that will delay your straightforward main claim by years, apply to have the counterclaim tried separately to get a faster resolution on your own action.",
+            "Cost/Benefit: A successful severance can significantly reduce the cost and complexity of the main action. However, it creates a multiplicity of proceedings, which courts generally seek to avoid."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Thames Steel Construction v. Portman (1980), 111 D.L.R. (3d) 460",
+              "proposition": "The governing principle in determining whether joinder should be allowed is the balance of convenience, weighing the expense and delay of separate actions against the inconvenience to the defendant if tried together."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-76-post-addition-procedure",
+        "node_type": "ControlMechanism",
+        "label": "Control: Post-Addition Service and Timeline Reset",
+        "description": "Rule 3.76 mandates the procedural steps after a defendant is added: the plaintiff must amend the commencement document and serve it. Crucially, the new defendant gets a fresh time period to file a defence, and the action against them is deemed to have started on the date they were added.",
+        "source_sentence_ids": [
+          "r3-76-1",
+          "r3-76-2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "(1) If a defendant or respondent is added to or substituted in an action, the plaintiff... must, unless the Court otherwise orders, (a) amend the commencement document, as required, to name the new party, and (b) serve the amended commencement document on each of the other parties.",
+              "source_reference": "05223.rtf#r3-76-1"
+            },
+            {
+              "text": "(2) Unless the Court otherwise orders, (a) in the case of a new defendant, the new defendant has the same time period to serve a statement of defence as the defendant had under rule 3.31, and (b) the action against the new defendant or new respondent, as the case may be, starts on the date on which the new party is added to or substituted in the action.",
+              "source_reference": "05223.rtf#r3-76-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.76"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This rule provides critical procedural control and clarity. For the new defendant, it's a shield ensuring they have adequate time to respond and are not prejudiced by prior proceedings. For all parties, subrule 2(b) is paramount as it establishes the start date of the action against the new party, which is the key date for determining limitation period issues.",
+          "litigation_implications": [
+            "Offensive (New Defendant): Use the fresh timeline to fully prepare a Statement of Defence without being rushed. Ensure the plaintiff complies with the mandatory service of the amended pleading.",
+            "Defensive (Plaintiff): After obtaining an order to add a defendant, act diligently to amend and serve the pleading to avoid any arguments of delay or prejudice.",
+            "Strategic Point: The date the party is added (the date of the order) is the critical date for limitation purposes, not the date of service. This can be used to argue a claim was brought in time even if service occurs later."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-77-foreclosure-encumbrancer-exclusion",
+        "node_type": "ControlMechanism",
+        "label": "Control: Streamlining Foreclosure by Excluding Subsequent Encumbrancers",
+        "description": "A specific rule in foreclosure actions that prohibits a plaintiff (mortgagee) from naming subsequent encumbrancers as parties, unless possession is claimed from them. This is designed to simplify and expedite the main foreclosure action.",
+        "source_sentence_ids": [
+          "r3-77",
+          "commentary-3-77-1-para-25"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A plaintiff in a foreclosure action must not make any subsequent encumbrancer a party to the claim unless possession is claimed from the subsequent encumbrancer.",
+              "source_reference": "05224.rtf#r3-77"
+            },
+            {
+              "text": "With us, the intention is to postpone all such questions until it can be seen whether there is likely to be a fund by which any of them can benefit.",
+              "source_reference": "05225.rtf#commentary-3-77-1-para-25"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.77"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a powerful efficiency mechanism for mortgagees. It prevents the primary foreclosure action from being bogged down by disputes among junior creditors over priority. It isolates the core issue (foreclosure and sale) and defers secondary issues (distribution of surplus funds) until after a sale, reducing cost and delay for the primary lender.",
+          "litigation_implications": [
+            "Offensive (Plaintiff Mortgagee): Use this rule to maintain a clean, focused foreclosure action. Resist any attempt by junior encumbrancers to be added as parties to complicate the main proceedings.",
+            "Defensive (Subsequent Encumbrancer): You cannot force your way into the main action. Your recourse is to wait for the notice of the judgment or order and then prove your claim against any potential surplus funds from the sale.",
+            "Cost/Benefit: This rule significantly lowers the cost and complexity of foreclosure litigation for the senior lender by deferring costly priority fights."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Caplink Financial Corp. v. Petra Corp., 2015 ABCA 55",
+              "proposition": "Explains the historical origin of Rule 3.77, which is to postpone questions of priority among subsequent encumbrancers until it is clear there will be a surplus fund to distribute."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-74-consent-required-for-plaintiff",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Consent Required to Add Plaintiff",
+        "description": "A person cannot be added or substituted as a plaintiff, plaintiff-by-counterclaim, or third-party plaintiff without their filed consent. This protects individuals from being involuntarily drawn into litigation as a party seeking relief.",
+        "source_sentence_ids": [
+          "r3-74-2-a"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On application, the Court may order that a person be added, removed or substituted as a party to an action if (a) in the case of a person to be added or substituted as plaintiff, plaintiff-by-counterclaim or third party plaintiff, the application is made by a person or party and the consent of the person proposed to be added or substituted as a party is filed with the application;",
+              "source_reference": "05219.rtf#r3-74-2-a"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.74(2)(a)"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a fundamental control mechanism that prevents the weaponization of joinder against unwilling plaintiffs. It ensures that a party cannot be forced to sue against their will, protecting their autonomy and preventing them from being exposed to cost risks without their agreement.",
+          "litigation_implications": [
+            "Procedural Requirement (Applicant): Any application to add a plaintiff must be accompanied by a filed, written consent from that person. Failure to do so is fatal to the application.",
+            "Defensive (Opponent): If an application to add a plaintiff is brought without a filed consent, it should be opposed on that basis alone as a failure to comply with a mandatory precondition.",
+            "Cost/Benefit: The cost of obtaining consent is minimal. The cost of failing to do so is the dismissal of the application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-75-test-to-add-defendant",
+        "node_type": "WarfareFramework",
+        "label": "Test to Add Defendant: Adjudicative Necessity",
+        "description": "The core test for adding a defendant against whom the plaintiff does not wish to advance a claim. The question is whether the claims the plaintiff advances against the existing defendants can be properly adjudicated without the addition of the proposed defendant. It is not a tool to simply advance a new cause of action.",
+        "source_sentence_ids": [
+          "commentary-3-75-2-para-bernhart"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An application under the sub-rule is to be tested by asking the question—can the claims the plaintiff advances against those already defendants to the action be properly adjudicated on without the addition of the proposed defendant? If the answer is yes, the application must fail, at least under that sub-rule.",
+              "source_reference": "05222.rtf#commentary-3-75-2-para-bernhart"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This framework acts as a gatekeeper, preventing parties from being added to litigation unnecessarily. It's a defensive shield for a proposed defendant to argue they are not essential to the resolution of the existing dispute. It forces the applicant to justify the addition based on the needs of the current action, not a desire to start a new one.",
+          "litigation_implications": [
+            "Offensive (Applicant): Frame the application to show that complete and final adjudication of the issues between the existing parties is impossible without binding the proposed new defendant to the result.",
+            "Defensive (Proposed Defendant): Argue that your presence is not necessary for the court to resolve the dispute between the current plaintiff and defendant, and that the applicant is improperly trying to drag you into a separate dispute.",
+            "Cost/Benefit: This test prevents the unnecessary expansion of litigation, saving costs for parties who are not central to the core dispute."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Bernhart v. Umisk Farms Ltd. (1983), 40 A.R. 549 (Master)",
+              "proposition": "The test for adding a defendant is whether the plaintiff's claims against the existing defendants can be properly adjudicated without the proposed defendant's addition."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-74-hopeless-amendment-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Bar on 'Hopeless' Amendments",
+        "description": "An exception to the general rule allowing amendments. An amendment to add a party or claim will be refused if it is 'hopeless,' meaning it discloses no reasonable cause of action and would have been struck out if it were in the original pleadings.",
+        "source_sentence_ids": [
+          "commentary-3-74-1-para-25-jean",
+          "commentary-3-74-1-para-24-eidsvik"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Exceptions to the general rule allowing for amendments include where the amendment requested is “hopeless”...",
+              "source_reference": "05220.rtf#commentary-3-74-1-para-25-jean"
+            },
+            {
+              "text": "The other criteria that is generally accepted is that the amendment must raise a triable issue, or otherwise said, not be “hopeless”...",
+              "source_reference": "05220.rtf#commentary-3-74-1-para-24-eidsvik"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a defensive weapon used to prevent the addition of legally untenable claims or parties. It allows a party to resist an amendment by attacking its substantive legal merit at the outset, effectively conducting a mini-strike application within the amendment motion to avoid the costs of pleading to and discovering on a meritless claim.",
+          "litigation_implications": [
+            "Offensive (Resisting Party): Argue that the proposed amendment is 'hopeless' because it is plain and obvious that the new claim has no reasonable prospect of success. This forces a substantive legal debate early.",
+            "Defensive (Amending Party): Ensure any proposed new claim is legally sound and supported by at least a modest degree of evidence to show it raises a triable issue and is not 'hopeless'.",
+            "Cost/Benefit: Successfully blocking an amendment as 'hopeless' saves significant future costs. The evidentiary threshold for the amending party is low, so this argument should only be used for clearly unwinnable claims."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "513320 Alberta Inc. v. Jean, 2015 ABQB 826",
+              "proposition": "Lists 'hopeless' amendments as a key exception to the general rule that amendments should be allowed."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-74-application-by-non-party",
+        "node_type": "ControlMechanism",
+        "label": "Control: Application to Add Party by a Non-Party",
+        "description": "Rule 3.74(2), as amended in 2020, allows a non-party to apply to be added to an action. This provides a direct procedural path for a person whose interests are affected by litigation to seek to become a party and protect those interests.",
+        "source_sentence_ids": [
+          "r3-74-2",
+          "footnote-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On application, the Court may order that a person be added, removed or substituted as a party to an action if... the application is made by a person or party...",
+              "source_reference": "05219.rtf#r3-74-2"
+            },
+            {
+              "text": "Rule 3.74(2)(b) was amended in 2020 to allow parties to be changed on application by persons who are not already parties to the suit.",
+              "source_reference": "page_0231.rtf#footnote-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.74(2)"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This mechanism empowers affected non-parties, giving them a tool to force their way into litigation where the existing parties may not want them. It prevents situations where a person's rights are being adjudicated without their participation and is a key tool for potential indemnifiers, insurers, or others with a direct legal interest in the outcome.",
+          "litigation_implications": [
+            "Offensive (Non-Party): If your legal rights or financial interests are directly impacted by an ongoing lawsuit, use this rule to apply to be added as a party to defend your interests directly.",
+            "Defensive (Existing Parties): To resist such an application, argue that the non-party does not have a sufficient legal interest or that their interests are already adequately represented by an existing party.",
+            "Cost/Benefit: For a non-party, the cost of the application is a necessary expense to avoid being adversely affected by a judgment in which they had no say. For existing parties, it can add complexity and cost to the litigation."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-70-initial-joinder-framework",
+        "node_type": "WarfareFramework",
+        "label": "Initial Joinder Framework",
+        "description": "The threshold framework governing the initial joinder of multiple plaintiffs or defendants in a single action. Joinder is permitted if the claims arise from the 'same transaction or occurrence' OR a 'common question of law or fact' is likely to arise.",
+        "source_sentence_ids": [
+          "r3-70-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Two or more parties may join to bring an action, and a plaintiff or originating applicant may make a claim against 2 or more persons as defendants or respondents in an action, if (a) the claim arises out of the same transaction or occurrence or series of transactions or occurrences, (b) a question of law or fact common to the parties is likely to arise, or (c) the Court permits.",
+              "source_reference": "05211.rtf#r3-70-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.70(1)"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This framework is a strategic tool for plaintiffs to shape the initial battlefield. By joining multiple defendants, a plaintiff can prevent them from blaming an 'empty chair' and force a unified defense. For defendants, understanding this rule is key to launching an early attack on misjoinder to simplify the action.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Join all potentially liable parties in a single action to avoid multiple lawsuits and inconsistent findings. Argue that even if the transactions are separate, a common question of law or fact exists.",
+            "Defensive (Defendant): If improperly joined, bring an early motion for severance under Rule 3.71, arguing that the claims do not arise from the same transaction and that the common questions are not significant enough to justify the prejudice of a complex, multi-party action.",
+            "Cost/Benefit: Proper joinder saves immense costs by avoiding a multiplicity of proceedings. Improper joinder can be attacked early to streamline the defense."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-75-legal-vs-commercial-interest-test",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: The Amon/Amoco 'Narrow Test' for Intervention",
+        "description": "A foundational test for adding a party, which distinguishes between a direct legal interest and a mere commercial interest. A person may only be added if the result of the action will directly affect them by curtailing their legal rights, not just their commercial interests.",
+        "source_sentence_ids": [
+          "commentary-3-75-2-para-amoco-devlin",
+          "commentary-3-75-4-para-holnam"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is not enough that the intervener should be commercially or indirectly interested in the answer to the question; he must be directly or legally interested in the answer. A person is legally interested in the answer only if he can say that it may lead to a result that will affect him legally—that is by curtailing his legal rights.",
+              "source_reference": "05222.rtf#commentary-3-75-2-para-amoco-devlin"
+            },
+            {
+              "text": "The rejection of a “commercial interest” as a foundation for a person becoming a party was reaffirmed by the Court of Appeal in In re I.G. Farbenindustrie, [1944] 1 Ch. 41.",
+              "source_reference": "05222.rtf#commentary-3-75-4-para-holnam"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a powerful defensive shield to prevent litigation from being expanded by commercially-interested intermeddlers (e.g., competitors, suppliers, insurers who have denied coverage). It provides a clear, high bar for intervention, allowing existing parties to keep the action focused on those with a direct legal stake in the outcome.",
+          "litigation_implications": [
+            "Offensive (Party Resisting Joinder): Use this test to defeat an application by a non-party who has only a commercial interest in the outcome. Argue they are a mere 'busybody' whose legal rights will not be curtailed by the judgment.",
+            "Defensive (Party Seeking to Join): Frame your application to demonstrate that the court's order will directly bind you or diminish a specific legal right you possess, not just impact your business financially.",
+            "Cost/Benefit: Successfully using this test prevents the action from becoming more complex and costly, and shields the existing parties from discovery and other obligations from a commercially-motivated third party."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Amon v. Raphael Tuck & Sons Ltd., [1956] 1 Q.B. 357",
+              "proposition": "Establishes the 'narrow test' for adding a party: the order must directly affect the intervener in the enjoyment of their legal rights, not just their commercial interests."
+            },
+            {
+              "case_name": "Amoco Canada Petroleum Co. v. Alberta & Southern Gas Co. (1993), 10 Alta. L.R. (3d) 325 (Q.B.)",
+              "proposition": "Adopts the narrow test from Amon as the law in Alberta, stating a person must be joined so they can be bound by the result, not merely because they have relevant evidence or arguments."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-75-functional-approach-rejected",
+        "node_type": "WarfareFramework",
+        "label": "Rejected Framework: The 'Functional Approach'",
+        "description": "A rejected approach to post-limitation amendments that focuses on whether the defendant suffered actual prejudice in fact. Under this approach, the onus is on the defendant to prove prejudice, and an amendment would be allowed if the defendant had timely notice of the claim, regardless of the limitation statute.",
+        "source_sentence_ids": [
+          "commentary-3-75-2-para-palermo",
+          "commentary-3-75-6-para-yancey-functional"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Another approach (the functional approach) is to ascertain whether the defendant would be prejudiced in fact in defending the action at trial, if the amendment were allowed. With the functional approach, the question is not merely whether the amendment raises a new cause of action, but also whether the defendant received notice of the new claims against him so that he would suffer no actual prejudice...",
+              "source_reference": "05222.rtf#commentary-3-75-2-para-palermo"
+            },
+            {
+              "text": "Whereas, with the functional approach, despite the legislated presumption of prejudice, the onus is placed on the defendant to establish additional prejudice.",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-yancey-functional"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This node is critical for defensive purposes. Although rejected in Alberta, opposing counsel may frame arguments that implicitly rely on functional reasoning (e.g., 'there's no real prejudice here'). By understanding and being able to name the rejected framework, a litigator can effectively dismantle such arguments by pointing out that the court is bound by the stricter 'Analytical Approach'.",
+          "litigation_implications": [
+            "Defensive (Resisting Amendment): If an opponent argues 'what's the harm?', identify this as an attempt to use the rejected 'functional approach'. Counter by stating that Alberta law follows the 'analytical approach', which presumes prejudice and places the onus on the plaintiff.",
+            "Offensive (Amending Party): Avoid framing arguments solely around the absence of actual prejudice. While a factor, it is not the test. Focus instead on meeting the 'special circumstances' test of the analytical approach.",
+            "Cost/Benefit: Recognizing and defeating a functional argument prevents the court from straying from binding precedent, thereby increasing the reliability and predictability of the outcome."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Yancey v. Neis (1999), 73 Alta. L.R. (3d) 239 (C.A.)",
+              "proposition": "Explicitly contrasts the functional and analytical approaches and confirms the analytical approach is the law in Alberta for adding parties post-limitation."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-75-improper-purpose-joinder",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Joinder for an Improper Purpose",
+        "description": "A party cannot be joined for an improper purpose, such as solely to obtain discovery from them or to make them liable for costs when no substantive claim can be made against them.",
+        "source_sentence_ids": [
+          "commentary-3-75-3-para-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The kind of “improper” purpose contemplated by rule 38(3) is the joinder of a person to obtain discovery or costs which could not otherwise be sought against that person.",
+              "source_reference": "05222.rtf#commentary-3-75-3-para-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a defensive tool to protect individuals and entities from being dragged into litigation for purely tactical reasons. It prevents the abuse of the joinder rules as a substitute for proper discovery from non-parties or as a way to create a costs target.",
+          "litigation_implications": [
+            "Offensive (Resisting Joinder): If you suspect you are being added to a lawsuit just so the plaintiff can examine you for discovery, bring a motion to be struck, arguing the joinder is for an improper purpose.",
+            "Defensive (Seeking Joinder): Ensure that any application to add a party is supported by a bona fide, arguable cause of action against that party, not just a desire for information.",
+            "Cost/Benefit: Successfully resisting joinder on this basis saves a party from the significant costs and burdens of being a litigant."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Starland School Division No. 30 v. Alberta (1988), 91 A.R. 329 (Q.B.)",
+              "proposition": "Defines 'improper purpose' for joinder as seeking discovery or costs that could not otherwise be obtained."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-75-failure-to-submit-draft-pleading",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Failure to Submit Draft Pleading with Application",
+        "description": "A procedural trap where an application to add a party can be dismissed if the applicant fails to include a copy of the proposed amended pleading. This failure prevents the court and the other parties from knowing the precise allegations against the new party.",
+        "source_sentence_ids": [
+          "commentary-3-75-5-para-1",
+          "commentary-3-75-5-para-eisenkrein"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "One should submit, with the application, the proposed amended pleading. Failure to do so should result in dismissal with leave to reapply on adjournment, so that proper material can be brought before the court...",
+              "source_reference": "05222.rtf#commentary-3-75-5-para-1"
+            },
+            {
+              "text": "It was encumbent [sic] on the plaintiff to do a draft of the proposed amended statement of claim, with the necessary allegations as against the brother. Simply adding the brother as a defendant is not sufficient.",
+              "source_reference": "05222.rtf#commentary-3-75-5-para-eisenkrein"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a simple but effective procedural weapon for the party resisting joinder. It attacks the form of the application, not its substance. A successful objection on this basis forces the applicant to start over, causing delay and incurring wasted costs, which can create tactical leverage.",
+          "litigation_implications": [
+            "Offensive (Resisting Joinder): If an application to add a party is filed without a draft amended pleading, immediately object on that basis. Argue the application is procedurally defective and should be dismissed.",
+            "Defensive (Seeking Joinder): ALWAYS include a draft of the proposed amended pleading as an exhibit to the affidavit in support of the application to add a party. This is a non-negotiable best practice.",
+            "Cost/Benefit: For the resisting party, this is a low-cost way to delay the application and impose costs on the opponent. For the applicant, the cost of preparing the draft pleading is minimal compared to the cost of having the application dismissed for failing to do so."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Eisenkrein v. Eisenkrein (1984), 53 A.R. 199 (Master)",
+              "proposition": "It is incumbent on the party seeking to add a defendant to provide a draft of the proposed amended statement of claim with the necessary allegations."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-75-non-party-intervention-test",
+        "node_type": "WarfareFramework",
+        "label": "Non-Party Intervention Test",
+        "description": "The two-part test a non-party must satisfy to be added as a defendant: 1) they must have a direct financial or legal interest in the outcome, and 2) their interest will not be adequately protected unless they are allowed to intervene.",
+        "source_sentence_ids": [
+          "commentary-3-75-7-para-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "… a non-party seeking to be added as a defendant must satisfy two tests: 1. The non-party must have a direct financial or legal interest in the outcome of the litigation; and 2. The non-party's interest will not be adequately protected unless he is allowed to intervene.",
+              "source_reference": "05222.rtf#commentary-3-75-7-para-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This framework governs self-initiated joinder. It provides the strategic blueprint for a non-party to force their way into a lawsuit and the defensive blueprint for existing parties to resist that intervention. The second prong ('interest not adequately protected') is a high bar and the key point of attack.",
+          "litigation_implications": [
+            "Offensive (Non-Party Seeking to Join): Argue not only that you have a direct legal interest, but also that the existing defendant is unable or unwilling to make the arguments necessary to protect your specific interest (e.g., they may have conflicting interests or may choose to settle on terms adverse to you).",
+            "Defensive (Existing Parties Resisting Joinder): Argue that the non-party's interests are already aligned with and adequately protected by an existing party, making their intervention unnecessary, costly, and duplicative.",
+            "Cost/Benefit: For the non-party, the cost of intervention is weighed against the risk of being adversely affected by a judgment. For existing parties, resisting intervention prevents added complexity and cost."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Royal Bank v. Page Petroleum Ltd. (Receivership) (1990), 102 A.R. 347 at 349 (C.A.)",
+              "proposition": "Establishes the two-part test for a non-party seeking to be added as a defendant: direct interest and inadequate protection."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-75-plaintiff-substitution-prejudice-distinction",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case: Plaintiff vs. Defendant Substitution Prejudice",
+        "description": "A critical distinction in post-limitation amendments: prejudice from substituting a plaintiff is often considered 'more form than substance' if the nature of the claim remains identical, whereas substituting a defendant is a true prejudice as a claim is being advanced against them for the first time.",
+        "source_sentence_ids": [
+          "commentary-3-75-2-para-rathwell-distinction"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "First, a differentiation should be made between amendments which might substitute a plaintiff and amendments which might substitute a defendant... Where a proposed amendment would have the effect of substituting a defendant, and the limitation period has gone by, there is a legitimate prejudice suffered by the substituting defendant. For the first time a claim is being advanced against him, a claim which is barred by a limitation period.",
+              "source_reference": "05222.rtf#commentary-3-75-2-para-rathwell-distinction"
+            },
+            {
+              "text": "If, however, a plaintiff is substituted, any prejudice based on a limitation period is more form than substance, assuming the nature of the claim is not changed. If the claim against the defendant is still identical after the substitution there is no real prejudice.",
+              "source_reference": "05222.rtf#commentary-3-75-2-para-rathwell-distinction"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This is a high-value edge case that weakens the defendant's primary weapon (the limitation bar) in a specific scenario. It allows a plaintiff seeking to substitute another plaintiff (e.g., correcting the legal entity that suffered the loss) to argue that the defendant's 'prejudice' is illusory because the underlying claim they must defend has not changed at all.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): When substituting a plaintiff post-limitation, argue that since the claim itself is unchanged, the defendant suffers no real prejudice and the amendment should be allowed. Frame the defendant's limitation defense as a mere technicality.",
+            "Defensive (Defendant): To counter this, argue that the new plaintiff brings a different legal status or that the change is not merely 'form' but introduces new substantive issues, thereby causing genuine prejudice.",
+            "Cost/Benefit: For a plaintiff, successfully using this distinction can save a claim that might otherwise be barred. For a defendant, it requires a more nuanced argument than simply pointing to the expired limitation period."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "M.L. Rathwell & Sons Trucking Ltd. v. Alforge Metals Corp. (1981), 15 Alta. L.R. (2d) 347 (Master)",
+              "proposition": "Establishes the principle that prejudice from substituting a plaintiff post-limitation is 'more form than substance' if the claim remains identical, unlike substituting a defendant."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-limitation-bar-counters-classic-rule",
+        "source_node_id": "pt-r3-74-limitation-period-bar",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "COUNTERS",
+        "description": "The expiration of a limitation period is the primary exception that counters the 'classic rule' allowing amendments, as it is generally considered non-compensable prejudice.",
+        "source_sentence_ids": [
+          "commentary-3-74-1-para-15-condo-corp"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The classic rule is subject to four major exceptions: ... unless permitted by statute, the amendment seeks to add a new party or a new cause of action after the expiry of a limitation period;",
+              "source_reference": "05220.rtf#commentary-3-74-1-para-15-condo-corp"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship models the primary check on the court's discretion to amend, elevating the limitation period from a mere procedural hurdle to a substantive barrier that presumptively constitutes prejudice.",
+          "litigation_implications": [
+            "A litigator must always frame a limitation issue as a direct counterargument to the permissive 'classic rule', not just as a standalone defense."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Condominium Corp. No. 0213028 v. Pasera Corp., 2016 ABQB 477",
+              "proposition": "Identifies the expiry of a limitation period as one of the four major exceptions to the classic rule of amendment."
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-002-misnomer-counters-limitation-bar",
+        "source_node_id": "wf-r3-74-misnomer-correction-framework",
+        "target_node_id": "pt-r3-74-limitation-period-bar",
+        "relationship_type": "COUNTERS",
+        "description": "The misnomer framework provides a direct counter-attack to the limitation period bar by arguing that no new party is being added, but merely that an existing party's name is being corrected.",
+        "source_sentence_ids": [
+          "commentary-3-74-8-para-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Misnomer is often said to be an exception to the general rule barring addition or substitution of parties after the limitation period has expired. Strictly speaking, it is no exception at all. Where there is a true misnomer, the party is the same all along, and need not be changed.",
+              "source_reference": "05220.rtf#commentary-3-74-8-para-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link models the primary plaintiff strategy for overcoming a limitation defense. By successfully characterizing the error as a misnomer, the plaintiff neutralizes the defendant's most powerful weapon by reframing the issue as a correction, not an addition.",
+          "litigation_implications": [
+            "A plaintiff facing a limitation defense should immediately assess if the facts support a misnomer argument as the primary path to success, as it avoids the more difficult tests for adding a new party."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-statutory-bypass-counters-limitation-bar",
+        "source_node_id": "cm-lim-act-s6-statutory-bypass",
+        "target_node_id": "pt-r3-74-limitation-period-bar",
+        "relationship_type": "COUNTERS",
+        "description": "The Limitations Act s.6 provides a statutory override to the common law rule that bars adding parties after a limitation period has expired, if its specific conditions are met.",
+        "source_sentence_ids": [
+          "page_0240.rtf#para-2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This section 6 bypasses the normal limitation period and removes it as a defence for that new defendant.",
+              "source_reference": "page_0240.rtf#para-2"
+            }
+          ],
+          "source_references": [
+            "Limitations Act, RSA 2000, c L-12, s 6"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship highlights a legislated weapon that directly defeats the limitation trap, offering a structured, rule-based alternative to the judge-made misnomer and 'special circumstances' doctrines.",
+          "litigation_implications": [
+            "When a limitation period has expired, a plaintiff's second line of attack, after misnomer, is to argue that the amendment is permitted under the specific provisions of the Limitations Act."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-analytical-approach-operationalizes-limitation-bar",
+        "source_node_id": "wf-r3-75-analytical-approach-special-circumstances",
+        "target_node_id": "pt-r3-74-limitation-period-bar",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The Analytical Approach is the judicial framework that operationalizes the limitation period bar by creating a presumption of prejudice and placing a high burden on the plaintiff to show 'special circumstances'.",
+        "source_sentence_ids": [
+          "commentary-3-75-6-para-yancey-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "I conclude that with the exception of cases involving a misnomer... the analytical approach... is also the proper approach to applications to amend after a limitation period to add a new party. The applicant must show that special circumstances exist.",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-yancey-test"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link demonstrates how a procedural bar (the limitation period) is transformed into a powerful defensive weapon through a specific legal test that favors the resisting party by default.",
+          "litigation_implications": [
+            "A defendant resisting a post-limitation amendment should structure their argument around the Analytical Approach, forcing the plaintiff onto the defensive to prove the elusive 'special circumstances'."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-saving-provision-reinforces-classic-rule",
+        "source_node_id": "fp-r3-73-saving-provision-for-party-errors",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "REINFORCES",
+        "description": "Rule 3.73, which states that actions are not defeated by party errors, reinforces the liberal philosophy of the 'classic rule' of amendment, emphasizing that the court's goal is to correct errors rather than dismiss actions on technicalities.",
+        "source_sentence_ids": [
+          "commentary-3-74-4-para-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The basic purpose of R. 38 is to prevent any action from being defeated by reason of misjoinder or non-joinder and to allow the necessary amendments in respect of the parties at any stage of the proceedings.",
+              "source_reference": "05220.rtf#commentary-3-74-4-para-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship shows the ideological consistency within the Rules of Court. A party arguing for an amendment can point to Rule 3.73 as evidence of the Rules' overarching intent to facilitate substantive justice over procedural purity.",
+          "litigation_implications": [
+            "In an amendment application, cite both Rule 3.74(3) and Rule 3.73 to build a stronger argument that the court's primary duty is to cure the defect, not punish the error."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-john-doe-trap-modifies-misnomer-framework",
+        "source_node_id": "pt-r3-74-john-doe-procedural-trap",
+        "target_node_id": "wf-r3-74-misnomer-correction-framework",
+        "relationship_type": "MODIFIES",
+        "description": "The rules surrounding 'John Doe' defendants modify the application of the misnomer framework by explicitly stating that using a pseudonym is not a misnomer, thereby closing that avenue as a counter to the limitation bar in such cases.",
+        "source_sentence_ids": [
+          "commentary-3-74-7-para-11"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The use of a pseudonym, however, is not a misnomer.",
+              "source_reference": "05220.rtf#commentary-3-74-7-para-11"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link identifies a critical limitation on a plaintiff's tool. It prevents the misnomer argument from being used to excuse a failure to properly identify and substitute a 'John Doe' defendant, forcing the plaintiff to rely on other exceptions like the Limitations Act or proving special circumstances.",
+          "litigation_implications": [
+            "A plaintiff cannot argue that substituting a real name for 'John Doe' is a mere misnomer; they must treat it as adding a new party and satisfy the relevant tests if a limitation period has passed."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-hopeless-bar-counters-classic-rule",
+        "source_node_id": "pt-r3-74-hopeless-amendment-bar",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "COUNTERS",
+        "description": "The prohibition on 'hopeless' amendments is another key exception that counters the permissive 'classic rule', allowing an amendment to be defeated on its substantive merits.",
+        "source_sentence_ids": [
+          "commentary-3-74-1-para-15-condo-corp"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The classic rule is subject to four major exceptions: ... the amendment requested is “hopeless” (an amendment that, if were in the original pleadings, would have been struck);",
+              "source_reference": "05220.rtf#commentary-3-74-1-para-15-condo-corp"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship provides a substantive, merits-based attack to counter a procedural motion. It allows a defendant to short-circuit the process by demonstrating the futility of the proposed amendment, saving the costs of further proceedings.",
+          "litigation_implications": [
+            "When faced with an application to add a legally flawed claim, argue it is 'hopeless' to defeat the amendment at the earliest stage."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-consolidation-framework-counters-severance",
+        "source_node_id": "wf-r3-72-consolidation-factors",
+        "target_node_id": "cm-r3-71-severance-power",
+        "relationship_type": "COUNTERS",
+        "description": "The principles favoring consolidation (avoiding inconsistent verdicts, efficiency) directly counter the principles favoring severance (avoiding complexity, delay, and prejudice). These two frameworks represent opposing strategic objectives.",
+        "source_sentence_ids": [
+          "commentary-3-72-1-para-12"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The purpose of consolidation is to enhance the administration of justice. A court should consider the possibility of inconsistent verdicts...",
+              "source_reference": "05216.rtf#commentary-3-72-1-para-12"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.72"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship captures the central strategic conflict in managing multi-claim or multi-party litigation: the push for holistic, efficient resolution versus the pull of streamlined, simplified actions. Litigators will argue for one framework over the other depending on which better serves their client's interests.",
+          "litigation_implications": [
+            "In response to a severance application, a party can launch a counter-application for consolidation, forcing the court to weigh the competing principles directly."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-alternative-orders-modify-consolidation",
+        "source_node_id": "cm-r3-72-alternative-orders",
+        "target_node_id": "wf-r3-72-consolidation-factors",
+        "relationship_type": "MODIFIES",
+        "description": "The availability of lesser orders, like trying actions together, modifies the all-or-nothing nature of a consolidation application, providing the court and parties with a tactical middle ground.",
+        "source_sentence_ids": [
+          "commentary-3-72-6-para-scheidl"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The alternate question to consider, however, is whether the two actions should be tried at the same time, as directed by the master. This is the order that is usually made when consolidation orders cannot for some reason be granted...",
+              "source_reference": "05216.rtf#commentary-3-72-6-para-scheidl"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.72"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link represents a strategic fallback position. If a full consolidation is likely to fail due to prejudice, a party can pivot to requesting a less intrusive order that still achieves the main goal of avoiding inconsistent results.",
+          "litigation_implications": [
+            "In written submissions for a consolidation order, always include an alternative request for an order that the actions be tried together or consecutively."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-post-addition-procedure-operationalizes-add-party",
+        "source_node_id": "cm-r3-76-post-addition-procedure",
+        "target_node_id": "cm-r3-74-application-by-non-party",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "Rule 3.76 operationalizes an order granted under Rule 3.74 by dictating the mandatory next steps of amending, serving, and resetting the defense timeline.",
+        "source_sentence_ids": [
+          "commentary-3-74-7-para-19"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.76 provides that when a defendant is added or substituted, that defendant must be served and has the same right to file a defence as a defendant that was originally named.",
+              "source_reference": "05220.rtf#commentary-3-74-7-para-19"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.76"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship connects the court's decision to the practical, on-the-ground steps required to implement it, highlighting the procedural consequences that flow from a successful joinder application.",
+          "litigation_implications": [
+            "An order adding a party is not self-executing; the plaintiff must take the steps in Rule 3.76 to give it effect."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-consent-required-for-plaintiff-is-a-component-of-classic-rule",
+        "source_node_id": "fp-r3-74-consent-required-for-plaintiff",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The requirement for a plaintiff's consent is a specific, mandatory component of the broader framework for amending parties.",
+        "source_sentence_ids": [
+          "r3-74-2-a"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "in the case of a person to be added or substituted as plaintiff... the consent of the person proposed to be added or substituted as a party is filed with the application;",
+              "source_reference": "05219.rtf#r3-74-2-a"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.74(2)(a)"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This highlights a critical precondition within the amendment process. While the rule is generally permissive, this specific requirement is a hard stop, preventing the addition of unwilling plaintiffs.",
+          "litigation_implications": [
+            "Before bringing an application to add a co-plaintiff, securing and filing their consent is a non-negotiable first step."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-adjudicative-necessity-is-a-component-of-add-defendant",
+        "source_node_id": "wf-r3-75-test-to-add-defendant",
+        "target_node_id": "cm-r3-74-application-by-non-party",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The test of adjudicative necessity is a key component in the court's decision-making process when considering an application to add a defendant, particularly when the application is brought by someone other than the plaintiff.",
+        "source_sentence_ids": [
+          "commentary-3-75-2-para-bernhart"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An application under the sub-rule is to be tested by asking the question—can the claims the plaintiff advances against those already defendants to the action be properly adjudicated on without the addition of the proposed defendant?",
+              "source_reference": "05222.rtf#commentary-3-75-2-para-bernhart"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link clarifies the standard that an applicant must meet. It's not enough to show the proposed defendant is merely relevant; the applicant must demonstrate they are necessary for a complete resolution of the existing claims.",
+          "litigation_implications": [
+            "A non-party seeking to add another non-party as a defendant must prove this necessity test."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-foreclosure-exclusion-is-a-component-of-severance",
+        "source_node_id": "cm-r3-77-foreclosure-encumbrancer-exclusion",
+        "target_node_id": "cm-r3-71-severance-power",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The rule excluding subsequent encumbrancers from foreclosure actions is a specific, mandatory form of severance designed for a particular type of litigation.",
+        "source_sentence_ids": [
+          "commentary-3-77-1-para-26"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A mortgagee suing for sale or foreclosure with or without other relief shall not make any subsequent encumbrancer a party to the action...",
+              "source_reference": "05225.rtf#commentary-3-77-1-para-26"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.77"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship shows how a general principle (severance) is codified into a strict, non-discretionary rule for a specific context to achieve maximum efficiency.",
+          "litigation_implications": [
+            "Unlike general severance which is discretionary, this rule is mandatory, providing certainty for lenders in foreclosure proceedings."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-analytical-approach-counters-statutory-bypass",
+        "source_node_id": "wf-r3-75-analytical-approach-special-circumstances",
+        "target_node_id": "cm-lim-act-s6-statutory-bypass",
+        "relationship_type": "COUNTERS",
+        "description": "The judge-made 'Analytical Approach' and the legislated 'Statutory Bypass' represent two distinct and sometimes competing pathways for a plaintiff to add a party post-limitation. A defendant may argue for the stricter 'special circumstances' test if the plaintiff's case under the statute is weak.",
+        "source_sentence_ids": [
+          "commentary-3-75-6-para-yancey-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The applicant must show that special circumstances exist. The party resisting the application need not show actual prejudice.",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-yancey-test"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship highlights the tension between common law and statutory exceptions. A defendant can counter a plaintiff's reliance on the statute by arguing its conditions are not met, forcing the plaintiff back to the more difficult common law test.",
+          "litigation_implications": [
+            "A defendant should prepare to argue against both the statutory and common law exceptions to a limitation period."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-misnomer-counters-analytical-approach",
+        "source_node_id": "wf-r3-74-misnomer-correction-framework",
+        "target_node_id": "wf-r3-75-analytical-approach-special-circumstances",
+        "relationship_type": "COUNTERS",
+        "description": "The misnomer doctrine is a specific exception to the application of the Analytical Approach. If an error is a true misnomer, the court does not need to engage in the 'special circumstances' analysis because no new party is being added.",
+        "source_sentence_ids": [
+          "commentary-3-75-6-para-yancey-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "I conclude that with the exception of cases involving a misnomer... the analytical approach... is also the proper approach to applications to amend after a limitation period to add a new party.",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-yancey-test"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link defines the hierarchy of exceptions. A plaintiff's strongest argument is misnomer, as it avoids the difficult 'special circumstances' test entirely.",
+          "litigation_implications": [
+            "A plaintiff should always argue misnomer first, if the facts support it, before falling back on the Analytical Approach or the Limitations Act."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-consolidation-requires-classic-rule",
+        "source_node_id": "wf-r3-72-consolidation-factors",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "REQUIRES",
+        "description": "The decision to consolidate actions implicitly requires an analysis of prejudice, a core component of the classic rule of amendment. Consolidation will be denied if it causes non-compensable prejudice, such as significant delay to a trial-ready action.",
+        "source_sentence_ids": [
+          "commentary-3-72-1-para-7"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The court must also consider potential prejudice to the parties which may arise from consolidation if, for example, one action is more advanced than the other and if consolidation will result in prejudicial delay of a trial.",
+              "source_reference": "05216.rtf#commentary-3-72-1-para-7"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.72"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship shows that the underlying principle of avoiding prejudice is universal across different procedural motions, linking the tests for amendment and consolidation.",
+          "litigation_implications": [
+            "When opposing consolidation, frame the argument in terms of non-compensable prejudice, borrowing the powerful language from the amendment case law."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-severance-requires-classic-rule",
+        "source_node_id": "cm-r3-71-severance-power",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "REQUIRES",
+        "description": "The power to sever is triggered when joinder would cause 'undue prejudice', directly invoking the core concept from the classic rule of amendment.",
+        "source_sentence_ids": [
+          "r3-71-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the Court may make an order under this rule if the Court is satisfied that the joined claims or parties, or both, may... (b) cause undue prejudice to a party.",
+              "source_reference": "05213.rtf#r3-71-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.71"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link demonstrates that the concept of prejudice is the key consideration for both joining and separating parties and claims, providing a consistent analytical framework.",
+          "litigation_implications": [
+            "An application for severance must be grounded in clear evidence of undue prejudice that cannot be remedied by other means, such as a costs award."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-initial-joinder-is-prerequisite-for-severance",
+        "source_node_id": "wf-r3-70-initial-joinder-framework",
+        "target_node_id": "cm-r3-71-severance-power",
+        "relationship_type": "IS_A_PREREQUISITE_FOR",
+        "description": "The power to sever a claim or party under Rule 3.71 only becomes relevant after parties have been joined under the framework of Rule 3.70. Severance is the corrective measure for an improper or prejudicial joinder.",
+        "source_sentence_ids": [
+          "r3-71-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "When 2 or more claims are made in an action or when 2 or more parties join or are joined in an action, the Court may make an order under this rule if the Court is satisfied that the joined claims or parties, or both, may (a) unduly complicate or delay the action...",
+              "source_reference": "05213.rtf#r3-71-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.71"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship establishes the procedural sequence. It shows that severance is not a standalone concept but a reaction to an initial joinder decision, linking the offensive act of joining with the defensive act of severing.",
+          "litigation_implications": [
+            "A motion to sever must first acknowledge that a joinder has occurred and then argue why that joinder is prejudicial or inconvenient."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-legal-interest-test-governs-non-party-intervention",
+        "source_node_id": "fp-r3-75-legal-vs-commercial-interest-test",
+        "target_node_id": "wf-r3-75-non-party-intervention-test",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The Amon/Amoco 'Narrow Test' is the core component of the first prong of the non-party intervention test, defining what constitutes the required 'direct financial or legal interest'.",
+        "source_sentence_ids": [
+          "commentary-3-75-7-para-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The non-party must have a direct financial or legal interest in the outcome of the litigation...",
+              "source_reference": "05222.rtf#commentary-3-75-7-para-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link clarifies that the general principle against joining parties with purely commercial interests is the specific legal standard used to assess applications for intervention. It connects a broad pillar to its specific application.",
+          "litigation_implications": [
+            "Any party seeking to intervene must first satisfy the Amon/Amoco test before proceeding to the second part of the intervention test (inadequate protection)."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-analytical-approach-rejects-functional-approach",
+        "source_node_id": "wf-r3-75-analytical-approach-special-circumstances",
+        "target_node_id": "wf-r3-75-functional-approach-rejected",
+        "relationship_type": "REJECTS",
+        "description": "The Alberta Court of Appeal in Yancey v. Neis explicitly considered and rejected the 'functional approach' in favor of the 'analytical approach' for post-limitation amendments.",
+        "source_sentence_ids": [
+          "commentary-3-75-6-para-yancey-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Her Ladyship then discussed the test to be used in applications to add a new party after the expiration of a limitation period. At p. 246, she said: I conclude that with the exception of cases involving a misnomer... the analytical approach... is also the proper approach...",
+              "source_reference": "05222.rtf#commentary-3-75-6-para-yancey-test"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship codifies binding precedent. It provides a litigator with the direct authority to shut down any argument based on the 'functional approach' by demonstrating that the higher court has already ruled on the matter.",
+          "litigation_implications": [
+            "When an opponent argues 'there is no actual prejudice', the correct response is to cite *Yancey v. Neis* and state that the court is bound by the analytical approach, which presumes prejudice."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-021-improper-purpose-counters-classic-rule",
+        "source_node_id": "pt-r3-75-improper-purpose-joinder",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "COUNTERS",
+        "description": "Joinder for an improper purpose (e.g., discovery) is an exception that counters the permissive 'classic rule' of amendment, as it constitutes bad faith.",
+        "source_sentence_ids": [
+          "commentary-3-74-1-para-15-condo-corp"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The classic rule is subject to four major exceptions: ... there is an element of bad faith associated with the failure to plead the amendment in the first instance.",
+              "source_reference": "05220.rtf#commentary-3-74-1-para-15-condo-corp"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.74"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This link highlights a bad faith exception to the generally liberal amendment rules, providing a tool to police the motives behind a joinder application.",
+          "litigation_implications": [
+            "A party can resist joinder by demonstrating that the applicant's true motive is not to assert a valid claim but to gain a collateral tactical advantage."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-022-failure-to-submit-pleading-counters-classic-rule",
+        "source_node_id": "pt-r3-75-failure-to-submit-draft-pleading",
+        "target_node_id": "fp-r3-74-classic-rule-of-amendment",
+        "relationship_type": "COUNTERS",
+        "description": "The failure to submit a draft pleading is a procedural defect that can counter the 'classic rule' by leading to the dismissal of the amendment application on formal grounds, regardless of its substantive merit.",
+        "source_sentence_ids": [
+          "commentary-3-75-5-para-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Failure to do so should result in dismissal with leave to reapply on adjournment, so that proper material can be brought before the court...",
+              "source_reference": "05222.rtf#commentary-3-75-5-para-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship demonstrates how a simple procedural misstep can be weaponized to defeat an application, forcing delay and imposing costs on the applicant.",
+          "litigation_implications": [
+            "Always check an opponent's application materials for this defect. If it exists, it provides a low-cost, high-probability-of-success argument to have the application dismissed."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-023-plaintiff-distinction-modifies-limitation-bar",
+        "source_node_id": "cm-r3-75-plaintiff-substitution-prejudice-distinction",
+        "target_node_id": "pt-r3-74-limitation-period-bar",
+        "relationship_type": "MODIFIES",
+        "description": "The distinction for substituting plaintiffs modifies the harshness of the limitation period bar, suggesting that the prejudice is less severe and more easily overcome when the claim itself remains unchanged.",
+        "source_sentence_ids": [
+          "commentary-3-75-2-para-rathwell-distinction"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If, however, a plaintiff is substituted, any prejudice based on a limitation period is more form than substance, assuming the nature of the claim is not changed. If the claim against the defendant is still identical after the substitution there is no real prejudice.",
+              "source_reference": "05222.rtf#commentary-3-75-2-para-rathwell-distinction"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary on r. 3.75"
+          ],
+          "verified_at": "2025-11-04T02:03:00Z",
+          "strategic_rationale": "This relationship models a crucial edge case. It provides a specific counter-argument that weakens the defendant's primary defense (the limitation bar) in the specific context of a plaintiff substitution, shifting the balance of power back toward the amending party.",
+          "litigation_implications": [
+            "When seeking to substitute a plaintiff post-limitation, this principle should be the central pillar of the argument to overcome the presumption of prejudice."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "M.L. Rathwell & Sons Trucking Ltd. v. Alforge Metals Corp. (1981), 15 Alta. L.R. (2d) 347 (Master)",
+              "proposition": "Differentiates between substituting a plaintiff and a defendant post-limitation, suggesting prejudice is less of a concern for the former if the claim is identical."
+            }
+          ]
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-consolidation-sledgehammer",
+        "title": "The Consolidation Sledgehammer",
+        "objective": "To force multiple related lawsuits into a single, consolidated action to gain strategic control, maximize efficiency, and overwhelm a less-resourced opponent.",
+        "prerequisites": [
+          "Multiple actions exist with common questions of law or fact.",
+          "Your client has the resources to manage a larger, more complex action."
+        ],
+        "expected_outcome": "A single consolidated action is ordered, streamlining discovery, preventing inconsistent verdicts, and placing the strategic burden on the opponent to manage the consolidated proceeding.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-72-consolidation-factors"
+            ],
+            "action": "Launch an application to consolidate under Rule 3.72, framing the argument around the Mikisew Factors.",
+            "justification": "The purpose of consolidation is to enhance the administration of justice. A court should consider the possibility of inconsistent verdicts, the prospect of prejudice to the parties and the impact of consolidation and non-consolidation... on scarce resources..."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-r3-72-consolidation-factors"
+            ],
+            "action": "Emphasize the significant overlap in claims, disputes, and parties, and highlight the risk of inconsistent judicial findings if the actions proceed separately.",
+            "justification": "whether there are common claims, disputes, and relationships between the parties;"
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "fp-r3-74-classic-rule-of-amendment"
+            ],
+            "action": "Pre-emptively counter arguments of prejudice by proposing that any harm (e.g., minor delay) can be managed by the court or compensated by costs, arguing it does not rise to the level of non-compensable prejudice.",
+            "justification": "The Court may not make an order under this rule if prejudice would result for a party that could not be remedied by a costs award, an adjournment or the imposition of terms."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "cm-r3-72-alternative-orders"
+            ],
+            "action": "As a fallback, argue that if full consolidation is denied, the court should order the actions to be tried together or consecutively by the same judge to achieve the primary goal of avoiding contradictory results.",
+            "justification": "Rule 229 also provides that the court can order that the actions be tried at the same time and this seems to me to be far less cumbersome while achieving the desirable result..."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-john-doe-ambush-and-correction",
+        "title": "The 'John Doe' Ambush and Correction",
+        "objective": "To preserve a claim against an unknown defendant when a limitation period is approaching, and then correctly substitute the defendant once their identity is discovered.",
+        "prerequisites": [
+          "A valid cause of action exists against a person whose identity is unknown.",
+          "The limitation period is nearing expiry."
+        ],
+        "expected_outcome": "The claim is preserved, and the correctly identified defendant is substituted into the action, overcoming any limitation period defense.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "File and issue a Statement of Claim naming the unknown defendant as 'John Doe' and including sufficient particulars in the pleading to describe their role in the events.",
+            "justification": "Plaintiffs who do not know a wrongdoer’s name sometimes sue John Doe, and then describe him.",
+            "node_refs": []
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-r3-74-misnomer-correction-framework"
+            ],
+            "action": "Exercise and document reasonable diligence in attempting to ascertain the true identity of 'John Doe'.",
+            "justification": "Further, the applicant for an amendment must have been reasonably diligent in seeking to identify the desired defendant and correct the misnomer."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-74-john-doe-procedural-trap"
+            ],
+            "action": "Upon discovering the true identity of 'John Doe', IMMEDIATELY bring an application to amend the Statement of Claim to substitute the correct name.",
+            "justification": "once the plaintiff finds out the real name of the “John Doe” defendant, it is incumbent on him to take timely steps to amend the pleadings to properly name that defendant."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "pt-r3-74-john-doe-procedural-trap",
+              "cm-r3-76-post-addition-procedure"
+            ],
+            "action": "Do NOT take any other substantive steps, such as noting in default, until the amendment order is granted. After the order is granted, serve the amended Statement of Claim on the newly named defendant.",
+            "justification": "Any required amendment should be made before any other substantive step is taken in the litigation."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-improper-intervenor-shield",
+        "title": "The Improper Intervenor Shield",
+        "objective": "To prevent a non-party with only a commercial interest from intervening in the litigation, thereby keeping the action focused, less complex, and less costly.",
+        "prerequisites": [
+          "A non-party (e.g., a commercial competitor, a supplier) applies to be added as a party to the action."
+        ],
+        "expected_outcome": "The non-party's application to be added is dismissed with costs, protecting the existing parties from an unnecessary and commercially-motivated litigant.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "cm-r3-74-application-by-non-party"
+            ],
+            "action": "Receive the non-party's application to be added to the action.",
+            "justification": "Rule 3.74(2)(b) was amended in 2020 to allow parties to be changed on application by persons who are not already parties to the suit."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "fp-r3-75-legal-vs-commercial-interest-test"
+            ],
+            "action": "Immediately attack the application by invoking the Amon/Amoco 'Narrow Test'. Argue that the applicant has, at best, an indirect commercial interest in the outcome, not a direct legal interest.",
+            "justification": "It is not enough that the intervener should be commercially or indirectly interested in the answer to the question; he must be directly or legally interested in the answer."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-r3-75-non-party-intervention-test"
+            ],
+            "action": "Further argue that even if they had a legal interest, their interest is already adequately protected by one of the existing parties, making their intervention duplicative and unnecessary.",
+            "justification": "The non-party's interest will not be adequately protected unless he is allowed to intervene."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "pt-r3-75-improper-purpose-joinder"
+            ],
+            "action": "If applicable, argue that the true purpose of the intervention is improper, such as gaining access to your client's discovery evidence for a competitive advantage.",
+            "justification": "The kind of “improper” purpose contemplated... is the joinder of a person to obtain discovery or costs which could not otherwise be sought against that person."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-defeating-the-post-limitation-joinder",
+        "title": "Countermeasure: Defeating Post-Limitation Joinder",
+        "scenario": "A plaintiff has brought an application to add your client as a defendant to a lawsuit two years after the relevant limitation period has expired. The plaintiff argues the delay was due to a simple oversight.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Plaintiff files an application to add your client, relying on the 'classic rule' that amendments should be allowed unless there is prejudice, and argues any prejudice is compensable in costs.",
+            "node_refs": [
+              "fp-r3-74-classic-rule-of-amendment"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Immediately counter by invoking the limitation period bar, arguing that the expiry of the limitation period constitutes non-compensable prejudice as it removes a substantive legal defense.",
+            "node_refs": [
+              "pt-r3-74-limitation-period-bar"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "Frame the argument using the 'Analytical Approach', stating that the law presumes prejudice and the plaintiff bears the heavy onus of proving 'special circumstances' to rebut it, which they have failed to do.",
+            "node_refs": [
+              "wf-r3-75-analytical-approach-special-circumstances"
+            ]
+          },
+          {
+            "move_number": 3,
+            "description": "Anticipate and dismantle potential counter-arguments. Argue it is not a 'misnomer' because your client would not have recognized themselves in the original pleading. Argue the statutory bypass in the Limitations Act does not apply because the claim is not 'related' or your client lacked timely knowledge.",
+            "node_refs": [
+              "wf-r3-74-misnomer-correction-framework",
+              "cm-lim-act-s6-statutory-bypass"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-001",
+            "description": "Is the proposed party a plaintiff or a defendant?",
+            "options": [
+              "If a plaintiff, be prepared to counter the argument that the prejudice is 'more form than substance' by showing how the new plaintiff changes the substantive nature of the litigation.",
+              "If a defendant, the presumption of prejudice is at its strongest."
+            ]
+          },
+          {
+            "point_id": "dp-002",
+            "description": "Has the plaintiff attempted to rely on the Limitations Act s.6 bypass?",
+            "options": [
+              "If yes, attack the factual basis for their claim of 'relatedness' or 'timely knowledge'.",
+              "If no, emphasize that their only recourse is the difficult 'special circumstances' test, which they cannot meet."
+            ]
+          }
+        ],
+        "expected_outcome": "The plaintiff's application is dismissed with costs. The court accepts that the expiry of the limitation period is presumptively prejudicial and the plaintiff has failed to demonstrate the 'special circumstances' required by the Analytical Approach to rebut that presumption. Your client is successfully shielded from the litigation."
+      },
+      {
+        "simulation_id": "cms-002-countering-the-severance-gambit",
+        "title": "Countermeasure: Countering the Severance Gambit",
+        "scenario": "You represent a plaintiff who has joined two defendants: the primary wrongdoer (A) and a secondary, related party (B). Defendant B brings a motion to be severed from the action, arguing the claim against them is distinct and will unduly complicate the proceedings.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "description": "Defendant B files an application for severance under Rule 3.71, arguing that their joinder will cause undue complication and prejudice to them, as the core issues relate to Defendant A.",
+            "node_refs": [
+              "cm-r3-71-severance-power"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "description": "Oppose the severance by invoking the initial joinder framework. Argue that joinder was proper because the claims against both A and B arise from the 'same series of transactions' and involve significant 'common questions of fact or law'.",
+            "node_refs": [
+              "wf-r3-70-initial-joinder-framework"
+            ]
+          },
+          {
+            "move_number": 2,
+            "description": "Launch a counter-attack using the consolidation framework principles. Argue that severing the action would violate the core purpose of avoiding a multiplicity of proceedings and create a serious risk of inconsistent verdicts, which is a key factor the court must consider.",
+            "node_refs": [
+              "wf-r3-72-consolidation-factors"
+            ]
+          },
+          {
+            "move_number": 3,
+            "description": "Minimize the claim of prejudice. Argue that any inconvenience to Defendant B can be managed by the trial judge or compensated with a costs award for any parts of the trial where they have no interest, as explicitly contemplated by Rule 3.71(2)(c).",
+            "node_refs": [
+              "fp-r3-74-classic-rule-of-amendment",
+              "cm-r3-71-severance-power"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-003",
+            "description": "How significant is the factual and legal overlap between the claims against A and B?",
+            "options": [
+              "If high, emphasize the risk of inconsistent verdicts as the primary reason to deny severance.",
+              "If low, focus on the 'balance of convenience' and argue that the cost and delay of two separate actions far outweighs the inconvenience to Defendant B."
+            ]
+          }
+        ],
+        "expected_outcome": "Defendant B's application for severance is dismissed. The court agrees that the risk of inconsistent findings and the inefficiency of multiple proceedings outweigh the potential prejudice to Defendant B, which can be managed through other procedural orders."
+      }
+    ]
+  }
+}

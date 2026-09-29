@@ -1,0 +1,219 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.41",
+  "title": {
+    "official": "When no defence is filed in foreclosure action",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Failure to Defend"
+  },
+  "operative_text": {
+    "controlling": "3.41(1)  If a defendant in a foreclosure action does not file a\nstatement of defence or demand for notice, the plaintiff must note\nthe defendant in default before filing an application for\n(a) personal judgment, or\n(b) a remedy referred to in rule 6.5(2).\n(2)  A defendant may be noted in default even if the defendant has\nfiled and served a notice of address for service.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "52b01a8ef6feaecb20685f23cd5d744d1396a2cb1d12ec302531fd84148776ec"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          66
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "When No Defence is Filed in Foreclosure Action",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0bb7a94e5d71d0172af49807635cf02a3d16d84fd5873a20c2ab621bbb0d85e9",
+      "defined_terms": "defendant, file, foreclosure action, judgment, plaintiff, remedy",
+      "related_provisions": "3.77 (subsequent encumbrancers);6.6 (application in foreclosure action); 9.30 (foreclosure generally);11.23 (address for service) *Limitation onWhen Judgment or Noting in Default May Occur *",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-110"
+        ],
+        "offset_in_clean_text": [
+          351496,
+          352374
+        ]
+      },
+      "operative_text_note": "same wording as official 3.41(1)-(2) (read by eye) except: the bracket label '[Notice of an application in foreclosure actions]' after 'rule 6.5(2)' (official title of 6.5 is 'Notice of application in foreclosure action': 'an' added and 'actions' for 'action'); the title in title case ('When No Defence is Filed in Foreclosure Action'); missing spaces; '*' line marks; the footnote marker '1' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnote 1 ('Quite similar to previous 1996 R.686(6), (7), first enacted by Alta.Reg.3/96.') and footnote 2 ('Gauthier v. Starr 2016 ABQB 213, 86 CPC(7th) 348 (¶ 13).') are printed before the rule text (p.3-110, line 3084) and are in the built 3.40 record.",
+      "commentary_review_flag": "Read in full, p.3-110 (lines 3084-3089): rule text, Information Note, Defined Terms 'defendant, file, foreclosure action, judgment, plaintiff, remedy' (the Appendix defines 'foreclosure action', line 40762, and 'remedy', line 41059), Related Provisions; no note of its own. The built record: the information note (Book A only), defined_terms and related_provisions; related_provisions ends with the title of 3.42 ('Limitation on When Judgment or Noting in Default May Occur'); commentary is empty; nothing dropped. The history footnote 1 (1996 R.686(6), (7), first enacted by Alta.Reg.3/96) and footnote 2 (Gauthier v. Starr 2016 ABQB 213, 86 CPC(7th) 348 (¶ 13)) print before the rule text and are in the built 3.40 record; the marker '1' follows 3.41(2) and the marker '2' is not printed in this record. (1) Information Note: 'In foreclosure actions a notice of address for service may be filed and served under rule 11.24 [Notice of address for service in foreclosure actions]' - agrees with official 11.24 (title matches) and with 3.41(2). (2) Related Provisions read against the official titles: '3.77 (subsequent encumbrancers)' (official 'Subsequent encumbrancers not parties in foreclosure action'); '6.6 (application in foreclosure action)' - official 6.6 is 'Response and reply to application', and 6.6(1)-(3) (respondent's affidavit, applicant's response, costs) is not limited to foreclosure actions, so the label does not match the title; '9.30 (foreclosure generally)' - official 9.30 is 'When affidavit of value must be filed' (an affidavit of value before an application for a redemption order or an order that secured property be offered for sale); '11.23 (address for service)' - official 11.23 is 'Additional service options in foreclosure actions' (the notice of address for service is 11.24, which the information note cites correctly). The rule text's own label '6.5(2) [Notice of an application in foreclosure actions]' differs from the official title 'Notice of application in foreclosure action'. (3) Other rules' pointers to 3.41: Book A p.3-246 (line 8097, the Related Provisions of 3.77, 'Subsequent Encumbrancers Not Parties in Foreclosure Action', whose Defined Terms 'claim, foreclosure action, party, plaintiff' are at line 8093; line 8095 is the 'Related Provisions' heading) '3.41 (no defence in foreclosure); 6.5 (notice in foreclosure actions)'; R.6 p.6-57 (line 2995) '3.41 (noting in default in foreclosure)'; R.9 p.9-74 (line 3842) '3.41 (default of defence in foreclosure)'; R.11 p.11-30 (line 1359) 'rule 3.41 [When no defence is filed in a foreclosure action]' (adds 'a' to the official title, like the 3.38 text); the official 3.38 ('Subject to rule 3.41') cites it. (4) TLA Food Services 2011 ABQB 550 para 47 (Book B, 3.38 commentary) quotes the start of 3.41(1) ('If a defendant in a foreclosure action does not file a statement of defence or demand for notice, the plaintiff must note the defendant in default before filing an application for ...'), which agrees with the official 3.41(1)."
+    },
+    "BOOK_B": {
+      "title": "When no defence is filed in foreclosure action",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_41_001",
+        "part3_part_3_court_actions_022"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "4ee6247ff744c96914d1fbff33e651c539a9c0203efcb22d31d8c73eddbb8b4b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "When no defence is filed in foreclosure action",
+      "division_heading": "Division 3 – ACTIONS STARTED BY STATEMENT OF CLAIM",
+      "operative_text_raw": null,
+      "operative_text_sha256": "c4b3a9e73f5a565c2b601b11a51b13dd986c459c0b1ee0cd801448d0a8c40749",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops after the words 'does not file a statement of defence or demand for notice, the' of subrule (1), followed by a displaced citation '[2020] A.J. No. 753, 2020 ABCA 265 (Alta. C.A.).'; the rest of (1), (a), (b) and subrule (2) are missing. No amendment note and no commentary are printed for 3.41 in Book C. The title and the Division heading agree with the official text.",
+      "citations_note": "the citation '[2020] A.J. No. 753, 2020 ABCA 265 (Alta. C.A.)' is not a 3.41 authority: it stands in the rule text where the rest of 3.41(1) is lost. The neutral citation 2020 ABCA 265 is Domenic Construction Ltd. v. Primewest Capital Corp. (Book A lines 3887, 4444, 5966 and 7611 print 'Domenic Constr. v. Primewest Cap. Corp. 2020 ABCA 265, 15 Alta LR(7th) 67'; Book B rule3_part06_document.json (line 2146, in the 3.65 commentary) prints 'Domenic Construction Ltd v Primewest Capital Corp, 2020 ABCA 265 at para 20'); the same '[2020] A.J. No. 753' text is also in Book C's file 161-180 (three places, in the 3.71 entry) and file 181-200 (five places, in the rule 1.2 entry)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7869,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.41(1)-(2) (read by eye) except: the bracket label '[Notice of an application in foreclosure actions]' after 'rule 6.5(2)' (official title of 6.5 is 'Notice of application in foreclosure action': 'an' added and 'actions' for 'action'); the title in title case ('When No Defence is Filed in Foreclosure Action'); missing spaces; '*' line marks; the footnote marker '1' after (2). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The history footnote 1 ('Quite similar to previous 1996 R.686(6), (7), first enacted by Alta.Reg.3/96.') and footnote 2 ('Gauthier v. Starr 2016 ABQB 213, 86 CPC(7th) 348 (¶ 13).') are printed before the rule text (p.3-110, line 3084) and are in the built 3.40 record."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.4255,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.41",
+      "title_official": "When no defence is filed in foreclosure action"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "0bb7a94e5d71d0172af49807635cf02a3d16d84fd5873a20c2ab621bbb0d85e9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-110"
+          ],
+          "offset_in_clean_text": [
+            351496,
+            352374
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "4ee6247ff744c96914d1fbff33e651c539a9c0203efcb22d31d8c73eddbb8b4b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "c4b3a9e73f5a565c2b601b11a51b13dd986c459c0b1ee0cd801448d0a8c40749",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "52b01a8ef6feaecb20685f23cd5d744d1396a2cb1d12ec302531fd84148776ec",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            66
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "ae117b864110f418cce876c1a33ae403183b8f201202de801b32d6c313b444e2"
+  },
+  "information_notes": [
+    {
+      "text": "In foreclosure actions a notice of address for service may be filed and served under rule 11.24 [Notice of address for service in foreclosure actions].",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "dedupe_log": [
+    "3.41 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.41 BOOK_C citation context dropped (2020 ABCA 265): verbatim in kept text",
+    "3.41 BOOK_C: rule text dropped (manual review)",
+    "3.41 BOOK_C: displaced citations dropped ['2020 ABCA 265'] (manual review)",
+    "3.41 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

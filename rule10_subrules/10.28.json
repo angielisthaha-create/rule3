@@ -1,0 +1,256 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.28",
+  "title": {
+    "official": "Definition of “party”",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "General Rule, Considerations and Court Authority"
+  },
+  "operative_text": {
+    "controlling": "10.28   In this Division, “party” includes a person filing or\nparticipating in an application or proceeding who is or may be\nentitled to or subject to a costs award.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "46b1ab8fcfabaffded6239f7ca1f54e08e01dd47477702756f1745a501c7ce81"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.28 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.28 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is printed under a Division heading ('Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT') that belongs to Part 9 (official table of contents line 1442-1443); rule 10.28 is in Part 10, Division 2 (Recoverable Costs of Litigation), Subdivision 1. It has the rule text (equal to the official text), no commentary and no citation."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          207
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Deﬁnition of “Party”",
+      "operative_text_raw": null,
+      "operative_text_sha256": "1e200e50db1200bc2606c7f8d20fb1a27e91fc92259c85e67d1248c897ea25e0",
+      "related_provisions": "Appendix - “party”; 10.50 (costs payable by lawyer)",
+      "commentary": "The court can make a costs order against a non-party who ﬁled a document or participated in\nan application, or opposed an application made by the court on its own motion,¹\neven if the court\ninvited certain persons thus to join in.²\nAn insurer was the real instigator of the litigation and the real one who would have beneﬁtted,\nand had been told that it would have to pay costs. Costs were ordered against it when its side lost.³\nEven where there are exceptional circumstances (no one to argue the other side), if a tribunal\nargues its powers or the merits properly before the Court of Appeal, lack of misconduct does not\nimmunize it from paying costs if it loses.⁴",
+      "footnotes": [
+        {
+          "page": "10-43",
+          "number": 1,
+          "text": "1985 Sawridge Tr. v. Pub. T’ee. (Stoney v. Twinn) (#9) 2018 ABQB 213, [2018] 7 WWR 411 (¶’s 17, 18), revd 2019 ABCA 244, Edm 1803 0076 AC (citing this book) ; Dezotell Hldg. v. St. -Jean (#2) 2019 ABQB 476, 99 Alta LR(6th) 368 (¶’s 9-16) (participated in motion and appeal, and one ﬁled evidence and a brief)."
+        },
+        {
+          "page": "10-43",
+          "number": 2,
+          "text": "Wang v. Alta.2022 ABCA 79, Calg 2101 0003 AC (Mar 4) (¶’s 19-23) (vexatious litigant process joined with parties affected)."
+        },
+        {
+          "page": "10-43",
+          "number": 3,
+          "text": "Ernst & Young v. Cent. Guar. Tr.2010 ABQB 26, 479 AR 202 (¶’s 88-113)."
+        },
+        {
+          "page": "10-43",
+          "number": 4,
+          "text": "Univ. of Calg. v. J. R.2015 ABCA 118, 382 DLR(4th) 299 (¶’s 52-56)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          2049,
+          2083
+        ],
+        "book_pages": [
+          "10-42",
+          "10-43"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-42 (line 2049) to p.10-43 (line 2083): title (line 2049; the division headings 'DIVISION 2 / RECOVERABLE COSTS OF LITIGATION / Subdivision 1 / General Rule, Considerations and Court Authority' are lines 2045-2048 above it and belong to the 10.27 range), rule text (lines 2050-2052), the p.10-42 footnote block (line 2054 ff., holding the 10.27 note's fns 1-5), the page marker 10-43 (line 2064), the Information Note (lines 2066-2070), Related Provisions (lines 2072-2073: 'Appendix - \"party\"; 10.50 (costs payable by lawyer)') and the note (lines 2075-2083) with its footnotes: p.10-43 fns 1-4 (block after the text of 10.29(1), line 2102 ff.) = 4. Read against the official text: the rule text equals official 10.28 (EXACT_MATCH, no differences). The Information Note ('Party is defined in the Appendix [Definitions] as a party to an action. There are other Court proceedings that are not \"actions\" and so the definition of party is expanded to allow a costs award against anyone participating in an application or proceeding that is not an action started by statement of claim or originating application.') is not in the official text (which prints no information notes) and ends with a stray backtick '`' (extraction); its content agrees with the Appendix definition of 'party' ('a party to an action; in Part 10, Division 2 ... an extended meaning'). The Related Provisions labels: 'Appendix - \"party\"' lands on the Appendix definition; '10.50 (costs payable by lawyer)' is a label for official 10.50 ('Costs imposed on lawyer'), whose Book A Related Provisions point back to '10.28 (\"party\")'. The note is case-law summary, not the rule: costs against a non-party who filed a document or participated (fn 1 1985 Sawridge Tr. v. Pub. T'ee. (Stoney v. Twinn) (#9) 2018 ABQB 213, revd 2019 ABCA 244 '(citing this book)'; Dezotell Hldg. v. St.-Jean (#2) 2019 ABQB 476, paras 9-16); persons the court invited to join (fn 2 Wang v. Alta. 2022 ABCA 79, paras 19-23); the insurer that instigated the litigation (fn 3 Ernst & Young v. Cent. Guar. Tr. 2010 ABQB 26, paras 88-113); a tribunal that argues its powers or the merits (fn 4 Univ. of Calg. v. J. R. 2015 ABCA 118, paras 52-56; Book B's 10.31 commentary has the Workers' Compensation Board as a party under 10.28, Justice Lee, 2011 ABQB 367). Pointers into this rule from other Book A passages: the 10.34 Related Provisions cite '10.28(2)' (no such subrule) and the 9.14 Related Provisions label 10.28 '(costs awards after trial)' (the official title is 'Definition of \"party\"'); see-also. supra/infra: no supra or infra is used in this note. Printed as is: 'St. -Jean' (a space before the hyphen), 'Cent. Guar. Tr.2010 ABQB 26'."
+    },
+    "BOOK_B": {
+      "title": "Definition of “party”",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_28_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_052"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Definition of “party”",
+      "division_heading": "Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 10.28 is in Division 2 (Recoverable Costs of Litigation) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.28",
+      "title_official": "Definition of “party”"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "1e200e50db1200bc2606c7f8d20fb1a27e91fc92259c85e67d1248c897ea25e0",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            2049,
+            2083
+          ],
+          "book_pages": [
+            "10-42",
+            "10-43"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "2233ea14a6004126abcace111208b1b57203d5d1b613a11b89347c96f4197f69",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "46b1ab8fcfabaffded6239f7ca1f54e08e01dd47477702756f1745a501c7ce81",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            207
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "6c8f2f817966efc497e859d35cfea678dffd937e74b85fd23098380e93a46ffa"
+  },
+  "information_notes": [
+    {
+      "text": "Party is defined in the Appendix [Definitions] as a party to an action. There are other Court\nproceedings that are not “actions” and so the definition of party is expanded to allow a costs\naward against anyone participating in an application or proceeding that is not an action\nstarted by statement of claim or originating application. `",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "Book C's information-note field for this rule holds only the page's running head ('PART 10 LAWYERS' CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS'); the text of the Information Note is not printed in Book C, so the note is kept from Book A alone."
+      }
+    }
+  ],
+  "see_also": [
+    "Official text (searched for '10.28' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1567), the rule heading (line 12417, 'Rule 10.28') and the rule text (line 12435); the Appendix definition of 'party' (line 40970: \"'party' means a party to an action; in Part 10, Division 2 the word 'party' has an extended meaning that includes a person filing or participating in an application or proceeding who is or may be entitled to or subject to a costs award\") repeats the rule's wording without citing 10.28 by number. No form cites 10.28. By subject: 10.29 (general rule for payment of litigation costs), 10.31 (Court-ordered costs award), 10.50 (title 'Costs imposed on lawyer', line 1657), and the rest of Division 2.",
+    "BOOK_A (all Book A files searched, line-wrapped and range forms included; pages from the 'N-NN' markers): this rule's own hit is the rule text (combined_rule10.txt line 2050, p.10-42). Other Book A passages that cite 10.28: the 10.34 Related Provisions, p.10-123 (line 6706, '10.28(2) (appointment for assessment)' - official 10.28 has no subrule (2); the appointment for assessment is not in 10.28); the 10.50 Related Provisions, p.10-141 (line 7555, '10.28 (\"party\") ; 10.29 (costs awards)', which lands on the official title 'Definition of \"party\"'); and the Related Provisions of 9.14 in Part 9 (combined_rule9.txt line 1540, '10.28 (costs awards after trial)', a label that does not match the official title of 10.28). No other Book A file cites 10.28.",
+    "BOOK_B: a heading paragraph and no commentary ('10.28. Definition of \"party\"', rule10_part04_document.json). Book B passages that cite 10.28: the 10.31 commentary (rule10_part08_document.json: 'in the action before him the Workers' Compensation Board was a party under R. 10.28', Justice Lee, 2011 ABQB 367) and the 10.33 commentary (rule10_part09_document.json: 'Alberta Rules of Court, AR 124/2010, rr 10.28-10.34').",
+    "BOOK_C: the entry for 10.28 in '461-480_10_11 to 10_31.json' (text, amendment note; no commentary; the entry sits under the Part 9 Division heading 'Division 8 – REGISTRATION OF JUDGMENTS UNDER RECIPROCAL ENFORCEMENT OF JUDGMENTS ACT'); the 10.32 entry of '481-500_10_32 to 10_46.json' has a title field that reads 'applies in addition to, rather than substituting, the general rules dealing with cost awards such as rules 10.28 ...' (line 36 of that file). No other Book C file cites 10.28 by number."
+  ],
+  "dedupe_log": [
+    "10.28 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.28 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.28 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.28 BOOK_C information note dropped (manual review)",
+    "10.28 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

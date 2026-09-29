@@ -1,0 +1,764 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.24",
+  "title": {
+    "official": "Lawyer of record",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Lawyer of Record"
+  },
+  "operative_text": {
+    "controlling": "2.24(1)  The lawyer or firm of lawyers whose name appears on a\ncommencement document, pleading, affidavit or other document\nfiled or served in an action as acting for a party is a lawyer of\nrecord for that party.\n(2)  When there is a lawyer of record, the party for whom the\nlawyer of record acts may not self-represent unless the Court\npermits.\n(3)  A lawyer of record remains a lawyer of record until the lawyer\nceases to be a lawyer of record under these rules.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "98ab6ec3fa3d5303ff934104c1166e5ca6505a51baabfe5997854e5b07c7f3c8"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          45
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Lawyer of Record",
+      "operative_text_raw": null,
+      "operative_text_sha256": "c8aa3b0ee26ad2ec7487a88d6af0825def2173b24d7b30808fc4f1102363288c",
+      "related_provisions": "1.1(2) (rules bind all parties) ; 2.22 (self-representation) ; 2.27 (limited retainers) ; 2.28 (change of lawyer); 3.35 (consent orders) ; 10.50 (costs payable by lawyer) ; 11.15 (address for service) ; 11.17 (service on lawyer of record) ; 14.82 (lawyer of record on appeal)",
+      "commentary": "A. Lawyer of Record\nOn the authority of the lawyer of record, see R.2.26n. Generally on solicitors, the traditional\nEnglish textbook was Cordery.⁴\n\nThe solicitor of record in King's Bench remains on the record and as address for service,\ndespite ﬁling of an appeal.¹\nHaving a solicitor of record is important, for it provides an address for service and a clear\nright to notice (especially indirectly via the Law Society’s Code of Conduct). If there is a solicitor\nof record, any arguments in court must be conducted by that solicitor, or by counsel retained by\nthat solicitor.\nA lawyer in good standing elsewhere in Canada, and with appropriate insurance, may appear\nin an Alberta court for a limited number of days in any 12 months. He or she must reveal to the\ncourt that he or she is not a member of the Alberta Bar.²\nAn accused can ﬁre his defence lawyer at any time and for any reason, and the court cannot\nrestrain that. But criminal defence counsel does not have a similar right to withdraw, as the Rules\nmade by the various Law Societies provide. That assumes that counsel’s retainer is not a limited\none. The court also has power to restrain counsel from withdrawing for nonpayment of fees. That\nfollows Alberta’s and many other provinces’ decisions.³\nThe reasonableness of a contingency-fee agreement is not affected by the lawyer's ceasing to\nact where the client had been refusing to take the lawyer's professional advice.⁴\nB. Court Removal of Lawyer⁵\n1. General Right to Choose Counsel\nThere are only 4 exceptions to a party’s right to choose his or her own solicitor:⁶\n(a) a person chosen who is not on the rolls of active solicitors in Alberta or a reciprocating\nprovince;\n(b) usually there cannot be different solicitors for co-plaintiffs;⁷\n(c) a solicitor who has a conﬂict of interest.⁸\nThe Court⁹\nwill prevent the use of such persons as\nsolicitors of record, usually by an order much like an injunction;\n(d) a solicitor for one party who is likely also to be a witness at trial.¹⁰\nIt is doubtful that alleged misconduct by opposing counsel, especially years before, and\nwithout objection then, is a ground to have such counsel removed.¹¹\nBut a right to choose or switch lawyers is not the same as a right to do so at the last minute,\nstill less to get an adjournment then.¹²\n\n2. Tests for Conﬂict of Interest¹\n(a) Two presently conﬂicting retainers\nLoyalty to clients includes no conﬂicts of interest, commitment to the client’s cause, and\ncandor.²\nIn 2013 the Supreme Court of Canada in C. N. R. v. McKercher³\nmade signiﬁcant changes to\nthe law on disqualifying a solicitor from acting because of an existing conﬂict of interest between\ntwo continuing retainers.⁴\nThis new rule probably does not apply to a situation where the two\nclients have no direct conﬂicting interests, or the two topics worked on are unrelated, or in one\nmatter the person was not a client, only a spokesperson for some other client.⁵\nIf the conﬂict of interest results from existing and continued retainers by two or more clients,\nthen the lawyer should be removed from acting for any of those clients?⁶\nIf the named representative plaintiff in a class action has an individual claim or two against\nthe common defendant, in addition to the common issues which all the class members have, that\nmay well be an ongoing conﬂict of interest between him or her and the other class members,\nespecially as early negotiations to settle the lawsuit are common in class actions, so the court has\ninherent power to force that named plaintiff which of the two claims (individual or common) he or\nshe retains the law ﬁrm for.⁷\nThere is a forbidden conﬂict if the duties and interests in acting simultaneously for two different\nclients immediately and directly clash, or are inconsistent, whether or not the two lawsuits\ntransactions are related.⁸\nBut it must be actual interests clashing, not mere prosperity or success.⁹\n(b) Past duty or conﬁdence still continues\nThere are a host of decisions¹⁰\non what constitutes such a conﬂict of interest to bar a solicitor,\nbut before the C. N. R. v. McKercher decision, those were the principal examples:\n\n1. the solicitor or his or her then ﬁrm was once consulted by the opposing party,¹\neither as the\nparty’s solicitor or potential solicitor, or the solicitor gave an expectation of conﬁdentiality,²\nand the opposing party gave the solicitor some conﬁdential information³\nwhich appears⁴\nto have some connection or relevance to the present lawsuit;⁵\n2. the solicitor has a present duty or interest which conﬂicts, e. g. is an ongoing ﬁduciary\nof the opposing party, or simultaneously represents two clients with interests directly\nadverse to each other, even if the lawyer’s two mandates are unrelated.⁶\nThere must be clear evidence of what information was given to the lawyer now sought to be\nremoved, and how it is now relevant, not mere bald assertions or conclusions.⁷\nOr alternatively,\nthere must be a legal partnership, or clear ofﬁce-sharing of lawyers, without proper steps to\n\nprevent information leakage.¹\nNo presumption of sharing information is created if there is no\nsolicitor-client relationship, and no relationship of conﬁdence.²\nA conﬂict of evidence on whether\nconﬁdences were revealed to the lawyer is critical, and needs a brief hearing with live evidence.³\nFor purposes of conﬂicts, it is usually assumed that a solicitor has the conﬂicts of interest\nwhich any of the other lawyers in his or her law ﬁrm (partners or associates) would have, and what\nlooks to outsiders like a law ﬁrm may be treated as such.⁴\nFatal problems can come from a ﬁrm\nmerger, or even a solicitor who changes ﬁrms (employers).⁵\nEven a change of ﬁrms by non-legal\nemployees can create a conﬂict and disqualify a ﬁrm.⁶\nRarely will the court intervene on the basis of disclosure of conﬁdences from a former\nrelationship, if the owner of the conﬁdences knows of this and does not mind, and only someone\nelse complains; the issue is impact on the person complaining.⁷\n(c) Examples\nThe famous English Sussex Justices decision has to be read in light of the 3-part Supreme\nCourt of Canada test for bias, which requires that the neutral observer also think reasonably and\nknow the relevant facts.⁸\nA smallish claim in bankruptcy ﬁled by a law ﬁrm on behalf of its client\n(nothing being owing to the law ﬁrm) did not mean that if failure some years later by the bankrupt\nwas one of several counts in discipline proceedings against a physician, the law ﬁrm could not\nfurnish independent counsel to the discipline tribunal.⁹\nA law ﬁrm cannot be disqualiﬁed from acting on a suit just because it has some minor and\nperipheral involvement with one of the parties, on an unrelated matter. A litigant’s right to choose\none's counsel has some weight. And consent to the law ﬁrm’s acting on setting up some mortgages\nhas some weight where the issue was enforcing them.¹⁰\nConﬂicts of interest are often created by a move of a lawyer from one ﬁrm to another during\nan ongoing suit on which one or both ﬁrms act.¹¹\nIt takes sworn evidence of effective measures to\n\nprevent leakage of information, to rebut the presumption of a serious conﬂict because of such of\ninformation.¹\nIt is odd that often neither ﬁrm detects the conﬂict before the lawyer starts work at\nthe new ofﬁce.²\nBut physical impossibility of wrong leakage of information is important rebuttal.³\nMartin v. MacDonald and its presumptions that a law ﬁrm got conﬁdential information, do\nnot apply, nor prevent a law ﬁrm from acting against a (former) borrower, where the law ﬁrm had\nacted for the lender alone, even if the borrower gave the lender (bank) conﬁdential information.\nQuasi-client relations may depend upon actual facts and actual imparting of conﬁdences, not on\npresumptions.⁴\nA tentative meeting between a potential client and a lawyer to see whether the lawyer would\nbe retained, with no clear result, and differing views of the meeting, did not itself create a conﬂict\nof interest for the law ﬁrm. The proposed legal work could not even be begun until other things\nhappened. There were neither a retainer nor instructions by the potential client, and no agreement.⁵\nMerely sharing ofﬁce space does not link two lawyers for conﬂicts purposes.⁶\nAfter all, English\nbarristers share chambers and Irish barristers share library tables, yet all their barristers can act\nopposite each other.\nA law ﬁrm is not disqualiﬁed just because a legal assistant there 5 years before worked in\nanother ﬁrm for a lawyer acting on the matter, where she recalled nothing about the ﬁle and had\ntold no one about it and her former boss was no longer a lawyer or connected with her.⁷\nOn merger of two law ﬁrms, see the Benning case.⁸\n(d) Previous association\nThe rules⁹\non disqualifying solicitors for conﬂicts of interest do not fully apply where\nthe proposed new client of the law ﬁrm is also its former client and the opposite party now\ncomplaining was someone formerly associated,¹⁰\ne. g. , the former owner of the client company.\nThen the court can weigh a number of factors, including danger of harm, expectations of\nthose who conﬁded in the ﬁrm, and appearances. One party cannot have the opposing lawyer\ndisqualiﬁed for having acted for a non-party in a related matter; it is for that non-party to\ncomplain.¹¹\nBut in most cases who complains of the lawyer’s conﬂict does not matter?¹²\nBut a\n\nlaw ﬁrm cannot act in a lawsuit against a former joint client, where it had acted for both the\nparties.¹\nA lawyer who has acted as counsel for a solicitor should not thereafter in the same\nmatter act for the solicitor’s lay client in a negligence suit against the solicitor, his former client.²\n3. Exceptions to Removal for Conﬂict\nThe client can waive any conﬂict and allow the law ﬁrm to act.³\nOnly the former client affected\nis relevant, and its waiver sufﬁces.⁴\nA lawyer can have some shared interest with the competitor\nof his client’s opponent.⁵\nThe opponent of an opponent is not necessarily related; there is no\nconﬂict of interest if the two disputes are unrelated.⁶\nNor would there be a conﬂict where a lawyer\nhad advised other clients who also had disputes with the party against whom the lawyer is now\nacting.⁷\nTactical motions to remove a lawyer, and delay in so applying, are a considerable problem.⁸\nDelay may bar a motion to disqualify a lawyer if it would create a lot of prejudice, and the conﬂict\nwould work no real harm.⁹\nDelay may lead to an order for removal whose effect is postponed until\ncertain steps are completed.¹⁰\nIf a request to disqualify the opposing counsel is late and seems\ntactical, and his current representation is narrow and interlocutory, he may be allowed to continue\nfor now, with disqualiﬁcation for future substantive steps left open to decide later.¹¹\nEven if a solicitor-client relationship had been established, removal of the solicitor’s whole\nﬁrm from acting for someone else may not be proper. Conﬁdential information was disclosed, but\nthe Law Society’s Code of Conduct lets the ﬁrm act if adequate steps are taken to ensure that\nother ﬁrm members not learn the conﬁdential information, and those knowing are not involved in\nany related retainer.¹²\nHere the ﬁrm had taken many steps to that end, including segregation of\n\nelectronic ﬁles. The acceptance of two possible retainers for two people occurred in good faith\nwith use of good conﬂict systems, but close coincidental timing.\nMerely having acted as an address for service or registered ofﬁce does not give a conﬂict later\nbarring representing an opponent.¹\nBut acting as agent for counsel does disqualify.²\nA lawyer with a conﬂict of interest because of formerly acting for this layperson may swear an\nafﬁdavit for use against that former client, if no privilege or other rule of evidence excludes the\nafﬁdavit's contents.³\nThere is no blanket bar on a solicitor’s continuing to run a lawsuit, but now for the trustee in\nbankruptcy or executor of his former client.⁴\nA parent company and its subsidiary are not the same\nclient, and if there is no common fact between the two suits, the lawyer will be free to act.⁵\nA suit by an injured person may be for him alone, though his insurer is subrogated to any\nrecovery; the plaintiff’s lawyer may not owe any duties to the plaintiff’s insurer which would create\na conﬂict of interest?⁶\nThe Workers’ Compensation Board was not allowed to require that the lawyer for the lay\nplaintiff agree that the Board would be his sole client, as a condition of giving leave to bring a\nsubrogated claim. That was not necessary to protect the Board, and went beyond what s.22(1)\nof the Workers’ Compensation Act requires.⁷\nA retainer agreement of a law ﬁrm by two business\ngroups said that if the two groups disagreed later, the ﬁrm could continue to act for one of them.\nThat did not contemplate a falling out over the very project for which the ﬁrm was retained, and\nan attempt by one group to eliminate the other from the project. That was too big a breach of the\nduty of ongoing loyalty to an existing client.⁸\n4. Procedure\nEvidence is necessary to rule on a conﬂict and on possible consent to it.⁹\nOn reversed onus\nof proof, see Part B.2 above.\nA lawyer’s conﬂict is not excused by the fact that the opposing lawyer has one too.¹⁰\nIf one lawyer discovers a relationship between the judges and the opposing law ﬁrm, a request\nby the ﬁrst lawyer to the ﬁrm to disclose enough facts to assess whether there is a conﬂict or not,\nshould be answered.¹¹\n\nWhere there is no statutory right to appeal, an interlocutory order removing counsel for a\nconﬂict of interest does not go to jurisdiction and cannot be appealed.¹\nIt takes evidence to remove\na solicitor for conﬂict of interest, and the Court of Appeal cannot do that until there is an appeal,\nso if leave is required, leave must ﬁrst be given.²\nIf counsel formerly acted for a now opposing\nwitness, counsel may be restrained from cross-examining that witness.³\nIf an application to remove opposing counsel expressly reﬂects on his integrity but fails, it may\nattract a higher level of costs.⁴\nBut the costs situation may be very different where the alleged\nconﬂict arose from acts of the parties themselves, not acts of lawyers.⁵\nWhere an individual counsel had a conﬂict but had changed ﬁrms, which had put in a “Chinese\nwall”, though the individual had to cease to act in the new suit, the new ﬁrm could continue if it\nconﬁrmed and undertook to preserve, the “Chinese wall”.⁶\nCan a Crown prosecutor who lost her objectivity be removed by the court in a clear case?⁷\nA law ﬁrm may be disqualiﬁed from acting if it came into possession of the opponent’s\nsecrets,⁸\nbut not if that was in good faith and narrow in scope.⁹\nNor if the party now complaining\ninadvertently sent the information to the law ﬁrm.¹⁰\nC. Separate Counsel for a Child\nThere is a discussion of when there should be independent counsel for a child in a custody\ndispute, how the lawyer should be selected and paid, who should instruct him, and whether he\nis simply to take instructions from the child or whether he is to speak independently. The court\nstruck down an appointment done at the insistence of one parent who seemed to be controlling\nthe situation.¹¹\nD. Counsel as Witness\nA lawyer ordinarily cannot act both as witness and advocate in the same suit,¹²\nand the court\ncan remove him or her if likely to become a witness there.¹³\nHe or she (and the whole law ﬁrm) must\n\ncease to act as counsel if the need to testify is realized partway through the trial or application.¹\nNor can a lawyer in a ﬁrm act if the previous conduct of the ﬁrm is in issue.²\nIt is worse if the\nevidence will include argument and speculation, and so likely raise issues about the lawyer's\ncredibility.³\nA lawyer employed by a law ﬁrm cannot act as counsel when a key witness in the trial\nwill be a senior partner in the law ﬁrm and his credibility will be at issue and actively challenged.\nThe law ﬁrm (if it acted) would be both witness and advocate and counsel’s duty to the court is\nparamount. The senior partner could act as his own “counsel” at trial, but not for a company of\nwhich he is not the sole owner.⁴\nDisqualifying counsel as a possible witness may be proper even if he may not testify. It would\nrequire proof that he would not testify (and maybe an undertaking that he would not).⁵\nOn the\nother hand, at an early stage in a suit, a mere possibility that a related lawyer will be called as a\ntrial witness is not enough.⁶\nSomeone who witnesses someone else signing a document, does not have to “validate” the\ncontents of the document, nor certify that the person owns the property. If signing is not in dispute,\nhaving witnessed someone’s signature does not make a lawyer a likely trial witness thereby\ndisqualiﬁed from acting in later litigation.⁷\nAn afﬁdavit limited to formalities or uncontroverted\ntopics does not disqualify a lawyer.⁸\nWhile a pre-trial application is still undecided, a lawyer giving evidence for the application,\nand his ﬁrm, should not be counsel, nor ﬁle documents, nor appear in court, nor cross-examine\non afﬁdavits, though they can give their client (even the representative plaintiff in a class action)\nlegal advice. But once the application is ﬁnally decided, they can be trial counsel.⁹\nBut if the legal\nassistant to one of the counsel swore an afﬁdavit, she is not necessarily counsel’s alter ego,\nand counsel is not necessarily the de facto witness. Some of the afﬁdavit's contents were the\nassistant's own personal knowledge (apparently from her familiarity with the ﬁle), and the other\nparts are not clearly information from that counsel.¹⁰\nE. Miscellaneous\nA potential future conﬂict of interest (here a personal interest, not another client) is not enough\nto disqualify, e. g. an allegation of professional negligence without any supporting evidence.¹¹\n\nA lawyer also owes duties to the court, the profession, and the public. The duties to the public\nand the court cannot be waived by the client. And members of a law ﬁrm are identiﬁed with each\nother.¹\nRepeating direct to the debtor defendant an offer previously made through his solicitor was\nharmless and a technical breach at worst, and no ground to relieve against the defendant’s\npunishment for contempt.²\nThough ineffectiveness of counsel is sometimes raised on appeal, it is extremely unusual to\nhear it raised before the trial judge partway through a long trial. That would require clear grounds\nand evidence that the incompetence (or unethical conduct) of defence counsel could not be cured\nin any manner without a mistrial. Counsel are presumed to be competent. Switching counsel in\nmid-stream is not a ground for totally rebuilding one’s defence from the ground up.³\nIf removing one counsel may do a lot of harm to one side, and whether that should be done is\narguable, litigating that side issue may advance the suit and stop R.4.33 from running.⁴\nA lawyer’s change of ﬁrm admittedly created a serious conﬂict of interest for the plaintiff’s\nsolicitors, so it had to be removed before the plaintiff could take important steps. Not doing\nanything about the conﬂict for over 3 years was ground to dismiss the suit for non-prosecution.⁵\nEven when a non-lawyer might otherwise be allowed to represent a litigant, he will be barred\nfrom doing so if he disobeys court orders and otherwise badly misbehaves.⁶",
+      "footnotes": [
+        {
+          "page": "2-49",
+          "number": 4,
+          "text": "Cordery on Solicitors (Butterworths 1995 ff. looseleaf). See also Barristers and Solicitors in Practice (Butterworths looseleaf), and MacNair, Conﬂicts of Interest: Principles for the Legal Profession (looseleaf, Canada L. B. )."
+        },
+        {
+          "page": "2-50",
+          "number": 1,
+          "text": "R.14.82."
+        },
+        {
+          "page": "2-50",
+          "number": 2,
+          "text": "See Legal Profession Act s.48, and Law Society’s Rule 72.2."
+        },
+        {
+          "page": "2-50",
+          "number": 3,
+          "text": "Cunningham v. Lilles (R. v. Cunningham) 2010 SCC 10, [2010] 1 SCR 331."
+        },
+        {
+          "page": "2-50",
+          "number": 4,
+          "text": "Walsh v. Stephen M. K. Hope 2019 ABQB 516, JCC 1401 02306 (Jul 9) (¶ 132)."
+        },
+        {
+          "page": "2-50",
+          "number": 5,
+          "text": "See generally Fuerst & Sanderson, Ont. Courtroom Procedure, Chap.8 Part E (3d ed.2012)."
+        },
+        {
+          "page": "2-50",
+          "number": 6,
+          "text": "On the general right to choose one's counsel, see Power v. Richardson GMP 2018 ABQB 673, JCE 1601 07471 (Sep 18)."
+        },
+        {
+          "page": "2-50",
+          "number": 7,
+          "text": "See the C. P. E. , Chapter 4, Part G."
+        },
+        {
+          "page": "2-50",
+          "number": 8,
+          "text": "The conﬂict to be regulated and avoided is that of one of the lawyers. A conﬂict between the clients is irrelevant; it always exists in litigation: Keef v. Peters, infra."
+        },
+        {
+          "page": "2-50",
+          "number": 9,
+          "text": "Both the courts and the Law Society can control conﬂicts of interest by lawyers: C. M. v. Kennedy 2014 ABQB 590, 591 AR 360."
+        },
+        {
+          "page": "2-50",
+          "number": 10,
+          "text": "See Part C below. See also R.2.22 n. F above."
+        },
+        {
+          "page": "2-50",
+          "number": 11,
+          "text": "Patel v. Patel 2020 ABQB 613, JCE 1403 07486 (Oct 14)."
+        },
+        {
+          "page": "2-50",
+          "number": 12,
+          "text": "See R. v. Racine 2011 QCCA 2025, 2011 CarswellQue 11863, leave den (SCC 10 May ’12). See further the C. P. E. , v.2, Chap.38, Part H.3 and Part C below."
+        },
+        {
+          "page": "2-51",
+          "number": 1,
+          "text": "This general topic and a comparison of the two different types of conﬂict of interest, are reviewed, in Habina v. Saretsky 2023 ABKB 24, JCC 2001 11195 (Jan 17) (¶’s 10 ff. ). Note on the subject of conﬂicts of interest generally, Grant and Rothstein 48-61 (2d ed.1998)."
+        },
+        {
+          "page": "2-51",
+          "number": 2,
+          "text": "Hong v. Hong 2023 ABCA 33, Calg 2201 0211 AC (Feb 1) (¶’s 7 ff. )."
+        },
+        {
+          "page": "2-51",
+          "number": 3,
+          "text": "C. N. R. v. McKercher (Wallace v. C. P. R. ) 2013 SCC 39, [2013] 2 SCR 649."
+        },
+        {
+          "page": "2-51",
+          "number": 4,
+          "text": "This doctrine and more recent case law, are reviewed in Habina v. Saretsky, supra (¶’s 13-18). See, for example Fly R+F Consulting v.1824455 Alta.2020 ABCA 204, 8 Alta LR(7th) 53 (¶’s 34 ff. ). On this topic of divisions in the duty of loyalty, and remodelling some of the provincial or national ethics codes for lawyers, see Dodek (20__) 14 Legal Ethics 193; Strather v.3464920 Can.2007 SCC 24, [2007] 2 SCR 177; Canadian Bar Assn. Task Force on Conﬂicts of Interest, Conﬂicts of Interest: Final Report (Aug 2008) ; Binnie, Sondage apres sondage. . . quelques réﬂexions sur les conﬂits d’interets”, in Droits de la Personne: Ethique et droit: nouveaux déﬁs (Institut can. d’études juridiques supérieures 2008), p.305; Anderson (2006) 111 Penn St L Rev 1; Chang (2006) 19 Geo J. Legal Ethics 583; Zacharias (1998) 108 Yale LJ 407; Hilton v. Barker Booth & Eastwood [2005] UKHL 8, [2005] 1 WLR 567 (Feb 3)."
+        },
+        {
+          "page": "2-51",
+          "number": 5,
+          "text": "Giammarco & Co. etc. v. TRL Real Est. Syndicate (05) 2014 ABQB 261, 68 CPC(7th) 388. Agreeing as to the need for a conﬂict of immediate interests: MTM Comm. Tr. v. Statesman Riverside Quays 2015 ABCA 142, 600 AR 118, revg 2014 ABQB 16."
+        },
+        {
+          "page": "2-51",
+          "number": 6,
+          "text": "Fly R+F Consulting v.1824455 Alta. , supra (¶’s 53-54)."
+        },
+        {
+          "page": "2-51",
+          "number": 7,
+          "text": "Smith v. Lafarge Can.2022 ABQB 289, 43 Alta LR(7th) 58 (¶’s 33-42, 48-54, 58-66)."
+        },
+        {
+          "page": "2-51",
+          "number": 8,
+          "text": "Habina v. Saretsky, supra (¶ 14)."
+        },
+        {
+          "page": "2-51",
+          "number": 9,
+          "text": "Habina v. Saretsky, supra (¶ 10)."
+        },
+        {
+          "page": "2-51",
+          "number": 10,
+          "text": "Besides case law, the local Law Society’s Code of Conduct is also relevant and instructive for the courts: C. M. v. Kennedy, supra; Keef v. Peters 2014 ABCA 412, Edm 1403 0261 AC (one JA Dec 5). But the Code’s rules on competence give no rights to the non-client opposing party: Keef v. Peters."
+        },
+        {
+          "page": "2-52",
+          "number": 1,
+          "text": "It must be the same party; a town and its subdivision etc. board are not the same entity: Spruce Grove Gun Club v. Parkland, infra."
+        },
+        {
+          "page": "2-52",
+          "number": 2,
+          "text": "B. E. L. Holdings v. CDE Eng.2024 ABKB 285, JCC 2301 02477 (May 23) (¶’S 50-58). There may be a solicitor-client relationship between a lay person and a lawyer (e. g. over execution of a will) even if the lawyer does not think he is there in the capacity as a lawyer. The lawyer representing the prisoner on his criminal charges was present. The court presumes conﬁdential information was obtained from the person: MacDonald (Volker Est. ) v. Volker 2011 ABQB 691, [2011] AR Uned 812 (Nov 10). Where there are groups involved, those closely related may have a reasonable expectation of conﬁdentiality: Orr v. Alook (M) 2014 ABQB 141, 583 AR 156, affd 2015 ABQB 101."
+        },
+        {
+          "page": "2-52",
+          "number": 3,
+          "text": "Conﬁdential information need not be a deep secret; genealogical information which the archives will not release to strangers without consent, sufﬁces: Orr v. Alook 2015 ABQB 101, JCE 1103 20205."
+        },
+        {
+          "page": "2-52",
+          "number": 4,
+          "text": "The test for sufﬁcient connection is reasonable possibility, and if it is made out, the onus of proof then shifts to the law ﬁrm: Atco Gas & Pipelines v. Sheard 2003 ABCA 61, 320 AR 339; 473440 Alta. v. Lenaco Homes Masterbuilder 2016 ABQB 435, 41 Alta LR(6th) 299. Unrelated matters 20 years old did not sufﬁce, in Alta. Cement Corp. v. Bakewell 1999 ABQB 1001, 256 AR 191."
+        },
+        {
+          "page": "2-52",
+          "number": 5,
+          "text": "Re Devcor Inv. Corp. (W. Edm. Mall v. Duncan & Craig) 2001 ABCA 226, 286 AR 300, leave den [2002] 1 SCR vi; Alta. Egg Producers Bd. v. Giberson 2001 ABQB 114, 285 AR 380; Day v. Norwood Foundry (M) 2012 ABQB 186, 33 CPC(7th) 405; Lakhoo v. Lakhoo 2011 ABQB 526, [2011] AR Uned 359 (Aug 25) (brieﬂy acted on the other side and records gone, but given personal contacts with ﬁrm, too risky) ; Orr v. Alook 2015 ABQB 101, JCE 1103 20205; Feeidooni v. Burnham 2018 ABQB 390, JCC 1001 03315 (May 16); Whaling v. Twietmeyer 2019 ABQB 91, JCC FL01 24661 (Feb 8) (¶’s 64-end). If there is no relevance, there is no conﬂict: C. P. E. , Chapter 4, Part E.4. See also R. v. Neil 2000 ABCA 266, 266 AR 363, affd 2002 SCC 70, [2002] 3 SCR 631, on conﬂict of interest or not from two lawyers consulted in same ﬁrm, and cut- throat defense. Authorities on the tests are cited in Smallboy v. Roan 2002 ABCA 284, leave den (SCC 11 Sep ’03). On the need for connection of the two retainers or lawsuits, see Habina v. Saretsky 2023 ABKB 24, JCC 2001 11195 (Jan 17) (¶’s 19-27)."
+        },
+        {
+          "page": "2-52",
+          "number": 6,
+          "text": "# 1, 2 are distinguished; the tests for a conﬂict in case #1 need not be satisﬁed in case #2: King v. Arnett 2006 ABQB 639, 405 AR 280 (majority and minority shareholders had opposing interests) ; C. N. R. v. McKercher (Wallace v. C. P. R. ) 2013 SCC 39, [2013] 2 SCR 649. More examples are found in the C. P. E. , Chapter 4, Part E.3, especially ¶ (z), and R. v. Neil (SCC), supra, and A. U. P. E. v. Utd. Nurses of Alta.2009 ABCA 33, 448 AR 101, leave den [2009] 1 SCR v. There is a general discussion of continuing conﬂicts of interest in R. v. Neil (SCC), supra. On acting for a group (in a non-litigious matter), cf. Watts Est. v. Contact Can. Tourism Serv.2002 ABQB 498, 319 AR 282, at 306-07 (¶’s 64-68), and Hong v. Hong, supra (¶’s 7-10). An employer and employee were both charged, and had adverse interests. Lawyers who were nominal partners should not have represented the two accused, but they did not take part in running the defences, as the co-accused and the employee pleaded guilty. A suit by the employer against her former lawyer failed: Côté v. Rancourt 2004 SCC 58, [2004] 3 SCR 248. A lawyer was disqualiﬁed because his former associate lawyer was now a co-accused of the client, in U. S. A. v. Ritter 2006 ABQB 398, 400 AR 301. Cf. the more complicated facts, in R. v. Moore 2004 ABQB 345, 45 Alta LR(4th) 139. Conﬂicts within a company led to one party using the same lawyer to claim relief against the company and (in another suit) to represent the company. The court ordered this conﬂict ended: Kovac v. Opus Bldg. Corp.2010 ABQB 366, 96 CPC(6th) 307. See also Giammarco & Co. v. TRL Real Est. Syndicate, supra."
+        },
+        {
+          "page": "2-52",
+          "number": 7,
+          "text": "Whaling v. Twietmeyer, supra (¶’s 32-63)."
+        },
+        {
+          "page": "2-53",
+          "number": 1,
+          "text": "Whaling v. Twietmeyer, supra (¶’s 64-end)."
+        },
+        {
+          "page": "2-53",
+          "number": 2,
+          "text": "Power v. Richardson, supra; Spruce Grove Gun Club v. Parkland (Cty. ) 2018 ABQB 364, JCE 1703 17200."
+        },
+        {
+          "page": "2-53",
+          "number": 3,
+          "text": "Power v. Richardson."
+        },
+        {
+          "page": "2-53",
+          "number": 4,
+          "text": "But cf. dicta about big ﬁrms, in Feeidooni v. Burnham 2018 ABQB 390, JCC 1001 03315 (May 16) (¶’s 34, 41)."
+        },
+        {
+          "page": "2-53",
+          "number": 5,
+          "text": "Winford Insulations v. Andarr Ind. (#2) 1998 ABQB 1124, 243 AR 1; Feeidooni v. Burnham, supra. But cf. Dow Chem. Can. v. Nova Chem. Corp.2011 ABQB 509, 514 AR 233. The Court refused to disqualify a law ﬁrm where one lawyer changed law ﬁrms. The lawyer did not work in the same city as the lawsuit, and after he arrived “Chinese walls” complying with new Law Society regulations were put in place. There was delay in seeking disqualiﬁcation. The lawyer had but indirect contact with the lawsuit in his previous employment. The afﬁdavit complaining was based entirely on information and belief: Can. S. Petr. v. Amoco Can. Petr. (CA) [1997] 5 WWR 395, 193 AR 273, leave den (SCC 1997) 216 NR 159. The “Chinese Walls” were inadequate and too late, in Feeidooni v. Burnham, supra."
+        },
+        {
+          "page": "2-53",
+          "number": 6,
+          "text": "R. v. Le (#2) 2001 ABQB 195, 287 AR 120; Gottschlich v. Gottschlich 2001 ABQB 456, 291 AR 173; Chern v. Chern 2006 ABCA 16, 380 AR 267. But the precautions taken may remove the conﬂict: Gardner v. Gardner 2007 ABQB 578, 444 AR 265."
+        },
+        {
+          "page": "2-53",
+          "number": 7,
+          "text": "Habina v. Saretsky 2023 ABKB 24, JCC 2001 11195 (Jan 17) (¶’s 29-44)."
+        },
+        {
+          "page": "2-53",
+          "number": 8,
+          "text": "College of Physicians & Surgeons v. Ali 2017 ABCA 442, 67 Alta LR(6th) 16, leave den (SCC 14 Mar ’19)."
+        },
+        {
+          "page": "2-53",
+          "number": 9,
+          "text": "College of Physicians & Surgeons v. Ali, supra."
+        },
+        {
+          "page": "2-53",
+          "number": 10,
+          "text": "MCW Constr. v. Trudel Est. (M) 2012 ABQB 346, 541 AR 192 (someone related paid law ﬁrm’s bill, but only because obliged to by loan agreement); College of Physicians v. Ali, supra."
+        },
+        {
+          "page": "2-53",
+          "number": 11,
+          "text": "Chaos Water v. Build-All, infra; Feeidoni v. Burnham, supra."
+        },
+        {
+          "page": "2-54",
+          "number": 1,
+          "text": "Taggar v. Kaur Gill 2017 ABQB 83, 7 CPC(8th) 425; Feeidoni v. Burnham, supra. Physically handing back a ﬁle, and an undertaking not to discuss it within the ﬁrm, are not enough safeguards: Re Devcor Inv. Corp. , supra. Nor were there enough safeguards in Quon v. Gable Planning Serv.2000 ABQB 104, 259 AR 180. The safeguards were implemented late, but in the interim it was proved physically impossible for information to have ﬂowed, in Dreco Enr. Serv. v. Wenzel Downhole Tools (#10) 2006 ABQB 718."
+        },
+        {
+          "page": "2-54",
+          "number": 2,
+          "text": "Feeidooni v. Burnham, supra."
+        },
+        {
+          "page": "2-54",
+          "number": 3,
+          "text": "Benning v. Harding, infra."
+        },
+        {
+          "page": "2-54",
+          "number": 4,
+          "text": "Dreco Enr. Serv. v. Wenzel Downhole Tools (#7) 2006 ABCA 39, 380 AR 109, reh den (#2) 2006 ABCA 73, 56 Alta LR(4th) 249."
+        },
+        {
+          "page": "2-54",
+          "number": 5,
+          "text": "Quinn v. Holland 2021 ABQB 116, JCC 1901 07144 (Feb 23) (¶’s 24-28)."
+        },
+        {
+          "page": "2-54",
+          "number": 6,
+          "text": "Stimson v. Stimson 2014 ABQB 581, 597 AR 64; but cf. B. E. L. Holdings v. CDE Eng.2024 ABKB 285, JCC 2301 02477 (May 23) (¶’s 31-49)."
+        },
+        {
+          "page": "2-54",
+          "number": 7,
+          "text": "Abt v. Abt 2019 ABQB 454, JCRD 4810 022465 (Jun 21) (¶’s 9-15)."
+        },
+        {
+          "page": "2-54",
+          "number": 8,
+          "text": "Benning v. Harding 2020 ABQB 741, JCGP 4804 012019 (Oct 30) (¶’s 24-30)."
+        },
+        {
+          "page": "2-54",
+          "number": 9,
+          "text": "See the C. P. E. , Chapter 4, Part E.2. The authorities are reviewed in Smallboy v. Roan, supra."
+        },
+        {
+          "page": "2-54",
+          "number": 10,
+          "text": "Acting for a national union does not prevent a law ﬁrm from acting against one of the locals: O. P. C. M. I. A. (Operative Plasterers’ etc. Assn. ) v. R.2008 ABQB 225, 444 AR 148."
+        },
+        {
+          "page": "2-54",
+          "number": 11,
+          "text": "See the C. P. E. , Chapter 4, Part E.6."
+        },
+        {
+          "page": "2-54",
+          "number": 12,
+          "text": "C. M. v. Kennedy 2014 ABQB 590, 591 AR 360; Giammarco & Co. etc. v. TRL Real Est. Syndicate (05) 2014 ABQB 261, 68 CPC(7th) 388 (¶ 13)."
+        },
+        {
+          "page": "2-55",
+          "number": 1,
+          "text": "Or where the party now complaining had reasonably believed that he was a client: Jeffers v. Calico Compression Sys.2002 ABQB 72, 314 AR 294 (lawyer had incorporated 2-man company). But (on a previous joint retainer) cf. B. H. v. Dir. of Child Welfare 2002 ABQB 371, 302 AR 201, affd 2002 ABCA 109, 303 AR 115."
+        },
+        {
+          "page": "2-55",
+          "number": 2,
+          "text": "Smith & Matthews (Webb Real Est. ) v. McInnis (#1) [1978] 2 SCR 1357, 19 NR 608, 626 (per Pigeon J. , dissenting on other grounds)."
+        },
+        {
+          "page": "2-55",
+          "number": 3,
+          "text": "A. U. P. E. v. Utd. Nurses of Alta. , supra; Grifﬁths McBurney & P’ners. v. Ernst & Young YBM 2001 ABCA 305, 293 AR 337; O. P. C. M. I. A. (Operative Plasterers’ etc. Assn. ) v. R.2008 ABQB 225, 444 AR 148 (can be generic or implied); C. M. v. Kennedy, supra; MTM Comm. Tr. v. Statesman Riverside Quays 2015 ABCA 142, 600 AR 118, revg 2014 ABQB 16; College of Physicians & Surgeons v. Ali 2017 ABCA 442, 67 Alta LR(6th) 16, leave den (SCC 14 Mar ’19) ; Hazelwood v. Schlotter 2022 ABKB 739, JCC 1601 13111 (Nov 7) (¶’s 50 ff. ). A litigant cannot acquiesce in a law ﬁrm’s acting, and then later object for tactical reasons: O. P. C. M. I. A. v. R. , supra."
+        },
+        {
+          "page": "2-55",
+          "number": 4,
+          "text": "Harder v. Sartorio 2020 ABQB 404, JCC 4801 182619 (Jul 14) (¶’s 29-43)."
+        },
+        {
+          "page": "2-55",
+          "number": 5,
+          "text": "Dust v. Messner 1999 ABQB 343, 242 AR 399."
+        },
+        {
+          "page": "2-55",
+          "number": 6,
+          "text": "Cf. Popke v. Bolt (Re Serdahely Est. ) (#2) 2005 ABQB 861, 392 AR 220, affd 2006 ABCA 338, 27 ETR(3d) 197; cf. Dust v. Messner, supra."
+        },
+        {
+          "page": "2-55",
+          "number": 7,
+          "text": "See the C. P. E. , Chapter 4, Part E.2, and Part E.4(oo)."
+        },
+        {
+          "page": "2-55",
+          "number": 8,
+          "text": "Harder v. Sartorio, supra."
+        },
+        {
+          "page": "2-55",
+          "number": 9,
+          "text": "See the Can. S. Petr. case, infra, O. P. C. M. I. A. , supra; dicta in A. T. U. (Daley) v. I. C. T. U. (Wallace) (1995) 172 AR 297, 33 Alta LR(3d) 317; MTM Comm. Tr. v. Statesman Riverside Quays, supra; Piikani N. v. Kostic 2018 ABCA 219, Calg 1601 0247 AC (one JA) ; JD1H1 v. Bodden 2020 NUCA 3, Iq.08-18-007 CAC (Apr 15) ; Mann v. Mann 2022 SKCA 138 (Nov 18) (¶’s 6-9)."
+        },
+        {
+          "page": "2-55",
+          "number": 10,
+          "text": "Mountainview C. U. v. Cowboy Trail Realty (M) 2012 ABQB 351, 541 AR 196. (Also discusses rancour with former client); but cf. Chaos Water Hauling v. Build-All Contr.2012 ABQB 321, 36 CPC(7th) 430."
+        },
+        {
+          "page": "2-55",
+          "number": 11,
+          "text": "Piikani N. v. Kostic, supra."
+        },
+        {
+          "page": "2-55",
+          "number": 12,
+          "text": "Quinn v. Holland 2021 ABQB 116, JCC 1901 07144 (Feb 23) (¶’s 29-40)."
+        },
+        {
+          "page": "2-56",
+          "number": 1,
+          "text": "Amack v. AW Hldg. Corp.2010 ABQB 759, [2010] AR Uned 962 (Dec 2). An opposing lawyer should not be removed, and has no conﬂict of interest, just because he or she commissioned an afﬁdavit, or subpoenaed a witness, or attended the cross-examination of the witness. None of that means the lawyer acts for the witness: Erdmann v. Complaints Inquiry Ctee.2015 ABCA 172, Edm 1503 0052 AC (one JA May 20) (¶’s 4-5). A lawyer can be counsel for a professional regulatory body even though he previously was independent counsel for its discipline tribunal, on an unrelated matter: id. @ ¶ 6."
+        },
+        {
+          "page": "2-56",
+          "number": 2,
+          "text": "Chaos Water v. Build-All, supra."
+        },
+        {
+          "page": "2-56",
+          "number": 3,
+          "text": "Orr v. Alook 2019 ABQB 713, JCE 1103 20205 (Sep 13) (¶’s 21-23)."
+        },
+        {
+          "page": "2-56",
+          "number": 4,
+          "text": "But the lawyer for the creditors cannot act for the trustee in bankruptcy: Re Devcor Inv. Corp. , supra. See the C. P. E. , Chapter 4, Part E.4(mm)."
+        },
+        {
+          "page": "2-56",
+          "number": 5,
+          "text": "Savanna Enr. Serv. v. CanElson Drilling 2010 ABQB 645, 509 AR 358."
+        },
+        {
+          "page": "2-56",
+          "number": 6,
+          "text": "Grebely v. Econ. Mut. Ins. Co.1999 ABQB 97, 239 AR 92."
+        },
+        {
+          "page": "2-56",
+          "number": 7,
+          "text": "W. C. B. (Jeske) v. Gutierrez 2005 ABCA 110, 363 AR 276."
+        },
+        {
+          "page": "2-56",
+          "number": 8,
+          "text": "MTM Commr’l. Tr. v. Statesman Riverside Quays 2014 ABQB 16, 99 Alta LR(5th) 293, revd 2015 ABCA 142."
+        },
+        {
+          "page": "2-56",
+          "number": 9,
+          "text": "C. M. v. Kennedy 2014 ABQB 590, 591 AR 360."
+        },
+        {
+          "page": "2-56",
+          "number": 10,
+          "text": "C. M. v. Kennedy."
+        },
+        {
+          "page": "2-56",
+          "number": 11,
+          "text": "Lay v. Lay 2019 ABCA 21, [2019] 2 WWR 254 (¶’s 46-47)."
+        },
+        {
+          "page": "2-57",
+          "number": 1,
+          "text": "R. v. Druken [1998] 1 SCR 978, 228 NR 1, adopting dissent of Cameron J. A. (Nﬂd CA 1997) 157 N & PEIR 93, 97 ff."
+        },
+        {
+          "page": "2-57",
+          "number": 2,
+          "text": "Kilini Creek/Patricia Hills Landowners v. S. D. A. B. of Lac Ste. Anne (Cty. ) 2001 ABCA 92."
+        },
+        {
+          "page": "2-57",
+          "number": 3,
+          "text": "A. T. U. v. I. C. T. U. , supra."
+        },
+        {
+          "page": "2-57",
+          "number": 4,
+          "text": "Coe v. Sturgeon Gen. Hosp. Dist.2001 ABQB 658, 96 Alta LR(3d) 203; Nordstrom v. Stenco (#1) 2015 ABQB 184, 2015 CarswellAlta 781 (Mar 18). Ordinary costs seem to have been awarded to the law ﬁrm, in Can. S. Petr. v. Amoco Can. Petr. [1998] 4 WWR 701, 211 AR 48."
+        },
+        {
+          "page": "2-57",
+          "number": 5,
+          "text": "Chevron Can. Res. v. Executive Dir. of Indian Oil & Gas 1999 ABQB 1030, 240 AR 362."
+        },
+        {
+          "page": "2-57",
+          "number": 6,
+          "text": "Orr v. Alook (M) 2014 ABQB 141, 583 AR 156, affd 2015 ABQB 101. On an inadequate “Chinese Wall”, see Feeidooni v. Burnham 2018 ABQB 390, JCC 1001 03315 (May 16)."
+        },
+        {
+          "page": "2-57",
+          "number": 7,
+          "text": "dictum in R. v. Trang 2002 ABQB 286, 311 AR 284. But cf. R. v. Desjardin 2004 ABQB 452, 364 AR 1, and Robertson v. Edm. Police Service (#10) 2004 ABQB 519, 352 AR 44."
+        },
+        {
+          "page": "2-57",
+          "number": 8,
+          "text": "e. g. when little effort was made during a seizure to see what was privileged, and then the fruits were sent on to a client outside Canada and little was done to remedy it after complaint: Celanese Can. v. Murray Demolition Corp.2006 SCC 36, [2006] 2 SCR 189."
+        },
+        {
+          "page": "2-57",
+          "number": 9,
+          "text": "Denman v. Jamieson 2006 ABQB 210, 396 AR 199."
+        },
+        {
+          "page": "2-57",
+          "number": 10,
+          "text": "R. v. Nguyen 2015 ABQB 672, [2016] 6 WWR 563."
+        },
+        {
+          "page": "2-57",
+          "number": 11,
+          "text": "Puszczak v. Puszczak 2005 ABCA 426, 384 AR 57. See also J. C. v. K. C.2022 ABKB 707, JCC FL01 36960 (Oct 24) (¶’s 51-61)."
+        },
+        {
+          "page": "2-57",
+          "number": 12,
+          "text": "Moad v. Shepherd 2017 ABQB 330, 57 Alta LR(6th) 206 (¶’s 6, 10) ; Harder v. Sartorio 2020 ABQB 404, JCC 4801 182619 (Jul 14) (¶’s 17-28) ; cf. Beacon Hill v. Esso, infra."
+        },
+        {
+          "page": "2-57",
+          "number": 13,
+          "text": "Moad v. Shepherd (¶ 6) ; Domenic Constr. v. Primewest Cap. Corp. (M) 2017 ABQB 486, JCL 1306 00897 (Aug 2) ; Fedun v. Korchinski 2021 ABQB 14, JCE 4803 188411 (Jan 7) (¶ 6). For narrow exceptions, see Moad case at ¶ 11."
+        },
+        {
+          "page": "2-58",
+          "number": 1,
+          "text": "R. T. v. R. , infra (¶’s 25-43)."
+        },
+        {
+          "page": "2-58",
+          "number": 2,
+          "text": "Moad v. Shepherd (¶’s 8-9, 13) ; Harder v. Sartorio, supra. It is problematic for a solicitor who let an appeal get struck, to continue to act on a motion to restore the appeal, especially if the solicitor may need to swear an afﬁdavit for the motion: Roman v. Omasta 2018 ABCA 121, Edm 1703 0314 AC (one JA Mar 26) n.4."
+        },
+        {
+          "page": "2-58",
+          "number": 3,
+          "text": "R. T. v. R. (Alta. ) 2020 ABQB 655, 21 Alta LR(7th) 273 (¶’s 44-47)."
+        },
+        {
+          "page": "2-58",
+          "number": 4,
+          "text": "Beacon Hill Service (2000) v. Esso Petr. Can.2011 ABQB 138, 512 AR 212, affd 2012 ABCA 269, 536 AR 221; Moad v. Shepherd, supra (¶ 7)."
+        },
+        {
+          "page": "2-58",
+          "number": 5,
+          "text": "Isbister v. Palkowski 2012 ABCA 361, 539 AR 240 (Nov 29) ; Moad v. Shepherd, supra. But counsel's argument made it highly likely that he would testify, and he was disqualiﬁed, in Stanﬁeld v. Low 2019 ABCA 83, Calg 1801 0086/7 (one JA)."
+        },
+        {
+          "page": "2-58",
+          "number": 6,
+          "text": "Harder v. Sartorio, supra (¶’s 29-43) ; Hazelwood v. Schlotter 2022 ABKB 739, JCC 1601 13111 (Nov 7) (¶’s 66-70) ; but cf. Hong v. Hong 2023 ABCA 33, Calg 2201 0211 AC (Feb 1) (¶’s 11 ff. ) (“signiﬁgant chance” will in future testify)."
+        },
+        {
+          "page": "2-58",
+          "number": 7,
+          "text": "Ayoungman v. Ayoungman 2017 ABCA 333, Calg 1701 0109 AC (Oct 10)."
+        },
+        {
+          "page": "2-58",
+          "number": 8,
+          "text": "R. T. v. R. (Alta. ), infra (¶’s 42-43)."
+        },
+        {
+          "page": "2-58",
+          "number": 9,
+          "text": "R. T. v. R. (Alta. ), infra (¶’s 49-69)."
+        },
+        {
+          "page": "2-58",
+          "number": 10,
+          "text": "And one of the plaintiffs then swore a new afﬁdavit with the same information: Fedun v. Korchinski 2021 ABQB 14, JCE 4803 188411 (Jan 7) (¶’s 7, 9)."
+        },
+        {
+          "page": "2-58",
+          "number": 11,
+          "text": "Hazelwood v. Schlotter 2022 ABKB 739, JCC 1601 13111 (Nov 7) (¶’s 45-57, 60-65)."
+        },
+        {
+          "page": "2-59",
+          "number": 1,
+          "text": "R. T. v. R. (Alta. ) 2020 ABQB 655, 21 Alta LR(7th) 273 (¶’s 25-43)."
+        },
+        {
+          "page": "2-59",
+          "number": 2,
+          "text": "Turkawski v.738675 Alta. (#10) 2006 ABQB 301, 398 AR 250."
+        },
+        {
+          "page": "2-59",
+          "number": 3,
+          "text": "R. v. Levin (#_) 2012 ABQB 769, 549 AR 236 (Dec 17)."
+        },
+        {
+          "page": "2-59",
+          "number": 4,
+          "text": "Delorme v. A. -G. Can.2015 ABQB 240, 615 AR 127."
+        },
+        {
+          "page": "2-59",
+          "number": 5,
+          "text": "Delorme v. A. -G. Can.2016 ABCA 168, 39 Alta LR(6th) 310."
+        },
+        {
+          "page": "2-59",
+          "number": 6,
+          "text": "Lemay v. Zen Residential (#_) 2023 ABKB 682, JCE 2303 20025 (Nov 30)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          2431,
+          2999
+        ],
+        "book_pages": [
+          "2-49",
+          "2-50",
+          "2-51",
+          "2-52",
+          "2-53",
+          "2-54",
+          "2-55",
+          "2-56",
+          "2-57",
+          "2-58",
+          "2-59"
+        ]
+      },
+      "operative_text_note": "same wording as official except 'self represent' (no hyphen) in (2).",
+      "commentary_review_flag": "checked by reading pp.2-49..2-59: 106 footnotes (count corrected from 107 in the 8th pass; the per-page list sums to 106), consecutive on every page (2-49: 4; 2-50: 1-12; 2-51: 1-10; 2-52: 1-7; 2-53: 1-11; 2-54: 1-12; 2-55: 1-12; 2-56: 1-11; 2-57: 1-13; 2-58: 1-11; 2-59: 1-6). All supra/infra references resolve inside Book A. Points to note: (1) p.2-50 fn 10 'See Part C below' is attached to ground (d) 'a solicitor ... likely also to be a witness at trial'; in this rule Part C is 'Separate Counsel for a Child' and Part D is 'Counsel as Witness', so probably means Part D. (2) p.2-55 fn 9 'the Can. S. Petr. case, infra': Book A cites two decisions - Can. S. Petr. v. Amoco Can. Petr. (CA) [1997] 5 WWR 395 at p.2-53 fn 5 (earlier; it mentions delay in seeking disqualification, the point of fn 9) and [1998] 4 WWR 701 at p.2-57 fn 4 (later; costs). Which one is meant is not certain. (3) spelling variant 'Feeidoni' (p.2-53 fn 11, p.2-54 fn 1) for 'Feeidooni v. Burnham' 2018 ABQB 390. (4) p.2-58 fns 8-9 'R. T. v. R. (Alta.), infra': full cite at p.2-58 fn 3 and again at p.2-59 fn 1 (2020 ABQB 655), so 'infra' is correct. Left as printed. 4th pass (all four points re-verified by citation): also p.2-50 fn 12 'See further the C. P. E., v.2, Chap.38, Part H.3 and Part C below' is attached to last-minute changes of lawyer; this rule's Part C (Separate Counsel for a Child) does not discuss that, whereas BOOK_A's 2.28 commentary (p.2-63) does, and its fn 3 cites the same C.P.E. Chapter 38 Part H.3. The pointer's target is uncertain. (fn 10's companion 'See also R.2.22 n. F above' is right: 2.22 Part F covers a lawyer likely to be a witness, fn 13 Forward v. Zurich.) 6th pass (full Book A): a THIRD such pointer - R.8.17 notes (p.8-49), heading 'E. Conflict of Interest' fn 4 'See also R.2.24 n. C' - conflicts are this rule's Part B.2 and counsel as witness its Part D. All three 'Part C' pointers (fns 10, 12 and R.8.17 fn 4) miss the printed Part C; the text does not show why."
+    },
+    "BOOK_B": {
+      "title": "Lawyer of record",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_041",
+        "part2_rule_2_24_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_042"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "0fdf4e7a2c17fea57ecbfdc79b873cf64bcafca191e21f0c95aca66df1d10722",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Lawyer of record",
+      "division_heading": "Division 3 – REPRESENTATION OR ASSISTANCE BEFORE THE COURT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "1e2158299a4d50c99aa52c557b615236fe5f7b8d2287552f0456fb388e47bf64",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "cut off in (1) after 'for that'. Not usable. Book C has nothing else for 2.24.",
+      "division_heading_flag": "wrong in Book C: rule 2.24 is in Division 4 (Lawyer of Record) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9825,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official except 'self represent' (no hyphen) in (2)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.6066,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.24",
+      "title_official": "Lawyer of record"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "c8aa3b0ee26ad2ec7487a88d6af0825def2173b24d7b30808fc4f1102363288c",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            2431,
+            2999
+          ],
+          "book_pages": [
+            "2-49",
+            "2-50",
+            "2-51",
+            "2-52",
+            "2-53",
+            "2-54",
+            "2-55",
+            "2-56",
+            "2-57",
+            "2-58",
+            "2-59"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "0fdf4e7a2c17fea57ecbfdc79b873cf64bcafca191e21f0c95aca66df1d10722",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "1e2158299a4d50c99aa52c557b615236fe5f7b8d2287552f0456fb388e47bf64",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "98ab6ec3fa3d5303ff934104c1166e5ca6505a51baabfe5997854e5b07c7f3c8",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            45
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b8250dff5c05177c4cb2357209b5791c9969c7d75f6720eb22f863ff01af9edc"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): listed as a related provision under R.1.1 (p.1-3), R.5.9 (p.5-69), R.11.17 (p.11-22), R.14.81 (p.14-250) and R.14.82 (p.14-251); R.11.15-11.17 notes (p.11-19 and on): 'Rule 11.17 allows service on a lawyer who has gone on the record under R.2.24'; R.8.17 notes (p.8-49) fn 4 'See also R.2.24 n. C' (see the 2.24 flag). Official, by subject: 3.35(1)-(4) (consent judgments when a party has, or has ceased to have, a lawyer of record); 5.9(2) (the lawyer of record may not swear the party's affidavit of records); 13.13(1)(g) (documents show the lawyer of record who prepared them - the mechanism of 2.24(1)).",
+    "Rule 2.25: BOOK_A 2.25 commentary 'On conflicts of interest of solicitors, see R.2.24n.'",
+    "Rules 2.26 and 2.27: BOOK_A related provisions list 2.24.",
+    "Rule 2.29: BOOK_A 2.29 footnote 5 'See further R.2.24n. A' (withdrawal; Cunningham 2010 SCC 10).",
+    "Rule 2.22: BOOK_A 2.24 p.2-50 fn 10 'See also R.2.22 n. F above'; BOOK_A 2.24 Part A points to R.2.26n on a lawyer of record's authority.",
+    "Rule 14.82 (lawyer of record on appeal): BOOK_A related provisions and p.2-50 fn 1. The official text of 14.82(a) keeps the lawyer of record on the appeal 'until ceasing to be so in accordance with Part 2, Division 4' (rules 2.24-2.32) - added in 4th pass."
+  ],
+  "dedupe_log": [
+    "2.24 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.24 BOOK_C: rule text dropped (manual review)",
+    "2.24 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

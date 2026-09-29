@@ -1,0 +1,230 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.16",
+  "title": {
+    "official": "Court-appointed litigation representatives in limited cases",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.16(1)  This rule applies to an action concerning any of the\nfollowing:\n(a) the administration of the estate of a deceased person;\n(b) property subject to a trust;\n(c) the interpretation of a written instrument;\n(d) the interpretation of an enactment.\n(2)  In an action described in subrule (1), a person or class of\npersons who is or may be interested in or affected by a claim,\nwhether presently or for a future, contingent or unascertained\ninterest, must have a Court-appointed litigation representative to\nmake a claim in or defend an action or to continue to participate in\nan action, or for a claim in an action to be made or an action to be\ncontinued against that person or class of persons, if the person or\nclass of persons meets one or more of the following conditions:\n(a) the person, the class or a member of the class cannot be\nreadily ascertained, or is not yet born;\n(b) the person, the class or a member of the class, though\nascertained, cannot be found;\n(c) the person, the class or the members of the class can be\nascertained and found, but the Court considers it\nexpedient to make an appointment to save expense,\nhaving regard to all the circumstances, including the\namount at stake and the degree of difficulty of the issue to\nbe determined.\n(3)  On application by an interested person, the Court may appoint\na person as litigation representative for a person or class of persons\nto whom this rule applies on being satisfied that both the proposed\nappointee and the appointment are appropriate.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "a2f1d3b9b95e3a5d2b5e90db5c785a38590101ec43ac5f7b2524b941de211bf5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          42,
+          43
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Court-appointed Litigation Representatives in Limited Cases",
+      "operative_text_raw": null,
+      "operative_text_sha256": "815e02d12345a51b5b447068ca69c636d193e522c7207e812c6c9c332e23c85b",
+      "related_provisions": "2.6 (representative actions) ; 3.36(2) (noting litigation representative in default).",
+      "commentary": "Do not confuse any of these persons with a R.2.15 representative.²\nThis kind of representative\nis narrowly deﬁned and is not the same as an executor or an administrator. Rather, R.2.15 pertains\nto situations where there is no personal representative. Similarly, the specialized representative\naction, set out in R.2.16, is not to be confused with ordinary administration, or an ordinary\nrepresentative action pursuant to Rr.2.13-2.15. Rules 2.15 and 2.16 may be of limited use in\nspecialized circumstances.\n\nRule 2.16 does not allow appointment of a litigation representative for someone sui juris, just\nto save him stress and worry.¹",
+      "footnotes": [
+        {
+          "page": "2-39",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.51. It was similar to 1914 R.31; from 1944 C. R.64 as amended by O. C. 91/60; cf. Eng.1883 O.16 r.32(b), added 1893. Was that 1893 amendment made to reverse the need for ascertainment of the people, in Re Gardiner [1887] WN 59?"
+        },
+        {
+          "page": "2-39",
+          "number": 2,
+          "text": "An administrator appointed by the Surrogate Court with the usual application and letters of administration has full powers and can fully represent an estate in a lawsuit: Weiler (Teichroeb Est. ) v. Maclennan 2001 ABCA 253, 293 AR 186."
+        },
+        {
+          "page": "2-40",
+          "number": 1,
+          "text": "Champagne v. Sidorsky 2012 ABQB 522, 548 AR 10."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          1909,
+          1958
+        ],
+        "book_pages": [
+          "2-39",
+          "2-40"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "wording to read with care: 'an ordinary representative action pursuant to Rr.2.13-2.15'. Representative actions are rule 2.6; rules 2.13-2.15 appoint litigation representatives. Probably means an ordinary litigation representative. Left as printed. 5th pass: the same passage says 'R.2.15 pertains to situations where there is no personal representative' - official 2.15(1) covers any individual or estate required to have a litigation representative under 2.11 who has none (minors, missing persons, adults lacking capacity, represented adults, and estates without a grant); 'no personal representative' fits only the estate case (2.11(e))."
+    },
+    "BOOK_B": {
+      "title": "Court-appointed litigation representatives in limited cases",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_019",
+        "part2_rule_2_16_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_020"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "1916f2fcb4154fbd8baa39691bb22fbcd7c037fb1d6274152d1c397b0a5150e3",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Court-appointed litigation representatives in limited cases",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "da8df8e4a9202e04cf05694355e5858ee702aa88d0b1b20f1b1beb5bca505f3e",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "cut off in (2). Not usable. Book C has nothing else for 2.16.",
+      "division_heading_flag": "wrong in Book C: rule 2.16 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.5304,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.16",
+      "title_official": "Court-appointed litigation representatives in limited cases"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "815e02d12345a51b5b447068ca69c636d193e522c7207e812c6c9c332e23c85b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            1909,
+            1958
+          ],
+          "book_pages": [
+            "2-39",
+            "2-40"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "1916f2fcb4154fbd8baa39691bb22fbcd7c037fb1d6274152d1c397b0a5150e3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "da8df8e4a9202e04cf05694355e5858ee702aa88d0b1b20f1b1beb5bca505f3e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "a2f1d3b9b95e3a5d2b5e90db5c785a38590101ec43ac5f7b2524b941de211bf5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            42,
+            43
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c640545ed7a8fadbb89989cf03ac764a248f288b7cb744155ecf3194a3d80f0a"
+  },
+  "information_notes": [],
+  "see_also": [
+    "8th pass: BOOK_A's related-provision label '3.36(2) (noting litigation representative in default)' (under 2.11, 2.12, 2.16 and 2.19) is loose - official 3.36(2) says a judgment in default of defence must not be entered, without the Court's permission, against a person represented by a litigation representative; noting in default (3.36(1)(b)) is not restricted. Read the official text.",
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.3.74 notes (p.3-243) refer to 'Rr.2.11 to 2.16'.",
+    "Rule 2.6 (representative actions): BOOK_A 2.6 related provisions list 2.16.",
+    "Rule 2.12(1)(c); rule 2.18 (its text applies to actions described in 2.16); rule 2.19 (BOOK_A related provisions)."
+  ],
+  "dedupe_log": [
+    "2.16 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.16 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.16 BOOK_C: rule text dropped (manual review)"
+  ]
+}

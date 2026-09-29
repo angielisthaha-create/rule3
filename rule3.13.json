@@ -1,0 +1,1435 @@
+
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0-revised",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T23:55:00Z",
+      "source_manifests": [
+        "page_0024.rtf",
+        "page_0032.rtf",
+        "page_0029.rtf",
+        "page_0025.rtf",
+        "page_0027.rtf",
+        "page_0026.rtf",
+        "page_0031.rtf",
+        "page_0030.rtf",
+        "page_0028.rtf",
+        "05110.rtf",
+        "05111.rtf",
+        "05114.rtf",
+        "05115.rtf",
+        "05112.rtf",
+        "05113.rtf",
+        "05116.rtf",
+        "05117.rtf",
+        "05118.rtf"
+      ],
+      "node_count": 21,
+      "relationship_count": 22,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Thomson v. Thomson, 2024 ABCA 293",
+          "Venini v. Venini, 2023 ABKB 524",
+          "Tole v. Lucki, 2017 ABCA 79",
+          "Tartal v. Human Rts. Comm'n, 2023 ABKB 381",
+          "Thompson v. Procrane, 2016 ABCA 71",
+          "Baralot Int. Corp. v. Rundle Dev. Co-op., 2008 ABCA 103",
+          "Jacobson v. Newell (Cty.), 2021 ABQB 505",
+          "Singh v. Kaler, 2017 ABCA 275",
+          "Newell (Cty.) v. Dola, 2003 ABCA 371",
+          "R.O.M. Construction Ltd. v. Heeley (1982), 20 Alta. L.R. (2d) 200 (Q.B.)",
+          "Fech v. Lewington, 2022 ABCA 154",
+          "Hoda v. Hoda, 2021 ABCA 122",
+          "Re Quartz Hill, etc. Co.; ex parte Young (1882), 21 Ch. D. 642 (C.A.)",
+          "Colortech Painting and Decorating Ltd. v. Toh, 2000 ABQB 814",
+          "Karmali v. Donorworx, 2015 ABQB 105",
+          "Alberta Treasury Branches v. Ghermezian (1999), 241 A.R. 107 (Q.B.)",
+          "Re Sultan Mgmt. Grp., 2023 ABCA 110"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3"
+        ],
+        "manifest_references": [
+          "page_0024.rtf",
+          "page_0032.rtf",
+          "page_0029.rtf",
+          "page_0025.rtf",
+          "page_0027.rtf",
+          "page_0026.rtf",
+          "page_0031.rtf",
+          "page_0030.rtf",
+          "page_0028.rtf",
+          "05110.rtf",
+          "05111.rtf",
+          "05114.rtf",
+          "05115.rtf",
+          "05112.rtf",
+          "05113.rtf",
+          "05116.rtf",
+          "05117.rtf",
+          "05118.rtf"
+        ]
+      },
+      "tactical_play_count": 3,
+      "countermeasure_count": 2
+    },
+    "nodes": [
+      {
+        "node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: The 'Almost Absolute' Right to Cross-Examine",
+        "description": "A party has a near-absolute right under the Rules to cross-examine a person on an affidavit they have filed. This right is fundamental to testing evidence and should only be denied in unusual circumstances.",
+        "source_sentence_ids": [
+          "05117.rtf#s1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Such an examination, given as of right in the Rules, should be denied only in unusual circumstances.",
+              "source_reference": "05117.rtf#R.O.M.Construction-quote"
+            },
+            {
+              "text": "a party “‘has an almost absolute right to cross-examine on an affidavit, at to get an adjournment for that if he or she seeks it properly...’",
+              "source_reference": "05117.rtf#Fech-v-Lewington-quote"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.13(1)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This pillar is the primary weapon for challenging affidavit evidence. It prevents an opponent from putting one-sided, untested evidence on the record. Invoking this right forces the affiant to defend their statements under oath, exposing weaknesses, inconsistencies, or lack of knowledge.",
+          "litigation_implications": [
+            "Offensive: Immediately serve an appointment for questioning on any adverse affidavit containing contentious facts to disrupt the opponent's narrative and gather ammunition for argument.",
+            "Defensive: When preparing an affiant, ensure they are thoroughly familiar with their evidence and anticipate lines of cross-examination to withstand scrutiny.",
+            "Procedural: Vigorously oppose any attempt by an adversary to deny or limit this right, citing the high threshold of 'unusual circumstances'."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "R.O.M. Construction Ltd. v. Heeley (1982), 20 Alta. L.R. (2d) 200 (Q.B.)",
+              "proposition": "Establishes that the right to cross-examine on an affidavit is given 'as of right' in the Rules and should be denied 'only in unusual circumstances'."
+            },
+            {
+              "case_name": "Fech v. Lewington, 2022 ABCA 154",
+              "proposition": "Reaffirms the principle as an 'almost absolute right to cross-examine on an affidavit'."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-13-withdrawal-to-avoid-cross-examination",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Cannot Withdraw Affidavit to Evade Cross-Examination",
+        "description": "A party who has filed and served an affidavit cannot unilaterally withdraw it to prevent the opposing party from cross-examining the affiant. Once tendered as a witness, the affiant must submit to questioning.",
+        "source_sentence_ids": [
+          "05117.rtf#s2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The principle of Clarke v. Law is quite intelligible—a party who has given notice to read an affidavit is not entitled to withdraw it in order to avoid cross-examination.",
+              "source_reference": "05117.rtf#ReQuartzHill-quote"
+            },
+            {
+              "text": "I cannot imagine anything more calculated to bring the course of justice into contempt than to allow a person to file evidence which if there is no cross-examination makes in his favour, but which he knows will break down on cross-examination, and then to withdraw it if he finds that cross-examination is threatened.",
+              "source_reference": "05117.rtf#ReQuartzHill-BrettLJ-quote"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.13"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This trap prevents a 'heads I win, tails you lose' strategy where a party files a potentially weak or misleading affidavit, hoping it won't be challenged, and then tries to retract it if a cross-examination is scheduled. It locks the party into their evidence.",
+          "litigation_implications": [
+            "Offensive: If an opponent attempts to withdraw an affidavit after you've scheduled a cross-examination, bring an application to compel the affiant's attendance, citing this principle.",
+            "Defensive: Advise clients that once an affidavit is filed, they are committed to it and must be prepared for cross-examination. There is no pulling back."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Re Quartz Hill, etc. Co.; ex parte Young (1882), 21 Ch. D. 642 (C.A.)",
+              "proposition": "A party who has given notice to read an affidavit is not entitled to withdraw it in order to avoid cross-examination."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-13-refusal-to-be-examined-consequence",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Refusal to be Cross-Examined Nullifies Affidavit",
+        "description": "If an affiant refuses to attend or submit to cross-examination, their affidavit is rendered inadmissible or will be given no weight by the court. This provides a powerful enforcement mechanism for the right to cross-examine.",
+        "source_sentence_ids": [
+          "05117.rtf#s3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The general rule is that if the affiant refuses to be cross-examined, the affidavit is not admitted or given no weight: Reference re: Firearms Act (Can), 1998 ABCA 306, 86 Alta LR (3d) 59; R. v Darrach, 2000 SCC 46 at paras. 61-62, [2000] 2 SCR 443.",
+              "source_reference": "05117.rtf#Hoda-v-Hoda-quote"
+            },
+            {
+              "text": "No one is allowed to put one-sided, unchallenged evidence on the record.",
+              "source_reference": "05117.rtf#Hoda-v-Hoda-quote-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.13"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This is the ultimate sanction for non-compliance with the right to cross-examine. It transforms the opponent's refusal from a procedural delay into a complete nullification of their evidence, effectively striking it from the record.",
+          "litigation_implications": [
+            "Offensive: If an affiant fails to attend a scheduled cross-examination, immediately inform the court and argue that their affidavit must be struck from the record and given zero weight.",
+            "Defensive: Emphasize to your affiant the critical importance of attending cross-examination, as failure to do so will destroy the value of their evidence and damage the case."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hoda v. Hoda, 2021 ABCA 122",
+              "proposition": "If an affiant refuses to be cross-examined, their affidavit is not admitted or is given no weight."
+            },
+            {
+              "case_name": "Reference re Firearms Act (Canada) (1998), 228 A.R. 35 (C.A.)",
+              "proposition": "Inability to cross-examine is a ground to exclude evidence."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-13-scope-of-questioning",
+        "node_type": "ControlMechanism",
+        "label": "Control: Defining the Scope of Cross-Examination",
+        "description": "The scope of cross-examination on an affidavit is limited to the issues in the pending motion and the affiant's credibility. It is not a full examination for discovery and should not be used as a gateway into that broader process.",
+        "source_sentence_ids": [
+          "05117.rtf#s4"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "it is well settled that cross-examination on an Affidavit is limited to the issues in the pending motion for which the Affidavit is tendered and credibility.",
+              "source_reference": "05117.rtf#Colortech-quote-1"
+            },
+            {
+              "text": "cross-examination on an Affidavit should not be utilized as a gate into the field of examination for discovery;",
+              "source_reference": "05117.rtf#Colortech-quote-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.13"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This mechanism allows a party to control the questioning of their affiant, preventing the opposing counsel from engaging in a fishing expedition on irrelevant matters. It keeps the process focused and efficient, protecting the witness from abusive or overly broad questioning.",
+          "litigation_implications": [
+            "Defensive: Object to questions during a cross-examination that go beyond the scope of the motion or credibility, stating they are improper attempts at discovery.",
+            "Offensive: Frame questions to clearly link to a specific statement in the affidavit or a core issue in the motion to preemptively defeat any objections about scope."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Colortech Painting and Decorating Ltd. v. Toh, 2000 ABQB 814",
+              "proposition": "Summarizes the principles governing the scope of cross-examination on an affidavit, limiting it to issues on the motion and credibility, and distinguishing it from a broader examination for discovery."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-11-late-filing-penalty-box",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: The Late-Filing Penalty Box",
+        "description": "A party who fails to serve their affidavit evidence within a 'reasonable time' before a hearing risks severe penalties under Rule 3.11(3), including the court refusing to consider the evidence or making an adverse costs award.",
+        "source_sentence_ids": [
+          "05113.rtf#r3-11-3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If either the respondent or originating applicant does not give the other reasonable notice under this rule, and an adjournment is not granted, (a) the party who did not give reasonable notice may not rely on the affidavit or other evidence unless the Court otherwise permits, and (b) the Court may make a costs award against the party who did not give reasonable notice.",
+              "source_reference": "05113.rtf#r3-11-3"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.11(3)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This rule is a powerful weapon against 'litigation by ambush'. It prevents parties from dropping significant new evidence on their opponent at the last minute, thereby denying them a fair opportunity to respond or prepare.",
+          "litigation_implications": [
+            "Offensive (as recipient of late evidence): Vigorously object to the late-filed evidence. Argue prejudice and ask the court to either strike the evidence under 3.11(3)(a) or grant an adjournment with costs against the filing party under 3.11(3)(b).",
+            "Defensive (as late filer): If forced to file late, proactively notify opposing counsel, explain the reason for the delay, and consent to an adjournment and/or costs to mitigate the court's response and avoid having the evidence struck.",
+            "Offensive (as late filer): A party can strategically file a reply affidavit late to create pressure, but this is a high-risk tactic that can backfire with costs or exclusion of the evidence."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Karmali v. Donorworx, 2015 ABQB 105",
+              "proposition": "Illustrates a court dealing with a late-filed affidavit by accepting it but addressing the lateness through a costs award."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-11-applicant-response-limitation",
+        "node_type": "ControlMechanism",
+        "label": "Control: Limiting Applicant's Response to Pure Reply",
+        "description": "Rule 3.11(2)(b) strictly limits the originating applicant's final affidavit to replying to the respondent's evidence. It cannot be used to introduce new arguments or evidence that should have been in the initial application.",
+        "source_sentence_ids": [
+          "05113.rtf#r3-11-2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The originating applicant may respond by affidavit or other evidence to the respondent’s affidavit or other evidence and must ... (b) limit the response to replying to the respondent’s affidavit or other evidence.",
+              "source_reference": "05113.rtf#r3-11-2-b"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.11(2)(b)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This mechanism enforces procedural discipline. It prevents the applicant from getting the 'last word' with entirely new material, ensuring the evidentiary record is developed in a structured, fair sequence and doesn't endlessly expand.",
+          "litigation_implications": [
+            "Defensive (as Respondent): Scrutinize the applicant's reply affidavit. If it contains new arguments or evidence not directly responsive to your materials, apply to strike out the offending portions.",
+            "Offensive (as Applicant): Carefully craft the reply affidavit to ensure every point directly addresses a corresponding point in the respondent's evidence to insulate it from a strike application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-12-convert-to-full-action",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Convert Originating Application to Full Action",
+        "description": "Rule 3.12 provides a mechanism for the court to convert a summary action started by originating application into a full action governed by the rules for a statement of claim, including pleadings, discovery, and trial. This is used when summary proceedings are inadequate due to factual conflicts or complexity.",
+        "source_sentence_ids": [
+          "05114.rtf#r3-12"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "At any time in an action started by originating application the Court may, on application, direct that all or any rules applying to an action started by statement of claim apply to the action started by originating application.",
+              "source_reference": "05114.rtf#r3-12"
+            },
+            {
+              "text": "Legislation expressly letting a municipality have a summary hearing for an injunction does not mandate that procedure, and if the evidence con\ufb02icts and there are credibility issues, it is appropriate to hold a hearing with evidence.",
+              "source_reference": "page_0030.rtf#Newell-commentary"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.12"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This framework is a critical strategic tool. For a respondent facing a weak but factually complex claim, converting it to a full action imposes significant cost and procedural burdens on the applicant and allows for discovery to expose flaws. For an applicant with a strong but contested case, it provides the mechanism to get to a full trial with oral evidence.",
+          "litigation_implications": [
+            "Offensive (Respondent): If an originating application involves significant factual disputes, bring an application under R. 3.12 to convert it, arguing that credibility cannot be assessed on affidavits alone and that discovery is necessary.",
+            "Defensive (Applicant): To resist conversion, argue that the factual issues are not genuinely in dispute or can be resolved on the existing record, and that conversion would cause unnecessary delay and expense."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Newell (Cty.) v. Dola, 2003 ABCA 371",
+              "proposition": "Where evidence conflicts and credibility is at issue in a summary proceeding, it is appropriate to convert the matter for a hearing with live evidence (i.e., a trial)."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-12-conversion-is-not-new-action",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Conversion Does Not Start a New Action (Limitations Shield)",
+        "description": "An order under Rule 3.12 converting an originating application into a statement of claim action does not commence a new proceeding. The effective date of the action remains the original filing date of the originating application, shielding the claim from limitation period expiry.",
+        "source_sentence_ids": [
+          "05115.rtf#s1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The February 1, 2013 pleading did not start a new proceeding, i.e., it continued the originating notice filed December 19, 2005, and defined the issue to be pleaded and decided.",
+              "source_reference": "05115.rtf#Singh-v-Kaler-quote-1"
+            },
+            {
+              "text": "The effective date of the February 1, 2013 Statement of the Claim is December 19, 2005 and it is self-evident that this was in time for the purposes of the Limitations Act.",
+              "source_reference": "05115.rtf#Singh-v-Kaler-quote-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.12"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This is a critical defensive shield for an applicant. It ensures that a respondent cannot use a successful R. 3.12 conversion application as a backdoor tactic to kill a claim on a limitations basis. The original filing date is preserved, neutralizing the limitations threat.",
+          "litigation_implications": [
+            "Defensive (Applicant): If a respondent argues that conversion will render the claim statute-barred, cite *Singh v. Kaler* to confirm that the original filing date is preserved.",
+            "Offensive (Respondent): Recognize that a conversion application is not a viable strategy for a limitations defence. Focus arguments on the necessity of a trial for factual determination, not on limitations."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Singh v. Kaler, 2017 ABCA 275",
+              "proposition": "Converting an originating application to an action with pleadings under Rule 3.12 does not start a new action; the effective date for limitation purposes remains the date the originating application was filed."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-9-file-then-serve-sequence",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Fatal Sequence - File First, Then Serve (Judicial Review)",
+        "description": "For judicial review applications, the process is sequential and mandatory: the originating application must be filed with the court first, and then the filed copy must be served. Serving an unfiled 'courtesy copy' is not valid service and can be fatal to the action if the limitation period expires.",
+        "source_sentence_ids": [
+          "page_0026.rtf#s1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Filing and service of an Originating Notice for Judicial Review is sequential: \ufb01le, then serve. And all that must occur within the 6-month limitation period.",
+              "source_reference": "page_0026.rtf#Tartal-commentary-1"
+            },
+            {
+              "text": "Giving an un\ufb01led version of the application, or a courtesy copy, is not service. And Rr. 1.5(5) and 3.15(2) expressly bar extending the limitation period.",
+              "source_reference": "page_0026.rtf#Tartal-commentary-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.9, r. 3.15"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This is a lethal procedural trap for unwary applicants in judicial review. A defendant can remain silent upon receiving an unfiled copy, wait for the limitation period to expire, and then bring a motion to strike the claim for invalid service, effectively killing the action with no recourse for the applicant.",
+          "litigation_implications": [
+            "Offensive (Respondent): If you receive an unfiled originating application for judicial review, do not alert the applicant to their error. Wait for the limitation period to pass, then bring an application to strike the claim as a nullity.",
+            "Defensive (Applicant): Always file the originating application for judicial review with the court clerk before serving it on any party. Obtain the court-stamped copy and serve that version to ensure service is valid."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Tartal v. Human Rts. Comm'n, 2023 ABKB 381",
+              "proposition": "For judicial review, filing and service are sequential (file first, then serve), and serving an unfiled copy is not valid service. The limitation period cannot be extended to cure this defect."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-14-waiver-by-silence",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Waiver by Silence - Object to Short Service Immediately",
+        "description": "A respondent who objects to being served with an application on short notice must raise that objection and request an adjournment at the hearing. It is too late to raise the objection after the judge has already heard and decided the motion.",
+        "source_sentence_ids": [
+          "page_0032.rtf#s1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A respondent objecting to the short time for an (originating) application has a duty to tell the judge of its objection, and that it wants an adjournment to cross-examine on an af\ufb01davit. It is too late to wait until the judge has decided the motion.",
+              "source_reference": "page_0032.rtf#Baralot-commentary"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.14"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This trap prevents a respondent from 'having it both ways'—arguing the merits of an application in the hope of winning, and then, upon losing, trying to get a second chance by raising a procedural complaint about timing. The objection must be made upfront, forcing a choice between proceeding on the merits or seeking an adjournment.",
+          "litigation_implications": [
+            "Offensive (Applicant): If a respondent argues the merits of your application without first objecting to short service, and then loses, argue that they have waived their right to object to the notice period.",
+            "Defensive (Respondent): If served on short notice, your first submission to the judge must be the preliminary objection to the timing and a request for an adjournment to prepare a response or cross-examine. Do not engage with the merits until the procedural issue is resolved."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Baralot Int. Corp. v. Rundle Dev. Co-op., 2008 ABCA 103",
+              "proposition": "A respondent must object to short service and request an adjournment before the motion is decided; it is too late to do so afterwards."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-14-unsworn-brief-materials-are-not-evidence",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Unsworn Materials in Briefs are Not Evidence",
+        "description": "Materials included in a legal brief or book of authorities that are not sworn to in an affidavit are not evidence and cannot be relied upon by the court. This is a trap for parties who attempt to introduce factual material through argument rather than proper evidence.",
+        "source_sentence_ids": [
+          "page_0032.rtf#s2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Materials in a legal brief, not sworn to by any af\ufb01davit, are not evidence. Nor should the book of authorities contain materials not in the record nor veri\ufb01ed by af\ufb01davit.",
+              "source_reference": "page_0032.rtf#Jacobson-commentary"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.14"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This rule enforces the fundamental distinction between argument and evidence. It provides a clear basis to object to and strike any factual assertions made by an opponent that are not properly grounded in a sworn affidavit, preventing them from building a case on unverified claims.",
+          "litigation_implications": [
+            "Offensive: Scrutinize the opponent's brief and book of authorities. If they contain factual documents or assertions not supported by an affidavit, object and ask the court to disregard them as improper evidence.",
+            "Defensive: Ensure every factual document or assertion you intend to rely on is exhibited to a properly sworn affidavit. Do not place evidence in your written argument."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Jacobson v. Newell (Cty.), 2021 ABQB 505",
+              "proposition": "Materials in a legal brief or book of authorities that are not verified by affidavit do not constitute evidence."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-8-relief-limited-by-pleading",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Relief is Confined to What is Pleaded",
+        "description": "A party cannot obtain a remedy or relief that was not specifically sought in their originating application. The pleading strictly defines the scope of the potential outcome.",
+        "source_sentence_ids": [
+          "page_0025.rtf#s1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Ordinarily a party cannot get relief or go into issues, which are not in his originating pleading, and so an Originating Application seeking only declaratory relief (and costs) will not permit them.",
+              "source_reference": "page_0025.rtf#Venini-commentary"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.8(1)(c)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This trap holds applicants to their initial claims, preventing them from changing their objectives mid-hearing. It allows a respondent to prepare a defence focused solely on the requested relief, without having to anticipate unpleaded requests.",
+          "litigation_implications": [
+            "Defensive (Respondent): If an applicant begins arguing for a remedy not listed in their originating application, object immediately on the grounds that the court has no jurisdiction to grant unpleaded relief.",
+            "Offensive (Applicant): Carefully draft the 'Remedy Sought' section of the originating application to include all potential remedies, including alternative forms of relief, to avoid being procedurally trapped."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Venini v. Venini, 2023 ABKB 524",
+              "proposition": "A party is generally not entitled to relief that is not claimed in their originating pleading."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-10-discovery-exclusion-default",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Default Exclusion of Discovery for Originating Applications",
+        "description": "Rule 3.10 establishes that, by default, the comprehensive litigation management and discovery rules in Parts 4 and 5 do not apply to actions started by originating application. This preserves the summary nature of the proceeding.",
+        "source_sentence_ids": [
+          "05112.rtf#r3-10-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Subject to subrule (2), Part 4 [Managing Litigation] and Part 5 [Disclosure of Information] do not apply to an action started by originating application unless another rule otherwise provides, the parties otherwise agree or the Court otherwise orders.",
+              "source_reference": "05112.rtf#r3-10-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.10(1)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This pillar is the foundation of the summary process for originating applications. It ensures speed and efficiency by default, forcing a party who wants full discovery to justify why the summary process is insufficient.",
+          "litigation_implications": [
+            "Defensive (Applicant): Rely on this rule to resist attempts by the respondent to engage in fishing expeditions or delay tactics through discovery requests. Maintain that the summary procedure is appropriate.",
+            "Offensive (Respondent): To overcome this default, you must bring an application under R. 3.12 or 3.10, demonstrating that the complexity or factual disputes in the case necessitate the application of Part 4 or 5 rules."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-13-transcript-filing-lapse",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Mandatory Filing of Cross-Examination Transcript",
+        "description": "Under Rule 3.13(5), the party who conducts a cross-examination on an affidavit is required to file the transcript with the court. Failure to do so is a procedural breach.",
+        "source_sentence_ids": [
+          "05116.rtf#r3-13-5"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The questioning party must file the transcript of the questioning.",
+              "source_reference": "05116.rtf#r3-13-5"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.13(5)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This rule ensures a complete record for the court. Strategically, it creates a trap for the questioning party. If the cross-examination goes poorly and elicits answers that are unhelpful or damaging to their case, they are still obligated to file the transcript, putting that adverse evidence on the record for the judge and the opposing party to use.",
+          "litigation_implications": [
+            "Offensive (Party whose witness was examined): If the questioning party fails to file a transcript that contains favorable admissions, demand that they comply with R. 3.13(5) or file it yourself to ensure the judge sees the evidence.",
+            "Defensive (Questioning Party): Be aware that you cannot 'bury' an unfavorable transcript. You must file it. This reality should inform the decision of whether to cross-examine at all if the potential for backfire is high."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-8-amendment-test",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Test for Amending Originating Application",
+        "description": "The test for amending pleadings applies equally to originating applications. Amendments are generally allowed, regardless of carelessness or delay, unless they cause non-compensable prejudice, are hopeless, add a time-barred claim, or are made in bad faith.",
+        "source_sentence_ids": [
+          "05110.rtf#s1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Assuming some modest amount of evidence is provided in support, any pleading may be amended, no matter how careless or late the party seeking the amendment, subject to four major exceptions: (a) The amendment would cause serious prejudice to the opposing party, not compensable in costs; (b) The amendment requested is hopeless; (c) Unless permitted by statute, the amendment seeks to add a new party or new cause of action after the expiry of a limitation period; or (d) There is an element of bad faith associated with the failure to plead the amendment in the first instance.",
+              "source_reference": "05110.rtf#Thomson-v-Thomson-quote"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.8"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This pillar establishes a liberal and permissive framework for amendments, prioritizing substance over technical perfection. It allows parties to refine their case as it develops, while providing clear grounds for opposing amendments that are genuinely prejudicial or abusive.",
+          "litigation_implications": [
+            "Offensive (Seeking Amendment): Frame the amendment as necessary to determine the real issues in dispute and argue that any prejudice to the other side can be compensated with costs or an adjournment.",
+            "Defensive (Opposing Amendment): To block an amendment, focus arguments on one of the four exceptions, particularly non-compensable prejudice (e.g., loss of a key witness) or the hopelessness of the proposed new claim."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Thomson v. Thomson, 2024 ABCA 293",
+              "proposition": "Articulates the four-part test for amending pleadings and confirms its application to originating applications."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-9-curable-defect-for-non-jr",
+        "node_type": "ControlMechanism",
+        "label": "Control: Curable Defect for Late Service (Non-Judicial Review)",
+        "description": "For originating applications that are not for judicial review, hearing an application that was served late (i.e., with less than 10 days' notice) is not a nullity. The defect is considered curable if the opposing party is not prejudiced.",
+        "source_sentence_ids": [
+          "page_0027.rtf#s1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Hearing an originating application originally returnable less than 10 days later, but deliberately adjourned and actually held outside the 10 days, is not a nullity, and if there is a defect it is curable if there is no prejudice.",
+              "source_reference": "page_0027.rtf#Thompson-v-Procrane-commentary"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.9"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This mechanism provides the court with flexibility to overlook minor procedural errors when no real harm has been done. It prevents a party from defeating an application on a pure technicality of timing, shifting the focus from rigid compliance to the question of actual prejudice.",
+          "litigation_implications": [
+            "Offensive (Applicant with late service): If challenged on late service, argue that the respondent has suffered no prejudice, especially if they have had ample time to prepare a response or if the hearing was adjourned.",
+            "Defensive (Respondent): To succeed in striking an application for late service, you must demonstrate actual, concrete prejudice resulting from the short notice, not just point to the breach of the rule."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Thompson v. Procrane, 2016 ABCA 71",
+              "proposition": "Late service of an originating application is a curable defect, not a nullity, provided there is no prejudice to the other party."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-7-post-judgment-transfer",
+        "node_type": "ControlMechanism",
+        "label": "Control: Post-Judgment Transfer for Enforcement",
+        "description": "Rule 3.7(1) allows a judgment creditor to request a temporary transfer of the action to a different judicial centre for the specific purpose of enforcing a judgment or order.",
+        "source_sentence_ids": [
+          "page_0024.rtf#r3-7-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "After judgment or an order has been entered in a judicial centre, a judgment creditor, on notice to each of the other parties, may request a temporary transfer of the action to a different judicial centre for purposes of an application to enforce the judgment or order.",
+              "source_reference": "page_0024.rtf#r3-7-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.7(1)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This is a tactical tool for the enforcement phase of litigation. It allows a creditor to 'follow the assets' or the debtor, enabling them to bring enforcement proceedings (like a questioning in aid of execution) in a more convenient or strategic location, rather than being tied to the judicial centre of the main action.",
+          "litigation_implications": [
+            "Offensive (Judgment Creditor): If the debtor or their assets are located in a different judicial centre, use this rule to transfer the file temporarily to that location for more efficient and effective enforcement proceedings.",
+            "Defensive (Judgment Debtor): While difficult to oppose, a debtor could argue against a transfer if it is shown to be for an improper purpose or is genuinely oppressive, though the threshold would be high."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-14-admissible-evidence-menu",
+        "node_type": "ControlMechanism",
+        "label": "Control: The Menu of Admissible Evidence",
+        "description": "Rule 3.14(1) provides an exhaustive list of the types of evidence the Court may consider on an originating application, including affidavits, transcripts, records disclosed in affidavits, and, with permission, oral evidence or evidence from other actions.",
+        "source_sentence_ids": [
+          "05118.rtf#r3-14-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "When making a decision about an originating application, other than an originating application for judicial review, the Court may consider the following evidence only: (a) affidavit evidence... (b) a transcript... (d) an admissible record disclosed in an affidavit... (g) with the Court's permission, oral evidence...",
+              "source_reference": "05118.rtf#r3-14-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.14(1)"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This rule defines the battlefield for an originating application hearing. By strictly enumerating the permissible forms of evidence, it provides the basis for excluding any material that does not fit into one of these categories. It is the foundational rule that gives teeth to objections against improper evidence, such as unsworn materials in a brief.",
+          "litigation_implications": [
+            "Offensive: Use this rule as the basis for an objection to strike any evidence presented by an opponent that does not fall into one of the enumerated categories.",
+            "Defensive: Ensure every piece of evidence you intend to rely on is properly framed to fit within one of the categories in R. 3.14(1), for example, by ensuring a document is properly introduced as an 'admissible record disclosed in an affidavit'."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-13-non-party-affiant-limits",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case: Limits on Questioning Non-Party Affiants",
+        "description": "A non-party who voluntarily swears an affidavit cannot be subjected to the same broad cross-examination as a party. They cannot be required to inform themselves on matters outside their personal knowledge or undertake to produce documents not in their power or possession.",
+        "source_sentence_ids": [
+          "05117.rtf#non-party-affiant-quote"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "While they are subject to cross examination on the material in the affidavit that goes to questioning the truth of the statements in the affidavit or are relevant to the credibility of the deponent, they cannot be required to undertake to provide additional information outside of their personal knowledge.",
+              "source_reference": "05117.rtf#non-party-affiant-quote-1"
+            },
+            {
+              "text": "requiring a non-party affiant to obtain documents that are not within their power or possession, or to undertake to answer questions outside of their personal knowledge, would be unduly oppresive.",
+              "source_reference": "05117.rtf#non-party-affiant-quote-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.13"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This edge case provides a crucial shield for non-party witnesses. It encourages third parties to provide evidence without fear of being dragged into a full-blown discovery process. For the party calling the witness, it's a defensive mechanism to limit the scope of questioning. For the cross-examiner, it's a trap: overreaching can lead to a successful objection and a loss of momentum.",
+          "litigation_implications": [
+            "Defensive (Party with non-party witness): Instruct your witness that they are not required to answer questions outside their personal knowledge and should not give undertakings. Object to any questions that attempt to treat them like a party under discovery.",
+            "Offensive (Cross-examiner): Keep questions tightly focused on the content of the affidavit and the witness's direct knowledge and credibility to avoid objections. Recognize you cannot use this witness for broad discovery."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "CRC-Evans Pipeline International Inc. v. O.J. Pipelines Corp. (1996), 46 Alta. L.R. (3d) 81 (Q.B.)",
+              "proposition": "It is unduly oppressive to require a non-party affiant to answer questions or produce documents that are outside their personal knowledge or control."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-13-statutory-declaration-exhibit-shield",
+        "node_type": "ProceduralTrap",
+        "label": "Edge Case: The Statutory Declaration Exhibit Shield",
+        "description": "A person who makes a statutory declaration that is merely attached as an exhibit to another person's affidavit cannot be cross-examined on it. To trigger the right of cross-examination, the statutory declaration itself must be filed directly in the action.",
+        "source_sentence_ids": [
+          "05117.rtf#stat-dec-quote"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "I find that although ATB is correct in its position that deponents of filed statutory declarations can be examined pursuant to rule 314(1) as if they had sworn an affidavit, the fact remains that Leahy's statutory declaration has not been filed in accordance with the Rules; it has only been marked as an exhibit to an affidavit which has been filed. Accordingly, I find that Leahy is not required to submit to cross-examination on his statutory declaration.",
+              "source_reference": "05117.rtf#stat-dec-quote-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.13"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This is a sophisticated procedural shield. It allows a party to introduce sworn evidence from a key witness while making that witness immune to cross-examination, provided the evidence is laundered through another person's affidavit as an exhibit. This is a high-value tactic for getting sensitive or one-sided evidence onto the record unchallenged, though the court may assign it less weight.",
+          "litigation_implications": [
+            "Offensive: To shield a key witness from cross-examination, have them swear a statutory declaration and then have your primary affiant (e.g., the client or lawyer) attach it as an exhibit to their own affidavit, rather than filing it directly.",
+            "Defensive: If an opponent uses this tactic, argue that the court should give the exhibited statutory declaration little or no weight because you have been denied the right to test its truth through cross-examination."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Alberta Treasury Branches v. Ghermezian (1999), 241 A.R. 107 (Q.B.)",
+              "proposition": "A statutory declaration attached as an exhibit to an affidavit is not considered 'filed' for the purposes of the rule, and therefore its maker is not subject to cross-examination."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-11-curable-clerk-filing-delay",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case: Curable Defect from Clerk's Office Filing Delay",
+        "description": "Where a document is presented for filing on time but is stamped late due to a significant backlog in the Clerk's office, a court can treat the date of presentation as the effective date of filing, thereby curing the defect.",
+        "source_sentence_ids": [
+          "page_0029.rtf#sultan-mgmt-quote"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A supporting af\ufb01davit had been presented for \ufb01ling in the court below by the respondent, but a bad backlog in the Clerk’s of\ufb01ce led to its being stamped and \ufb01led almost two months late. The chambers judge was allowed either to consider date of presentation as the date of \ufb01ling, or to consider the delay a curable, technical defect because of the \ufb01ling backlog...",
+              "source_reference": "page_0029.rtf#sultan-mgmt-quote"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.11"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This is a critical 'saving provision' that protects litigants from being penalized for systemic administrative delays outside their control. It provides a powerful counter-argument to an opponent who tries to strike a document based on a late filing stamp when the document was, in fact, submitted on time.",
+          "litigation_implications": [
+            "Defensive (Party with late stamp): If your document is stamped late due to a known clerk's office backlog, argue that the date of presentation should be considered the filing date and that the delay is a curable, technical defect with no prejudice.",
+            "Offensive (Opponent): To defeat this argument, you must show that the filing party was still somehow at fault (e.g., they submitted it improperly) or that you have suffered actual, incurable prejudice from the delay, which is a high bar."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Re Sultan Mgmt. Grp., 2023 ABCA 110",
+              "proposition": "A court has discretion to treat the date a document is presented to the Clerk's office as the filing date to cure a defect caused by an administrative backlog."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-withdrawal-trap-reinforces-cross-examine-right",
+        "source_node_id": "pt-r3-13-withdrawal-to-avoid-cross-examination",
+        "target_node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "relationship_type": "REINFORCES",
+        "description": "The prohibition on withdrawing an affidavit to avoid questioning reinforces the fundamental right to cross-examine by preventing evasion.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "a party who has given notice to read an affidavit is not entitled to withdraw it in order to avoid cross-examination.",
+              "source_reference": "05117.rtf#ReQuartzHill-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This link shows how a procedural trap acts as an enforcement mechanism for a foundational right. The inability to withdraw an affidavit gives teeth to the right to cross-examine.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-refusal-trap-operationalizes-cross-examine-right",
+        "source_node_id": "pt-r3-13-refusal-to-be-examined-consequence",
+        "target_node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The consequence of having an affidavit struck for refusal to be cross-examined is the ultimate operationalization of the right to test evidence.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The general rule is that if the affiant refuses to be cross-examined, the affidavit is not admitted or given no weight...",
+              "source_reference": "05117.rtf#Hoda-v-Hoda-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship demonstrates the cause-and-effect between a right and its enforcement. The right to cross-examine (the cause) is made effective by the penalty for refusal (the effect).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-scope-control-modifies-cross-examine-right",
+        "source_node_id": "cm-r3-13-scope-of-questioning",
+        "target_node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "relationship_type": "MODIFIES",
+        "description": "The rules governing the scope of questioning modify the otherwise absolute right to cross-examine, limiting it to relevant issues and credibility to prevent abuse.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "cross-examination on an Affidavit is limited to the issues in the pending motion for which the Affidavit is tendered and credibility.",
+              "source_reference": "05117.rtf#Colortech-quote-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This link highlights the balance in the rules. While the right to cross-examine is powerful, it is not infinite. The scope control acts as a check on that power.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-late-filing-penalty-reinforces-response-limitation",
+        "source_node_id": "pt-r3-11-late-filing-penalty-box",
+        "target_node_id": "cm-r3-11-applicant-response-limitation",
+        "relationship_type": "REINFORCES",
+        "description": "The penalty for late filing reinforces the structured, sequential exchange of evidence, which includes the applicant's limited right of reply.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If either the respondent or originating applicant does not give the other reasonable notice under this rule... the party who did not give reasonable notice may not rely on the affidavit or other evidence...",
+              "source_reference": "05113.rtf#r3-11-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship shows how two rules work together to ensure procedural fairness in the exchange of evidence. One rule sets the sequence, the other penalizes breaking it.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-conversion-framework-counters-discovery-exclusion",
+        "source_node_id": "wf-r3-12-convert-to-full-action",
+        "target_node_id": "fp-r3-10-discovery-exclusion-default",
+        "relationship_type": "COUNTERS",
+        "description": "The framework to convert an originating application into a full action is the primary mechanism to counter the default exclusion of discovery.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "At any time in an action started by originating application the Court may, on application, direct that all or any rules applying to an action started by statement of claim apply...",
+              "source_reference": "05114.rtf#r3-12"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This illustrates a core strategic tension in the rules: the default for speed and efficiency versus the exception for complexity and fairness. The conversion framework is the tool used to argue for the exception over the default.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-limitations-shield-reinforces-conversion-framework",
+        "source_node_id": "fp-r3-12-conversion-is-not-new-action",
+        "target_node_id": "wf-r3-12-convert-to-full-action",
+        "relationship_type": "REINFORCES",
+        "description": "The limitations shield, which preserves the original filing date, reinforces the conversion framework by removing a major potential prejudice to the applicant, making it easier for a court to grant a conversion order.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The effective date of the February 1, 2013 Statement of the Claim is December 19, 2005 and it is self-evident that this was in time for the purposes of the Limitations Act.",
+              "source_reference": "05115.rtf#Singh-v-Kaler-quote-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This link shows how one rule makes another more palatable and functional. By de-risking the conversion for the applicant from a limitations perspective, it allows the court to focus solely on whether a trial is necessary on the merits.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-waiver-trap-reinforces-service-rules",
+        "source_node_id": "pt-r3-14-waiver-by-silence",
+        "target_node_id": "pt-r3-9-file-then-serve-sequence",
+        "relationship_type": "REINFORCES",
+        "description": "The 'waiver by silence' trap reinforces all service rules by requiring a party to raise procedural objections immediately, rather than waiting to see if they win on the merits first.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is too late to wait until the judge has decided the motion.",
+              "source_reference": "page_0032.rtf#Baralot-commentary"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship highlights a meta-principle of procedure: objections must be timely. The waiver trap acts as a global enforcement mechanism for procedural rules like service deadlines.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-unsworn-materials-trap-reinforces-evidence-menu",
+        "source_node_id": "pt-r3-14-unsworn-brief-materials-are-not-evidence",
+        "target_node_id": "cm-r3-14-admissible-evidence-menu",
+        "relationship_type": "REINFORCES",
+        "description": "The rule that unsworn materials are not evidence reinforces the entire framework of admissible evidence by preventing parties from circumventing the process through their legal briefs.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Materials in a legal brief, not sworn to by any af\ufb01davit, are not evidence.",
+              "source_reference": "page_0032.rtf#Jacobson-commentary"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This link shows how a prohibitive rule protects the integrity of a procedural system. By invalidating evidence submitted improperly, it forces parties to use the correct channels (affidavits) which are themselves subject to checks and balances (cross-examination).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-pleading-trap-requires-amendment-test",
+        "source_node_id": "pt-r3-8-relief-limited-by-pleading",
+        "target_node_id": "fp-r3-8-amendment-test",
+        "relationship_type": "REQUIRES",
+        "description": "The strict trap that relief is limited by the pleading necessitates the existence of a clear framework for amending that pleading to add or alter the relief sought.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Ordinarily a party cannot get relief or go into issues, which are not in his originating pleading...",
+              "source_reference": "page_0025.rtf#Venini-commentary"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship shows a problem-and-solution pairing within the rules. The rigidity of the first rule creates the need for the flexibility of the second.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-transcript-filing-reinforces-cross-examine-right",
+        "source_node_id": "pt-r3-13-transcript-filing-lapse",
+        "target_node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "relationship_type": "REINFORCES",
+        "description": "The mandatory filing of the transcript ensures that the fruits of the cross-examination become part of the official court record, reinforcing the value and purpose of the right to cross-examine.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The questioning party must file the transcript of the questioning.",
+              "source_reference": "05116.rtf#r3-13-5"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This link connects the act of questioning to its outcome. The right to question is meaningless if the answers cannot be put before the court; the filing requirement closes this loop.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-curable-defect-counters-jr-service-trap",
+        "source_node_id": "cm-r3-9-curable-defect-for-non-jr",
+        "target_node_id": "pt-r3-9-file-then-serve-sequence",
+        "relationship_type": "COUNTERS",
+        "description": "The 'curable defect' principle for regular originating applications stands in stark contrast to and counters the fatal, incurable nature of service defects in judicial review applications.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "if there is a defect it is curable if there is no prejudice.",
+              "source_reference": "page_0027.rtf#Thompson-v-Procrane-commentary"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship highlights a critical distinction in the rules. It shows that the same procedural error (late service) has drastically different consequences depending on the context (JR vs. non-JR), creating a strategic fork in the road.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-cross-examine-right-requires-transcript-filing",
+        "source_node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "target_node_id": "pt-r3-13-transcript-filing-lapse",
+        "relationship_type": "REQUIRES",
+        "description": "To be effective, the right to cross-examine requires the resulting transcript to be filed so it can be used as evidence before the court.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "a person may be questioned under oath as a witness for the purpose of obtaining a transcript of the person’s evidence for use at the hearing of an originating application.",
+              "source_reference": "05116.rtf#r3-13-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This link clarifies the purpose of the procedural step. Filing the transcript is not just administrative; it is the necessary step to transform the oral questioning into usable evidence.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-late-filing-penalty-requires-waiver-trap",
+        "source_node_id": "pt-r3-11-late-filing-penalty-box",
+        "target_node_id": "pt-r3-14-waiver-by-silence",
+        "relationship_type": "REQUIRES",
+        "description": "The effectiveness of the penalty for late filing requires the 'waiver by silence' trap, as a party must object to the late filing in a timely manner to trigger the penalty.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A respondent objecting to the short time for an (originating) application has a duty to tell the judge of its objection...",
+              "source_reference": "page_0032.rtf#Baralot-commentary"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship shows procedural interdependence. The remedy for a breach (late filing) is only available if the non-breaching party follows the correct procedure to claim it (timely objection).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-discovery-exclusion-requires-conversion-framework",
+        "source_node_id": "fp-r3-10-discovery-exclusion-default",
+        "target_node_id": "wf-r3-12-convert-to-full-action",
+        "relationship_type": "REQUIRES",
+        "description": "The default exclusion of discovery necessitates a 'pressure release valve' in the form of the conversion framework, to handle cases that are genuinely unsuitable for summary disposition.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "if the evidence con\ufb02icts and there are credibility issues, it is appropriate to hold a hearing with evidence.",
+              "source_reference": "page_0030.rtf#Newell-commentary"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This highlights the system's design for flexibility. The strict default rule is made workable by the existence of a clear, structured exception.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-amendment-test-counters-pleading-trap",
+        "source_node_id": "fp-r3-8-amendment-test",
+        "target_node_id": "pt-r3-8-relief-limited-by-pleading",
+        "relationship_type": "COUNTERS",
+        "description": "The liberal test for amending pleadings provides a direct countermeasure to the trap of being strictly confined to the relief originally pleaded.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "any pleading may be amended, no matter how careless or late the party seeking the amendment, subject to four major exceptions...",
+              "source_reference": "05110.rtf#Thomson-v-Thomson-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship shows a direct attack-and-defense pairing. If one party invokes the 'limited relief' trap, the other party's response is to bring an application to amend under the liberal test.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-non-party-limits-modify-cross-examine-right",
+        "source_node_id": "cm-r3-13-non-party-affiant-limits",
+        "target_node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "relationship_type": "MODIFIES",
+        "description": "The special limits on questioning non-party affiants modify the 'almost absolute' right to cross-examine, creating a key exception for voluntary, non-party witnesses.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "they cannot be required to undertake to provide additional information outside of their personal knowledge.",
+              "source_reference": "05117.rtf#non-party-affiant-quote-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This link models a crucial exception to a general rule. It highlights that the power of the cross-examination right is not uniform across all types of witnesses.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-stat-dec-shield-counters-cross-examine-right",
+        "source_node_id": "pt-r3-13-statutory-declaration-exhibit-shield",
+        "target_node_id": "fp-r3-13-absolute-right-to-cross-examine",
+        "relationship_type": "COUNTERS",
+        "description": "The 'Exhibit Shield' provides a direct, procedural countermeasure to the right of cross-examination by preventing it from being triggered if a statutory declaration is exhibited rather than filed.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Accordingly, I find that Leahy is not required to submit to cross-examination on his statutory declaration.",
+              "source_reference": "05117.rtf#stat-dec-quote-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship maps a high-level adversarial tactic. It shows how a specific procedural trap can be deployed to completely neutralize a foundational legal right.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-clerk-delay-cure-counters-late-filing-penalty",
+        "source_node_id": "cm-r3-11-curable-clerk-filing-delay",
+        "target_node_id": "pt-r3-11-late-filing-penalty-box",
+        "relationship_type": "COUNTERS",
+        "description": "The ability for a court to cure a late filing caused by a clerk's office backlog serves as a direct countermeasure to an opponent's attempt to invoke the late-filing penalty.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The chambers judge was allowed either to consider date of presentation as the date of \ufb01ling, or to consider the delay a curable, technical defect...",
+              "source_reference": "page_0029.rtf#sultan-mgmt-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This models a classic attack-and-defense scenario. One party attacks with the 'late filing' trap; the other defends with the 'clerk's backlog' cure.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-evidence-menu-requires-unsworn-materials-trap",
+        "source_node_id": "cm-r3-14-admissible-evidence-menu",
+        "target_node_id": "pt-r3-14-unsworn-brief-materials-are-not-evidence",
+        "relationship_type": "IS_REINFORCED_BY",
+        "description": "The strict menu of admissible evidence is reinforced by the trap that excludes unsworn materials in briefs, as this trap closes a potential loophole.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "When making a decision about an originating application... the Court may consider the following evidence only...",
+              "source_reference": "05118.rtf#r3-14-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This shows how a specific prohibition (no unsworn evidence in briefs) upholds a broader principle (the limited menu of evidence).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-post-judgment-transfer-operationalizes-enforcement",
+        "source_node_id": "cm-r3-7-post-judgment-transfer",
+        "target_node_id": "fp-r3-10-discovery-exclusion-default",
+        "relationship_type": "IS_DISTINCT_FROM",
+        "description": "The post-judgment transfer mechanism is a distinct procedural phase focused on enforcement, operating separately from the pre-judgment summary procedures.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "After judgment or an order has been entered... may request a temporary transfer... for purposes of an application to enforce the judgment or order.",
+              "source_reference": "page_0024.rtf#r3-7-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship provides context, showing that while most rules discussed relate to the primary adjudication, Rule 3.7 is a tool for a later, distinct phase of the conflict.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-021-scope-control-is-reinforced-by-non-party-limits",
+        "source_node_id": "cm-r3-13-scope-of-questioning",
+        "target_node_id": "cm-r3-13-non-party-affiant-limits",
+        "relationship_type": "IS_REINFORCED_BY",
+        "description": "The general principle of limiting the scope of cross-examination is further reinforced and specified by the even stricter limits applied to non-party affiants.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "requiring a non-party affiant to... undertake to answer questions outside of their personal knowledge, would be unduly oppresive.",
+              "source_reference": "05117.rtf#non-party-affiant-quote-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This shows a general rule and a specific application of that rule. The non-party limits are a more extreme version of the general scope control.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-022-stat-dec-shield-is-countered-by-weight-argument",
+        "source_node_id": "pt-r3-13-statutory-declaration-exhibit-shield",
+        "target_node_id": "pt-r3-13-refusal-to-be-examined-consequence",
+        "relationship_type": "IS_ANALOGOUS_TO",
+        "description": "The argument against giving weight to a shielded statutory declaration is analogous to the consequence of an affiant refusing cross-examination; in both cases, the inability to test the evidence diminishes its value.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "it is ultimately a matter for the court's discretion and the court may choose to assign little or no weight to the evidence as presented.",
+              "source_reference": "05117.rtf#stat-dec-weight-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This relationship connects two nodes conceptually. While the procedures are different, the strategic counter-argument is the same: untested evidence is unreliable evidence.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-evidence-gatekeeper",
+        "title": "The Evidence Gatekeeper",
+        "objective": "To neutralize an opponent's late-filed affidavit by forcing them into the 'Late-Filing Penalty Box' under Rule 3.11(3).",
+        "prerequisites": [
+          "Opponent serves an affidavit providing less than 'reasonable notice' before the hearing."
+        ],
+        "expected_outcome": "The opponent's late evidence is either struck from the record entirely, or the hearing is adjourned with a costs award against the opponent, disrupting their momentum and penalizing their poor practice.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "pt-r3-14-waiver-by-silence"
+            ],
+            "action": "At the outset of the hearing, before addressing the merits, make a preliminary objection to the court regarding the late service of the opponent's affidavit.",
+            "justification": "A respondent objecting to the short time for an (originating) application has a duty to tell the judge of its objection, and that it wants an adjournment... It is too late to wait until the judge has decided the motion."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-11-late-filing-penalty-box"
+            ],
+            "action": "Argue that the late service constitutes a failure to provide 'reasonable notice' and has caused prejudice by denying a fair opportunity to review the evidence, prepare a response, or cross-examine.",
+            "justification": "If either the respondent or originating applicant does not give the other reasonable notice under this rule, and an adjournment is not granted..."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-11-late-filing-penalty-box"
+            ],
+            "action": "Request the primary remedy: that the court exercise its discretion under Rule 3.11(3)(a) and refuse to allow the opponent to rely on the late-filed evidence.",
+            "justification": "...the party who did not give reasonable notice may not rely on the affidavit or other evidence unless the Court otherwise permits..."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "pt-r3-11-late-filing-penalty-box"
+            ],
+            "action": "In the alternative, if the court is inclined to allow the evidence, request the secondary remedy: an adjournment to properly respond, with a costs award against the opponent under Rule 3.11(3)(b) to compensate for the wasted time and expense.",
+            "justification": "...the Court may make a costs award against the party who did not give reasonable notice."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-convert-and-conquer",
+        "title": "Convert and Conquer",
+        "objective": "As a respondent, to transform an opponent's summary originating application into a full, protracted statement of claim action to leverage discovery and impose costs.",
+        "prerequisites": [
+          "The applicant's originating application relies on affidavit evidence that contains factual conflicts, credibility issues, or complex matters."
+        ],
+        "expected_outcome": "The court orders the action to proceed as if started by statement of claim, forcing the applicant into the more expensive and lengthy processes of pleadings, document production, and examinations for discovery, where the weaknesses in their case can be fully exposed.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "fp-r3-10-discovery-exclusion-default"
+            ],
+            "action": "Acknowledge the default rule that discovery does not apply to originating applications, but state your intention to seek an exception.",
+            "justification": "Part 4 [Managing Litigation] and Part 5 [Disclosure of Information] do not apply to an action started by originating application unless... the Court otherwise orders."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-r3-12-convert-to-full-action"
+            ],
+            "action": "Bring a formal application under Rule 3.12 to have the rules for a statement of claim action apply.",
+            "justification": "At any time in an action started by originating application the Court may, on application, direct that all or any rules applying to an action started by statement of claim apply..."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-r3-12-convert-to-full-action"
+            ],
+            "action": "Argue that conversion is necessary because the conflicting affidavit evidence and central credibility issues cannot be fairly resolved in a summary hearing and require a full trial with oral evidence and discovery.",
+            "justification": "...if the evidence con\ufb02icts and there are credibility issues, it is appropriate to hold a hearing with evidence."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "fp-r3-12-conversion-is-not-new-action"
+            ],
+            "action": "Preemptively address any limitations concerns by acknowledging that the conversion does not start a new action, thereby assuring the court that the applicant will not be unfairly prejudiced on limitations and allowing the court to focus solely on the procedural necessity of a trial.",
+            "justification": "The February 1, 2013 pleading did not start a new proceeding, i.e., it continued the originating notice filed December 19, 2005..."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-exhibit-shield-gambit",
+        "title": "The Exhibit Shield Gambit",
+        "objective": "To place sworn evidence from a crucial but vulnerable witness onto the record while shielding them from cross-examination.",
+        "prerequisites": [
+          "You have a witness whose evidence is helpful but who may not perform well under cross-examination.",
+          "You have another, more robust affiant available to file the primary affidavit."
+        ],
+        "expected_outcome": "The witness's sworn statutory declaration is entered into evidence as an exhibit, and the opposing party's attempt to cross-examine them is denied by the court, leaving the evidence on the record and untested.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [],
+            "action": "Have the vulnerable witness swear a Statutory Declaration containing their key evidence. Do NOT file this document directly with the court.",
+            "justification": "This play hinges on the distinction between a 'filed' document and an 'exhibited' document."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-13-statutory-declaration-exhibit-shield"
+            ],
+            "action": "Draft an affidavit for your primary, robust affiant. In that affidavit, refer to the Statutory Declaration and attach it as an exhibit.",
+            "justification": "...the fact remains that Leahy's statutory declaration has not been filed in accordance with the Rules; it has only been marked as an exhibit to an affidavit which has been filed."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-13-statutory-declaration-exhibit-shield"
+            ],
+            "action": "When the opposing party serves an appointment to question the declarant of the exhibit, bring an application to set it aside, arguing they are not an affiant whose evidence was 'filed' in the action.",
+            "justification": "Accordingly, I find that Leahy is not required to submit to cross-examination on his statutory declaration."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [],
+            "action": "At the main hearing, concede that the court may assign less weight to the untested declaration, but maintain that it is still part of the evidentiary record for consideration.",
+            "justification": "...it is ultimately a matter for the court's discretion and the court may choose to assign little or no weight to the evidence as presented."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-the-cross-examination-showdown",
+        "title": "The Cross-Examination Showdown",
+        "scenario": "An applicant has filed a key affidavit with damaging, but questionable, assertions. The respondent needs to neutralize this evidence before the hearing.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "action_description": "Respondent serves an appointment for questioning on the applicant's affiant, invoking their near-absolute right to cross-examine.",
+            "node_refs": [
+              "fp-r3-13-absolute-right-to-cross-examine"
+            ]
+          },
+          {
+            "move_number": 2,
+            "action_description": "During the cross-examination, the respondent's counsel meticulously questions the affiant, exposing inconsistencies and a lack of personal knowledge for key assertions.",
+            "node_refs": [
+              "cm-r3-13-scope-of-questioning"
+            ]
+          },
+          {
+            "move_number": 3,
+            "action_description": "The respondent complies with their obligation to file the transcript, ensuring the damaging admissions are now part of the court record.",
+            "node_refs": [
+              "pt-r3-13-transcript-filing-lapse"
+            ]
+          },
+          {
+            "move_number": 4,
+            "action_description": "At the hearing, the respondent uses the transcript to argue that the affiant's evidence is unreliable and should be given little to no weight.",
+            "node_refs": []
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "action_description": "Anticipating the attack, the applicant's counsel thoroughly prepares their affiant, reviewing the affidavit line-by-line and simulating potential cross-examination questions.",
+            "node_refs": []
+          },
+          {
+            "move_number": 2,
+            "action_description": "During the cross-examination, the applicant's counsel objects to any questions that stray beyond the proper scope, preventing a fishing expedition.",
+            "node_refs": [
+              "cm-r3-13-scope-of-questioning"
+            ]
+          },
+          {
+            "move_number": 3,
+            "action_description": "If the affiant refuses to answer a proper question or attend, the applicant faces the severe risk of their evidence being struck entirely.",
+            "node_refs": [
+              "pt-r3-13-refusal-to-be-examined-consequence"
+            ]
+          },
+          {
+            "move_number": 4,
+            "action_description": "The applicant attempts to withdraw the affidavit to avoid further damage, but the respondent objects, trapping them.",
+            "node_refs": [
+              "pt-r3-13-withdrawal-to-avoid-cross-examination"
+            ]
+          }
+        ],
+        "decision_points": [
+          "For the Applicant: Is our affiant credible enough to withstand cross-examination, or should we rely on less contentious evidence? The risk of the affidavit being destroyed on cross-examination is high.",
+          "For the Respondent: Is the potential gain from cross-examination worth the cost and time? Will it truly damage the affiant's credibility, or just confirm their story? Is there a risk of the affiant performing better than expected and strengthening their own case?"
+        ],
+        "expected_outcome": "A successful attack will neutralize the opponent's key evidence, leaving a significant hole in their case for the main hearing. A successful defense will see the affidavit evidence survive scrutiny, reinforcing the applicant's position. The outcome hinges on the preparation and credibility of the affiant."
+      },
+      {
+        "simulation_id": "cms-002-defeating-the-late-file-excuse",
+        "title": "Defeating the Late-File Excuse",
+        "scenario": "A respondent files their responding affidavit two days before the hearing, well outside the 'reasonable time' requirement. When you object, they blame a well-known backlog at the Clerk's office for the late filing stamp.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "action_description": "At the hearing, you make a preliminary objection based on late service, invoking the 'Late-Filing Penalty Box' and asking the court to strike the evidence.",
+            "node_refs": [
+              "pt-r3-11-late-filing-penalty-box",
+              "pt-r3-14-waiver-by-silence"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "action_description": "The respondent counters, arguing that they presented the document for filing on time and that the late stamp is a curable defect due to the Clerk's office backlog.",
+            "node_refs": [
+              "cm-r3-11-curable-clerk-filing-delay"
+            ]
+          }
+        ],
+        "decision_points": [
+          "Your Counter-Attack: The key is to separate the 'filing' date from the 'service' date. Concede that the court has discretion to deem the *filing* date as the date of presentation. However, pivot immediately to the respondent's separate failure to *serve* you reasonably. Argue that even if it was 'filed' on time, they still waited until the last minute to serve the document on you, which is an independent breach of Rule 3.11(1). The clerk's backlog is irrelevant to when they chose to email you the documents."
+        ],
+        "expected_outcome": "The court will likely accept the 'curable defect' argument for the filing date. However, by focusing the argument on the separate failure of timely *service*, you have a high probability of success. The court will likely find that the respondent still failed to provide reasonable notice, leading to an adjournment with costs in your favour, thereby neutralizing the respondent's attempt to use the backlog as a blanket excuse for their own delay."
+      }
+    ]
+  }
+}

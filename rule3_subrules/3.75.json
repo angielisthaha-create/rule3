@@ -1,0 +1,247 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.75",
+  "title": {
+    "official": "Adding, removing or substituting parties to originating application",
+    "variants": {
+      "BOOK_A": "Adding,Removing or Substituting Parties to Originating Application"
+    }
+  },
+  "division": {
+    "number": 6,
+    "heading": "Refining Claims and Changing Parties"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Changes to Parties"
+  },
+  "operative_text": {
+    "controlling": "3.75(1)  In an action started by originating application no party or\nperson may be added or substituted as a party to the action except\nin accordance with this rule.\n(2)  On application of a party or person, the Court may order that a\nperson be added or substituted as a party to the action,\n(a) in the case of a person to be added or substituted as an\noriginating applicant, if consent of the person proposed to\nbe added or substituted is filed with the application;\n(b) in the case of an application to add or substitute a person\nas a respondent, or to remove or correct the name of a\nparty, if the Court is satisfied the order should be made.\n(3)  The Court may not make an order under this rule if prejudice\nwould result for a party that could not be remedied by a costs\naward, an adjournment or the imposition of terms.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "ad3b4ecc2a38da10697a161169298ea55aa140d4b9fcd8367409a2cd15902538"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.75 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          80,
+          81
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Adding,Removing or Substituting Parties to Originating Application",
+      "operative_text_raw": null,
+      "operative_text_sha256": "972c7fb327893687cd09125ec54495e384cc8bed90e39a71b2d3d4cc1a1cf64e",
+      "defined_terms": "costs award, Court, defendant, file, order, party",
+      "related_provisions": "3.2 (how to start an action); 3.62 (amending a pleading) *Action to beTakenWhen Defendant or Respondent Added*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-244",
+          "3-245"
+        ],
+        "offset_in_clean_text": [
+          828514,
+          829835
+        ]
+      },
+      "operative_text_note": "same wording as official 3.75(1)-(3) (read by eye); differences are editorial only: the text is printed in pieces ((1) and the lead-in of (2) at p.3-244 line 8059, (a) at line 8060, then, after the page break, (b) at p.3-245 line 8069 and (3) at line 8070); the title in title case ('Adding, Removing or Substituting Parties to Originating Application', printed before (1) at line 8059); missing spaces and '*' line marks. No footnote marker is printed in the 3.75 text. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference. The dropped raw text also held a footnote block printed between (a) and (b) (p.3-245 line 8067), kept here verbatim because Book A's footnotes are not split out: '1Quite similar to previous 1968 R.39.It came from 1914 R.29, and 1944 C.R.62, as amended by Alta.Reg. 35/60.They came from English O.16 r.13 enacted 1925 (#1). 2Quite similar to previous 1968 R.688.It came from 1968 R.687 which was the same as C.R.1057, enacted by Alta.Reg.438/59.cf.C.R.1058; enacted ditto.' These are NOT 3.75's history: footnote 1 (1968 R.39; 1914 R.29; 1944 C.R.62; English O.16 r.13) has its marker '1' after 3.76(2)(b) (p.3-245, line 8074) and footnote 2 (1968 R.688; 1968 R.687; C.R.1057) has its marker '2' after 3.77 (p.3-245, line 8077, before 'Information Note'); they are 3.76's and 3.77's history footnotes (to be read with those rules), so Book A prints no history footnote for 3.75.",
+      "commentary_review_flag": "Read in full, p.3-244 (line 8059) to p.3-245 (line 8072): rule text (in pieces), Defined Terms 'costs award, Court, defendant, file, order, party' and Related Provisions '3.2 (how to start an action); 3.62 (amending a pleading)'; Book A prints no Information Note and no note of its own for 3.75 (the commentary on changing parties follows 3.74: A-H, read in the 3.74 pass). The built record: defined_terms and related_provisions (the Related Provisions line ends with the title 'Action to be Taken When Defendant or Respondent Added' of 3.76, printed at line 8072); the raw-text field held the rule text and one footnote block (kept in the text note); no commentary field. (1) Related Provisions: '3.2 (how to start an action)' agrees with the official title of 3.2 ('How to start an action'); '3.62 (amending a pleading)' (official 3.62 'Amending pleading' - 'a' added). (2) History footnotes: the block printed at p.3-245 line 8067 (footnotes 1 and 2, '1968 R.39 ...' and '1968 R.688 ...') is 3.76's and 3.77's by the markers ('1' after 3.76(2)(b), '2' after 3.77), not 3.75's (see the text note). (3) Pointers to this rule: Book A's own text prints the page header 'R.3.75(3)' (p.3-245) and 'R.3.75(1)' in a header at p.3-244 line 8021; the official text names it only in the table of contents (line 509) and the rule itself (line 5453, pdf pp.80-81); no other Book A rule file names 3.75 alone (searched combined rule3.txt, combined_rule2.txt to combined_rule15.txt, combined rule1.txt, Alberta_Rules_of_Court.txt for '3.75'), but combined rule14.txt p.14-236 line 12495 (running head R.14.75(2), item '7. Miscellaneous' on interveners) says 'On what questions an intervener may raise, see notes to Rr.3.73 to 3.75', a range that includes 3.75, and the '3.75' at combined rule3.txt line 2975 (p.3-106) is an interest rate (3.75 per cent, 'Alta.Reg.369/03') in a table, not a citation; Book B's R.4 commentary (rule4_part06_document.json) sends the reader to 'the annotation \"Limitations\" under R. 3.75' (Book B's 3.75 commentary part 6 has that heading). (4) The 3.73 pointer 'Commentary on changing parties is found after R.3.74' lands on the 3.74 note (read in the 3.74 pass); the 3.74 record carries the Book A commentary that applies to both 3.74 and 3.75."
+    },
+    "BOOK_B": {
+      "title": "Adding, removing or substituting parties to originating application",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.75:1",
+          "text": "Rule 3.75 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.75. 1. Approach of Court … the approach to be taken to a substitution of plaintiffs is that it should be allowed if (a) no limitation period has run, or (b) if a limitation period has run, the nature of the claim against the defendant remains the same. M.L. Rathwell & Sons Trucking Ltd. v. Alforge Metals Corp. (1981), 15 Alta. L.R. (2d) 347 (Master), at 351, per Master Funduk. 2. Test Sub-rule (3) is designed to alleviate the rigours that were attached to misjoinders and non-joinders of parties or persons… The sub-rule cannot be used merely for the purpose of adding a defendant to advance a cause of action against the proposed defendant. An application under the sub-rule is to be tested by asking the question—can the claims the plaintiff advances against those already defendants to the action be properly adjudicated on without the addition of the proposed defendant? If the answer is yes, the application must fail, at least under that sub-rule. Bernhart v. Umisk Farms Ltd. (1983), 40 A.R. 549 (Master), at 555-56, per Master Funduk. In Pecaflor Construction Inc. v. Royal Bank (1994), 160 A.R. 288 (Q.B.), Mr. Justice Power said at pp. 290-91: In the case of Fullwood v. Master Excavators Ltd. (1981), 34 A.R. 541, Master Funduk stated at p. 545: The history of sub-rule [38](3) goes back to the Common Law Procedure Act 1852, 15 and 16 Vict. c. 76. It was carried forward, in an expanded version, in the Judicature Acts of 36 and 37 Vict. c. 66, and 38 and 39 Vict. c. 77. Its purpose was to prevent actions from being defeated by reason of misjoinder or nonjoinder of parties and to allow the necessary amendments in respect of the parties at any stage of the proceedings. The sub-rule is a saving rule and is designed to carry out one of the intentions of the Judicature Act, to secure the determination of all disputes relating to the same subject matter without a multiplicity of proceedings … Under the second test, a party may be added as plaintiff where the party “ought to have been joined” as a plaintiff in the first instance at the commencement of the lawsuit. Power J. went on to discuss the concept of “prejudice” and its essential importance in determining an application whether to add a party. At pp. 291-92 of Pecaflor Construction, his Lordship said: In Frank v. Canada (Minister of Indian and Northern Affairs (1987), 88 A.R. 241 (C.A.), Stevenson, J.A., stated at p. 249: … It is, in my view, in keeping with current legislation and the principle that ought to be applied, that the court, in deciding whether to add or substitute a party to an action, ought not concern itself with whether the action is a ‘nullity’, but whether the amendment results in prejudice, bearing in mind express limitation periods and the principles behind them. Has the proper defendant, the personal representative, been misled or substantially prejudiced by the amendment? … Under the modern approach in Alberta in deciding whether or not to add a party to an action, one need only consider whether the amendments will result in prejudice to the other side. In Palermo Bakery v. Dominion of Canada General Insurance Company (1976), 12 O.R. (2d) 50 (H.C.), Lerner, J., stated at p. 57: Where an amendment which alleges a new cause of action is sought after the expiration of the limitation period, one approach to determine whether the amendment should be allowed is to ascertain whether, if the amendment were permitted, the defendant would be prejudiced in theory by being deprived of accrued rights by reason of the expiration of the limitation period. Another approach (the functional approach) is to ascertain whether the defendant would be prejudiced in fact in defending the action at trial, if the amendment were allowed. With the functional approach, the question is not merely whether the amendment raises a new cause of action, but also whether the defendant received notice of the new claims against him so that he would suffer no actual prejudice in having to meet the new claims at trial. A further authority is in Dumaine v. Kerry and Canada Post Corp. (1988), 87 A.R. 70 (Q.B.), where Murrary, J., stated at p. 74: … The significant issue is, did the defendant receive such notice of the plaintiff's case against him that he will suffer no actual prejudice in having to meet the amended claim? The analytical approach undoubtedly predominates in the older cases. However, today this approach is frequently tempered by, or abandoned in favour of, a functional analysis. This development in the modern cases is important, not only in itself, but also because it greatly weakens the contemporary precedential value of much of the older case law. In M.L. Rathwell & Sons Trucking Ltd. v. Alforge Metals Corp. Ltd. (1981), 31 A.R. 163 (Master), Funduk, M.C., stated at p. 166: The basic approach to amendment of pleadings is set out in Miller v Canadian Pacific Railway Company, cited by Laycraft, J., in Central Welding Ltd. (et al.) v. Western Assurance Company (1976), 6 W.W.R. 169. The issue of amendments which change the parties to an action is discussed in the article by Watson, cited by Laycraft, J., in Miller… In the application before me I am of the view it should be disposed of, if at all possible, unencumbered by a plethora of irreconcilable decisions Attempts to classify the proposed amendments as either a misnomer only or a change of plaintiffs would accomplish no useful purpose in view of the facts in this case. First, a differentiation should be made between amendments which might substitute a plaintiff and amendments which might substitute a defendant. The decisions dealing with the issue should not be indiscriminately lumped together. Where a proposed amendment would have the effect of substituting a defendant, and the limitation period has gone by, there is a legitimate prejudice suffered by the substituting defendant. For the first time a claim is being advanced against him, a claim which is barred by a limitation period. If, however, a plaintiff is substituted, any prejudice based on a limitation period is more form than substance, assuming the nature of the claim is not changed. If the claim against the defendant is still identical after the substitution there is no real prejudice. In Amoco Canada Petroleum Co. v. Alberta & Southern Gas Co. (1993), 10 Alta. L.R. (3d) 325 (Q.B.), Mr. Justice Virtue, at pp. 328-30, dealt in detail with the proper test to be applied: The addition of parties to actions by order of the Court is a subject which has been dealt with more extensively in the Courts of England than Canada. Some controversy still exists as to whether the proper test is a narrow or a broad one. The narrow test is best exemplified in Amon v. Raphael Tuck & Sons Ltd., [1956] 1 Q.B. 357. In that case Devlin J., with painstaking thoroughness, traces the cases dealing with the English rule, and concludes that what he describes as the narrow test, is the correct interpretation of the rule. My understanding of the test enunciated by Devlin, J., which, for the reasons set out below, I respectfully adopt, is this: Would the order for which the Plaintiff was asking directly affect the intervenor, not in his commercial interests, but in the enjoyment of his legal rights? And secondly, the only reason which makes it necessary that a party be added is that the question to be settled cannot be effectually and completely settled unless he is a party. Unless these tests are met the Court has no jurisdiction to add a party within the rule. For those who are interested in tracing the history of English legal analysis and application of the rule the whole of Devlin J.'s, reasons are commended, but I refer in particular to the expression adopted by him at pp 378-79: … that is the key to the whole section: if the court cannot decide the question without the presence of other parties, the cause is not to be defeated, but the parties are to be added so as to put the proper parties before the court. At p. 380 he elaborates on this further: The person to be joined must be someone whose presence is necessary as a party. What makes a person a necessary party? It is not, of course, merely that he has relevant evidence to give on some of the questions involved; that would only make him a necessary witness. It is not merely that he has an interest in the correct solution of some question involved and has thought of relevant arguments to advance and is afraid that the existing parties may not advance them adequately … The only reason which makes it necessary to make a person a party to an action is so that he should be bound by the result of the action, and the question to be settled therefore must be a question in the action which cannot be effectually and completely settled unless he is a party. [Emphasis in original] With respect to the other aspect of the test: commercial interest versus legal interests, Lord Devlin says, at p. 381: On the wider construction of the rule, I do not understand where the line is to be drawn—it is conceded that it must be drawn somewhere—between a commercial interest in the question involved in the case and a legal one. It is not enough that the intervener should be commercially or indirectly interested in the answer to the question; he must be directly or legally interested in the answer. A person is legally interested in the answer only if he can say that it may lead to a result that will affect him legally—that is by curtailing his legal rights. And finally at p. 386: … the test is: ‘May the order for which the plaintiff is asking directly affect the intervener in the enjoyment of his legal rights?’ In Pancanadian Petroleum Ltd. v. Husky Oil Operations Ltd. (1994), 19 Alta. L.R. (3d) 23 (Q.B.), Egbert J., at p. 25 agreed with Virtue J. in Amoco and adopted the test set forth in Amon. In Nagy v. Phillips (1996), 41 Alta. L.R. (3d) 58 (C.A.), Hetherington J.A., speaking for the court, addressed the matter of substituting a named defendant for a “John Doe” defendant and the effect of the late amendment on the proposed named defendant. At pp. 66-67, her Ladyship said: Where a plaintiff seeks to amend a statement of claim to substitute a named defendant for a John Doe defendant, it is particularly important to consider whether the named defendant has been misled or will be substantially injured by the delay in naming him. It may be a case of misnomer in that if the named defendant, presumably a reasonable person, had received the statement of claim, he would have said to himself “Of course it must mean me, but they have got my name wrong,” to use the words of Lord Justice Devlin quoted above. However, in a typical John Doe case the named defendant will not have seen the statement of claim, because the plaintiff will not have served a copy on him. In these circumstances it is particularly important to consider whether the named defendant has been misled or will be substantially injured by the delay in giving him notice of the claim against him. If so, the application for the substitution should be denied. In addition, there is always the possibility that a plaintiff will attempt to use the legal principles in the misnomer cases to avoid the provisions of limitations statutes, or the rules relating to service of a statement of claim, or both. Courts must be diligent in guarding against such abuses. Madam Justice Hetherington then considered whether an applicant to substitute a named defendant for a nominal defendant had to show reasonable diligence in trying to ascertain the identity of the named defendant. In concluding that there was such an obligation, her Ladyship said, at p. 68: … even in a case of misnomer, a judge should not grant an application to substitute a defendant for the defendant named, unless the applicant has been reasonably diligent in seeking to properly identify the desired defendant and to correct the misnomer. The reason for this is, of course, so that the defendant will have timely notice of the claim, and will not be unduly prejudiced in preparing a defence to it… The respondent was required to establish that she was reasonably diligent in seeking to identify the appellants, and in applying to have them substituted for the named defendants. In Hann v. Foothills Provincial General Hospital (1997), 209 A.R. 187 (C.A.), Chief Justice Fraser considered an application to replace “Dr. John Doe” with a Dr. Stephen Miller. The plaintiffs were always aware that Dr. Miller had somehow been involved in the patient plaintiff's care. At pp. 188-90, Her Ladyship said: That brings us to the most difficult issue: whether this appeal should be dismissed because the Hanns made a conscious choice not to sue Dr. Miller. According to Dr. Miller's counsel, the misnomer remedy should not be used to add a named party to a lawsuit where a conscious decision not to sue that person has already been made. The test for misnomer is set out in Nagy v. Phillips et al. (1996), 187 A.R. 97 (C.A.). Would the reasonable person reading the Statement of Claim understand, in all the circumstances, that he or she was the person referred to therein but named under a pseudonym? . . . . . … we have concluded that this is an appropriate case for misnomer relief. The facts that were known, i.e., that Dr. Miller was a consulting orthopaedic surgeon, and that he was “involved” in the plan to clear the spinal cord were not sufficient to indicate that he was possibly negligent… We do not accept the proposition that the Hanns' mere knowledge that Dr. Miller was “involved” in some way in Mr. Hann's care warranted naming him from the outset and that the failure to do so therefore automatically dooms this misnomer application. If this type of approach were to be adopted, it would have serious policy implications in medical negligence claims. Any patient who knew the name of any doctor or nurse who was “involved” in any way in his or her care would be required to name every single one of them when a potential negligence claim arose irrespective of whether the patient knew of any factual foundation to link the actions of the doctor(s) or nurse(s) to the alleged negligence on the off-chance that information might come to light implicating them in the impugned conduct. Any approach which had these results would be unduly costly and time-consuming, not to mention unfairly burdensome and problematic for all concerned. 3. Improper Purpose The kind of “improper” purpose contemplated by rule 38(3) is the joinder of a person to obtain discovery or costs which could not otherwise be sought against that person. Starland School Division No. 30 v. Alberta (1988), 91 A.R. 329 (Q.B.) at 332-333, per McDonald J. 4. Interest in Action versus Protecting Commercial Interest In Holnam West Materials Ltd. v. Canadian Concrete Products Ltd. (1993), 13 Alta. L.R. (3d) 378 (Master), Master Funduk, when speaking of R. 38(3) and (6), said at pp. 399-400: In addition, neither subr. (3) nor subr. (6) encompasses adding a person as a party solely to protect a “commercial interest”. I accept and follow Amoco Canada Petroleum Co. v. Alberta & Southern Gas Co., [10 Alta. L.R. (3d) 325] in this regard. In that case subr. (3) was considered. Virtue J., says [pp.331-32]: In Fullwood v. Master Excavators Ltd. (1981), 34 A.R. 541, Funduk M.C. conducts an extensive review of the history of the Rule and the cases dealing with both the Alberta Rule and its English equivalent. In reaching his conclusions, the learned Master, as I have done, relies upon Devlin, J.'s interpretation of the rule in Amon (supra), as setting out the correct tests. See especially paras. 17-21, at pp. 549-551, where Master Funduk concludes that [p. 551]: The rejection of a “commercial interest” as a foundation for a person becoming a party was reaffirmed by the Court of Appeal in In re I.G. Farbenindustrie, [1944] 1 Ch. 41. 5. Submit Draft Pleading with Application One should submit, with the application, the proposed amended pleading. Failure to do so should result in dismissal with leave to reapply on adjournment, so that proper material can be brought before the court: Sarnelli v. Fraietta (1981), 28 A.R. 482 (Master), and Eisenkrein v. Eisenkrein (1984), 53 A.R. 199 (Master). In Eisenkrein, Master Funduk was dealing with an application to add a party. At pp. 217-18 the learned Master said: … the plaintiff merely asks that the brother be added as a defendant. What are the proposed allegations as against him? It was encumbent [sic] on the plaintiff to do a draft of the proposed amended statement of claim, with the necessary allegations as against the brother. Simply adding the brother as a defendant is not sufficient. The proposed amendments should have been formulated by counsel for the plaintiff and placed before the court … 6. Limitations … the Rules do not ordinarily permit amendment to add parties defendant or new causes of action after the expiration of a period of limitation. Wil-Ton Construction Ltd. v. Amerada Minerals Corp. of Canada Ltd. (1989), 69 Alta. L.R. (2d) 285 at 297 (C.A.). The Court of Appeal reaffirmed its position in Pile Base Contractors 1987 Ltd. v. Pasichnyk (1993), 15 Alta. L.R. (3d) 319, where, at p. 323, the court said: If the limitation period against John Doe had not passed, then one could give the injured worker (the son) leave to apply afresh to substitute defendants. But it has passed, and ordinarily a new defendant will not be added after it has passed. It should be noted that in Pile Base Contractors the Court of Appeal had already decided that in spite of the plaintiff using “John Doe” in the style of cause, this was not a true case of misnomer which could be corrected by amendment. (See p. 322 of the report.) In Yancey v. Neis (1999), 73 Alta. L.R. (3d) 239 (C.A.), the court considered the test to be applied in applications to add a party after the expiration of a limitation period. The court discussed the differences between the functional approach, and the analytical approach (see the annotations under R. 132). Russell J.A., at p. 244, said the functional approach would lead to the conclusion: … that an amendment should be allowed, regardless of whether it involves a new cause of action or a change of parties or the curing of a nullity, whenever the defendant has received such timely notice that there could be no prejudice to the interests sought to be protected by the limitations statute, and that the defendant should have the burden of proving the existence of that prejudice. With respect to the analytical approach, Russell J.A. said at pp. 244-45: In contrast, the analytical approach is based on a legislated presumption of prejudice from suing too late. Whether or not the courts agree with that presumption, they are bound by it, unless the plaintiff can establish special circumstances rebutting that presumption. Whereas, with the functional approach, despite the legislated presumption of prejudice, the onus is placed on the defendant to establish additional prejudice. Her Ladyship then discussed the test to be used in applications to add a new party after the expiration of a limitation period. At p. 246, she said: I conclude that with the exception of cases involving a misnomer in which the defendant could reasonably be expected to recognize himself or herself as the intended party, the analytical approach taken in respect of the addition of new causes of action in [Madill v. Alexander Consulting Group (1999), 237 A.R. 307] is also the proper approach to applications to amend after a limitation period to add a new party. The applicant must show that special circumstances exist. The party resisting the application need not show actual prejudice. Absence of actual prejudice is one factor which may contribute to establishing special circumstances. The applicant must also show whether the party being added had a substantial prior connection from which timely notice may be inferred, and the circumstances which gave rise to the discontinuance … In Rocklake Enterprises Ltd. v. Timberjack Inc., 2001 ABCA 191, 2001 CarswellAlta 1045, 293 A.R. 124, 94 Alta. L.R. (3d) 257, Côté J.A., speaking for the majority, said, at p. 265: The analytical approach adopted in Alberta is simple. One cannot sue after the limitation period. Adding a new plaintiff or a new defendant or a new cause of action to a suit after the period expires, in effect creates a new suit, so far as that new party or cause of action is concerned. Limitations legislation is intended to give repose after a certain length of time, and adding a new plaintiff or new cause of action violates that policy almost as much as adding a new defendant. The Rules of Court do no speak about limitation periods or times to amend. They have always been reconciled with limitations legislation by presuming that the powers under the Rules are to be exercised subject to the time limits under the legislation, when those are relevant. … 7. Test to Add a Non-Party … a non-party seeking to be added as a defendant must satisfy two tests: 1. The non-party must have a direct financial or legal interest in the outcome of the litigation; and 2. The non-party's interest will not be adequately protected unless he is allowed to intervene. Royal Bank v. Page Petroleum Ltd. (Receivership) (1990), 102 A.R. 347 at 349 (C.A.). And Egbert J. said: Master Funduk in Fullwood v. Master Excavators Ltd. (1981), 34 A.R. 541, has, in my opinion, correctly stated the test to be applied under this Rule. It is twofold: (1) is the applicant interested in the subject matter or result of the action and (2) if so, is it just and convenient that the applicant should be allowed to defend the action in whole or in part. This is not an either/or test as the applicant must satisfy both branches of the test. Pancanadian Petroleum Ltd. v. Husky Oil Operations Ltd. (1994), 19 Alta. L.R. (3d) 23 at 27 (Q.B.); affirmed 22 Alta. L.R. (3d) 1 (C.A.). In McIver v. Alberta (Ethics Commissioner), 2017 ABQB 695, 2017 CarswellAlta 2432, Justice Eamon said: 32 I summarize the principles for adding a respondent to a judicial review application against the applicant's wishes as follows: a. The party seeking to be added must demonstrate that joinder is both necessary and appropriate, in the context of the foundational principles expressed in Part 1 of the Rules. Typically it must demonstrate it has a sufficiently recognized legal interest in the outcome of the proceeding or is directly affected in its substantive rights, and it is just and convenient to add the person, the question cannot be effectually or completely settled without that person, or the interest of the person will not be adequately protected unless it is allowed to participate in the proceedings. b. The assessment of a sufficient interest must take into account the contextual differences between a private action and a judicial review that sometimes arise. As Madam Justice Paperny stated “… each case must be evaluated on its own facts to ascertain whether the kind of interest at stake warrants an applicant being added as a respondent”. c. The Court has a residual discretion where necessary in the interests of justice to add a respondent where the usual test is not strictly met. This may apply, for example, where it is necessary that another party be bound by the result between Applicant and Respondent. d. The Court should be careful not to exercise its residual discretion other than in exceptional cases, to avoid unnecessary cost, complexity and delay. e. The Court must be mindful that Rule 2.10 provides for intervenors. Those who are specially affected by the decision facing the court or have some special expertise or insight to bring to bear on the issues facing the court might qualify to intervene under R 2.10. It is not necessary to join such entities as parties f. The Court may not make an order under the rule if prejudice would result for a party that could not be remedied by a costs award, an adjournment or the imposition of terms. For example, the expiry of limitation periods may impact whether the Court can make an order where a party seeks to add another person against their will. 8. Property Actions If a person has a legal interest in the subject-matter of an action he would be an interested party … Any person who claims a legal or equitable interest in property, real or personal, which interest could be adversely affected by an action between others would be “interested”, for the purposes of sub-rule (6). Such persons might also, if their interest arises “under the defendant”, be added under sub-rule (3). There may well be overlapping between sub-rules (3) and (6). However, if a person claiming an interest in property, the subject matter of an action, does not claim “under” a defendant, he would still qualify under sub-rule (6). Fullwood v. Master Excavators Ltd. (1981), 34 A.R. 541 at 550 (Master). 9. Personal Action The problem becomes more difficult where the action is an in personam action. A person would have to be interested in the result of the action. The interest in the result of the action which would justify making a person a defendant is not as susceptible of definition as the interest of a person in the subject-matter of the action. Fullwood v. Master Excavators Ltd., supra, at 550. On an application under sub-rule (6), the court must be satisfied not only that the intervenant is interested in the result of the action but also that the intervenant should be allowed to defend the action. The two clauses under the sub-rule are conjunctive. To allow an intervenant to defend merely because he is interested in the result of the action would render clause (b) sterile. The existence of clause (b) clearly contemplates that there may be situations where the intervenant, who while interested in the result of the action, should not be allowed to become a party. … the test to be applied is still the same. Is it just and convenient that the intervenant should be allowed to defend the action. Fullwood v. Master Excavators Ltd., supra, at 559."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_75_001",
+        "part3_part_3_court_actions_015",
+        "part3_rule_3_75_002",
+        "part3_part_3_court_actions_017"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "34c960a68ecf71156b0794b329948e464d1ebc993e257caa0f74cefaa22ff6b5",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Adding, removing or substituting parties to originating application",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "3145511d119cbdae394eed2f3939b245c3121b721195454319fdadd9049ed873",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Case law has imported the test from Former Rule 38(3), meaning that the applicant is required to show that the order sought would directly affect the intervenor in the enjoyment of its legal rights, and the question to be settled could not be effectually and completely settled unless the intervenor was a party. This second case involves a two-part test:\n(a) whether the applicant has a legal interest in the outcome of the proceedings, which can be a direct financial or legal interest; and (b) whether it is “just and convenient” to add the person, or whether the interest of the person would not be adequately protected if it is not added to the proceeding. Prosper Petroleum Ltd. v. Alberta, [2020] A.J. No. 238, 2020 ABQB 128 at paras. 7-11 (Alta. Q.B.); see also , [2017] A.J. No. 1214, 2017 ABQB 695 (Alta. McIver v. Alberta (Ethics Commissioner) Q.B.) starting at para. 9.",
+          "citations": [
+            {
+              "neutral_citation": "2020 ABQB 128",
+              "style_of_cause": "Prosper Petroleum Ltd. v. Alberta"
+            },
+            {
+              "neutral_citation": "2017 ABQB 695",
+              "style_of_cause": "McIver v. Alberta (Ethics Commissioner)",
+              "note": "printed 'see also , [2017] A.J. No. 1214, 2017 ABQB 695 (Alta. McIver v. Alberta (Ethics Commissioner) Q.B.) starting at para. 9': the case name is displaced inside the parenthesis; the built name repeated the case before it (Prosper Petroleum Ltd. v. Alberta, 2020 ABQB 128)"
+            }
+          ],
+          "review_flag": "(1) Rule text equals the official text (EXACT_MATCH); the amendment note '[Alta. Reg. 124/2010, r. 3.75 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). (2) The commentary (881 characters, two paragraphs, heading 'General Principles') is complete: 'Case law has imported the test from Former Rule 38(3) ... This second case involves a two-part test: (a) whether the applicant has a legal interest in the outcome of the proceedings ... and (b) whether it is \"just and convenient\" to add the person, or whether the interest of the person would not be adequately protected ...' with Prosper Petroleum Ltd. v. Alberta, 2020 ABQB 128 at paras. 7-11 and McIver v. Alberta (Ethics Commissioner), 2017 ABQB 695 starting at para. 9. It concerns adding a respondent (3.75(2)(b), judicial review) and agrees in substance with Book B's part 2 (Amon/Amoco 'directly affect the intervenor in the enjoyment of its legal rights'), part 7 (Royal Bank v. Page Petroleum and Pancanadian: two-part test, 'just and convenient'; McIver 2017 ABQB 695 para 32 principles) and with Book A's 3.74 note (Legal Tests (a) and (c), 'Rules 14.57 and 3.74 ... direct significant legal interest'). The words 'This second case involves' refer to a first case that is not printed (the paragraph begins with 'Case law', so the sentence 'the first ...' is missing or the word 'case' is a slip). (3) The McIver pinpoint 'starting at para. 9' is not the paragraph in Book B's quotation (para 32 is Eamon J.'s summary of principles); Prosper Petroleum 2020 ABQB 128 is in no other file (searched all root *.json and *.txt; rule14_part04_document.json has Prosper Petroleum 2020 ABCA 85, a different decision). (4) The place of this commentary is 3.75 as printed; it was first seen in the 3.74 pass, where it was considered for 3.74 and left with 3.75 because it deals with adding a respondent to an originating application."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "161-180_3_67 to 4_7.json",
+        "source_file": "161-180_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7214,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.75(1)-(3) (read by eye); differences are editorial only: the text is printed in pieces ((1) and the lead-in of (2) at p.3-244 line 8059, (a) at line 8060, then, after the page break, (b) at p.3-245 line 8069 and (3) at line 8070); the title in title case ('Adding, Removing or Substituting Parties to Originating Application', printed before (1) at line 8059); missing spaces and '*' line marks. No footnote marker is printed in the 3.75 text. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference. The dropped raw text also held a footnote block printed between (a) and (b) (p.3-245 line 8067), kept here verbatim because Book A's footnotes are not split out: '1Quite similar to previous 1968 R.39.It came from 1914 R.29, and 1944 C.R.62, as amended by Alta.Reg. 35/60.They came from English O.16 r.13 enacted 1925 (#1). 2Quite similar to previous 1968 R.688.It came from 1968 R.687 which was the same as C.R.1057, enacted by Alta.Reg.438/59.cf.C.R.1058; enacted ditto.' These are NOT 3.75's history: footnote 1 (1968 R.39; 1914 R.29; 1944 C.R.62; English O.16 r.13) has its marker '1' after 3.76(2)(b) (p.3-245, line 8074) and footnote 2 (1968 R.688; 1968 R.687; C.R.1057) has its marker '2' after 3.77 (p.3-245, line 8077, before 'Information Note'); they are 3.76's and 3.77's history footnotes (to be read with those rules), so Book A prints no history footnote for 3.75."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.75",
+      "title_official": "Adding, removing or substituting parties to originating application"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "972c7fb327893687cd09125ec54495e384cc8bed90e39a71b2d3d4cc1a1cf64e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-244",
+            "3-245"
+          ],
+          "offset_in_clean_text": [
+            828514,
+            829835
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "34c960a68ecf71156b0794b329948e464d1ebc993e257caa0f74cefaa22ff6b5",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "3145511d119cbdae394eed2f3939b245c3121b721195454319fdadd9049ed873",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "161-180_3_67 to 4_7.json",
+          "source_file": "161-180_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "ad3b4ecc2a38da10697a161169298ea55aa140d4b9fcd8367409a2cd15902538",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            80,
+            81
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "d8a206aa460d2199a55715ad320dd6bd4daf22fb7905bb21c8bf20b7537d1d42"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.75 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.75 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.75 BOOK_C citation context dropped (2020 ABQB 128): verbatim in kept text",
+    "3.75 BOOK_C citation context dropped (2017 ABQB 695): verbatim in kept text",
+    "3.75 BOOK_C commentary sentence split dropped",
+    "3.75 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.75 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

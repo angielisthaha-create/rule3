@@ -1,0 +1,1143 @@
+
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0-revised",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-04T12:00:00Z",
+      "source_manifests": [
+        "05205.rtf",
+        "05206.rtf",
+        "05207.rtf",
+        "05208.rtf"
+      ],
+      "node_count": 20,
+      "relationship_count": 20,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Hunt v T&N plc, [1990] 2 SCR 959",
+          "Knight v Imperial Tobacco Canada Ltd, 2011 SCC 42",
+          "Tottrup v. Alberta (Minister of Environment), 2000 ABCA 121",
+          "Al-Ghamdi v. Alberta, 2017 ABQB 684",
+          "Clark v Hunka, 2017 ABCA 346",
+          "Hovsepian v. Westfair Foods Ltd., 2001 ABQB 700",
+          "Jim Pattison Developments Ltd. v. Fudex International Inc. (1996), 45 Alta. L.R. (3d) 343 (Master)",
+          "Manulife Financial Services Ltd. v. BTK Holdings Ltd. (1997), 56 Alta. L.R. (3d) 355 (Master)",
+          "Behn v Moulton Contracting Ltd, 2013 SCC 26",
+          "Boudreault v. Barrett (1995), 33 Alta. L.R. (3d) 60 (C.A.)",
+          "420093 B.C. Ltd. v. Bank of Montreal (1995), 34 Alta. L.R. (3d) 269 (C.A.)",
+          "Argentia Beach (Summer Village) v. Warshawski (1991), 84 Alta. L.R (2d) 202 (C.A.)",
+          "Trimove Inc. v. Servus Credit Union, 2017 ABQB 50",
+          "Riccioni v. Law Society of Alberta, 2017 ABQB 261",
+          "Principal Group Ltd. (Trustee of) v. Alberta (1991), 118 A.R. 40 (Q.B.)",
+          "Rocky Mountain Rail Society v. H & D Hobby Distributing Ltd. (1995), 27 Alta. L.R. (3d) 424 (Q.B.)",
+          "Tanar Industries Ltd. v. American Home Assurance Co. (1998), 64 Alta. L.R. (3d) 144 (C.A.)",
+          "Fullowha v. Whitford (Nov. 25, 1996), C.A. 00628-C.A.00634 (N.W.T. C.A.)",
+          "Creswell v. Edmonton Journal (1986), 42 Alta. L.R. (2d) 395 (Master)",
+          "Valentine v. Bee-Bell Health Bakery Ltd. (1993), 161 A.R. 1 (Master)",
+          "Jacobs v. Beaver (1908), 17 O.L.R. 496 (C.A.)",
+          "Grandview (Town) v. Doering, [1976] S.C.R. 621"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3, Division 5"
+        ],
+        "manifest_references": [
+          "05205.rtf",
+          "05206.rtf",
+          "05207.rtf",
+          "05208.rtf"
+        ]
+      },
+      "tactical_play_count": 2,
+      "countermeasure_count": 2
+    },
+    "nodes": [
+      {
+        "node_id": "wf-r3-68-2b-plain-and-obvious-test",
+        "node_type": "WarfareFramework",
+        "label": "Strike Framework: 'Plain and Obvious' Test",
+        "description": "The core legal framework for striking a claim under Rule 3.68(2)(b). A claim should only be struck if it is 'plain and obvious' that it discloses no reasonable cause of action and has no reasonable prospect of success.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "As established by the Supreme Court of Canada, it is accepted that a court should only strike a claim if it is plain and obvious that the pleading discloses no reasonable cause of action: Hunt v T&N plc, 1990 CanLII 90 (SCC), [1990] 2 SCR 959 and Knight v Imperial Tobacco Canada Ltd, 2011 SCC 42 (CanLII).",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            },
+            {
+              "text": "Only if the action is certain to fail because it contains a radical defect ranking with the others listed in rule 19(24) of the British Columbia Rules of Court should the relevant portions of a plaintiff's statement of claim be struck out under rule 19(24)(a).",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(2)(b)"
+          ],
+          "verified_at": "2025-11-04T11:10:00Z",
+          "strategic_rationale": "This framework establishes an extremely high bar for the defendant, making a strike application a high-risk, high-reward 'kill shot'. It is the plaintiff's primary shield against premature dismissal, forcing the defendant to prove the claim is legally doomed from the outset.",
+          "litigation_implications": [
+            "Offensive (Defendant): Use only for claims with a 'radical defect' in law, not for factually weak cases. Frame the argument as a pure question of law.",
+            "Defensive (Plaintiff): Repeatedly emphasize the 'plain and obvious' standard to the court. Argue that any arguable legal point, however novel, must be allowed to proceed to trial."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hunt v T&N plc, [1990] 2 SCR 959",
+              "proposition": "Establishes the 'plain and obvious' test for striking a claim for no reasonable cause of action."
+            },
+            {
+              "case_name": "Knight v Imperial Tobacco Canada Ltd, 2011 SCC 42",
+              "proposition": "Reaffirms the 'plain and obvious' test and the principle that claims with some chance of success should proceed to trial."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-assume-facts-as-true",
+        "node_type": "FoundationalPillar",
+        "label": "Core Assumption: Pleaded Facts are True",
+        "description": "On a motion to strike for no reasonable cause of action, the court must assume that all facts alleged in the statement of claim are true and provable. This confines the analysis to the face of the pleading.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In considering the claim, the court must assume that the facts as pleaded are true: Hunt at 980.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(3)"
+          ],
+          "verified_at": "2025-11-04T11:12:00Z",
+          "strategic_rationale": "This pillar is the plaintiff's most powerful shield in a 3.68(2)(b) application. It prevents the defendant from introducing contradictory evidence and forces the debate onto a pure question of law based on the plaintiff's best-case factual scenario.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): Vigorously assert this principle to prevent the court from assessing the credibility or provability of the claim at this early stage.",
+            "Offensive (Defendant): Acknowledge this rule but immediately pivot to its exceptions, such as the 'bald allegations' rule, to undermine its protective effect."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959",
+              "proposition": "The court must assume that the facts as stated in the statement of claim can be proved."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-bald-allegations-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: The 'Bald Allegations' Exception",
+        "description": "A critical exception to the 'facts assumed true' principle. Mere 'bald allegations' of misconduct (e.g., bad faith, malice, conspiracy) without supporting material facts are not assumed to be true and are insufficient to sustain a pleading.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "That is, a bare allegation, such as bad faith or malice, without any facts pled in support and without particulars, is inadequate.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            },
+            {
+              "text": "Bare allegations are insufficient; allegations of fact are taken as proved for purposes of the striking out test.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:15:00Z",
+          "strategic_rationale": "This is a procedural trap for plaintiffs and a powerful weapon for defendants. It pierces the plaintiff's primary shield ('assume facts as true') by allowing the defendant to argue that the core of the plaintiff's claim is conclusory and factually unsupported, and therefore should be ignored by the court.",
+          "litigation_implications": [
+            "Offensive (Defendant): Scrutinize the Statement of Claim for any allegations of serious misconduct and argue they are 'bald assertions' lacking material facts, and thus not entitled to the presumption of truth.",
+            "Defensive (Plaintiff): Ensure every allegation of wrongdoing is supported by specific material facts (who, what, where, when, how) to preemptively neutralize this attack."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Tottrup v Alberta (Minister of Environmental Protection) 2000 ABCA 121",
+              "proposition": "It is not the allegation of a duty at law that is critical, but the facts alleged supporting such a duty."
+            },
+            {
+              "case_name": "Hovsepian v. Westfair Foods Ltd., 2001 ABQB 700",
+              "proposition": "There is no presumption that allegations not backed by facts must be taken as proved. Bare allegations are insufficient."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-no-evidence-rule",
+        "node_type": "ControlMechanism",
+        "label": "Weaponized Constraint: The 'No Evidence' Rule",
+        "description": "A strict prohibition on submitting any evidence on an application to strike a pleading for disclosing no reasonable claim under Rule 3.68(2)(b). The analysis is confined to the pleading itself.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "However, the parties may not submit new evidence on this application: Rules, r 3.68(3).",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(3)"
+          ],
+          "verified_at": "2025-11-04T11:18:00Z",
+          "strategic_rationale": "This rule acts as a procedural straitjacket, preventing a strike motion from turning into a mini-trial. For a plaintiff, it's a shield against a defendant's attempt to introduce facts to disprove the claim. For a defendant, it reinforces the need to attack the pleading on purely legal grounds.",
+          "litigation_implications": [
+            "Procedural Enforcement (Plaintiff): Immediately object to any affidavit or exhibit filed by the defendant in support of a Rule 3.68(2)(b) motion.",
+            "Strategic Limitation (Defendant): Recognize that any factual disputes are irrelevant; the entire attack must be based on the legal insufficiency of the claim as written."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-68-novelty-is-not-fatal",
+        "node_type": "FoundationalPillar",
+        "label": "Principle: Novelty of Claim is Not Fatal",
+        "description": "A claim should not be struck simply because the law has not yet recognized the particular cause of action. Courts are encouraged to be generous and allow novel but arguable claims to proceed to trial to allow for the evolution of the common law.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Further, the Supreme Court of Canada has held that it is not determinative that the law has not yet recognized a particular claim and a court should be generous and err on the side of permitting a novel, but arguable claim to proceed to trial: Imperial Tobacco at para 21.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:20:00Z",
+          "strategic_rationale": "This is a powerful defensive pillar for plaintiffs advancing claims in developing areas of law. It reframes 'lack of precedent' from a fatal flaw into a reason for the case to continue, forcing the defendant to argue not just that the claim is novel, but that it is 'doomed to failure'.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If the claim is novel, frame it as an opportunity for the court to develop the common law, citing Hunt and Imperial Tobacco.",
+            "Offensive (Defendant): Must distinguish the plaintiff's claim from a 'novel proposition' and characterize it as an improper 'broadening of a narrowly defined tort' or as 'far-fetched'."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Knight v Imperial Tobacco Canada Ltd, 2011 SCC 42",
+              "proposition": "A court should be generous and err on the side of permitting a novel, but arguable claim to proceed to trial."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-far-fetched-claim-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Counter: 'Novel' Does Not Mean 'Far-Fetched'",
+        "description": "A counter-principle to the 'novelty is not fatal' rule. While novel claims are protected, claims that are 'far-fetched' or 'contrary to binding authority' are not. This provides a basis to strike claims that are imaginative but have no realistic legal foundation.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In Manulife Financial Services Ltd. v. BTK Holdings Ltd. (1997), 56 Alta. L.R. (3d) 355 (Master), Master Funduk noted that “novel” does not encompass “far-fetched”.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:22:00Z",
+          "strategic_rationale": "This is the defendant's weapon to counter the plaintiff's 'novelty' shield. It allows the defendant to argue that the plaintiff is not pushing the boundaries of the law in a reasonable way, but is instead advancing a proposition that is legally absurd or directly contradicted by established precedent.",
+          "litigation_implications": [
+            "Offensive (Defendant): Characterize the plaintiff's novel claim as 'far-fetched' and unsupported by any reasonable legal analogy or public policy, and as being contrary to binding authority.",
+            "Defensive (Plaintiff): Must demonstrate that the novel claim is a logical extension of existing principles and not a 'far-fetched' fantasy."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Manulife Financial Services Ltd. v. BTK Holdings Ltd. (1997), 56 Alta. L.R. (3d) 355 (Master)",
+              "proposition": "The principle that novel claims should not be struck does not encompass claims that are 'far-fetched'."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-premature-strike-limitation-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Tactical Trap: Premature Strike Before Limitation Expiry",
+        "description": "A significant tactical error where a defendant applies to strike a deficient claim before the limitation period has expired. A successful application merely provides the plaintiff with 'judicial advice' on how to properly redraft and file a new, valid claim.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the pleading is struck out and the limitation period has not expired the plaintiff can sue again, this time with the benefit of judicial advice on what should be pled to disclose a cause of action in law.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:25:00Z",
+          "strategic_rationale": "This is a trap for an overly aggressive defendant. It highlights a critical cost-benefit analysis: winning the battle (the strike motion) may result in losing the war by educating the opponent and ensuring a stronger, corrected claim is filed, whereas waiting for the limitation to expire would provide a complete defence.",
+          "litigation_implications": [
+            "Strategic Decision (Defendant): Before filing a strike motion, always verify the limitation period. If it has not expired, consider whether the motion is worth the risk of educating the plaintiff.",
+            "Opportunity (Plaintiff): If facing a premature strike motion, recognize that a loss is not fatal and use the court's reasons as a roadmap for a perfected pleading."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Jim Pattison Developments Ltd. v. Fudex International Inc. (1996), 45 Alta. L.R. (3d) 343 (Master)",
+              "proposition": "Applying to strike a claim before the limitation period expires is a tactical error, as the plaintiff can simply sue again with a corrected pleading."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-68-2d-abuse-of-process-framework",
+        "node_type": "WarfareFramework",
+        "label": "Strike Framework: Abuse of Process",
+        "description": "A flexible and powerful framework for striking claims that misuse court procedure, are brought for an improper purpose, or attempt to re-litigate decided issues. Unlike the 'plain and obvious' test, it is not confined to the pleadings and allows for evidence.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The doctrine of abuse of process is characterized by its flexibility. Unlike the concepts of res judicata and issue estoppel, abuse of process is unencumbered by specific requirements.",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(2)(d)"
+          ],
+          "verified_at": "2025-11-04T11:28:00Z",
+          "strategic_rationale": "This framework is a defendant's most versatile weapon. It bypasses the strict constraints of a 3.68(2)(b) motion, allowing the introduction of evidence to show the *context* and *history* of the litigation. It can be used to terminate actions that are technically well-pleaded but are fundamentally improper.",
+          "litigation_implications": [
+            "Offensive (Defendant): Use this framework to attack claims that are re-litigating old issues (res judicata), collaterally attacking prior orders, or are brought with an ulterior motive.",
+            "Defensive (Plaintiff): Must demonstrate that the action is a bona fide assertion of legitimate rights and not a misuse of the court's process. Must distinguish the current action from any prior proceedings."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Behn v Moulton Contracting Ltd, 2013 SCC 26",
+              "proposition": "Abuse of process is a flexible doctrine that engages the inherent power of the court to prevent the misuse of its procedure."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-2d-evidence-admissible",
+        "node_type": "ControlMechanism",
+        "label": "Procedural Fork: Evidence Admissible for Abuse of Process",
+        "description": "A critical procedural distinction: unlike a 'no reasonable claim' motion, on an 'abuse of process' motion the court is NOT required to assume the pleadings are true and can consider evidence regarding the entire history of the dispute.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "However, in relation to an application under subr. 1(d), [the learned Chambers judge] was not entitled to take the allegations in the statement of claim as true.",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:30:00Z",
+          "strategic_rationale": "This rule creates a fundamental strategic fork. By allowing evidence, it transforms the motion from a narrow legal debate into a broader, fact-based inquiry into the legitimacy of the lawsuit itself. This empowers the defendant to expose the plaintiff's improper motives or history of re-litigation.",
+          "litigation_implications": [
+            "Offensive (Defendant): File a comprehensive affidavit detailing the history of the dispute, prior litigation, and any facts demonstrating an ulterior purpose to support an abuse of process motion.",
+            "Defensive (Plaintiff): Be prepared to file responding evidence to justify the lawsuit and counter the defendant's narrative about the litigation history."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Boudreault v. Barrett (1995), 33 Alta. L.R. (3d) 60 (C.A.)",
+              "proposition": "On an application to strike for abuse of process, the court is not entitled to take the allegations in the statement of claim as true."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-res-judicata-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Re-Litigation (Res Judicata)",
+        "description": "A form of abuse of process where a party attempts to re-litigate a cause of action or an issue that has already been, or reasonably should have been, determined in a prior final decision between the same parties or their privies.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Res judicata can extend to matters that ought to have been raised; it is not restricted to issues actually determined on the merits.",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:33:00Z",
+          "strategic_rationale": "This is a powerful trap for plaintiffs who attempt to take a 'second bite at the apple'. For defendants, it is a complete bar to an action, promoting finality in litigation. The key weapon is its breadth: it applies not only to what *was* decided, but what *should have been* raised.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a prior action exists, analyze it to see if the current issues were or could have been litigated. If so, bring a motion to strike for abuse of process based on res judicata.",
+            "Defensive (Plaintiff): Must demonstrate that the current action involves a different issue, different parties, or that the prior decision was not final. Alternatively, argue a narrow exception like fraud or new evidence that could not have been discovered with reasonable diligence."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Argentia Beach (Summer Village) v. Warshawski (1991), 84 Alta. L.R (2d) 202 (C.A.)",
+              "proposition": "Res judicata is not limited to what was argued and decided; it extends to what reasonably should have been raised."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-collateral-attack-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Collateral Attack on Prior Orders",
+        "description": "An abuse of process where a party initiates a new lawsuit with the object of challenging the validity or effect of a final order from a previous proceeding, rather than challenging it directly through appeal or an application to set aside.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "the principle of collateral attack generally makes an order of a court having jurisdiction binding and conclusive, and not susceptible to attack in a proceeding where the object of that proceeding is other than the reversal, variation or nullification of the order or judgment: Behn, Nash",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:35:00Z",
+          "strategic_rationale": "This trap prevents litigants from circumventing the proper appeal process. It forces challenges to court orders into the correct procedural channels. For a defendant protected by a prior order (e.g., a lender with a receivership order), this is a powerful tool to strike down subsequent lawsuits that try to undermine that order's authority.",
+          "litigation_implications": [
+            "Offensive (Defendant): If the plaintiff's claim implicitly or explicitly challenges the basis of a prior court order, apply to strike the claim as an improper collateral attack.",
+            "Defensive (Plaintiff): Must frame their new action so it does not challenge the validity of the prior order itself, but rather focuses on conduct that falls outside the scope of that order (e.g., a lender's conduct *before* the receivership order was granted)."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Trimove Inc. v. Servus Credit Union, 2017 ABQB 50",
+              "proposition": "A post-receivership action against a lender is a collateral attack on the receivership orders if those orders were not appealed."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-cross-motion-priority",
+        "node_type": "ControlMechanism",
+        "label": "Procedural Counter: Priority of Amendment Motion",
+        "description": "When there are cross-motions to strike a claim and to amend it, the court should consider the motion to amend first. This gives the plaintiff an opportunity to cure any defects in the pleading before the strike motion is heard.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On appeal, counsel for the respondent conceded that where there are cross-motions to strike out a statement of claim and to amend it, the judge hearing the motions should consider the amendment motion first.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:38:00Z",
+          "strategic_rationale": "This is a critical defensive mechanism for a plaintiff facing a strike motion. It allows the plaintiff to proactively fix their pleading, potentially rendering the defendant's strike motion moot. It prioritizes substance over form, reflecting the court's preference to decide cases on their merits rather than on technical pleading deficiencies.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): If served with a strike motion, immediately review the pleading for defects and, if necessary, file a cross-motion to amend. This seizes procedural control.",
+            "Offensive (Defendant): When arguing against the amendment, must demonstrate that the proposed amendment is futile and still fails to disclose a reasonable cause of action, effectively combining the two arguments."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Riccioni v. Law Society of Alberta, 2017 ABQB 261",
+              "proposition": "The principle of hearing an amendment application before a summary judgment application also applies to an application to strike a claim under rule 3.68."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-high-onus-on-applicant",
+        "node_type": "FoundationalPillar",
+        "label": "Burden of Proof: Extremely High Onus on Applicant",
+        "description": "The party applying to strike a pleading bears the burden of proof, and the onus is described as 'extremely high'. This reinforces the principle that striking a claim is an extraordinary measure.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Finally, the defendant bears the burden of proof on this application, and the onus to meet is “extremely high”: Alberta Adolescent Recovery Centre v CBC, 2012 ABQB 48 (CanLII) at para 29.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:40:00Z",
+          "strategic_rationale": "This pillar serves as a significant deterrent to frivolous strike applications. It forces the applicant (usually the defendant) to be certain of their legal position before attempting to terminate the action. For the plaintiff, it is a key rhetorical point to emphasize the drastic nature of the relief being sought.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): Begin and end submissions by reminding the court of the 'extremely high' onus on the defendant and that any doubt must be resolved in favour of letting the claim proceed.",
+            "Strategic Consideration (Defendant): This high onus necessitates a clear, concise legal argument that demonstrates the claim is 'doomed to fail', not just weak or unlikely to succeed."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Principal Group Ltd. (Trustee of) v. Alberta (1991), 118 A.R. 40 (Q.B.)",
+              "proposition": "The burden of proof is on the applicant, and if there is any issue, no matter how minuscule, the plaintiff should be permitted to proceed to trial."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-broadening-tort-counter",
+        "node_type": "ProceduralTrap",
+        "label": "Counter: 'Novel Proposition' vs 'Broadening a Tort'",
+        "description": "A critical distinction used to attack novel claims. While courts protect 'novel legal propositions', they are willing to strike claims that attempt to improperly broaden a narrowly defined tort without public policy justification.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "While judges should not be quick to strike pleadings which raise novel legal propositions, I do not see this matter as a novel proposition but rather as a broadening of a narrowly defined tort. No public policy reasons have been suggested to justify such an extension, which would open the floodgates of this type of pleading and would put Rocky Mountain and its directors to the time and expense of defending an action that is doomed to failure.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:42:00Z",
+          "strategic_rationale": "This is the defendant's primary weapon against the 'novelty' defense. It provides a legal framework to argue that the plaintiff's claim is not a legitimate evolution of the law, but an unwarranted and dangerous expansion that should be stopped at the pleading stage.",
+          "litigation_implications": [
+            "Offensive (Defendant): Frame the plaintiff's novel claim not as 'new' but as an attempt to 'broaden' a specific, narrow tort. Argue the negative public policy implications (e.g., 'opening the floodgates').",
+            "Defensive (Plaintiff): Must frame their novel claim as a logical and necessary evolution of existing principles, supported by public policy, rather than a radical expansion."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Rocky Mountain Rail Society v. H & D Hobby Distributing Ltd. (1995), 27 Alta. L.R. (3d) 424 (Q.B.)",
+              "proposition": "A distinction exists between a permissible 'novel legal proposition' and an impermissible 'broadening of a narrowly defined tort' which may be struck."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-appellate-review-standard",
+        "node_type": "FoundationalPillar",
+        "label": "Appellate Standard: Reversal Only for Obvious Error",
+        "description": "The standard of review for an appeal of a chambers judge's dismissal of a strike motion is very high. An appellate court will only reverse if it is 'obvious without elaborate argument' that there is no cause of action.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Moreover, in our view, when a chambers judge dismisses a motion to strike out a statement of claim, an appellate court should reverse him or her only if it is obvious without elaborate argument that there is no cause of action.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:44:00Z",
+          "strategic_rationale": "This pillar acts as a powerful disincentive for defendants to appeal a failed strike motion. It reinforces the finality of the initial decision and significantly raises the cost and risk of an appeal, forcing the defendant to have an exceptionally strong case for reversal.",
+          "litigation_implications": [
+            "Strategic Decision (Defendant): After losing a strike motion, use this standard to assess the viability of an appeal. An appeal is likely futile unless the chambers judge made a clear and obvious legal error.",
+            "Defensive (Plaintiff/Respondent on Appeal): Vigorously argue that the defendant (appellant) cannot meet this high standard and is merely trying to re-argue a complex motion."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Tanar Industries Ltd. v. American Home Assurance Co. (1998), 64 Alta. L.R. (3d) 144 (C.A.)",
+              "proposition": "Establishes the high standard of review on an appeal from a dismissed strike application: reversal only if it is obvious without elaborate argument that no cause of action exists."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-negligence-is-fact",
+        "node_type": "FoundationalPillar",
+        "label": "Pleading Shield: 'Negligence' is an Allegation of Fact",
+        "description": "For pleading purposes, a general allegation of negligence is considered an allegation of fact, not a mere legal conclusion. A plaintiff is not required to have evidence of the negligence when pleading and can rely on discovery to obtain it.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "For pleadings purposes, an allegation of negligence in a pleading is considered to be an allegation of fact: Fullowha v. Whitford (Nov. 25, 1996), C.A. 00628-C.A.00634 (N.W.T. C.A.).",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            },
+            {
+              "text": "To plead that the defendant negligently injured the plaintiff is to plead a fact, even if it also implies a legal conclusion…",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:46:00Z",
+          "strategic_rationale": "This is a powerful shield for plaintiffs in tort actions, directly countering a 'bald allegation' attack. It establishes that the core allegation of 'negligence' is itself a sufficient factual pleading to survive a strike motion, pushing arguments about the details of the negligence to a demand for particulars or discovery.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): When faced with a strike motion attacking a negligence claim as a 'bald allegation', cite *Fullowha* to argue the pleading is sufficient as a matter of law.",
+            "Offensive (Defendant): This principle forces a defendant to shift their attack from striking the claim to demanding particulars of the alleged negligence."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Fullowha v. Whitford (Nov. 25, 1996), C.A. 00628-C.A.00634 (N.W.T. C.A.)",
+              "proposition": "An allegation of negligence in a pleading is considered an allegation of fact and is sufficient for pleading purposes."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-particulars-demand-waiver",
+        "node_type": "ProceduralTrap",
+        "label": "Edge Case: The Particulars Demand Waiver Trap",
+        "description": "A procedural trap based on conflicting case law. One view (*Creswell*) holds that demanding particulars of an allegation concedes its relevance and bars a subsequent motion to strike it. The opposing view (*Valentine*) holds that demanding particulars is a necessary step to define the claim for a strike motion.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "… a party who serves a demand for particulars has conceded the relevance of the allegations in respect of which particulars are demanded. In my view the demand for particulars has foreclosed the issue of relevance...",
+              "source_reference": "05207.rtf#§ 3.68(2)(c):1"
+            },
+            {
+              "text": "With respect, I cannot agree with this view... A requirement that a plaintiff define his claim does not of necessity admit to the relevance of the claim. Indeed particulars may properly be required as a necessary step to define the claim for a striking action.",
+              "source_reference": "05207.rtf#§ 3.68(2)(c):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:48:00Z",
+          "strategic_rationale": "This node captures a high-value tactical ambiguity. For a plaintiff, it's a potential 'gotcha' argument to defeat a strike motion on procedural grounds. For a defendant, it represents a critical decision point: demand particulars and risk a waiver argument, or move to strike immediately and risk the motion being deemed premature.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If the defendant demanded particulars before filing to strike, argue they have conceded relevance and waived their right to strike, citing *Creswell*.",
+            "Strategic Decision (Defendant): Be aware of this trap. If the pleading is fundamentally irrelevant, it may be better to move to strike immediately. If it's merely vague, demanding particulars first may be necessary, but be prepared to counter the waiver argument by citing *Valentine*."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Creswell v. Edmonton Journal (1986), 42 Alta. L.R. (2d) 395 (Master)",
+              "proposition": "Demanding particulars of an allegation concedes its relevance and forecloses a subsequent application to strike that allegation."
+            },
+            {
+              "case_name": "Valentine v. Bee-Bell Health Bakery Ltd. (1993), 161 A.R. 1 (Master)",
+              "proposition": "A party does not necessarily waive their right to strike an allegation by first demanding particulars of it."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-res-judicata-fraud-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Res Judicata Counter: The Fraud Exception",
+        "description": "A narrow but powerful exception to the doctrine of res judicata. A party may be permitted to re-litigate an issue if they can prove the previous judgment was obtained by fraud that was collateral or extraneous to the original proceedings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "One such exception occurs when fraud is practised upon the court… The fraud relied on must be something collateral or extraneous, and not merely the fraud which is imputed from alleged false statements made at the trial, which were met by counter-statements by the other side...",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:50:00Z",
+          "strategic_rationale": "This is the 'break glass in case of emergency' option to overcome res judicata. It provides a basis to attack a final judgment, but the bar is extremely high, requiring proof of new facts showing a fraud on the court itself, not just perjury that was tested at trial.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): To overcome a res judicata defence, plead and be prepared to prove a collateral fraud (e.g., bribery of a witness, concealment of a key document) that prevented the true issue from being tried.",
+            "Defensive (Defendant): Argue that the plaintiff's 'fraud' allegation is merely an attempt to re-argue the credibility of evidence that was already adjudicated in the first trial."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Jacobs v. Beaver (1908), 17 O.L.R. 496 (C.A.)",
+              "proposition": "To set aside a judgment for fraud, the fraud must be collateral or extraneous, not merely false statements made and adjudicated upon at trial."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-res-judicata-new-evidence-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Res Judicata Counter: The New Evidence Exception",
+        "description": "A very limited exception to res judicata, applicable only upon the discovery of new evidence that entirely changes the aspect of the case and could not have been ascertained by reasonable diligence before the first trial concluded.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In order to be at liberty to proceed with a second suit he must be prepared to say: I will show you this is a fact which entirely changes the aspect of the case, and I will show you further that it was not, and could not by reasonable diligence have been ascertained by me before.",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [
+            "Commentary on Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-04T11:52:00Z",
+          "strategic_rationale": "This exception provides a route to reopen a case in extraordinary circumstances. The dual requirements of the evidence being game-changing AND undiscoverable with diligence make it a very high hurdle, protecting the principle of finality from frivolous attempts to re-litigate based on minor new facts.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): To invoke this exception, a plaintiff must file evidence proving not only the new fact but also the extensive (and failed) efforts made to discover it before the end of the first action.",
+            "Defensive (Defendant): Attack the plaintiff's claim on either prong: argue the 'new' evidence is not significant enough to change the outcome, or argue that the plaintiff failed to exercise reasonable diligence in the first action."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Grandview (Town) v. Doering, [1976] S.C.R. 621",
+              "proposition": "To reopen a case on new evidence, the evidence must entirely change the aspect of the case and could not have been found with reasonable diligence."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-bald-allegations-counters-assume-true",
+        "source_node_id": "pt-r3-68-bald-allegations-exception",
+        "target_node_id": "fp-r3-68-assume-facts-as-true",
+        "relationship_type": "COUNTERS",
+        "description": "The 'bald allegations' exception is the primary counter-attack to the foundational principle that pleaded facts are assumed to be true on a 3.68(2)(b) motion.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "While the Plaintiffs state that all allegations in the Claim must be taken as proved, the Defendants propose two limits on that principle: (1) bare allegations with no facts need not be taken as proved...",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship represents the core adversarial dynamic in a pleading motion: the plaintiff's shield ('assume true') versus the defendant's spear ('bald allegations').",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-no-evidence-reinforces-assume-true",
+        "source_node_id": "cm-r3-68-no-evidence-rule",
+        "target_node_id": "fp-r3-68-assume-facts-as-true",
+        "relationship_type": "REINFORCES",
+        "description": "The 'no evidence' rule gives practical force to the 'assume facts as true' principle by procedurally barring any attempt to challenge the pleaded facts with evidence.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In considering the claim, the court must assume that the facts as pleaded are true... However, the parties may not submit new evidence on this application: Rules, r 3.68(3).",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This link shows how a procedural control (no evidence) operationalizes a foundational legal principle (assume facts true).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-assume-true-is-component-of-plain-obvious",
+        "source_node_id": "fp-r3-68-assume-facts-as-true",
+        "target_node_id": "wf-r3-68-2b-plain-and-obvious-test",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The assumption that pleaded facts are true is a mandatory component of the 'plain and obvious' test.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "At p. 401, she phrased the question as follows: “… assuming that the facts as stated in the statement of claim can be proved, is it ‘plain and obvious’ that the plaintiff's statement of claim discloses no reasonable cause of action?”",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship clarifies that the 'plain and obvious' test cannot be applied in a factual vacuum; it must proceed from the starting point of the plaintiff's pleaded facts.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-far-fetched-counters-novelty",
+        "source_node_id": "pt-r3-68-far-fetched-claim-exception",
+        "target_node_id": "fp-r3-68-novelty-is-not-fatal",
+        "relationship_type": "COUNTERS",
+        "description": "The principle that 'far-fetched' claims can be struck serves as a direct counter to a plaintiff's argument that their novel claim should be allowed to proceed.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It also does not help to say that a pleading should not be struck out where it raises something novel. Novel does not encompass something that is plain and obvious beyond doubt... Novel does not encompass far-fetched.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship models the tactical exchange over the viability of a new cause of action.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-abuse-of-process-modifies-assume-true",
+        "source_node_id": "wf-r3-68-2d-abuse-of-process-framework",
+        "target_node_id": "fp-r3-68-assume-facts-as-true",
+        "relationship_type": "MODIFIES",
+        "description": "The Abuse of Process framework fundamentally modifies (by negating) the 'assume facts as true' principle, as the court is not bound by the pleadings and can consider external evidence.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Of course, on an application under subr. 1(a) of R. 129... the court must take the allegations in the statement of claim as true … However, in relation to an application under subr. 1(d)... [the judge] was not entitled to take the allegations in the statement of claim as true.",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This highlights the most significant procedural difference between a 3.68(2)(b) motion and a 3.68(2)(d) motion.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-evidence-admissible-operationalizes-abuse-of-process",
+        "source_node_id": "cm-r3-68-2d-evidence-admissible",
+        "target_node_id": "wf-r3-68-2d-abuse-of-process-framework",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The admissibility of evidence is the key mechanism that operationalizes the flexible and fact-sensitive nature of the Abuse of Process framework.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is quite different for an application to strike out a statement of claim on the ground that it is vexatious or an abuse of process. In this case, evidence is admissible to show that the claim is vexatious or an abuse of process.",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship shows that the power of the 'abuse of process' doctrine comes directly from the court's ability to look beyond the pleadings.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-res-judicata-is-type-of-abuse",
+        "source_node_id": "pt-r3-68-res-judicata-trap",
+        "target_node_id": "wf-r3-68-2d-abuse-of-process-framework",
+        "relationship_type": "IS_A_TYPE_OF",
+        "description": "Attempting to re-litigate a decided matter (res judicata) is a classic and specific example of an abuse of process.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An attempt to re-litigate issues already decided or deemed to have been decided may be found an abuse of process and barred in circumstances where estoppel by res judicata is not available...",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This classifies a specific legal doctrine (res judicata) within the broader strategic framework (abuse of process).",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-collateral-attack-is-type-of-abuse",
+        "source_node_id": "pt-r3-68-collateral-attack-trap",
+        "target_node_id": "wf-r3-68-2d-abuse-of-process-framework",
+        "relationship_type": "IS_A_TYPE_OF",
+        "description": "A collateral attack on a prior court order is a specific form of abuse of process.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "a post-receivership action against a lender is a collateral attack on orders granted in the receivership proceedings if those orders were not appealed...",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship connects the specific trap of collateral attack to the overarching framework.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-amendment-priority-counters-strike-framework",
+        "source_node_id": "cm-r3-68-cross-motion-priority",
+        "target_node_id": "wf-r3-68-2b-plain-and-obvious-test",
+        "relationship_type": "COUNTERS",
+        "description": "The procedural rule giving priority to a motion to amend acts as a direct counter to a defendant's attempt to strike a claim, as it allows the plaintiff to fix the pleading first.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...where there are cross-motions to strike out a statement of claim and to amend it, the judge hearing the motions should consider the amendment motion first.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship models a key defensive tactic, allowing a plaintiff to seize the initiative and neutralize an attack.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-high-onus-reinforces-plain-obvious",
+        "source_node_id": "fp-r3-68-high-onus-on-applicant",
+        "target_node_id": "wf-r3-68-2b-plain-and-obvious-test",
+        "relationship_type": "REINFORCES",
+        "description": "The 'extremely high' onus on the applicant reinforces the stringency of the 'plain and obvious' test, making it very difficult to succeed.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "So the burden of proof lies squarely on the shoulders of the applicant, because clearly, where there is an issue, no matter how minuscule, the plaintiff should be permitted the opportunity to have the matter tried by a trial judge.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This link connects the burden of proof directly to the legal test, highlighting the practical difficulty a defendant faces.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-premature-strike-is-trap-for-strike-framework",
+        "source_node_id": "pt-r3-68-premature-strike-limitation-trap",
+        "target_node_id": "wf-r3-68-2b-plain-and-obvious-test",
+        "relationship_type": "IS_A_TRAP_FOR",
+        "description": "Applying the 'Plain and Obvious' strike framework before the limitation period has expired is a tactical trap for the applicant.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It never ceases to amaze me to see defendants applying to strike out a statement of claim on the ground that it does not disclose a cause of action when the limitation period for suing has not expired.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship highlights a critical strategic misstep.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-broadening-tort-counters-novelty",
+        "source_node_id": "pt-r3-68-broadening-tort-counter",
+        "target_node_id": "fp-r3-68-novelty-is-not-fatal",
+        "relationship_type": "COUNTERS",
+        "description": "The argument that a claim is 'broadening a tort' is the direct counter to the defense that a claim is merely 'novel'.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "While judges should not be quick to strike pleadings which raise novel legal propositions, I do not see this matter as a novel proposition but rather as a broadening of a narrowly defined tort.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This models the primary attack against a novel cause of action.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-negligence-is-fact-counters-bald-allegations",
+        "source_node_id": "fp-r3-68-negligence-is-fact",
+        "target_node_id": "pt-r3-68-bald-allegations-exception",
+        "relationship_type": "COUNTERS",
+        "description": "The principle that 'negligence is an allegation of fact' provides a specific and powerful counter to an argument that a negligence claim is a 'bald allegation'.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "To plead that the defendant negligently injured the plaintiff is to plead a fact, even if it also implies a legal conclusion…",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This relationship equips the plaintiff with a targeted defense against a common attack in tort claims.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-fraud-exception-counters-res-judicata",
+        "source_node_id": "pt-r3-68-res-judicata-fraud-exception",
+        "target_node_id": "pt-r3-68-res-judicata-trap",
+        "relationship_type": "COUNTERS",
+        "description": "The fraud exception is a direct, though high-bar, countermeasure to a defense of res judicata.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The rule of res judicata is not absolute in application. In some limited circumstances, a party may be permitted to enter upon new proceedings... One such exception occurs when fraud is practised upon the court…",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This models the primary escape route from the finality of a prior judgment.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-new-evidence-exception-counters-res-judicata",
+        "source_node_id": "pt-r3-68-res-judicata-new-evidence-exception",
+        "target_node_id": "pt-r3-68-res-judicata-trap",
+        "relationship_type": "COUNTERS",
+        "description": "The new evidence exception provides a second, highly restricted countermeasure to a defense of res judicata.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A second exception to the res judicata principle may apply on the discovery of new evidence. That exception, however, is very limited in scope.",
+              "source_reference": "05208.rtf#§ 3.68(2)(d):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This models the secondary, fact-based escape route from the finality of a prior judgment.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-appellate-standard-reinforces-strike-framework",
+        "source_node_id": "fp-r3-68-appellate-review-standard",
+        "target_node_id": "wf-r3-68-2b-plain-and-obvious-test",
+        "relationship_type": "REINFORCES",
+        "description": "The high bar for appellate review reinforces the finality and difficulty of the initial strike motion framework, deterring appeals.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Appellate courts will not lightly interfere with discretionary orders such as those made under Rule 129(1) … an appellate court should reverse him or her only if it is obvious without elaborate argument that there is no cause of action.",
+              "source_reference": "05205.rtf#§ 3.68(2):1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-04T11:55:00Z",
+          "strategic_rationale": "This link highlights the strategic importance of winning the strike motion at first instance, as the chances of reversal are slim.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-bald-allegation-pincer",
+        "title": "The Bald Allegation Pincer Attack",
+        "objective": "To strike a claim that relies on conclusory allegations of wrongdoing by simultaneously neutralizing the 'assume facts as true' shield and leveraging the 'no evidence' rule.",
+        "prerequisites": [
+          "Plaintiff's Statement of Claim contains allegations of malice, conspiracy, or bad faith without detailed supporting facts."
+        ],
+        "expected_outcome": "The offending portions of the claim are struck, forcing the plaintiff to amend (if possible) and likely resulting in a costs award for the defendant.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-68-2b-plain-and-obvious-test"
+            ],
+            "action": "File an application to strike under Rule 3.68(2)(b), framing the issue as a failure to plead a viable cause of action.",
+            "justification": "Rule 3.68(1)(a) and (2)(b) provide that all or part of a claim may be struck out where it “discloses no reasonable claim”."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "fp-r3-68-assume-facts-as-true"
+            ],
+            "action": "In written and oral argument, strategically concede that the court must normally assume pleaded facts are true.",
+            "justification": "In considering the claim, the court must assume that the facts as pleaded are true: Hunt at 980."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-68-bald-allegations-exception"
+            ],
+            "action": "Immediately pivot, arguing that this principle does not apply to 'bald allegations'. Isolate the conclusory allegations and argue they are not 'facts' entitled to the presumption of truth.",
+            "justification": "a bare allegation, such as bad faith or malice, without any facts pled in support and without particulars, is inadequate."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "cm-r3-68-no-evidence-rule"
+            ],
+            "action": "Conclude by arguing that with the bald allegations disregarded, the claim is legally insufficient, and the plaintiff cannot use evidence to fix this fatal pleading defect on this motion.",
+            "justification": "Pursuant to subrule 3.68(3) of the Alberta Rules of Court no evidence may be submitted on an application under clause (b) of subrule 3.68(2)."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-res-judicata-kill-shot",
+        "title": "The Res Judicata Kill Shot",
+        "objective": "To terminate a new lawsuit that is a disguised attempt to re-litigate issues that were, or should have been, decided in a prior action.",
+        "prerequisites": [
+          "A prior lawsuit involving the same parties (or their privies) has concluded with a final order.",
+          "The new lawsuit raises issues that overlap with the prior action."
+        ],
+        "expected_outcome": "The new action is struck in its entirety as an abuse of process, with costs awarded on a heightened scale.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-68-2d-abuse-of-process-framework"
+            ],
+            "action": "File an application to strike the claim as an abuse of process under Rule 3.68(2)(d).",
+            "justification": "One circumstance in which abuse of process has been applied is where the litigation before the court is found to be in essence an attempt to relitigate a claim which the court has already determined."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "cm-r3-68-2d-evidence-admissible"
+            ],
+            "action": "File a comprehensive affidavit attaching the pleadings, key evidence, and the final order from the prior litigation to prove the overlap.",
+            "justification": "in determining whether proceedings are vexatious, the court must look at the whole history of the matter and not just whether there was originally a good cause of action."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-68-res-judicata-trap"
+            ],
+            "action": "Argue that the new claim is barred by cause of action or issue estoppel, emphasizing that the plaintiff is engaging in 'litigation by instalments'.",
+            "justification": "Res judicata is not limited to what was argued and decided in the previous suit. It extends to what reasonably should have been raised. Litigation by instalments is interminable."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-the-amend-and-defend-counter",
+        "title": "Countering a Pleading Strike with the Amend-and-Defend",
+        "scenario": "A defendant files a potent but technically-focused application to strike the plaintiff's Statement of Claim under Rule 3.68(2)(b), alleging a key element of the cause of action has been improperly pleaded.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-68-2b-plain-and-obvious-test"
+            ],
+            "description": "Defendant serves and files an application to strike the claim, arguing it is 'plain and obvious' that it discloses no reasonable cause of action due to a specific pleading deficiency."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "cm-r3-68-cross-motion-priority"
+            ],
+            "description": "Plaintiff immediately drafts an Amended Statement of Claim that cures the alleged defect and files a cross-application to amend the pleading."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "cm-r3-68-cross-motion-priority"
+            ],
+            "description": "In response to the defendant's application, plaintiff argues that the court must hear their application to amend *first*, before considering the strike motion.",
+            "justification": "where there are cross-motions to strike out a statement of claim and to amend it, the judge hearing the motions should consider the amendment motion first."
+          }
+        ],
+        "decision_points": [
+          "Can the plaintiff's proposed amendment actually cure the defect identified by the defendant?",
+          "Is the defendant's strike motion so strong that even the amended pleading would fail the 'plain and obvious' test?"
+        ],
+        "expected_outcome": "High probability that the court will grant the plaintiff's application to amend the claim. This renders the defendant's strike application moot, neutralizing the attack and allowing the action to proceed on the basis of the improved pleading. The defendant will have expended costs for no strategic gain."
+      },
+      {
+        "simulation_id": "cms-002-the-negligence-shield-counter",
+        "title": "Countering the Bald Allegation Pincer with the Negligence Shield",
+        "scenario": "In a personal injury action, the defendant brings the 'Bald Allegation Pincer Attack' (tp-001), arguing that the plaintiff's claim of negligence is a bald assertion without sufficient material facts.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-68-bald-allegations-exception"
+            ],
+            "description": "Defendant argues that the plaintiff has merely pleaded the legal conclusion 'the Defendant was negligent' without pleading the specific facts of that negligence, and therefore the allegation is not entitled to be presumed true."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "fp-r3-68-negligence-is-fact"
+            ],
+            "description": "Plaintiff's counsel counters by citing *Fullowha v. Whitford*, arguing that for pleading purposes, an allegation of negligence *is* an allegation of fact and is legally sufficient to ground the claim.",
+            "justification": "To plead that the defendant negligently injured the plaintiff is to plead a fact, even if it also implies a legal conclusion…"
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "fp-r3-68-negligence-is-fact"
+            ],
+            "description": "Plaintiff argues that the defendant's remedy for lack of detail is not to strike the claim, but to demand particulars, and that the plaintiff is entitled to discovery to uncover the specific details of the defendant's negligence.",
+            "justification": "The remedy for want of particulars is a demand for particulars, and then (if that is not answered) a motion for particulars... Such a power is completely inconsistent with the idea that the pleading is liable to be struck out for mere want of particulars."
+          }
+        ],
+        "decision_points": [
+          "Does the presiding judge view the pleading as a sufficient allegation of negligence under *Fullowha*, or as so bare that it crosses the line into a true bald allegation?"
+        ],
+        "expected_outcome": "Very high probability of successfully defending the motion. The court will likely rule that the allegation of negligence is a sufficient pleading of fact at this stage. The defendant's motion will be dismissed, and they will be directed to seek details through a demand for particulars. The attack is neutralized and converted from a potentially fatal motion into a standard procedural step."
+      }
+    ]
+  }
+}

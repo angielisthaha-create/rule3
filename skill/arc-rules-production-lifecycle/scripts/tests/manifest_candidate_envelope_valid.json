@@ -1,0 +1,216 @@
+{
+  "schema_version": "arc-rule-batch-v3",
+  "batch_id": "rule3-stage2-batch-006",
+  "database": "neo4j",
+  "workflow_lane": "CANDIDATE_ENVELOPE_INGEST",
+  "rule_scope": [
+    "3.15(5)",
+    "3.16(2)"
+  ],
+  "source_class": "mixed",
+  "authority": {
+    "source_build": true,
+    "candidate_write": true,
+    "production_promotion": false,
+    "current_law_certification": false,
+    "court_facing_release": false
+  },
+  "source_materialization": {
+    "mode": "PROVISIONAL_ENVELOPE_ONLY",
+    "source_graph_materialized": false,
+    "envelope_only": true,
+    "production_promotion_blocked": true,
+    "proposed_anchor_relationship_created": false,
+    "required_ledger_fields": [
+      "source_package_sha256",
+      "source_record_sha256",
+      "artifact_hash_ledger_sha256",
+      "span_hash_ledger_sha256",
+      "embedded_candidate_uid_ledger_sha256"
+    ]
+  },
+  "source_files": [
+    {
+      "path": "rule_3_15_5.txt",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "record_count": 1,
+      "segment_count": 8,
+      "span_count": 10
+    }
+  ],
+  "candidate_families": [
+    {
+      "family": "source_candidate_record",
+      "candidate_count": 2,
+      "uids": [
+        "uid-1",
+        "uid-2"
+      ],
+      "evidence_span_count": 18,
+      "proposed_target_label": "ReviewCandidate",
+      "promotion_contract": "quarantined-envelope-only",
+      "expected_metric_ids": [],
+      "denominator_risk": "NOT_APPLICABLE",
+      "expected_complete_count": 0
+    }
+  ],
+  "stage_ledger": [
+    {
+      "stage_id": 0,
+      "name": "scope_and_authority",
+      "status": "CLOSED",
+      "verification_artifact": "scope_verification.json"
+    },
+    {
+      "stage_id": 1,
+      "name": "manual_txt_source_build",
+      "status": "CLOSED",
+      "verification_artifact": "source_validation.json"
+    },
+    {
+      "stage_id": 2,
+      "name": "source_evidence_closure",
+      "status": "CLOSED_WITH_LIMITATIONS",
+      "verification_artifact": "envelope_validation.json",
+      "limitation": "source graph not materialized; promotion blocked"
+    },
+    {
+      "stage_id": 3,
+      "name": "review_candidate_materialization",
+      "status": "CLOSED",
+      "verification_artifact": "candidate_readback.json"
+    },
+    {
+      "stage_id": 4,
+      "name": "stage1_cumulative_closure",
+      "status": "CLOSED",
+      "verification_artifact": "stage1_closure.json"
+    },
+    {
+      "stage_id": 5,
+      "name": "official_source_comparison",
+      "status": "PENDING"
+    },
+    {
+      "stage_id": 6,
+      "name": "amended_manifest_admission",
+      "status": "PENDING"
+    },
+    {
+      "stage_id": 7,
+      "name": "semantic_metadata_correction",
+      "status": "PENDING"
+    },
+    {
+      "stage_id": 8,
+      "name": "appendix_baseline_metric_design",
+      "status": "NOT_APPLICABLE"
+    },
+    {
+      "stage_id": 9,
+      "name": "promotion_packet_rollback",
+      "status": "BLOCKED"
+    },
+    {
+      "stage_id": 10,
+      "name": "production_canary",
+      "status": "NOT_APPLICABLE"
+    },
+    {
+      "stage_id": 11,
+      "name": "family_promotion",
+      "status": "BLOCKED"
+    },
+    {
+      "stage_id": 12,
+      "name": "independent_production_closure",
+      "status": "BLOCKED"
+    },
+    {
+      "stage_id": 13,
+      "name": "post_promotion_appendix",
+      "status": "NOT_APPLICABLE"
+    },
+    {
+      "stage_id": 14,
+      "name": "policy_retrieval_validation",
+      "status": "NOT_APPLICABLE"
+    },
+    {
+      "stage_id": 15,
+      "name": "lane_closure",
+      "status": "CLOSED_WITH_LIMITATIONS",
+      "verification_artifact": "batch_report.md",
+      "limitation": "nonproduction candidate envelopes only"
+    }
+  ],
+  "authorization": {
+    "authorization_id": "one-time-id",
+    "allowed_action": "create_review_candidate_envelopes",
+    "candidate_uids": [
+      "uid-1",
+      "uid-2"
+    ],
+    "issued": true,
+    "consumed": true,
+    "prohibited_actions": [
+      "production_promotion",
+      "canonical_target_relationship",
+      "current_law_certification",
+      "court_facing_release"
+    ]
+  },
+  "expected_graph_effects": {
+    "nodes_created": 3,
+    "relationships_created": 2,
+    "production_labels": [],
+    "prohibited_labels": [
+      "LegalProposition",
+      "LegalTest",
+      "RuleProvisionVersion"
+    ],
+    "no_change_invariants": [
+      "no canonical target relationships",
+      "no release-status elevation"
+    ]
+  },
+  "promotion_order": [],
+  "migration": {
+    "migration_id": "unique-migration-id",
+    "canary_required": false,
+    "canary_uid": null,
+    "rollback_defined": true,
+    "rollback_path": "ROLLBACK_BATCH.cypher",
+    "expected_count": 2
+  },
+  "recovery_protocol": {
+    "timeout_state": "UNKNOWN_UNTIL_CHECKED",
+    "label_scoped_checks": true,
+    "exact_uid_rollback": true,
+    "unlabeled_uid_scan_prohibited": true
+  },
+  "appendix": {
+    "mode": "DEFERRED_NONPRODUCTION",
+    "generation_required": false,
+    "trigger_reason": "quarantined candidate envelopes only; no production or metric surface changes",
+    "metric_surface_changed": false,
+    "production_topology_changed": false,
+    "release_status_changed": false,
+    "schema_or_metric_definition_changed": false,
+    "baseline_fingerprint": "64-hex-or-stable-fingerprint",
+    "audit_run_id": "LR_<run-id>",
+    "previous_revision": null,
+    "current_revision": null,
+    "previous_metadata_dir": null,
+    "previous_conformance_dir": null,
+    "current_metadata_dir": null,
+    "current_conformance_dir": null,
+    "expected_metric_deltas": [],
+    "figure_verification_required": false
+  },
+  "limitations": [
+    "source graph not materialized",
+    "canonical RuleProvision identity unresolved",
+    "production promotion not authorized"
+  ]
+}

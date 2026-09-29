@@ -1,0 +1,237 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.59",
+  "title": {
+    "official": "Claiming set-off",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 7,
+    "heading": "Counterclaims"
+  },
+  "operative_text": {
+    "controlling": "3.59   A matter that might be claimed by set-off may be claimed by\ncounterclaim or by pleading set-off as a defence.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "dad632f67743c3b47de12461159c95a069abb04a1a5dd83526ae3b62e1540fac"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.59 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          72
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Claiming Set-off",
+      "operative_text_raw": null,
+      "operative_text_sha256": "9380962e75b863483e5916d1bea2cce6ef06091c43c5614c59be6760628974d1",
+      "defined_terms": "pleading",
+      "related_provisions": "3.31 (form of defence) *A.General Any kind of set-off (if valid) is a defence. A set-off may now be pleaded either as a defence or as a counterclaim.The big difference is that if set-off is pleaded only as a defence, then no judgment can be entered for the defendant if it turns out that the set-off exceeds the original claim.There is no requirement to plead a defence of set-off in order to establish equitable set-off, because the language of Rule 3.59 is permissive, and Rule 13.6(3) (which sets out the matters which must be specifically pleaded) does not list set-off. See a description of the 3 types of set-off known to the law:legal, equitable, and procedural. 8Soc.G?n. Can.v. Gulf Can.Res. (#1)(CA) [1995] 9WWR 453, 456, 169 AR 317. 9Kushner v. Rocky Mtn.Sportswear(R) 2001 ABQB 743, 301 AR 394. 10See the C.P.E., Chapter 13, Parts B.3 to B.5. 11Chubak v. Corner Brook,supra. 12HML Contr.v. Pinder2022 ABCA 185, 47 Alta LR(7th) 263. 13Challenger Geomatics v. Hasco Dev. Corp.(M) 2012 ABQB 54, [2012] AR Uned 85 (Jan 20). *B.Legal Set-off A party can contract out of the right to equitable set-off. Equitable set-off is subject to equitable defences, e.g.inequitable result where there is a bankruptcy with guarantees. All the usual equitable defences and restrictions apply to restrict equitable set-off. Equitable set-off does not require continuing mutuality, but it must have existed at some stage. Stay because of a pending suit is not equitable set-off, and the criteria for that, such as mutuality, need not be met for a stay (even though sometimes they have much the same results). 2000 ABQB 529, 269 AR 79,revd[2001] 6WWR 265, 283 AR 4;Re SemCans.Crude Co. (#1)2009 ABCA At common law there was no set-off, but several old English statutes in force in Alberta direct that cross-debts between the same parties are to be netted out.Therefore, each such debt is a defence (to the extent of its size) against the other.That is what is called legal set-off. Of course if the owner of the bigger debt is the defendant, it needs a counterclaim or suit, to recover the excess.Set-off under those statutes only applies to debts, i.e., liquidated claims. The two debts defective.Equitable set-off requires that the two claims be so closely related that one action goes 237, 457 AR 336, 339 (one JA) (¶'s 10-16);Re SemCan.Crude Co.2009 ABQB 252, 459 AR 112 (¶'s 6-20). 1The case law is reviewed inFAST Ind.v. Sparta Eng.2017 ABQB 240, JCE 1503 08800 (Apr 4) (¶'s 24-32). 236, 416 AR 289. 7The tests for equitable set-off are recited, especially clear connection (¶'s 39-40):Alta.Treas.Brs.v.COGI Equity creates another kind of set-off, where two cross-claims are very closely related, e.g., *D. Examples 4Chubak v. Corner Brook Farms,supra. assessment for a specific amount of money:Re Cdn. Airlines Corp.2001 ABQB 146, 294 AR 253. need not be related to take advantage of those old statutes.But such legal set-off requires 6They were not closely enough related inStone Sapphire v.Transglobal Comm'ns. Grp.(#1)2007 ABQB *Ltd.P'ship.2018 ABQB 356, JCC 1501 02220. 5U.Tractor v. Horseshoe Contr.2002 ABCA 259, 317 AR 342.See alsoAlta.Treas.Br. v.MacLeod Dixon continued mutuality, which ends if one debt is assigned. 2On which see the C.P.E., Chapter 16, Part K.If taxes are involved, there is no actual debt until there is an *C.Equitable Set-off a claim for the price of goods sold, and a cross-claim for damages because those very goods are to the root of the other, and that it be inequitable to allow one to be collected without set-off. The two claims need not be liquidated for equitable set-off. Despite the theory that a bill of exchange should not be set off, a payee is not the same as a holder for value or in due course;where there is a counterclaim which should not be severed, summary judgment should not be granted. The trial of a counterclaim for equitable set-off should not be postponed, nor the counterclaim severed, if claim and cross-claim are closely related.Otherwise, deciding on the main claim could 3See the C.P.E., Chapter 15, Part Q. *1075398 Alta.,supra(¶'s 25-34). 4Robertson v.Robertson2016 ABCA 394, Calg 1601 0236 AC (one JA Dec 9). 5Bacsalmasi v. Research Cap.Corp.2003 ABQB 681, 349 AR 218. 6Alta.Treas. Brs.v.COGI,supra(¶ 37). 7Lion Creek Prop.v. Sorobey2015 ABQB 223, 2015 CarswellAlta 609,affg(M) 2014 ABQB 405. 8C.E.M.v.D.M.M.2003 ABQB 148, 342 AR 77. 9Carroll v.Atco Elec. (#3)2017 ABQB 641, JCE 1103 01724 (Oct 24) (¶'s 6-16). 10Quite similar to previous 1968 R.155.It came from 1944 C.R.120.Cf.1883 O.23 r.2. produceres judicata. A counterclaim dealing with a separate unrelated transaction does not raise a true set-off, only a procedural one.And ruling on the main claim creates nores judicata on the counterclaim. Set-off may be impossible where there is bankruptcy after distinct transactions, agency, and no contract calling for set-off; one debt is postulated in the future on a property division which has not yet occurred; it is against an employee's wage claim; where a contract bars set-off; res On how to deal with cross claims for divorce, one undefended, see theC.E.M.case. its costs effect, see theCarrollcase. 1Quinney v.1075398 Alta.2015 ABQB 452, 24 Alta LR(6th) 202 (¶'s 19-23). 2Quinney v.1075398,supra(¶ 24). 3NESI Enr.Mktg. Can.v.NGL Supply (Gas)",
+      "commentary": "Co.2001 ABCA 168, 281 AR 229;see alsoQuinney v.\n\n*judicataprotects a judgment of a foreign court where that claim was not raised.\nOn when a set-off or partial payment can affect the plaintiff's\"recovery\"under an offer and so\n\n\n\n*Application of Rules to Counterclaims*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-128",
+          "3-130"
+        ],
+        "offset_in_clean_text": [
+          407467,
+          413240
+        ]
+      },
+      "operative_text_note": "same wording as official 3.59 (read by eye) except: the title in title case ('Claiming Set-off', printed before the rule number); missing spaces; '*' line marks; the footnote marker '6' after the last word (its footnote, 'Quite similar to previous 1968 R.93(2). It came from 1944 C.R.103(2).', is printed at p.3-128 line 3597 in the built 3.58 record). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference.",
+      "commentary_review_flag": "Read p.3-128 (line 3616) to p.3-130 (line 3692): rule text, Defined Terms 'pleading' (the Appendix defines it), Related Provisions '3.31 (form of defence)' and a note in parts (A General, B Legal Set-off, C Equitable Set-off, D Examples), with footnotes 8-13, 1-7 and 8-10 as printed; the note is skimmed for structure and pointers, not case by case. The built record: the whole note is in related_provisions (5,316 characters, after '3.31 (form of defence)') and the commentary field (267 characters: the last note fragments 'Co. 2001 ABCA 168, 281 AR 229; see also Quinney v.', 'judicata protects a judgment of a foreign court where that claim was not raised.', 'On when a set-off or partial payment can affect the plaintiff's \"recovery\" under an offer and so') and the heading of 3.60 'Application of Rules to Counterclaims'; defined_terms holds 'pleading'; the raw-text field held the rule text; nothing dropped. The extraction interleaves columns and footnotes on pp.3-129 and 3-130 (the D. Examples and the sub-headings B, C are out of order: '*B. Legal Set-off' at line 3631 is printed before the paragraph on equitable set-off and '*C. Equitable Set-off' at line 3668 after the legal set-off text); the wording is kept as printed and the order of the pieces was not repaired. (1) Related Provisions: '3.31 (form of defence)' (official 3.31 is 'Statement of defence'). (2) Statements read against the official text and Book B: 'A set-off may now be pleaded either as a defence or as a counterclaim' agrees with 3.59; 'if set-off is pleaded only as a defence, then no judgment can be entered for the defendant if it turns out that the set-off exceeds the original claim' agrees with Book C's 3.59 commentary; 'There is no requirement to plead a defence of set-off in order to establish equitable set-off, because the language of Rule 3.59 is permissive, and Rule 13.6(3) ... does not list set-off' - official 13.6(3)(a)-(r) (breach of trust to a provision of an enactment; 'payment' and 'tender of payment' are listed) does not list set-off, and 3.59 says 'may'; 'See a description of the 3 types of set-off known to the law: legal, equitable, and procedural' agrees with Book B's parts 4-7 (Soler & Palau paras 48-49; Aboussafy v. Abacus Cities 'true set-off must be distinguished from procedural set-off'); 'At common law there was no set-off, but several old English statutes ... legal set-off ... only applies to debts, i.e., liquidated claims' agrees with Book B's part 3 (Aboussafy at 670) and part 7 (C.I.B.C. v. Tucker Industries); 'Equitable set-off requires that the two claims be so closely related that one goes to the root of the other ... The two claims need not be liquidated' agrees with Book B's part 5 (Coba Industries five elements, Holt v. Telford, Royal Bank v. Wilton); 'Equitable set-off does not require continuing mutuality' agrees in substance with Book B's part 5 ('There is no requirement of mutuality') and the 'legal set-off requires mutuality' statement with part 7 (Holt at 205); the other statements (contracting out, bankruptcy, foreign judgments, offers) were not checked. (3) History: fn 6 (1968 R.93(2); 1944 C.R.103(2)) matches the marker '6' after this rule's text and is printed in the 3.58 record; fn 10 ('Quite similar to previous 1968 R.155. It came from 1944 C.R.120. Cf. 1883 O.23 r.2.', p.3-130 line 3681) is the history of 3.60 (its marker '10' follows 3.60(2), line 3698; corrected in the 3.60 pass). (4) Other rules' pointers to 3.59: 3.31's related provision '3.59 (defence of set-off)' (p.3-81, line 2197; not the official title 'Claiming set-off'); p.3-125 (line 3522) 'But also see R.3.58, and R.3.59 and its commentary' and p.3-127 (line 3586) 'If a set-off is claimed under R.3.59' (in the 3.58 note); R.13 p.13-35 (line 1787) 'the language of Rule 3.59 is permissive and Rule 13.6(3), does not list set-off' and p.13-66 (lines 3467-3468) 'may be pleaded by way of counterclaim or defence (R. 3.59)'; R.9 p.9-21 (line 975, related provisions '3.56 (counterclaims); 3.59 (set-off)'; line 1003, footnote 3 'Which implies set-off, on which see the C.P.E., Chapter 13, Part B and R.3.59'). The official text has only the table of contents (line 449) and the rule itself (line 5030). (5) Book B's commentary (seven parts, 8,581 characters: Atlantic Acceptance v. Burns & Dutton, Phoenix Piston, Grenke v. Sookermany, Aboussafy v. Abacus Cities, Soler & Palau, Holt v. Telford, National Cabinet Lock, Royal Bank v. Wilton, Canadian Commercial Bank v. Parlee McLaws, P.P.G. Canada v. Alberta Window) is decisions under former R.93; Book B's part 6 says of R.93 'Subrules (1) and (2) ... do not mean the same thing' (subrule (2) about how a set-off defence is raised), which Book C reads as the requirement that Book A's fn 6 (1968 R.93(2)) records. The cases in Book A's note (e.g. Chubak v. Corner Brook Farms 2015 ABQB 806; FAST Ind. v. Sparta Eng. 2017 ABQB 240; Alta. Treas. Brs. v. COGI) were not checked."
+    },
+    "BOOK_B": {
+      "title": "Claiming set-off",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.59:1",
+          "text": "Rule 3.59 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.59. 1. What Is a Counterclaim? A counter-claim is sometimes a mere set-off; sometimes it is in the nature of a cross-action; sometimes it is in respect of a wholly independent transaction. I think the true mode of considering the claim and counter-claim is, that they are wholly independent suits, which, for convenience of procedure are combined in one action. Atlantic Acceptance Corp. v. Burns & Dutton Construction (1962) Ltd., [1971] 1 W.W.R. 84 (Alta. C.A.), at 92, per Allen J.A., citing Brett L.J. in Winterfield v. Bradnum (1878), 3 Q.B.D. 324 at 326 (C.A.). The counterclaim need not relate to the main action. A defendant can counterclaim for “any claim or cause of action” against the plaintiff. The cross-claim need not be tied to or in some way relate to the main action. Phoenix Piston Hydraulics Inc. v. Echo Valley Farms Inc. (1996), 44 Alta. L.R. (3d) 283 (Master), at 287, per Master Funduk. 2. Where Parties Are Identical The counterclaim need not be related to the main action where the parties are the same. What it comes down to is that a defendant can counterclaim against the plaintiff for anything that he could have advanced by cross-action. There should not be a severance unless both the claim and the cross-claim advanced by way of counterclaim cannot be conveniently disposed of in the same action. Grenke v. Sookermany (1986), 75 A.R. 300 at 305 (Master). 3. Set-off Generally There was no set-off at common law. It was introduced into the law of England by statute … and made to apply only as between liquidated claims, although these claims may be unrelated. This is what he might call legal set-off. Equity then followed the law, and permitted a similar set-off where one of one or both of the claims was an equitable liquidated claim … This was a form of equitable set-off. Aboussafy v. Abacus Cities Ltd., [1981] 4 W.W.R. 660 (Alta. C.A.), at 670, per Kerans J.A. 4. Legal Set-Off and Equitable Set-Off In Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd., 2012 ABQB 496, 2012 CarswellAlta 1327, 545 A.R. 391, 77 Alta. L.R. (5th) 194 (Master), Master Hanebury said, at paragraphs 48-49: 48 Legal set-off applies between liquidated claims, which is not the situation in this case: McBride v. Kolenko (1990) 115 A.R. 348, paras. 23–26 (Master), Canadian Imperial Bank of Commerce v. Tucker Industries Inc., (1983) 149 D.L.R. (3d) 172, (BCCA), para. 6. 49 Equitable setoff requires that certain tests be met. The party relying on the set-off must show some equitable ground for being protected from the plaintiff's demand; the equitable ground must go to the very root of the plaintiff's claim; the cross-claim must be so clearly connected with the plaintiff's demand that it would be manifestly unjust to allow the plaintiff to enforce payment without taking the cross-claim into account; the claim and cross-claim need not arise out of the same contract; and unliquidated and liquidated claims are on the same footing: Coba Industries Ltd. v. Millie's Holdings (Canada) Ltd. And Tsang, [1985] 6 W.W.R. 14, para. 22–27; Holt v. Telford, [1987] 2 S.C.R. 193, para. 35. 5. Equitable Set-off Equitable set-off is available where there is a claim for a money sum whether liquidated or unliquidated: see Aboussafy v. Abacus Cities Ltd., [1981] 4 W.W.R. 660 (C.A.), at 666 … it is available where there has been an assignment. There is no requirement of mutuality. The authorities to be reviewed indicate that courts of equity had two rules regarding the effect of a notice of assignment on the right to set-off. First, an individual may set off against the assignee a money sum which accrued and became due prior to the notice of assignment. And second, an individual may set off against the assignee a money sum which arose out of the same contract or series of events which gave rise to the assigned money sum or was closely connected with that contract or series of events … Thus, cases involving debts that arise from the same contract or closely interrelated contracts form an exception to the general rule. In these cases a debt arising out of the contract or closely interrelated contracts may be set off against the assignee even if the debt accrues due after the notice of the assignment. Holt v. Telford, [1987] 2 S.C.R. 193, at 206, 211, per Wilson J. Master Funduk commented on equitable set-off and the decision in Holt v. Telford, [1987] 2 S.C.R. 193, in National Cabinet Lock of Canada Inc. (Assignee of) v. Steel-Craft Door Products Ltd. (1996), 44 Alta. L.R. (3d) 335 (Master). At pp. 342-43, the learned Master said: Equity recognized assignments of debts long before the common law did. (It took legislation to change the common law). As part of that recognition equity said that the assignee took the debt subject to the equities between the assignor and the debtor. But that rule is not an unlimited rule. Anything and everything between the assignor and the debtor was not considered to be “equities” for the purpose of the rule. There are boundaries to the rule. That is the thrust of the last sentence of the above quote from Telford. There had to be a connection of some sort between the “equity” raised by the debtor and the assigned debt. In Royal Bank v. Wilton (1995), 28 Alta. L.R. (3d) 1; [leave to appeal to S.C.C. refused 32 Alta. L.R. (3d) xliv], the Court of Appeal reviewed the five elements necessary for equitable set-off. At p. 13 the court said: The five elements cited by the Supreme Court of Canada in Holt were taken from the case of Coba Industries Ltd. v. Millie's Holdings (Canada) Ltd., [1985] 6 W.W.R. 14 (B.C. C.A.). Specifically the five elements are as follows [p. 22]: 1) The party relying on the set-off must show some equitable ground for being protected against his adversary's demands… 2) The equitable ground must go to the very root of the plaintiff's claim before a set-off will be allowed… 3) A cross claim must be so clearly connected with the demand of the plaintiff that it would be manifestly unjust to allow the plaintiff to enforce payment without taking into consideration the cross-claim… 4) The plaintiff's claim and the cross-claim need not arise out the same contract… 5) Unliquidated claims are on the same footing as liquidated claims… 6. Set-off and Counterclaim Are Different Set-off must be distinguished from cross-claim. Both are available by counterclaim under R. 93. Set-off provides a defence to a claim but cross-claim does not …Canadian Commercial Bank (Liquidator of) v. Parlee McLaws (1989), 64 Alta. L.R. (2d) 218 (Q.B.), at 221, per Wachowich J., citing with approval Aboussafy v. Abacus Cities Ltd., [1981] 4 W.W.R. 660 (C.A.). In P.P.G. Canada Inc. v. Alberta Window Manufacturing Inc. (1998), 235 A.R. 54 (Master), Master Funduk said, at p. 57: The rule does not make all counterclaims a defence of set-off. Set-off, to be a defence, must be legal set-off or equitable set-off … In Aboussafy v. Abacus Cities Ltd., [1981] 4 W.W.R. 660 (Alta. C.A.), Kerans J.A. said at p. 670: … By set-off is meant something in the way of a defence: where claim and cross-claim are merged and the lesser is thereby extinguished. True set-off must be distinguished from procedural set-off, where two unrelated claims are balanced up and a net judgment given: see Stooke v. Taylor (1880), 5 Q.B.D. 569 … Procedural set-off is a shield, not a sword. It is not a defence; it therefore is not an equity subject to which an assignee takes. Unlike a true set-off, there is no charge against the fund of the original chose in action which equity can recognize. And Master Funduk said: To equate set-off with counter-claim is an error. Subrules (1) and (2) of rule 93 do not mean the same thing. Subrule (1), as between the original parties, merely embodies s. 17(3)(a) [of the Judicature Act], while subrule (2) dictates how a particular kind of defence is to be raised in a pleading. Grenke v. Sookermany (1986), 75 A.R. 300 at 305 (Master). 7. Legal Set-off Legal set-off “requires the fulfilment of two conditions. The first is that both obligations must be debts. The second is that both debts must be mutual cross obligations. Both conditions must be fulfilled at the same time”: C.I.B.C. v. Tuckerr Indust. Inc., [1983] 5 W.W.R. 602 at 604 (C.A.) (approved in Holt v. Telford at p. 204). Any assignment of the debts destroys mutuality and precludes the operation of legal set-off: Holt v. Telford at p. 205. Canadian Commercial Bank (Liquidator of) v. Parlee McLaws (1989), 64 Alta. L.R. (2d) 218 at 222 (Q.B.)."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_59_001",
+        "part3_part_3_court_actions_034",
+        "part3_rule_3_59_002",
+        "part3_part_3_court_actions_036"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "232943038e614e15c424aab84e17afd0fc41b2506aa315b86c8341887ddcfe68",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Claiming set-off",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "232943038e614e15c424aab84e17afd0fc41b2506aa315b86c8341887ddcfe68",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "It is not required to bring a counterclaim seeking set-off as a result of this rule. Set-off can now be pleaded as a defence. This eliminates the need for the issuance of a counterclaim which would only seek set-off, as was required under Former Rules 93(2). Tesla Exploration Ltd. v. Encana Corp., [2018] A.J. No. 451, 2018 ABQB 286 at para. 18 (Alta. Q.B.). Where set-off is pleaded as a defence, and the set-off amount exceeds the value of the plaintiff’s claim, no judgment can be entered for the defendant.A positive claim for set-off",
+          "citations": [
+            {
+              "neutral_citation": "2018 ABQB 286",
+              "style_of_cause": "Tesla Exploration Ltd. v. Encana Corp."
+            }
+          ],
+          "review_flag": "The commentary is cut off after 539 characters: '... no judgment can be entered for the defendant. A positive claim for set-off' - the rest is not in the file. The first sentences agree with 3.59 and with Book A's note ('A set-off may now be pleaded either as a defence or as a counterclaim'); 'as was required under Former Rules 93(2)' agrees with Book A's fn 6 ('Quite similar to previous 1968 R.93(2)') and with Book B's part 6 (Grenke v. Sookermany on former R.93(2)); Tesla Exploration Ltd. v. Encana Corp. 2018 ABQB 286 (para. 18) is not in Book A (combined rule3.txt searched for 'Tesla') or Book B's rule3_part01-10 files (searched by file name)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8718,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.59 (read by eye) except: the title in title case ('Claiming Set-off', printed before the rule number); missing spaces; '*' line marks; the footnote marker '6' after the last word (its footnote, 'Quite similar to previous 1968 R.93(2). It came from 1944 C.R.103(2).', is printed at p.3-128 line 3597 in the built 3.58 record). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.59",
+      "title_official": "Claiming set-off"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "9380962e75b863483e5916d1bea2cce6ef06091c43c5614c59be6760628974d1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-128",
+            "3-130"
+          ],
+          "offset_in_clean_text": [
+            407467,
+            413240
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "232943038e614e15c424aab84e17afd0fc41b2506aa315b86c8341887ddcfe68",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "232943038e614e15c424aab84e17afd0fc41b2506aa315b86c8341887ddcfe68",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "dad632f67743c3b47de12461159c95a069abb04a1a5dd83526ae3b62e1540fac",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            72
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c7eb87abf478bbab49946ecc6705bfee0a2035d3c574327552a7f5027bd65c56"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.59 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.59 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.59 BOOK_C citation context dropped (2018 ABQB 286): verbatim in kept text",
+    "3.59 BOOK_C commentary sentence split dropped",
+    "3.59 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.59 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

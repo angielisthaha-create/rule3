@@ -1,0 +1,232 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.66",
+  "title": {
+    "official": "Costs",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Request for Particulars, Amendments to Pleadings and Close of Pleadings"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.66(1)  Subject to subrule (2), the costs, if any, as a result of an\namendment to a pleading are to be borne by the party filing the\namendment unless\n(a) the amendment is a response to an amended pleading, or\n(b) the Court otherwise orders.\n(2)  The costs of a contested application to amend a pleading are in\nthe discretion of the Court, in accordance with rule 10.29.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "f302ef12d6ba03489c2be1703667ffadee49f919cf82c35c1f413b95ebaa93ea"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s3.66;122/2012",
+    "amending_regulations": [
+      "122/2012"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta.Reg.1124/10;122/12]"
+      ],
+      "BOOK_B": "Alta. Reg. 122/2012, s. 5",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.66 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 122/2012, s. 5]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "DIFFERS: carrier cites ['1124/2010', '122/2012'], official ['122/2012']",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          76
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Costs",
+      "operative_text_raw": null,
+      "operative_text_sha256": "105b5ca547961b88002a5e1c81bf7bc69fc3854922d431ec985919f699a07734",
+      "defined_terms": "Court, party, pleading This Rule means that the party winning an application to amend may still have to pay costs? *SembleR.3.67 used to cover all costs of amendment, both the motion and the other consequent But another case disagreed, and says that Rule 3.66 only talks about the amendment itself, steps? not about a contested application for leave to amend, and the party who resists an amendment without good reason may well have to pay costs of the motion, and the latter view was confirmed by the 2012 amendment to the Rule. (Alta CA 1913) 10 DLR 591, 4WWR 193. 4Stoney Nakoda N.v.A.-G. Can.2012 ABCA 316, 2012 CarswellAlta 1816 (Nov 2). 5Gas Plus v. Levelton Consultants2017 ABQB 655, JCC 1201 05626 (Oct 27) (¶'s 43-48). Terms and conditions, and the need to have costs full enough to repair any prejudice, are r.107 as amended.Cf.Ont.R.25.05, and English O.18 rr.14, 20 (1962), formerly 1883 O.27 r.13. 9Quite similar to previous 1968 Rr.102, 103.1914 R.107 and 1944 C.R.101 were fairly similar.Cf.Judic.Ord. r.107 as amended.Cf.Ont.R.25.05, and English O.18 rr.14, 20 (1962), formerly 1883 O.27 r.13. 2Waquan (Mikisew Cree F.N.) v. R.(#1)2002 ABCA 110, 303 AR 43. 1Cases in R.3.65,supra;Goska Nowak P.C.v.Robinson,supra(¶'s 33-36). 3Polaris Realty (1995) v.Minchau(M 18 Apr '07) JDE 0503 10196 (memo, no neutral cite). 4Polaris v.Minchau,supra;Cdn.Nat. Res.v. Fishing L.M?tis Settlement2022 ABQB 53, JCE 1903 17590 (Jan 18) (¶'s 14-25). 5Rodd v.Alta. Health Serv. (#2)2015 ABQB 498, 2015 CarswellAlta 1847. 6Jordan v.Power (#2)2002 ABQB 875, 325 AR 71. 7Anthony v.Berger (#2)2008 ABQB 514. 8Quite similar to previous 1968 Rr.102, 103.1914 R.107 and 1944 C.R.101 were fairly similar.Cf.Judic.Ord. discussed above. A party whose extensive amendments are disallowed on appeal may have to pay costs in any event. That the party seeking the amendment knew the facts all along, is an extra Because of R.3.66, a litigant should try to get its pleadings right the first time, and unexplained delay in seeking a necessary amendment to his pleadings may be ground to order it to pay costs. Especially after warnings of the flaws in the pleading.The costs awarded may include solicitor- client costs of anticipated amendments by the opposing party to meet this late amendment. ground not to award it costs. *Jordancase. On the effect of an amendment as to amount on the appropriate column of costs, see the Costs should not be a surprise to any party involved in an amending motion. *Close of Pleadings*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-158",
+          "3-159"
+        ],
+        "offset_in_clean_text": [
+          514122,
+          517088
+        ]
+      },
+      "operative_text_note": "same wording as official 3.66(1)-(2) (read by eye) except: the bracket label '[General rule for payment of litigation costs]' after 'rule 10.29' (matches the official 10.29 title); the text is printed in two pieces (p.3-158 lines 4694-4695); the title in title case ('Costs', printed before the rule number); missing spaces; '*' line marks; the footnote marker '6' before (2). The amendment bracket is printed '[Alta.Reg.1124/10;122/12]': '1124/10' is a misprint for '124/10' (official 'AR 124/2010 s3.66;122/2012'; Book B 'Alta. Reg. 122/2012, s. 5' and Book C 'Alta. Reg. 124/2010 ... Alta. Reg. 122/2012, s. 5' agree with 124/2010); the builder's amendment cross-check reads the carrier as '1124/2010' and reports DIFFERS - the difference is this printed digit. No substantive difference in the rule text. The history footnote 6 ('Quite similar to previous 1968 R.141. It came from 1883 O.28 r.9, and Judic.Ord.r.190. Virtually identical to 1914 R.271, and 1944 C.R.203.') matching the marker '6' is printed in the built 3.65 record (the last lines of its commentary field); the footnotes 8 and 9 ('Quite similar to previous 1968 Rr.102, 103. 1914 R.107 and 1944 C.R.101 were fairly similar. Cf.Judic.Ord. r.107 as amended. Cf.Ont.R.25.05, and English O.18 rr.14, 20 (1962), formerly 1883 O.27 r.13.') are printed twice (lines 4710 and 4716) in this record's note and no marker for them is printed in this rule's text; their markers '8' and '9' are in the text of 3.67 (corrected in the 3.67 pass).",
+      "commentary_review_flag": "Read in full, p.3-158 (line 4694) to p.3-159 (line 4725): rule text (in two pieces), Defined Terms 'Court, party, pleading' (the Appendix defines each) and a note (costs of amendment: the two views on whether 3.66 covers the contested motion, the 2012 amendment, terms and conditions, unexplained delay, solicitor-client costs, costs should not be a surprise), with footnotes as printed. The built record: the Defined Terms line, the note and footnotes 1-9 of p.3-159 are all in defined_terms (2,501 characters, nothing dropped), ending with the heading 'Close of Pleadings'; related_provisions and commentary are empty. The printed order is scrambled (e.g. the footnote text 'r.107 as amended. Cf.Ont.R.25.05 ...' precedes its start; footnotes 8 and 9 are the same text printed twice). (1) Statements read against the official text and Books B and C: 'the party winning an application to amend may still have to pay costs' and 'Rule 3.66 only talks about the amendment itself, not about a contested application for leave to amend, and the party who resists an amendment without good reason may well have to pay costs of the motion, and the latter view was confirmed by the 2012 amendment to the Rule' agree with official 3.66(1) and (2) (2012 amendment 122/2012; (2) is the contested application, costs 'in the discretion of the Court, in accordance with rule 10.29') and with Book C's commentary; '*Semble R.3.67 used to cover all costs of amendment, both the motion and the other consequent steps' - 'R.3.67' is printed for the rule number (official 3.67 is 'Close of pleadings'; the sentence is about costs of amendment, and the next sentence says 'Rule 3.66'); the pointer is not resolved here; 'Because of R.3.66, a litigant should try to get its pleadings right the first time' agrees with 3.66(1). (2) Other rules' pointers to 3.66: Book A R.10 p.10-107 (line 5750) 'Rule 3.66 on costs of an amendment only talks about the amendment itself, not a ...' (agrees); Book B's R.10 annotation (rule10_part05_document.json) quotes 3.66 in full and reads 3.66(1)(b) and (2) as keeping the judge's discretion; Book B has no commentary of its own for 3.66; the official text has only the table of contents (line 474), the running page header (line 5202), the rule itself (line 5213) and its amendment line (line 5222, pdf p.76); no other Book A other-Part file cites 3.66. (3) The history footnote 6 (1968 R.141; 1883 O.28 r.9; Judic.Ord. r.190; 1914 R.271; 1944 C.R.203) is this rule's (marker '6' before (2)); footnotes 8-9 (1968 Rr.102, 103; 1914 R.107; 1944 C.R.101; Ont.R.25.05; English O.18 rr.14, 20 (1962); 1883 O.27 r.13) have no marker in 3.66; their markers '8' (after 3.67(2)) and '9' (after 3.67(3)) are in the 3.67 text, so they are 3.67's history (corrected in the 3.67 pass)."
+    },
+    "BOOK_B": {
+      "title": "Costs",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_66_001",
+        "part3_alberta_rules_of_court_rule_3_part_7_001"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part07_document.json"
+        ]
+      },
+      "operative_text_sha256": "5a7ab1f24e8e25d33c15c9177787aed1826ec944f92b0f170e11d55054daaaab",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Costs",
+      "division_heading": "Division 4 – REQUEST FOR PARTICULARS, AMENDMENTS TO PLEADINGS AND CLOSE OF PLEADINGS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "253e610f4ccb897f4d4fbc83a8d3ae37e691ba9c0b2a3bdb6e690f62decf8b55",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "In an application seeking leave to amend pleadings, costs are at the discretion of the court. When the pleading itself is actually amended, the costs as a result of an amendment are to be borne by the party filing the amendment unless the party is responding to an amended pleading with an amendment or the court otherwise orders. “As a general rule where one party asserts a right to amend pleadings and the other party denies that right, and the amending party must take the matter to court, costs should follow the event. It [ ] the applicant succeeds in its motion to amend, it should get costs.” sic",
+          "citations": [],
+          "review_flag": "The commentary is complete (604 characters) but has a quotation with no source and displaced words: '“As a general rule where one party asserts a right to amend pleadings and the other party denies that right, and the amending party must take the matter to court, costs should follow the event. It [ ] the applicant succeeds in its motion to amend, it should get costs.” sic' - the quotation is the passage printed in Book B's R.10 annotation (rule10_part09_document.json: 'Therefore, as a general rule where (for example) one party asserts a right to amend pleadings, and the other party denies that right, and the amending party must take the matter to court, costs should follow the event. If the applicant succeeds in its motion to amend, it should get costs.'), which discusses former Rule 141; Book C omits '(for example)' and the comma, prints 'It [ ]' for 'If', and the word 'sic' follows the closing quotation mark; the case name is not printed in Book C (searched: Book C's 3.66 entry only; the source case in Book B's part09 was not identified here). The first two sentences agree with official 3.66(1)-(2) and with Book A's note."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text, with the bracket label '[General rule for payment of litigation costs]' after 'rule 10.29' as in Book A. The amendment note '[Alta. Reg. 124/2010, r. 3.66 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta. Reg. 122/2012, s. 5]' is split over two lines ('...; Alta.' / 'Reg. 122/2012, s. 5]') and agrees with the official 'AR 124/2010 s3.66;122/2012'."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.784,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.66(1)-(2) (read by eye) except: the bracket label '[General rule for payment of litigation costs]' after 'rule 10.29' (matches the official 10.29 title); the text is printed in two pieces (p.3-158 lines 4694-4695); the title in title case ('Costs', printed before the rule number); missing spaces; '*' line marks; the footnote marker '6' before (2). The amendment bracket is printed '[Alta.Reg.1124/10;122/12]': '1124/10' is a misprint for '124/10' (official 'AR 124/2010 s3.66;122/2012'; Book B 'Alta. Reg. 122/2012, s. 5' and Book C 'Alta. Reg. 124/2010 ... Alta. Reg. 122/2012, s. 5' agree with 124/2010); the builder's amendment cross-check reads the carrier as '1124/2010' and reports DIFFERS - the difference is this printed digit. No substantive difference in the rule text. The history footnote 6 ('Quite similar to previous 1968 R.141. It came from 1883 O.28 r.9, and Judic.Ord.r.190. Virtually identical to 1914 R.271, and 1944 C.R.203.') matching the marker '6' is printed in the built 3.65 record (the last lines of its commentary field); the footnotes 8 and 9 ('Quite similar to previous 1968 Rr.102, 103. 1914 R.107 and 1944 C.R.101 were fairly similar. Cf.Judic.Ord. r.107 as amended. Cf.Ont.R.25.05, and English O.18 rr.14, 20 (1962), formerly 1883 O.27 r.13.') are printed twice (lines 4710 and 4716) in this record's note and no marker for them is printed in this rule's text; their markers '8' and '9' are in the text of 3.67 (corrected in the 3.67 pass)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text, with the bracket label '[General rule for payment of litigation costs]' after 'rule 10.29' as in Book A. The amendment note '[Alta. Reg. 124/2010, r. 3.66 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta. Reg. 122/2012, s. 5]' is split over two lines ('...; Alta.' / 'Reg. 122/2012, s. 5]') and agrees with the official 'AR 124/2010 s3.66;122/2012'."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.66",
+      "title_official": "Costs"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "105b5ca547961b88002a5e1c81bf7bc69fc3854922d431ec985919f699a07734",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-158",
+            "3-159"
+          ],
+          "offset_in_clean_text": [
+            514122,
+            517088
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "5a7ab1f24e8e25d33c15c9177787aed1826ec944f92b0f170e11d55054daaaab",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part07_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "253e610f4ccb897f4d4fbc83a8d3ae37e691ba9c0b2a3bdb6e690f62decf8b55",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "f302ef12d6ba03489c2be1703667ffadee49f919cf82c35c1f413b95ebaa93ea",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            76
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "8666c04a204cd7a1bff5086eecf89fd5cdddcdd04c101ef731286c0b224b45f3"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.66 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.66 BOOK_C commentary sentence split dropped",
+    "3.66 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.66 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.66 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.66 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

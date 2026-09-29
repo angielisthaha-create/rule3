@@ -1,0 +1,1698 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.2.0-final",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T23:59:00Z",
+      "source_manifests": [
+        "page_0131.rtf",
+        "page_0132.rtf",
+        "page_0133.rtf",
+        "page_0134.rtf",
+        "page_0135.rtf",
+        "page_0136.rtf",
+        "page_0137.rtf",
+        "page_0138.rtf",
+        "page_0139.rtf",
+        "page_0140.rtf",
+        "page_0141.rtf",
+        "page_0142.rtf",
+        "page_0143.rtf",
+        "page_0144.rtf",
+        "page_0145.rtf",
+        "page_0146.rtf",
+        "page_0147.rtf",
+        "page_0148.rtf",
+        "page_0149.rtf",
+        "page_0150.rtf",
+        "page_0151.rtf",
+        "page_0152.rtf",
+        "page_0153.rtf",
+        "page_0154.rtf",
+        "page_0155.rtf",
+        "page_0156.rtf",
+        "page_0157.rtf",
+        "page_0158.rtf",
+        "page_0159.rtf",
+        "05194.rtf",
+        "05195.rtf",
+        "05196.rtf",
+        "05197.rtf",
+        "05198.rtf",
+        "05199.rtf",
+        "05200.rtf",
+        "05201.rtf",
+        "05202.rtf"
+      ],
+      "node_count": 24,
+      "relationship_count": 30,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Balm v. 3512061 Canada Ltd., 2003 ABCA 98",
+          "Dow Chemical Canada Inc. v. Nova Chemicals Corporation 2010 ABQB 524",
+          "AARC Society v Canadian Broadcasting Corporation, 2019 ABCA 125",
+          "Club Industrial Trailers v. Paramount Structures, 2022 ABQB 34",
+          "Swaleh v Lloyd, 2020 ABCA 18",
+          "McCargar v Métis Nation of Alberta Association, 2017 ABQB 692",
+          "Basarsky v. Quinlan, [1972] S.C.R. 380",
+          "Madill v. Alexander Consulting Group Ltd., 1999 ABCA 321",
+          "Stout Estate v. Golinowski Estate, 2002 ABCA 49",
+          "Hur v 726913 Alberta Ltd., 2013 ABQB 208",
+          "Mikisew Cree First Nation v. Canada, 2002 ABCA 110",
+          "Canadian Natural Resources Limited v Arcelormitall Tubular Products Roman SA, 2013 ABCA 87",
+          "Attila Dogan Construction v. AMEC Americas Ltd, 2014 ABCA 74",
+          "PTL Bobcat and Landscape Services Lt. v 1149218 Alberta Ltd, 2013 ABQB 158",
+          "Sarnelli v. Fraietta (1981), 28 A.R. 482 (Master)",
+          "Kent v. Martin (#2) 2011 ABQB 675",
+          "Astolfi v. Stone Creek Resorts 2023 ABKB 416",
+          "Edwards v. Fisher (M) 2007 ABQB 666",
+          "Anglin v. Pankiw (#1) 2022 ABCA 362",
+          "Eon Energy Ltd v Ferrybank Resources Ltd, 2018 ABCA 243",
+          "Domenic Construction Ltd v Primewest Capital Corp, 2020 ABCA 265",
+          "Stoney Tribal Council v. R., 2005 ABCA 204",
+          "MTM Commr’l. Tr. v. Statesman Riverside Quays 2022 ABQB 157",
+          "Douziech v. Petra Corp. 2009 ABQB 437"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3, Division 4"
+        ],
+        "manifest_references": [
+          "All provided RTF files"
+        ]
+      },
+      "tactical_play_count": 3,
+      "countermeasure_count": 4
+    },
+    "nodes": [
+      {
+        "node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "node_type": "FoundationalPillar",
+        "label": "The 'Classic Rule': Liberal Amendment of Pleadings",
+        "description": "The foundational principle that any pleading can be amended at any time, regardless of how careless or late the party seeking the amendment is, provided it does not fall into one of the established exceptions.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Generally, any pleading can be amended no matter how careless or late is the party seeking to amend: Balm v. 3512061 Canada Ltd., 2003 ABCA 98, 327 A.R. 149 at para. 43. This is referred to in Balm as the “classic rule”.",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65"
+          ],
+          "verified_at": "2025-11-03T23:10:00Z",
+          "strategic_rationale": "This pillar establishes a strong presumption in favor of allowing amendments, forcing the opposing party to bear the onus of proving that a specific, recognized exception applies. It is the primary shield for a party needing to correct or evolve their case.",
+          "litigation_implications": [
+            "Defensive (Amending Party): Frame any application to amend by starting with this 'classic rule' to anchor the court's discretion in a liberal framework.",
+            "Offensive (Opposing Party): Acknowledge this rule but immediately pivot to arguing that one of the four narrow exceptions is met, framing the amendment as an exceptional case that warrants departure from the norm."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Balm v. 3512061 Canada Ltd., 2003 ABCA 98",
+              "proposition": "Establishes the 'classic rule' that any pleading can be amended no matter how careless or late, subject to exceptions."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-65-four-exceptions-framework",
+        "node_type": "WarfareFramework",
+        "label": "The Four Exceptions Framework for Barring Amendments",
+        "description": "The strategic framework for opposing an amendment, based on four major exceptions to the 'classic rule': irreparable prejudice, hopelessness, expired limitation periods, and bad faith.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The classic rule is subject to four major exceptions... Those exceptions are as follows: 1. the amendment would cause serious prejudice to the opposing party, not compensable in costs; 2. the amendment requested is “hopeless”...; 3. unless permitted by statute, the amendment seeks to add a new party or a new cause of action after the expiry of a limitation period; and 4. there is an element of bad faith associated with the failure to plead the amendment in the first instance.",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:11:00Z",
+          "strategic_rationale": "This framework provides the complete adversarial playbook for defeating an amendment application. It transforms a discretionary decision into a structured analysis, forcing the court to consider specific, high-impact objections.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): Structure written and oral arguments around these four pillars, methodically assessing the proposed amendment against each exception.",
+            "Defensive (Amending Party): Proactively address each of the four exceptions in the application materials, demonstrating why none of them apply to the proposed amendment."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Dow Chemical Canada Inc. v. Nova Chemicals Corporation 2010 ABQB 524",
+              "proposition": "Summarizes the four major exceptions to the classic rule of amendment: prejudice, hopelessness, limitations, and bad faith."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Irreparable Prejudice Bar",
+        "description": "An amendment will be denied if it causes serious prejudice to the opposing party that cannot be compensated by costs. This often arises from delay leading to lost evidence, faded memories, or the death of a key witness.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There is to be no amendment where it would create serious prejudice to the opposing party which payment of costs could not repair.",
+              "source_reference": "page_0141.rtf#para-C2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 1.5(4)"
+          ],
+          "verified_at": "2025-11-03T23:12:00Z",
+          "strategic_rationale": "This is a powerful weapon against late amendments. It weaponizes the passage of time, allowing a party to argue that the delay itself has created an injustice that money (costs) cannot fix.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): Argue that delay has caused concrete prejudice, such as the death of a witness, loss of records, or faded memories, making a fair trial on the new issue impossible.",
+            "Defensive (Amending Party): If seeking a late amendment, proactively demonstrate the absence of prejudice by showing that all key evidence is documentary and has been preserved, or that key witnesses are still available and have been examined."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-65-hopeless-amendment-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: 'Hopeless' Amendment Bar",
+        "description": "An amendment will be denied if it is 'hopeless,' meaning it is plain and obvious that it discloses no triable issue and would have been struck if it were in the original pleading.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But there is to be no amendment where the amendment would be hopeless, i.e., it could have been struck out or summarily dismissed had it been part of the pleadings from the outset.",
+              "source_reference": "page_0146.rtf#para-D"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68"
+          ],
+          "verified_at": "2025-11-03T23:13:00Z",
+          "strategic_rationale": "This trap allows a party to conduct a mini-strike application within an amendment motion, forcing the amending party to demonstrate that their new plea has legal merit. It prevents the addition of legally untenable claims that would waste time and resources.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): Attack a proposed amendment by arguing it is legally deficient on its face (e.g., barred by statute, res judicata, or fails to plead essential elements of a cause of action).",
+            "Defensive (Amending Party): Ensure the proposed amendment is legally sound and supported by at least a 'modest' amount of evidence to show it is an 'arguable' issue, not a hopeless one."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Swaleh v Lloyd, 2020 ABCA 18",
+              "proposition": "Describes the test for a hopeless plea as one where it is 'clear and obvious that there is no triable issue'."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-65-common-law-limitation-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Common Law Limitation Period Bar",
+        "description": "The common law bars any amendment that seeks to add a new cause of action or a new party after the relevant limitation period for suing has expired, unless special circumstances exist or a statute permits it.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "So the common law bars any amendment which would add a new cause of action or a new party outside the limitation period for suing.",
+              "source_reference": "page_0148.rtf#para-E1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:14:00Z",
+          "strategic_rationale": "This is a powerful, often fatal, trap for plaintiffs. It creates a hard deadline after which certain claims or parties cannot be added, providing defendants with a powerful shield of finality and repose.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): Scrutinize any proposed amendment to determine if it introduces a new cause of action or party. If so, and the limitation period has passed, raise this as an absolute bar.",
+            "Defensive (Amending Party): If facing a limitations defence, argue the amendment is not a 'new' cause of action but merely adds particulars to an existing one, or invoke the statutory override in the Limitations Act."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Madill v. Alexander Consulting Group Ltd., 1999 ABCA 321",
+              "proposition": "Confirmed that Alberta follows the 'analytical approach', requiring the amending party to show special circumstances to overcome a limitation bar."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-limitations-act-s6-override",
+        "node_type": "WarfareFramework",
+        "label": "Warfare Framework: Limitations Act s. 6 Override",
+        "description": "A statutory framework that overrides the common law limitation period bar, allowing a new claim or party to be added if the new claim is 'related' to the original pleadings and the defendant had sufficient knowledge of it so as not to be prejudiced.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In s. 6, the Legislature has adopted the functional approach.",
+              "source_reference": "05200.rtf#para-16-i"
+            }
+          ],
+          "source_references": [
+            "Limitations Act, R.S.A. 2000, c. L-12, s. 6"
+          ],
+          "verified_at": "2025-11-03T23:15:00Z",
+          "strategic_rationale": "This is the primary counter-weapon to the limitation period trap. It shifts the analysis from the strict 'special circumstances' test to a more flexible 'functional approach' focused on relatedness and prejudice, providing a critical avenue for plaintiffs to add claims that would otherwise be statute-barred.",
+          "litigation_implications": [
+            "Offensive (Amending Party): To add a time-barred claim, invoke s. 6 and argue the new claim is 'related' to the original events and that the defendant had notice, thus suffering no prejudice.",
+            "Defensive (Opposing Party): Counter a s. 6 argument by narrowly defining the 'conduct, transaction or events' in the original pleading to show the new claim is unrelated, or by demonstrating a lack of prior knowledge that creates actual prejudice."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Stout Estate v. Golinowski Estate, 2002 ABCA 49",
+              "proposition": "Confirmed that Section 6 of the Limitations Act replaces the common law analytical approach with a legislated functional approach, where special circumstances are no longer required to amend pleadings."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-65-bad-faith-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Bad Faith Bar",
+        "description": "An amendment will be denied if the failure to plead it earlier, or the amendment itself, involves bad faith, such as an intent to harm, conceal relevant information, or deceive the other party or the court.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Bad faith barring amendments means intent (not necessarily the sole or primary intent, but a significant part of the intent) to inflict financial or emotional harm on the opponent, to conceal relevant information, or to deceive another party or the court.",
+              "source_reference": "page_0144.rtf#para-3-bad-faith"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:16:00Z",
+          "strategic_rationale": "This trap targets the amending party's motives. It provides a basis to block an amendment not because of its content or timing, but because the reason for bringing it is improper, such as tactical delay or harassment.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): Argue bad faith if an amendment is brought tactically to derail a summary judgment motion or on the eve of trial with no new information, suggesting an intent to cause delay and expense.",
+            "Defensive (Amending Party): Rebut a bad faith allegation by providing a credible, non-malicious explanation for the delay, such as the recent discovery of new facts or a change in legal strategy based on new information."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hur v 726913 Alberta Ltd., 2013 ABQB 208",
+              "proposition": "The onus is on the party alleging bad faith to prove it; amending to defeat a summary judgment application is not, on its own, evidence of bad faith."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-elevated-evidence-for-fraud",
+        "node_type": "ControlMechanism",
+        "label": "Control: Elevated Evidentiary Standard for Pleading Fraud",
+        "description": "A heightened evidentiary standard applies when amending a pleading to add allegations of fraud, high-handedness, or malicious conduct. The amending party must show 'good ground' or 'exceptional circumstances' supported by 'significant evidence'.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Courts are reluctant to allow an amendment to raise a new plea of fraud. There must be good ground in a particular case to relax the general rule against amending to allege fraud... And it is impossible to show “good ground” without significant evidence, let alone particulars.",
+              "source_reference": "05200.rtf#para-77"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 13.6(3), 13.7"
+          ],
+          "verified_at": "2025-11-03T23:17:00Z",
+          "strategic_rationale": "This mechanism acts as a gatekeeper against frivolous but highly prejudicial allegations of fraud. It forces the amending party to substantiate serious allegations upfront, preventing them from using such claims as leverage without a factual basis.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): If an amendment alleges fraud, demand that the amending party meet this 'stiffer test' and provide 'significant evidence', not just speculation or modest hearsay.",
+            "Defensive (Amending Party): Before seeking to add a fraud claim, ensure you have concrete, significant evidence (e.g., documents, discovery admissions) to meet the elevated threshold."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Mikisew Cree First Nation v. Canada, 2002 ABCA 110",
+              "proposition": "Establishes that amending to allege fraud requires 'good ground' or 'exceptional circumstances' supported by 'significant evidence'."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-65-retroactivity-principle",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Retroactivity of Amendments",
+        "description": "An amendment to a pleading is presumed to have effect retroactively to the date the original pleading was filed. This principle is the foundation of the common law limitation period bar.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Usually an amendment is presumed to have effect retroactively to the date that the pleading now amended was first filed. An amendment of the statement of claim takes effect from commencement of the suit.",
+              "source_reference": "page_0155.rtf#para-I"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:18:00Z",
+          "strategic_rationale": "This principle is a double-edged sword. For the plaintiff, it allows claims to be perfected without being defeated by a limitation period that expired after the action was commenced. For the defendant, it is the very reason the limitation bar exists: because the amendment is treated as if it were filed on day one, it must be a claim that was viable on day one.",
+          "litigation_implications": [
+            "Defensive (Amending Party): Rely on this principle to argue that an amendment clarifying an existing claim should not be barred by an intervening limitation period.",
+            "Offensive (Opposing Party): Use this principle to argue that if a new cause of action is added, its viability must be assessed against the limitation period as of the original filing date, making it time-barred."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "PTL Bobcat and Landscape Services Lt. v 1149218 Alberta Ltd, 2013 ABQB 158",
+              "proposition": "An amendment takes retroactive effect going back to the date of the original pleading, as if it had been part of the original pleading all along."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-62-amend-as-of-right",
+        "node_type": "ControlMechanism",
+        "label": "Control: Unilateral Amendment Before Pleadings Close",
+        "description": "Rule 3.62(1)(a) grants a party the absolute right to amend their pleading any number of times without the Court's permission before pleadings close.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may amend the party’s pleading... before pleadings close, any number of times without the Court’s permission;",
+              "source_reference": "05195.rtf#r3-62-1-a"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.62(1)(a)"
+          ],
+          "verified_at": "2025-11-03T23:19:00Z",
+          "strategic_rationale": "This mechanism provides maximum flexibility to a party, particularly the plaintiff, in the early stages of litigation. It allows for the rapid correction of errors, addition of facts learned post-filing, and refinement of legal theories without the cost and delay of a formal court application.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Use this right aggressively to refine the claim based on the defendant's initial pleading, pre-empting potential strike motions.",
+            "Defensive (Defendant): Be aware that the plaintiff can freely amend. The primary counter is not to block the amendment, but to challenge it after the fact via a motion to disallow under R. 3.64 if it is improper."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-67-close-of-pleadings-trigger",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Close of Pleadings as a Procedural Trigger",
+        "description": "The close of pleadings, which occurs when a reply is filed or the time for filing a reply expires, is a critical procedural milestone that terminates the right to amend pleadings unilaterally and thereafter requires court permission.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Pleadings close when (a) a reply is filed and served by a plaintiff, plaintiff-by-counterclaim or third party plaintiff, as the case may be, or (b) the time for filing and serving a reply expires, whichever is earlier.",
+              "source_reference": "05202.rtf#r3-67-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.67(2)"
+          ],
+          "verified_at": "2025-11-03T23:20:00Z",
+          "strategic_rationale": "This rule establishes a clear line in the sand. Before this point, pleadings are fluid and controlled by the parties. After this point, the court assumes control over the shape of the litigation record. Understanding this trigger is crucial for managing amendment strategy and costs.",
+          "litigation_implications": [
+            "Strategic Timing: A plaintiff may strategically delay filing a Reply to keep the amendment window open longer. A defendant may press for a Reply to close pleadings and lock in the plaintiff's case.",
+            "Procedural Certainty: Once pleadings close, parties know that any further changes to the case will require a formal application, allowing them to plan discovery and trial strategy with greater certainty."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-64-disallow-amendment-deadline",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: 10-Day Deadline to Disallow Unilateral Amendment",
+        "description": "A party wishing to challenge an amendment made without leave (e.g., under R. 3.62) must file an application to disallow it within a strict 10-day time limit after being served with the amended pleading.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On application, the Court may disallow an amendment to a pleading or a part of it.(2) The application must be filed within 10 days after service on the applicant of the amended pleading.",
+              "source_reference": "05198.rtf#r3-64"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.64(2)"
+          ],
+          "verified_at": "2025-11-03T23:21:00Z",
+          "strategic_rationale": "This is a procedural trap for the party opposing a unilateral amendment. Failure to act within the 10-day window can result in waiver of the right to object, allowing an otherwise improper pleading to stand. It forces a rapid response.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): Immediately calendar this 10-day deadline upon receipt of any amended pleading filed without leave. Act swiftly to preserve the right to challenge.",
+            "Defensive (Amending Party): If the 10-day period passes without an application to disallow, argue that the opposing party has waived any objection to the amendment."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Edwards v. Fisher (M) 2007 ABQB 666",
+              "proposition": "A belated application to disallow an amendment made under the unilateral amendment rule may well fail due to the short time limit."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-66-costs-presumption",
+        "node_type": "ControlMechanism",
+        "label": "Control: Amending Party Bears Costs Presumption",
+        "description": "Rule 3.66 establishes a default presumption that the party filing an amendment must bear any resulting costs, unless the amendment is a response to another amendment or the Court orders otherwise.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Subject to subrule (2), the costs, if any, as a result of an amendment to a pleading are to be borne by the party filing the amendment unless (a) the amendment is a response to an amended pleading, or (b) the Court otherwise orders.",
+              "source_reference": "05201.rtf#r3-66-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.66"
+          ],
+          "verified_at": "2025-11-03T23:22:00Z",
+          "strategic_rationale": "This rule imposes a financial deterrent on careless or frequent pleading amendments. It forces a party to consider the cost consequences of changing their case and provides a mechanism for the opposing party to be compensated for the wasted work and additional effort caused by the amendment.",
+          "litigation_implications": [
+            "Cost Management: Parties should strive to get pleadings right the first time to avoid automatic cost consequences.",
+            "Offensive (Opposing Party): When an amendment is made, immediately quantify the costs thrown away (e.g., time spent drafting a response to the original pleading) and seek an order for their payment as a condition of the amendment."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Kent v. Martin (#2) 2011 ABQB 675",
+              "proposition": "A party who resists an amendment without good reason may well have to pay costs of the motion."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-draft-pleading-requirement",
+        "node_type": "ControlMechanism",
+        "label": "Control: Draft Pleading Requirement for Amendment Application",
+        "description": "A party applying for permission to amend a pleading must provide the court with a draft of the precise proposed amendment. Failure to do so can result in the application being dismissed or adjourned.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "An application for permission to amend pleadings must contain or attach a draft of the precise proposed amendment.",
+              "source_reference": "page_0156.rtf#para-J2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:23:00Z",
+          "strategic_rationale": "This procedural requirement prevents ambiguity and ensures a focused debate. It forces the amending party to commit to specific language, allowing the opposing party and the court to analyze the precise impact of the change. It prevents 'amendment by ambush' where the scope of the change is unclear.",
+          "litigation_implications": [
+            "Procedural Compliance (Amending Party): Always attach a blacklined draft of the proposed amended pleading as an exhibit to the application affidavit. This is non-negotiable.",
+            "Offensive (Opposing Party): If an application to amend is filed without a draft, object on that basis and ask the court to dismiss or adjourn the application until the deficiency is corrected."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Sarnelli v. Fraietta (1981), 28 A.R. 482 (Master)",
+              "proposition": "Established the practice that a court should refuse to hear an application to amend where the precise amendments have not been formulated and provided in a draft."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-62-john-doe-pseudonym-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: 'John Doe' Pseudonym Amendment Obligation",
+        "description": "Using a 'John Doe' pseudonym is not a misnomer. Once the plaintiff learns the real name of an unknown defendant, they are obligated to take timely steps to amend the pleadings to substitute the correct name, preferably before taking other substantive steps.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "once the plaintiff finds out the real name of the “John Doe” defendant, it is incumbent on him to take timely steps to amend the pleadings to properly name that defendant. A plaintiff is always required to correctly name every defendant.",
+              "source_reference": "05196.rtf#para-8-anglin"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.62 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:24:00Z",
+          "strategic_rationale": "This creates a procedural trap for a plaintiff who identifies a 'John Doe' defendant but delays in amending the claim. The delay can be used by the defendant to argue prejudice or that the amendment should not be allowed, especially if a limitation period is in issue.",
+          "litigation_implications": [
+            "Offensive (Defendant): If identified late as a 'John Doe', argue that the plaintiff's delay in amending the claim has caused prejudice and should bar the substitution, particularly if a limitation period has passed.",
+            "Defensive (Plaintiff): Upon identifying a 'John Doe' defendant, immediately move to amend the Statement of Claim to substitute their proper name to avoid any arguments of delay or prejudice."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Anglin v. Pankiw (#1), 2022 ABCA 362",
+              "proposition": "Clarifies that using a pseudonym like 'John Doe' is not a misnomer and that the plaintiff has a primary obligation to amend the pleading in a timely manner once the defendant's identity is known."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-amendment-vs-summary-judgment-priority",
+        "node_type": "ControlMechanism",
+        "label": "Control: Amendment Application Heard Before Summary Judgment",
+        "description": "When there are cross-applications for summary judgment and to amend the pleading of the party resisting judgment, the amendment application should be heard and decided first.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where an application for summary judgment is heard concurrently with a cross-application for permission to amend pleadings, the Court must determine the amendment application first before determining the application for summary judgment.",
+              "source_reference": "05200.rtf#para-22"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:25:00Z",
+          "strategic_rationale": "This rule controls the sequence of battle. It prevents a party from being summarily dismissed based on a deficient pleading that they are actively seeking to cure. It ensures the court adjudicates the summary judgment motion on the most complete and accurate version of the resisting party's case.",
+          "litigation_implications": [
+            "Offensive (Resisting Party): If facing a summary judgment motion on a deficient pleading, immediately file a cross-application to amend. This forces the court to consider the amended, potentially viable claim first.",
+            "Defensive (Moving Party): Anticipate a cross-application to amend. Be prepared to argue against the amendment on its own merits (e.g., hopeless, prejudice) before even getting to the summary judgment arguments."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Elbow River Marketing Limited Partnership v. Canada Clean Fuels Inc., 2011 ABCA 258",
+              "proposition": "Establishes the procedural rule that an amendment application must be determined before a concurrent summary judgment application."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-61-demand-before-motion",
+        "node_type": "ControlMechanism",
+        "label": "Control: Demand for Particulars Prerequisite",
+        "description": "A party must first serve a formal request for particulars and wait for a response before applying to the Court for an order compelling the particulars.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the requesting party does not receive a sufficient response within 10 days after the date on which the request is served, the requesting party may apply to the Court for an order requiring the party who served the pleading to provide the particulars.",
+              "source_reference": "page_0131.rtf#r3-61-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.61(1), 3.61(2)"
+          ],
+          "verified_at": "2025-11-03T23:26:00Z",
+          "strategic_rationale": "This is a procedural gatekeeping mechanism. It forces parties to attempt to resolve the issue extra-judicially first, preventing the court from being burdened with unnecessary motions. For the requesting party, it's a mandatory first step; failure to comply will be fatal to a subsequent court application.",
+          "litigation_implications": [
+            "Offensive (Requesting Party): Always serve a formal, written Demand for Particulars before filing a motion. Document the date of service to prove the 10-day period has lapsed.",
+            "Defensive (Responding Party): If a motion for particulars is filed without a prior demand, seek to have it dismissed as premature and for failure to comply with the Rules."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-61-defendant-knowledge-irrelevant",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Opponent's Knowledge is No Defence to Particulars",
+        "description": "It is not a valid objection to a demand for particulars that the demanding party already knows the facts. The demanding party is entitled to know the case they have to meet, which may be different from the true facts.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is no objection to an application for particulars that the applicant must know the true facts of the case better than his opponent. He is entitled to know the outline of the case that his adversary will try to make against him, which may be something very different from the true facts of the case.",
+              "source_reference": "05194.rtf#para-2-stoney"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.61 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:27:00Z",
+          "strategic_rationale": "This is a critical offensive principle for a party demanding particulars. It pierces the most common and intuitive-sounding excuse for refusing them. It reinforces that the purpose of pleadings is not to discover facts, but to define the legal and factual boundaries of the dispute.",
+          "litigation_implications": [
+            "Offensive (Requesting Party): When an opponent refuses particulars by saying 'you already know what happened,' cite this principle to the court to show their refusal is legally baseless.",
+            "Defensive (Responding Party): Avoid using the 'you already know' argument. Instead, argue that the demand is a disguised discovery, seeks evidence, or is a delaying tactic."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Stoney Tribal Council v. R., 2005 ABCA 204",
+              "proposition": "Establishes that a defendant's own knowledge of the facts is not a legal objection to the plaintiff's duty to provide particulars of the claim."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-67-multi-party-premature-close",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Premature Close of Pleadings in Multi-Party Actions",
+        "description": "In an action with multiple defendants, the close of pleadings against just one party (e.g., by filing a reply to their defence) represents the close of pleadings against all parties to that pleading, prematurely terminating the right to amend unilaterally against the others.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The close of pleadings against one party represents the close of pleadings against all parties to that pleading.",
+              "source_reference": "05202.rtf#r3-67-3"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.67(3)"
+          ],
+          "verified_at": "2025-11-03T23:28:00Z",
+          "strategic_rationale": "This is a significant procedural trap for plaintiffs in complex, multi-defendant litigation. A seemingly innocuous procedural step (replying to one defendant) can have unintended and far-reaching consequences, stripping the plaintiff of their flexibility to amend their claim against other defendants without leave of the court.",
+          "litigation_implications": [
+            "Offensive (Defendant): Monitor the plaintiff's filings. If they file a reply to any co-defendant, argue that pleadings are now closed for all, and any subsequent unilateral amendment by the plaintiff is improper.",
+            "Defensive (Plaintiff): In multi-defendant cases, be extremely cautious about filing a reply. If amendments are still contemplated, it may be strategically wise to forgo a reply to keep the pleadings open against all parties."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-65-collateral-attack-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Edge Case: Collateral Attack Bar",
+        "description": "An amendment may be refused if it constitutes a collateral attack on a previous court order. A party cannot use an amendment to re-litigate an issue that has already been decided or to circumvent the need for a direct appeal or judicial review of a prior order.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Amendments to the statement of claim were disallowed because they would constitute collateral attacks on previous orders: alleging that the defendants swore false or misleading affidavits to get an order for a receiver. That order could be attacked only by appeal or judicial review; without that, the order is conclusive and binding",
+              "source_reference": "page_0147.rtf#footnote-5"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:29:00Z",
+          "strategic_rationale": "This is a powerful procedural shield based on the principle of finality. It prevents parties from using the amendment process to undermine the authority of prior judicial rulings, forcing them into the proper channels of appeal or review. It stops an endless cycle of re-litigation through pleading amendments.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): If a proposed amendment seeks to challenge the basis of a prior order in the action, object to it as an improper collateral attack.",
+            "Defensive (Amending Party): Frame amendments carefully to avoid directly challenging the substance of a prior order. Focus on new facts or issues that are distinct from what was previously adjudicated."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "MTM Commr’l. Tr. v. Statesman Riverside Quays 2022 ABQB 157",
+              "proposition": "Disallowed amendments that were collateral attacks on a prior receivership order, holding that such an order can only be challenged by appeal or judicial review."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-65-defer-limitations-to-trial",
+        "node_type": "ControlMechanism",
+        "label": "Control: Deferring Complex Limitation Issues to Trial",
+        "description": "When an amendment application raises a complex limitation issue where the facts or record are unclear, the court may allow the amendment and permit the limitations defense to be pleaded, deferring the final determination of the issue to the trial judge.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Nevertheless, there are cases where the complexity of the facts or the state of the record preclude a final decision. In those cases, the amendments can be allowed, and the limitations issue sent to trial.",
+              "source_reference": "05200.rtf#para-16-terrigino"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:29:30Z",
+          "strategic_rationale": "This is a judicial pressure-relief valve. It provides a tactical option for both the court and the parties when a limitation issue is too fact-dependent to be decided summarily on an amendment motion. For the amending party, it's an escape hatch that keeps a potentially time-barred claim alive through to trial.",
+          "litigation_implications": [
+            "Offensive (Amending Party): If facing a strong but not 'rock-solid' limitations argument, argue that the factual complexity (e.g., around discoverability) requires the issue to be sent to trial for a full hearing.",
+            "Defensive (Opposing Party): Argue that the facts are clear enough for the court to decide the limitations issue now, preventing the cost and uncertainty of carrying a statute-barred claim to trial."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Domenic Construction Ltd v Primewest Capital Corp, 2020 ABCA 265",
+              "proposition": "Where a limitations issue is complex, the court can allow the amendment and permit the limitations defense to be pleaded and decided at trial."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-63-improper-amendment-marking",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Improperly Marked Amendments",
+        "description": "Failure to clearly mark amendments (traditionally with colored underlining) can lead to judicial criticism and obscure the changes, creating confusion and potential prejudice.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "For a century, amendments were traditionally shown by coloured underlining, not marked by colored type; modern color printers and photocopiers may change that.",
+              "source_reference": "page_0157.rtf#para-4"
+            },
+            {
+              "text": "A judge mildly criticized complex oft-amended pleadings as hard to read, especially as the proposed Amended Amended statement of claim was not properly underlined.",
+              "source_reference": "page_0157.rtf#para-4"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.63"
+          ],
+          "verified_at": "2025-11-03T23:55:00Z",
+          "strategic_rationale": "This is a 'soft' procedural weapon. While not dispositive, it allows an opponent to portray the amending party as sloppy, unprofessional, or even as attempting to obscure their changes. This can irritate the court and create an unfavorable impression, which can have a cumulative negative effect.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): If an opponent files a lengthy or complex but poorly marked amendment, raise the issue with the court to highlight the confusion and difficulty it creates, potentially seeking costs for the time wasted deciphering it.",
+            "Defensive (Amending Party): Always follow the established convention for marking amendments to ensure clarity, demonstrate professionalism, and prevent any argument that you are trying to hide changes."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "MTM Commr’l. Tr. v. Statesman Riverside Quays 2022 ABQB 157",
+              "proposition": "A judge criticized complex and frequently amended pleadings for being hard to read, especially when not properly underlined."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-65-withdrawing-admission-higher-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Higher Bar for Withdrawing Admissions",
+        "description": "It is significantly harder to get permission to withdraw an admission from a pleading than to make other amendments. Courts often require a showing that the admission was made through inadvertence, not conscious election, and that new knowledge has come to light.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is often said that it is harder to get permission to withdraw an admission in a pleading than to make other amendments.",
+              "source_reference": "page_0153.rtf#para-G"
+            },
+            {
+              "text": "Many cases say that the amendment to withdraw an admission must create a triable (arguable) claim or defence, not create irreparable harm, and one can withdraw only an admission caused by inadvertence, not inserted originally by conscious election.",
+              "source_reference": "page_0153.rtf#para-G"
+            },
+            {
+              "text": "But an admission made repeatedly by someone knowing the facts, cannot be withdrawn if no new knowledge has come out.",
+              "source_reference": "page_0153.rtf#para-G"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:56:00Z",
+          "strategic_rationale": "This creates a high barrier to correcting what might be a significant strategic error. For the party benefiting from the admission, it's a powerful shield to prevent the opponent from changing their story and undermining a case built on that admission. It enforces the seriousness of formal admissions in pleadings.",
+          "litigation_implications": [
+            "Offensive (Benefiting Party): Vigorously oppose any attempt to withdraw an admission, arguing the opponent is bound by their 'conscious election' and that allowing the withdrawal would cause irreparable prejudice as you have relied on it.",
+            "Defensive (Withdrawing Party): Frame the withdrawal as correcting a clear 'inadvertence' and provide strong evidence of 'new knowledge' that justifies the change. Be prepared to explain why the original admission was an error."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Douziech v. Petra Corp. 2009 ABQB 437",
+              "proposition": "An admission made repeatedly by someone with knowledge of the facts cannot be withdrawn if no new knowledge has come to light."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-65-presumption-of-prejudice-from-delay",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Presumption of Prejudice from Long Delay",
+        "description": "The passage of several years between when an issue should have been known and when an amendment is sought creates an automatic presumption of serious, irreparable prejudice. This shifts the onus to the amending party to rebut the presumption.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The passage of several years between the time when counsel should have been aware of the issue giving rise to the amendment and the actual application creates the automatic presumption of serious prejudice: Eon Energy Ltd v Ferrybank Resources Ltd, 2018 ABCA 243 at paras 26-27; Domenic Construction Ltd v Primewest Capital Corporation, 2019 ABQB 58 at para 69.",
+              "source_reference": "05200.rtf#para-8-serious-prejudice"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.65 Commentary"
+          ],
+          "verified_at": "2025-11-03T23:57:00Z",
+          "strategic_rationale": "This is a powerful tactical tool for the party opposing a late amendment. It flips the normal onus. Instead of the opponent having to prove prejudice, the amending party must now disprove it, which is a much harder task. It weaponizes the court's interest in timely litigation.",
+          "litigation_implications": [
+            "Offensive (Opposing Party): If there has been a long delay, explicitly invoke this presumption in arguments to force the amending party onto the defensive and require them to lead evidence rebutting prejudice.",
+            "Defensive (Amending Party): If facing this presumption, you must come prepared with concrete evidence to rebut it (e.g., proof that all evidence is documentary and preserved, key witnesses are available and their memories are not an issue)."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Eon Energy Ltd v Ferrybank Resources Ltd, 2018 ABCA 243",
+              "proposition": "The passage of several years can create an automatic presumption of serious prejudice."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-four-exceptions-limits-classic-rule",
+        "source_node_id": "wf-r3-65-four-exceptions-framework",
+        "target_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "relationship_type": "LIMITS",
+        "description": "The four exceptions framework provides the specific, limited grounds upon which the general 'classic rule' of liberal amendment can be defeated.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The classic rule is subject to four major exceptions...",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This relationship defines the entire adversarial dynamic of amendment applications: a broad permissive rule constrained by a narrow set of powerful exceptions.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-prejudice-bar-component-of-exceptions",
+        "source_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "target_node_id": "wf-r3-65-four-exceptions-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The irreparable prejudice bar is one of the four core components of the framework for opposing amendments.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Those exceptions are as follows: 1. the amendment would cause serious prejudice to the opposing party, not compensable in costs;",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "Connects the specific tactic to the overarching strategy.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-hopeless-bar-component-of-exceptions",
+        "source_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "target_node_id": "wf-r3-65-four-exceptions-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The 'hopeless' amendment bar is one of the four core components of the framework for opposing amendments.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Those exceptions are as follows: ... 2. the amendment requested is “hopeless” (an amendment that, if were in the original pleadings, would have been struck);",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "Connects the specific tactic to the overarching strategy.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-limitation-bar-component-of-exceptions",
+        "source_node_id": "pt-r3-65-common-law-limitation-bar",
+        "target_node_id": "wf-r3-65-four-exceptions-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The common law limitation period bar is one of the four core components of the framework for opposing amendments.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Those exceptions are as follows: ... 3. unless permitted by statute, the amendment seeks to add a new party or a new cause of action after the expiry of a limitation period;",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "Connects the specific tactic to the overarching strategy.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-bad-faith-bar-component-of-exceptions",
+        "source_node_id": "pt-r3-65-bad-faith-bar",
+        "target_node_id": "wf-r3-65-four-exceptions-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The bad faith bar is one of the four core components of the framework for opposing amendments.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Those exceptions are as follows: ... 4. there is an element of bad faith associated with the failure to plead the amendment in the first instance.",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "Connects the specific tactic to the overarching strategy.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-limitations-act-counters-common-law-bar",
+        "source_node_id": "wf-limitations-act-s6-override",
+        "target_node_id": "pt-r3-65-common-law-limitation-bar",
+        "relationship_type": "COUNTERS",
+        "description": "The statutory framework of the Limitations Act, s. 6, provides a direct countermeasure to the common law bar against amendments after a limitation period has expired.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "As the analytical approach has been replaced by a legislated functional approach, special circumstances are no longer required to amend pleadings. Instead, a court must evaluate whether each of the requirements of s. 6 are made out in the circumstances of the particular case.",
+              "source_reference": "05200.rtf#para-16-stout"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:31:00Z",
+          "strategic_rationale": "This relationship represents a critical strategic pivot point. When faced with a seemingly fatal limitation defense, this statutory override offers a path to survival by changing the legal test from 'special circumstances' to 'relatedness and prejudice'.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-retroactivity-enables-limitation-bar",
+        "source_node_id": "fp-r3-65-retroactivity-principle",
+        "target_node_id": "pt-r3-65-common-law-limitation-bar",
+        "relationship_type": "ENABLES",
+        "description": "The principle that amendments are retroactive to the original filing date is what gives the limitation period bar its power; without retroactivity, the limitation period would only be assessed at the date of the amendment application.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "That is why (apart from statute) limitation periods are usually a bar to amendments adding a cause of action or a party...",
+              "source_reference": "page_0155.rtf#para-I"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:32:00Z",
+          "strategic_rationale": "This relationship explains the underlying legal logic connecting two key concepts. Understanding this link is crucial to arguing for or against the application of the limitation bar.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-elevated-evidence-modifies-classic-rule",
+        "source_node_id": "cm-r3-65-elevated-evidence-for-fraud",
+        "target_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "relationship_type": "MODIFIES",
+        "description": "The elevated evidentiary standard for pleading fraud modifies the 'classic rule' of liberal amendment, imposing a much stricter test for this specific category of amendment.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Although ordinarily only a modest amount of evidence is required for amendments, a higher standard of evidence may be required for amendments to include allegations of fraud, and evidence of intent is required",
+              "source_reference": "05200.rtf#para-8-evanoff"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:33:00Z",
+          "strategic_rationale": "This highlights a critical exception-within-an-exception. While the general rule is liberal, this modification carves out a specific area where the court's approach becomes highly restrictive, creating a significant procedural hurdle.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-close-of-pleadings-terminates-amend-as-of-right",
+        "source_node_id": "fp-r3-67-close-of-pleadings-trigger",
+        "target_node_id": "cm-r3-62-amend-as-of-right",
+        "relationship_type": "TERMINATES",
+        "description": "The close of pleadings terminates a party's unilateral right to amend their pleadings without court permission.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party may amend the party’s pleading... (a) before pleadings close, any number of times without the Court’s permission;(b) after pleadings close,... with the Court’s prior permission...",
+              "source_reference": "05195.rtf#r3-62-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:34:00Z",
+          "strategic_rationale": "This relationship defines the boundary of party autonomy versus court supervision over the pleadings. Crossing this boundary fundamentally changes the strategic calculus for making amendments.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-disallow-deadline-counters-amend-as-of-right",
+        "source_node_id": "pt-r3-64-disallow-amendment-deadline",
+        "target_node_id": "cm-r3-62-amend-as-of-right",
+        "relationship_type": "COUNTERS",
+        "description": "The 10-day deadline to file a motion to disallow provides the procedural countermeasure to an improper unilateral amendment made before the close of pleadings.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "if the other side does not like that amendment, it must apply within the time specified by the Rules.",
+              "source_reference": "page_0136.rtf#para-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:35:00Z",
+          "strategic_rationale": "This relationship establishes the check and balance on the otherwise absolute power to amend before pleadings close. It ensures that the right is not abused to introduce improper pleadings.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-costs-presumption-deters-amendment",
+        "source_node_id": "cm-r3-66-costs-presumption",
+        "target_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "relationship_type": "DETERS",
+        "description": "The presumption that the amending party bears the costs acts as a financial deterrent, tempering the otherwise liberal approach to allowing amendments.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Because of R. 3.66, a litigant should try to get its pleadings right the first time, and unexplained delay in seeking a necessary amendment to his pleadings may be ground to order it to pay costs.",
+              "source_reference": "page_0159.rtf#para-costs"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:36:00Z",
+          "strategic_rationale": "This relationship highlights the practical, financial constraint on a purely legal right. While the law may permit an amendment, the associated cost can make it a strategically poor move.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-draft-pleading-operationalizes-amendment-application",
+        "source_node_id": "cm-r3-65-draft-pleading-requirement",
+        "target_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The requirement to provide a draft pleading operationalizes the process of seeking leave to amend, ensuring clarity and focus for the court's decision.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The court should either dismiss the application for lack of proper material, with leave to re-apply, or adjourn it to allow the applicant to correct the deficiency.",
+              "source_reference": "05200.rtf#para-9"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:37:00Z",
+          "strategic_rationale": "This shows the link between a procedural rule and the substantive legal principle it serves. Without the draft, the court cannot properly exercise its discretion under the classic rule.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-amendment-priority-counters-summary-judgment",
+        "source_node_id": "cm-r3-65-amendment-vs-summary-judgment-priority",
+        "target_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "relationship_type": "COUNTERS",
+        "description": "The rule that amendment applications are heard first provides a procedural counter to a summary judgment motion that is based on a pleading's deficiency, by allowing the deficiency to be cured before the motion is heard.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "the logical sequencing is that the pleadings should be clarified before a summary adjudication occurs.",
+              "source_reference": "05200.rtf#para-29-club-industrial"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:38:00Z",
+          "strategic_rationale": "This relationship defines a key tactical sequence. It allows a party to use an amendment as a shield against a potentially dispositive summary judgment motion.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-john-doe-trap-requires-amendment",
+        "source_node_id": "pt-r3-62-john-doe-pseudonym-trap",
+        "target_node_id": "cm-r3-62-amend-as-of-right",
+        "relationship_type": "REQUIRES",
+        "description": "The obligation to properly name a 'John Doe' defendant upon discovery of their identity requires the plaintiff to utilize the amendment process.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "once the plaintiff finds out the real name of the “John Doe” defendant, it is incumbent on him to take timely steps to amend the pleadings to properly name that defendant.",
+              "source_reference": "05196.rtf#para-8-anglin"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:39:00Z",
+          "strategic_rationale": "This links the specific 'John Doe' situation to the general amendment machinery, highlighting that it is not an automatic process but one that requires a positive action from the plaintiff.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-prejudice-bar-is-reinforced-by-delay",
+        "source_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "target_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "relationship_type": "REINFORCED_BY",
+        "description": "The power of the irreparable prejudice bar is reinforced by significant delay, which can create a presumption of prejudice.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The passage of several years between the time when counsel should have been aware of the issue giving rise to the amendment and the actual application creates the automatic presumption of serious prejudice: Eon Energy Ltd v Ferrybank Resources Ltd, 2018 ABCA 243 at paras 26-27",
+              "source_reference": "05200.rtf#para-8-serious-prejudice"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:40:00Z",
+          "strategic_rationale": "This self-referential link highlights the compounding effect of time. Delay is not just a factor; it can become the dispositive element by shifting the legal presumption against the amending party.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-hopeless-bar-is-informed-by-strike-rules",
+        "source_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "target_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "relationship_type": "IS_INFORMED_BY",
+        "description": "The test for whether an amendment is 'hopeless' is directly informed by the legal standards for striking a pleading under Rule 3.68.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This incorporates considerations like those under rule 3.68.",
+              "source_reference": "05200.rtf#para-42-astolfi"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:41:00Z",
+          "strategic_rationale": "This link clarifies that the 'hopeless' test is not a vague standard but is grounded in the well-defined body of law related to striking out pleadings, providing a clear analytical path for argument.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-classic-rule-requires-permission-after-close",
+        "source_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "target_node_id": "fp-r3-67-close-of-pleadings-trigger",
+        "relationship_type": "REQUIRES",
+        "description": "The application of the 'classic rule' for amendments requires court permission once the close of pleadings has been triggered.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "after pleadings close... for any other amendment, with the Court’s prior permission in accordance with rule 3.65",
+              "source_reference": "05195.rtf#r3-62-1-b-ii"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:42:00Z",
+          "strategic_rationale": "This relationship clarifies the procedural gateway. The liberal principle still applies, but the mechanism to access it changes from unilateral action to a formal court application after pleadings close.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-limitation-bar-can-be-deferred-to-trial",
+        "source_node_id": "cm-r3-65-defer-limitations-to-trial",
+        "target_node_id": "pt-r3-65-common-law-limitation-bar",
+        "relationship_type": "MODIFIES",
+        "description": "The court's ability to defer a complex limitation issue to trial modifies the otherwise potentially dispositive effect of the limitation bar at the amendment stage.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Nevertheless, there are cases where the complexity of the facts or the state of the record preclude a final decision. In those cases, the amendments can be allowed, and the limitations issue sent to trial.",
+              "source_reference": "05200.rtf#para-16-terrigino"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:43:00Z",
+          "strategic_rationale": "This represents a tactical escape hatch. When a limitation issue is not clear-cut, a party can argue for this deferral, allowing a potentially time-barred claim to survive past the amendment stage and proceed to discovery and trial.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-demand-prerequisite-for-particulars-motion",
+        "source_node_id": "cm-r3-61-demand-before-motion",
+        "target_node_id": "cm-r3-61-demand-before-motion",
+        "relationship_type": "IS_PREREQUISITE_FOR",
+        "description": "Serving a formal demand for particulars is a mandatory prerequisite before a party can apply to the court for an order compelling those particulars.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Under R. 3.61(1), demand must be made before moving for an order to compel more particulars.",
+              "source_reference": "page_0132.rtf#para-D"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:44:00Z",
+          "strategic_rationale": "This relationship codifies a critical procedural sequence. Missing this first step invalidates the second, making it a simple but effective trap for an unwary litigator.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-knowledge-irrelevant-counters-refusal",
+        "source_node_id": "fp-r3-61-defendant-knowledge-irrelevant",
+        "target_node_id": "cm-r3-61-demand-before-motion",
+        "relationship_type": "REINFORCES",
+        "description": "The principle that an opponent's knowledge is irrelevant reinforces the legitimacy of a demand for particulars, defeating a common excuse for non-compliance.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is no objection to an application for particulars that the applicant must know the true facts of the case better than his opponent. He is entitled to know the outline of the case that his adversary will try to make against him...",
+              "source_reference": "05194.rtf#para-2-stoney"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:45:00Z",
+          "strategic_rationale": "This link connects a substantive legal principle to a procedural action, providing the 'why' behind the demand and equipping the demanding party with the legal authority to enforce it.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-021-multi-party-trap-triggers-close-of-pleadings",
+        "source_node_id": "pt-r3-67-multi-party-premature-close",
+        "target_node_id": "fp-r3-67-close-of-pleadings-trigger",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The multi-party premature close trap is a specific, dangerous operationalization of the general rule for when pleadings close.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The close of pleadings against one party represents the close of pleadings against all parties to that pleading.",
+              "source_reference": "05202.rtf#r3-67-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:46:00Z",
+          "strategic_rationale": "This relationship highlights how a general rule can manifest as a specific trap in a particular context (multi-party litigation), elevating its strategic importance.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-022-collateral-attack-is-type-of-hopeless-plea",
+        "source_node_id": "pt-r3-65-collateral-attack-bar",
+        "target_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "relationship_type": "IS_A_TYPE_OF",
+        "description": "An amendment that constitutes a collateral attack on a prior order is considered a type of 'hopeless' amendment because it raises an issue that is legally barred from being re-litigated in that manner.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "That order could be attacked only by appeal or judicial review; without that, the order is conclusive and binding",
+              "source_reference": "page_0147.rtf#footnote-5"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:47:00Z",
+          "strategic_rationale": "This categorizes the specific 'collateral attack' trap within the broader 'hopelessness' framework, providing a clear legal taxonomy for the argument.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-023-costs-remedy-prejudice",
+        "source_node_id": "cm-r3-66-costs-presumption",
+        "target_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "relationship_type": "DEFINES_THRESHOLD_FOR",
+        "description": "Costs are the default remedy for prejudice caused by an amendment. The 'irreparable prejudice' bar is only triggered when the prejudice is so severe that it cannot be compensated by costs.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "the amendment would cause serious prejudice to the opposing party, not compensable in costs;",
+              "source_reference": "05200.rtf#para-45"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:48:00Z",
+          "strategic_rationale": "This crucial relationship defines the threshold between compensable and fatal prejudice. It establishes that the first line of defense against prejudice is a costs award, and only if that remedy is inadequate can the amendment be blocked entirely.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-024-premature-close-forces-leave-application",
+        "source_node_id": "pt-r3-67-multi-party-premature-close",
+        "target_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "relationship_type": "TRIGGERS_NEED_FOR",
+        "description": "Falling into the multi-party premature close trap forces a plaintiff to seek leave from the court under the classic amendment rules, rather than amending unilaterally.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The close of pleadings against one party represents the close of pleadings against all parties to that pleading.",
+              "source_reference": "05202.rtf#r3-67-3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:49:00Z",
+          "strategic_rationale": "This relationship shows the direct consequence of the trap: a loss of procedural autonomy and the increased cost and burden of a formal court application.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-025-hopeless-bar-counters-amendment-priority",
+        "source_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "target_node_id": "cm-r3-65-amendment-vs-summary-judgment-priority",
+        "relationship_type": "COUNTERS",
+        "description": "While an amendment application is heard first, if the proposed amendment is itself 'hopeless', it will be denied, thereby neutralizing the attempt to use the amendment to defeat the subsequent summary judgment motion.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "However, the general practice may be varied if the proposed amendments will not change the result",
+              "source_reference": "05200.rtf#para-21-mikisew"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:50:00Z",
+          "strategic_rationale": "This models the counter-to-the-counter. A party can't use the amendment-first rule to save a doomed claim by proposing another doomed claim. The 'hopelessness' test acts as the ultimate check on this tactic.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-026-deferral-modifies-hopelessness-test",
+        "source_node_id": "cm-r3-65-defer-limitations-to-trial",
+        "target_node_id": "pt-r3-65-hopeless-amendment-bar",
+        "relationship_type": "MODIFIES",
+        "description": "The court's ability to defer a complex limitations issue modifies the 'hopelessness' test; a claim that might be barred by limitations is not necessarily 'hopeless' at the amendment stage if the issue is complex enough to warrant deferral to trial.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "or decide that the limitation argument is of the kind that ought to be determined at trial, upon a factual base.",
+              "source_reference": "05196.rtf#para-4-korte"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:51:00Z",
+          "strategic_rationale": "This relationship shows how a judicial management tool can override a strict procedural bar. It creates an 'arguable' path forward for a claim that might otherwise be struck as hopeless due to a potential limitations defense.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-027-presumption-enables-prejudice-bar",
+        "source_node_id": "fp-r3-65-presumption-of-prejudice-from-delay",
+        "target_node_id": "pt-r3-65-irreparable-prejudice-bar",
+        "relationship_type": "ENABLES",
+        "description": "The presumption of prejudice arising from long delay enables and strengthens an argument that the irreparable prejudice bar should apply, shifting the onus to the amending party.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The passage of several years between the time when counsel should have been aware of the issue giving rise to the amendment and the actual application creates the automatic presumption of serious prejudice",
+              "source_reference": "05200.rtf#para-8-serious-prejudice"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:58:00Z",
+          "strategic_rationale": "This link explicitly models the tactical advantage conferred by the presumption. It's not just a factor; it's a mechanism that activates and empowers the prejudice argument.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-028-withdrawing-admission-modifies-classic-rule",
+        "source_node_id": "pt-r3-65-withdrawing-admission-higher-bar",
+        "target_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "relationship_type": "MODIFIES",
+        "description": "The higher bar for withdrawing an admission is a specific and significant modification of the general 'classic rule' of liberal amendment.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It is often said that it is harder to get permission to withdraw an admission in a pleading than to make other amendments.",
+              "source_reference": "page_0153.rtf#para-G"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:58:00Z",
+          "strategic_rationale": "This relationship carves out a special category of amendment that does not benefit from the same level of judicial generosity, highlighting its status as a high-risk maneuver for the amending party.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-029-improper-marking-constrains-amendment",
+        "source_node_id": "pt-r3-63-improper-amendment-marking",
+        "target_node_id": "fp-r3-65-classic-rule-liberal-amendment",
+        "relationship_type": "IS_A_CONSTRAINT_ON",
+        "description": "Failure to adhere to the procedural conventions for marking amendments acts as a soft constraint on the amendment process, potentially leading to judicial criticism or confusion.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A judge mildly criticized complex oft-amended pleadings as hard to read, especially as the proposed Amended Amended statement of claim was not properly underlined.",
+              "source_reference": "page_0157.rtf#para-4"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:58:00Z",
+          "strategic_rationale": "This relationship models a procedural friction point. While not a hard bar like the four exceptions, it represents a potential cost (in judicial goodwill and clarity) to an otherwise permissible amendment.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-030-collateral-attack-component-of-exceptions",
+        "source_node_id": "pt-r3-65-collateral-attack-bar",
+        "target_node_id": "wf-r3-65-four-exceptions-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The bar on collateral attacks is a specific instance of the 'hopelessness' exception within the broader framework for opposing amendments.",
+        "source_sentence_ids": [],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But that the whole proposed addition would be a collateral attack on an earlier order, is usually a proper objection to that plea",
+              "source_reference": "page_0140.rtf#footnote-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship formally integrates the edge case into the main strategic framework, showing how specific legal doctrines are operationalized as exceptions to general rules.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-prejudice-ambush",
+        "title": "The Prejudice Ambush: Defeating a Late Amendment",
+        "objective": "To defeat a late, substantive amendment by establishing irreparable prejudice caused by the amending party's delay.",
+        "prerequisites": [
+          "Opponent files an application to amend pleadings after a significant delay.",
+          "The amendment introduces new factual issues or a new theory of liability."
+        ],
+        "expected_outcome": "The application to amend is denied, locking the opponent into their original, weaker pleading.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "fp-r3-65-classic-rule-liberal-amendment"
+            ],
+            "action": "Acknowledge the 'classic rule' that amendments are generally permitted.",
+            "justification": "The classic rule is that an amendment should be allowed, no matter how careless or late, unless there is prejudice to the other side..."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-r3-65-four-exceptions-framework",
+              "fp-r3-65-presumption-of-prejudice-from-delay"
+            ],
+            "action": "Pivot immediately to the irreparable prejudice exception, and if applicable, invoke the presumption of prejudice due to long delay to shift the onus onto the amending party.",
+            "justification": "The passage of several years between the time when counsel should have been aware of the issue... creates the automatic presumption of serious prejudice."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "pt-r3-65-irreparable-prejudice-bar"
+            ],
+            "action": "Provide concrete examples of prejudice: faded memories, lost documents, or the death/unavailability of a key witness.",
+            "justification": "An example is an amendment to raise a new defence which the opponent could have easily countered earlier... where in the meantime a limitation period has expired, thus barring that counter."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "cm-r3-66-costs-presumption"
+            ],
+            "action": "Conclude by arguing that this prejudice is irreparable because no amount of costs can recreate lost testimony or evidence, making a fair trial on the new issues impossible.",
+            "justification": "There is to be no amendment where it would create serious prejudice to the opposing party which payment of costs could not repair."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-limitations-act-shield-pierce",
+        "title": "The Limitations Act Shield-Pierce",
+        "objective": "To add a new, related cause of action after the common law limitation period has expired by leveraging the statutory override in the Limitations Act.",
+        "prerequisites": [
+          "A new cause of action has been identified after the relevant limitation period has expired.",
+          "The new cause of action arises from the same general set of facts as the originally pleaded claims."
+        ],
+        "expected_outcome": "The amendment is allowed, adding the new cause of action to the claim despite the expired limitation period.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "pt-r3-65-common-law-limitation-bar"
+            ],
+            "action": "File an application to amend. Acknowledge that the common law limitation period for the new cause of action has likely expired.",
+            "justification": "unless permitted by statute, the amendment seeks to add... a new cause of action after the expiry of a limitation period"
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-limitations-act-s6-override"
+            ],
+            "action": "Immediately invoke Section 6 of the Limitations Act as the statutory permission that overrides the common law bar.",
+            "justification": "In s. 6, the Legislature has adopted the functional approach."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-limitations-act-s6-override"
+            ],
+            "action": "Demonstrate that the new claim is 'related to the conduct, transaction or events described in the original pleading'.",
+            "justification": "the added claim must be related to the conduct, transaction or events described in the original pleading in the proceeding."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "wf-limitations-act-s6-override"
+            ],
+            "action": "Argue that the defendant had sufficient knowledge of the underlying facts from the original pleading and will not be prejudiced in maintaining a defence on the merits.",
+            "justification": "the defendant must have received, within the limitation period applicable to the added claim... sufficient knowledge of the added claim that the defendant will not be prejudiced in maintaining a defence to it on the merits"
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-particulars-pincer",
+        "title": "The Particulars Pincer: Forcing Factual Commitment",
+        "objective": "To force an opponent with a vague pleading to commit to a specific set of facts, thereby limiting their case at trial and creating a basis for a future strike or summary judgment motion.",
+        "prerequisites": [
+          "Opponent's pleading contains vague, sweeping, or conclusory allegations (e.g., 'a fraudulent conspiracy')."
+        ],
+        "expected_outcome": "The opponent is ordered to provide detailed particulars, narrowing the issues for discovery and trial and exposing weaknesses in their case.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "cm-r3-61-demand-before-motion"
+            ],
+            "action": "Serve a formal, detailed Demand for Particulars, citing the specific paragraphs of the pleading and the precise information required (who, what, where, when).",
+            "justification": "A party on whom a pleading is served may serve on the party who served the pleading a request for particulars about anything in the pleading."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "fp-r3-61-defendant-knowledge-irrelevant"
+            ],
+            "action": "Anticipate and pre-empt the common excuse that 'you already know the facts' by stating in correspondence that you are entitled to know the case you have to meet.",
+            "justification": "The defendant may know what he actually did, but he does not know what the plaintiff thinks that the defendant did."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "cm-r3-61-demand-before-motion"
+            ],
+            "action": "If no sufficient response is received within 10 days, file an application with the Court for an order compelling the particulars.",
+            "justification": "If the requesting party does not receive a sufficient response within 10 days... the requesting party may apply to the Court for an order..."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [],
+            "action": "If particulars are still not provided after a court order, bring an application to strike the offending paragraphs of the pleading for non-compliance.",
+            "justification": "Maybe the question is whether the pleading gives mere conclusions unsupported by any facts? In a defamation suit it may be correct to strike out parts of the statement of claim for failure to answer the particulars sought"
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-countering-the-fraud-allegation-escalation",
+        "scenario": "A plaintiff, after discovery, seeks to amend their Statement of Claim to add a serious allegation of fraud, significantly raising the stakes and potential damages.",
+        "title": "Countering the Fraud Allegation Escalation",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "fp-r3-65-classic-rule-liberal-amendment"
+            ],
+            "action": "Plaintiff files an application to amend, arguing that under the 'classic rule', amendments should be liberally granted to determine the real issues in dispute."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "cm-r3-65-elevated-evidence-for-fraud"
+            ],
+            "action": "Defendant immediately objects, arguing that an amendment to plead fraud is not subject to the 'classic rule' but to a modified, significantly elevated evidentiary standard."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "cm-r3-65-elevated-evidence-for-fraud"
+            ],
+            "action": "Defendant challenges the plaintiff's supporting evidence, arguing it does not meet the 'stiffer test' and fails to provide the 'significant evidence' of 'good ground' or 'exceptional circumstances' required by appellate case law.",
+            "decision_points": [
+              "Assess if the plaintiff's evidence is mere speculation or hearsay versus concrete documentation or admissions.",
+              "Argue that allowing the amendment on weak evidence would be highly prejudicial and contrary to the policy of discouraging frivolous fraud claims."
+            ]
+          }
+        ],
+        "expected_outcome": "The court denies the amendment because the plaintiff failed to meet the heightened evidentiary threshold for pleading fraud. The plaintiff is prevented from escalating the claim, and the defendant is shielded from the reputational and legal burden of a fraud allegation."
+      },
+      {
+        "simulation_id": "cms-002-defending-the-hopelessness-strike",
+        "scenario": "A plaintiff seeks to amend their claim to add a novel but legally uncertain cause of action. The defendant opposes, arguing the amendment is 'hopeless' and should be denied.",
+        "title": "Defending the 'Hopelessness' Strike",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-65-hopeless-amendment-bar"
+            ],
+            "action": "Defendant opposes the amendment application, arguing the new cause of action is 'hopeless' because it is not clearly established in law and would be struck out if originally pleaded."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-65-hopeless-amendment-bar"
+            ],
+            "action": "Plaintiff argues that the test for 'hopelessness' is not whether the claim will succeed, but whether it is 'plain and obvious' that it has no chance of success.",
+            "decision_points": [
+              "Emphasize that an amendment application is not a summary judgment motion and the merits should not be pre-judged."
+            ]
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "fp-r3-65-classic-rule-liberal-amendment"
+            ],
+            "action": "Plaintiff cites case law stating that even a 'doubtful plea should be allowed, so long as it is at least arguable', and provides legal arguments and modest evidence to show the novel claim is at least arguable.",
+            "justification": "Even a doubtful plea should be allowed, so long as it is at least arguable: Balm at para. 12."
+          }
+        ],
+        "expected_outcome": "The court allows the amendment, finding that while the claim may be novel or doubtful, it is not 'plain and obvious' that it cannot succeed. The defendant's attempt to use the 'hopelessness' bar as a mini-summary judgment motion is defeated, and the new claim is allowed to proceed to discovery and trial."
+      },
+      {
+        "simulation_id": "cms-003-navigating-the-multi-party-close-trap",
+        "scenario": "In a case with three defendants (D1, D2, D3), the Plaintiff files a Reply to D1's Statement of Defence. Later, before discovery, the Plaintiff attempts to unilaterally amend the Statement of Claim against D2 and D3 under Rule 3.62.",
+        "title": "Navigating the Multi-Party Premature Close Trap",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-67-multi-party-premature-close",
+              "pt-r3-64-disallow-amendment-deadline"
+            ],
+            "action": "Defendants D2 and D3 immediately file an application under Rule 3.64 to disallow the amendment, arguing that the Plaintiff's Reply to D1 closed pleadings against all defendants, terminating the right to amend unilaterally."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "fp-r3-65-classic-rule-liberal-amendment"
+            ],
+            "action": "Plaintiff concedes the unilateral amendment was improper but immediately brings a cross-application for leave to amend under Rule 3.65, arguing that under the 'classic rule' the amendment should be allowed as no exceptions apply.",
+            "decision_points": [
+              "Argue that the error was a technical procedural misstep and there is no prejudice to D2 or D3, as the litigation is still in its early stages.",
+              "Offer to pay any costs thrown away by the improper unilateral filing."
+            ]
+          }
+        ],
+        "expected_outcome": "The court disallows the unilateral amendment but grants the Plaintiff's cross-application for leave to amend, likely with a costs award against the Plaintiff. The Plaintiff successfully cures their procedural error but at a financial cost and loss of procedural autonomy, demonstrating the bite of the trap."
+      },
+      {
+        "simulation_id": "cms-004-blocking-the-admission-reversal",
+        "scenario": "Late in the litigation, a plaintiff seeks to amend their pleading to withdraw a key admission that the defendant has relied upon in preparing their case.",
+        "title": "Blocking the Admission Reversal Gambit",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "fp-r3-65-classic-rule-liberal-amendment"
+            ],
+            "action": "Plaintiff files an application to amend to withdraw the admission, arguing it was an error and that the 'classic rule' should apply to allow the correction."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "pt-r3-65-withdrawing-admission-higher-bar"
+            ],
+            "action": "Defendant vigorously opposes, arguing that withdrawing an admission is subject to a much higher bar than other amendments. Argue the admission was a 'conscious election', not 'inadvertence'."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "pt-r3-65-withdrawing-admission-higher-bar",
+              "pt-r3-65-irreparable-prejudice-bar"
+            ],
+            "action": "Defendant argues the plaintiff has presented no 'new knowledge' to justify the withdrawal and that allowing the reversal now would cause irreparable prejudice, as the defendant's entire discovery and expert strategy was built upon the admission.",
+            "decision_points": [
+              "Highlight the length of time the admission has been on the record.",
+              "Detail the specific steps taken (e.g., questions not asked in discovery, experts not retained) in reliance on the admission."
+            ]
+          }
+        ],
+        "expected_outcome": "The court denies the plaintiff's application to amend. The plaintiff is held to their original admission, preserving the defendant's strategic position and preventing a last-minute shift in the factual landscape of the case."
+      }
+    ],
+    "integration_touchpoints": []
+  }
+}

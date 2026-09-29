@@ -1,0 +1,215 @@
+{
+  "schema_version": "arc-rule2-three-book-reconciliation-v1",
+  "skill": "arc-rules-production-lifecycle",
+  "mode": "SOURCE_RECONCILIATION",
+  "write_status": "NO_WRITE (no Neo4j/LexGraph mutation; packet only)",
+  "generated_utc": "2026-09-28T11:07:46+00:00",
+  "target": {
+    "instrument": "Alberta Rules of Court, Alta. Reg. 124/2010",
+    "part": 2,
+    "rules": "2.1-2.32",
+    "count": 32
+  },
+  "limits": [
+    "Three-book agreement is not current-law certification; currency rests on the official consolidation's stated current-to date only.",
+    "Book A and Book C titles/editions are not stated in their carriers; roles are inferred from content and recorded as such.",
+    "Commentary and notes are copied as carried; no burdens, tests, or exceptions were added.",
+    "Discrepancy status values are machine classifications for review, not adjudicated resolutions."
+  ],
+  "source_registry": {
+    "OFFICIAL": {
+      "carrier_id": "OFFICIAL",
+      "title": "Alberta Rules of Court, Alta. Reg. 124/2010 (Alberta King's Printer office consolidation)",
+      "version": "Office Consolidation, Alberta Regulation 124/2010, with amendments up to and including Alberta Regulation 79/2026; current as of June 1, 2026",
+      "artifacts": [
+        {
+          "file": "Alberta rule of court.pdf",
+          "sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+          "branch": "main"
+        },
+        {
+          "file": "Alberta_Rules_of_Court.txt",
+          "sha256": "fd82939fe84c6d2779b471604821e366b9a2a619fb21d4abfda4f35ce4fea203",
+          "derived_from": "Alberta rule of court.pdf",
+          "method": "PyMuPDF page.get_text() (embedded text layer, no OCR)"
+        }
+      ],
+      "source_role": "FIRST_HAND_RULE_CARRIER",
+      "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+      "permitted_use": "operative-text reconciliation anchor; official version/current-to closure"
+    },
+    "BOOK_A": {
+      "carrier_id": "BOOK_A",
+      "title": "Annotated rules text, Part 2 (publisher/title not stated in carrier; page style '2-N', 'Related Provisions', historical-derivation footnotes)",
+      "version": "unknown edition; latest Alberta case year cited in Part 2 = 2024",
+      "artifacts": [
+        {
+          "file": "combined_rule2.txt",
+          "sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-a-annotated-part2",
+      "permitted_use": "corroboration; annotation (information notes, related provisions, commentary, footnotes)"
+    },
+    "BOOK_B": {
+      "carrier_id": "BOOK_B",
+      "title": "Alberta Rules of Court, The Honourable Justice Allan A. Fradsham (per carrier running header)",
+      "version": "Alberta Rules of Court (2026), The Honourable Justice Allan A. Fradsham",
+      "artifacts": [
+        {
+          "file": "rule2_part01_document.json",
+          "sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d"
+        },
+        {
+          "file": "rule2_part02_document.json",
+          "sha256": "be7674127eca1d1929d1e6662ef79c2815151ccc03baac1fc57babfa7cdad419"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-b-fradsham",
+      "permitted_use": "corroboration; commentary"
+    },
+    "BOOK_C": {
+      "carrier_id": "BOOK_C",
+      "title": "Annotated rules text, book pages 81-120 (publisher/title not stated in carrier; source files 81-100_revised.md / 101-120_revised.md)",
+      "version": "unknown edition; latest Alberta case year cited = 2023",
+      "artifacts": [
+        {
+          "file": "81-100_2_1 to 2_27.json",
+          "sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb"
+        },
+        {
+          "file": "101-120_2_28 to 3_18.json",
+          "sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-c-annotated-pp81-120",
+      "permitted_use": "corroboration; annotation (information notes, citations, commentary)"
+    }
+  },
+  "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+  "normalization_profile": {
+    "id": "arc-rule2-compare-norm",
+    "version": "1",
+    "strict_steps": [
+      "drop a leading rule number '2.N' (carriers differ on whether the number is part of the text span)",
+      "drop footnote superscript digits (U+2070-U+2079, U+00B9/B2/B3)",
+      "Unicode NFKC (expands ligatures such as U+FB01 'fi')",
+      "curly quotes/apostrophes -> ASCII; en/em dash -> '-'",
+      "remove markdown emphasis '*'",
+      "collapse all whitespace to single space; trim",
+      "remove space before , ; : . )  and after ("
+    ],
+    "editorial_steps": [
+      "all strict steps",
+      "remove bracketed editorial cross-reference labels '[...]'",
+      "citation style 'Alta. Reg.' -> 'AR'",
+      "case-fold"
+    ],
+    "note": "Raw carrier text is preserved separately; normalization is used only for comparison.",
+    "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+  },
+  "denominators": {
+    "source_closure_denominator": {
+      "definition": "Alta. Reg. 124/2010 rules 2.1-2.32 in the June 1, 2026 consolidation",
+      "count": 32
+    },
+    "pairwise_comparison_denominator": {
+      "definition": "rules x book carriers (A,B,C) compared against OFFICIAL",
+      "count": 96
+    }
+  },
+  "summary": {
+    "pairwise_status_counts": {
+      "EXACT_MATCH": 57,
+      "NORMALIZATION_ONLY_DIFFERENCE": 12,
+      "CARRIER_HAS_EXTRA_TEXT": 2,
+      "CARRIER_MISSING_TEXT": 4,
+      "WORDING_DIFFERENCE": 21,
+      "CARRIER_TEXT_MISSING": 0
+    },
+    "gate_result_counts": {
+      "THREE_BOOK_SOURCE_RECONCILED": 11,
+      "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED": 21
+    },
+    "last_part2_amendment_year": 2020
+  },
+  "part_level": {
+    "official": {
+      "consolidation": "Office Consolidation, Alberta Regulation 124/2010, with amendments up to and including Alberta Regulation 79/2026; current as of June 1, 2026"
+    },
+    "BOOK_A": {
+      "part_introduction": "_____________________________________________________\nPART 2: THE PARTIES TO LITIGATION\n____________________________________________________\nRULE #\nDivision 1: Facilitating Legal Actions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2.1\nDivision 2: Litigation Representatives. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2.11\nDivision 3: Representation or Assistance Before the Court. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2.22\nDivision 4: Lawyer of Record. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2.24\n\n____________________________________________________\nPART 2: THE PARTIES TO LITIGATION\n____________________________________________________\nINFORMATION NOTE\nWhat this Part is about: Rules in this Part facilitate Court actions by\nand against personal representatives, trustees, partnerships, sole\nproprietors, and other entities.\nThe rules in this Part also specify those individuals who must be\nrepresented in Court by a litigation representative.\nThis Part describes when a lawyer becomes and ceases to be a lawyer of\nrecord and the responsibilities associated with that designation.\nWords and phrases used in this Part that have defined meanings in the\nAppendix [Definitions] include: claim; client; commencement document;\ncosts award; Court; enactment; file; judgment; lawyer; order; partnership;\nparty; personal representative; pleading; prescribed form; property;\nrecord; rules; trustee."
+    },
+    "BOOK_B": {
+      "edition_header": "Alberta Rules of Court (2026), The Honourable Justice Allan A. Fradsham",
+      "edition_year": "2026"
+    },
+    "BOOK_C": {
+      "definitions_used_in_part": [
+        "claim",
+        "client",
+        "commencement document",
+        "costs award",
+        "Court",
+        "enactment",
+        "file",
+        "judgment",
+        "lawyer",
+        "order",
+        "partnership",
+        "party",
+        "personal representative",
+        "pleading",
+        "prescribed form",
+        "property",
+        "record",
+        "rules",
+        "trustee"
+      ],
+      "misparsed_entries": [
+        {
+          "attached_to": "2.2",
+          "parsed_number": "11.10"
+        }
+      ]
+    }
+  },
+  "files": [
+    "2.1.json",
+    "2.2.json",
+    "2.3.json",
+    "2.4.json",
+    "2.5.json",
+    "2.6.json",
+    "2.7.json",
+    "2.8.json",
+    "2.9.json",
+    "2.10.json",
+    "2.11.json",
+    "2.12.json",
+    "2.13.json",
+    "2.14.json",
+    "2.15.json",
+    "2.16.json",
+    "2.17.json",
+    "2.18.json",
+    "2.19.json",
+    "2.20.json",
+    "2.21.json",
+    "2.22.json",
+    "2.23.json",
+    "2.24.json",
+    "2.25.json",
+    "2.26.json",
+    "2.27.json",
+    "2.28.json",
+    "2.29.json",
+    "2.30.json",
+    "2.31.json",
+    "2.32.json"
+  ],
+  "dedupe_rule": "a value is dropped only when an equal value (under the normalization profile) is kept"
+}

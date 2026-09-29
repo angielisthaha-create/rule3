@@ -1,0 +1,241 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.25",
+  "title": {
+    "official": "Contents of statement of claim",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Statement of Claim"
+  },
+  "operative_text": {
+    "controlling": "3.25   A statement of claim must\n(a) be in Form 10,\n(b) state the claim and the basis for it,\n(c) state any specific remedy sought, and\n(d) comply with the rules about pleadings in Part 13, Division\n3.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "02c335741f2756e10209bf1bb6ad16819f77b4a32651af9bd21d2eb8e3a1c7bb"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.25 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          59,
+          60
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Contents of Statement of Claim",
+      "operative_text_raw": null,
+      "operative_text_sha256": "4c76873da521c8382220fd5b993f762b1dc67d874be188bc1c590a01ec5c2ad5",
+      "defined_terms": "claim, file, remedy, Rules",
+      "related_provisions": "1.3(2) (unclaimed remedies);13.6(2)(c) (pleading remedies);13.8 (general relief)",
+      "commentary": "Generally on the contents of pleadings, see R.13.6n. There are notices to the profession giving guidelines for email or digitally-filed documents, found in the \"News and Announcements\" part of the Court of King's Bench website.See R.3.8n.\n\nSome documents can be submitted to the Court of King's Bench using its Filing Digital Service, but others only by email.The Court of King's Bench website lists accepted document types.There are strict naming conventions for documents filed by email. Among the palpable errors found to have been committed by a trial judge was deciding the case on a basis which was not in the pleadings.\n\nA statement of claim is not a method of starting an arbitration, and should not be interpreted as doing so and thus stopping the limitation period from running, particularly if it does not talk about arbitration or ask for arbitration.A lawsuit and arbitration are conceptually distinct processes, virtually opposite of each other. There is discussion of the rule that a statement of claim on a bill of exchange is not premature\n\neven if the bill of exchange is due on demand and no demand apart from the statement of claim has been made, is considered. 2Motkoski Hldg.v.Yellowhead (Cty.)2010 ABCA 72, 474 AR 367.But in a smaller suit in the Alberta Court\n\n*Nixonv.Timms2012 ABQB 315, 540 AR 234.See further, R.3.28 and notes to it. 3Bristol-Meyers Squibb Can. v.Grande Prairie2023 ABCA 294, Calg 2301 0056 AC (Oct 18) (¶ 15).\n\nfrom 1968 R.11(1).R.11(7), (8) were similar to latter part of 1914 R.126.Under the 1852 Act, a writ could be kept alive indefinitely as of right, but the present need for grounds was introduced by the English 1875 Judicature ActO.8 r.1.1968 Rule 11 was almost identical to the amended version of C.R.15 enacted by Alta.Reg.60/60.The 1991 first amendment radically limited the power to renew a statement of claim, codifying some English cases and reversing a number of Canadian ones.On the history, see alsoFehr v. *Immaculata Hosp.1999 ABQB 865, 253 AR 188.The 1997 amendment left the statement of claim in force\nall of its first anniversary day.There is a good review of the history of the Rule in Alberta about time limits to serve a statement of claim, inBrousseau v.Janz Est.(M) 2014 ABQB 136, 583 AR 167.The specific list in the 1977 Rule of exceptions where a renewal could be allowed after expiry was deliberately replaced in the new Rule drafted by the Institute by a more general test which includes special or extraordinary\n\nDefined Terms\n\ncircumstances resulting solely from the conduct of the defendant or someone who is not a party:Brousseau *v. Janz. 2Foster v. Robb2011 ABQB 776, [2011] AR Uned 849 (Dec 8).See also the cases below.The exceptions in R.3.27 are very narrow.It is suggested that the unserved statement of claim does not become a nullity, in\n\n*Subdivision 2 Time Limit for Service of Statement of Claim *Time for Service of Statement of Claim*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-70",
+          "3-71"
+        ],
+        "offset_in_clean_text": [
+          222246,
+          225542
+        ]
+      },
+      "operative_text_note": "same wording as official 3.25(a)-(d) (read by eye) except the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings: Part 13 'Technical Rules', Division 3 'Pleadings'), the title in title case ('Contents of Statement of Claim'), missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The Division and Subdivision headings printed before the title ('DIVISION 3 ACTIONS STARTED BY STATEMENT OF CLAIM', 'Subdivision 1 Statement of Claim', p.3-70 line 1876) match the official Division 3 'Actions Started by Statement of Claim' and Subdivision 1 'Statement of Claim'.",
+      "commentary_review_flag": "Read in full, p.3-70 (line 1876) to p.3-71 (line 1901): rule text, Defined Terms, Related Provisions and the note, with footnotes as printed. The built record has Defined Terms in defined_terms, the Related Provisions in related_provisions and the note in the commentary field (2,928 characters, nothing dropped); the commentary ends with the Subdivision 2 heading and the title of 3.26 ('Subdivision 2 Time Limit for Service of Statement of Claim', 'Time for Service of Statement of Claim'), which match the official Subdivision 2 heading and the title of 3.26. (1) Defined Terms 'claim, file, remedy, Rules': the Appendix defines 'claim' (line 40612), 'file' (40751), 'remedy' (line 41059) and 'rules' (line 41102: '\"rules\" includes the Schedules and this Appendix'). Related Provisions: '1.3(2) (unclaimed remedies)' agrees with official 1.3(2) (a remedy may be granted whether or not claimed); '13.6(2)(c) (pleading remedies)' agrees with 13.6(2)(c) ('the remedy claimed'); '13.8 (general relief)' agrees with 13.8(2) ('A general or other remedy claimed by a party need not be claimed in a pleading') although the official title of 13.8 is 'Pleadings: other contents'. (2) The first pieces of this note are printed before the 3.25 title, in the built 3.24 record (p.3-70 lines 1868-1874: 'Generally on this topic of following pleadings, see R.13.6, n.A', footnotes 3 Lafarge Can. v. Edmonton (City) 2013 ABCA 376 and 4 Dushenski v. Lymer 2010 ABQB 605, 'of Justice, absence of mention of an issue in one pleading did not bar considering it ... Barth v. Axxess etc. Dev. 2010', footnote 1 Cdn. Human Rts. Comm. v. A.-G. Can. 2011 SCC 53, [2011] 3 SCR 471); the sentence 'But in a smaller suit in the Alberta Court [of Justice, absence of mention of an issue ...]' (line 1885 then line 1872) is therefore split across the two records. (3) The last pieces of the 3.25 commentary belong to 3.26's note, printed before its title (p.3-71 lines 1892-1899): the history 'from 1968 R.11(1). R.11(7), (8) were similar to latter part of 1914 R.126 ... The 1997 amendment left the statement of claim in force all of its first anniversary day ...', Brousseau v. Janz Est. 2014 ABQB 136, 583 AR 167, 'Defined Terms', Foster v. Robb 2011 ABQB 776 and 'The exceptions in R.3.27 are very narrow' (they speak of time limits to serve a statement of claim and of R.3.27/R.3.28); 'Nixon v. Timms 2012 ABQB 315, 540 AR 234. See further, R.3.28 and notes to it' and footnote 3 'Bristol-Meyers Squibb Can. v. Grande Prairie 2023 ABCA 294' (spelled 'Meyers' in the book) go with the same text but the file does not show it. (4) Pointers: 'R.13.6n.' lands (the R.13.6 note exists in combined_rule13.txt); 'R.3.8n.' lands, and the 3.8 note (p.3-25, line 556) points back ('See R.3.25n.') to this note's paragraphs on email and digital filing notices, so those paragraphs are 3.25's in Book A's plan; 'R.3.28 and notes to it' exists. Book A's R.6 note (combined_rule6.txt p.6-7, line 242) says 'On actual appearances before an applications judge or justice, see R.3.25 n.': the built 3.25 note has no passage on appearances, applications judges or chambers (searched for 'appearance', 'applications judge', 'chambers'), so that pointer has no visible target; Book A's R.13 note (combined_rule13.txt p.13-67, line 3538) lists '3.25 (actions started by statement of claim)' - a paraphrase of the division heading, the official title is 'Contents of statement of claim'; Book A's R.1 note (combined rule1.txt p.1-9, line 374) '3.25(c) (pleading specific remedy)' agrees with 3.25(c). (5) Statements of law without a source ('A statement of claim is not a method of starting an arbitration ...'; the bill of exchange passage with 2 Motkoski Hldg. v. Yellowhead (Cty.) 2010 ABCA 72, 474 AR 367) were not checked; 'Among the palpable errors found to have been committed by a trial judge was deciding the case on a basis which was not in the pleadings' agrees in substance with Book B's Mazepa v. Embree passage."
+    },
+    "BOOK_B": {
+      "title": "Contents of statement of claim",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.25:1",
+          "text": "Rule 3.25 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.25. Remedies What is included, or not included, in the pleadings is important in terms of remedy. In Mazepa v. Embree, 2014 ABCA 438, 2014 CarswellAlta 2286, 588 A.R. 288, 14 Alta. L.R. (6th) 83, the Court said: 8 It is well-established that a trial or chambers judge should not decide a case on a matter not pleaded, and specifically should not grant remedies beyond the pleadings; the cases are noted in Sumner v PCL Constructors Inc., 2011 ABCA 326 at para. 26, 51 Alta LR (5th) 266, 515 AR 231; Dow Agrosciences Canada Inc. v Philom Bios Inc., 2007 ABCA 122, at paras. 60–2, 31 BLR (4th) 40, leave denied [2007] 3 SCR viii, and Paniccia Estate v Toal, 2012 ABCA 397 at para. 32, 71 Alta LR (5th) 411, 539 AR 349. The appellant particularly relies on statements to that effect in Wild Rose School Division No. 66 v Bert Pratch Const. Co., 1998 ABQB 831, 238 AR 339. Wild Rose was an action for the cost of constructing a school, which was brought after the school burned down. The Court made the general observation at para. 21 that the position of the parties is presumed to be set out in the pleadings, and said: “A court's jurisdiction to grant a remedy is limited by the pleadings of the party”. 9 While it is well-established that relief should be limited to what is pleaded, that rule is not absolute or truly “jurisdictional”: (a) First of all, the term “jurisdiction” has many meanings. In its very strictest sense, it refers to the court's ability to embark on the inquiry from the outset. However, it is often used to simply indicate in more general terms the boundaries of what can or should be done and not done. The limitation on the court's ability to grant the relief in Wild Rose was not jurisdictional in the strict sense. (b) Secondly, while the court is limited by the pleadings, the effect of the rule is reduced by the concurrent ability of the court to amend the pleadings at any time: R. 3.65. The Court in Wild Rose could have amended the pleadings, even during argument, if it was satisfied that there was no surprise or prejudice involved. The Court at all times had jurisdiction over the parties and the subject matter, and that jurisdiction (in the strict sense) was not limited or compromised by the scope of the pleadings. (c) Thirdly, procedural requirements (and any corresponding procedural irregularities) generally do not have any effect on the court's jurisdiction. Rule 1.5(1) states: 1.5. (1) If a person contravenes or does not comply with these rules, or if there is an irregularity in a commencement document, pleading, document, affidavit or prescribed form, a party may apply to the Court (a) to cure the contravention, non-compliance or irregularity, or (b) to set aside an act, application, proceeding or other thing because of prejudice to that party arising from the contravention, non-compliance or irregularity. Procedural shortcomings are considered to be “mere irregularities”, not jurisdictional in nature: Stout Estate v Golinowski Estate, 2002 ABCA 49 at paras. 76–82, 100 Alta LR (3d) 5, 299 AR 13. (d) Fourthly, relief can sometimes be granted on conditions. It is not necessary that the specific conditions be pleaded. Here the Court was only prepared to grant exclusive possession of the matrimonial home if alternative arrangements were made for the support of the respondent. Sections 68 and 69 of the Family Law Act, RSA 2000, c. F-4.5 specifically make support obligations relevant to exclusive possession applications. The resulting order does not violate the rule that the Court is limited to the pleadings. (e) Fifthly, the parties can always consent to matters of procedure, such as amendments to the pleadings, or the resolution of the case on issues not strictly pleaded. That consent can be express or implied. Here, previous counsel for the appellant explicitly advised the original chambers judge that the appellant would waive any shortcomings in the pleadings, and the absence of any affidavit evidence on the respondent's means and needs, and invited the Court to grant spousal support. Since the Court had, at all times, jurisdiction over the parties and the subject matter, there was no legal impediment to the Court giving effect to these parties' consent. It follows that it is not helpful to describe any procedural limitations identified here as “jurisdictional” in nature, and they do not render the order a “nullity”. In Wagner v. Wagner, 2014 ABCA 428, 2014 CarswellAlta 2262, 588 A.R. 218, 626 W.A.C. 218, the Court said: [27] Normally, a court should not give relief that a party has not […] expressly sought in the notice of application or pleading. Natural justice requires that the opposing party know what is being sought, and why. Usually that information is only available from the notice of application, although that is not always so. The opposing party may know what relief is sought, and why, by some other means and in enough time to marshal his or her arguments and evidence: DWH v DJR, 2013 ABCA 240 at paras 41–44, 556 AR 81. This is not to suggest that ferreting through affidavits for the issues to be decided is ideal. Relief sought should be stated with precision in a notice of application, and not left to be divined from other documents filed."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_25_001",
+        "part3_part_3_court_actions_028",
+        "part3_rule_3_25_001",
+        "part3_alberta_rules_of_court_rule_3_part_3_001"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json",
+          "rule3_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "e4b62ce258f33bab1ed540ef0fc1be3ccdaa5fc5d5d16fb010664563ac835ea3",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Contents of statement of claim",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "502c4d9201d07c45dc0ff14e5d1638a31b74522a77dbac1c729311d44237c475",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Statements of claim must comply with this rule. However, if an improper form is used, or the claim is deficient in some way, rule 1.5 could save such non-convention or irregularity.\nSubdivision 2: TIME LIMIT FOR SERVICE OF STATEMENT OF CLAIM",
+          "citations": [],
+          "review_flag": "(1) The commentary ('Statements of claim must comply with this rule. However, if an improper form is used, or the claim is deficient in some way, rule 1.5 could save such non-convention or irregularity.') agrees with official 1.5(1) (cure of a contravention or irregularity in a pleading or prescribed form); the word 'non-convention' is printed as it is. (2) The last line of the commentary item, 'Subdivision 2: TIME LIMIT FOR SERVICE OF STATEMENT OF CLAIM', is the heading of Subdivision 2 (it matches the official Subdivision 2 heading 'Time Limit for Service of Statement of Claim') and is not commentary."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): (d) reads 'comply with the rules about pleadings in Part 13 [Technical Rules], Division  months. . [Pleadings]': the number '3' of 'Division 3' is missing and the word 'months.' with an extra full stop stands in its place (the same 'Division  months. .' is printed in Book C's 3.31(1)(b) and 3.33(2)(b), and Book C's 3.26(2) stops at 'must not exceed' and lacks '3 months.'; whether these are connected is not shown by the file), followed by the bracket label '[Pleadings]'. Paragraphs (a)-(c) equal the official text. The amendment note '[Alta. Reg. 124/2010, r. 3.25 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.25(a)-(d) (read by eye) except the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings: Part 13 'Technical Rules', Division 3 'Pleadings'), the title in title case ('Contents of Statement of Claim'), missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The Division and Subdivision headings printed before the title ('DIVISION 3 ACTIONS STARTED BY STATEMENT OF CLAIM', 'Subdivision 1 Statement of Claim', p.3-70 line 1876) match the official Division 3 'Actions Started by Statement of Claim' and Subdivision 1 'Statement of Claim'."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9737,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.25",
+      "title_official": "Contents of statement of claim"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "4c76873da521c8382220fd5b993f762b1dc67d874be188bc1c590a01ec5c2ad5",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-70",
+            "3-71"
+          ],
+          "offset_in_clean_text": [
+            222246,
+            225542
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "e4b62ce258f33bab1ed540ef0fc1be3ccdaa5fc5d5d16fb010664563ac835ea3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json",
+            "rule3_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "502c4d9201d07c45dc0ff14e5d1638a31b74522a77dbac1c729311d44237c475",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "02c335741f2756e10209bf1bb6ad16819f77b4a32651af9bd21d2eb8e3a1c7bb",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            59,
+            60
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b46476cc238a0e5ee9270a9977cd5d118624a62693c174063ae95bc945584ba2"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule12_part01_document.json (12.10 text 'in accordance with rule 3.25' and its amending note 'Alta. Reg. 156/2019, s. 2(6)'); no Book C file other than its own 3.25 entry cites 3.25 by number. BOOK_B 3.25: rule text (rule3_part02_document.json paragraph part3_part_3_court_actions_028) EXACT_MATCH with the official; no amendment note; the commentary is in rule3_part03_document.json: one section 'Commentary § 3.25:1' (5,336 characters, READ IN FULL) with one unnumbered heading 'Remedies': Mazepa v. Embree, 2014 ABCA 438 (paras 8-9, quoting Wild Rose School Division No. 66 v. Bert Pratch Const. Co., 1998 ABQB 831 and the former wording of rule 1.5(1) 'If a person contravenes or does not comply with these rules, or if there is an irregularity ...') and Wagner v. Wagner, 2014 ABCA 428. Caution: the quoted 1.5(1) is the pre-2015 wording; the current official 1.5(1) reads 'If a person contravenes or does not comply with any procedural requirement, or if there is an irregularity in a commencement document, pleading, document, affidavit or prescribed form ...' (official amendment line AR 124/2010 s1.5;128/2015), so the quotation is not the current rule text. The passage's 'R. 3.65' (court may amend the pleadings at any time) agrees with official 3.65(1). BOOK_C 3.25: rule text WORDING_DIFFERENCE (dropped with note); amendment note agrees with the official; commentary kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.8 note p.3-25 (line 556) '... See R.3.25n.' (lands: the email and digital-filing paragraphs are in the 3.25 note); combined rule1.txt p.1-9 (lines 373-374) related provisions '3.25(c) (pleading specific remedy)' (agrees with 3.25(c)); combined_rule6.txt p.6-7 (line 242) 'On actual appearances before an applications judge or justice, see R.3.25 n.' (no visible target in the 3.25 note); combined_rule12.txt p.12-12 (line 515) and p.12-15 (line 641) 'filing a statement of claim in Form 10 in accordance with rule 3.25 [Contents of statement of claim]' (title matches; text of 12.10), p.12-13 (line 531) 'rule 3.2 [How to start an action], rule 3.25 [Contents of statement of claim] and rule 3.31 [Statement of defence]'; combined_rule13.txt p.13-67 (line 3538) '3.25 (actions started by statement of claim)' (paraphrase of the division heading); 3.31 note p.3-81 (line 2199) 'See notes to Rr.3.8 and 3.25.' (after a passage on the Covid-time Order with Parts 1 and 2; the built 3.25 note has no passage on that Order, searched 'Covid', so the pointer lands only on its filing-by-email paragraphs).",
+    "OFFICIAL text (searched for 'rule 3.25', 'rules 3.25', lists, line-wrapped forms and form headings): 12.10(3) (a claim starting an action for unjust enrichment alone 'may be made by filing a statement of claim in Form 10 in accordance with rule 3.25', AR 124/2010 s12.10;156/2019; official line 14617) and the same words in subrule (5) of a later Part 12 rule (official line 14722; it is 12.121(5), the rule that begins at official line 14682), and Form 10 is headed '[Rule 3.25]' (3.25(a) names Form 10). By subject (read): 3.2(1)-(2) (statement of claim to start an action), 13.6 (pleadings: general requirements), 13.8 (pleadings: other contents), 1.3(2) (unclaimed remedies), 1.5(1) (irregularities), 3.65 (amendment of pleadings), 13.16 (deviation from forms). The Schedule A table of forms (official lines 20212 ff., Division 1, 'Forms for Parts 2 to 11 and 13') lists 'Statement of Claim' with rule '3.25' as Form 10 (official line 20252)."
+  ],
+  "dedupe_log": [
+    "3.25 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.25 BOOK_C commentary sentence split dropped",
+    "3.25 BOOK_C: rule text dropped (manual review)",
+    "3.25 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.25 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

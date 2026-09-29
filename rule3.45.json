@@ -1,0 +1,1114 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0-revised",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T23:59:00Z",
+      "source_manifests": [
+        "page_0111.rtf",
+        "page_0112.rtf",
+        "page_0113.rtf",
+        "page_0114.rtf",
+        "page_0115.rtf",
+        "page_0116.rtf",
+        "page_0117.rtf",
+        "page_0118.rtf",
+        "page_0119.rtf",
+        "page_0120.rtf",
+        "page_0121.rtf",
+        "page_0122.rtf",
+        "page_0123.rtf",
+        "05165.rtf",
+        "05166.rtf",
+        "05167.rtf",
+        "05168.rtf",
+        "05169.rtf",
+        "05170.rtf",
+        "05171.rtf",
+        "05172.rtf",
+        "05173.rtf",
+        "05174.rtf",
+        "05175.rtf",
+        "05176.rtf",
+        "05177.rtf",
+        "05178.rtf",
+        "05179.rtf",
+        "05180.rtf",
+        "05181.rtf",
+        "05182.rtf",
+        "05183.rtf",
+        "05184.rtf"
+      ],
+      "node_count": 14,
+      "relationship_count": 15,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Krewey v. Renfrew Chrysler Plymouth et al.",
+          "Lister v. Calgary (City)",
+          "Flight v. Dillon",
+          "Dean v. Kociniak",
+          "Kwik-Kopy Printing Canada Corp. v. Skoreik",
+          "Hein v. Barrett",
+          "Canadian Natural Resources Ltd. v. Arcelormittal Tubular Products Roman S.A.",
+          "Amoco Canada Petroleum Co. v. Propak Systems Ltd.",
+          "Pierringer v. Hoger",
+          "Alberta Energy Co. v. Daniel Industries Inc.",
+          "Edmonton Savings & Credit Union Ltd. v. Wruk",
+          "Yaremchuk v. Haight",
+          "Condo. Corp. 052 0580 v. Carrington Hldg. (#2)",
+          "Peace Hills Trust Co. v. Professional Property Management Ltd."
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3, Subdivisions 5 & 6"
+        ],
+        "manifest_references": [
+          "Rules 3.43-3.55 and associated commentary"
+        ]
+      },
+      "tactical_play_count": 3,
+      "countermeasure_count": 1
+    },
+    "nodes": [
+      {
+        "node_id": "wf-r3-44-expanded-third-party-scope",
+        "node_type": "WarfareFramework",
+        "label": "Expanded Third Party Claim Scope",
+        "description": "Rule 3.44 significantly broadens the grounds for a third-party claim beyond simple indemnity to include independent but related claims, or claims where a third party should be bound by an issue decided between the plaintiff and defendant.",
+        "source_sentence_ids": [
+          "05167.rtf#r3-44-text-b",
+          "05167.rtf#r3-44-text-c"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A defendant or third party defendant may file a third party claim against another person who (b) is or might be liable to the party filing the third party claim for an independent claim arising out of (i) a transaction or occurrence or series of transactions or occurrences involved in the action between the plaintiff and the defendant, or (ii) a related transaction or occurrence or series of related transactions or occurrences, or (c) should be bound by a decision about an issue between the plaintiff and the defendant.",
+              "source_reference": "05167.rtf#r3-44-text"
+            },
+            {
+              "text": "The new Rules allow third party claims to enforce claims for contribution under the Tort-feasors Act or the common law... The new Rules also allow a third party claim to be filed against a party who is or might be liable to the party filing the third party claim for an independent claim, if the independent claims are related to the matters in the main action (Rule 3.44(b)), and against a party who should be bound by a decision about an issue between the plaintiff and the defendant (Rule 3.44 (c)).",
+              "source_reference": "05168.rtf#r3-44-comm-p242"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.44(b), (c)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This framework provides defendants with multiple vectors to bring other parties into the litigation, increasing complexity for the plaintiff, spreading risk, and creating opportunities for alternative recovery or blame-shifting. It avoids the narrow confines of pre-2010 rules which required the third-party claim to be for the same wrong.",
+          "litigation_implications": [
+            "Offensive (Defendant): When sued, brainstorm any party involved in the 'transaction or occurrence' who might bear some responsibility, even if on an independent basis (e.g., negligent advice from a consultant).",
+            "Defensive (Plaintiff): Be prepared for defendants to broaden the scope of the action with tangentially related claims, requiring you to manage a more complex and costly lawsuit.",
+            "Strategic (Defendant): Use R. 3.44(c) to bind a key non-party (e.g., a critical supplier or subcontractor) to a factual or legal finding, preventing them from re-litigating that issue in a subsequent action."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Canadian Natural Resources Ltd. v. Arcelormittal Tubular Products Roman S.A.",
+              "proposition": "Confirms that Rule 3.44 expands third-party claims to include independent claims (3.44(b)) and claims to bind a party to a decision (3.44(c)), in addition to traditional contribution claims (3.44(a))."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-45-6-month-filing-deadline",
+        "node_type": "ControlMechanism",
+        "label": "6-Month Deadline for Third Party Claim",
+        "description": "Rule 3.45(c)(i) imposes a strict 6-month deadline to file and serve a third-party claim, calculated from the date the defendant filed its Statement of Defence or Demand for Notice.",
+        "source_sentence_ids": [
+          "05169.rtf#r3-45-text-c-i"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A third party claim must... (c) be filed and served on the plaintiff and the third party defendant... (i) within 6 months after the date on which the defendant filed a statement of defence or demand for notice...",
+              "source_reference": "05169.rtf#r3-45-text-c-i"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.45(c)(i)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This deadline acts as a gatekeeper, forcing defendants to act with diligence. It prevents defendants from strategically delaying the introduction of new parties to disrupt the litigation timeline. For the defendant, it's a critical limitation to manage; for an opponent, it's a weapon to block late claims.",
+          "litigation_implications": [
+            "Procedural (Defendant): Immediately calendar the 6-month deadline upon filing a Statement of Defence. Treat it as a hard deadline requiring an application to extend if missed.",
+            "Offensive (Third Party): If served with a late third-party claim filed without leave, immediately apply to strike it for non-compliance with a mandatory time limit.",
+            "Defensive (Defendant): If the deadline is missed, immediately prepare an application for an extension of time, gathering evidence to satisfy the judicial test for extensions."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-45-extend-time-test",
+        "node_type": "WarfareFramework",
+        "label": "Test for Extending Time for Third Party Claim",
+        "description": "The court uses a discretionary, multi-factor test to decide whether to extend the 6-month deadline. The core factors are (1) the length of the delay, (2) the reason/excuse for the delay, and (3) prejudice to the proposed third party. The weight of these factors shifts depending on the length of the delay.",
+        "source_sentence_ids": [
+          "05170.rtf#r3-45-comm-krewey-factors",
+          "05170.rtf#r3-45-comm-flight-v-dillon-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "I concur with the statement of the Master in Kreway v. Renfrew Chrysler Plymouth et al. ... where he states that reasons for refusing to extend time are: (1) inordinate delay; (2) absence of credible excuse; and (3) prejudice",
+              "source_reference": "05170.rtf#r3-45-comm-p1"
+            },
+            {
+              "text": "As one moves further away from the six-month deadline, the weighing exercise will focus more on whether the delay is excusable. In the case of a significant delay … failure to advance a reasonable excuse for the delay will, without more, be fatal to an application to extend time.",
+              "source_reference": "05170.rtf#r3-45-comm-flight-v-dillon-quote"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.45"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This framework provides the battleground for late third-party claims. It is not a rigid rule but a flexible test, allowing for adversarial argument. A defendant can weaponize a good excuse and lack of prejudice, while a third party can weaponize a long delay and a weak excuse to defeat the application.",
+          "litigation_implications": [
+            "Offensive (Defendant seeking extension): Frame the delay as short. Provide a detailed, credible, and sworn explanation for the delay. Proactively argue that the third party will suffer no non-compensable prejudice.",
+            "Defensive (Third Party opposing extension): Characterize the delay as 'inordinate' or 'significant'. Attack the defendant's excuse as not credible. Argue prejudice, such as faded memories, lost evidence, or disruption to an advanced litigation schedule.",
+            "Evidentiary Requirement: An application for a significant extension MUST be supported by affidavit evidence explaining the delay; mere allegations by counsel are insufficient."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Krewey v. Renfrew Chrysler Plymouth et al.",
+              "proposition": "Establishes the foundational three-part test for extending time: inordinate delay, absence of credible excuse, and prejudice."
+            },
+            {
+              "case_name": "Flight v. Dillon",
+              "proposition": "Refined the Krewey test, establishing a 'sliding scale': for short delays, prejudice is the primary focus; for long delays, a reasonable excuse becomes paramount and can be fatal if absent."
+            },
+            {
+              "case_name": "Lister v. Calgary (City)",
+              "proposition": "A party seeking a significant time extension must provide proper admissible evidence (e.g., an affidavit) to explain the delay; mere allegations by counsel are insufficient."
+            },
+            {
+              "case_name": "Kwik-Kopy Printing Canada Corp. v. Skoreik",
+              "proposition": "The court may consider whether the proposed third-party claim has an 'air of reality' when deciding whether to grant a late filing."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-46-third-party-full-status",
+        "node_type": "ControlMechanism",
+        "label": "Third Party Acquires Full Party Status",
+        "description": "Upon service of a third-party claim, the third-party defendant automatically becomes a full party to the main action between the plaintiff and the defendant, not just a party to the third-party action.",
+        "source_sentence_ids": [
+          "05171.rtf#r3-46-text-1a"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On service of a third party claim, (a) the third party defendant becomes a party to the action between the plaintiff and defendant...",
+              "source_reference": "05171.rtf#r3-46-text-1a"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.46(1)(a)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This rule is a powerful mechanism that fundamentally alters the litigation landscape. It prevents the third party from being a passive observer. They are now on the main battlefield and have the rights and obligations of a party, including the right to attack the plaintiff's primary claim and the liability for costs.",
+          "litigation_implications": [
+            "Strategic (Third Party): You are not just defending against the defendant; you are now a party in the main action. You must assess the plaintiff's claim and decide whether to actively defend against it.",
+            "Risk (Plaintiff): The number of your adversaries has increased. A third party may have different resources, strategies, or evidence that can be used to defeat your claim against the original defendant.",
+            "Procedural (All Parties): All subsequent documents and proceedings must name the third party, increasing administrative complexity and service requirements."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-49-third-party-defense-rights",
+        "node_type": "ControlMechanism",
+        "label": "Third Party Right to Dispute Main Claim",
+        "description": "Rule 3.49(1)(c) explicitly grants a third-party defendant the right to file a Statement of Defence that disputes the original defendant's liability to the plaintiff, in addition to disputing its own liability to the defendant.",
+        "source_sentence_ids": [
+          "05176.rtf#r3-49-text-1c"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A statement of defence by a third party defendant... (c) may dispute either or both of the following: (i) the defendant's liability to the plaintiff, or (ii) the third party defendant's liability described in the third party claim.",
+              "source_reference": "05176.rtf#r3-49-text-1c"
+            },
+            {
+              "text": "I believe that the parties who might be potentially ultimately liable should be given a full opportunity to defend both the defendants' claim against the third party, and the plaintiff's cliam against the defendant, regardless of whether the defendant admits liability to the plaintiff. I believe that this is the intention of the rule.",
+              "source_reference": "05177.rtf#r3-49-comm-p1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.49(1)(c)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This is a critical defensive weapon for a third party. It allows them to fight a two-front war. The most effective way to avoid third-party liability is to ensure the defendant is never found liable in the first place. This rule prevents a defendant from capitulating or poorly defending the main action to the third party's detriment.",
+          "litigation_implications": [
+            "Defensive (Third Party): Always plead a defence to the main claim. This preserves your right to participate fully in discovery against the plaintiff and to challenge the plaintiff's case at trial.",
+            "Offensive (Third Party): Use this right to attack weaknesses in the plaintiff's case that the original defendant may have overlooked or is not incentivized to pursue.",
+            "Strategic (Plaintiff): Recognize that you must now prove your case against two parties who may coordinate their defence. Your litigation risk has increased."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Edmonton Savings & Credit Union Ltd. v. Wruk",
+              "proposition": "The purpose of the rule is to prevent a defendant, who may have nothing to lose, from admitting liability to the prejudice of the third party who is ultimately liable."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-52-deemed-admission-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Deemed Admission on Failure to Defend",
+        "description": "Rule 3.52 creates a severe penalty for inaction. If a third-party defendant fails to file a Statement of Defence, they are deemed to have admitted (1) the validity of any judgment the plaintiff obtains against the defendant, and (2) their own liability to the defendant to the extent claimed.",
+        "source_sentence_ids": [
+          "05180.rtf#r3-52-text-1",
+          "05180.rtf#r3-52-text-2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a third party defendant does not file a statement of defence disputing the liability of the defendant to the plaintiff, the third party defendant admits the validity of any judgment that the plaintiff obtains against the defendant, whether obtained by agreement or otherwise.",
+              "source_reference": "05180.rtf#r3-52-text-1"
+            },
+            {
+              "text": "If a third party defendant does not file a statement of defence disputing the third party defendant's liability to the third party plaintiff under the third party claim, the third party defendant admits liability to the extent claimed in the third party claim.",
+              "source_reference": "05180.rtf#r3-52-text-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.52(1), (2)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This is a procedural kill-switch. It transforms a procedural default into a substantive admission of liability, stripping the third party of its right to defend on the merits. It is a trap for the unwary and a powerful tool for a diligent defendant to obtain a default judgment.",
+          "litigation_implications": [
+            "Critical Alert (Third Party): Failure to file a defence is catastrophic. It is not a mere procedural misstep; it is a surrender on the merits of liability.",
+            "Offensive (Defendant): If a third party misses the deadline to defend, immediately note them in default and leverage the deemed admissions to seek judgment.",
+            "Defensive (Third Party in Default): Immediately apply to set aside the default, providing evidence of a meritorious defence and a reasonable excuse for the delay, as per the principles in *Klein v. Schile*."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Yaremchuk v. Haight",
+              "proposition": "A party noted in default is deemed to have admitted the cause of action, and all the plaintiff has to prove is the amount of damages."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-47-complete-defence-strike-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: 'Complete Defence' Strike Application",
+        "description": "A third-party notice is improper and can be struck if the facts alleged in it, if proven, would constitute a complete defence for the defendant against the plaintiff's claim. In such a case, the defendant would not be liable, and thus there would be no basis for contribution or indemnity.",
+        "source_sentence_ids": [
+          "05174.rtf#r3-47-comm-p4"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The rule forbids a third party notice which is based solely on facts which, if proved, would give a complete defence to the main action. In such a case the very facts which would make the third party liable to the defendant would make the defendant not liable to the plaintiff. The main action would be dismissed, and there would be no need for contribution or indemnity.",
+              "source_reference": "05174.rtf#r3-47-comm-p4-quote"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.47"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This is a trap for defendants who improperly use a third-party notice to plead what is actually a defence to the main action. It provides a basis for a third party or the plaintiff to strike the notice, arguing it is redundant and procedurally improper. It forces the defendant to plead the matter correctly as a defence in their Statement of Defence.",
+          "litigation_implications": [
+            "Offensive (Third Party/Plaintiff): Scrutinize the third-party notice. If it essentially says 'I'm not liable because the third party is solely responsible,' apply to strike the notice on the grounds it pleads a complete defence.",
+            "Defensive (Defendant): When drafting a third-party notice, ensure it pleads a basis for shared liability or indemnity, not just an alternative theory of sole liability of the third party. Frame it as 'even if I am liable, the third party must contribute,' not 'I am not liable, they are.'",
+            "Cost Consequence: A successful strike application can result in adverse costs against the defendant for filing an improper pleading."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Alberta Energy Co. v. Daniel Industries Inc.",
+              "proposition": "Establishes the rule that a third-party notice should be struck if it is based solely on facts that, if proven, would provide a complete defence to the main action."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-53-satisfaction-before-enforcement",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Judgment Must Be Satisfied Before Enforcement",
+        "description": "Rule 3.53(2) establishes a fundamental principle: a defendant must first satisfy the judgment obtained by the plaintiff before they can enforce their own judgment against a third-party defendant, unless the court orders otherwise.",
+        "source_sentence_ids": [
+          "05181.rtf#r3-53-text-2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Judgment against a defendant must be satisfied before judgment is enforced against a third party defendant unless the Court otherwise orders.",
+              "source_reference": "05181.rtf#r3-53-text-2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.53(2)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This pillar protects the third party from having to pay the defendant before the defendant has actually paid the plaintiff. It ensures the third-party process functions as a true indemnity/contribution mechanism, where the defendant is reimbursed for a loss they have actually suffered, rather than receiving a windfall.",
+          "litigation_implications": [
+            "Financial Shield (Third Party): You are not required to pay the defendant until the defendant provides proof of payment to the plaintiff. This protects you from a defendant's insolvency.",
+            "Procedural Hurdle (Defendant): To collect from a third party, you must first pay the plaintiff. This can create a cash flow challenge and is a critical step in the enforcement process.",
+            "Exception Seeking (Defendant): In rare circumstances (e.g., risk of third party dissipating assets), a defendant could apply for an order allowing enforcement before satisfaction, but this would be exceptional."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-46-pierringer-settlement-framework",
+        "node_type": "WarfareFramework",
+        "label": "Pierringer 'Proportionate Share' Settlement Framework",
+        "description": "A strategic settlement framework where a plaintiff settles with some defendants (the 'settling defendants'), who are then removed from the action. The plaintiff's claim against the remaining 'non-settling' defendants is limited to their proportionate (several) share of the liability, protecting the settling defendants from contribution claims.",
+        "source_sentence_ids": [
+          "05172.rtf#r3-46-comm-pierringer-def"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Under a Pierringer agreement, the plaintiff enters into final settlements with some of the defendants, who withdraw from the litigation. The plaintiff then proceeds to trial against the non-settling defendants... the plaintiff agrees not to pursue the non-settling defendants for more than their proportionate liability. Since the non-settling defendants cannot be liable for more than their proportionate share of the damage, the settling defendants are not exposed to any claim for contribution from the non-settling defendants.",
+              "source_reference": "05172.rtf#r3-46-comm-p119"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.46"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This is a powerful weapon for plaintiffs to divide and conquer. It allows them to de-risk the litigation by securing a guaranteed recovery, simplify the trial by removing parties, and isolate a recalcitrant defendant. For a settling defendant, it provides a complete exit from the litigation ('buys their peace'). For a non-settling defendant, it is a significant threat that fundamentally alters the strategic landscape.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Use a Pierringer to break a united defence front. Settle with a cooperative defendant to gain their informal cooperation and focus resources on the main target.",
+            "Defensive (Defendant): If offered a Pierringer, it provides a certain exit and caps liability. This must be weighed against the chance of a full victory at trial.",
+            "Risk (Non-Settling Defendant): You are now alone. You lose the ability to conduct discovery against the settling defendants, making it harder to prove their share of fault. You must be prepared to defend the entire case and prove the fault of the now-absent parties."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Pierringer v. Hoger",
+              "proposition": "The foundational US case establishing the proportionate share settlement agreement concept."
+            },
+            {
+              "case_name": "Amoco Canada Petroleum Co. v. Propak Systems Ltd.",
+              "proposition": "A key Alberta Court of Appeal decision affirming the validity of Pierringer agreements and balancing the strong public policy favouring settlement against the non-settling defendant's restricted discovery rights."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-46-pierringer-discovery-cutoff",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Pierringer Agreement Discovery Cut-Off",
+        "description": "A major consequence of a Pierringer agreement is that the settling defendants are removed from the action. This typically terminates the non-settling defendant's rights to conduct pre-trial discovery (e.g., questioning) against them, creating a significant evidentiary disadvantage.",
+        "source_sentence_ids": [
+          "05172.rtf#r3-46-comm-discovery-risk"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The fact that non-settling defendants are confined to a statutory disclosure regime constrained by the Alberta Rules of Court is not a proper basis for refusing to give effect to proportionate share settlement agreements.",
+              "source_reference": "05172.rtf#r3-46-comm-amoco-quote-p1"
+            },
+            {
+              "text": "...if they do not want to take a chance that a co-defendant/third party will settle with the plaintiff and thereby prohibit them from obtaining necessary discovery, they should be diligent in filing Notices to Co-Defendants, Notices to Third Parties, and in obtaining discovery or other procedures of such co-defendant or third parties at the earliest possible opportunity.",
+              "source_reference": "05172.rtf#r3-46-comm-rooke-j-warning"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.46"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This is the primary trap for a non-settling defendant. The plaintiff and settling defendant can use a Pierringer agreement to strategically cut off access to information. This forces the non-settling defendant to prove the fault of an absent party without the full toolkit of pre-trial discovery, significantly increasing their risk and difficulty at trial.",
+          "litigation_implications": [
+            "Warning (All Defendants): Be diligent in conducting discovery of all other defendants and third parties early in the litigation. Do not wait, as the opportunity can be terminated by a Pierringer agreement.",
+            "Offensive (Plaintiff/Settling Defendant): A Pierringer can be timed to maximize the disadvantage to the non-settling defendant, for example, after they have revealed their strategy but before they have questioned the settling defendant.",
+            "Defensive (Non-Settling Defendant): Upon learning of a Pierringer, immediately assess what discovery is outstanding. Consider bringing motions to compel any overdue discovery or argue for terms on the order removing the settling party, though success is not guaranteed."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Wright (Next Friend of) v. VIA Rail Canada Inc.",
+              "proposition": "Litigants who delay discovery do so at their peril; a Pierringer agreement can cut off their rights, and they should act diligently at the earliest opportunity."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-43-co-defendant-notice",
+        "node_type": "ControlMechanism",
+        "label": "Streamlined Notice to Co-Defendant",
+        "description": "Rule 3.43 provides a simplified procedure for a defendant to claim contribution or indemnity from a co-defendant under the Tort-Feasors Act or Contributory Negligence Act. Instead of a full third-party claim, a simple notice (Form 15) can be filed and served.",
+        "source_sentence_ids": [
+          "05165.rtf#r3-43-text-1a"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a defendant claims a contribution or indemnity, or both, against a co-defendant under the Tort-feasors Act or the Contributory Negligence Act, (a) the defendant may file and serve on a co-defendant a notice in Form 15 claiming a remedy under either or both of those Acts...",
+              "source_reference": "05165.rtf#r3-43-text-1a"
+            },
+            {
+              "text": "Rule 77 is a truncated third party procedure between co-defendants which can be used by a defendant against a co-defendant in limited situations.",
+              "source_reference": "05166.rtf#r3-43-comm-meier-quote"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.43(1)(a)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This mechanism reduces procedural friction and cost for common contribution claims between existing defendants. It avoids the need for a separate, more complex pleading (a third-party claim), streamlining the process for putting co-defendants on notice that their share of liability is formally in issue.",
+          "litigation_implications": [
+            "Procedural Efficiency (Defendant): For statutory contribution claims against a party already in the action, use the simpler Form 15 notice instead of a full third-party claim to save time and cost.",
+            "Scope Limitation: This simplified procedure is only for claims under the two specified statutes. For independent claims or common law contribution, a full third-party claim under Rule 3.44 is still required.",
+            "Adversarial Status: A notice under R. 3.43 makes the co-defendants 'adverse' for discovery purposes, allowing them to question each other."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Peace Hills Trust Co. v. Professional Property Management Ltd.",
+              "proposition": "Clarifies that the simplified notice to co-defendant is permitted to replace a third-party notice only when the claim for indemnity arises from the Tort-Feasors Act or the Contributory Negligence Act."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-44-common-law-contribution-right",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Common Law Right to Contribution",
+        "description": "A defendant has a right to recover contribution from a third party under common law if the third party breached a duty (in contract, tort, etc.) owed directly to the defendant, and this breach relates to the same damage the plaintiff claims.",
+        "source_sentence_ids": [
+          "05168.rtf#r3-44-comm-p203"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Defendants have a right to recover contribution from the Third Parties under the common law, if the Third Parties breached duties they owed directly to the Defendants under contract, tort, statute or otherwise. The right to contribution arises if the damage the Defendants allege they suffered as a result of the Third Parties' breaches are related to the damage that the Plaintiff, CNRL, alleges it suffered as a result of the Defendants' breaches.",
+              "source_reference": "05168.rtf#r3-44-comm-p203"
+            },
+            {
+              "text": "Because the common law right to contribution arises if the Third Parties breached duties owed directly to the Defendants, it exists independently of any claim that CNRL may have against the Third Parties and can support an independent cause of action against the Third Parties.",
+              "source_reference": "05168.rtf#r3-44-comm-p203"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.44"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This pillar provides a foundational basis for a third-party claim that is independent of the plaintiff's rights. It allows a defendant to bring in a third party who wronged *them*, causing them to be exposed to the plaintiff's claim, even if the third party owed no duty to the plaintiff. This is a crucial distinction from statutory contribution under the Tort-Feasors Act.",
+          "litigation_implications": [
+            "Claim Formulation (Defendant): When assessing third-party targets, look for parties who owed a direct duty to you (e.g., a supplier under contract, a consultant who gave you negligent advice) that led to the plaintiff's loss.",
+            "Pleading Requirement: The third-party notice must plead the facts establishing this independent duty owed by the third party to the defendant; a duty to the plaintiff is not sufficient for this type of claim.",
+            "Defensive (Third Party): Attack the third-party claim by arguing that no duty was owed directly to the defendant, or that any breach did not cause damage related to the plaintiff's claim."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Leoppky v. McWilliams",
+              "proposition": "A third-party notice serves to enforce duties owed by the third party to the defendant, not duties owed by the third party to the plaintiff. The notice must disclose a contract, duty of care, or statutory obligation owed by the third party to the defendant."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-46-costs-liability-framework",
+        "node_type": "WarfareFramework",
+        "label": "Third Party Costs Liability Framework",
+        "description": "The framework governing liability for a third party's costs. Generally, a losing plaintiff does not pay the third party's costs unless the joinder was 'required and inevitable'. A successful third party recovers costs from the defendant who joined them, and the defendant's ability to recover those costs from the plaintiff is limited.",
+        "source_sentence_ids": [
+          "page_0119.rtf#p119-costs-para1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Usually a plaintiff who fails does not pay costs of third party proceedings, unless joinder of the third party was required and inevitable.",
+              "source_reference": "page_0119.rtf#p119-costs-para1-sent1"
+            },
+            {
+              "text": "A third party notice exposes the third parties to liability for the sum claimed, and the test for their costs is whether the third-party notice followed naturally and inevitably from the main action, i.e. whether the defendant had no real alternative but to join the third parties.",
+              "source_reference": "page_0119.rtf#p119-costs-para1-sent3"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.46"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This framework is a critical financial weapon. For a defendant, joining a third party creates a second front of cost risk for the plaintiff, increasing settlement pressure. For a plaintiff, it highlights the danger of suing a defendant (like a general contractor) who will inevitably join numerous third parties (subcontractors), potentially multiplying the plaintiff's adverse cost exposure if the case is lost.",
+          "litigation_implications": [
+            "Offensive (Defendant): Third-party a necessary participant (e.g., a key subcontractor) to force the plaintiff to confront the 'inevitable joinder' costs risk, making settlement more attractive to the plaintiff.",
+            "Defensive (Plaintiff): Before suing, assess the likelihood of inevitable third-party claims. If high, factor the multiplied costs risk into the litigation budget and settlement strategy.",
+            "Risk (Defendant): If you join a third party and lose to them, but win against the plaintiff, you may be liable for the third party's costs without recourse. If you lose to the plaintiff, you may have to pay the plaintiff's costs related to the third-party notice."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Condo. Corp. 052 0580 v. Carrington Hldg. (#2)",
+              "proposition": "Illustrates the 'natural and inevitable' test: where a plaintiff sued a developer who had all work done by contractors, it was inevitable they would be third-partied, exposing the plaintiff to their costs."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-49-third-party-offensive-rights",
+        "node_type": "ControlMechanism",
+        "label": "Third Party Offensive Claim Rights",
+        "description": "Rule 3.49(4) grants a third-party defendant the right to go on the offensive by making a counterclaim against the defendant who joined them, or by making a claim against a third-party co-defendant.",
+        "source_sentence_ids": [
+          "05176.rtf#r3-49-text-4"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A third party defendant may do either or both of the following: (a) make a claim against a third party co-defendant in accordance with rule 3.43 [How to make a claim against co-defendants]; (b) make a counterclaim in accordance with rule 3.56(2) [Right to counterclaim].",
+              "source_reference": "05176.rtf#r3-49-text-4"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.49(4)"
+          ],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This mechanism ensures a third party is not merely a passive defender. It provides them with procedural weapons to assert their own claims arising from the dispute, transforming their role from a target to an active combatant. This can deter defendants from filing frivolous third-party claims, as it may invite a costly counterclaim.",
+          "litigation_implications": [
+            "Offensive (Third Party): If the defendant who joined you also bears some fault or owes you a debt related to the transaction, file a counterclaim to create leverage and a potential set-off.",
+            "Strategic (Third Party): Use the right to claim against a co-defendant to shift blame or seek contribution from another party brought into the litigation, further distributing liability.",
+            "Risk (Defendant): Before third-partying someone, assess your own exposure to a potential counterclaim from them. The act of joining them may open a door to claims you would not otherwise have faced."
+          ],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-extend-time-test-counters-deadline",
+        "source_node_id": "wf-r3-45-extend-time-test",
+        "target_node_id": "cm-r3-45-6-month-filing-deadline",
+        "relationship_type": "COUNTERS",
+        "description": "The discretionary test for extending time provides a direct countermeasure to the strict 6-month filing deadline, allowing a defendant to overcome a missed deadline if the criteria are met.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The time limits in R. 3.45 are not limitation periods, and can be extended by the court under R. 13.5.",
+              "source_reference": "page_0116.rtf#p116-time-issues-para1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship represents the core procedural battle over late filings. The deadline is the shield for the third party; the extension test is the sword for the defendant.",
+          "litigation_implications": [
+            "A defendant's failure to meet the deadline is not fatal if they can successfully navigate the extension test.",
+            "A proposed third party's primary defense against a late claim is to attack the defendant's position on the factors within the extension test."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-full-status-enables-defense-rights",
+        "source_node_id": "cm-r3-46-third-party-full-status",
+        "target_node_id": "cm-r3-49-third-party-defense-rights",
+        "relationship_type": "ENABLES",
+        "description": "Acquiring full party status under Rule 3.46 is the prerequisite that enables a third party to exercise its right under Rule 3.49 to defend against the plaintiff's main claim.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On service of a third party claim, (a) the third party defendant becomes a party to the action between the plaintiff and defendant...",
+              "source_reference": "05171.rtf#r3-46-text-1a"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This link shows the causal chain of rights. One cannot defend the main action without first being a party to it. Rule 3.46 provides the status, and Rule 3.49 provides the specific power.",
+          "litigation_implications": [
+            "The act of serving a third-party claim automatically arms the recipient with the right to attack the plaintiff's case.",
+            "A plaintiff must understand that a defendant's decision to third-party someone creates a new, direct adversary for the plaintiff."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-deemed-admission-reinforces-defense-rights",
+        "source_node_id": "pt-r3-52-deemed-admission-trap",
+        "target_node_id": "cm-r3-49-third-party-defense-rights",
+        "relationship_type": "REINFORCES",
+        "description": "The severe consequences of the deemed admission trap in Rule 3.52 powerfully reinforce the critical importance of exercising the right to file a defence under Rule 3.49.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a third party defendant does not file a statement of defence disputing the liability of the defendant to the plaintiff, the third party defendant admits the validity of any judgment that the plaintiff obtains against the defendant...",
+              "source_reference": "05180.rtf#r3-52-text-1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship highlights the 'stick' associated with the 'carrot' of defense rights. The trap is the consequence of failing to use the mechanism, making the mechanism itself strategically vital.",
+          "litigation_implications": [
+            "The risk of deemed admission is the primary motivator for a third party to actively engage and file a defence.",
+            "This connection illustrates that procedural inaction has substantive, often fatal, consequences."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-complete-defence-trap-limits-scope",
+        "source_node_id": "pt-r3-47-complete-defence-strike-trap",
+        "target_node_id": "wf-r3-44-expanded-third-party-scope",
+        "relationship_type": "MODIFIES",
+        "description": "The 'complete defence' trap acts as a key limitation on the otherwise broad scope of third-party claims, preventing the mechanism from being used to plead what is properly a defence to the main action.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The rule forbids a third party notice which is based solely on facts which, if proved, would give a complete defence to the main action.",
+              "source_reference": "05174.rtf#r3-47-comm-p4-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This shows a check and balance within the rules. While Rule 3.44 opens the door wide, this principle partially closes it to prevent procedural abuse and ensure pleadings are correctly framed.",
+          "litigation_implications": [
+            "A defendant cannot use the expanded scope of R. 3.44 to circumvent their obligation to plead their primary defence in the Statement of Defence.",
+            "This limitation forces a clear distinction between claims for contribution/indemnity and claims that negate the defendant's liability entirely."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-pierringer-framework-triggers-cutoff",
+        "source_node_id": "wf-r3-46-pierringer-settlement-framework",
+        "target_node_id": "pt-r3-46-pierringer-discovery-cutoff",
+        "relationship_type": "TRIGGERS",
+        "description": "The implementation of a Pierringer settlement agreement is the direct trigger for the procedural trap of cutting off the non-settling defendant's discovery rights against the settling parties.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Under a Pierringer agreement, the plaintiff enters into final settlements with some of the defendants, who withdraw from the litigation.",
+              "source_reference": "05172.rtf#r3-46-comm-p119"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship maps the cause and effect of a major strategic play. The settlement framework is the action; the discovery cut-off is the direct, and often intended, consequence.",
+          "litigation_implications": [
+            "The decision to enter a Pierringer agreement is also a decision to impose an evidentiary handicap on the remaining defendants.",
+            "This causal link is the basis for the strategic warning to conduct discovery diligently and early."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-discovery-cutoff-counters-full-status",
+        "source_node_id": "pt-r3-46-pierringer-discovery-cutoff",
+        "target_node_id": "cm-r3-46-third-party-full-status",
+        "relationship_type": "COUNTERS",
+        "description": "The discovery cut-off resulting from a Pierringer agreement effectively counters and diminishes the practical value of a non-settling defendant's party status relative to the now-departed settling defendants.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The difficulty with the B.C. Ferry approach is its emphasis on the potential prejudice a non-settling party might suffer. Indeed, it is likely that a non-settling party will always be able to allege some possible disadvantage when it remains as the sole target for liability after other parties abandon the litigation.",
+              "source_reference": "05172.rtf#r3-46-comm-amoco-quote-p2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This highlights the adversarial tension. While all defendants start as full parties with discovery rights against each other, a Pierringer play removes a party and their associated discovery obligations, weakening the position of those who remain.",
+          "litigation_implications": [
+            "A non-settling defendant's status as a 'party' does not guarantee them discovery rights against former parties who have settled out.",
+            "This demonstrates that strategic actions (settlement) can override default procedural rights."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-satisfaction-pillar-governs-judgment",
+        "source_node_id": "fp-r3-53-satisfaction-before-enforcement",
+        "target_node_id": "pt-r3-52-deemed-admission-trap",
+        "relationship_type": "GOVERNS",
+        "description": "Even if a defendant obtains a default judgment against a third party due to the deemed admission trap, the enforcement of that judgment is still governed by the pillar requiring the defendant to satisfy the plaintiff's judgment first.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Judgment against a defendant must be satisfied before judgment is enforced against a third party defendant unless the Court otherwise orders.",
+              "source_reference": "05181.rtf#r3-53-text-2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship clarifies the sequence of events. Winning a default judgment is one step; collecting on it is another. The satisfaction pillar acts as a final control on the process, even in a default scenario, ensuring the indemnity principle is respected.",
+          "litigation_implications": [
+            "A default judgment against a third party is a contingent asset for the defendant, only realizable after they have paid the plaintiff.",
+            "This rule prevents a defendant from profiting from a third party's default without first making the plaintiff whole."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-co-defendant-notice-is-alternative-to-claim",
+        "source_node_id": "cm-r3-43-co-defendant-notice",
+        "target_node_id": "wf-r3-44-expanded-third-party-scope",
+        "relationship_type": "IS_AN_ALTERNATIVE_TO",
+        "description": "The streamlined co-defendant notice under Rule 3.43 is a limited, procedural alternative to filing a full third-party claim under the broader framework of Rule 3.44, applicable only for specific statutory contribution claims between existing co-defendants.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 77 is a truncated third party procedure between co-defendants which can be used by a defendant against a co-defendant in limited situations.",
+              "source_reference": "05166.rtf#r3-43-comm-meier-quote"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship defines the choice a litigator must make. It highlights that for a specific scenario, a more efficient path exists, but for all others, the main framework must be used.",
+          "litigation_implications": [
+            "Choosing the correct procedure (Notice vs. Claim) is essential for efficiency and compliance.",
+            "Using the wrong procedure could lead to a successful application to strike by the co-defendant."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-common-law-right-operationalizes-scope",
+        "source_node_id": "fp-r3-44-common-law-contribution-right",
+        "target_node_id": "wf-r3-44-expanded-third-party-scope",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The common law right to contribution based on a direct duty owed to the defendant is a key legal principle that operationalizes the expanded scope of Rule 3.44, allowing for claims beyond simple statutory contribution.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A third party claim through which a common law claim for contribution is asserted is described as a claim alleging that the “duty or obligation owed by the third party to the defendant … relates to the same damages pled in the statement of claim”",
+              "source_reference": "05168.rtf#r3-44-comm-p251"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This connects the abstract legal right (the pillar) to the procedural vehicle used to enforce it (the framework). It shows how substantive law is given effect through the rules of court.",
+          "litigation_implications": [
+            "The expanded scope in R. 3.44 is not just procedural; it reflects and enables substantive common law rights.",
+            "A defendant can leverage this connection to justify bringing in a third party even when no statute explicitly provides for contribution."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-defense-rights-operationalize-full-status",
+        "source_node_id": "cm-r3-49-third-party-defense-rights",
+        "target_node_id": "cm-r3-46-third-party-full-status",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The specific right to dispute the main claim under Rule 3.49 is a primary way in which a third party's full party status under Rule 3.46 is operationalized and made meaningful.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a plaintiff can successfully have a third party notice set aside he eliminates a possible adversary in advancing his claim against the defendant.",
+              "source_reference": "05174.rtf#r3-47-comm-p1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship shows how a general status is translated into a specific, actionable power. Full party status is abstract; the right to file a defence against the plaintiff is a concrete application of that status.",
+          "litigation_implications": [
+            "A third party's most powerful tool derived from their party status is the ability to directly challenge the plaintiff's case.",
+            "This operational link is why plaintiffs may move to strike third-party notices: to remove this 'possible adversary'."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-deadline-is-component-of-extend-time-test",
+        "source_node_id": "cm-r3-45-6-month-filing-deadline",
+        "target_node_id": "wf-r3-45-extend-time-test",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The existence of the 6-month deadline is a necessary component and the starting point for any analysis under the framework for extending time.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.45 requires a third party claim to be filed and served within six months of the filing of the statement of defence. This time may be extended after the consideration of the following three factors...",
+              "source_reference": "05170.rtf#r3-45-comm-cnrl-quote-p497"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship establishes the logical dependency. The entire framework for extensions is meaningless without the initial deadline it seeks to modify.",
+          "litigation_implications": [
+            "Any application to extend time must first acknowledge the existence and passing of the deadline.",
+            "The length of the delay, a key factor in the test, is measured directly from this deadline."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-costs-framework-is-consequence-of-full-status",
+        "source_node_id": "wf-r3-46-costs-liability-framework",
+        "target_node_id": "cm-r3-46-third-party-full-status",
+        "relationship_type": "IS_A_CONSEQUENCE_OF",
+        "description": "The complex framework for costs liability is a direct consequence of a third party gaining full party status in the action.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.46 gives a third party full status as a party to the main suit. On the implications of that for costs, see the Nickles case.",
+              "source_reference": "page_0119.rtf#p119-intro-para"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This link connects the procedural status change to its significant financial consequences. Becoming a party means entering the arena where costs are awarded, making the costs framework a critical consideration from the moment of service.",
+          "litigation_implications": [
+            "A defendant's decision to join a third party is also a decision to trigger a new set of potential cost liabilities for all parties.",
+            "A third party must immediately consider its potential cost exposure upon being served, as it is now a full participant in the costs regime."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-offensive-rights-operationalize-full-status",
+        "source_node_id": "cm-r3-49-third-party-offensive-rights",
+        "target_node_id": "cm-r3-46-third-party-full-status",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The right to file counterclaims and co-defendant claims operationalizes a third party's full party status, providing them with offensive tools beyond mere defence.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A third party defendant may do either or both of the following: ... (b) make a counterclaim in accordance with rule 3.56(2) [Right to counterclaim].",
+              "source_reference": "05176.rtf#r3-49-text-4"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship shows that becoming a 'party' is not just about being a target; it's about gaining the ability to launch counter-offensives. It completes the picture of a third party as a full combatant.",
+          "litigation_implications": [
+            "A third party can use these rights to change the dynamics of the litigation, forcing the defendant onto the defensive.",
+            "This potential for counter-attack must be factored into a defendant's initial decision to file a third-party claim."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-costs-framework-counters-pierringer",
+        "source_node_id": "wf-r3-46-costs-liability-framework",
+        "target_node_id": "wf-r3-46-pierringer-settlement-framework",
+        "relationship_type": "COUNTERS",
+        "description": "The costs liability framework can act as a counter-balance to a Pierringer agreement, as a non-settling defendant can still argue that the plaintiff should bear the costs of an 'inevitable' third party, even if that party has settled.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Usually a plaintiff who fails does not pay costs of third party proceedings, unless joinder of the third party was required and inevitable.",
+              "source_reference": "page_0119.rtf#p119-costs-para1-sent1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This highlights a subtle but powerful strategic tension. While a Pierringer removes a party from liability, it doesn't erase the history of their involvement. A non-settling defendant can still use the 'inevitability' of that party's joinder to argue for a favorable costs order against the plaintiff, mitigating some of the Pierringer's impact.",
+          "litigation_implications": [
+            "A non-settling defendant should argue at the conclusion of trial that even though a third party settled, their joinder was inevitable, and therefore the plaintiff should be liable for any costs incurred in relation to them.",
+            "A plaintiff entering a Pierringer must consider that they may not fully escape the cost consequences of the settling party's involvement."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-offensive-rights-enable-defense-rights",
+        "source_node_id": "cm-r3-49-third-party-offensive-rights",
+        "target_node_id": "cm-r3-49-third-party-defense-rights",
+        "relationship_type": "REINFORCES",
+        "description": "The ability to launch offensive claims reinforces a third party's defensive posture, as the threat of a counterclaim can deter aggressive action from the defendant and provide leverage for a favorable settlement.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A third party defendant may do either or both of the following: (a) make a claim against a third party co-defendant... (b) make a counterclaim...",
+              "source_reference": "05176.rtf#r3-49-text-4"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T23:59:00Z",
+          "strategic_rationale": "This relationship illustrates the principle that the best defense is a good offense. The rights are distinct but strategically linked; exercising offensive rights makes defensive objectives easier to achieve.",
+          "litigation_implications": [
+            "A third party should plead any viable counterclaim not just for its own merit, but for its strategic value in defending the third-party claim.",
+            "A defendant must weigh the benefit of joining a third party against the risk of activating a dormant claim that party has against them."
+          ],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-late-game-ambush",
+        "title": "The Late-Game Ambush: Filing an Out-of-Time Third Party Claim",
+        "objective": "To successfully file a third-party claim after the 6-month deadline by strategically satisfying the court's discretionary test for an extension.",
+        "prerequisites": [
+          "The 6-month deadline under Rule 3.45 has passed.",
+          "A credible reason for the delay exists (e.g., facts supporting the claim were only revealed in recent discovery).",
+          "The proposed third party has not been significantly prejudiced by the delay."
+        ],
+        "expected_outcome": "The court grants an extension of time, allowing the third-party claim to be filed, thereby spreading risk and bringing another party into the litigation to share liability and costs.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "action": "File an application for an extension of time, structuring the argument around the three core factors: length of delay, reason for delay, and prejudice.",
+            "justification": "Three factors are considered when determining an application to extend the time for filing a third party notice: the length of the delay, the reason for the delay and the prejudice to the third party."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "action": "Submit a strong affidavit providing a detailed, credible excuse for the delay. Emphasize that the delay was not wilful or strategic.",
+            "justification": "Where a party seeks a significant time extension, it is expected to give evidence to explain the delay, i.e. why prompt compliance did not occur... Evidence must be proper admissible evidence such as an affidavit, not mere allegations by counsel."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "action": "Argue that the delay is not 'inordinate' in the context of the overall pace of the litigation. If the main action has moved slowly, this mitigates the length of the delay.",
+            "justification": "The pace of the litigation can also be considered when deciding the weight to be assigned to each of the three factors."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "action": "Proactively address prejudice, arguing that the proposed third party will not be harmed in a way that cannot be compensated by costs. For a short delay, frame this as the most important factor.",
+            "justification": "For a short period of delay, the primary consideration is prejudice, and an excuse for the delay is of less importance."
+          },
+          {
+            "step_number": 5,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "action": "Demonstrate that the proposed third-party claim has an 'air of reality' to show the court that the application is not frivolous.",
+            "justification": "The viability of the proposed third party claim will be considered when determining whether an extension of time to file the third party claim should be granted. The claim must have an 'air of reality'."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-pierringer-isolation",
+        "title": "The Pierringer Isolation Play",
+        "objective": "For a plaintiff to strategically settle with one or more defendants/third parties to isolate a non-settling defendant, limit their discovery rights, and increase pressure on them to settle.",
+        "prerequisites": [
+          "Multi-defendant or third-party litigation.",
+          "At least one defendant is willing to settle.",
+          "The non-settling defendant is perceived as the primary target or is being uncooperative."
+        ],
+        "expected_outcome": "The settling defendants are removed from the action, the plaintiff secures a partial recovery, and the non-settling defendant is left to defend alone with diminished access to evidence from the settling parties, significantly increasing their litigation risk.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-46-pierringer-settlement-framework"
+            ],
+            "action": "Negotiate and execute a Pierringer agreement with the target settling defendant(s), ensuring it limits the plaintiff's claim against the non-settling defendant to their proportionate share of liability.",
+            "justification": "Under a Pierringer agreement, the plaintiff enters into final settlements with some of the defendants, who withdraw from the litigation... the plaintiff agrees not to pursue the non-settling defendants for more than their proportionate liability."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-46-pierringer-discovery-cutoff"
+            ],
+            "action": "Immediately disclose the existence and terms (excluding the amount) of the Pierringer agreement to the non-settling defendant and the court.",
+            "justification": "A proportionate share settlement agreement should be disclosed to the non-settling party... the terms of the agreement, although not necessarily the amount of the settlement, should also be disclosed to the court."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-r3-46-pierringer-settlement-framework"
+            ],
+            "action": "Bring an application to have the settling defendants formally removed from the action and any third-party notices against them struck.",
+            "justification": "a true Pierringer agreement should result in the amendment of a Statement of Claim and the striking out of a Third Party Notice to exclude the settling defendant."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "pt-r3-46-pierringer-discovery-cutoff"
+            ],
+            "action": "Resist any attempts by the non-settling defendant to keep the settling defendants in the action for discovery purposes, arguing that the strong public policy favouring settlement outweighs any potential prejudice from restricted discovery rights.",
+            "justification": "The fact that a non-settling defendant has restricted rights of third party disclosure under the Alberta Rules of Court does not justify refusing to give effect to a proportionate share settlement agreement."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-costs-squeeze",
+        "title": "The Costs Squeeze Play",
+        "objective": "For a defendant to third-party a participant whose involvement was 'inevitable' to create significant adverse cost risk for the plaintiff, thereby increasing settlement pressure.",
+        "prerequisites": [
+          "Plaintiff has sued a defendant who acted as a general contractor, developer, or other coordinating entity.",
+          "The actual work or alleged error was performed by a third party (e.g., a subcontractor).",
+          "The defendant has a viable claim against the third party."
+        ],
+        "expected_outcome": "The plaintiff is forced to litigate against both the defendant and the third party. If the plaintiff loses, they face a high probability of being ordered to pay the costs of both parties, as the third party's joinder was 'inevitable'. This increased financial risk incentivizes the plaintiff to accept a lower settlement.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-44-expanded-third-party-scope",
+              "cm-r3-45-6-month-filing-deadline"
+            ],
+            "action": "Within the 6-month deadline, file and serve a third-party claim against the party who performed the work or supplied the component at issue.",
+            "justification": "A defendant or third party defendant may file a third party claim against another person who (a) is or might be liable to the party filing the third party claim for all or part of the claim against that party..."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "wf-r3-46-costs-liability-framework"
+            ],
+            "action": "During settlement negotiations, explicitly highlight the plaintiff's cost risk. Point out that if the claim fails, the plaintiff will likely be liable for two sets of legal fees under the 'inevitable joinder' principle.",
+            "justification": "Usually a plaintiff who fails does not pay costs of third party proceedings, unless joinder of the third party was required and inevitable."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "wf-r3-46-costs-liability-framework"
+            ],
+            "action": "If the case proceeds to trial and the plaintiff loses, bring a formal application for costs, seeking an order that the plaintiff pay both the defendant's and the successful third party's costs directly.",
+            "justification": "The test for their costs is whether the third-party notice followed naturally and inevitably from the main action, i.e. whether the defendant had no real alternative but to join the third parties."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-defending-the-late-ambush",
+        "title": "Countering the Late-Game Ambush",
+        "scenario": "A defendant has filed an application to add your client as a third party 18 months after filing their Statement of Defence. The main action is complex and discovery is well underway.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "description": "Defendant files an application for an extension of time, arguing the 18-month delay is not 'inordinate' given the complexity of the case and that the grounds for the claim only became apparent recently.",
+            "action": "Submit affidavit evidence explaining the delay and arguing a lack of prejudice to the proposed third party."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "description": "File a responding affidavit characterizing the 18-month delay as 'significant' or 'inordinate', shifting the focus of the test onto the defendant's excuse.",
+            "action": "Argue that with a significant delay, the absence of a compelling, reasonable excuse is fatal to the application, regardless of prejudice."
+          },
+          {
+            "move_number": 2,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "description": "Attack the credibility of the defendant's excuse. Argue that the defendant was 'alerted by the pleading as to the nature of the claim' from the outset and made a strategic choice not to issue a timely notice.",
+            "action": "Cross-examine the defendant's affiant on their reasons for the delay, seeking to expose it as a lack of diligence rather than a recent discovery."
+          },
+          {
+            "move_number": 3,
+            "node_refs": [
+              "wf-r3-45-extend-time-test"
+            ],
+            "description": "Argue concrete prejudice. Detail how being added late will disrupt the litigation, require duplication of discovery, and disadvantage your client due to faded memories and the inability to have participated in earlier stages of the action.",
+            "action": "Provide evidence of prejudice, such as a list of depositions already completed that your client could not attend, or a trial date that will now be jeopardized."
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-001",
+            "description": "Assess the strength of the defendant's excuse. If it is weak, focus the argument heavily on the principle from *Flight v. Dillon* that for a significant delay, the excuse is paramount and its absence is fatal.",
+            "options": [
+              "Lead with the 'fatal lack of excuse' argument.",
+              "Lead with the 'demonstrable prejudice' argument."
+            ]
+          },
+          {
+            "point_id": "dp-002",
+            "description": "If the defendant's proposed claim appears weak, consider also arguing that it lacks an 'air of reality' as per *Kwik-Kopy*, providing an alternative basis for the court to deny the extension.",
+            "options": [
+              "Focus solely on the delay/prejudice test.",
+              "Add a secondary argument attacking the merits of the proposed claim."
+            ]
+          }
+        ],
+        "likely_resolution": "Success for the defense is high if the defendant's excuse is weak. Courts are reluctant to grant lengthy extensions without a compelling reason, as it disrupts the litigation process and is unfair to the party being added late. The defense should be able to defeat the application, securing costs and keeping their client out of the lawsuit."
+      }
+    ]
+  }
+}

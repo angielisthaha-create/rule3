@@ -1,0 +1,361 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.9",
+  "title": {
+    "official": "Reasonableness of retainer agreements and charges subject to review",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.9   The reasonableness of a retainer agreement and the\nreasonableness of a lawyer’s charges are subject to review by a\nreview officer in accordance with these rules, despite any\nagreement to the contrary.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "089289f82a52353b3076ca47dd5c22ce3e596badbf7ad46fcebf302e43f341bb"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.9 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          198
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Reasonableness of Retainer Agreements and Charges Subject to Review",
+      "operative_text_raw": null,
+      "operative_text_sha256": "b2086102d5f01723dd9efca9d2c95faf59eecd9c6d5dc8871a32def6b8d57725",
+      "related_provisions": "10.17(2) (no second review allowed) ; 10.19(2) (reasonableness determined at time of signing); 10.24 (review in special circumstances)",
+      "commentary": "On reviewing contingency agreements and who can get disclosure or participate in the review,\nsee R.10.7 supra.\nFor the history of court review of solicitors’ agreements, see the Steinke case.⁴\nThe power to review and adjust lawyers’ fees charged to their own clients may be inherent in\nthe superior courts. It is not conﬁned to litigation in King's Bench, and extends to services in other\ncourts (civil or criminal), such as Alberta Court of Justice, or the Federal Court, or before other\ntribunals. It also covers all non-litigious services, such as drawing up wills or giving legal advice.\n(There are special provisions for services to the estates of a deceased. )⁵\nBut in Alberta a review ofﬁcer reviews retainer agreements because of R.10.9, without resort\nto the common law.⁶\n\nA retainer agreement may not be applicable to legal work done outside of the scope set out\nin the retainer. When there is no applicable written retainer, the Court will determine the scope of\nthe retainer governing the parties, and the terms of that agreement is largely a question of fact.¹\nA client and lawyer can agree on almost any type of billing, both as to its basis and timing, and\nif the client fully understands and there is no other pressure or misconduct, that contract binds\nboth sides.²\nWhat the retainer agreement between client and solicitor says is only one factor to\nconsider when a review ofﬁcer judges whether the fee charged is proper.³\nThe client only need show that the agreement is unreasonable, not that it is clearly\nunreasonable.⁴\nWhether a contingency agreement is reasonable is assessed, based on fairness at the time\nit was made,⁵\nthe risk of not being paid, the fairness of the agreement over time, the client’s\nunderstanding, whether the parties acted reasonably, and the Rules of Court, such as nature,\nimportance and urgency, circumstances of the client, what fund it is to be paid out of, the\nmanner in which the services are to be performed, the skill, work and responsibility involved,\nthe client's circumstances and ﬁnancial circumstances,⁶\nand any other relevant factor under R.\n10.2.⁷\nReasonableness involves what the client knew when it contracted, including how quickly\nfunds from success would be available.⁸\nBut the agreement should not be simply displaced by\nthe factors in R.10.2.⁹\nThe court balances the desirability of upholding such agreements against\nprotecting the vulnerable.\nReasonableness of fee agreements generally and reasonableness of contingency agreements,\nare not the same thing.¹⁰\nA review ofﬁcer should hear and decide an application over the propriety and fairness and\namount of a lawyer’s bill, and not adjourn the matter until a negligence suit is decided, especially\nif the law ﬁrm has little control over how quickly that suit moves, but the clients do. The review\nofﬁcer has expertise over fairness and reasonableness of fees, but not over negligence.¹¹\nHere\nthe contingency fee agreement which contract was not disputed, and was clear, and the law ﬁrm\nsimply sought the percentages in the contract.\nIf the agreement is not enforceable, the agreement is not irrelevant, because it is part of\nthe client's reasonable expectations, and is a factor recited in R.10.2.¹²\nThat the client took an\nunreasonable legal position contrary to the ﬁrm's advice, is also relevant.¹³\n\nRule 10.9 only covers agreements between a lawyer and his or her client, not agreements\nbetween two non-lawyers. The court can disallow an award based on the contract, e. g. for\nunnecessary steps or extraordinary measures.¹\nThe steps claimed for must be necessary, in\nthe sense of increasing the likelihood of the lender's security being protected and bringing the\nforeclosure action to an end.²\nThe review ofﬁcers can decide whether a retainer contract is reasonable, but they cannot rule\non its interpretation, nor any question about what are its terms?³\nA party must put his or her best foot forward on a review by a review ofﬁcer of a lawyer’s bill.⁴\nHowever, if a new issue arises or the retainer agreement is held unreasonable or improper, then\nnew evidence is needed and the Palmer tests for new evidence on appeal need not be met.⁵",
+      "footnotes": [
+        {
+          "page": "10-22",
+          "number": 3,
+          "text": "Quite similar to previous 1968 R.646(2). It came from 1944 C. Rr.777 and 778, and 1914 Rr.775, 776 (the latter amended by O. C.1590-36). The 2000 amendment eliminated references to oral agreements, and used newer drafting styles. The legal history is reviewed in the C. P. E. , Chapter 82, Part K.1."
+        },
+        {
+          "page": "10-22",
+          "number": 4,
+          "text": "Steinke v. Hajduk Gibbs 2014 ABQB 34, 581 AR 91 (¶’s 47-48) ; Shreem Hldg. v. Barr Picard 2014 ABQB 112, 585 AR 356 (¶’s 8-24)."
+        },
+        {
+          "page": "10-22",
+          "number": 5,
+          "text": "See the C. P. E. , Chapter 82, Part J."
+        },
+        {
+          "page": "10-22",
+          "number": 6,
+          "text": "Tallcree F. N. v. Rath & Co.2022 ABCA 174, Edm 2103 0093 AC (May 11) (¶’s ff. ), leave den (SCC 16 Mar ’23)."
+        },
+        {
+          "page": "10-23",
+          "number": 1,
+          "text": "Twinn v. Sawridge Band 2017 ABQB 366, [2018] 1 WWR 298 (Jun 7)."
+        },
+        {
+          "page": "10-23",
+          "number": 2,
+          "text": "Samson Cree N. v. O’Reilly & Associés 2014 ABCA 268, 580 AR 181. But cf. Khan v. Kazakoff, supra, R. 10.7 n. See R.10.5n. A."
+        },
+        {
+          "page": "10-23",
+          "number": 3,
+          "text": "Lising v. Smith 2018 ABQB 1061, JCE 1803 13042 (¶ 17)."
+        },
+        {
+          "page": "10-23",
+          "number": 4,
+          "text": "Tallcree F. N. v. Rath & Co. (#1), infra (¶’s 47-49)."
+        },
+        {
+          "page": "10-23",
+          "number": 5,
+          "text": "Walsh v. Stephen M. K. Hope 2019 ABQB 516, JCC 1401 02306 (Jul 9) ; Tallcree F. N. v. Rath, supra (¶’s 57-59, 63)."
+        },
+        {
+          "page": "10-23",
+          "number": 6,
+          "text": "Walsh v. Stephen M. K. Hope, supra (¶’s 87-90) ); Tallcree F. N. v. Rath (CA), supra."
+        },
+        {
+          "page": "10-23",
+          "number": 7,
+          "text": "Walsh v. Stephen M. K. Hope, supra (¶’s 85-86) ; Tallcree F. N. v. Rath (CA), supra."
+        },
+        {
+          "page": "10-23",
+          "number": 8,
+          "text": "Tallcree F. N. v. Rath & Co. (#1), supra (¶ 27)."
+        },
+        {
+          "page": "10-23",
+          "number": 9,
+          "text": "But cf. Tallcree F. N. v. Rath & Co. (#2), supra."
+        },
+        {
+          "page": "10-23",
+          "number": 10,
+          "text": "Tallcree F. N. v. Rath & Co. (#1), supra (¶’s 47-49)."
+        },
+        {
+          "page": "10-23",
+          "number": 11,
+          "text": "Miles Davison LLP v. Rennich 2021 ABQB 1019, JCC 2001 11108 (Dec 22) (¶’s 13-25)."
+        },
+        {
+          "page": "10-23",
+          "number": 12,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2021 ABCA 129, [2021] AJ #480 (¶’s 19-21)."
+        },
+        {
+          "page": "10-23",
+          "number": 13,
+          "text": "Betser-Zilevitch v. Prowse Chowne, supra (¶ 22)."
+        },
+        {
+          "page": "10-24",
+          "number": 1,
+          "text": "Manufacturers Life Ins. Co. v.423632 Alta.2015 ABQB 566, 29 CBR(6th) 108 (Sep 8)."
+        },
+        {
+          "page": "10-24",
+          "number": 2,
+          "text": "CIBC Mtge. v. Ulrich (M) 2015 ABQB 445, JCE 1403 04607 (Jul 10)."
+        },
+        {
+          "page": "10-24",
+          "number": 3,
+          "text": "Sweetgrass F. N. v. Rath & Co.2013 ABQB 165, 559 AR 12; Cowling v. Carpenter 2014 ABQB 460, 591 AR 280. Quaere. Though a review ofﬁcer cannot interpret a retainer contract, he can review it for reasonableness. An unspeciﬁed term of an order or implied retainer contract can be read in by the review ofﬁcer as reasonableness, for R.10.9 mandates that: Rath & Co. v. Sweetgrass F. N.2014 ABCA 426, 588 AR 245 (Dec 15)."
+        },
+        {
+          "page": "10-24",
+          "number": 4,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2020 ABQB 732, JCE 1803 16987, affd 2021 ABCA 129, Edm 2003 0226 AC (Nov 24) (¶ 37). So a request partway through the hearing to give more material does not necessarily have to be allowed. The other side’s “new evidence” were ﬁle materials and billing records clearly relevant and material, and should have caused no surprise to the appellant: id. at ¶’s 38-40."
+        },
+        {
+          "page": "10-24",
+          "number": 5,
+          "text": "Tallcree F. N. v. Rath & Co.2022 ABCA 174, Edm 2103 0093 AC (May 11) (¶’s 107-08), leave den (SCC 16 Mar ’23)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1029,
+          1131
+        ],
+        "book_pages": [
+          "10-22",
+          "10-23",
+          "10-24"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-22 (line 1029) to p.10-24 (line 1131): title (line 1029, after the Subdivision 4 heading of lines 1027-1028), rule text (lines 1030-1032; marker '3' after the text), Related Provisions (lines 1034-1037) and the note (lines 1038 to 1131; page markers 10-23 line 1061 and 10-24 line 1119) with all footnotes. The built record: related_provisions, a commentary field of 4,160 characters and 22 footnotes (counted from the file: p.10-22 fns 3-6, p.10-23 fns 1-13, p.10-24 fns 1-5; 4+13+5); the p.10-22 block (line 1049 ff.) also holds fns 1-2 of 10.8's note, the p.10-24 block (after the text of 10.10, line 1140 ff.) also holds fn 6 of 10.10's note. History footnote 3 (p.10-22): 'Quite similar to previous 1968 R.646(2). It came from 1944 C. Rr.777 and 778, and 1914 Rr.775, 776 (the latter amended by O. C.1590-36). The 2000 amendment eliminated references to oral agreements, and used newer drafting styles.' (Book B's 'rule 614' is a different old number; see the see-also). Related Provisions read against the official rules: '10.17(2) (no second review allowed)' agrees with official 10.17(2) (a review officer may not review a retainer agreement or charges previously reviewed unless the Court orders or the parties agree); '10.19(2) (reasonableness determined at time of signing)' agrees with official 10.19(2) (a review of a retainer agreement is based on the circumstances when it was entered into); '10.24 (review in special circumstances)' is a label for official 10.24 ('Reviewing lawyer's charges: incomplete services and particular events'). Statements read against the official text: 'On reviewing contingency agreements ... see R.10.7 supra' lands (the 10.7 note); 'a review officer reviews retainer agreements because of R.10.9, without resort to the common law' agrees with 10.9; FLAG: 'is part of the client's reasonable expectations, and is a factor recited in R.10.2' (fn 12) - official 10.2(1)(a)-(f) does not list the client's expectations (Book B's 10.2 commentary treats them as an additional common-law factor, MacDonald & Freund v. Chernetski), so the statement is not the text of the rule; 'The client only need show that the agreement is unreasonable, not that it is clearly unreasonable' and the other statements on onus, negligence suits, adjournments, the Palmer tests and limitation periods are case-law statements not in 10.9; the last paragraph of the note ('Rule 10.9 only covers agreements between a lawyer and his or her client, not agreements between two non-lawyers') is repeated in the 6.47 note and agrees with Book C's commentary. supra/infra (each full citation found by searching all Book A files): FLAG p.10-23 fn 4 (line 1107) 'Tallcree F. N. v. Rath & Co. (#1), infra (¶'s 47-49)' - the only full citation of (#1) is earlier, at p.10-20 fn 10 (line 900, 2020 ABQB 592), so 'infra' points the wrong way (fns 8 and 10 of the same page say 'supra'); p.10-22 fn 1 (10.8's) prints the first full citation of M. S. v. D. M. Jr.; p.10-23 fn 2 'Khan v. Kazakoff, supra, R. 10.7 n. See R.10.5n. A.' (Khan full at p.10-4 fn 3; 'R. 10.7 n.' and 'R.10.5n. A' land on those notes); fns 5-7 'Tallcree F. N. v. Rath, supra', 'Tallcree F. N. v. Rath (CA), supra' and fn 9 'Tallcree ... (#2), supra' point back correctly; p.10-24 fn 3 'Rath & Co. v. Sweetgrass' (2014 ABCA 426) repeats the sentence in the 10.5 note ('for R.10.9 mandates that', p.10-13). Printed as is: '(¶'s ff. )' with no numbers in p.10-22 fn 6; 'Alta. Treas. Br. v.1401057 Alta.'; 'Quaere.'; 'may include new evidence ...'. The cases (Steinke 2014 ABQB 34, Shreem 2014 ABQB 112 paras 8-24, Twinn v. Sawridge 2017 ABQB 366, Samson Cree 2014 ABCA 268, Lising v. Smith 2018 ABQB 1061, Tallcree (#1) 2020 ABQB 592 and 2022 ABCA 174, Walsh v. Stephen M. K. Hope 2019 ABQB 516, Miles Davison LLP v. Rennich 2021 ABQB 1019, Betser-Zilevitch 2020 ABQB 732 and 2021 ABCA 129, Manufacturers Life v. 423632 Alta. 2015 ABQB 566, CIBC Mtge. v. Ulrich 2015 ABQB 445, Cowling v. Carpenter 2014 ABQB 460) were not checked beyond the cross-book comparisons; the C.P.E. references (Chapter 82 Parts K.1 and J) were not opened."
+    },
+    "BOOK_B": {
+      "title": "Reasonableness of retainer agreements and charges subject to review",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.9:1",
+          "text": "Rule 10.9 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.9. 1. Right to Taxation of a Bill The applicant is correct in stating that the right of a person who has received a bill for professional services from an Alberta barrister or solicitor to tax that bill is a right of such importance that it can only be struck down or even whittled down in exceptional cases: rule 614, Alberta Rules of Court. U.A., Local 488 v. MacDonald (1987), 85 A.R. 283 (Q.B.), at 285, per Veit J. 2. Right to Taxation Exists for Client's Benefit The inherent jurisdiction of the court to tax accounts is for the benefit of the client, not the lawyer. The second argument I will deal with is the Applicants' suggestion that the Court's inherent jurisdiction to review solicitors' accounts, because of its general and inherent power over barristers and solicitors as officers of the Court, extends to an inherent right for a solicitor to have his or her account taxed. The cases cited in support of this proposition are Re E., [1922] 2 W.W.R. 1324 (Alta. C.A.), Smith, Hutchison & Gow v. Van't Reit (1985), 64 B.C.L.R. 41 (C.A.), Re T. (1921), 16 Alta. L.R. 449 (C.A.), and M. v. T. (1962), 40 W.W.R. 623 (Alta. T.D.) … In all four cases the Courts confirmed the inherent jurisdiction of the Court to review solicitors' accounts at the request of the client. As I read these cases they do not confirm an inherent right for a solicitor to have his or her account taxed. P., Barristers & Solicitors v. Legal Aid Society (Alberta) (1994), 26 Alta. L.R. (3d) 167 (Q.B.), at 173–74, per Fruman J. At p. 174, her Ladyship went on to note that lawyers tax accounts for different reasons from clients. She said: Solicitors … elect to have their accounts to their clients taxed as a step in an expedited collection procedure. That is not the only avenue for collection open to them. I do not think that the same public policy reasons apply or that the Court's inherent jurisdiction to tax extends to a counsel's inherent right to use an expedited collection procedure. Similarily, the same public policy reasons do not extend to a lawyer who has by contract agreed to accept some other collection procedure instead of the taxation procedure. 3. A Lawyer May Contract out of R. 10.9 A lawyer, in contradistinction to a client, may contract out of the provisions of R. 10.9. Therefore, a lawyer who has agreed to conduct a file through the financial auspices of Legal Aid may not resort to the rule for the purpose of collecting fees. By placing themselves on the Legal Aid roster and ultimately signing certificates in respect of their representation of the two accused individuals, the Applicants contractually committed themselves to be bound by the Tariff and the Legal Aid Rules. Those Legal Aid Rules set out a detailed procedure for the submission of accounts, approval of accounts by the Taxation Officer of the Legal Aid Society and appeals to the Exceptional Accounts Review Committee, whose decision is final. The Applicants not only accepted those terms by signing the certificate, they acted in furtherance of those terms by submitting accounts in accordance with the Legal Aid Rules and exhausting the available appeals. They now turn to the Courts for a taxation in furtherance of their collection of the outstanding accounts from the Legal Aid Society. Where, as here, a solicitor, with full knowledge and understanding, has accepted a tariff of fees and a procedure for their assessment and payment, it would be inequitable and inappropriate to read R. 614 as permitting the solicitor to, in effect, breach his or her contractual commitments and apply to the Courts for the taxation of fees, in furtherance of collection. … I conclude that a solicitor may not have an account rendered to the Legal Aid Society pursuant to a certificate taxed under the Rules of Court. Lawyers are bound by the Tariff and collection procedures set out in the Legal Aid Rules. P., Barristers & Solicitors v. Legal Aid Society (Alberta) (1994), 26 Alta. L.R. (3d) 167 (Q.B.), at 174–75, 177, per Fruman J. 4. Reason for Rule The reasons for the taxation of legal fees by a client are fundamentally different than the reasons for taxation by a lawyer. The client, after all, is liable to pay the fees. He or she may be concerned that they are excessive or want independent confirmation that they are reasonable. The client may be legally unsophisticated. He or she might not be able to assess the value of the services received and might contractually agree not to tax an account without fully understanding the implications. Barristers and solicitors are officers of the Court and the Court retains an inherent jurisdiction to assess the reasonableness of their fees even though a client has waived that right by contract. Under R. 614 the charges of barristers and solicitors are therefore “subject to” taxation. P., Barristers & Solicitors v. Legal Aid Society (Alberta) (1994), 26 Alta. L.R. (3d) 167 (Q.B.), at 174, per Fruman J. 5. Taxing Officer May Not Determine Questions of Liability “The taxing officer's jurisdiction is limited to determining quantum, not liability. What the terms of a contract are is a question of fact. That question cannot be decided where the contract is a verbal and there is a dispute about its terms. Like any other contract a dispute about the terms must be resolved by a judicial officer of the court.”Peterson, Ross v. Kirkwood (1984), 52 A.R. 284 (Master), at 289, per Master Funduk, quoting Gilbert v. Douglas Rentals Ltd. (26th July 1983), Edmonton Q.B. 8303-15325 (unreported). And in another decision, Master Funduk stated: Where there is an issue about the measuring stick to be used to measure compensation there is no point in the taxing officer proceeding to still tax the account. In Peterson, Ross v. Kirkwood (1984), 52 A.R. 284, it is stated at p. 290: If an issue had been raised about liability the taxing officer clearly could not have dealt with it, other than possibly procedurally. He could have referred the issue to a Judge in Chambers: Rule 634. He could have not dealt with it at all procedurally, leaving the parties to take whatever steps they might consider appropriate. If an issue had been raised about the measuring stick to be used to measure the compensation the taxing officer could not have decided that issue, and accordingly could not have decided quantum. In that case he has the same choice as in the preceding paragraph: refer the matter to a Judge or decline to tax the bill on the ground of lack jurisdiction, thus leaving the parties to take whatever steps they might consider appropriate. In my view, generally it would be the most appropriate step for the taxing officer to refer the issue as to what measuring stick to use to a Judge in chambers, under Rule 634. Lennie, De Bow & Martin v. Richter (1984), 55 A.R. 26 ((Master)), at 28, per Master Funduk. 6. “Reasonableness of a lawyer's charges” In Steinke v. Hajduk Gibbs LLP, 2014 ABQB 34, 2014 CarswellAlta 77, 581 A.R. 91, 96 Alta. L.R. (5th) 155, Justice Wakeling discussed the factors to be considered when determining the “reasonableness of a lawyer's charges”. His Lordship said: 43 Rule 10.9 of the Alberta Rules of Court stipulates that the “reasonableness of a lawyer's charges are subject to review by a review officer in accordance with these rules, despite any agreement to the contrary”. 44 It follows that a lawyer's charges must be reasonable. 45 This part of my judgment explores the meaning of this norm. 46 In Alberta Treasury Branches v. 1401057 Alberta Ltd., 2013 ABQB 748 I recorded the ten general principles governing court-ordered costs payable inter partes. Many of these principles also serve as general principles governing fees paid by a client to a lawyer.6 My reasons for judgment in Alberta Treasury Branches and this case may usefully be read together. 47 The first principle governing the review of an account submitted by a lawyer to a client directs the Court of Queen's Bench to review, if asked by the client or the lawyer, the amounts a lawyer has charged a client for legal services the client retained the lawyer to perform. … … 49 The second principle is based on the fact that a lawyer who is a member of The Law Society of Alberta cannot charge a client more than a “fair and reasonable” amount. Code of Conduct 2.06(1) (2013). This is an ethical obligation of which almost all lawyers are keenly aware.8 See W. Stevenson & J. Côté, Alberta Civil Procedure Handbook 2013–2014 at 10.5. 50 A review officer must be mindful of this ethical obligation when assessing a lawyer's charges. There is a presumption that a lawyer will act in accordance with the Code of Conduct when she submits an account to the client.9 See McLennan Ross v. Keen Industries Ltd., 83 A.R. 322, 323 (C.A. 1987) (“the account of the solicitor must … be considered by the taxing officer as the solicitor's conscientious estimate of the value of the work performed by him”). This is the second principle. A review officer who, exercising authority under r. 10.2(1) of the Alberta Rules of Court, reduces a fee because it exceeds a fair and reasonable amount is asserting that a lawyer is in breach of this obligation. 51 The third principle is that a court must hold the lawyer and the client to promises made in a retainer agreement10 regarding amounts a lawyer may charge and a client must pay for legal services in the absence of a compelling reason not to.11 Rule 10.5 of the Alberta Rules of Court is the Alberta provision with embodies this basic principle. It states that “[a] lawyer may make an agreement with a client about the amount and the manner of payment of the whole or any part of past or future lawyer's charges for services performed by the lawyer”. The significance of a retainer agreement, which is a defined term in the Alberta Rules of Court, is emphasized in r. 10.2(1) of the Alberta Rules of Court. This subrule provides the criteria which determines the amount a client must pay the lawyer for legal services performed by the lawyer unless a retainer agreement sets out the criteria which serve this purpose. Canadian Legal Practice: A Guide for the 21st Century 40.48 (A. Dodek gen. ed. looseleaf release 24 September 2013) (“Where lawyers and clients have not agreed on the amount to be charged on fees for required legal work, the lawyer's entitlement is determined on a quantum meruit basis”). Rule 10.2(1) introduces a reasonableness measure shaped by four specific but hard-to-apply factors (“(a) the nature, importance and urgency of the matter, (b) the client's circumstances, … (d) the manner in which the services are performed, (e) the skill, work and responsibility involved”) and one omnibus and equally abstract factor (“any other factor that is appropriate to consider in the circumstances”), the combined effect of which is to turn the assessment process into a forensic lottery. It is safe to say that adjudicators asked to apply these factors are seldom likely to come up with similar conclusions as to what is a reasonable amount. In other words, the value of this process is not predictability and certainty. … The value of the process is finality—the dispute is resolved. 52 The fourth principle is that a court taxing a lawyer's charges to a client must act in a principled manner. “The absence of … logical framework introduces arbitrariness and uncertainty. Its presence promotes rationality and consistency”. Alberta Treasury Branches v. 1401057 Alberta Ltd., 2013 ABQB 748, para 28. … This judgment provides an analytical framework for the review of contested lawyer charges. A review officer properly exercises her jurisdiction if she is guided by principle.12 53 If there is no retainer agreement or there is no provision in a retainer agreement relating to amounts a lawyer may charge, or the retainer agreement stipulates that a lawyer's charges will be fair and reasonable, r. 10.2(1) of the Alberta Rules of Court kicks in. It declares, as previously noted, that “a lawyer is entitled to be paid a reasonable amount for the services the lawyer performs for a client”. To discharge its obligation under the fourth principle, the Court must apply the criteria listed in r. 10.2(1) of the Alberta Rules of Court and provide an explanation as to how they influenced the adjudicator's decision13. … 54 If there is a provision in a retainer agreement which clearly14 states that r. 10.2(1) of the Alberta Rules of Court does not apply and substitutes a different formula, the court must apply the norm contained in the retainer agreement to determine the entitlement of the lawyer and the obligation of the client. McDonald Crawford v. Morrow, 348 A.R. 118, 132 (C.A. 2004) (“A court must interpret a contract as whole [in order to ascertain the compensation formula]”). 55 The retainer agreement will identify the legal services the client retained the lawyer to perform and the methodology of assessing the lawyer's fee.15 56 Seldom is there a dispute about the nature of the legal services for which the lawyer is entitled to be paid.16 This is so whether or not there is a retainer agreement. The client and the lawyer usually had a common understanding as to the purpose of the retainer. It may have been representing the client at a trial or an appeal or drafting a contract. 57 Controversy is most likely to attach to legal services which the client claims were not necessary to perform or which the client asserts took too much time to perform. 58 The fifth and the sixth principles are designed to resolve controversies of this nature. 59 The fifth principle is that unless there is a contrary provision in the retainer agreement, a client must pay for a legal service which increases the likelihood the purpose of the retainer agreement will be achieved.17 If the client retained a lawyer to oppose an appeal, the review officer must ask whether the contested legal service increased the likelihood the appeal court would dismiss the appeal. 60 In Alberta Treasury Branches v. 1401057 Alberta Ltd., 2013 ABQB 748, para 39 I commented on this concept in the context of inter partes costs: [39] The requirement that a legal service increases the likelihood the purpose stipulated … is achieved is a low standard. It may be less demanding than some of the tests adopted by other courts. But I am not sure Other courts have preferred slightly different wording. The Saskatchewan Court of Appeal, in Fleck v. Whitehead, [1924] S.J. No. 84, …, approved fees if they related to steps “properly” or “necessarily” undertaken. In Royal Bank of Canada v. Toews, [2007] S.J. No. 173, …[the Saskatchewan Court of Queen's Bench] asked if a step was “appropriate, necessary and reasonable in the circumstances” or was “properly …[taken] to recover the mortgage money”. … Much earlier, the Admiralty Court in The Kestrel, … (1867) determined that recoverable costs are those necessary to protect the mortgagee's interest. Most of the time the two different tests—increase the likelihood of success or necessary for the proper presentation—will produce the same outcome. But I can envisage fact patterns where they might not. Suppose that [law firm] C had three counsel appear on an appeal. Some review officers may agree that the presence of three counsel—each may have different areas of expertise which may be needed to answer questions from the court—may increase the likelihood [client] B would prevail on the appeal but would not be necessary for the proper presentation of the case. They may be of the view that the likelihood the court will pose questions to lead counsel which she cannot answer is too low to justify the extra cost associated with the presence of two other lawyers. …Others may be convinced that the presence of three highly skilled counsel may be necessary for the proper presentation of a complex appeal. Kirkwood v. Webster, 9 Ch.D. 241 … (H.C. 1878) (the court set aside the Taxing Master's decision disallowing costs for three counsel because “a reasonable and prudent man … would not have ventured to come into Court without three counsel”); Ed Miller Sales & Rental Ltd. v. Caterpillar Tractor Co., 216 A.R. 304, 306 (C.A. 1998) (“If ever there was a suit which did not call for penny-pinching half measures by the defendant, this was it”) …. 61 These observations apply equally to the assessment of the appropriate amount a client must pay its lawyer. A client who agrees to pay a lawyer on a time spent basis cannot reasonably be held responsible for time a lawyer devotes to activities which do not increase the likelihood the purpose of the retainer will be achieved. … 62 In passing, I observe that work performed may increase the likelihood the purpose of the retainer will be achieved even if the result of the legal service indicates that a potential argument is unsound. … 63 The sixth principle, generally speaking, is that a client is not responsible for the cost associated with unnecessary steps.18 This means that if a contested step is adjudged to increase the likelihood that the purpose of the retainer will be attained, it may still be a step for which the client cannot be held responsible if it is adjudged to be unnecessary. An unnecessary step is one for which the value derived from the step is much less than the cost of completing it. Alberta Treasury Branches v. 14010507 Alberta Ltd., 2013 ABQB 748, para 41. … But a review officer should not substitute her view of what is an appropriate expenditure of client resources for that of the lawyer unless the law firm's expenditure decision is clearly indefensible.19 This is a very important qualification to bear in mind when considering the sixth principle. The client retained the lawyer to make these strategic decisions and should be responsible for the costs consequences of these decisions. Alberta Treasury Branches v. 14010507 Alberta Ltd., 2013 ABQB 748, para 41; Credit Fancier Trust Co. v. Hornigold, 45 Alta. L.R. (2d) 341, 348 (Q.B. 1984) &Andrukow Group Solutions (Ryley) Inc. v. Evergreen Farms Ltd., Alta. Q.B. Action No. 1103 07615, at 71 (Q.B. Assessment Officer October 20, 2011) (the assessment officer lamented the fact that he did not have current market information about the cost of providing comparable legal services). The sixth principle is not a general invitation to a review officer to second guess counsel's judgment calls. See The Queen v. G.D.B., [2000] 1 S.C.R. 520, 532 (“The wisdom of hindsight has no place in this assessment”). She may only conclude that a step is unnecessary if counsel's decision is clearly indefensible. 64 The seventh principle is that a client who instructs a lawyer to take a step which increases the likelihood the objective of the retainer will be achieved but will not likely present a benefit which justifies the cost or does not increase the likelihood of success is responsible for the fees associated with this extraordinary service. … 65 A client who instructs a lawyer to leave no stone unturned in the pursuit of the objective of the retainer agreement cannot complain when his lawyer complies with the direction and devotes time to the undertaking just because either the benefit associated with the extraordinary measures did not meet the client's expectations or cost more than the client foresaw. … 66 The eighth principle directs a court “to ensure that those who are obliged to pay for legal services are treated reasonably, taking into account all the circumstances”. Alberta Treasury Branches v. 1401057 Alberta Ltd., 2013 ABQB 748, para 43. … 67 The key question in applying the eighth principle is this: Are the law firm's charges exorbitant so that it can be said the law firm has taken advantage of its clients? … In answering this query the Court is not conducting a r. 10.2(1) analysis. The eighth principle serves a completely different purpose than r. 10.2(1) of the Alberta Rules of Court. 68 As there is an increased risk that an unsophisticated consumer of legal services may be taken advantage of, a court, in reviewing a lawyer's relationship with such a client, will exercise its protective function with more vigour than will be the case if the client is a regular consumer of legal services and familiar with the issues which arise in the delivery of legal services. This is because a sophisticated client has the necessary skills to protect its own interests when transacting professional business with lawyers. Alberta Treasury Branches v. 1401057 Alberta Ltd., 2013 ABQB 748, para 43. … 69 The eighth principle plays no role if the parties have not agreed upon a compensation model and a lawyer's charges are determined by applying r 10.2(1) of the Alberta Rules of Court. There is no need to ask if a law firm has taken advantage of a client by charging an exorbitant fee once a review officer has settled on a reasonable amount. An amount which is adjudged to be reasonable cannot also be exorbitant. 70 The likelihood that charges based on a timekeeper model and are compliant with the fifth and sixth principles will run afoul of the eighth principle is extremely low. Fees which are incurred as a result of services that increase the likelihood the purpose of the retainer will be achieved and the cost of incurring them is less than the value derived from the service are not a sign a lawyer has taken advantage of her client. 71 The eighth principle is more likely to be engaged if a lawyer and a client have agreed to a fixed or contingency fee arrangement. … 72 The ninth principle requires the client who contests his or her lawyer's charges at the outset of the hearing to particularize his or her complaint. A client who has not agreed to a formula which determines the amount a lawyer may charge and is thus obliged to pay a reasonable amount for legal services, in accordance with r. 10.2(1) of the Alberta Rules of Court, must state that the amount charged is unreasonable and why. A client who has agreed to a formula which determines the amount a lawyer may charge, as is the case in these appeals, must explain the basis of her objection. Does she take the position that the lawyer seeks compensation for services which did not increase the likelihood the subject of the retainer would be achieved? Does she claim that a service was unnecessary even though it increased the likelihood the object of the retainer would be met? Or does she claim that the charges violate the eighth principle—that the lawyer's charges are exorbitant so that it can be said the lawyer has taken advantage of the client. Bhatnager v. Canada, [1991] 3 S.C.R. 317, 319 &Holmes Greenslade v. Starcom International Optics Corp., 14 C.P.C. (4th) 388, 392 (B.C. Sup. Ct. 1997). This obligation rests on the client because of the second principle—there is a presumption that a lawyer will not submit an account to a client which is inconsistent with an obligation under the Code of Conduct not to charge more than an amount which is fair and reasonable. Proceeding without a particularization of the client's complaint is unfair to the lawyer. The lawyer cannot address the client's concerns if he does not know what they are. Fair play demands nothing less. 73 The tenth principle is that the lawyer bears the burden of persuading the review officer that the amount charged is appropriate. … If appropriateness of the amount charged is measured by r. 10.2(1) of the Alberta Rules of Court, the lawyer must convince the review officer that the amount charged is reasonable considering the factors listed in r. 10.2(1) of the Alberta Rules of Court. If, as in this fact pattern, the appropriateness of the amount charged is a function of the time spent by designated service providers and their hourly rates, the law firm must be prepared to explain why the services performed increased the likelihood [of success]; why the services were necessary; and that the amount charged is not exorbitant."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_9_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002",
+        "part10_rule_10_9_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_004",
+        "part10_rule_10_9_003",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_006",
+        "part10_rule_10_9_004",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_008",
+        "part10_rule_10_9_005",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_010",
+        "part10_rule_10_9_001",
+        "part10_alberta_rules_of_court_rule_10_part_3_001",
+        "part10_rule_10_9_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_002",
+        "part10_rule_10_9_003",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_004"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part02_document.json",
+          "rule10_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "8ac8402930e3ca662eb605e357cada7b7c509630300aa3b75d454f6ffe4155b1",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Reasonableness of retainer agreements and charges subject to review",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "d2fcbe6fceec8d3c39883a12465e539c6e2b18e2d1a46a9f75c36bc9353affd1",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Notes",
+          "text": "Rule 10.9 applies to retainer agreements in which a lawyer makes an agreement with a client, and not a separate document between two parties that provides for the amount and manner of payment, such as a borrower agreeing to be responsible for a lender’s solicitor-and-client costs (even though this does not derogate from the court’s PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS",
+          "citations": [],
+          "review_flag": "(1) Rule text equals the official text (EXACT_MATCH); the amendment note is in the standard form (see the 10.1 flag on the Gazette date). (2) The commentary ('General Notes', 406 characters) is cut off and prints no citation: 'Rule 10.9 applies to retainer agreements in which a lawyer makes an agreement with a client, and not a separate document between two parties that provides for the amount and manner of payment, such as a borrower agreeing to be responsible for a lender's solicitor-and-client costs (even though this does not derogate from the court's' followed by the page's running head 'PART 10 LAWYERS' CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS'. It agrees with Book A's last paragraph ('Rule 10.9 only covers agreements between a lawyer and his or her client, not agreements between two non-lawyers') and its p.10-24 footnotes 1-2 (Manufacturers Life v. 423632 Alta. 2015 ABQB 566; CIBC Mtge. v. Ulrich 2015 ABQB 445, both foreclosure costs, 'the lender's security'); the same sentences are in the 6.47 note. The passage is kept as printed (flagged); its source case is not named in Book C."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "441-460_10_1 to 10_10.json",
+        "source_file": "441-460_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.9",
+      "title_official": "Reasonableness of retainer agreements and charges subject to review"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "b2086102d5f01723dd9efca9d2c95faf59eecd9c6d5dc8871a32def6b8d57725",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1029,
+            1131
+          ],
+          "book_pages": [
+            "10-22",
+            "10-23",
+            "10-24"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "8ac8402930e3ca662eb605e357cada7b7c509630300aa3b75d454f6ffe4155b1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part02_document.json",
+            "rule10_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "d2fcbe6fceec8d3c39883a12465e539c6e2b18e2d1a46a9f75c36bc9353affd1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "441-460_10_1 to 10_10.json",
+          "source_file": "441-460_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "089289f82a52353b3076ca47dd5c22ce3e596badbf7ad46fcebf302e43f341bb",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            198
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "6bd6f9af04f8e981243046e901c1cc2bf41a6ce4fc2a3098aaa139a0a0444982"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 10.9', 'Rules 10.9', line-wrapped forms and form headings '[Rule 10.x]'): no rule or form cites 10.9 by number; the only hits are the table of contents (line 1490) and the rule itself (line 11966, pdf pp.198-199). By subject: 10.2 and 10.5 (the measures of a lawyer's charges), 10.10 (time limits: a retainer agreement may not be reviewed 6 months after it terminated; charges one year after the account was sent), 10.11 (who may request a review), 10.17(2) and 10.19(2) (the two Related Provisions Book A lists), 10.24 (review in particular events), 10.18(1)(a) (a question on the terms of a retainer agreement is referred to the Court), 10.26-10.27 (appeal to a judge), Schedule B item 6 (fee for an appointment for review by a review officer, line 39408).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): other rules that cite 10.9 - the 10.2 note, p.10-4 (line 140, fn 8 'R.10.9'); the 10.5 note, p.10-11 (line 481 'R. 10.9)' in Forbidden Terms item 2; line 490 fn 1 'Rr.10.9, 1010'), p.10-13 (line 562, 'for R.10.9 mandates that'); the 10.7 note, p.10-20 (line 942, fn 4 'See also R.10.9 end'); the 10.10 note, p.10-24 (line 1154, in the p.10-24 footnote 3 that belongs to this rule: 'reasonableness, for R.10.9 mandates that: Rath & Co. v. Sweetgrass F. N. 2014 ABCA 426, 588 AR'); the 10.17 note, p.10-32 (line 1531 'On criteria to review a retainer agreement, see R.10.7 nn. E, G, and R.10.9 n.'); the 10.19 Related Provisions, p.10-35 (line 1672 '10.9 (contingency fee agreement reviewable for reasonableness)' - official 10.9 covers retainer agreements and lawyer's charges generally, not only contingency fee agreements) and line 1674 'See also R.10.9 n.'; and, in Part 6, the note to 6.47 (combined_rule6.txt p.6-160, line 8390, F. Fees, Procedure and Accounts): 'Rule 10.9 only covers agreements between a lawyer and his or her client, not agreements between two non-lawyers. The court has a discretion over costs even when there is a contract on the subject, and can disallow an award based on the contract, e. g. for unnecessary steps or extraordinary measures' - the same sentences as the last paragraph of this note (p.10-24). No other Book A file cites 10.9.",
+    "BOOK_B: this rule's own commentary ('Commentary § 10.9:1', 23,957 characters as built; six numbered parts under old R. 614: 1 Right to Taxation of a Bill, 2 Right to Taxation Exists for Client's Benefit, 3 A Lawyer May Contract out of R. 10.9, 4 Reason for Rule, 5 Taxing Officer May Not Determine Questions of Liability, 6 'Reasonableness of a lawyer's charges' (Steinke v. Hajduk Gibbs 2014 ABQB 34, paras 43-73)). The source prints the commentary paragraph seven times (paragraphs _004, _006, _008 and _010 of rule10_part02_document.json and part_3_001, _002 and _004 of rule10_part03_document.json, all identical: 23,977 characters with the heading); the builder keeps one copy. Other Book B passages that name 10.9: the 10.10 commentary ('The precise wording of Rules 10.9 and 10.10 could be included'), the 10.18 commentary (Rath & Co. v. Sweetgrass First Nation 2014 ABCA 426, 'the interplay between rules 10.18(1)(a) and 10.9'), the 10.27 commentary (the same passage), the Part 14 commentary on 14.5 ('whether the contingency fee was reasonable under Rule 10.9') and Part 9 (rule9_part03_document.json line 1517, 'Rules 10.9 and 10.17(1)(f)'). Old numbers: Book B calls the old rule 'rule 614' (Veit J. 1987, Fruman J. 1994) and 'Rule 634' (reference to a judge); Book A's history footnote 3 (p.10-22) says 'Quite similar to previous 1968 R.646(2)' - the two numbers differ and neither book explains it. Book B prints the numbered company as 'Alberta Treasury Branches v. 1401057 Alberta Ltd.' in paras 46, 52, 60, 66 and 68 of the Steinke passage and as '14010507 Alberta Ltd.' in para 63 (twice), and in its 10.2 commentary; Book A prints '1401057' ('Alta. Treas. Br. v.1401057 Alta.2013 ABQB 748, 579 AR 152' at p.10-124, line 6763, 10.35 note; p.10-126, line 6858, 10.37 note; p.10-128, line 6950, 10.39 note; and '(#2) 2015 ABQB 548' at p.10-93, lines 4957 and 4960, 10.31 note). Book B also prints 'the Alberta provision with embodies this basic principle' (Steinke para 51) as quoted.",
+    "BOOK_C: the 'General Notes' commentary (406 characters) is this rule's own (see the BOOK_C flag); Book C's 10.13 commentary also names 10.9 ('Rules 10.9 and 10.13(1) bestow on a client the right to ask a review of ...'); no other Book C entry cites 10.9 (searched all Book C files)."
+  ],
+  "dedupe_log": [
+    "10.9 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.9 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.9 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.9 BOOK_C commentary sentence split dropped",
+    "10.9 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

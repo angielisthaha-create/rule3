@@ -1,0 +1,284 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.42",
+  "title": {
+    "official": "Actions within Provincial Court jurisdiction",
+    "variants": {
+      "BOOK_A": "Actions Within the Court of Justice Jurisdiction",
+      "BOOK_B": "Actions within Court of Justice Jurisdiction",
+      "BOOK_C": "Actions within Court of Justice jurisdiction"
+    },
+    "note": "The official table of contents (line 1613) titles this rule 'Actions within Provincial Court jurisdiction', while the heading printed with the rule text (line 12922) is 'Actions within Court of Justice jurisdiction'; Book A, Book B and Book C all print 'Court of Justice' (Book A adds 'the': 'Actions Within the Court of Justice Jurisdiction'). The rule text itself says 'Court of Justice' twice ((1) and (2)(a))."
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.42(1)  This rule applies only to actions the subject-matter of\nwhich is within the jurisdiction of the Court of Justice.\n(2)  Despite anything in this Division or Schedule C, unless the\nCourt otherwise orders,\n(a) in the case of an action brought in the Court of King’s\nBench for which the amount sued for or the amount of the\njudgment or order does not exceed the amount for which\nthe Court of Justice has jurisdiction under section 9.6 of\nthe Court of Justice Act, the costs to and including\njudgment or order must be assessed, if at all, at not more\nthan 75% of the amount specified in Column 1 of the\ntariff in Division 2 of Schedule C;\n(b) in the case of an action described in clause (a),\npost-judgment matters are to be assessed, if at all, at not\nmore than 100% of the amount specified in Column 1 of\nthe tariff in Division 2 of Schedule C.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "a60a0ce546896e973e023f96c91bb3c62d8ef9aaa9c2e8dd6a16f3a45ab3cb11"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s10.42;218/2022;76/2023",
+    "amending_regulations": [
+      "218/2022",
+      "76/2023"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;218/22;76/23]"
+      ],
+      "BOOK_B": "Alta. Reg. 218/2022, s. 10(4); 76/2023, s. 3(2)"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints no amendment note for rule 10.42 (the entry ends in the running head, with no commentary and no citation); the official history is 'AR 124/2010 s10.42;218/2022;76/2023', Book A prints '[Alta. Reg.124/10;218/22;76/23]' and Book B 'Alta. Reg. 218/2022, s. 10(4); 76/2023, s. 3(2)'. The entry is an orphan entry in the file (no Division heading in front of it)."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          215,
+          216
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Actions Within the Court of Justice Jurisdiction",
+      "operative_text_raw": null,
+      "operative_text_sha256": "c9615373b870539368fdc97b756374634e7284d97234192fd4a49af0f9d2c15f",
+      "related_provisions": "Schedule C (Tariff of Fees)",
+      "commentary": "The ceiling for civil suits in the Alberta Court of Justice went up to $50, 000 in August 2014, but\nthe change was not retroactive.¹\nRule 10.42(2) speaks of the Alberta Court of Justice monetary\nceiling when the King's Bench suit began, not when it ended or was tried.²\nBut the Regulation\nsetting the new jurisdiction of the Provincial Court puts it up to $100 thousand only.³\nThe 75% ceiling in R.10.42(2) (a) is not a ﬁxed amount; the court can award a sum less than\n75% of Division 2 of Schedule C. Proportionality is relevant under R.1.2(4).⁴\n$7, 500 costs, not $45, 000, were awarded to the successful respondent on a probably-hopeless\nappeal eventually abandoned after some procedural acrimony and difﬁculties.⁵\nOn appeal from Alberta Court of Justice to King’s Bench, the items in Schedule C for appeals\n(items 13, 14, 15) should not generally be used. Alberta Court of Justice’s tariff is not suitable\neither.⁶\nIt is irrelevant that the amount recovered is less than the ceiling amount for Alberta Court of\nJustice, if the subject matter is outside that court’s jurisdiction.⁷",
+      "footnotes": [
+        {
+          "page": "10-133",
+          "number": 9,
+          "text": "Quite similar to previous R.605(8). It was ﬁrst enacted by Alta. Reg.152/98."
+        },
+        {
+          "page": "10-133",
+          "number": 10,
+          "text": "Quite similar to previous R.605(7). It was ﬁrst enacted by Alta. Reg.152/98, and amended in 2001 and 2005."
+        },
+        {
+          "page": "10-134",
+          "number": 1,
+          "text": "Then the Justice Statutes Amendment Act 2022 (sess.2) c.20 s.3(3) amended the Provincial Court Act RSA 2000 c. P-31 s.9(1) (i), by raising the ceiling amount for Regulations as to the jurisdiction of the Provincial Court in civil matters from $50 thousand to $200 thousand."
+        },
+        {
+          "page": "10-134",
+          "number": 2,
+          "text": "Holowaychuk v. Makowichuk (#2) 2016 ABQB 17, 2016 CarswellAlta 2222."
+        },
+        {
+          "page": "10-134",
+          "number": 3,
+          "text": "Alta. Reg.86/2023, effective August 1, 2023."
+        },
+        {
+          "page": "10-134",
+          "number": 4,
+          "text": "Couch v. Olatiregun 2023 ABKB 402, JCC 1801 07070 (Jul 6) (¶’s 35-43) (minor fender bender with exorbitant damage claim)."
+        },
+        {
+          "page": "10-134",
+          "number": 5,
+          "text": "Strang v. Cardel Constr.2009 ABCA 297, 469 AR 258 (one JA)."
+        },
+        {
+          "page": "10-134",
+          "number": 6,
+          "text": "Maher v. Edm. Drain Cleaners (#2) 2005 ABQB 37."
+        },
+        {
+          "page": "10-134",
+          "number": 7,
+          "text": "Foothills Decorating v. Amigo Constr.2000 ABQB 993, 285 AR 28. See R.10.42(1). Where a Court of Queen’s Bench suit was complex and some plausible arguments were outside the powers of Provincial Court, R.10.42 was not applied: Trevor Dunn v. Condo. Corp. No.0420105 (#2) 2022 ABKB 782, JCE 1203 03574 (Nov 24) (¶’s 7-10)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7163,
+          7218
+        ],
+        "book_pages": [
+          "10-133",
+          "10-134"
+        ]
+      },
+      "operative_text_note": "Book A's rule text (title on line 7163, text lines 7164-7179) has the same words as the official text with these differences: 'subject matter' without the hyphen of the official 'subject-matter' (line 7164); the footnote markers '9' after (1) (line 7165) and '10' after (2)(b) (line 7178); the bracket label '[Tariff of Recoverable Fees]' after 'Schedule C' three times (lines 7166, 7174 and 7178; the official title of Schedule C is 'Tariff of Recoverable Fees'); the ligature 'speciﬁed'; a straight apostrophe in \"King's Bench\"; 'Schedule' and 'C' on separate lines in (2)(b) (lines 7177-7178); and the amendment bracket '[Alta. Reg.124/10;218/22;76/23]' on a line of its own after (2)(b) (line 7179), which agrees with the official history 'AR 124/2010 s10.42;218/2022;76/2023'.",
+      "commentary_review_flag": "Read in full, p.10-133 (line 7163) to p.10-134 (line 7218): title (line 7163, 'Actions Within the Court of Justice Jurisdiction'), rule text (lines 7164-7179), the p.10-133 footnote block (lines 7181-7196; its fns 1-8 belong to the 10.41 note and fns 9 and 10 are this rule's history), the marker 10-134 (line 7198), Related Provisions (lines 7201-7202: 'Schedule C (Tariff of Fees)'), the note (lines 7204-7218, seven statements) and 9 footnotes: p.10-133 fn 9 (line 7195, 'Quite similar to previous R.605(8). It was first enacted by Alta. Reg.152/98.') and fn 10 (line 7196, 'Quite similar to previous R.605(7). It was first enacted by Alta. Reg.152/98, and amended in 2001 and 2005.') and p.10-134 fns 1-7 (lines 7231-7243: the Justice Statutes Amendment Act 2022 (sess.2) c.20 s.3(3); Holowaychuk v. Makowichuk (#2) 2016 ABQB 17; Alta. Reg.86/2023, effective August 1, 2023; Couch v. Olatiregun 2023 ABKB 402; Strang v. Cardel Constr. 2009 ABCA 297; Maher v. Edm. Drain Cleaners (#2) 2005 ABQB 37; Foothills Decorating v. Amigo Constr. 2000 ABQB 993 with Trevor Dunn v. Condo. Corp. No.0420105 (#2) 2022 ABKB 782); fns 8 and 9 of the p.10-134 block belong to 10.43. Read against the official text: the rule text equals official 10.42 apart from the differences listed in the text note; the official table of contents titles the rule 'Actions within Provincial Court jurisdiction' but the heading printed with the rule text is 'Actions within Court of Justice jurisdiction' (recorded in the title note); all three books print 'Court of Justice'. (1) Related Provisions 'Schedule C (Tariff of Fees)' is a label for Schedule C 'Tariff of Recoverable Fees' (the official Schedule C, Division 2 preamble points back to rule 10.42). (2) The note's statements read against the rule: 'The 75% ceiling in R.10.42(2) (a) is not a fixed amount; the court can award a sum less than 75% of Division 2 of Schedule C' (line 7210) agrees with official 10.42(2)(a) ('must be assessed, if at all, at not more than 75%'), and 'Proportionality is relevant under R.1.2(4)' lands on official 1.2(4) (a remedy or sanction proportional to the reason for granting or imposing it); 'It is irrelevant that the amount recovered is less than the ceiling amount ..., if the subject matter is outside that court's jurisdiction' (fn 7; 'See R.10.42(1)') agrees with official 10.42(1) (applies only to actions whose subject-matter is within the jurisdiction of the Court of Justice); 'Rule 10.42(2) speaks of the Alberta Court of Justice monetary ceiling when the King's Bench suit began, not when it ended or was tried' (fn 2, Holowaychuk v. Makowichuk (#2)) is a case-law statement: official 10.42(2)(a) does not say when the ceiling is measured. (3) Statements that do not match the current official text or that use different names: 'On appeal from Alberta Court of Justice to King's Bench, the items in Schedule C for appeals (items 13, 14, 15) should not generally be used' (lines 7214-7215; fn 6, Maher v. Edm. Drain Cleaners (#2) 2005 ABQB 37) uses item numbers that are not the appeal items of the current official Schedule C: official items 13, 14 and 15 are 'Post-judgment' (13 writ of enforcement, line 40368; 14 request and review of a financial report from enforcement debtor, line 40405; 15 seizure and related matters, line 40421) and the appeal items are 18 to 21 ('Appeals', official line 40445, item 18 'All steps taken to file Notice of Appeal and speak to the list'). fn 1 (lines 7231-7233) speaks of the 'Provincial Court Act RSA 2000 c. P-31 s.9(1) (i)' and of raising the ceiling for Regulations 'from $50 thousand to $200 thousand', while the rule text (line 7171) refers to 'section 9.6 of the Court of Justice Act' and the note (lines 7204-7209) says the Regulation puts the ceiling at '$100 thousand only' (fn 3, Alta. Reg.86/2023); the text also says 'the Regulation setting the new jurisdiction of the Provincial Court' although the rule speaks of the Court of Justice. The statement 'The ceiling ... went up to $50, 000 in August 2014' (line 7204) and the '$7, 500 costs, not $45, 000' (line 7212, fn 5, Strang v. Cardel Constr. 2009 ABCA 297 (one JA)) were not checked against any source. (4) Placeholders and misprints: none of '(#_)' type; '$50, 000', '$7, 500' and '$45, 000' have a space after the comma (Book A's printing of thousands); the note's first paragraph is cut in two by line breaks ('But the Regulation' / 'setting the new jurisdiction', lines 7208-7209). No supra or infra is used in the 7 footnotes. The history footnotes name old rules (R.605(8), R.605(7)) and Alta. Reg.152/98 with later amendments 'in 2001 and 2005', not checked against any old-rule text. Book B has no commentary for this rule, so nothing in this note is corroborated by Book B."
+    },
+    "BOOK_B": {
+      "title": "Actions within Court of Justice Jurisdiction",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_42_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_024"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "96c1eb16805ccb69da686817943d64f53b12d646435be158fa332d32b0e3fbdd",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Actions within Court of Justice jurisdiction",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "be5c2edb41a9454a42f350210d682bbd72fcec27a46c4ce923545003aa4a2f57",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops inside subrule (1) at 'the subject-matter of which is within the jurisdiction of the Court of' followed by the page's running head 'PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS'; the end of (1) ('Justice.') and all of subrule (2) are missing."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 7163, text lines 7164-7179) has the same words as the official text with these differences: 'subject matter' without the hyphen of the official 'subject-matter' (line 7164); the footnote markers '9' after (1) (line 7165) and '10' after (2)(b) (line 7178); the bracket label '[Tariff of Recoverable Fees]' after 'Schedule C' three times (lines 7166, 7174 and 7178; the official title of Schedule C is 'Tariff of Recoverable Fees'); the ligature 'speciﬁed'; a straight apostrophe in \"King's Bench\"; 'Schedule' and 'C' on separate lines in (2)(b) (lines 7177-7178); and the amendment bracket '[Alta. Reg.124/10;218/22;76/23]' on a line of its own after (2)(b) (line 7179), which agrees with the official history 'AR 124/2010 s10.42;218/2022;76/2023'."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.2222,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.42",
+      "title_official": "Actions within Provincial Court jurisdiction"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "c9615373b870539368fdc97b756374634e7284d97234192fd4a49af0f9d2c15f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7163,
+            7218
+          ],
+          "book_pages": [
+            "10-133",
+            "10-134"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "96c1eb16805ccb69da686817943d64f53b12d646435be158fa332d32b0e3fbdd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "be5c2edb41a9454a42f350210d682bbd72fcec27a46c4ce923545003aa4a2f57",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "a60a0ce546896e973e023f96c91bb3c62d8ef9aaa9c2e8dd6a16f3a45ab3cb11",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            215,
+            216
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "06251fe17e4b22dadf2a3691cb614a5edf99839b3686ad468ce93cfa5137c07b"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.42' with the pattern that also finds line-wrapped forms; ranges searched separately): five hits, the table of contents (line 1612, titled 'Actions within Provincial Court jurisdiction'), the page heading (line 12869, 'Rule 10.42'), the rule (line 12923, with the heading 'Actions within Court of Justice jurisdiction' at line 12922), its history line (line 12953, 'AR 124/2010 s10.42;218/2022;76/2023') and the preamble of Schedule C, Division 2 (line 39964: 'For monetary amounts within the jurisdiction of the Court of Justice, see rule 10.42.'). By subject: Schedule C 'Tariff of Recoverable Fees' (Column 1 of the tariff in Division 2), 1.2(4) (a remedy or sanction proportional to the reason for it), 10.41 and 10.31.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the running head (line 7146, p.10-133), the rule (line 7164) and the 10.43 note's footnote 7 (line 7240, p.10-134: 'See R.10.42(1).'); no other Book A file cites 10.42 by number.",
+    "BOOK_B: rule10_part10_document.json (8 lines with '10.42': this rule's own heading and paragraph records; the heading is 'Actions within Court of Justice Jurisdiction') holds the heading and the rule text (EXACT_MATCH) and no commentary; rule15_part01_document.json (2 hits) cites it in the Schedule C preamble ('see rule 10.42').",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry ('Actions within Court of Justice jurisdiction', an orphan entry, rule text cut off in subrule (1), no amendment note, no commentary); no other Book C file cites 10.42 by number."
+  ],
+  "dedupe_log": [
+    "10.42 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.42 BOOK_C: rule text dropped (manual review)",
+    "10.42 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.42 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

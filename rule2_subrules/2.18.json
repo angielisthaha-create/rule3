@@ -1,0 +1,222 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.18",
+  "title": {
+    "official": "Approval of settlement",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.18(1)  If a settlement is proposed in an action or claim described\nin rule 2.16 and some of the persons interested in the settlement are\nnot parties to the action but are persons who have the same interest\nas those who are parties to the action, and who assent to the\nsettlement, the Court may approve the settlement and order that it\nbinds the persons who are not parties if the Court is satisfied that\n(a) the settlement will be for the benefit of those interested\npersons, and\n(b) to require service on those persons would cause\nunreasonable expense or delay.\n(2)  The interested persons referred to in subrule (1) are bound by\nthe Court’s order unless the order is obtained by fraud or by\nnon-disclosure of important facts.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "992938bd01fe269cf71030d089a93e540439e7960e302350bd1ed23930d75e04"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          43
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Approval of Settlement",
+      "operative_text_raw": null,
+      "operative_text_sha256": "775f28fdf18037cbc0dbe077e9f54166f030f0d6f23a6238607e0ce6f91b25ff",
+      "related_provisions": "2.19 (settling estate litigation) ; 3.35 (consent orders).",
+      "commentary": "Rule 2.18 deals with particular circumstances where not all interested parties are before the\ncourt. Rule 2.19 allows the court to approve a compromise in trust or estate proceedings.",
+      "footnotes": [
+        {
+          "page": "2-40",
+          "number": 3,
+          "text": "Quite similar to previous 1968 R.53. It came from 1944 C. R.66. From Eng. O.16 r.94, added November 1893."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          1973,
+          2001
+        ],
+        "book_pages": [
+          "2-40",
+          "2-41"
+        ]
+      },
+      "operative_text_note": "same wording as official plus the bracketed label for rule 2.16.",
+      "commentary_review_flag": "4th pass: the commentary (printed on p.2-41 after the p.2-40 footnote block; correctly kept with 2.18) says 'Rule 2.19 allows the court to approve a compromise in trust or estate proceedings'. That is narrower than official 2.19, which applies to ANY litigation representative without express authority: settling, discontinuing or abandoning an action needs the Court's approval. The trust/estate setting is rule 2.16, to which 2.18 applies. Left as printed; read 2.19's official text."
+    },
+    "BOOK_B": {
+      "title": "Approval of settlement",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_023",
+        "part2_rule_2_18_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_024"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "4fe9fb292a7e2931ddae59f26907395704612f68be26eb60a53fc4c1ed6fa9c5",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Approval of Settlement",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "5118a36c3dda8292334ca447a5e4162940b31766f6b7b4d7d0c3c66141f43206",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same wording as official ('non- disclosure' split only).",
+      "division_heading_flag": "wrong in Book C: rule 2.18 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official plus the bracketed label for rule 2.16."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9884,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.18",
+      "title_official": "Approval of settlement"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "775f28fdf18037cbc0dbe077e9f54166f030f0d6f23a6238607e0ce6f91b25ff",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            1973,
+            2001
+          ],
+          "book_pages": [
+            "2-40",
+            "2-41"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "4fe9fb292a7e2931ddae59f26907395704612f68be26eb60a53fc4c1ed6fa9c5",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "5118a36c3dda8292334ca447a5e4162940b31766f6b7b4d7d0c3c66141f43206",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "992938bd01fe269cf71030d089a93e540439e7960e302350bd1ed23930d75e04",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            43
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b6e924f4220597bcd43e73c356014d781fb3968a6736069d1488c377ddbaaa3d"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Rule 2.16 (its text applies to actions described in 2.16).",
+    "Rule 2.19: BOOK_A related provisions of 2.18 and 2.19 list each other; BOOK_A 2.18 commentary contrasts them."
+  ],
+  "dedupe_log": [
+    "2.18 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.18 BOOK_C: rule text dropped (manual review)",
+    "2.18 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.18 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

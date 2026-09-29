@@ -1,0 +1,244 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.28",
+  "title": {
+    "official": "Change in lawyer of record or self-representation",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Lawyer of Record"
+  },
+  "operative_text": {
+    "controlling": "2.28(1)  A party may change the party’s lawyer of record or may\nself-represent by\n(a) serving a notice of the change in Form 3 on every other\nparty and on the lawyer or former lawyer of record, and\n(b) filing an affidavit of service of the notice.\n(2)  A self-represented litigant who retains a lawyer to act on the\nlitigant’s behalf must serve on every other party a notice to that\neffect naming the lawyer of record.\n(3)  The notice must include an address for service.\n(4)  The notice is not required to be served on\n(a) a party noted in default, or\n(b) a party against whom default judgment has been entered.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "bcc0c43a815ced8cab99377f34d09ed2889a851417adbcc9ca5b5faed1b40ee8"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.28 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          46,
+          47
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Change in Lawyer of Record or Self-representation",
+      "operative_text_raw": null,
+      "operative_text_sha256": "00726d5bb4b5c43a0118dfd4372a88f28d4a09b550ba19f220b88b08e182b22a",
+      "related_provisions": "2.32 (lawyer ceasing to practice) ; 10.25 (records in lawyer’s possession) ; 11.17 (service on lawyer of record); 11.18 (service on self-represented person).",
+      "commentary": "On need for a lawyer where the “client” is under a disability, see R.2.11n. , supra.\nA party (or his trustee in bankruptcy stepping into his shoes) is always free to change solicitors,\nor to start using a solicitor, and a contract with a solicitor cannot remove that right.¹\nBut if a change is done at the last moment, it may not be ground for an adjournment, and\nthe new solicitor may have to prepare in a very short time.²\nHowever, if any substantial reason\nfor changing solicitors can be shown, the court will usually be fairly accommodating in giving\nadjournments.³",
+      "footnotes": [
+        {
+          "page": "2-62",
+          "number": 3,
+          "text": "Quite similar to previous 1968 R.554. Its subrule (1) was quite similar to 1914 R.563. Cf.1944 C. R.646, Ont. R.390, Judic. Ord. s.11, and 1883 O.7 r.2. Cf. Eng. O.67 r.1. 1968 R.554(2) was new in 1968. Came from Ont. R.391. Cf.1944 C. R.40, 1914 R.547, and Judic. Ord. r. 12. 1968 R.554(3) was new in 1968. Came from Ont. R.392. Cf.1944 C. R.40, 1914 R.547, and Judic. Ord. r. 12. 1968 R.554(7) was new in 1968. It came from the new B. C. Rule 44 d. Subrules (5) and (6) were new in 1968. The 1981 amendment to R.555 changed the name of a “notice of ceasing to act” to a “notice of withdrawal”."
+        },
+        {
+          "page": "2-63",
+          "number": 1,
+          "text": "See R.10.6(2). See the C. P. E. , Chapter 4, Part F."
+        },
+        {
+          "page": "2-63",
+          "number": 2,
+          "text": "The costs otherwise payable to a successful plaintiff were signiﬁcantly reduced, because weeks before trial, that plaintiff’s counsel did not make herself known to opposing counsel, so there could be no pre-trial negotiation, or cooperation for trial: Morton v. Morton (#2) 2007 ABQB 345, affd 2008 ABCA 144."
+        },
+        {
+          "page": "2-63",
+          "number": 3,
+          "text": "See further the C. P. E. , Chapter 38, Part H.3."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          3150,
+          3190
+        ],
+        "book_pages": [
+          "2-62",
+          "2-63"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Change in lawyer of record or self-representation",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_051",
+        "part2_rule_2_28_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_052"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "4eb9b2b636bab7594103139edbb2432066f465b216ce2d9bda2719171ba9ff5e",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Change in lawyer of record or self-representation",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "e04bee0d025cbc0da87b84eb04d40768287368a2de930e55ba2df3d624dad7dd",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "'Form 3' replaced by case citations. Not usable; official text controls.",
+      "citations_note": "Shell Canada Products v. Sunterra Beef 2013 ABQB 193 (affd 2014 ABCA 243) and Genstar v. Plains Midstream 2012 ABQB 457 are displaced from Book C's Part 3 commentary. Evidence (5th pass): they stand where the '3' of 'Form 3' should be, and the passage is word-for-word (same 'para. 53', same garbled '[2012] A.J. No. Genstar ... 755') in Book C's rule 3.2 entry. Nothing in the sources ties them to 2.28 (earlier wording 'not about 2.28' replaced)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8029,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.28",
+      "title_official": "Change in lawyer of record or self-representation"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "00726d5bb4b5c43a0118dfd4372a88f28d4a09b550ba19f220b88b08e182b22a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            3150,
+            3190
+          ],
+          "book_pages": [
+            "2-62",
+            "2-63"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "4eb9b2b636bab7594103139edbb2432066f465b216ce2d9bda2719171ba9ff5e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "e04bee0d025cbc0da87b84eb04d40768287368a2de930e55ba2df3d624dad7dd",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "bcc0c43a815ced8cab99377f34d09ed2889a851417adbcc9ca5b5faed1b40ee8",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            46,
+            47
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "ab0518d778dc5ec9d23b5744459ed13be45821149b3001ed655a82cd4e9a6954"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.10.6 information note (p.10-14): 'The rules about self-representing are in rule 2.28' (the reverse of 2.28 fn 1 'See R.10.6(2)'); listed as a related provision under R.10.25 (p.10-38) and R.11.16 (p.11-21).",
+    "Rule 2.32(4) (official): an order under 2.32 applies until a notice is given under rule 2.28 or 2.29; BOOK_A 2.32 related provisions.",
+    "Rules 2.21, 2.22 and 2.24: BOOK_A related provisions list 2.28.",
+    "Rule 2.11: BOOK_A 2.28 commentary 'On need for a lawyer where the client is under a disability, see R.2.11n., supra'; rule 10.6(2): BOOK_A fn 1 (p.2-63).",
+    "Official Form 3 is headed '[Rule 2.28]' (the notice of change named in 2.28(1)(a)). BOOK_C's citations in 2.28 re-verified in the 4th pass: Shell v. Sunterra and Genstar recur in BOOK_C's rule 3.2 entry. BOOK_A 2.24 p.2-50 fn 12 ('Part C below', last-minute change of lawyer) may be aimed at this rule's commentary."
+  ],
+  "dedupe_log": [
+    "2.28 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.28 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.28 BOOK_C citation context dropped (2013 ABQB 193): verbatim in kept text",
+    "2.28 BOOK_C citation context dropped (2014 ABCA 243): verbatim in kept text",
+    "2.28 BOOK_C citation context dropped (2012 ABQB 457): verbatim in kept text",
+    "2.28 BOOK_C: rule text dropped (manual review)",
+    "2.28 BOOK_C: displaced citations dropped ['2013 ABQB 193', '2014 ABCA 243', '2012 ABQB 457'] (manual review)",
+    "2.28 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

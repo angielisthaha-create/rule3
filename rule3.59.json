@@ -1,0 +1,1152 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T11:55:00Z",
+      "source_manifests": [
+        "05186.rtf",
+        "05188.rtf",
+        "05189.rtf",
+        "05193.rtf",
+        "05192.rtf",
+        "05187.rtf",
+        "05191.rtf",
+        "05190.rtf",
+        "05185.rtf",
+        "page_0124.rtf",
+        "page_0128.rtf",
+        "page_0126.rtf",
+        "page_0127.rtf",
+        "page_0125.rtf",
+        "page_0130.rtf",
+        "page_0129.rtf"
+      ],
+      "node_count": 18,
+      "relationship_count": 20,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Lil Dude Ranch Ltd. v. 1229122 Alberta Inc., 2014 ABQB 39",
+          "Bhatt v. Hoogstraat, [1989] A.J. No. 927",
+          "Makarchuk v. Pollard, [1957] A.J. No. 38",
+          "West Edmonton Mall Property Inc. v. Proctor, 2020 ABQB 161",
+          "Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd., 2012 ABQB 496",
+          "Holt v. Telford, [1987] 2 S.C.R. 193",
+          "Coba Industries Ltd. v. Millie's Holdings (Canada) Ltd., [1985] 6 W.W.R. 14",
+          "Royal Bank v. Wilton (1995), 28 Alta. L.R. (3d) 1",
+          "C.I.B.C. v. Tuckerr Indust. Inc., [1983] 5 W.W.R. 602",
+          "Aboussafy v. Abacus Cities Ltd., [1981] 4 W.W.R. 660",
+          "L. Egoroff Tpt. v. Green Life Distrib., 2020 ABQB 360",
+          "Quinney v. 1075398 Alta., 2015 ABQB 452",
+          "Attila Dogan Constr. & Installation Co. v. AMEC Americas, 2015 ABCA 406",
+          "A.M. v. Matthews, 2003 ABQB 942"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court, Alta. Reg. 124/2010"
+        ],
+        "manifest_references": [
+          "05186.rtf#§ 3.56:1",
+          "05188.rtf#3.58",
+          "05189.rtf#§ 3.58:1",
+          "05190.rtf#3.59",
+          "05191.rtf#§ 3.59:1",
+          "05192.rtf#3.60",
+          "05193.rtf#3.61",
+          "page_0126.rtf#R. 3.57",
+          "page_0127.rtf#R. 3.58"
+        ]
+      },
+      "tactical_play_count": 3,
+      "countermeasure_count": 2,
+      "dedupe_removed_node_count": 1,
+      "dedupe_primary_sources": [
+        "D:\\dev_aiwinsor\\pipelineV6\\hybrid_rule4\\rule3\\rule3.64.json"
+      ]
+    },
+    "nodes": [
+      {
+        "node_id": "pt-r3-56-non-party-nullity",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Non-Party Plaintiff-by-Counterclaim is a Nullity",
+        "description": "A counterclaim filed by a person or entity who is not an existing defendant in the action is a legal nullity. This is a fatal, non-amendable defect based on a strict interpretation of Rule 3.56.",
+        "source_sentence_ids": [
+          "05186.rtf#para29",
+          "05186.rtf#para30",
+          "05186.rtf#para36"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Neither the former rule nor the current rule admit of the possibility of adding a stranger to the proceedings as a plaintiff-by-counterclaim.",
+              "source_reference": "05186.rtf#para29"
+            },
+            {
+              "text": "The rule is quite explicit. Only a defendant can file a counterclaim. There is no provision whatsoever for someone who is a stranger to the action, to file a counterclaim. The counterclaim therefore is, or was, a nullity.",
+              "source_reference": "05186.rtf#para30"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.56"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a 'kill switch' for improperly structured counterclaims. It provides a non-discretionary basis to strike, as the pleading is void from inception. It prevents defendants from unilaterally expanding the action by bringing in related but non-party actors as co-plaintiffs in the counterclaim.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Immediately move to strike any counterclaim that names a non-defendant as a plaintiff-by-counterclaim. Argue it is a nullity that cannot be amended.",
+            "Defensive (Defendant): Ensure any party you wish to have claim alongside you in a counterclaim is first an actual defendant in the main action. Do not attempt to add affiliated companies or individuals as co-plaintiffs-by-counterclaim if they are not parties.",
+            "Cost Weapon: A successful strike on this basis should yield significant costs, as the error is fundamental and based on long-standing, clear case law."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Lil Dude Ranch Ltd. v. 1229122 Alberta Inc., 2014 ABQB 39",
+              "proposition": "Confirms that Rule 3.56(1) only permits a defendant to advance a counterclaim and does not allow adding a stranger as a plaintiff-by-counterclaim."
+            },
+            {
+              "case_name": "Bhatt v. Hoogstraat, [1989] A.J. No. 927",
+              "proposition": "A counterclaim filed by a stranger to the action is a nullity."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-58-independent-action-status",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Counterclaim is an Independent Action",
+        "description": "Rule 3.58 establishes that a counterclaim is legally considered an independent action, separate from the plaintiff's main claim. This principle has significant procedural consequences, particularly regarding summary judgment and severance.",
+        "source_sentence_ids": [
+          "05188.rtf#3.58",
+          "05189.rtf#para47"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A counterclaim is an independent action.",
+              "source_reference": "05188.rtf#3.58"
+            },
+            {
+              "text": "Rule 3.58 provides that a counterclaim is an independent action. It will not, in and of itself, prevent a plaintiff from obtaining summary judgment, unless the counterclaim constitutes a defence.",
+              "source_reference": "05189.rtf#para47"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.58"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This pillar allows a plaintiff to surgically strike at the main claim via summary judgment without being automatically bogged down by an unrelated counterclaim. It forces the defendant to demonstrate that their counterclaim is not merely a procedural set-off but a true defence (like legal or equitable set-off) to halt the plaintiff's momentum.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Argue for summary judgment on the main claim, characterizing the defendant's counterclaim as an 'independent action' that can be tried later and does not constitute a defence.",
+            "Defensive (Defendant): To resist summary judgment, you must frame your counterclaim as a true defence (legal or equitable set-off) that is inextricably linked to the main claim, thereby negating its 'independent' status for the purpose of the motion.",
+            "Procedural Tactic: Use this principle to argue for severance of a complex, unrelated counterclaim to streamline the trial of the main action."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd., 2012 ABQB 496",
+              "proposition": "A counterclaim's status as an independent action means it will not, by itself, prevent summary judgment unless it constitutes a defence like legal or equitable set-off."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-59-set-off-as-a-defense",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Set-Off as a Summary Judgment Shield",
+        "description": "A counterclaim that qualifies as a 'true' set-off (legal or equitable) transcends its status as an independent action and becomes a substantive defence, capable of defeating a summary judgment application on the main claim.",
+        "source_sentence_ids": [
+          "05189.rtf#para47",
+          "05191.rtf#para-set-off-and-counterclaim-are-different"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It will not, in and of itself, prevent a plaintiff from obtaining summary judgment, unless the counterclaim constitutes a defence. A legal or equitable setoff, as defences, may prevent summary judgment. Procedural set-off does not.",
+              "source_reference": "05189.rtf#para47"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.58, r. 3.59"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This framework is the primary defensive strategy against summary judgment when a defendant has a cross-claim. It weaponizes the concept of set-off, transforming a counterclaim from a mere procedural convenience into a shield that can neutralize a plaintiff's dispositive motion.",
+          "litigation_implications": [
+            "Defensive (Defendant): When facing summary judgment, immediately assess if the counterclaim can be framed as a legal or equitable set-off. Plead it explicitly as a defence.",
+            "Offensive (Plaintiff): In a summary judgment application, proactively argue why the defendant's counterclaim is merely a procedural set-off and does not meet the strict tests for legal or equitable set-off, thus preserving its 'independent' nature.",
+            "Pleading Strategy: The choice under Rule 3.59 to plead set-off as a defence versus just a counterclaim is a critical strategic decision with direct implications for summary judgment."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd., 2012 ABQB 496",
+              "proposition": "Explicitly states that legal or equitable set-off can prevent summary judgment, while procedural set-off cannot."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-59-equitable-set-off-test",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: The 5-Part Test for Equitable Set-Off",
+        "description": "Equitable set-off is a powerful defence that requires meeting a five-part test: (1) an equitable ground for protection, (2) the ground goes to the root of the plaintiff's claim, (3) the cross-claim is so clearly connected it would be manifestly unjust to ignore it, (4) claims need not arise from the same contract, and (5) unliquidated claims are treated the same as liquidated ones.",
+        "source_sentence_ids": [
+          "05191.rtf#para49",
+          "05191.rtf#para-royal-bank-v-wilton"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The five elements cited by the Supreme Court of Canada in Holt were taken from the case of Coba Industries Ltd. v. Millie's Holdings (Canada) Ltd., [1985] 6 W.W.R. 14 (B.C. C.A.). Specifically the five elements are as follows [p. 22]: 1) The party relying on the set-off must show some equitable ground... 2) The equitable ground must go to the very root of the plaintiff's claim... 3) A cross claim must be so clearly connected... that it would be manifestly unjust to allow the plaintiff to enforce payment without taking into consideration the cross-claim... 4) The plaintiff's claim and the cross-claim need not arise out the same contract... 5) Unliquidated claims are on the same footing as liquidated claims…",
+              "source_reference": "05191.rtf#para-royal-bank-v-wilton"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.59 Commentary"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This test is the gateway to the most flexible and powerful form of set-off. Unlike legal set-off, it accommodates unliquidated damages and claims from different contracts, provided the 'manifestly unjust' connection can be established. Mastering this test is key to defending against summary judgment in complex commercial disputes.",
+          "litigation_implications": [
+            "Defensive (Defendant): Structure arguments to explicitly address each of the five elements, focusing heavily on the 'close connection' and 'manifest injustice' prongs.",
+            "Offensive (Plaintiff): Attack the defendant's claim for equitable set-off by demonstrating the lack of a close connection. Argue that the claims are distinct and it is not unjust to have them adjudicated separately.",
+            "Evidence Gathering: Discovery should be targeted at eliciting facts that either support or undermine the 'close connection' between the main claim and the counterclaim."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Royal Bank v. Wilton (1995), 28 Alta. L.R. (3d) 1",
+              "proposition": "Authoritatively sets out the five-part test for equitable set-off in Alberta, adopting it from Coba Industries."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-59-legal-set-off-test",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: The 2-Part Test for Legal Set-Off",
+        "description": "Legal set-off is a narrow, statutory defence requiring the fulfillment of two strict conditions: (1) both obligations must be debts (liquidated claims), and (2) both debts must be mutual cross-obligations. Any assignment of the debts destroys mutuality and defeats legal set-off.",
+        "source_sentence_ids": [
+          "05191.rtf#para-legal-set-off"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Legal set-off “requires the fulfilment of two conditions. The first is that both obligations must be debts. The second is that both debts must be mutual cross obligations. Both conditions must be fulfilled at the same time”",
+              "source_reference": "05191.rtf#para-legal-set-off"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.59 Commentary"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This provides a clear but brittle defence. Its strength is its simplicity if the conditions are met. Its weakness is its rigidity; it is easily defeated by the presence of unliquidated claims (e.g., damages) or any assignment that breaks mutuality. It is a tactical tool for simple debt-vs-debt scenarios.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Defeat a claim of legal set-off by showing either the defendant's claim is for unliquidated damages, or that mutuality has been broken by an assignment.",
+            "Defensive (Defendant): Only rely on legal set-off when both your claim and the plaintiff's claim are for clear, calculable sums of money between the exact same parties."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "C.I.B.C. v. Tuckerr Indust. Inc., [1983] 5 W.W.R. 602",
+              "proposition": "Establishes the two core conditions for legal set-off: both obligations must be debts, and they must be mutual cross-obligations."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-59-pleading-set-off-choice",
+        "node_type": "ControlMechanism",
+        "label": "Control: Pleading Set-Off as Defence or Counterclaim",
+        "description": "Rule 3.59 provides a strategic choice: a matter of set-off can be claimed either by counterclaim or by pleading it as a defence. Pleading it only as a defence prevents recovery of any excess amount but may be a cleaner way to frame it as a shield against the main claim.",
+        "source_sentence_ids": [
+          "05190.rtf#3.59",
+          "page_0128.rtf#para-set-off-pleading-difference"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A matter that might be claimed by set-off may be claimed by counterclaim or by pleading set-off as a defence.",
+              "source_reference": "05190.rtf#3.59"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.59"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule grants tactical flexibility. Pleading as a defence emphasizes its role as a shield against summary judgment. Pleading as a counterclaim preserves the ability to get a positive judgment for any amount exceeding the plaintiff's claim. The choice depends on the primary objective: blocking the plaintiff or securing a net recovery.",
+          "litigation_implications": [
+            "Strategic Choice: If the set-off amount is smaller than the main claim and the goal is purely defensive, pleading it as a defence can be simpler.",
+            "Maximizing Recovery: If the set-off amount could exceed the main claim, it MUST be pleaded as a counterclaim to enable a judgment for the difference.",
+            "Hybrid Approach: A common and safe approach is to plead the matter as both a defence of set-off and as a counterclaim."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-60-default-judgment-permission",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Court Permission Required for Default Judgment on Counterclaim",
+        "description": "Under Rule 3.60(2), a plaintiff-by-counterclaim cannot automatically obtain default judgment if the defendant-by-counterclaim fails to file a defence. They must apply to the Court for permission after serving notice, creating a procedural safeguard.",
+        "source_sentence_ids": [
+          "05192.rtf#3.60(2)"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the defendant-by-counterclaim does not file a statement of defence or demand for notice in respect of a counterclaim, a judgment on the counterclaim may be obtained only with the Court's permission after notice of the application has been served on the defendant-by-counterclaim.",
+              "source_reference": "05192.rtf#3.60(2)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.60(2)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule acts as a brake on automatic default judgments in the context of counterclaims. It ensures judicial oversight before a party (often the original plaintiff) is found liable on a counterclaim by default, recognizing that they are already engaged in litigation and may have simply missed a deadline.",
+          "litigation_implications": [
+            "Offensive (Plaintiff-by-Counterclaim): You cannot simply note the defendant-by-counterclaim in default and get judgment. You must file a formal application and serve it, adding time and cost.",
+            "Defensive (Defendant-by-Counterclaim): This rule provides a second chance. If you miss the deadline to defend a counterclaim, you will receive notice of the application for judgment, giving you an opportunity to appear and seek leave to file a late defence."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-57-counterclaim-timing",
+        "node_type": "ControlMechanism",
+        "label": "Control: Counterclaim Filing Deadline",
+        "description": "Rule 3.57(c) imposes a strict deadline: a counterclaim must be filed and served within the same time period that the plaintiff-by-counterclaim has to file their Statement of Defence.",
+        "source_sentence_ids": [
+          "05187.rtf#3.57(c)"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A counterclaim must ... be filed and served on the defendant-by-counterclaim within the same time period that the plaintiff-by-counterclaim must file a statement of defence under rule 3.31(2).",
+              "source_reference": "05187.rtf#3.57(c)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.57(c)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule synchronizes the primary responsive pleadings. It forces a defendant to decide on their counter-attack strategy early in the litigation, preventing them from holding a counterclaim in reserve as a surprise tactic.",
+          "litigation_implications": [
+            "Time Pressure: Defendants must quickly assess and formulate any potential counterclaims upon being served with a Statement of Claim.",
+            "Procedural Default: Failure to meet this deadline requires an application to the court for leave to file a late counterclaim, which is not guaranteed."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-57-late-counterclaim-discretion",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Discretionary Leave for Late Counterclaims",
+        "description": "While the deadline in R. 3.57 is strict, courts have discretion to allow a late counterclaim. However, this is a trap for defendants, as the court will consider factors like delay, prejudice, increased cost, and whether the limitation period has expired.",
+        "source_sentence_ids": [
+          "page_0126.rtf#para-late-counterclaim-factors",
+          "page_0126.rtf#para-late-counterclaim-limitations"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The court can allow a late counterclaim. Relevant to such a request for a late counterclaim are whether it would greatly increase the time and cost of the main suit, and whether the defendant delayed after getting the relevant information which he could use to sue on.",
+              "source_reference": "page_0126.rtf#para-late-counterclaim-factors"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.57 Commentary"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This represents a critical risk point for defendants. Relying on the court's discretion is a weak position. Plaintiffs can weaponize the defendant's delay, arguing prejudice and increased costs to block the late counterclaim, effectively sterilizing the defendant's cross-action within the main lawsuit.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Vigorously oppose any application to file a late counterclaim. Emphasize the delay, the prejudice of having to meet a new case, and the increased costs.",
+            "Defensive (Defendant): If filing late, prepare a strong evidentiary record explaining the delay and minimizing the prejudice to the plaintiff. Be prepared to face a limitations argument."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Deuruneft Deutsche-Russische etc. v. Bullen, 2002 ABQB 304",
+              "proposition": "Sets out relevant factors for allowing a late counterclaim, including increased time/cost and whether the defendant delayed after obtaining the necessary information."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-56-right-to-counterclaim",
+        "node_type": "ControlMechanism",
+        "label": "Control: Defendant's Right to Counterclaim",
+        "description": "Rule 3.56(1) grants a defendant the fundamental right to file a counterclaim against the plaintiff, and to join other persons as defendants-by-counterclaim. This right is not dependent on the counterclaim being related to the main action.",
+        "source_sentence_ids": [
+          "05185.rtf#3.56(1)",
+          "05191.rtf#para-counterclaim-unrelated"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A defendant may, by counterclaim, file a claim against (a) a plaintiff, or (b) the plaintiff and another person whether the other person is a party to the action by the plaintiff or not.",
+              "source_reference": "05185.rtf#3.56(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.56(1)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is the primary offensive tool for a defendant. It allows them to transform from a purely defensive posture into an attacker, forcing the plaintiff to defend a separate claim within the same action. The ability to bring in unrelated claims can dramatically expand the scope and complexity of the litigation.",
+          "litigation_implications": [
+            "Offensive (Defendant): Use a counterclaim to apply pressure on the plaintiff, create settlement leverage, and introduce claims that might not have been pursued in a standalone action.",
+            "Defensive (Plaintiff): Be prepared for a counterclaim on any issue, not just those related to your original claim. This requires a broader risk assessment before commencing litigation."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Phoenix Piston Hydraulics Inc. v. Echo Valley Farms Inc. (1996), 44 Alta. L.R. (3d) 283 (Master)",
+              "proposition": "A defendant can counterclaim for any cause of action; the cross-claim does not need to be related to the main action."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-59-procedural-set-off-distinction",
+        "node_type": "FoundationalPillar",
+        "label": "Pillar: Procedural Set-Off is a Shield, Not a Sword",
+        "description": "Procedural set-off, where two unrelated claims are balanced for a net judgment, is distinct from 'true' set-off (legal or equitable). It is not a substantive defence and therefore does not prevent summary judgment or create an 'equity' that binds an assignee.",
+        "source_sentence_ids": [
+          "05191.rtf#para-aboussafy-quote"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "True set-off must be distinguished from procedural set-off, where two unrelated claims are balanced up and a net judgment given... Procedural set-off is a shield, not a sword. It is not a defence; it therefore is not an equity subject to which an assignee takes.",
+              "source_reference": "05191.rtf#para-aboussafy-quote"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.59 Commentary"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This distinction is a critical weapon for plaintiffs. By successfully characterizing a defendant's counterclaim as a mere procedural set-off, the plaintiff can neutralize its defensive power, allowing a summary judgment motion to proceed unimpeded. It isolates the counterclaim as a separate, independent action.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): When moving for summary judgment, argue that the defendant's counterclaim is unrelated to the main claim and thus only a procedural set-off, which is not a defence to the motion.",
+            "Defensive (Defendant): To avoid this characterization, you must demonstrate how your counterclaim meets the tests for either legal or, more likely, equitable set-off, emphasizing the close connection between the claims."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Aboussafy v. Abacus Cities Ltd., [1981] 4 W.W.R. 660 (Alta. C.A.)",
+              "proposition": "Articulates the crucial distinction between 'true set-off' (a defence) and 'procedural set-off' (not a defence, but a mechanism for netting out judgments)."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-61-request-particulars",
+        "node_type": "ControlMechanism",
+        "label": "Control: Right to Request Particulars",
+        "description": "Rule 3.61(1) grants any party served with a pleading the right to serve a request for particulars, forcing the pleading party to clarify ambiguities or provide more detail about their allegations.",
+        "source_sentence_ids": [
+          "05193.rtf#3.61(1)"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A party on whom a pleading is served may serve on the party who served the pleading a request for particulars about anything in the pleading.",
+              "source_reference": "05193.rtf#3.61(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.61(1)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a key tool for probing an opponent's case early. It can be used defensively to understand the case you have to meet, or offensively to expose weaknesses, lock the opponent into a specific set of facts, and set up a future motion to strike for lack of a viable claim.",
+          "litigation_implications": [
+            "Offensive Tactic: Use a detailed request for particulars to force a plaintiff to substantiate vague allegations of fraud or misconduct. An insufficient response can be used to argue the allegations are 'bald' and should be struck.",
+            "Defensive Tactic: Use particulars to clarify the scope of the claim against you, preventing surprise at a later stage. It forces the other side to put their cards on the table.",
+            "Cost Driver: Can be used to impose costs and delay on an opponent by forcing them to spend time and resources drafting a detailed response."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-61-10-day-response-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: 10-Day Deadline for Particulars",
+        "description": "Rule 3.61(2) creates a procedural trap with a strict 10-day deadline. If a sufficient response to a request for particulars is not provided within 10 days, the requesting party is entitled to apply to the Court for an order compelling the response.",
+        "source_sentence_ids": [
+          "05193.rtf#3.61(2)"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the requesting party does not receive a sufficient response within 10 days after the date on which the request is served, the requesting party may apply to the Court for an order requiring the party who served the pleading to provide the particulars.",
+              "source_reference": "05193.rtf#3.61(2)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.61(2)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This deadline weaponizes time. It allows a party to quickly escalate the issue to a judge, portraying the opponent as uncooperative or unable to substantiate their own pleading. A failure to respond can result in an adverse costs award and a court order with a firm compliance date.",
+          "litigation_implications": [
+            "Offensive (Requesting Party): Calendar the 10-day deadline immediately. On day 11, if the response is missing or insufficient, prepare an application to compel. This shows proactivity and puts the opponent on the back foot.",
+            "Defensive (Responding Party): Do not ignore this deadline. If more time is needed, proactively seek an extension from opposing counsel. Letting the deadline lapse without communication invites a hostile and costly court application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r3-61-pleading-obligation-continues",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Obligation to Plead Continues Despite Request",
+        "description": "Rule 3.61(4) is a critical procedural trap. It clarifies that making a request for particulars does NOT pause or extend the deadline for filing other pleadings, such as a Statement of Defence. A party waiting for particulars can be noted in default if they miss their defence deadline.",
+        "source_sentence_ids": [
+          "05193.rtf#3.61(4)"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Subject to any order, despite a request for particulars, the obligation under these rules to file and serve pleadings continues even though a request for particulars has been made and whether or not it has been complied with.",
+              "source_reference": "05193.rtf#3.61(4)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.61(4)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This is a trap for the unwary defendant. It creates a parallel processing requirement that can lead to a fatal procedural error. A plaintiff can note a defendant in default for failing to file a defence, even while the defendant is legitimately waiting for the plaintiff to provide particulars on the claim.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If a defendant requests particulars but fails to file their defence on time, immediately file to note them in default. This creates extreme leverage.",
+            "Defensive (Defendant): NEVER assume a request for particulars pauses your other deadlines. File a Statement of Defence on time, even if it is generic and states you will amend it upon receiving particulars. Alternatively, secure a formal standstill agreement with the plaintiff or a court order extending your time to defend."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-xx-stay-execution-pending-counterclaim",
+        "node_type": "ControlMechanism",
+        "label": "Control: Stay of Execution Pending Counterclaim",
+        "description": "Even if a plaintiff obtains summary judgment, the court has discretion to stay execution of that judgment until the defendant's counterclaim is decided. This is a crucial defensive fallback to prevent the plaintiff from collecting on their win while the defendant's cross-action is still pending.",
+        "source_sentence_ids": [
+          "page_0127.rtf#para-stay-execution-test"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where one side gets partial summary judgment but there is a pending counterclaim from the other side, the test for whether to stay execution on that one judgment until the counterclaim is decided, is like the test for a stay pending trial or pending appeal.",
+              "source_reference": "page_0127.rtf#para-stay-execution-test"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This mechanism acts as a financial shield. It prevents a Pyrrhic victory where a defendant wins their counterclaim only to find the plaintiff is now insolvent after collecting on the initial judgment. It preserves the status quo and ensures that the ultimate financial outcome reflects the results of both the claim and the counterclaim.",
+          "litigation_implications": [
+            "Defensive Fallback: If you lose a summary judgment motion but have a strong counterclaim, immediately apply for a stay of execution. This is your second line of defence.",
+            "Offensive Counter: A plaintiff who wins summary judgment should be prepared to argue against a stay, perhaps by demonstrating that they have the financial capacity to satisfy any future judgment on the counterclaim."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Attila Dogan Constr. & Installation Co. v. AMEC Americas, 2015 ABCA 406",
+              "proposition": "Establishes that the test for staying execution of a summary judgment pending a counterclaim is analogous to the test for a stay pending appeal."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-56-2-third-party-right-to-counterclaim",
+        "node_type": "ControlMechanism",
+        "label": "Control: Third Party's Right to Counterclaim",
+        "description": "Rule 3.56(2) grants a third party defendant a broad right to counterclaim against any combination of the original plaintiff, defendant, or third party plaintiff, and to join other persons as well. This allows a third party to go on the offensive against multiple parties in the action.",
+        "source_sentence_ids": [
+          "05185.rtf#3.56(2)"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A third party defendant may, by counterclaim, file a claim against the plaintiff, defendant or third party plaintiff, or any combination of them, with or without any other person, whether the other person is a party to the action or not.",
+              "source_reference": "05185.rtf#3.56(2)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.56(2)"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This rule prevents a third party from being a passive participant. It gives them the power to assert their own claims and reshape the litigation, potentially creating cross-claims that complicate the original plaintiff's and defendant's strategies. It is a tool for transforming a defensive third-party notice into an offensive action.",
+          "litigation_implications": [
+            "Offensive (Third Party): Upon being third-partied, assess all potential claims you may have against the existing parties. Use this rule to assert those claims and gain leverage.",
+            "Defensive (Plaintiff/Defendant): When adding a third party, anticipate that they may use this rule to file counterclaims against you, potentially expanding the scope and cost of the litigation."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "cm-r3-xx-counterclaim-to-counterclaim",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case: Counterclaim to a Counterclaim",
+        "description": "The rules and case law contemplate the possibility of a 'counterclaim to a counterclaim,' allowing a party defending a counterclaim (the original plaintiff) to file their own responsive claim rather than simply amending their original Statement of Claim.",
+        "source_sentence_ids": [
+          "page_0125.rtf#para-counterclaim-to-counterclaim"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Only a defendant can be a plaintiff by counterclaim, but there can be a counterclaim to a counterclaim.",
+              "source_reference": "page_0125.rtf#para-counterclaim-to-counterclaim"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, Commentary"
+          ],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This captures a procedural nuance for responding to a counterclaim. While amending the Statement of Claim is common, filing a formal 'Counterclaim to the Counterclaim' can be strategically useful to isolate a new, responsive cause of action and maintain pleading clarity in a complex, multi-party dispute.",
+          "litigation_implications": [
+            "Strategic Choice (Plaintiff): When faced with a counterclaim that raises new issues, decide whether to amend the Statement of Claim or file a distinct Counterclaim to the Counterclaim. The latter can provide a clearer narrative for the court.",
+            "Complexity Management: In actions with multiple counterclaims, this mechanism helps maintain a clear and logical pleading structure."
+          ],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-nullity-trap-counters-right-to-cc",
+        "source_node_id": "pt-r3-56-non-party-nullity",
+        "target_node_id": "cm-r3-56-right-to-counterclaim",
+        "relationship_type": "COUNTERS",
+        "description": "The 'Non-Party Nullity' trap provides a definitive countermeasure to an improper exercise of the right to counterclaim, rendering the pleading void if a non-defendant is named as a plaintiff-by-counterclaim.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Only a defendant can file a counterclaim. There is no provision whatsoever for someone who is a stranger to the action, to file a counterclaim. The counterclaim therefore is, or was, a nullity.",
+              "source_reference": "05186.rtf#para30"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship highlights a hard limit on the defendant's power. The right to counterclaim is not absolute and can be nullified entirely by a single, specific structural error.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-set-off-framework-modifies-independent-status",
+        "source_node_id": "wf-r3-59-set-off-as-a-defense",
+        "target_node_id": "fp-r3-58-independent-action-status",
+        "relationship_type": "MODIFIES",
+        "description": "The 'Set-Off as a Defense' framework modifies the 'Independent Action' status of a counterclaim. When a counterclaim qualifies as a true set-off, it ceases to be merely independent and functions as a substantive defence to the main claim.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "It will not, in and of itself, prevent a plaintiff from obtaining summary judgment, unless the counterclaim constitutes a defence. A legal or equitable setoff, as defences, may prevent summary judgment.",
+              "source_reference": "05189.rtf#para47"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship is the core of the strategic interplay between counterclaims and summary judgment. It shows how a defendant can bridge the gap between two 'independent' actions to create a unified defence.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-equitable-set-off-operationalizes-framework",
+        "source_node_id": "fp-r3-59-equitable-set-off-test",
+        "target_node_id": "wf-r3-59-set-off-as-a-defense",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The 5-part test for equitable set-off is the primary mechanism to operationalize the 'Set-Off as a Defense' framework, allowing a defendant to transform their counterclaim into a shield against summary judgment.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link shows the direct path from legal principle (the test) to strategic application (the framework). Meeting the test is the price of admission for using the set-off shield.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-legal-set-off-operationalizes-framework",
+        "source_node_id": "fp-r3-59-legal-set-off-test",
+        "target_node_id": "wf-r3-59-set-off-as-a-defense",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The 2-part test for legal set-off provides a narrow but clear path to operationalize the 'Set-Off as a Defense' framework, applicable only in cases of mutual, liquidated debts.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This shows an alternative, more restrictive method for activating the defensive framework. It's less common but powerful when applicable.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-pleading-choice-enables-set-off-tests",
+        "source_node_id": "cm-r3-59-pleading-set-off-choice",
+        "target_node_id": "wf-r3-59-set-off-as-a-defense",
+        "relationship_type": "ENABLES",
+        "description": "The strategic choice provided by Rule 3.59 to plead set-off as a defence is what enables a defendant to formally invoke the 'Set-Off as a Defense' framework in response to a claim.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship highlights the procedural step required to activate the substantive defence. The rule provides the switch, and the pleader must flip it.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-late-cc-trap-modifies-timing-control",
+        "source_node_id": "pt-r3-57-late-counterclaim-discretion",
+        "target_node_id": "cm-r3-57-counterclaim-timing",
+        "relationship_type": "MODIFIES",
+        "description": "The court's discretion to allow a late counterclaim modifies the strict filing deadline, introducing an element of risk and uncertainty for a defendant who misses the initial window.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship shows that the hard deadline has a discretionary escape hatch, but one that is fraught with peril (the trap). It turns a clear rule into a contested application.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-timing-control-governs-right-to-cc",
+        "source_node_id": "cm-r3-57-counterclaim-timing",
+        "target_node_id": "cm-r3-56-right-to-counterclaim",
+        "relationship_type": "GOVERNS",
+        "description": "The filing deadline in Rule 3.57 governs the exercise of the right to counterclaim granted by Rule 3.56, placing a temporal constraint on this fundamental right.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link establishes that a right is not useful without a procedure to exercise it. The timing rule is the gatekeeper for the right to counterclaim.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-default-trap-reinforces-independent-status",
+        "source_node_id": "pt-r3-60-default-judgment-permission",
+        "target_node_id": "fp-r3-58-independent-action-status",
+        "relationship_type": "REINFORCES",
+        "description": "The requirement for a separate court application for default judgment on a counterclaim reinforces the principle that the counterclaim is an independent action requiring its own judicial process for disposition.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship shows how procedural rules reflect underlying legal principles. The extra step for default judgment is a direct consequence of the counterclaim's independent nature.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-procedural-set-off-reinforces-independent-status",
+        "source_node_id": "fp-r3-59-procedural-set-off-distinction",
+        "target_node_id": "fp-r3-58-independent-action-status",
+        "relationship_type": "REINFORCES",
+        "description": "The concept of procedural set-off, which applies to unrelated claims, reinforces the default status of a counterclaim as an independent action that does not constitute a true defence.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This link clarifies the default state. Unless a counterclaim can be elevated to a 'true' set-off, it remains a mere procedural set-off and thus an independent action without defensive power against summary judgment.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-set-off-framework-counters-procedural-set-off",
+        "source_node_id": "wf-r3-59-set-off-as-a-defense",
+        "target_node_id": "fp-r3-59-procedural-set-off-distinction",
+        "relationship_type": "COUNTERS",
+        "description": "The 'Set-Off as a Defense' framework is the direct counter to an argument that a counterclaim is merely a procedural set-off. By meeting the tests for legal or equitable set-off, a defendant elevates their claim beyond this lesser category.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This adversarial relationship defines the battleground in many summary judgment applications. The plaintiff argues for procedural set-off, and the defendant counters by arguing for true set-off.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-right-to-cc-enables-set-off-choice",
+        "source_node_id": "cm-r3-56-right-to-counterclaim",
+        "target_node_id": "cm-r3-59-pleading-set-off-choice",
+        "relationship_type": "ENABLES",
+        "description": "The fundamental right to bring a counterclaim is what enables the subsequent strategic choice of how to plead a matter of set-off, either as a counterclaim or as a defence.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This shows the foundational nature of the right to counterclaim. Without it, the more nuanced strategic decisions about pleading set-off would be moot.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-stay-execution-is-fallback-to-set-off-shield",
+        "source_node_id": "cm-r3-xx-stay-execution-pending-counterclaim",
+        "target_node_id": "wf-r3-59-set-off-as-a-defense",
+        "relationship_type": "IS_A_FALLBACK_FOR",
+        "description": "The application to stay execution is a critical fallback position if the 'Set-Off Shield' fails to defeat summary judgment entirely. It concedes the judgment but neutralizes its immediate financial impact.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Where one side gets partial summary judgment but there is a pending counterclaim from the other side, the test for whether to stay execution on that one judgment until the counterclaim is decided...",
+              "source_reference": "page_0127.rtf#para-stay-execution-test"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship models a common litigation sequence: first, try to block the judgment; second, if that fails, try to block its enforcement. It represents a secondary defensive line.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-premature-cc-trap-counters-right-to-cc",
+        "source_node_id": "pt-r3-57-premature-malicious-prosecution-cc",
+        "target_node_id": "cm-r3-56-right-to-counterclaim",
+        "relationship_type": "COUNTERS",
+        "description": "The trap of a premature malicious prosecution counterclaim acts as a specific counter to the general right to counterclaim, allowing a plaintiff to strike a legally non-viable claim.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But a counterclaim alleging that the main claim is malicious prosecution... may be struck out as disclosing no cause of action.",
+              "source_reference": "page_0126.rtf#para-premature-counterclaim"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This highlights that the right to counterclaim is limited to legally valid causes of action. A claim that is premature is, by definition, not valid at the time of pleading.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-particulars-request-enables-strike",
+        "source_node_id": "cm-r3-61-request-particulars",
+        "target_node_id": "pt-r3-57-premature-malicious-prosecution-cc",
+        "relationship_type": "ENABLES",
+        "description": "Requesting particulars can be a tactic to enable a motion to strike. By forcing the opponent to clarify their weak allegations, their insufficient response can be used as evidence that the claim is bald or discloses no cause of action.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This models the two-step attack of 'clarify then kill'. The request for particulars is the reconnaissance mission that gathers the intelligence needed for the strike application.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-10-day-trap-operationalizes-particulars-request",
+        "source_node_id": "pt-r3-61-10-day-response-trap",
+        "target_node_id": "cm-r3-61-request-particulars",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The 10-day deadline and the right to apply to the court is what gives the request for particulars its teeth, providing an enforcement mechanism to compel a response.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If the requesting party does not receive a sufficient response within 10 days... the requesting party may apply to the Court for an order...",
+              "source_reference": "05193.rtf#3.61(2)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "Without this enforcement mechanism, a request for particulars would be a polite suggestion rather than a procedural weapon.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-pleading-trap-counters-particulars-request",
+        "source_node_id": "pt-r3-61-pleading-obligation-continues",
+        "target_node_id": "cm-r3-61-request-particulars",
+        "relationship_type": "COUNTERS",
+        "description": "The trap that pleading obligations continue acts as a counter-risk for the party requesting particulars. While they wait for a response, their own deadlines are still running, creating a potential for them to fall into a default trap.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...despite a request for particulars, the obligation under these rules to file and serve pleadings continues...",
+              "source_reference": "05193.rtf#3.61(4)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This models the dual-edged nature of this procedural tool. It creates risk for both the responding and the requesting party, requiring careful management of deadlines on both sides.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-third-party-right-is-type-of-right-to-cc",
+        "source_node_id": "cm-r3-56-2-third-party-right-to-counterclaim",
+        "target_node_id": "cm-r3-56-right-to-counterclaim",
+        "relationship_type": "IS_A_TYPE_OF",
+        "description": "The third party's right to counterclaim is a specific and expanded type of the general right to counterclaim, tailored to the unique position of a party brought into an existing action.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship provides proper classification within the graph, showing that while related, the rights of a defendant and a third party to counterclaim are distinct under the rules.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-cc-to-cc-is-type-of-right-to-cc",
+        "source_node_id": "cm-r3-xx-counterclaim-to-counterclaim",
+        "target_node_id": "cm-r3-56-right-to-counterclaim",
+        "relationship_type": "IS_A_TYPE_OF",
+        "description": "A counterclaim to a counterclaim is a specific, recursive application of the general right to counterclaim, exercised by a party defending the initial counterclaim.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This models the procedural recursion possible in litigation, ensuring the graph accurately reflects the potential for multiple layers of claims.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-nullity-trap-counters-third-party-right",
+        "source_node_id": "pt-r3-56-non-party-nullity",
+        "target_node_id": "cm-r3-56-2-third-party-right-to-counterclaim",
+        "relationship_type": "COUNTERS",
+        "description": "The 'Non-Party Nullity' trap also limits a third party's right to counterclaim; they cannot add a stranger to the action as a co-plaintiff-by-counterclaim, as only existing parties (defendants or third-party defendants) can be plaintiffs-by-counterclaim.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The submission is that rule 3.56(1) should be “interpreted” so as to allow the addition of a non-party as plaintiff-by-counterclaim. The difficulty is that I would not be “interpreting” it, but rather re-writing it... a defendant can advance a counterclaim. No one else can (except a third party, as now expressly provided in rule 3.56(2)).",
+              "source_reference": "05186.rtf#para36"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This relationship clarifies that the nullity rule applies universally to any party attempting to initiate a counterclaim, ensuring consistency across the graph.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-timing-control-governs-third-party-right",
+        "source_node_id": "cm-r3-57-counterclaim-timing",
+        "target_node_id": "cm-r3-56-2-third-party-right-to-counterclaim",
+        "relationship_type": "GOVERNS",
+        "description": "The filing deadline for a counterclaim also governs a third party's exercise of their right to counterclaim, as they must file their responsive pleadings within a set timeframe.",
+        "enrichment": {
+          "source_text_excerpts": [],
+          "source_references": [],
+          "verified_at": "2025-11-03T11:55:00Z",
+          "strategic_rationale": "This ensures that the temporal constraints on pleadings are applied consistently to all parties, including third parties.",
+          "litigation_implications": [],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-set-off-shield",
+        "title": "The Set-Off Shield: Defeating Summary Judgment",
+        "objective": "To defeat a plaintiff's application for summary judgment by framing a counterclaim as a true equitable set-off, thereby making it a substantive defence to the main claim.",
+        "prerequisites": [
+          "Defendant has a valid cross-claim against the plaintiff.",
+          "Plaintiff has filed or is expected to file an application for summary judgment."
+        ],
+        "expected_outcome": "The plaintiff's summary judgment application is dismissed, or execution of any judgment is stayed pending the trial of the counterclaim. The litigation proceeds to a full trial on both the claim and counterclaim.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Analyze the counterclaim to ensure it can meet the 5-part test for equitable set-off.",
+            "node_refs": [
+              "fp-r3-59-equitable-set-off-test"
+            ],
+            "justification": "A cross claim must be so clearly connected with the demand of the plaintiff that it would be manifestly unjust to allow the plaintiff to enforce payment without taking into consideration the cross-claim…"
+          },
+          {
+            "step_number": 2,
+            "action": "In the response to the application, explicitly plead the counterclaim as a defence of equitable set-off.",
+            "node_refs": [
+              "cm-r3-59-pleading-set-off-choice"
+            ],
+            "justification": "A matter that might be claimed by set-off may be claimed by counterclaim or by pleading set-off as a defence."
+          },
+          {
+            "step_number": 3,
+            "action": "Argue that because the counterclaim constitutes a true defence, it modifies the default 'independent action' status and must be considered alongside the main claim.",
+            "node_refs": [
+              "wf-r3-59-set-off-as-a-defense",
+              "fp-r3-58-independent-action-status"
+            ],
+            "justification": "It will not, in and of itself, prevent a plaintiff from obtaining summary judgment, unless the counterclaim constitutes a defence. A legal or equitable setoff, as defences, may prevent summary judgment."
+          },
+          {
+            "step_number": 4,
+            "action": "As a fallback, if summary judgment is granted, immediately apply for a stay of execution pending the trial of the counterclaim to neutralize the financial impact.",
+            "node_refs": [
+              "cm-r3-xx-stay-execution-pending-counterclaim"
+            ],
+            "justification": "Where one side gets partial summary judgment but there is a pending counterclaim from the other side, the test for whether to stay execution on that one judgment until the counterclaim is decided, is like the test for a stay pending trial or pending appeal."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-nullity-strike",
+        "title": "The Nullity Strike: Eliminating an Improper Counterclaim",
+        "objective": "To swiftly and decisively strike out a counterclaim that improperly names a non-party as a plaintiff-by-counterclaim, without needing to address the merits of the claim.",
+        "prerequisites": [
+          "A defendant has filed a counterclaim.",
+          "The counterclaim names a plaintiff-by-counterclaim who was not a defendant in the original action."
+        ],
+        "expected_outcome": "The entire counterclaim is struck as a nullity, with costs awarded to the plaintiff. The defendant is forced to abandon the claim from the non-party or have the non-party commence a separate action.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Identify that a named plaintiff-by-counterclaim is a 'stranger to the proceedings' and not an original defendant.",
+            "node_refs": [
+              "pt-r3-56-non-party-nullity"
+            ],
+            "justification": "Neither the former rule nor the current rule admit of the possibility of adding a stranger to the proceedings as a plaintiff-by-counterclaim."
+          },
+          {
+            "step_number": 2,
+            "action": "File an application to strike the counterclaim in its entirety, arguing it is a 'nullity' from its inception.",
+            "node_refs": [
+              "pt-r3-56-non-party-nullity"
+            ],
+            "justification": "The rule is quite explicit. Only a defendant can file a counterclaim... The counterclaim therefore is, or was, a nullity."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-003-the-particulars-pincer",
+        "title": "The Particulars Pincer: Forcing Default or Disclosure",
+        "objective": "To use a Request for Particulars to either force an opponent to disclose weaknesses in their case or trap them into a procedural default.",
+        "prerequisites": [
+          "Opponent has filed a vague or poorly drafted pleading (e.g., Statement of Claim)."
+        ],
+        "expected_outcome": "The opponent is either forced to provide details that can be used against them in a subsequent strike motion, or they miss a deadline, allowing for a default motion.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Serve a detailed and demanding Request for Particulars targeting the weakest parts of the opponent's pleading.",
+            "node_refs": [
+              "cm-r3-61-request-particulars"
+            ],
+            "justification": "A party on whom a pleading is served may serve on the party who served the pleading a request for particulars about anything in the pleading."
+          },
+          {
+            "step_number": 2,
+            "action": "Simultaneously, calendar both the opponent's 10-day deadline to respond to the Request and your own deadline to file your responsive pleading (e.g., Statement of Defence).",
+            "node_refs": [
+              "pt-r3-61-10-day-response-trap",
+              "pt-r3-61-pleading-obligation-continues"
+            ],
+            "justification": "If the requesting party does not receive a sufficient response within 10 days... the requesting party may apply to the Court... [and] the obligation under these rules to file and serve pleadings continues..."
+          },
+          {
+            "step_number": 3,
+            "action": "If the opponent fails to respond to the Request within 10 days, immediately apply to the court to compel them. If they fail to file their own next pleading on time, immediately move to note them in default.",
+            "node_refs": [
+              "pt-r3-61-10-day-response-trap"
+            ],
+            "justification": "This step operationalizes the time pressure created by the rules to generate leverage."
+          },
+          {
+            "step_number": 4,
+            "action": "Ensure you file your own pleading on time to avoid falling into the same trap, even if it means pleading generically pending receipt of the particulars.",
+            "node_refs": [
+              "pt-r3-61-pleading-obligation-continues"
+            ],
+            "justification": "Subject to any order, despite a request for particulars, the obligation under these rules to file and serve pleadings continues even though a request for particulars has been made and whether or not it has been complied with."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-summary-judgment-assault",
+        "scenario": "A plaintiff (Creditor) sues a defendant (Debtor) for a simple unpaid debt. The Debtor has a complex, unliquidated damages claim against the Creditor for a separate business dealing. The Creditor files for summary judgment on the simple debt.",
+        "title": "Simulation: Summary Judgment Assault vs. The Set-Off Shield",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "action": "Plaintiff files for summary judgment, arguing the debt is straightforward and the counterclaim is an 'independent action' that should not delay judgment.",
+            "node_refs": [
+              "fp-r3-58-independent-action-status"
+            ]
+          },
+          {
+            "move_number": 2,
+            "action": "Plaintiff characterizes the defendant's damages claim as, at best, a 'procedural set-off' because it arises from a different transaction and is therefore not a true defence.",
+            "node_refs": [
+              "fp-r3-59-procedural-set-off-distinction"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "action": "Defendant responds by arguing their counterclaim constitutes an 'equitable set-off', thereby transforming it into a substantive defence.",
+            "node_refs": [
+              "wf-r3-59-set-off-as-a-defense"
+            ]
+          },
+          {
+            "move_number": 2,
+            "action": "Defendant files affidavit evidence and argument structured to meet the 5-part test, focusing on how the two business dealings are 'so clearly connected' that it would be 'manifestly unjust' to give judgment on the debt while ignoring the damages claim.",
+            "node_refs": [
+              "fp-r3-59-equitable-set-off-test"
+            ]
+          },
+          {
+            "move_number": 3,
+            "action": "In the alternative, the defendant argues that if the court grants summary judgment, it must stay execution of the judgment until the meritorious counterclaim is resolved.",
+            "node_refs": [
+              "cm-r3-xx-stay-execution-pending-counterclaim"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-001-connection-strength",
+            "description": "The critical decision for the court is whether the defendant has established a sufficient connection between the debt and the damages claim to meet the 'manifestly unjust' standard of the equitable set-off test. This is a fact-dependent and discretionary determination."
+          }
+        ],
+        "likely_resolution": "The outcome is highly dependent on the facts presented to prove the connection. If the defendant can show a strong link, summary judgment will likely be denied. If the link is weak, the court may grant summary judgment but is still likely to grant a stay of execution if the counterclaim appears to have merit, neutralizing the immediate win for the plaintiff."
+      },
+      {
+        "simulation_id": "cms-002-the-particulars-standoff",
+        "scenario": "Plaintiff files a vague Statement of Claim. Defendant serves a detailed Request for Particulars but is approaching their deadline to file a Statement of Defence.",
+        "title": "Simulation: The Particulars Standoff",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "action": "Defendant serves a comprehensive Request for Particulars to expose the vague claim.",
+            "node_refs": [
+              "cm-r3-61-request-particulars"
+            ]
+          },
+          {
+            "move_number": 2,
+            "action": "Plaintiff ignores the Request, knowing the Defendant's Statement of Defence deadline is approaching, hoping to catch them in the 'Pleading Obligation Continues' trap.",
+            "node_refs": [
+              "pt-r3-61-pleading-obligation-continues"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "action": "Defendant, aware of the trap, files a 'placeholder' Statement of Defence before the deadline, denying the allegations and stating that a more detailed defence will be filed after particulars are received.",
+            "node_refs": [
+              "pt-r3-61-pleading-obligation-continues"
+            ]
+          },
+          {
+            "move_number": 2,
+            "action": "The day after the Plaintiff's 10-day response period for the particulars expires, the Defendant files an application to compel the particulars, now having secured their own procedural position.",
+            "node_refs": [
+              "pt-r3-61-10-day-response-trap"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-002-procedural-diligence",
+            "description": "The key decision point is which party demonstrates greater procedural diligence. The defendant's awareness of the R. 3.61(4) trap is paramount to their survival."
+          }
+        ],
+        "likely_resolution": "The Defendant's countermeasure is highly effective. By filing a timely, albeit generic, defence, they neutralize the Plaintiff's trap. The court will almost certainly grant the Defendant's application to compel particulars and will likely award costs against the Plaintiff for failing to respond and attempting to engage in procedural gamesmanship."
+      }
+    ]
+  }
+}

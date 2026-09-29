@@ -1,0 +1,263 @@
+{
+  "schema_version": "arc-rule10-three-book-reconciliation-v1",
+  "skill": "arc-rules-production-lifecycle",
+  "mode": "SOURCE_RECONCILIATION",
+  "write_status": "NO_WRITE (no Neo4j/LexGraph mutation; packet only)",
+  "generated_utc": "2026-09-29T06:20:14+00:00",
+  "target": {
+    "instrument": "Alberta Rules of Court, Alta. Reg. 124/2010",
+    "part": 10,
+    "rules": "10.1-10.55",
+    "count": 55
+  },
+  "limits": [
+    "Three-book agreement is not current-law certification; currency rests on the official consolidation's stated current-to date only.",
+    "Book A and Book C titles/editions are not stated in their carriers; roles are inferred from content and recorded as such.",
+    "Commentary and notes are copied as carried; no burdens, tests, or exceptions were added.",
+    "Discrepancy status values are machine classifications for review, not adjudicated resolutions."
+  ],
+  "source_registry": {
+    "OFFICIAL": {
+      "carrier_id": "OFFICIAL",
+      "title": "Alberta Rules of Court, Alta. Reg. 124/2010 (Alberta King's Printer office consolidation)",
+      "version": "Office Consolidation, Alberta Regulation 124/2010, with amendments up to and including Alberta Regulation 79/2026; current as of June 1, 2026",
+      "artifacts": [
+        {
+          "file": "Alberta rule of court.pdf",
+          "sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+          "branch": "main"
+        },
+        {
+          "file": "Alberta_Rules_of_Court.txt",
+          "sha256": "fd82939fe84c6d2779b471604821e366b9a2a619fb21d4abfda4f35ce4fea203",
+          "derived_from": "Alberta rule of court.pdf",
+          "method": "PyMuPDF page.get_text() (embedded text layer, no OCR)"
+        }
+      ],
+      "source_role": "FIRST_HAND_RULE_CARRIER",
+      "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+      "permitted_use": "operative-text reconciliation anchor; official version/current-to closure"
+    },
+    "BOOK_A": {
+      "carrier_id": "BOOK_A",
+      "title": "Annotated rules text, Part 10 (publisher/title not stated in carrier; page style '10-N', 'Related Provisions', historical-derivation footnotes)",
+      "version": "unknown edition; latest Alberta case year cited in Part 10 = 2024",
+      "artifacts": [
+        {
+          "file": "combined_rule10.txt",
+          "sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-a-annotated-part10",
+      "permitted_use": "corroboration; annotation (information notes, related provisions, commentary, footnotes)"
+    },
+    "BOOK_B": {
+      "carrier_id": "BOOK_B",
+      "title": "Alberta Rules of Court, The Honourable Justice Allan A. Fradsham (per carrier running header)",
+      "version": "Alberta Rules of Court, The Honourable Justice Allan A. Fradsham (Part 10 files carry no edition year; header text found only in some files)",
+      "artifacts": [
+        {
+          "file": "rule10_part01_document.json",
+          "sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f"
+        },
+        {
+          "file": "rule10_part02_document.json",
+          "sha256": "ee1c304324260e64cf205965f426027608a9577c92df1e5f257dc259835214d1"
+        },
+        {
+          "file": "rule10_part03_document.json",
+          "sha256": "2271ce82820c576d7fde558b63351fb3c4512faafb086538dd5d824294a1bcda"
+        },
+        {
+          "file": "rule10_part04_document.json",
+          "sha256": "d08bcfb2dd4409bb07bb1a6ae010d74cec17d5955b51b49b8883cc3786d801f2"
+        },
+        {
+          "file": "rule10_part05_document.json",
+          "sha256": "6aaebc86bc115dafe31da7e39922bfc79f4c4e5a3ad6a94da942f8a309e9bfa0"
+        },
+        {
+          "file": "rule10_part06_document.json",
+          "sha256": "0f018ec474574dffbd725b79b2e427e6f8f17321477d3daa3d106cef7d2923e2"
+        },
+        {
+          "file": "rule10_part07_document.json",
+          "sha256": "2450c60ccdabd52063c8825211fc501be4eefe210cf7812d4ed6a48042a07a41"
+        },
+        {
+          "file": "rule10_part08_document.json",
+          "sha256": "e19323b2cda3c77b6dcb97a4bfbc3f04c8e9894a3c938c2a8f7e282d79fe38cd"
+        },
+        {
+          "file": "rule10_part09_document.json",
+          "sha256": "90b3ff33296de650e9cafcc54918e3465148920905ee1bf11581f965828ee750"
+        },
+        {
+          "file": "rule10_part10_document.json",
+          "sha256": "3107c769dcd5bb77b2ac0622ba6c3f8821bd8fdf1a9834a75deab8cad7fd881b"
+        },
+        {
+          "file": "rule10_part11_document.json",
+          "sha256": "4e39bcf9f04845b989cf053f92b0a6ee4905fe6349151bdc33dabb8f90729dc6"
+        },
+        {
+          "file": "rule10_part12_document.json",
+          "sha256": "533dee751874f2767b7434794c686f7cb3eba3cb032bfa9b7efcc719665a7fd7"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-b-fradsham",
+      "permitted_use": "corroboration; commentary"
+    },
+    "BOOK_C": {
+      "carrier_id": "BOOK_C",
+      "title": "Annotated rules text, book pages 441-520 (publisher/title not stated in carrier; source files 441-460_revised.md ... 501-520_revised.md)",
+      "version": "unknown edition; latest Alberta case year cited = 2024",
+      "artifacts": [
+        {
+          "file": "441-460_10_1 to 10_10.json",
+          "sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a"
+        },
+        {
+          "file": "461-480_10_11 to 10_31.json",
+          "sha256": "61db0c4c395a6a5ff7aa2f2470c1b172254a87e1e853e0e48953aac2b4fd4fe1"
+        },
+        {
+          "file": "481-500_10_32 to 10_46.json",
+          "sha256": "d49ab74c0b00f0cd08bb658b046938cf8a53b65601915451be1727fedf9029b1"
+        },
+        {
+          "file": "501-520_10_47 to 11_9.json",
+          "sha256": "a709a73a50954fcba6c1b6c2e3db1a1a3560451012c29ab382155f96c74a1553"
+        }
+      ],
+      "source_role": "ANNOTATED_RULES",
+      "origin_id": "book-c-annotated-pp441-520",
+      "permitted_use": "corroboration; annotation (information notes, citations, commentary)"
+    }
+  },
+  "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+  "normalization_profile": {
+    "id": "arc-rule10-compare-norm",
+    "version": "1",
+    "strict_steps": [
+      "drop a leading rule number '10.N' (carriers differ on whether the number is part of the text span)",
+      "drop footnote superscript digits (U+2070-U+2079, U+00B9/B2/B3)",
+      "Unicode NFKC (expands ligatures such as U+FB01 'fi')",
+      "curly quotes/apostrophes -> ASCII; en/em dash -> '-'",
+      "remove markdown emphasis '*'",
+      "collapse all whitespace to single space; trim",
+      "remove space before , ; : . )  and after ("
+    ],
+    "alphanumeric_tier": "if the strict and editorial forms still differ, texts that are equal once every character except letters and digits is removed are classed NORMALIZATION_ONLY_DIFFERENCE with basis 'alphanumerics only' (needed for extractions that drop spaces, and extraction drops spaces, and for line-break hyphens); a hint, never a pass",
+    "editorial_steps": [
+      "all strict steps",
+      "remove bracketed editorial cross-reference labels '[...]'",
+      "citation style 'Alta. Reg.' -> 'AR'",
+      "case-fold"
+    ],
+    "note": "Raw carrier text is preserved separately; normalization is used only for comparison.",
+    "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+  },
+  "denominators": {
+    "source_closure_denominator": {
+      "definition": "Alta. Reg. 124/2010 rules 10.1-10.55 in the June 1, 2026 consolidation",
+      "count": 55
+    },
+    "pairwise_comparison_denominator": {
+      "definition": "rules x book carriers (A,B,C) compared against OFFICIAL",
+      "count": 165
+    }
+  },
+  "summary": {
+    "pairwise_status_counts": {
+      "EXACT_MATCH": 103,
+      "NORMALIZATION_ONLY_DIFFERENCE": 34,
+      "CARRIER_HAS_EXTRA_TEXT": 1,
+      "CARRIER_MISSING_TEXT": 12,
+      "WORDING_DIFFERENCE": 15,
+      "CARRIER_TEXT_MISSING": 0
+    },
+    "gate_result_counts": {
+      "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED": 25,
+      "THREE_BOOK_SOURCE_RECONCILED": 30
+    },
+    "last_part10_amendment_year": 2023
+  },
+  "part_level": {
+    "official": {
+      "consolidation": "Office Consolidation, Alberta Regulation 124/2010, with amendments up to and including Alberta Regulation 79/2026; current as of June 1, 2026"
+    },
+    "BOOK_A": {
+      "part_introduction": "RULE #\nDivision 1: Lawyer’s Charges, Retainer Agreements and Right of Review. . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.1\nSubdivision 1: Lawyers’ Charges. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.1\nSubdivision 2: Retainer Agreements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.5\nSubdivision 3: Contingency Fee Agreements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.7\nSubdivision 4: Right of Review. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.9\nSubdivision 5: Appeal from Review Ofﬁcer’s Decision. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.26\nDivision 2: Recoverable Costs of Litigation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.28\nSubdivision 1: General Rule, Considerations and Court Authority. . . . . . . . . . . . . . . . . . . . . . . . .10.28\nSubdivision 2: Assessment of Costs by Assessment Ofﬁcer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.35\nSubdivision 3: Appeal from Assessment Ofﬁcer’s Decision. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.44\nDivision 3: Other Matters Related to Lawyers’ Charges and Litigation Costs. . . . . . . . . . . . . . . . . . . . . . .10.46\nDivision 4: Sanctions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.49\nSubdivision 1: Penalty. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.49\nSubdivision 2: Civil Contempt of Court. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.51\nDivision 5: Medical Examination. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.54\nDivision 6: Inherent Jurisdiction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10.55\nPART 10: LAWYERS’ CHARGES,\nRECOVERABLE COSTS OF\nLITIGATION, AND SANCTIONS\n\nINFORMATION NOTE\nWhat this Part is about: This Part deals with 3 matters:\n- lawyers’ retainer agreements (including contingency fee agreements),\nand lawyers’ charges - how each can be reviewed for reasonableness\nby a review officer at the request of a client or lawyer\n-\nhow the Court and assessment officers assess the costs of litigation\nthat are payable by one party to another\n-\nthe sanctions the Court may impose for contravention of the rules\nand the Court’s authority to declare a person in civil contempt of\nCourt, including the penalties that may be imposed as a result of the\ndeclaration.\nWords and phrases used in this Part that have defined meanings in\nthe Appendix [Definitions] include: assessment officer; claim; client;\ncommencement document; contingency fee agreement; costs award; Court;\ncourt clerk; defendant; enactment; expert; file; judge; judgment; lawyer;\nlawyer’s charges; medical examination; order; party; personal representative;\nplaintiff; pleading; prescribed form; property; record; retainer agreement;\nreview officer; rules; trustee\nPART 10: LAWYERS’ CHARGES,\nRECOVERABLE COSTS OF\nLITIGATION, AND SANCTIONS"
+    },
+    "BOOK_B": {
+      "edition_header": "Alberta Rules of Court, The Honourable Justice Allan A. Fradsham (Part 10 files carry no edition year; header text found only in some files)",
+      "edition_year": "2024",
+      "edition_year_basis": "latest Alberta case year cited across the Part 10 files (no edition year is printed in them)"
+    },
+    "BOOK_C": {
+      "definitions_used_in_part": [],
+      "misparsed_entries": []
+    }
+  },
+  "files": [
+    "10.1.json",
+    "10.2.json",
+    "10.3.json",
+    "10.4.json",
+    "10.5.json",
+    "10.6.json",
+    "10.7.json",
+    "10.8.json",
+    "10.9.json",
+    "10.10.json",
+    "10.11.json",
+    "10.12.json",
+    "10.13.json",
+    "10.14.json",
+    "10.15.json",
+    "10.16.json",
+    "10.17.json",
+    "10.18.json",
+    "10.19.json",
+    "10.20.json",
+    "10.21.json",
+    "10.22.json",
+    "10.23.json",
+    "10.24.json",
+    "10.25.json",
+    "10.26.json",
+    "10.27.json",
+    "10.28.json",
+    "10.29.json",
+    "10.30.json",
+    "10.31.json",
+    "10.32.json",
+    "10.33.json",
+    "10.34.json",
+    "10.35.json",
+    "10.36.json",
+    "10.37.json",
+    "10.38.json",
+    "10.39.json",
+    "10.40.json",
+    "10.41.json",
+    "10.42.json",
+    "10.43.json",
+    "10.44.json",
+    "10.45.json",
+    "10.46.json",
+    "10.47.json",
+    "10.48.json",
+    "10.49.json",
+    "10.50.json",
+    "10.51.json",
+    "10.52.json",
+    "10.53.json",
+    "10.54.json",
+    "10.55.json"
+  ],
+  "dedupe_rule": "a value is dropped only when an equal value (under the normalization profile) is kept"
+}

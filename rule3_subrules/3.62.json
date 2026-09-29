@@ -1,0 +1,230 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.62",
+  "title": {
+    "official": "Amending pleading",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Request for Particulars, Amendments to Pleadings and Close of Pleadings"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "3.62(1)  A party may amend the party’s pleading, including an\namendment to add, remove, substitute or correct the name of a\nparty, as follows:\n(a) before pleadings close, any number of times without the\nCourt’s permission;\n(b) after pleadings close,\n(i) for the addition, removal, substitution or correction\nof the name of a party, with the Court’s prior\npermission in accordance with rule 3.74, or\n(ii) for any other amendment, with the Court’s prior\npermission in accordance with rule 3.65;\n(c) despite clauses (a) and (b), whether or not pleadings have\nclosed, with the agreement of the parties filed with the\nCourt.\n(2)  An amended pleading must be\n(a) filed, and\n(b) served on each of the other parties\n(i) within 10 days after the date on which it is filed, or\n(ii) if the pleading is a statement of claim that has not\nalready been served, in accordance with Division 3,\nSubdivision 2.\n(3)  A party may, without the Court’s permission, amend that\nparty’s pleading before or after pleadings close if that amended\npleading is\n(a) a statement of defence in response to an amended\nstatement of claim, an amended counterclaim or an\namended third party claim, or\n(b) a reply to an amended statement of defence, amended\nstatement of defence to an amended counterclaim, or\namended statement of defence to an amended third party\nclaim.\n(4)  A response pleading referred to in subrule (3) must be\n(a) filed, and\n(b) served on each of the other parties within 10 days after the\ndate that the amended pleading referred to in subrule (3) is\nserved.\n(5)  If a party has pleaded in response to a pleading that is\nsubsequently amended and served on that party and the party does\nnot file and serve a further response to the amended pleading, the\nparty is assumed to rely on the party’s unamended pleading in\nresponse to the amended pleading referred to in subrule (3).\n(6)  This rule does not apply to amendments to a class proceeding\nunder the Class Proceedings Act.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "d31bf38abe32280293ece2335e6bf03fff6edf8ba67b92d183717dfe9c860ed2"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s3.62;163/2010;143/2011",
+    "amending_regulations": [
+      "163/2010",
+      "143/2011"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta.Reg.124/10;163/10;143/11]"
+      ],
+      "BOOK_B": "Alta. Reg. 163/2010, s. 2; 143/2011, s. 6"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          73,
+          75
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Amending Pleading",
+      "operative_text_raw": null,
+      "operative_text_sha256": "aae89c156992f162c5aa12b624265cad28c9d2a06b74d1db930747a0e02325d0",
+      "defined_terms": null,
+      "related_provisions": null,
+      "commentary": "*1\nInformation Note Rule 2.7 [Amendments to pleadings in class proceedings] says that after a certification order is made in a class proceeding, pleadings in a class proceeding may be amended only with the Court's permission. Defined Terms Court, file, party, pleading\n\nRelated Provisions 2.7 (amending class proceeding);3.65 (amendment by order);3.67 (close of pleadings);3.74 (changing parties);13.17 (amending other documents). Rule 3.62 lets a party unilaterally amend his or her pleading without anyone else's permission or agreement.It allows that in two circumstances: 1.where the pleadings have not yet closed;in other words, before the deadline for the other\n\nside to file a later pleading answering it: R.3.62(1)(a); 2.within a few days after the opposing side has amended its pleading:R.3.62(3). It is not clear whether, or how much, the new unilateral amendment must be related to the opponent's amendment.\n\nRule 3.62 allows changes to the parties. Rule 3.62 will not apply after an action is certified as a class action. If the suit is begun by Originating Application (e.g.for judicial review), no Rule closes the\n\npleadings, and they close when the application is first heard by a judge (even if the judge makes a decision on the merits. Because of R.3.62(3), the court is more receptive to an amendment to the statement of claim necessitated by a plea in the statement of defence, even if the pleadings have been closed for a few months.\n\nThe Clerk will often not know when these times expire, and may have to assume that they have not expired, and accept the proffered amendment.Rule 3.62 lets one add a new cause of action closely related to the existing one, especially when it flows from facts in the original statement of claim.But court permission is necessary if some defendants have an arguable limitations defence.\n\n186, and 1883 O.28 r.5.Cf.C.O.O.IX r.19. An improper amendment purportedly made under this Rule is not a nullity, because of R.13.5. It stands until disallowed, and if there is a ground for allowing the amendment with the court's permission, the court will not disallow it.\n\n6Anglin v. Pankiw (#1),supra(¶'s 8-10, 17, 19-20). 7Quite similar to previous 1968 R.137(1).It came from 1914 R.266(1) and 1944 C.R.198.Cf.Judic.Ord. r.\n\nthat amendment, it must apply within the time specified by the Rules.\n\ndefect:Edwards v.Fisher(M) 2007 ABQB 666, 436 AR 159.\n\n5Anglin v. Pankiw (#1)2022 ABCA 362, Edm 2203 0082 AC (Nov 9) (¶'s 11-15).\n\nthe defendant to strike out on the grounds that the wrong person sued, and so by the amendment cure the 4Ostrowskiv. Taylor2008 ABCA 30, 2008 CarswellAlta 130.\n\nIt is not clear whether one can use R.3.62 to add an entirely unrelated cause of action. It is proper to use R.3.62 without notice to amend one's pleadings even in the face of a pending application by the opponent to strike out the pleadings, and if the other side does not like One cannot use R.3.62 to restore to a statement of claim the features which a judge had previously struck out.\n\nAmending a pleading to change the defendant from John Doe to the person's real name is not curing a misnomer;it is fixing a pseudonym.If there is an alleged limitations problem, then s.6(4)(b) of theLimitations Actappears to allow the amendment if the defendant got \"sufficient knowledge\"before the limitation period expired, especially taking into account when the plaintiff knew enough that the limitation period started to run. Once the plaintiff learns the true name\n\nthe plaintiff should move to substitute that name before taking other steps (such as serving the statement of claim), and not leave it to the defendant to correct that, but failure to correct that soon enough is often curable. *Identifying Amendments to Pleadings\n*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-134",
+          "3-136"
+        ],
+        "offset_in_clean_text": [
+          424570,
+          431397
+        ]
+      },
+      "operative_text_note": "same wording as official 3.62(1)-(6) (read by eye) except: the text is printed in pieces with footnote blocks between them (p.3-134 lines 3800-3805 (1) to (5); p.3-135 line 3816 '(6) This rule does not apply to amendments to a class proceeding under the' and line 3820 '**Class Proceedings Act.') - read as the official; the bracket labels '[Adding, removing or substituting parties after close of pleadings]' after 'rule 3.74', '[Permission of Court to amendment before or after close of pleadings]' after 'rule 3.65' (both match the official titles) and '[Time Limit for Service of Statement of Claim]' after 'Division 3, Subdivision 2' (matches the official Subdivision 2 heading); straight apostrophes; the title in title case ('Amending Pleading'); missing spaces; '*' line marks; the footnote marker '1' after the amendment bracket. The amendment bracket '[Alta.Reg.124/10;163/10;143/11]' agrees with the official 'AR 124/2010 s3.62;163/2010;143/2011'. No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: 'F.N.) v. R.2004 ABCA 279, 354 AR 365. 4Where a (proposed) amendment to the statement of claim did not add a new claim, the defendant could not amend its statement of defence to raise for the first time an (additional) limitation of actions plea:Cartwright *v. Cartwright2007 ABQB 189. 5See the discussion inAlta.Treas. Br. v.Ghermezian2001 ABQB 554, 288 AR 343. 6R.3.62(6). 7Cdn.Nat. Res.v. Fishing L.M?tis Settlement2022 ABQB 53, JCE 1903 17590 (Jan 18) (¶'s 14-25). 8Balm v. 3512061 Can.2003 ABCA 98, 327 AR 149. 1Quite similar to previous 1968 R.130.It came from 1944 C.Rr.191, 192, English O.28 r.2 (1883), then O. 27 rr.13, 14 (am.1933 #1).Cf.C.O.O.IX rr.8, 10-13. 2After pleadings close, it is too late, and a motion under R.3.65, with supporting evidence, is necessary: *Donaldson v. Bibby2009 ABQB 114. 3But that cannot be an amendment previously refused by the court in the same suit:Waquan (Mikisew Cree' (fns 3-6 begin mid-citation ('F.N.) v. R. 2004 ABCA 279', the start of fn 3, is not in this record), fns 7-8, this rule's history fn 1 and fn 2, and fn 3 which breaks off inside 'Waquan (Mikisew Cree'; the history fn 1 'Quite similar to previous 1968 R.130 ...' matches the marker '1' after the amendment bracket).",
+      "commentary_review_flag": "Read p.3-134 (line 3800) to p.3-136 (line 3854): rule text (in pieces), Information Note, Defined Terms 'Court, file, party, pleading' (the Appendix defines each), Related Provisions '2.7 (amending class proceeding); 3.65 (amendment by order); 3.67 (close of pleadings); 3.74 (changing parties); 13.17 (amending other documents)' and a note of several paragraphs, with footnotes as printed; the note is skimmed for structure and pointers, not case by case. The built record: the information note (Book A only), the Defined Terms and Related Provisions, and the note in the commentary field (3,761 characters, from '*1' to the heading of 3.63 'Identifying Amendments to Pleadings'); the raw-text field held the footnote blocks (kept in the text note); nothing dropped. The extraction interleaves the note and footnotes on pp.3-135 and 3-136 (e.g. the paragraph 'It is not clear whether one can use R.3.62 to add an entirely unrelated cause of action ...' has a sentence broken in two by 'if the other side does not like'); the wording is kept as printed and the order of the pieces was not repaired. (1) Information Note: 'Rule 2.7 [Amendments to pleadings in class proceedings] says that after a certification order is made in a class proceeding, pleadings in a class proceeding may be amended only with the Court's permission' - the label matches the official title of 2.7 (the statement of 2.7's content was not re-read here). (2) Related Provisions labels differ from the official titles: '2.7 (amending class proceeding)' ('Amendments to pleadings in class proceedings'); '3.65 (amendment by order)' ('Permission of Court to amendment before or after close of pleadings'); '3.74 (changing parties)' ('Adding, removing or substituting parties after close of pleadings'); '13.17 (amending other documents)' ('Amendments to records other than commencement documents, ...'); '3.67 (close of pleadings)' matches the official title 'Close of pleadings'. (3) Statements read against the official text and Book B: 'Rule 3.62 lets a party unilaterally amend ... in two circumstances: 1. where the pleadings have not yet closed: R.3.62(1)(a); 2. within a few days after the opposing side has amended its pleading: R.3.62(3)' agrees with 3.62(1)(a) and (3)-(4) (10 days); it does not list (1)(c) (agreement of the parties), which the note mentions elsewhere at Book A p.3-138 (line 3900, 'Rule 3.62(1) lets a party amend ... with the written consent of the ...'); 'Rule 3.62 will not apply after an action is certified as a class action' agrees with 3.62(6); 'Rule 3.62 allows changes to the parties' agrees with the lead-in of (1); 'Rule 3.62 lets one add a new cause of action closely related to the existing one ... But court permission is necessary if some defendants have an arguable limitations defence' agrees in substance with Book B's part 3 (Korte v. Cormie: 'if an amendment raises the possibility of a limitation argument, leave of the Court should be required'); 'John Doe ... is not curing a misnomer; it is fixing a pseudonym' and 'the plaintiff should move to substitute that name before taking other steps' agree with Book B's part 7 (Anglin v. Pankiw 2022 ABCA 362 [8]-[11]; Book A fn 5 'Anglin v. Pankiw (#1) 2022 ABCA 362 (¶'s 11-15)'); 'If the suit is begun by Originating Application ... the pleadings close when the application is first heard by a judge' is not in 3.62 (official 3.67 not re-read here); the limitations Act s.6(4)(b) statements and the cases were not checked. (4) Book B's commentary (seven parts, 12,396 characters: Korte v. Cormie on admissions; Remington Dev. v. Enmax 2022 ABCA 71 (hopeless vs arguable); Kydd v. Abolarin 2011 ABQB 690 and Dow Chemical v. Nova Chemicals 2010 ABQB 524 (limitation options); Crystal Ridge Fuels v. McIntosh 2013 ABQB 618 (adding a counterclaim engages 3.62 then 3.65 or 3.74); MTM Commercial Trust v. Statesman 2022 ABCA 328; Kent v. Postmedia 2012 ABQB 559; Anglin v. Pankiw) has only partial counterparts in Book A; Book A's fn 2 'After pleadings close, it is too late, and a motion under R.3.65, with supporting evidence, is necessary: Donaldson v. Bibby 2009 ABQB 114' agrees with 3.62(1)(b)(ii); Book B quotes Domenic Construction v. Primewest 2020 ABCA 265 at para 38 in MTM. (5) Other rules' pointers to 3.62: R.1 p.1-19 (line 892) '3.62 (amending pleadings)'; R.2 p.2-8 (lines 268-269) '3.62(b) (amending pleadings)' (the sub-item letter (b) is as printed); p.3-83 (line 2249) '3.62(3) (responding to an amended pleading)' (lands); p.3-160 (line 4738) '3.62 (amendments)'; p.3-161 (line 4765) '3.62 (amending pleadings without leave)'; p.3-231 (line 7535) '3.62 (amending pleadings)'; p.3-245 (line 8072, the related provisions printed before the 3.76 title) '3.62 (amending a pleading)'; p.3-156 (line 4606, footnote 6 in the 3.65 note) 'R.3.62n.' and p.3-158 (line 4688, footnote 3) 'on using R.3.62 where it should not be used, see the Chapter ...'; R.9 p.9-44 (line 2323, footnote 3) 'R.3.62.'; R.13 p.13-73 (line 3810, related provisions) '3.62 and 3.63 (amending pleadings); 13.20 (changes to affidavits)'; Book B: rule3_part03_document.json (the 3.26 commentary quotes Franssen: 'an application to amend pleadings pursuant to rule 3.62(1)(b)(I) requires the court's permission', line 511) and rule3_part10_document.json (the 3.74 commentary quotes Goss J.: 'Rule 3.62(1)(b) of the Alberta Rules of Court', line 2791); Book C: 141-160 file (3.65 commentary 'rule 3.65 should be read in conjunction with rule 3.62') and 161-180 file (3.67 commentary 'consent of all parties to amend pleadings pursuant to rule 3.62'); the official text has only the table of contents (line 461), the rule itself (line 5081), the running page header (line 5089) and the amendment line (line 5161); R.8 p.8-10 (line 391) '3.62(2) (place of trial)' and p.8-13 (line 547) '3.62 (place of trial)' - 3.62 is 'Amending pleading'; the rule on where an action is carried on is 3.6 ('Where an action is carried on'), so the R.8 pointers do not describe this rule (recorded as printed). (6) History: fn 1 (1968 R.130; 1944 C.Rr.191, 192; English O.28 r.2 (1883); C.O.O.IX rr.8, 10-13) is this rule's (marker '1' after the amendment bracket)."
+    },
+    "BOOK_B": {
+      "title": "Amending pleading",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.62:1",
+          "text": "Rule 3.62 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.62. 1. Admissions In Korte v. Cormie (1996), 36 Alta. L.R. (3d) 431 (C.A.), the Court of Appeal defined “admissions” and indicated, without deciding, that admissions most likely cannot be made in a statement of claim. However, if admissions can be made in a statement of claim, and if they are true admissions, then they may be removed from the statement of claim only with leave. At p. 436, Madam Justice Hunt, speaking for the court said: The Rules do not define “admission”, but there are a number of Rules dealing with admissions, including RR. 25, 71, 119, 162, 165, 219, 230 and 231. These Rules tend to support the view taken by the respondents, namely, that admissions must be responsive to a statement found in pleadings. For example, R. 119 is to the effect that the silence of a pleading “as to any allegation contained in the previous pleading of the opposite party” shall not be taken to be an admission as to the truth of the allegation. Rule 25 concerns acceptance of service of an admission by the solicitor of a party. Rule 162 deals with “admissions of fact” that have been made upon the pleadings. Rules 230 and 231 set out a process for calling upon a party to admit specific facts… It seems to me that, while these cases concerned statements made in Statements of Claim, the statements which were sought to be withdrawn were of much clearer effect than the words sought to be withdrawn here. I do not find it necessary to decide whether it is ever possible to have an admission in a Statement of Claim, although in the face of the Rules mentioned above I am inclined to the view that it is not. Assuming, however, that it is possible to make an admission in a Statement of Claim, such that leave to withdraw it would be required, in this case I agree with the view of the chambers judge that what was sought to be withdrawn is not an admission but “an allegation in the framing of an action”. It is not so unambiguous as to constitute an admission. Thus, in any event, no leave to amend would be required on this ground. [Pleadings in the action had not yet closed.] 2. Amendments after Pleadings Close In Remington Development Corporation v. Enmax Power Corporation, 2022 ABCA 71, the Court of Appeal set out the test for amending pleadings, and made a specific comment about the difference between “hopeless” and “arguable”. The Court said: [33] Assuming some modest amount of evidence is provided in support, any pleading may be amended no matter how careless or dilatory the party seeking the amendment, subject to four exceptions: (1) the amendment would cause serious prejudice not compensable in costs; (2) the amendment is hopeless; (3) unless permitted by statute the pleading seeks to add a new party or cause of action after the expiry of a limitation period; or (4) there is an element of bad faith associated with the failure to plead the amendment in the first place: Attila Dogan Construction and Installation Co Inc v AMEC Americas Limited, 2014 ABCA 74 at para 25. [34] Attila Dogan posited several things that might make a proposed amendment hopeless. These included amendments which do not disclose a cause of action or where the proposed amendment is so inconsistent with the record that it could fairly be described as hopeless: at para 27. [35] Recently, in Swaleh v Lloyd, 2020 ABCA 18 this Court described the test for determining whether a plea is hopeless at para 13: An amendment to add a pleading should not be granted where the claim is hopeless, such that the pleading would have been struck if originally pled: McCargar v Métis Nation of Alberta Association, 2017 ABQB 692 at para 7, aff’d 2018 ABCA 144. A pleading is hopeless only if it is clear and obvious that there is no triable issue: McCargar at para 19. Hopelessness is met if the claim is barred by statute: see for example, Bouvry Exports Calgary Ltd v ING Insurance Company of Canada, 2008 ABQB 61. [36] In articulating the applicable test, the chambers judge at para 33 said, “I think a proposed amendment is hopeless where it is not ‘arguable’.” … [37] There is a difference between the test enunciated by this Court and that articulated by the chambers judge. “Arguable” implies that there are two possible interpretations or conclusions based upon a set of facts; in other words, there is a triable issue. Hopelessness asks if it is plain and obvious that there is no triable issue. . . . . . [41] The chambers judge did not articulate the correct test when she equated hopelessness with whether something was arguable. … 3. Amendments and Limitation Issues In Kydd v. Abolarin, 2011 ABQB 690, 2011 CarswellAlta 1980, 520 A.R. 250, Justice Macklin had before him an appeal from a Master's decision which had permitted amendments to be made to a Statement of Claim. The proposed defendant contended that the applicable limitation period had expired, and his Lordship, at paragraph 19, discussed the approach the Court should adopt in the face of such a contention: 19 In Dow Chemical Canada Inc v. Nova Chemicals Corporation, 2010 ABQB 524, Wittmann C.J. summarized the options for a Court when an amendment is sought and there is a limitations issue: 1. Determine the limitation period has not expired and allow the amendment. 2. Rule the limitation period has expired and therefore consider s 6 of the Limitations Act which provides for when an amendment can be made beyond the limitation period. 3. Find that because of uncertainty in the evidence, the amendments should be allowed subject to the determination of the limitation issue at trial … (Dow Chemical at para. 64). 4. Amendments after Limitation Period I am satisfied that a Court in Alberta, when considering amendments to statements of claim where intervening limitation periods have accrued to the benefit of the defendant, must determine whether or not the interests of justice warrant such an amendment. It must further determine whether the principles underlying the imposition of the limitation period have been affected, including the question of whether the defendant has been prejudiced by the failure of the plaintiff to include in the statement of claim the amendments sought. The burden of showing such prejudice, as in the renewal and next step cases, rests with the defendant…Dumaine v. Kerry (1988), 87 A.R. 70 at 77 (Q.B.). The prejudice spoken of is not the loss of the statutory defence of a limitation period but rather prejudice related to the merits (e.g., loss of evidence, change in the status quo, etc.). The prejudice suffered may well be the raison d'être of the limitation period. However the existence of the limitation period without more does not necessarily prove that the raison d'être exists in a given case. In Korte v. Cormie (1996), 36 Alta. L.R. (3d) 431 (C.A.), Hunt J.A., speaking for the Court of Appeal, said at p. 443: I am of the view that if an amendment raises the possibility of a limitation argument, leave of the Court should be required to amend. This is so because the inability to rely upon a limitation argument may work prejudice upon the party against whom the amendment is sought. As such, it is a situation that falls outside the broad language of R. 130. The judge hearing such an application for leave to amend has a number of choices. He or she may agree that the new claim is out of time and thus disallow the amendment; may determine that the sort of special circumstances referred to in [Basarsky v. Quinlan, [1972] S.C.R. 380] exist, and allow the amendment nevertheless; or decide that the limitation argument is of the kind that ought to be determined at trial, upon a factual base. 5. Adding a Counterclaim In Crystal Ridge Fuels Ltd. v. McIntosh, 2013 ABQB 618, 2013 CarswellAlta 2000, 573 A.R. 102, 100 Alta. L.R. (5th) 378, Justice Jones said, at paragraph 17: 17 As noted in Marlborough Ford Sales Ltd v. Ford Motor Co of Canada, 2003 ABQB 298, 13 Alta LR (4th) 336 at para 9, the effect of a counterclaim being conjoined with the statement of defence is that a defendant “must bring an application to amend his or her pleadings to add a counterclaim.” This Court also viewed an application to bring a counterclaim as an amendment to the statement of defence in Deuruneft Deutsche-Russische Mineralol Handelsgesellschaft mbH v. Bullen 2002 ABQB 304, 310 AR 164 at para 26. I conclude that adding a counterclaim engages the procedure under Rule 3.62 and, subsequently, either Rule 3.65 or Rule 3.74. 6. General comment on amendments In MTM Commercial Trust v. Statesman Riverside Quays Ltd., 2022 ABCA 328, 2022 CarswellAlta 2819, Justice Slatter made these observations: [32] The granting or denial of an amendment does not necessarily say anything about the merits of the underlying claim or the relevance of any issues raised. Subject to a very few exceptions, the denial of an amendment also does not create an issue estoppel about the issue in the pleading. For example, pleadings are sometimes disallowed because the limitation period has expired. That sort of ruling might create an issue estoppel, but generally an amendment to a pleading signals that the pleaded issue is to be resolved at trial. [33] In short, an amendment might be denied for many reasons, including that it is unnecessary, includes evidence, or for other reasons. The outcome of the amendment application is rarely conclusive about the evidence that could be entered, what will be argued at trial, or the outcome of the trial. The Merits of the Underlying Pleading [34] The granting or denial of an amendment is not a form of summary judgment. It is true that amendments can be denied if they are “hopeless”, but that is not an invitation to turn an application to amend into an adjudication on issues that are properly dealt with at trial: Domenic Construction Ltd v Primewest Capital Corp, 2020 ABCA 265 at para. 38, 15 Alta LR (7th) 67. That is particularly the case in actions like this, which have been ongoing for over a decade, and which are set to be tried in February. In Kent v. Postmedia Network Inc., 2012 ABQB 559, 2012 CarswellAlta 1526, 548 A.R. 73, Justice Tilleman said, at paragraph 14: 14 As it is written, rule 3.62 places the matter in the judge's hand and the evolving case law suggests a continued tilt in favour of a liberal amendment of pleadings. As long as there is some foundation and unless there is a significant prejudice or an injustice, the order to allow amendments should be freely given11. I am not saying that every amendment should be automatically allowed, because factors such as bad faith, unreasonable delay, or questionable motive are always in play and may prove fatal to the Amendment request …. In paragraph 31 of Kwok v. Canada (Natural Sciences and Engineering Research Council), 2013 ABQB 395, 2013 CarswellAlta 1201, Justice Mahoney quoted Justice Tilleman's comment with approval. 7. Pseudonyms In Anglin v. Pankiw, 2022 ABCA 362, 2022 CarswellAlta 3254, the Court of Appeal discussed the use of pseudonyms when the name of a party is not known, and the obligation to amend the pleadings as soon as the identity of the party is ascertained. The Court said: [8] All parties acknowledge the tradition of naming unknown defendants by using the pseudonyms “John Doe” and “Richard Roe”. However … once the plaintiff finds out the real name of the “John Doe” defendant, it is incumbent on him to take timely steps to amend the pleadings to properly name that defendant. A plaintiff is always required to correctly name every defendant. [9] Any required amendment should be made before any other substantive step is taken in the litigation. In exigent circumstances interlocutory relief (such as an injunction or an Anton Piller order) might be obtained against an unknown John Doe defendant before the style of cause is amended: see MacMillan Bloedel Ltd. v Simpson 1996 CanLII 165 (SCC), [1996] 2 SCR 1048. However, there is nothing urgent about a noting in default, and in this case the appellant had been identified. Specifically, it would be inappropriate for the plaintiff to attempt to proceed to trial with a known defendant still described as “John Doe”…. [10] Further … the primary obligation is on the plaintiff, not on the unnamed defendant, to move to correct the plaintiff's pleadings. [11] … The use of a pseudonym, however, is not a misnomer. …"
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_62_001",
+        "part3_part_3_court_actions_044",
+        "part3_rule_3_62_002",
+        "part3_part_3_court_actions_046"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "c17ec23a83ce9a07b31f4c6474000de3545c9ba5424ee79d95ceeb32e7294dce",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Amending pleading",
+      "division_heading": "Division 4 – REQUEST FOR PARTICULARS, AMENDMENTS TO PLEADINGS AND CLOSE OF PLEADINGS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "339174c8159f923dd18b09061858c192aba2f90842971dba1c34ca4027fa5a03",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops after the first line of subrule (1) ('(1) A party may amend the party’s pleading, including an amendment to add, remove, substitute or correct the name of a'); the rest of (1) and subrules (2)-(6) are missing. No amendment note (official 'AR 124/2010 s3.62;163/2010;143/2011', which Book A and Book B carry) and no commentary are printed for 3.62 in Book C. The Division heading agrees with the official Division 4."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6094,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.62(1)-(6) (read by eye) except: the text is printed in pieces with footnote blocks between them (p.3-134 lines 3800-3805 (1) to (5); p.3-135 line 3816 '(6) This rule does not apply to amendments to a class proceeding under the' and line 3820 '**Class Proceedings Act.') - read as the official; the bracket labels '[Adding, removing or substituting parties after close of pleadings]' after 'rule 3.74', '[Permission of Court to amendment before or after close of pleadings]' after 'rule 3.65' (both match the official titles) and '[Time Limit for Service of Statement of Claim]' after 'Division 3, Subdivision 2' (matches the official Subdivision 2 heading); straight apostrophes; the title in title case ('Amending Pleading'); missing spaces; '*' line marks; the footnote marker '1' after the amendment bracket. The amendment bracket '[Alta.Reg.124/10;163/10;143/11]' agrees with the official 'AR 124/2010 s3.62;163/2010;143/2011'. No substantive difference. The dropped raw text also held footnote blocks printed between the pieces, kept here verbatim because Book A's footnotes are not split out: 'F.N.) v. R.2004 ABCA 279, 354 AR 365. 4Where a (proposed) amendment to the statement of claim did not add a new claim, the defendant could not amend its statement of defence to raise for the first time an (additional) limitation of actions plea:Cartwright *v. Cartwright2007 ABQB 189. 5See the discussion inAlta.Treas. Br. v.Ghermezian2001 ABQB 554, 288 AR 343. 6R.3.62(6). 7Cdn.Nat. Res.v. Fishing L.M?tis Settlement2022 ABQB 53, JCE 1903 17590 (Jan 18) (¶'s 14-25). 8Balm v. 3512061 Can.2003 ABCA 98, 327 AR 149. 1Quite similar to previous 1968 R.130.It came from 1944 C.Rr.191, 192, English O.28 r.2 (1883), then O. 27 rr.13, 14 (am.1933 #1).Cf.C.O.O.IX rr.8, 10-13. 2After pleadings close, it is too late, and a motion under R.3.65, with supporting evidence, is necessary: *Donaldson v. Bibby2009 ABQB 114. 3But that cannot be an amendment previously refused by the court in the same suit:Waquan (Mikisew Cree' (fns 3-6 begin mid-citation ('F.N.) v. R. 2004 ABCA 279', the start of fn 3, is not in this record), fns 7-8, this rule's history fn 1 and fn 2, and fn 3 which breaks off inside 'Waquan (Mikisew Cree'; the history fn 1 'Quite similar to previous 1968 R.130 ...' matches the marker '1' after the amendment bracket)."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.1163,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops after the first line of subrule (1) ('(1) A party may amend the party’s pleading, including an amendment to add, remove, substitute or correct the name of a'); the rest of (1) and subrules (2)-(6) are missing. No amendment note (official 'AR 124/2010 s3.62;163/2010;143/2011', which Book A and Book B carry) and no commentary are printed for 3.62 in Book C. The Division heading agrees with the official Division 4."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.62",
+      "title_official": "Amending pleading"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "aae89c156992f162c5aa12b624265cad28c9d2a06b74d1db930747a0e02325d0",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-134",
+            "3-136"
+          ],
+          "offset_in_clean_text": [
+            424570,
+            431397
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "c17ec23a83ce9a07b31f4c6474000de3545c9ba5424ee79d95ceeb32e7294dce",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "339174c8159f923dd18b09061858c192aba2f90842971dba1c34ca4027fa5a03",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "d31bf38abe32280293ece2335e6bf03fff6edf8ba67b92d183717dfe9c860ed2",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            73,
+            75
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "3f78738652da6d170e482b9cb2a59166bfac7f94a218ce3f792e470e539ca495"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.62 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.62 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.62 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.62 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

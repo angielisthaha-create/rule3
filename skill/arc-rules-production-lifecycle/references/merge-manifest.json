@@ -1,0 +1,1853 @@
+{
+  "schema_version": "arc-merge-manifest-v2",
+  "skill_name": "arc-rules-production-lifecycle",
+  "source_packages": [
+    {
+      "id": "semantic",
+      "filename": "arc-rule-semantic-operator.zip",
+      "sha256": "683f6daab69f42f8a5fc531b7477a2fdbee1e4477bc0d1d907c347a9e21882bc"
+    },
+    {
+      "id": "pipeline",
+      "filename": "arc-rules-pipeline.zip",
+      "sha256": "9c69baa84679acac24d9c81b14ab4eae329f38ed752c93ee3a39053a150b6457"
+    },
+    {
+      "id": "remediation",
+      "filename": "arc-rule-text-remediation.zip",
+      "sha256": "35ba8e5dcf9b32fcd0e3a4c14f01931311ca42116af9e21acc0a56bfe1544bf2"
+    }
+  ],
+  "entries": [
+    {
+      "source_package": "semantic",
+      "source_path": "SKILL.md",
+      "source_sha256": "95861692aa458a1168a7cfc8809c704f8d01d30d855d001534e8dd438b3b050c",
+      "disposition": "FOLDED_INTO_UNIFIED_CONTROL_PLANE",
+      "final_paths": [
+        "SKILL.md",
+        "references/lifecycle-router.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "agents/openai.yaml",
+      "source_sha256": "65327e8f10124bebda6f9b1accbae928dfc93fd34611bf71ce281140e3ae074e",
+      "disposition": "SUPERSEDED_UI_METADATA",
+      "final_paths": [
+        "agents/openai.yaml",
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "assets/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "references/manifest-schema.md",
+      "source_sha256": "890f00c253144718f4924b8e73336984e426ff2c01416608f89bb9a023d8a957",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-manifest-schema.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "references/metric-improvement-map.md",
+      "source_sha256": "fab872ef14bd1533e8995b6a1f19a7807886a515d1110b7673033ae26733eb1b",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-metric-improvement-map.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "references/promotion-contracts.md",
+      "source_sha256": "78b3557e2f9dc65934604995e45ec39a8b3e064654fd9a6fccd4bb1168393055",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-promotion-contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "references/promotion-stage-playbook.md",
+      "source_sha256": "58c7bc2db7957eeab24dfcd7b2cc108614e2cdfa83e4f887098de2b874ac5d94",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-promotion-stage-playbook.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "references/recovery-and-timeout.md",
+      "source_sha256": "5bec5c49f8d451a8680b7c861d117c4e60079a4c5601bae5bea0830f5e097df2",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/recovery-and-timeout.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "references/rule-workflow.md",
+      "source_sha256": "eae37828cccf5678460c5955a1c4b35aec8722f710b085f38d770ef88257491c",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-rule-workflow.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "scripts/compare_appendix_runs.py",
+      "source_sha256": "99c399c2ecad4b8c77b34fec77badc326485d7dbe18b90d53d67aedb3e99ee0d",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/compare_appendix_runs.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "semantic",
+      "source_path": "scripts/validate_rule_manifest.py",
+      "source_sha256": "cb35e8ab30681b81033abea4806ef39ec5550d6845363581c5b3ef75157f6014",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-v1/validate_rule_manifest.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "SKILL.md",
+      "source_sha256": "6677989414e9aa5d963e3abbeb0c54520108e062ba114a412f9d0ab2970c7539",
+      "disposition": "FOLDED_INTO_UNIFIED_CONTROL_PLANE",
+      "final_paths": [
+        "SKILL.md",
+        "references/lifecycle-router.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "agents/openai.yaml",
+      "source_sha256": "1b40607413f96cbf3b92edffcc33ef447e4b0441bf293fecf8763c95cd63a307",
+      "disposition": "SUPERSEDED_UI_METADATA",
+      "final_paths": [
+        "agents/openai.yaml",
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/SOURCE_INDEX.md",
+      "source_sha256": "7de448b39806f6a331041583c20ba9873122da69e9ef08a87c1180258bcbdf6c",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-pathway-validity/cypher_queries.md",
+      "source_sha256": "af2d6d094225cafaeeb0c374f56b12dcd69382b629f7128fe2019448d40ae4be",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/cypher_queries.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-pathway-validity/field_guide.md",
+      "source_sha256": "9f2a24ee62014e9ef1a9aee2f9c7f8104cb31bd47f58d4129ab2072d97a05c47",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/field_guide.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-pathway-validity/interactive_100_turn_protocol.md",
+      "source_sha256": "bd6bcc5b8587de9f35a4227a06f9365dea39c31c40c5322b40efbb16e4f40651",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/interactive_100_turn_protocol.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-pathway-validity/manual_validation.md",
+      "source_sha256": "4d38cb740bcdbbd5275cc7e5c41e373b6114f33e2c2c3deffdb07b520406df12",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/manual_validation.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-pathway-validity/message_cadence_test.md",
+      "source_sha256": "1e4a72c19ea59aa4448369a322b9fd5d507aca917e0adecd485e427ac96593c1",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/message_cadence_test.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-pathway-validity/setup_and_scripts.md",
+      "source_sha256": "665be1609db451a2d7396bdfc08244172400de93f5fa24c04e34871eaf5b9479",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/setup_and_scripts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator/manifest-schema.md",
+      "source_sha256": "890f00c253144718f4924b8e73336984e426ff2c01416608f89bb9a023d8a957",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-manifest-schema.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator/metric-improvement-map.md",
+      "source_sha256": "fab872ef14bd1533e8995b6a1f19a7807886a515d1110b7673033ae26733eb1b",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-metric-improvement-map.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator/promotion-contracts.md",
+      "source_sha256": "78b3557e2f9dc65934604995e45ec39a8b3e064654fd9a6fccd4bb1168393055",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-promotion-contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator/promotion-stage-playbook.md",
+      "source_sha256": "58c7bc2db7957eeab24dfcd7b2cc108614e2cdfa83e4f887098de2b874ac5d94",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-promotion-stage-playbook.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator/recovery-and-timeout.md",
+      "source_sha256": "5bec5c49f8d451a8680b7c861d117c4e60079a4c5601bae5bea0830f5e097df2",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/recovery-and-timeout.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator/rule-workflow.md",
+      "source_sha256": "eae37828cccf5678460c5955a1c4b35aec8722f710b085f38d770ef88257491c",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-rule-workflow.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator-v2/manifest-schema.md",
+      "source_sha256": "700c8babcfffaf00e3a0f6a062b61b5f91a22d57a35e3d9351cc880742ec35f5",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/manifest-schema.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator-v2/metric-improvement-map.md",
+      "source_sha256": "a7c1779bcf50ba1dd3d08b8cd23a7af5895b01cbe1a5f9f46233c86fb129c66b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/metric-improvement-map.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator-v2/promotion-contracts.md",
+      "source_sha256": "720b78dc2c8a15cea0e369e14ecd244861f74c4041fa7c2f0dfcc9568f83b4e0",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/promotion-contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator-v2/promotion-stage-playbook.md",
+      "source_sha256": "16cc0fc2848867d056619f89f9df3f17a2bdeedae3622daf6209c58ca80557e9",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator-v2/recovery-and-timeout.md",
+      "source_sha256": "5bec5c49f8d451a8680b7c861d117c4e60079a4c5601bae5bea0830f5e097df2",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/recovery-and-timeout.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-rule-semantic-operator-v2/rule-workflow.md",
+      "source_sha256": "d3e48a1f8e45c476078dcfa05dcfdbbdbf456ae7fb365d08f8461c11688e8069",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/rule-workflow.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/adversarial_reviewer_checklist.md",
+      "source_sha256": "928a3d01f3aea44c42b30b529145909709481adfe58efac0b66920f96cb9675a",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-adversarial-review.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/candidate_packet_schema.json",
+      "source_sha256": "6870a95cf05a339d3626bf76572c410c1fedb69f72777bd1eab20b5999ab530e",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/discard_ledger_rules.md",
+      "source_sha256": "714f441813ea799fc138949a4400bd00460d94223cf53c43b1175fbf99724eeb",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-discard-ledger.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/graph_relationship_model.md",
+      "source_sha256": "443f725b8326325cef2a9dc296de450c2ad7ce8b79b8340388ff7fdb7101bb15",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-relationship-model.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/loop_spec.md",
+      "source_sha256": "f611c68a19cf26e0e6b8c1c6a69b6eb772e9890a1f66d716feed6635f32df4f4",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/loop_spec.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/manual_validation_checklist.md",
+      "source_sha256": "c30f359f79bf49862ddbc0f6dad8ecf2357084689212a6983e3f1322f7606fd8",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-manual-validation-checklist.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/ontology_schema.md",
+      "source_sha256": "ee87a3bb7e2241906c5a4ba69446f759c71427cedbde362096317381ea83cfe1",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-ontology.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/CHANGELOG.md",
+      "source_sha256": "265cc142eb565097e95307c621fdd98aee6279d52d6df96f88f876faae83d307",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/CHANGELOG.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/MANUAL_TESTS.md",
+      "source_sha256": "48ca1a0f5f7a5b973e02e44c312cd9e12f6e06e38b329de4214ea61ec05041a3",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/MANUAL_TESTS.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/POST_UPLOAD_CHECKLIST.md",
+      "source_sha256": "57e951ee9b55567c7714b146dd0718bcb3d664904294a1a950dc9e727cbe8e89",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/POST_UPLOAD_CHECKLIST.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/README.md",
+      "source_sha256": "a68848d20f6d41580ca6b3977acaa43f836a7afc2da43cf4476000838bb33b54",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/README.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/RELEASE_MANIFEST.md",
+      "source_sha256": "246d2bd2730914a295c9a5392db8d1f9801dbe163f4b82f7742f276fa2b0b6b4",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/RELEASE_MANIFEST.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/VALIDATION_REPORT.md",
+      "source_sha256": "75937f333b3fe10ac03568c38e6bf5cbe9bb7a7431ba72f2abdb92443b31faed",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/VALIDATION_REPORT.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/expected/sample_discard_ledger.tsv",
+      "source_sha256": "755164fc23af62b4b8c25a54d807a8cfc7c74a682619187a31a1d36eb8225e3a",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/expected/sample_discard_ledger.tsv"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/expected/sample_manual_validation.tsv",
+      "source_sha256": "6b8dd477e6aaec06ac6274b7f2ccf4ba6ff7791cf0925c9ffe1c1a3baf63b594",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/expected/sample_manual_validation.tsv"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/expected/validation_errors.json",
+      "source_sha256": "dfae9c7d0de4df4f7a2cccd3516ddc09fbce31ab7684f597ef710417c02a5ee1",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/expected/validation_errors.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/fixtures/sample_bad_packet_missing_case_ladder.json",
+      "source_sha256": "9062dc4388d7596f34c1e5f3844fefd51a81b4629335f37715c6bc041750f173",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_bad_packet_missing_case_ladder.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/fixtures/sample_bad_packet_write_status.json",
+      "source_sha256": "c96b099025a752dd231108ed6c4a5119f7b0ecd3464318a53c994a8b61d91715",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_bad_packet_write_status.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/fixtures/sample_candidate_packet_minimal.json",
+      "source_sha256": "b90bbf9d21c86e5c3dcbd6514ee93bb0f383e9481f6696fb08fb6f0e37eb725b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_candidate_packet_minimal.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/fixtures/sample_candidate_packet_rule_5_33.json",
+      "source_sha256": "b90bbf9d21c86e5c3dcbd6514ee93bb0f383e9481f6696fb08fb6f0e37eb725b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_candidate_packet_minimal.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/fixtures/sample_no_write_ledger.json",
+      "source_sha256": "f593a21b9b103ac063bf90e30adc41be6dcb4d6b95a838dd70dfc4165f0c8d97",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_no_write_ledger.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/root/tests/fixtures/sample_relationship_allowlist_violation.json",
+      "source_sha256": "aa7669cfcfd558797cc205c46e1feaf1983c94898cf502987f1664539f270214",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_relationship_allowlist_violation.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/rule_5_25_5_30_reference.md",
+      "source_sha256": "cff7b2f3f7de903ea8a0bba1a072ded9fe6aecb3c38d318fdf49657091f45335",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_5_25_5_30_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/rule_5_33_reference.md",
+      "source_sha256": "c5325c90f3bd5a0cf3500824f0bcceec12b23306104844d4b2e2448800052d14",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_5_33_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/rule_6_14_reference.md",
+      "source_sha256": "57871aff27dcfb3df57c5d622ed649fb8d962733ac9d4cd934c7eb274d78724e",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_6_14_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/rule_6_8_reference.md",
+      "source_sha256": "3d633ca92fa26e1e0be32c3c79652caac7680092f6c610c348107d3856267eb9",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_6_8_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/rule_family_routing.md",
+      "source_sha256": "91cb257e62f0ceca1095e81475479ed9ed957a6f34f308933128bbc26cb6179a",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-rule-family-routing.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/arc-subrule-pathway-discovery/subagent_handoffs.md",
+      "source_sha256": "17a6b82d3c7a53b7451e49009017dda1072af2d4a517bf8d74c47452f1829ed1",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/subagent_handoffs.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/legacy-arc-pathway-validity.md",
+      "source_sha256": "0481b9a75555271534d4c2103faf33352655728a8be459a39d3d754cbc15145f",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/legacy-arc-rule-semantic-operator-v2.md",
+      "source_sha256": "7af937c22fb137bc658e46fb12de9c0bca495c21ab9a8600aacd81b51f5f3633",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/legacy-arc-rule-semantic-operator.md",
+      "source_sha256": "3b07fb88be0dcfe490dde2bf3f935d23125f85ffa0a512c375fd89092e4932f8",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/legacy-arc-subrule-pathway-discovery.md",
+      "source_sha256": "1e4ecb93fcaf1eefbdffe1c99413598cdd723be9275aba890065d25fc10a2bff",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/legacy-pathway-bearing.md",
+      "source_sha256": "4f45a5e70257b24d1811659b83eeda708b78f0f11cab22b40e7f2ef94f63af5a",
+      "disposition": "OMITTED_ARCHIVE_PROVENANCE_BOUND_BY_SOURCE_ZIP",
+      "final_paths": [],
+      "note": "Original pipeline marks archive/pre-normalization instructions as provenance only."
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/pathway-bearing/counsel_scoring.md",
+      "source_sha256": "bf41b5039c16d70bbae3b148e3c27d6c434e461f7b69be131da08794e0c9a6b3",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/counsel_scoring.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/pathway-bearing/frozen_arc_ontology.md",
+      "source_sha256": "7080fc06304ca092a3a0949e61bdc91cde421540ecd4da64e350c04df8cc6355",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/frozen_arc_ontology.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/pathway-bearing/generic_rule_process.md",
+      "source_sha256": "f0c89bfb73c4acc201f30aaa31ff5700b7e8a626b50035ba4156039946aa8b2b",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/generic_rule_process.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/pathway-bearing/output_contracts.md",
+      "source_sha256": "98aa924ed227af6586d7e9b455941c8768a1ca2399c46505f875ba0e89c16400",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/output_contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/pathway-bearing/phase_checklists.md",
+      "source_sha256": "7adcf1d833a5438f39b73f6e399880c7176b5d25f97ada95937ac053506c3d0f",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/phase_checklists.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "archive/pre-normalization-references/pathway-bearing/unified_15_prompt_cadence.md",
+      "source_sha256": "54541c20376bc7afab9c240d6df0a8fc68e733fb72cc147b71aca3960cd80d09",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/unified_15_prompt_cadence.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "assets/arc-pathway-validity/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "assets/arc-rule-semantic-operator/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "assets/arc-rule-semantic-operator-v2/icon.svg",
+      "source_sha256": "8936b24f674a1250d999e2c2b5901374fb4240426f32bd1ae340c352a90d617d",
+      "disposition": "SUPERSEDED_UI_METADATA",
+      "final_paths": [
+        "agents/openai.yaml",
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "assets/arc-subrule-pathway-discovery/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "assets/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "assets/pathway-bearing/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/appendix-metrics.md",
+      "source_sha256": "564c85b14a26cc437bed838af2de2550701153d1acfce0169a1009a1c9fc5fc5",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-appendix-metrics.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/candidate-handoff.md",
+      "source_sha256": "da9da6999063e5c3b163a7b0b5659ee6502c4d6894da96f32101db347ca0e689",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-candidate-handoff.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/compatibility-ledger.md",
+      "source_sha256": "9177416b229f50b65855e55624778d29330f4d992a4be3343d78e7c23bfd2307",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-original-compatibility-ledger.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/graph-execution-boundary.md",
+      "source_sha256": "ee7ef2c1467d84483ffd6f6669a379f20bebef5a0b6f5d5c7b48d22cdae0d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-graph-execution-boundary.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/pathway-validity.md",
+      "source_sha256": "83abeb9e536dba8fc934364b9a1f9e730c3a53cb4fe2edcb08c995cb6c599496",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-pathway-validity.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/promotion.md",
+      "source_sha256": "c343e1e6f96bc9ee528a94dd1b5a8e5d90fd3a7b14d08aa001a75f33df1c69db",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-promotion.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/retrieval-release.md",
+      "source_sha256": "5f4c4e89bf6d0d550274998bb647f5c32cfabd8ae9f9033a6f64fb0b4266f456",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-retrieval-release.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/rollback.md",
+      "source_sha256": "15824682d5dba1467be8ec15efbb856ba3e5d1fe850d59908664bd7c7bf2c6f8",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-rollback.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/source-construction.md",
+      "source_sha256": "15d4427ab9ec27d6b0eab0ac8cdde10a065b219e70a0bd33bb1769ab061e1963",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-source-construction.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/source-provenance.md",
+      "source_sha256": "3db2338cb2de7744c9e9075b57f5345533a6b72e6c5b39a569148c4a36387703",
+      "disposition": "RETAINED_RENAMED_OR_STRENGTHENED",
+      "final_paths": [
+        "references/source-provenance.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/subrule-pathway-discovery.md",
+      "source_sha256": "088a1eb37fe04ed20764bb547ea09daa55609f71eced0fdfc2dd8590940f61fa",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-subrule-pathway-discovery.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "references/version-compatibility.md",
+      "source_sha256": "8f64e66d098b10655e2dda96d6671d7dbae0f9362ae1f79622b01c2e7069f801",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pipeline-version-compatibility.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/assets/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/references/cypher_queries.md",
+      "source_sha256": "af2d6d094225cafaeeb0c374f56b12dcd69382b629f7128fe2019448d40ae4be",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/cypher_queries.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/references/field_guide.md",
+      "source_sha256": "9f2a24ee62014e9ef1a9aee2f9c7f8104cb31bd47f58d4129ab2072d97a05c47",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/field_guide.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/references/interactive_100_turn_protocol.md",
+      "source_sha256": "bd6bcc5b8587de9f35a4227a06f9365dea39c31c40c5322b40efbb16e4f40651",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/interactive_100_turn_protocol.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/references/manual_validation.md",
+      "source_sha256": "4d38cb740bcdbbd5275cc7e5c41e373b6114f33e2c2c3deffdb07b520406df12",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/manual_validation.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/references/message_cadence_test.md",
+      "source_sha256": "1e4a72c19ea59aa4448369a322b9fd5d507aca917e0adecd485e427ac96593c1",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/message_cadence_test.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/references/setup_and_scripts.md",
+      "source_sha256": "665be1609db451a2d7396bdfc08244172400de93f5fa24c04e34871eaf5b9479",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/references/setup_and_scripts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/scripts/build_validation_plan.py",
+      "source_sha256": "666497a8a0568c0d89b619d8abcdfc6b7a2d196754ddd283c949627ab071ab93",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/scripts/build_validation_plan.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-pathway-validity/scripts/unified_message_burst.py",
+      "source_sha256": "e91e828356e3f477d31cd52fc9f6ae452000068a216616bce4fde031b80f52a7",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-pathway-validity/scripts/unified_message_burst.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/assets/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/references/manifest-schema.md",
+      "source_sha256": "890f00c253144718f4924b8e73336984e426ff2c01416608f89bb9a023d8a957",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-manifest-schema.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/references/metric-improvement-map.md",
+      "source_sha256": "fab872ef14bd1533e8995b6a1f19a7807886a515d1110b7673033ae26733eb1b",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-metric-improvement-map.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/references/promotion-contracts.md",
+      "source_sha256": "78b3557e2f9dc65934604995e45ec39a8b3e064654fd9a6fccd4bb1168393055",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-promotion-contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/references/promotion-stage-playbook.md",
+      "source_sha256": "58c7bc2db7957eeab24dfcd7b2cc108614e2cdfa83e4f887098de2b874ac5d94",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-promotion-stage-playbook.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/references/recovery-and-timeout.md",
+      "source_sha256": "5bec5c49f8d451a8680b7c861d117c4e60079a4c5601bae5bea0830f5e097df2",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/recovery-and-timeout.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/references/rule-workflow.md",
+      "source_sha256": "eae37828cccf5678460c5955a1c4b35aec8722f710b085f38d770ef88257491c",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "references/v1-semantic-rule-workflow.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/scripts/compare_appendix_runs.py",
+      "source_sha256": "99c399c2ecad4b8c77b34fec77badc326485d7dbe18b90d53d67aedb3e99ee0d",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/compare_appendix_runs.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator/scripts/validate_rule_manifest.py",
+      "source_sha256": "cb35e8ab30681b81033abea4806ef39ec5550d6845363581c5b3ef75157f6014",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-v1/validate_rule_manifest.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/assets/icon.svg",
+      "source_sha256": "8936b24f674a1250d999e2c2b5901374fb4240426f32bd1ae340c352a90d617d",
+      "disposition": "SUPERSEDED_UI_METADATA",
+      "final_paths": [
+        "agents/openai.yaml",
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/references/manifest-schema.md",
+      "source_sha256": "700c8babcfffaf00e3a0f6a062b61b5f91a22d57a35e3d9351cc880742ec35f5",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/manifest-schema.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/references/metric-improvement-map.md",
+      "source_sha256": "a7c1779bcf50ba1dd3d08b8cd23a7af5895b01cbe1a5f9f46233c86fb129c66b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/metric-improvement-map.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/references/promotion-contracts.md",
+      "source_sha256": "720b78dc2c8a15cea0e369e14ecd244861f74c4041fa7c2f0dfcc9568f83b4e0",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/promotion-contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/references/promotion-stage-playbook.md",
+      "source_sha256": "16cc0fc2848867d056619f89f9df3f17a2bdeedae3622daf6209c58ca80557e9",
+      "disposition": "RETAINED_RENAMED_OR_STRENGTHENED",
+      "final_paths": [
+        "references/promotion-stage-playbook.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/references/recovery-and-timeout.md",
+      "source_sha256": "5bec5c49f8d451a8680b7c861d117c4e60079a4c5601bae5bea0830f5e097df2",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/recovery-and-timeout.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/references/rule-workflow.md",
+      "source_sha256": "d3e48a1f8e45c476078dcfa05dcfdbbdbf456ae7fb365d08f8461c11688e8069",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/rule-workflow.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/scripts/compare_appendix_runs.py",
+      "source_sha256": "99c399c2ecad4b8c77b34fec77badc326485d7dbe18b90d53d67aedb3e99ee0d",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/compare_appendix_runs.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-rule-semantic-operator-v2/scripts/validate_rule_manifest.py",
+      "source_sha256": "8a8a29e6501b8eaef9297a7e0d636c0dfecdbbc6a880a2ae2b9af044856d728a",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/validate_rule_manifest.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/CHANGELOG.md",
+      "source_sha256": "265cc142eb565097e95307c621fdd98aee6279d52d6df96f88f876faae83d307",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/CHANGELOG.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/MANUAL_TESTS.md",
+      "source_sha256": "48ca1a0f5f7a5b973e02e44c312cd9e12f6e06e38b329de4214ea61ec05041a3",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/MANUAL_TESTS.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/POST_UPLOAD_CHECKLIST.md",
+      "source_sha256": "57e951ee9b55567c7714b146dd0718bcb3d664904294a1a950dc9e727cbe8e89",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/POST_UPLOAD_CHECKLIST.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/README.md",
+      "source_sha256": "a68848d20f6d41580ca6b3977acaa43f836a7afc2da43cf4476000838bb33b54",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/README.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/RELEASE_MANIFEST.md",
+      "source_sha256": "246d2bd2730914a295c9a5392db8d1f9801dbe163f4b82f7742f276fa2b0b6b4",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/RELEASE_MANIFEST.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/VALIDATION_REPORT.md",
+      "source_sha256": "75937f333b3fe10ac03568c38e6bf5cbe9bb7a7431ba72f2abdb92443b31faed",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/VALIDATION_REPORT.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/assets/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/adversarial_reviewer_checklist.md",
+      "source_sha256": "928a3d01f3aea44c42b30b529145909709481adfe58efac0b66920f96cb9675a",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-adversarial-review.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/candidate_packet_schema.json",
+      "source_sha256": "6870a95cf05a339d3626bf76572c410c1fedb69f72777bd1eab20b5999ab530e",
+      "disposition": "RETAINED_RENAMED_OR_STRENGTHENED",
+      "final_paths": [
+        "references/pathway-candidate-packet-schema.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/discard_ledger_rules.md",
+      "source_sha256": "714f441813ea799fc138949a4400bd00460d94223cf53c43b1175fbf99724eeb",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-discard-ledger.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/graph_relationship_model.md",
+      "source_sha256": "443f725b8326325cef2a9dc296de450c2ad7ce8b79b8340388ff7fdb7101bb15",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-relationship-model.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/loop_spec.md",
+      "source_sha256": "f611c68a19cf26e0e6b8c1c6a69b6eb772e9890a1f66d716feed6635f32df4f4",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/loop_spec.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/manual_validation_checklist.md",
+      "source_sha256": "c30f359f79bf49862ddbc0f6dad8ecf2357084689212a6983e3f1322f7606fd8",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-manual-validation-checklist.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/ontology_schema.md",
+      "source_sha256": "ee87a3bb7e2241906c5a4ba69446f759c71427cedbde362096317381ea83cfe1",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-ontology.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/rule_5_25_5_30_reference.md",
+      "source_sha256": "cff7b2f3f7de903ea8a0bba1a072ded9fe6aecb3c38d318fdf49657091f45335",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_5_25_5_30_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/rule_5_33_reference.md",
+      "source_sha256": "c5325c90f3bd5a0cf3500824f0bcceec12b23306104844d4b2e2448800052d14",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_5_33_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/rule_6_14_reference.md",
+      "source_sha256": "57871aff27dcfb3df57c5d622ed649fb8d962733ac9d4cd934c7eb274d78724e",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_6_14_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/rule_6_8_reference.md",
+      "source_sha256": "3d633ca92fa26e1e0be32c3c79652caac7680092f6c610c348107d3856267eb9",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/rule_6_8_reference.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/rule_family_routing.md",
+      "source_sha256": "91cb257e62f0ceca1095e81475479ed9ed957a6f34f308933128bbc26cb6179a",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/pathway-rule-family-routing.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/references/subagent_handoffs.md",
+      "source_sha256": "17a6b82d3c7a53b7451e49009017dda1072af2d4a517bf8d74c47452f1829ed1",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/arc-subrule-pathway-discovery/references/subagent_handoffs.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/build_conflict_matrix.py",
+      "source_sha256": "c1ae9e279f03f1d5aec871eb8bd90def778857c3e173948df07318fdce9b4eec",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/build_conflict_matrix.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/build_discard_ledger.py",
+      "source_sha256": "58d3ac39fff67d001036591c9f9d7ceb19fcff414123a0f3fc234928bb34709f",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/build_discard_ledger.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/build_exact_id_canary_packet.py",
+      "source_sha256": "41796bb960251288d758710d9ed620adb44a7ca8eee23a8ee86745642f7f1ddd",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/build_exact_id_canary_packet.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/build_manual_validation_ledger.py",
+      "source_sha256": "311c619914a3e94022f39ec82cb4f3f8d621340607d2d9b45e74737a8bd52610",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/build_manual_validation_ledger.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/build_no_write_ledger.py",
+      "source_sha256": "472b7fd770744f1785a377bf79cb7db3ae3683c0f09112bcbee94424d3107446",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/build_no_write_ledger.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/build_rule_workspace.py",
+      "source_sha256": "35f8702cf16c6142825b2b512930a441359c077cc4f6f760b3f55315c9a2f063",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/build_rule_workspace.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/check_graph_relationship_allowlist.py",
+      "source_sha256": "93d71071be23fae72a1ee165c776afaf05e13843f77462dcb070c5906f20e380",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/check_graph_relationship_allowlist.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/check_manual_validation_completeness.py",
+      "source_sha256": "d00bae12330c8f08f086e7329cd755d6c76eacde889d643b72013b97270b9f2b",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/check_manual_validation_completeness.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/check_public_verification_status.py",
+      "source_sha256": "18d258dfbbbb15251fbc2f627ba03c99a325938b0066678a03aed216d6f414d1",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/check_public_verification_status.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/package_rule_outputs.py",
+      "source_sha256": "2ad1337109a36fc7737e2101e5f374827885777bd5e6b4c935eb4038b0f86021",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/package_rule_outputs.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/self_test.py",
+      "source_sha256": "2ebbcf46d4d82968ac2e89aacfa1018c4330b184a80b7c29e2d37f1a09bbebbf",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/self_test.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/validate_candidate_packet.py",
+      "source_sha256": "178416818461f627c1cebe8a2695b91fb8f0cbec9b3525df3aeb3c14d8e545c1",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/validate_candidate_packet.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/scripts/verify_no_write_ledger.py",
+      "source_sha256": "ac76a374de0695bf0fc129df792979efcdd4c4c6eec02b844b38ca58a04b1ce9",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/pathway-discovery/scripts/verify_no_write_ledger.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/expected/sample_discard_ledger.tsv",
+      "source_sha256": "755164fc23af62b4b8c25a54d807a8cfc7c74a682619187a31a1d36eb8225e3a",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/expected/sample_discard_ledger.tsv"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/expected/sample_manual_validation.tsv",
+      "source_sha256": "6b8dd477e6aaec06ac6274b7f2ccf4ba6ff7791cf0925c9ffe1c1a3baf63b594",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/expected/sample_manual_validation.tsv"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/expected/validation_errors.json",
+      "source_sha256": "dfae9c7d0de4df4f7a2cccd3516ddc09fbce31ab7684f597ef710417c02a5ee1",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/expected/validation_errors.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/fixtures/sample_bad_packet_missing_case_ladder.json",
+      "source_sha256": "9062dc4388d7596f34c1e5f3844fefd51a81b4629335f37715c6bc041750f173",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_bad_packet_missing_case_ladder.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/fixtures/sample_bad_packet_write_status.json",
+      "source_sha256": "c96b099025a752dd231108ed6c4a5119f7b0ecd3464318a53c994a8b61d91715",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_bad_packet_write_status.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/fixtures/sample_candidate_packet_minimal.json",
+      "source_sha256": "b90bbf9d21c86e5c3dcbd6514ee93bb0f383e9481f6696fb08fb6f0e37eb725b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_candidate_packet_minimal.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/fixtures/sample_candidate_packet_rule_5_33.json",
+      "source_sha256": "b90bbf9d21c86e5c3dcbd6514ee93bb0f383e9481f6696fb08fb6f0e37eb725b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_candidate_packet_minimal.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/fixtures/sample_no_write_ledger.json",
+      "source_sha256": "f593a21b9b103ac063bf90e30adc41be6dcb4d6b95a838dd70dfc4165f0c8d97",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_no_write_ledger.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/arc-subrule-pathway-discovery/tests/fixtures/sample_relationship_allowlist_violation.json",
+      "source_sha256": "aa7669cfcfd558797cc205c46e1feaf1983c94898cf502987f1664539f270214",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/pathway-discovery/tests/fixtures/sample_relationship_allowlist_violation.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/assets/icon.svg",
+      "source_sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/references/counsel_scoring.md",
+      "source_sha256": "bf41b5039c16d70bbae3b148e3c27d6c434e461f7b69be131da08794e0c9a6b3",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/counsel_scoring.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/references/frozen_arc_ontology.md",
+      "source_sha256": "7080fc06304ca092a3a0949e61bdc91cde421540ecd4da64e350c04df8cc6355",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/frozen_arc_ontology.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/references/generic_rule_process.md",
+      "source_sha256": "f0c89bfb73c4acc201f30aaa31ff5700b7e8a626b50035ba4156039946aa8b2b",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/generic_rule_process.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/references/output_contracts.md",
+      "source_sha256": "98aa924ed227af6586d7e9b455941c8768a1ca2399c46505f875ba0e89c16400",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/output_contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/references/phase_checklists.md",
+      "source_sha256": "7adcf1d833a5438f39b73f6e399880c7176b5d25f97ada95937ac053506c3d0f",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/phase_checklists.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/references/unified_15_prompt_cadence.md",
+      "source_sha256": "54541c20376bc7afab9c240d6df0a8fc68e733fb72cc147b71aca3960cd80d09",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/references/unified_15_prompt_cadence.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/scripts/build_expected_counts.py",
+      "source_sha256": "ba0fb52f0652bb55b4221bb422b1da30eae3246098e80dd09ebb8349b6e0bb18",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/scripts/build_expected_counts.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/scripts/check_neo4j_safe_properties.py",
+      "source_sha256": "1cb295948d7006537accc7d70394ff146f82cdfea6c2d86cded5eb867de072a8",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/scripts/check_neo4j_safe_properties.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/scripts/package_handoff.py",
+      "source_sha256": "7b02b9cc842c6be60332fab116308cde9bd5ff4ab9cc3fc706f5f7ce9a11f33c",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/scripts/package_handoff.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/scripts/summarize_confidence_bands.py",
+      "source_sha256": "8bd03d975cef8f95622c5fbf6daaa653f2682db07d97fd445d75bed0165381e2",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/scripts/summarize_confidence_bands.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "pipeline",
+      "source_path": "scripts/pathway-bearing/scripts/validate_worker_handoff.py",
+      "source_sha256": "18e103cad83c2ee6522ad0f864afb6d5be6c36383f7422b7786cc5d24179ea0a",
+      "disposition": "PRESERVED_INACTIVE_PROVENANCE",
+      "final_paths": [
+        "scripts/legacy-support/pathway-bearing/scripts/validate_worker_handoff.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "SKILL.md",
+      "source_sha256": "f2bc5e580c245ac16a43ced019b2a593fddc060482d26ce9b5fa4bcfb427f087",
+      "disposition": "FOLDED_INTO_UNIFIED_CONTROL_PLANE",
+      "final_paths": [
+        "SKILL.md",
+        "references/lifecycle-router.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "agents/openai.yaml",
+      "source_sha256": "5c06cfa6ffc18e92c6c4df7b1069e74c61914b72fe126930e04b06488c8cab18",
+      "disposition": "SUPERSEDED_UI_METADATA",
+      "final_paths": [
+        "agents/openai.yaml",
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "assets/icon.svg",
+      "source_sha256": "8936b24f674a1250d999e2c2b5901374fb4240426f32bd1ae340c352a90d617d",
+      "disposition": "SUPERSEDED_UI_METADATA",
+      "final_paths": [
+        "agents/openai.yaml",
+        "assets/icon.svg"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "references/adversarial-replay-matrix.md",
+      "source_sha256": "a3697bf4424491614dec30ffdf6154080b1a367106e93b7d3f22d78e9e4a9bd4",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/adversarial-replay-matrix.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "references/concurrency-and-closure.md",
+      "source_sha256": "aaff428a1d1e0a1383a27a756bdad319a8d21b5c0c9724c889503ef51ced738a",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/concurrency-and-closure.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "references/failure-modes.md",
+      "source_sha256": "dc0b2397e548dd125eaf4c88c1f48bb0ee58ede36c77ab541c5d48aae989e0c4",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/failure-modes.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "references/output-contract.md",
+      "source_sha256": "6bddc11201119c518ee5b5158e223942fc9134570229645833da35046ed14c2c",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/output-contract.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "references/packet-contracts.md",
+      "source_sha256": "eaeaa871f2d992b23a21c2460ae0823578ebfcae7d000540bb66a8a2f8835af7",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/packet-contracts.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "references/workflow-state-machine.md",
+      "source_sha256": "f98daef722c006541024bf7e6e01446a756f09795892eb8a52015c9ba7fabd24",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "references/workflow-state-machine.md"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "scripts/adversarial_replay_fixtures.json",
+      "source_sha256": "0747642b7eb69c0872348a26a4f68d372ad9023e1c9b31fca092ce3708d1ce65",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/adversarial_replay_fixtures.json"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "scripts/run_adversarial_replay.py",
+      "source_sha256": "924b255c45b13950e8797e599ea2d199c3d8e4c4589824a0deb3f6da51df1c5b",
+      "disposition": "RETAINED_IDENTICAL",
+      "final_paths": [
+        "scripts/run_adversarial_replay.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "scripts/validate_hardening_contract.py",
+      "source_sha256": "6143d754cde6e180a758e7ed58fc667550978553a0a0d9be13fff02d5f6c2608",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/validate_hardening_contract.py"
+      ],
+      "note": ""
+    },
+    {
+      "source_package": "remediation",
+      "source_path": "scripts/validate_reconciliation.py",
+      "source_sha256": "f9a18253dca99f4fc03ea3e333f7f9f5084f472e2a52b7e85d4463118852f7b0",
+      "disposition": "SUPERSEDED_STRENGTHENED",
+      "final_paths": [
+        "scripts/validate_reconciliation.py",
+        "scripts/validate_three_book_gate.py"
+      ],
+      "note": ""
+    }
+  ],
+  "unresolved_count": 0,
+  "policy": {
+    "archive_material": "provenance_only",
+    "inactive_legacy_support": "not active routing authority",
+    "compatibility": "unenumerated material V1/V2 differences remain UNRESOLVED until classified"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.21",
+  "title": {
+    "official": "Limit on questioning",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.21   On an originating application for judicial review, no person\nmay be questioned as a witness for the purpose of obtaining a\ntranscript for use at the hearing without the Court’s permission.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "7dea5d6719fa9c12ee28d6611503ad4e49de2a307c64bf93498c7dbff8774977"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          58
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Limit on Questioning",
+      "operative_text_raw": null,
+      "operative_text_sha256": "d0c739a48134ca0bfff18d9be4e626cbb208f57932b08e803ca185d1b6cf491d",
+      "defined_terms": "Court",
+      "related_provisions": "6.8 (questioning of a witness before hearing)",
+      "commentary": "Presumably R.3.21 is read as if there were a comma after\"at the hearing\". Judicial review is conducted on the existing record, and allowing discovery or oral evidence is exceptional.\n\n*Evidence on Judicial Review*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-61",
+          "3-62"
+        ],
+        "offset_in_clean_text": [
+          193600,
+          194607
+        ]
+      },
+      "operative_text_note": "same wording as official 3.21 (read by eye) except missing spaces ('review,no'), '*' line marks, the title in title case ('Limit on Questioning') and the straight apostrophe in 'Court's'. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held a piece of this rule's note and a footnote block, printed at the top of p.3-62 (line 1630) after the rule text and before 'Defined Terms'; kept here verbatim because Book A's note is not split out and the piece begins in the middle of a sentence (its start is not in this rule's text): 'witness under R.3.21 can be asked to produce records which are specific and well-defined and shown to be relevant.Not to fish.If a document is relevant, previous drafts of it are not necessarily relevant:Robertson *v.Wasylyshen (Edm.Police Service) (#9)2004 ABQB 243, 355 AR 281.See also R.3.22n.,infra.See*Apotex v.R., R.3.22n.,infra. 2Bergman v.Innisfree (Vill.)2020 ABQB 661, JCStP 1814 00364 (Oct 29) (¶'s 37-49);M?tis Nation of Alta. *Assn.&c. v.R. (Alta.)2021 ABQB 282, JCE 2003 19580 (Apr 12) (¶'s 86-99).'",
+      "commentary_review_flag": "Read in full, p.3-61 (line 1621) to p.3-62 (line 1633): rule text, Defined Terms 'Court' (the Appendix defines 'Court', line 40688), Related Provisions and a short note; the built commentary (213 characters) is the note's last part and ends with the title of 3.22 ('Evidence on Judicial Review', line 1635); the first part of the note (from 'witness under R.3.21 can be asked ...') is in the rule-text field, kept verbatim in the text note. (1) Related Provisions '6.8 (questioning of a witness before hearing)': official 6.8 is titled 'Questioning witness before hearing' (paraphrase, same subject). (2) 'Presumably R.3.21 is read as if there were a comma after \"at the hearing\"' is Book A's reading; the official text has no comma ('for use at the hearing without the Court's permission'). (3) 'Judicial review is conducted on the existing record, and allowing discovery or oral evidence is exceptional' agrees in substance with Book C's commentary ('since the record, by the time the matter reaches a judicial review, is established. Presumptively, no additional evidence should be considered'). (4) Pointers: 'See also R.3.22n., infra' and 'See Apotex v. R., R.3.22n., infra' land (the full citation Apotex v. R. 2006 ABCA 133, 384 AR 88, leave den (SCC 12 Oct '06) is in the 3.22 note, p.3-64, line 1689); the pieces before this rule's title on p.3-61 (lines 1617-1621) belong to 3.20's note. (5) Book A's other references to this rule agree with its title and subject: 3.13(2) text '[Limit on questioning]' and related provision '3.21 (questioning on judicial review)' (p.3-31, lines 712 and 715) and 3.22(b) '[Limit on questioning]' (p.3-62, line 1636); this settles the point noted in the 3.13 pass that the label covers judicial review only. (6) Statements of law and the cases (Robertson (#9) 2004 ABQB 243, 355 AR 281 - the same neutral citation and AR citation as in Book B's 3.19 commentary; Bergman 2020 ABQB 661; the Métis Nation case 2021 ABQB 282, printed 'M?tis') were not checked."
+    },
+    "BOOK_B": {
+      "title": "Limit on questioning",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_21_001",
+        "part3_part_3_court_actions_016"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "0578fcf65a9cb57cb1b0ed30ddabb0e5431dae70d092cc9a359828820e0b49a9",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Limit on questioning",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "de4c9396aee557ca0cea37b2e55013d1ea5f8bdcf2b5d3d609867ef6cb536c44",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This is a common sense rule, since the record, by the time the matter reaches a judicial review, is established. Presumptively, no additional evidence should be considered on review.",
+          "citations": []
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.406,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.21 (read by eye) except missing spaces ('review,no'), '*' line marks, the title in title case ('Limit on Questioning') and the straight apostrophe in 'Court's'. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. The dropped raw text also held a piece of this rule's note and a footnote block, printed at the top of p.3-62 (line 1630) after the rule text and before 'Defined Terms'; kept here verbatim because Book A's note is not split out and the piece begins in the middle of a sentence (its start is not in this rule's text): 'witness under R.3.21 can be asked to produce records which are specific and well-defined and shown to be relevant.Not to fish.If a document is relevant, previous drafts of it are not necessarily relevant:Robertson *v.Wasylyshen (Edm.Police Service) (#9)2004 ABQB 243, 355 AR 281.See also R.3.22n.,infra.See*Apotex v.R., R.3.22n.,infra. 2Bergman v.Innisfree (Vill.)2020 ABQB 661, JCStP 1814 00364 (Oct 29) (¶'s 37-49);M?tis Nation of Alta. *Assn.&c. v.R. (Alta.)2021 ABQB 282, JCE 2003 19580 (Apr 12) (¶'s 86-99).'"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.21",
+      "title_official": "Limit on questioning"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "d0c739a48134ca0bfff18d9be4e626cbb208f57932b08e803ca185d1b6cf491d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-61",
+            "3-62"
+          ],
+          "offset_in_clean_text": [
+            193600,
+            194607
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "0578fcf65a9cb57cb1b0ed30ddabb0e5431dae70d092cc9a359828820e0b49a9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "de4c9396aee557ca0cea37b2e55013d1ea5f8bdcf2b5d3d609867ef6cb536c44",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "7dea5d6719fa9c12ee28d6611503ad4e49de2a307c64bf93498c7dbff8774977",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            58
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e5d8fa458b74f1ae5af2c3d3c863431f1726bb114c953f63b31a509df96ecb35"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): BOOK_B rule3_part01_document.json (3.13 text 'Subject to rule 3.21') and rule3_part02_document.json (3.22(b) text); no other Book B file cites 3.21 by number. BOOK_C 101-120 file (3.13(2) text with the label '[Limit on questioning]') and 301-320_6_5 to 6_16.json (a 6.7/6.8 commentary: 'absent an abuse of process or specific rule to the contrary (such as rule 3.21), there is no objection to examining an opposing party under this rule'). BOOK_B 3.21: rule text only (paragraph part3_part_3_court_actions_016), equal to the official; no commentary, no amendment note; the next paragraph is the running head for Subdivision 2. BOOK_C 3.21: rule text EXACT_MATCH; amendment note '[Alta. Reg. 124/2010, r. 3.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010'; one commentary item (182 characters, complete) kept: 'This is a common sense rule, since the record, by the time the matter reaches a judicial review, is established. Presumptively, no additional evidence should be considered on review.'",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): combined rule1.txt p.1-35 (line 1791) '... Operative Plasterers' and Cement Masons' Int. Assn. v. R. 2007 ABQB 34, 413 AR 184, and R.3.21' (same case as Book B's 3.19 commentary); 3.13(2) text p.3-31 (line 712) 'Subject to rule 3.21 [Limit on questioning]' and related provision (line 715) '3.21 (questioning on judicial review)'; 3.20 note p.3-61 'On trying to add to it, see R.3.21 and notes'; 3.22 text p.3-62 (line 1636) '[Limit on questioning]'; 3.22 note p.3-63 (line 1670) 'See also R.3.21n.', p.3-64 (lines 1687, 1695, 1698, 1702) 'See Milner Power and Operative Plasterers' decisions, supra, and R.3.21', 'On conducting examinations to supplement the record, see R.3.21. There is no automatic right to use R.6.8 to examine witnesses', 'permission is given. See R.3.21. It would be wise to get the permission before arguing or adducing the evidence', 'See R.3.21' (all in the built 3.22 record; not read in full in this pass).",
+    "OFFICIAL text (searched for 'rule 3.21', 'rules 3.21', lists, line-wrapped forms and form headings): 6.7(2) ('Subject to rule 3.21, a person may be questioned under oath as a witness for the purpose of obtaining a transcript ...') and 3.22(b) ('if questioning was permitted under rule 3.21, a transcript of that questioning'); no form heading names 3.21. By subject (read): 6.7 and 6.8 (questioning on affidavit; questioning witness before hearing), 3.13 (questioning on affidavit and questioning witnesses), 3.22 (evidence on judicial review), 3.20 and 3.19 (record)."
+  ],
+  "dedupe_log": [
+    "3.21 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.21 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.21 BOOK_C commentary sentence split dropped",
+    "3.21 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.21 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

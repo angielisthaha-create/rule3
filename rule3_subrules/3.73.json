@@ -1,0 +1,228 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.73",
+  "title": {
+    "official": "Incorrect parties not fatal to actions",
+    "variants": {}
+  },
+  "division": {
+    "number": 6,
+    "heading": "Refining Claims and Changing Parties"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Joining and Separating Claims and Parties"
+  },
+  "operative_text": {
+    "controlling": "3.73(1)  No claim or action fails solely because\n(a) 2 or more parties join in an action that they should not\nhave joined,\n(b) 2 or more parties do not join an action that they could or\nshould have joined, or\n(c) a party was incorrectly named as a party or was\nincorrectly omitted from being named as a party.\n(2)  If subrule (1) applies, a judgment entered in respect of the\naction is without prejudice to the rights of persons who were not\nparties to the action.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "3f6db68d4d6c4cc4ffec2c70b31228a65b4fd9581af4036845b94b78f3eaea78"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.73 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*\n\nSubdivision 2: CHANGES TO PARTIES"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          79,
+          80
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "989ad7ba3d5e1118ba0c35db694ed79c48c5f69cc0c17a4c7772439f467f97da",
+      "defined_terms": "claim, judgment, party Lack of proper parties is usually a ground to add them, not a ground to refuse the substantive Joining an unsuitable co-plaintiff is no ground to dismiss the suit, and if the right one relief sought. is there, the wrong co-plaintiff should just be struck out and disregarded. If a suit is timely begun against a group of people who are not a separate legal person (such as a trade union) in the usual name of that group, the court can later substitute some members of that group as representative defendants, even if in the meantime the limitation period to sue expires.The lawsuit as originally framed is not a nullity, especially if the union defended on the merits and fully participated in discovery.The concept of nullity's proper range is very narrow, especially in light of the aims of modern Rules.Nullity should be used only in cases of prejudice or unfairness. Changing a defendant \"John Doe\"to the person's real name is not misnomer;it is correcting a pseudonym. Adding an additional defendant is not hard if the limitation period has not expired. But an additional plaintiff (or plaintiff by counterclaim) will not be added if it is completely clear that he or she has no arguable cause of action. Despite a motion to strike out part of a statement of claim a plaintiff can validly sue anyone for an actionable wrong, even if that person was working for someone else atthe relevant time.If an individual employee himself owed a duty of care to a customer, the customer could sue him for a breach of that duty.Such a suit is possible if the employee's conduct was itself a tort, or if his actions exhibited a separate identity or interest from that of the employer. Commentary on changing parties is found after R.3.74. 2Patterson v. C.P.R.(CA) [1917] 1WWR 1154, 10 Alta LR 408;Re Indian Residential Sch.2002 ABQB 667, [2003] 3WWR 521;Finkbeiner v.Finkbeiner(M) 2009 ABQB 765 (Dec 28);Condo. Corp.#022 5840 *(Executive Lofts Condo.Corp.) v. Executive Loft(M) 2010 ABQB 232, 491 AR 281 (acts merely as a 833. *Subdivision 2 Changes to Parties *Adding,Removing or Substituting Parties After Close of Pleadings 1For some history, seeStratum Projects Alta.v. Aman Bldg.Corp.(M) 2017 ABQB 351, [2017] 12WWR *",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-230",
+          "3-231"
+        ],
+        "offset_in_clean_text": [
+          777561,
+          780281
+        ]
+      },
+      "operative_text_note": "same wording as official 3.73(1)-(2) (read by eye) except: the text is printed in pieces ((1) lead-in at p.3-230 line 7505, (a)-(2) lead-in at line 7506, the end of (2) at line 7507); the footnote marker '1' after (2); the title in title case ('Incorrect Parties Not Fatal to Actions', printed at p.3-230 line 7498, before the text, after the 3.72 note); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference. The raw text held only the rule text and the marker. This rule's history footnote 1 ('Quite similar to previous 1968 R.38 pt., 40. It stemmed from the Chancery Procedure Act 1852 s.49, via 1883 O.16 r.11, Judic.Ord.r.35, 1914 R.28(1), and 1944 C.R.61(1). This reverses the common law.') is printed with the note footnotes 2-6 at p.3-230 (lines 7501-7503) in the built 3.72 record and is kept there; the history matches Book B's 'former Rule 40'.",
+      "commentary_review_flag": "Read in full, p.3-230 (line 7505) to p.3-231 (line 7525): rule text, Defined Terms 'claim, judgment, party' and the note (one continuous run of paragraphs, without lettered headings) with footnotes as printed; no Related Provisions or Information Note. The built record: the Defined Terms, the whole note and the pieces that follow it are all in the defined_terms field (no related_provisions or commentary field): the note (p.3-230 lines 7507-7517, the closing line 'Commentary on changing parties is found after R.3.74'), footnote 2 (the case list 'Patterson v. C.P.R. ...', p.3-231 line 7524), the line '833.' (line 7525, the tail of 3.74's footnote 1: Stratum Projects [2017] 12 WWR 833, corrected in the 3.74 pass), the Subdivision 2 heading and the title of 3.74 (line 7527) and 3.74's footnote 1 (Stratum Projects, line 7528). Nothing was dropped. The extraction interleaves the columns and footnotes so some sentences are split (e.g. 'Lack of proper parties is usually a ground to add them, not a ground to refuse the substantive' at line 7507 is completed by 'relief sought.' after the next sentence's opening; the parenthesis 'acts merely as a' in footnote 2 breaks off at line 7524 and the line '833.' is the tail of the Stratum Projects citation in 3.74's footnote 1); the wording is kept as printed. (1) Statements read against the official text: 'Lack of proper parties is usually a ground to add them, not a ground to refuse the substantive relief sought' agrees with 3.73(1)(b)-(c) ('No claim or action fails solely because ... parties do not join ... or a party was incorrectly named'); 'Joining an unsuitable co-plaintiff is no ground to dismiss the suit ... the wrong co-plaintiff should just be struck out' agrees with 3.73(1)(a); the paragraph on substituting representative defendants for a trade union after the limitation period and 'nullity', 'John Doe' as a pseudonym, and an additional plaintiff or plaintiff by counterclaim being refused only where there is 'no arguable cause of action' are case-law statements that are not in 3.73 (3.74 is cited for changing parties); 'Despite a motion to strike out part of a statement of claim a plaintiff can validly sue anyone for an actionable wrong, even if that person was working for someone else' is a case-law statement not in 3.73. (2) Footnotes: the history footnote 1 (1968 R.38 pt., 40; 1852 s.49; 1883 O.16 r.11; Judic.Ord.r.35; 1914 R.28(1); 1944 C.R.61(1); 'This reverses the common law') is in the 3.72 record; the marker '1' follows (2). Footnote 2 has its marker in the 3.72 record at line 7499 ('2R.3.73 says that, and in effect, most of the cases cited in the following pages so hold. See also Kopr v. Kopr 2006 ABQB 405, 403 AR 29'), and the case list on p.3-231 (line 7524) is footnote 2 of that page; footnotes 3-6 (Wong v. Chambers 2009 ABQB 57; Int. B'hood of Elec. Workers v. Lawrence 2017 ONCA 321, affd & adopted 2018 SCC 11, [2018] 1 SCR 267; Anglin v. Pankiw (#1) 2022 ABCA 362; Abel Computers v. Magnus 1998 ABQB 1106, 240 AR 392) are printed at p.3-230 lines 7501-7503 in the 3.72 record, and footnotes 7 and 8 ('7Cormode & Dickson Constr. (1983) v. 394300 Alta. 2008 ABQB 607. 8Harsch v. Sask. Govt. Ins. 2021 SKCA 159 ...; Bhagaloo v. M2 Constr. & Dev. 2021 SKCA 168 ...') are printed at line 7497, before the title, also in the 3.72 record: p.3-230 has no other note text before line 7505, so its footnotes 1-8 all belong to this rule's page, but the markers 3-8 are not identified in the printed text of the note (pairing by number only). The case list at p.3-231 line 7524 ('2Patterson v. C.P.R. ...') is numbered 2 in the footnote sequence of p.3-231, the page whose running head is 'R.3.74(1)' (line 7522) and whose other footnote, 1 (Stratum Projects, line 7528), is 3.74's; the marker '2' is not identified in the printed text, so the owner of that list is 3.74's note by page (the 3.73 note ends on p.3-230 at line 7517 and the only note text on p.3-231 is 3.74's, lines 7537-7538; see the 3.74 flag), although the built 3.73 record carries it. (3) Cross-references: 'Commentary on changing parties is found after R.3.74' (lands: the 3.74 note is Book A's commentary on changing parties, read in the 3.74 pass); combined rule1.txt p.1-24 line 1173 (in the note to 1.5(6)) '- rule 3.73 [Incorrect parties are not fatal to actions]' (the official title is 'Incorrect parties not fatal to actions', 'are' added) and p.1-25 line 1192 (Related Provisions of 1.5) '3.73 (incorrect parties)' (paraphrase); combined rule14.txt p.14-236 line 12495 (running head R.14.75(2), the note's item '7. Miscellaneous' on interveners): 'On what questions an intervener may raise, see notes to Rr.3.73 to 3.75' (a range that includes 3.73 without naming it alone); official text: table of contents (line 501) and the rule (line 5402; (1) on pdf p.79, (2) on pdf p.80 after the p.80 header); Book A's own text: the running head 'R.3.73(1)' (p.3-230 line 7496), the note-footnote sentence '2R.3.73 says that, and in effect, most of the cases cited in the following pages so hold' (line 7499) and the rule text (line 7505); searched combined rule3.txt, combined_rule2.txt to combined_rule15.txt, combined rule1.txt, Alberta_Rules_of_Court.txt, all Book B and Book C files for '3.73' and for ranges written 'X to Y': no other pointer. (4) The cases (Patterson v. C.P.R. (CA) [1917] 1 WWR 1154, Re Indian Residential Sch. 2002 ABQB 667, Finkbeiner v. Finkbeiner 2009 ABQB 765, Condo. Corp. #022 5840 (Executive Lofts) 2010 ABQB 232, Kopr v. Kopr 2006 ABQB 405, 336239 Alta. v. Mella 2016 ABQB 190, Wong v. Chambers, IBEW v. Lawrence, Anglin v. Pankiw, Abel Computers v. Magnus) were not checked; the union/limitation, 'John Doe' and employee-duty paragraphs name no case in the printed lines."
+    },
+    "BOOK_B": {
+      "title": "Incorrect parties not fatal to actions",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.73:1",
+          "text": "Rule 3.73 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.73. In Charleston Estate v. RIC New Brunswick Inc., 2015 ABQB 306 (Master), Master Robertson said: 47 This Rule is differently worded than its predecessor, former Rule 40, which said, “Where it appears that an action is defective for want of parties, the Court may render judgment saving the rights of all persons not parties.” It may be that the current Rule, more detailed than its predecessor, was intended to have a more broad-reaching effect. …"
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_73_001",
+        "part3_part_3_court_actions_006",
+        "part3_rule_3_73_002",
+        "part3_part_3_court_actions_008"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "80621c350c8320b01cc897f3f59dfb574b8477b439a97c42dea524a19016f99f",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Incorrect parties not fatal to actions",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "3bdab0049358db9de5c20145dcb395edb82a92316018e8ac2b3bdf033f95e3e2",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "161-180_3_67 to 4_7.json",
+        "source_file": "161-180_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): in (1)(a) and (1)(b) the number '2' is missing ('[ ] or more parties join in an action', '[ ] or more parties do not join an action') and this citation stands in each place: 'C. (L.) v. Alberta (Metis Settlements Child & Family Services, Region 10), [2011] A.J. No. 36, 2011 ABQB 12 at para. 103 (Alta. Q.B.).'; (1)(c) and (2) equal the official text. The amendment note '[Alta. Reg. 124/2010, r. 3.73 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Subdivision heading 'Subdivision 2: CHANGES TO PARTIES' printed after the amendment note is the official Subdivision 2 'Changes to Parties' (it heads 3.74). No commentary is printed for 3.73 in Book C.",
+      "citations_note": "C. (L.) v. Alberta, 2011 ABQB 12 (para. 103) is not a 3.73 authority: it stands where the number '2' is lost, twice, in 3.73(1)(a) and (b) (the same displacement as in Book C's 3.69 to 3.72 entries; see the 3.69 citation note)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8485,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.73(1)-(2) (read by eye) except: the text is printed in pieces ((1) lead-in at p.3-230 line 7505, (a)-(2) lead-in at line 7506, the end of (2) at line 7507); the footnote marker '1' after (2); the title in title case ('Incorrect Parties Not Fatal to Actions', printed at p.3-230 line 7498, before the text, after the 3.72 note); missing spaces and '*' line marks. No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference. The raw text held only the rule text and the marker. This rule's history footnote 1 ('Quite similar to previous 1968 R.38 pt., 40. It stemmed from the Chancery Procedure Act 1852 s.49, via 1883 O.16 r.11, Judic.Ord.r.35, 1914 R.28(1), and 1944 C.R.61(1). This reverses the common law.') is printed with the note footnotes 2-6 at p.3-230 (lines 7501-7503) in the built 3.72 record and is kept there; the history matches Book B's 'former Rule 40'."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7818,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.73",
+      "title_official": "Incorrect parties not fatal to actions"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "989ad7ba3d5e1118ba0c35db694ed79c48c5f69cc0c17a4c7772439f467f97da",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-230",
+            "3-231"
+          ],
+          "offset_in_clean_text": [
+            777561,
+            780281
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "80621c350c8320b01cc897f3f59dfb574b8477b439a97c42dea524a19016f99f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "3bdab0049358db9de5c20145dcb395edb82a92316018e8ac2b3bdf033f95e3e2",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "161-180_3_67 to 4_7.json",
+          "source_file": "161-180_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "3f6db68d4d6c4cc4ffec2c70b31228a65b4fd9581af4036845b94b78f3eaea78",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            79,
+            80
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "87af7d9f7ee8dfc5e9d90ea134ba51d8e469ad83c8cf6189418e0d01c5c05ed8"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.73 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.73 BOOK_C citation context dropped (2011 ABQB 12): verbatim in kept text",
+    "3.73 BOOK_C: rule text dropped (manual review)",
+    "3.73 BOOK_C: displaced citations dropped ['2011 ABQB 12'] (manual review)",
+    "3.73 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.73 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

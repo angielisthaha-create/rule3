@@ -1,0 +1,241 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.7",
+  "title": {
+    "official": "Amendments to pleadings in class proceedings",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.7   After a certification order is made under the Class\nProceedings Act, a party may amend a pleading only with the\nCourt’s permission.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "a8d974f3d97966e3f86c941975ef1e92c034fb31d6e4285b15a0b98ea6b53349"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          38
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Amendments to Pleadings in Class Proceedings",
+      "operative_text_raw": null,
+      "operative_text_sha256": "602c97a8970a1c78dee8afecdcb04bc2e5474252c715a2f73f42f5600e89e256",
+      "related_provisions": "3.62(b) (amending pleadings) ; 3.68 (deficiencies in claims) ; 13.11 (style of cause).",
+      "commentary": "There are relevant textbooks.¹\nAll necessary defendants should be added and amendments made to the statement of claim,\nbefore the class action is certiﬁed.²",
+      "footnotes": [
+        {
+          "page": "2-7",
+          "number": 11,
+          "text": "Quite similar to previous 2004 R.41.3. It was ﬁrst enacted by Alta. Reg.238/04."
+        },
+        {
+          "page": "2-8",
+          "number": 1,
+          "text": "See Eizenga, Class Actions Law and Practice (Butterworths Lexis looseleaf) ; Piché, Fairness in Class Action Settlements (Carswell 2011) ; Branch and Good, Class Actions in Canada (2nd ed. with legal, looseleaf) ; Jones, Theory of Class Actions (Irwin 2003) ; McCarthy Tétrault, Defending Class Actions in Canada (4th ed. Irwin 2015)."
+        },
+        {
+          "page": "2-8",
+          "number": 2,
+          "text": "Class Proceedings Act, s.6; T. L. v. Dir. of Child Welfare (2006), supra; C. H. S. v. Dir. of Child Welfare, infra.",
+          "review_flag": "short-form cases resolved from Book A itself: T. L. v. Dir. of Child Welfare = 2006 ABQB 104, 395 AR 327 (first full cite at 2.9, combined_rule2.txt line 440 - so Book A's 'supra' points the wrong way; T. L. (#2) 2008 ABQB 114 at p.2-9 fn 10 is a different decision). C. H. S. v. Dir. of Child Welfare 'infra' - corrected in 4th pass: Book A later cites THREE C. H. S. decisions (2008 ABQB 513, 452 AR 66 at 2.8 fn 3, p.2-9; 2006 ABQB 528, 403 AR 103 in 2.9's footnotes, line 862; (#2) 2008 ABQB 620, 452 AR 98 at 2.11, line 1563), so which one is meant is not certain; 'infra' is right for all three."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          238,
+          273
+        ],
+        "book_pages": [
+          "2-7",
+          "2-8"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Amendments to pleadings in class proceedings",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_017",
+        "part2_rule_2_7_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_018"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "e801d0a4c9adff1b8d5844c4bb4a63c7b5e5f38f7b4f7ec90c2ee8a7007b5cfa",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Amendments to pleadings in class proceedings",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "e7f767b4497192585e31f851537611bac289c31dc4906de9a1df86da5a53f233",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same wording as the official text, except an editorial statute citation inserted after the Act name ('S.A. 2003, c. C-16.5') and a stray comma. No substantive difference; the citation is also in Book A (2.9 fn 9) and Book B commentary."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.8333,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.7",
+      "title_official": "Amendments to pleadings in class proceedings"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "602c97a8970a1c78dee8afecdcb04bc2e5474252c715a2f73f42f5600e89e256",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            238,
+            273
+          ],
+          "book_pages": [
+            "2-7",
+            "2-8"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "e801d0a4c9adff1b8d5844c4bb4a63c7b5e5f38f7b4f7ec90c2ee8a7007b5cfa",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "e7f767b4497192585e31f851537611bac289c31dc4906de9a1df86da5a53f233",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "a8d974f3d97966e3f86c941975ef1e92c034fb31d6e4285b15a0b98ea6b53349",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            38
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "54214f9e8f5e146f33652527cac3e64af7462d4b8d48d2103b349b4a53bc8d0c"
+  },
+  "information_notes": [
+    {
+      "text": "Rule 13.11 [Pleadings: specific requirements for class proceedings] describes how class\nproceedings must be titled.",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ]
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A; 7th pass): R.3.62 information note (p.3-135): 'Rule 2.7 ... says that after a certification order is made in a class proceeding, pleadings' may be amended only with permission (agrees with official 2.7 and 3.62(6)); listed under R.3.62 (p.3-135), R.3.74 (p.3-231) and R.13.11 (p.13-45).",
+    "Official, by subject (6th pass): rule 3.62(6) - the general amendment rule 'does not apply to amendments to a class proceeding under the Class Proceedings Act'; that is the gap 2.7 fills. (BOOK_A's related-provision label '3.62(b)' matches no top-level subrule of 3.62; the clause is 3.62(1)(b), and 3.62(6) is the one that speaks to class proceedings.)",
+    "Rule 2.9: BOOK_A's 2.9 commentary, Part G (combined_rule2.txt line 847): 'See also R.2.7 and notes.'",
+    "Rule 13.11 (style of cause in class proceedings) - BOOK_A and BOOK_C information note; related provisions 3.62(b) (amending pleadings) and 3.68 (deficiencies in claims)."
+  ],
+  "dedupe_log": [
+    "2.7 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.7 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.7 BOOK_C information note merged into BOOK_A copy",
+    "2.7 BOOK_C: rule text dropped (manual review)",
+    "2.7 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

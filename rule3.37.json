@@ -1,0 +1,1810 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.2.0_CERTIFIED",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T12:45:00Z",
+      "source_manifests": [
+        "05155.rtf",
+        "05153.rtf",
+        "05162.rtf",
+        "05154.rtf",
+        "05159.rtf",
+        "05160.rtf",
+        "05157.rtf",
+        "05156.rtf",
+        "05158.rtf",
+        "05161.rtf",
+        "05164.rtf",
+        "05163.rtf",
+        "page_0094.rtf",
+        "page_0095.rtf",
+        "page_0098.rtf",
+        "page_0096.rtf",
+        "page_0099.rtf",
+        "page_0097.rtf",
+        "page_0100.rtf",
+        "page_0103.rtf",
+        "page_0101.rtf",
+        "page_0104.rtf",
+        "page_0105.rtf",
+        "page_0108.rtf",
+        "page_0107.rtf",
+        "page_0109.rtf",
+        "page_0102.rtf",
+        "page_0110.rtf",
+        "page_0106.rtf"
+      ],
+      "node_count": 23,
+      "relationship_count": 32,
+      "consolidated_references": {
+        "case_law_citations": [
+          "McElroy v. Cowper-Smith, [1967] S.C.R. 425",
+          "Spiller v. Brown, [1973] 6 W.W.R. 663 (Alta. C.A.)",
+          "Boyer v. Boyer, 2024 ABKB 727",
+          "TLA Food Services Ltd. v. 1144707 Alberta Ltd., 2011 ABQB 550",
+          "Argent v. Gray, 2015 ABQB 292",
+          "Makowichuk v Makowichuk, 2013 ABCA 439",
+          "Clarke v. Deranger, 2006 ABQB 442",
+          "Fenske v. Schneider, 2007 ABQB 164",
+          "Capital One Bank v. Calhoun, 2007 ABQB 151",
+          "Sorochan v. St. Albert Protestant Sep. S.D., 2001 ABQB 1063",
+          "Signature Finance Ltd. v. Golden Key Rental Co. (1982), 38 A.R. 495",
+          "Hunt v. Hunt, [1955] SCR 8",
+          "Eyben v. K.R. Ranches (1970) Ltd. (1982), 20 Alta. L.R. (2d) 270",
+          "Elgert Fertilizers Ltd. v. Schmitz (1985), 36 Alta. L.R. (2d) 327 (Master)",
+          "Yaremchuk v Haight, 2001 ABCA 7",
+          "Moose Mtn. Buffalo Ranch v. Greene Farms Drilling, 2009 ABQB 489",
+          "Issa v. BMB, 2024 ABKB 159",
+          "Anglin v. Resler (#2), 2022 ABKB 737",
+          "Bugg v. Beau Can. Expl., 2006 ABCA 201"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court - Part 3, Division 3, Subdivision 4"
+        ],
+        "manifest_references": [
+          "05153.rtf",
+          "05154.rtf",
+          "05155.rtf",
+          "05156.rtf",
+          "05157.rtf",
+          "05158.rtf",
+          "05159.rtf",
+          "05160.rtf",
+          "05161.rtf",
+          "05162.rtf",
+          "05163.rtf",
+          "05164.rtf",
+          "page_0095.rtf",
+          "page_0096.rtf",
+          "page_0097.rtf",
+          "page_0098.rtf",
+          "page_0099.rtf",
+          "page_0100.rtf",
+          "page_0101.rtf",
+          "page_0109.rtf"
+        ]
+      },
+      "tactical_play_count": 2,
+      "countermeasure_count": 3
+    },
+    "nodes": [
+      {
+        "node_id": "fp-r3-37-deemed-admission-of-facts",
+        "node_type": "FoundationalPillar",
+        "label": "Deemed Admission of Pleaded Facts",
+        "description": "The core principle that a defendant noted in default or whose defence is struck is deemed to have admitted the allegations of fact contained in the Statement of Claim. This relieves the plaintiff of the burden of proving liability.",
+        "source_sentence_ids": [
+          "05156.rtf#para3",
+          "05154.rtf#para2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A defendant who is noted in default is deemed to have admitted the allegations of fact contained in the Statement of Claim.",
+              "source_reference": "05156.rtf#§3.37:1-para3"
+            },
+            {
+              "text": "The effect of [noting in default] is … to deem the allegations made to be proven.",
+              "source_reference": "05154.rtf#§3.36:1-para2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.37"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is the plaintiff's primary weapon in default proceedings. It shifts the entire legal battleground from liability to quantum of damages, dramatically reducing the cost and complexity of obtaining judgment.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Ensure the Statement of Claim is meticulously drafted to plead every material fact necessary to establish the cause of action, as these facts will be taken as proven.",
+            "Defensive (Defendant): The only way to challenge the admitted facts is to apply to set aside the noting in default under Rule 9.15. This must be done promptly.",
+            "Strategic Consideration: This pillar makes default judgment a powerful tool for resolving clear-cut claims against non-responsive defendants efficiently."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "McElroy v. Cowper-Smith, [1967] S.C.R. 425",
+              "proposition": "Supreme Court of Canada authority establishing that in Alberta, a defendant in default is taken to have admitted the facts in the statement of claim."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-37-cause-of-action-gatekeeper",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Court's Duty to Verify Cause of Action",
+        "description": "A critical exception to the deemed admission rule. The court is not a rubber stamp and retains a duty to examine the pleadings to ensure the admitted facts actually establish a valid cause of action before granting judgment.",
+        "source_sentence_ids": [
+          "05156.rtf#para12-sub2",
+          "05154.rtf#para3-sub2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Before granting default judgment the Court must still inquire as to whether a cause of action is made out in the Statement of Claim, and may direct a hearing on the matter;",
+              "source_reference": "05156.rtf#§3.37:1-para24-sub2"
+            },
+            {
+              "text": "There is, however, an exception... that where the court is not satisfied that the plaintiff has a cause of action, the Court has a duty to direct a hearing to determine the matter.",
+              "source_reference": "05154.rtf#§3.36:1-para3-sub2"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.37(3)(e)"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a safety valve against abuse of the default judgment process. It serves as a shield for the court's integrity and a potential last-ditch defense for a defaulted defendant if the plaintiff's claim is legally baseless, even if the facts are admitted.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): When applying for default judgment, the legal brief must connect the (deemed admitted) facts to the elements of the legal cause of action to satisfy the court.",
+            "Defensive (Defendant): A defaulted defendant, even without filing a defence, could theoretically argue at a damages assessment hearing that the pleaded facts do not constitute a valid cause of action.",
+            "Judicial Discretion: This rule empowers the court to dismiss a claim under R. 3.37(3)(e) even against a defaulted defendant if the claim is legally untenable."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Spiller v. Brown, [1973] 6 W.W.R. 663 (Alta. C.A.)",
+              "proposition": "Establishes the exception that where the court is not satisfied the plaintiff has a cause of action, it has a duty to direct a hearing."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-36-plaintiffs-default-options",
+        "node_type": "ControlMechanism",
+        "label": "Plaintiff's Choice: Note in Default or Enter Judgment",
+        "description": "Rule 3.36(1) grants the plaintiff a strategic choice upon a defendant's failure to defend: (a) directly enter judgment for specific claims (debt, property), or (b) note the defendant in default, which is a prerequisite for seeking judgment on unliquidated claims.",
+        "source_sentence_ids": [
+          "05153.rtf#para1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the plaintiff may, on filing an affidavit of service of the statement of claim, (a) enter judgment against the defendant under rule 3.38 or 3.39, or (b) require the court clerk to enter in the court file of the action, in Form 14, a note to the effect that the defendant has not filed a statement of defence or demand for notice and consequently is noted in default.",
+              "source_reference": "05153.rtf#r3.36(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.36(1)"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This rule provides procedural flexibility. For simple, calculable claims (liquidated demands), it offers an expedited path to judgment. For complex claims (unliquidated damages), it establishes the necessary procedural foundation ('noting in default') for a subsequent application to the Court.",
+          "litigation_implications": [
+            "Liquidated Claim Tactic: If the claim is for a specific sum under a contract (R. 3.39), choose option (a) to enter judgment directly with the clerk, bypassing a court hearing.",
+            "Unliquidated Claim Tactic: If the claim is for damages that require assessment (e.g., personal injury), choose option (b) to note the defendant in default. This is a mandatory first step before applying for judgment under R. 3.37.",
+            "Cost: Choosing option (a) is faster and cheaper as it avoids a court application."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-39-liquidated-demand-judgment-framework",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Judgment for Debt or Liquidated Demand",
+        "description": "Rule 3.39 provides a self-contained, expedited process for a plaintiff to obtain default judgment without a court hearing when the claim is for a 'debt or a liquidated demand'—a specific, calculable sum.",
+        "source_sentence_ids": [
+          "05159.rtf#para1",
+          "05159.rtf#para2"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a statement of claim includes a claim for a debt or a liquidated demand... the plaintiff (a) may enter judgment for a sum not exceeding the amount in respect of which no defence is filed...",
+              "source_reference": "05159.rtf#r3.39(1)"
+            },
+            {
+              "text": "In this rule, “liquidated demand” means (a) a claim for a specific sum payable under an express or implied contract... where the amount of money claimed can be determined by (i) the terms of the contract, (ii) calculation only, or (iii) taking an account...",
+              "source_reference": "05159.rtf#r3.39(2)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.39"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This framework is a weapon of efficiency. It allows creditors and parties with clear contractual claims to bypass the time and expense of a court application, securing judgment quickly and cheaply against a non-defending party.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Structure the Statement of Claim to clearly articulate a debt or liquidated demand, referencing the contract or statute that allows for simple calculation. This unlocks the R. 3.39 fast-track.",
+            "Defensive (Defendant): To challenge a default judgment under this rule, the defendant must argue the claim was not truly 'liquidated' and required judicial assessment, making the direct entry of judgment improper.",
+            "Cost Weapon: The speed and low cost of this process can be used to apply significant pressure on a debtor who is ignoring the litigation."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "FAST Ind. v. Sparta Eng., 2017 ABQB 240",
+              "proposition": "A liquidated debt is one whose amount can be found by calculation or fixed by positive data, not by opinion, assessment, or what is reasonable. Damages are not liquidated."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-40-alternative-liability-election-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Election in Cases of Alternative Liability",
+        "description": "A critical and dangerous trap. If two defendants are liable only in the alternative (e.g., principal and agent), taking default judgment against one constitutes a binding legal election, permanently barring the plaintiff from pursuing the other defendant.",
+        "source_sentence_ids": [
+          "page_0109.rtf#para1-sub5"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If two defendants are alternatively liable, a plaintiff who signs judgment against one elects to abandon the claim against the other. One example of such alternative liability is (or was) when principal and agent are the two defendants.",
+              "source_reference": "page_0109.rtf#para1-sub5"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.40 Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a procedural landmine for plaintiffs. A single misstep—taking an easy default judgment against a non-defending party—can inadvertently extinguish a more valuable claim against a solvent, defending party.",
+          "litigation_implications": [
+            "Offensive (Defendant): If you represent one of two alternatively liable defendants, and the plaintiff takes default judgment against the other, immediately bring an application to dismiss the action against your client on the basis of election.",
+            "Defensive (Plaintiff): Before taking any default judgment, conduct a thorough legal analysis to determine if liability is joint and several or merely alternative. If alternative, you must proceed against all defendants to trial and let the court decide liability.",
+            "Cost of Error: The cost of this error is catastrophic: the complete loss of a cause of action against a potentially viable defendant."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hunt v. Hunt, [1955] SCR 8",
+              "proposition": "Taking judgment against one party can bar a claim against another if the claims are alternative and inconsistent."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-40-continuation-against-other-defendants",
+        "node_type": "ControlMechanism",
+        "label": "Right to Continue Action Against Remaining Defendants",
+        "description": "Rule 3.40 explicitly permits a plaintiff who has obtained default judgment against some defendants to continue the action against any other defendants who have defended the claim.",
+        "source_sentence_ids": [
+          "05161.rtf#para1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If judgment is entered against some but not all defendants under (a) rule 3.36, (b) rule 3.37, (c) rule 3.38, or (d) rule 3.39, the plaintiff may continue the action in respect of any defendant against whom judgment is not entered.",
+              "source_reference": "05161.rtf#r3.40"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.40"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This rule provides procedural certainty in multi-defendant litigation. It allows a plaintiff to efficiently resolve the case against non-responsive parties without halting or prejudicing the ongoing litigation against active defendants, provided liability is not alternative.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): In a case with multiple defendants (e.g., a debtor and a guarantor), take default judgment against the non-defending debtor to secure a position, then continue the action against the defending guarantor.",
+            "Strategic Consideration: This allows for a phased approach to litigation, securing early judgments where possible while focusing resources on the contested parts of the action.",
+            "Procedural Clarity: This rule codifies the modern approach, overturning the old common law rule where judgment against one joint tortfeasor could bar action against others."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Signature Finance Ltd. v. Golden Key Rental Co. (1982), 38 A.R. 495",
+              "proposition": "If there are separate causes of action against different defendants, taking judgment against one will not bar judgment against the other."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-37-amended-claim-reservice-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Amending Claim Requires Re-Service on Defaulted Defendant",
+        "description": "A plaintiff cannot amend a Statement of Claim to add new allegations or increase a defendant's liability after that defendant has been noted in default, and then proceed as if the new allegations are admitted. The amended claim must be served.",
+        "source_sentence_ids": [
+          "05156.rtf#para31"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "However, the defendant's failure to file a defence to a statement of claim does not give the plaintiff carte blanche to amend the claim by adding serious allegations against the defendant which will expose him to liability, where he did not have any before, or increase his potential liability, and then to proceed as though the defendant has admitted those new allegations.",
+              "source_reference": "05156.rtf#§3.37:1-para31"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.37 Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a due process protection. A defendant's decision not to defend is based on the original claim. It is fundamentally unfair to allow a plaintiff to change the case and obtain judgment on new grounds without giving the defendant notice and a new opportunity to respond.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a plaintiff amends their claim post-default without serving you, any subsequent judgment on the new allegations is irregular and can be set aside.",
+            "Defensive (Plaintiff): If you must amend your claim after a defendant is noted in default, you MUST serve the amended Statement of Claim on that defendant. Failure to do so will invalidate any judgment based on the amendments.",
+            "Cost of Error: Proceeding without re-service will lead to a successful application to set aside the judgment, wasted costs, and significant delay."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Clarke v. Deranger, 2006 ABQB 442",
+              "proposition": "A defendant's failure to defend the original claim does not allow the plaintiff to add new allegations and proceed as if those new allegations are admitted without re-service."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-37-alternative-remedies-notice-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Notice Required for Election of Alternative Remedies",
+        "description": "If a Statement of Claim pleads remedies in the alternative (e.g., damages or specific performance), the plaintiff cannot simply choose one and obtain an ex parte default judgment. The defaulted defendant is entitled to notice of which remedy is being sought and an opportunity to be heard on the appropriateness of that remedy.",
+        "source_sentence_ids": [
+          "05156.rtf#para53"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In Fenske v. Schneider, 2007 ABQB 164, Veit J. held that, where a plaintiff has sought alternative remedies, the defendant should be given notice of a motion by the plaintiff to seek one of those remedies.",
+              "source_reference": "05156.rtf#§3.37:1-para53"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.37 Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This trap protects a defaulted defendant from being bound by a remedy they could not anticipate. A default is an admission of facts establishing liability, not an admission that any particular remedy (especially a discretionary equitable one like specific performance) is appropriate.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a plaintiff obtains an ex parte default judgment for an equitable remedy that was pleaded in the alternative, apply to have it set aside for lack of notice.",
+            "Defensive (Plaintiff): If your claim seeks alternative remedies, you MUST serve the application for judgment on the defaulted defendant, specifying which remedy you are electing to pursue.",
+            "Procedural Cost: This requirement adds a step and potential hearing to the default judgment process for claims with alternative remedies, increasing time and cost compared to a simple damages claim."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Fenske v. Schneider, 2007 ABQB 164",
+              "proposition": "Where alternative remedies are sought, a defaulted defendant must be given notice of the plaintiff's motion to elect one of those remedies."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-37-no-admission-of-law",
+        "node_type": "FoundationalPillar",
+        "label": "No Deemed Admission of Law or Quantum",
+        "description": "A defendant's default is a deemed admission of pleaded facts only. It is not an admission of conclusions of law, questions of mixed fact and law, the quantum of unliquidated damages, or the appropriateness of a particular remedy.",
+        "source_sentence_ids": [
+          "05156.rtf#para86"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The admissions implied from a noting in default or defence striking do not extend to statement-of-claim positions on questions of law or questions of mixed fact and law.",
+              "source_reference": "05156.rtf#§3.37:1-para86"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.37 Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This pillar preserves the court's role as the arbiter of law and damages. It prevents a plaintiff from obtaining judgment on a legally flawed premise or for an inflated, unproven amount simply because the defendant did not file a defence.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): You must still prove the quantum of your damages through evidence (often by affidavit) at an assessment hearing. You must also satisfy the judge that the admitted facts support the legal conclusions you are asking the court to draw.",
+            "Defensive (Defendant): A defaulted defendant retains the right to participate in the assessment of damages to challenge the quantum, and can argue legal points that do not contradict the admitted facts.",
+            "Strategic Boundary: This defines the battlefield after default. Liability is conceded; the fight is over the legal consequences and the dollar amount."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Boyer v. Boyer, 2024 ABKB 727",
+              "proposition": "Deemed admissions do not extend to positions on questions of law or mixed fact and law."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-36-costs-discretion-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Costs Remain at Court's Discretion",
+        "description": "Even if a contract specifies solicitor-client costs, and the defendant defaults (thereby admitting the contract's terms), the plaintiff is not automatically entitled to them. Costs are always at the discretion of the Court and must be specifically awarded by a judge.",
+        "source_sentence_ids": [
+          "05154.rtf#para16"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The principle amount claimed is admitted as part of the noting in default process, however costs are always the discretion of the Court, even in the face of a specific agreement between the parties; and regardless of an agreement, costs are always taxable.",
+              "source_reference": "05154.rtf#§3.36:1-para16"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.36 Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This trap prevents plaintiffs from using default judgment as a mechanism to automatically recover elevated costs. It preserves judicial oversight over the costs process, ensuring that any award, especially for enhanced costs, is justified and reasonable.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): You cannot simply enter judgment for solicitor-client costs with the clerk. You must apply to a judge and provide evidence (the contract) and argument to justify the award.",
+            "Defensive (Defendant): Even in default, you can oppose an award of solicitor-client costs at the assessment hearing by arguing the contractual clause is unenforceable or the amount claimed is unreasonable.",
+            "Procedural Hurdle: This creates an extra step for plaintiffs seeking to enforce contractual cost provisions, requiring a judicial hearing rather than a simple administrative filing."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Capital One Bank v. Calhoun, 2007 ABQB 151",
+              "proposition": "Noting in default deems facts true, but costs remain in the discretion of the Court, even with a specific agreement. A judge must award solicitor-client costs."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-42-application-blocks-default",
+        "node_type": "ControlMechanism",
+        "label": "Defensive Block: Pending Application Halts Default",
+        "description": "Rule 3.42 acts as a shield for defendants. A plaintiff is prohibited from entering judgment or noting a defendant in default if the defendant has a pending application to set aside service or to strike the statement of claim under Rule 3.68.",
+        "source_sentence_ids": [
+          "05164.rtf#para1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite anything in this Division, judgment may not be entered against a defendant and a defendant may not be noted in default if the defendant has filed an application that has not been decided (a) to set aside service of a statement of claim, or (b) under rule 3.68 to set aside or amend a statement of claim, to strike out a claim, or to stay an action, application or proceeding.",
+              "source_reference": "05164.rtf#r3.42"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.42"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a critical procedural safeguard. It prevents a plaintiff from obtaining a tactical default judgment while the defendant is actively challenging the validity of the service or the legal sufficiency of the claim itself. It ensures foundational challenges are heard before any default is entered.",
+          "litigation_implications": [
+            "Defensive (Defendant): If you intend to challenge service or the pleading, file your application under R. 3.68 *before* the deadline to file a defence. This automatically freezes the plaintiff's ability to note you in default.",
+            "Offensive (Plaintiff): Before attempting to note a defendant in default, check the court file to ensure no such application has been filed. Attempting to note in default in the face of a pending application is improper.",
+            "Cost: This mechanism forces the plaintiff to respond to the defendant's preliminary motion before they can proceed with the action, potentially increasing front-end litigation costs for the plaintiff."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Sorochan v. St. Albert Protestant Sep. S.D., 2001 ABQB 1063",
+              "proposition": "Case law confirming that one cannot sign default judgment after the defendant applies to strike out the statement of claim or set aside service, a principle now codified in Rule 3.42."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-37-limitations-defence-lost",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Limitations Defence is Lost if Not Pleaded",
+        "description": "A limitations defence is a statutory immunity that MUST be pleaded. A defendant who is noted in default has failed to plead it and therefore cannot raise it later to defeat the claim, even if the claim is clearly statute-barred on its face.",
+        "source_sentence_ids": [
+          "05156.rtf#para44"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Having been noted in default, Mr. McMillan cannot avail himself of the limitations defence applicable to the other Defendants.",
+              "source_reference": "05156.rtf#§3.37:1-para44"
+            },
+            {
+              "text": "In other words, it requires that the defence be pleaded in order to give rise to the immunity.",
+              "source_reference": "05156.rtf#§3.37:1-para44-sub1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.37 Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a severe and often fatal trap for defendants who fail to act. The limitations defence is not self-executing; it is an affirmative defence that is waived if not raised in a pleading. Default is the ultimate waiver.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): You can obtain judgment on a statute-barred claim if the defendant fails to defend. The court will not raise the limitations issue on its own initiative.",
+            "Defensive (Defendant): The existence of a clear limitations defence is a powerful reason for a court to grant an application to set aside a default judgment, but you must bring that application and plead the defence.",
+            "Cost of Inaction: The cost of failing to file a defence is the loss of what might be a complete and absolute defence to the action."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Makowichuk v Makowichuk, 2013 ABCA 439",
+              "proposition": "The Limitations Act requires that the defence be pleaded to give rise to immunity. It is not available to a defendant who has not filed a defence."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-37-court-discretionary-powers",
+        "node_type": "ControlMechanism",
+        "label": "Court's Discretionary Toolkit on Default Application",
+        "description": "Rule 3.37(3) provides the court with a broad menu of flexible options when hearing an application for judgment against a defaulted defendant, ranging from pronouncing judgment to dismissing the claim or directing a trial.",
+        "source_sentence_ids": [
+          "05155.rtf#para3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may do one or more of the following: (a) pronounce judgment; (b) make any necessary order; (c) direct a determination of damages; (d) adjourn the application and order additional evidence to be provided; (e) dismiss the claim or a part of it; (f) direct that the claim proceed to trial...",
+              "source_reference": "05155.rtf#r3.37(3)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.37(3)"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This rule grants the court ultimate control over the default process, ensuring a just outcome. It allows the court to tailor its response to the specific circumstances, preventing rigid application of the rules from causing an injustice.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Be prepared for the court to scrutinize your application and potentially order a hearing or require more evidence, even if the defendant is in default.",
+            "Defensive (Defendant): A defaulted defendant can appeal to the court's discretion under this rule, for example, by asking for a trial on quantum or arguing for limited participation rights.",
+            "Strategic Flexibility: The power to 'make any necessary order' is a catch-all that allows a judge to craft creative procedural solutions, such as allowing a defaulted defendant to cross-examine witnesses on the issue of damages."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Boyer v. Boyer, 2024 ABKB 727",
+              "proposition": "Rule 3.37(3)(b)'s 'make any necessary order' power is broad enough to allow a court to permit and define the bounds of participation by a noted-in-default defendant at trial."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-36-courtesy-and-notice-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Failure to Give Notice Before Defaulting",
+        "description": "While not a strict rule, there is a strong judicial expectation that a plaintiff's lawyer will provide a warning or notice to the defendant's known counsel before noting in default. Failure to do so, especially in cases of a slip or misunderstanding, makes it much more likely a court will set aside the default judgment.",
+        "source_sentence_ids": [
+          "page_0096.rtf#para3",
+          "page_0095.rtf#para4-sub5"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A plaintiff should give notice before it notes default or signs default judgment, if it knows or suspects that the defendant has lawyers. Lack of such warning will make it much more likely that default judgment will later be opened up.",
+              "source_reference": "page_0096.rtf#para3"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This informal rule enforces professional courtesy and prevents 'snap' judgments that exploit minor administrative delays. It's a trap for overly aggressive plaintiffs, as a judgment obtained without notice is viewed with suspicion by the court and is vulnerable to being set aside.",
+          "litigation_implications": [
+            "Offensive (Defendant): If you were noted in default without warning, emphasize this lack of professional courtesy in your application to set aside. It significantly strengthens your position.",
+            "Defensive (Plaintiff): Always send a clear, written warning with a reasonable deadline to opposing counsel before noting in default. This protects your default judgment from being easily overturned and makes you look reasonable to the court.",
+            "Cost: A plaintiff who takes a 'snap' judgment that gets set aside will likely be ordered to pay the defendant's costs for the application."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Issa v. BMB, 2024 ABKB 159",
+              "proposition": "Strong criticism for noting in default without notice despite a clear request not to, especially where the failure to defend was a slip by counsel."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-36-faulty-service-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Faulty Service Invalidates Default Proceedings",
+        "description": "A noting in default or default judgment is fundamentally premised on valid service of the Statement of Claim. If service was improper (e.g., wrong method, premature timing, defective affidavit of service), any subsequent default proceedings are irregular and will be set aside.",
+        "source_sentence_ids": [
+          "page_0096.rtf#para-faulty-default-proceedings"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The claimed service of the statement of claim in one case was bad, and there was no request to validate it (under R. 11.27). So notings in default based on mail service with no acknowledgment were bad. And a noting in default only 15 or 16 days after personal service (not 20 as per the Rules) was bad.",
+              "source_reference": "page_0096.rtf#para-faulty-default-proceedings-sub1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This trap enforces the foundational requirement of due process: a party cannot be subject to a judgment without proper notice of the proceeding. It provides a powerful weapon for defendants to nullify default judgments based on procedural errors by the plaintiff.",
+          "litigation_implications": [
+            "Offensive (Defendant): Scrutinize the plaintiff's affidavit of service for any defects in timing, method, or form. An error here is grounds to set aside the default judgment as a nullity.",
+            "Defensive (Plaintiff): Ensure service is executed perfectly and the affidavit of service is flawless before proceeding to default. Any shortcuts create a fatal vulnerability.",
+            "Cost of Error: A plaintiff who obtains judgment based on faulty service will have the judgment set aside and will likely be ordered to pay the defendant's costs."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Anglin v. Resler (#2), 2022 ABKB 737",
+              "proposition": "Failing to amend a claim to name a 'John Doe' defendant and re-serve them renders a subsequent noting in default improper and liable to be set aside."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-38-recovery-of-property-framework",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Judgment for Recovery of Property",
+        "description": "Rule 3.38 provides a mechanism for a plaintiff to enter default judgment for the 'recovery of property'. This is interpreted narrowly to mean regaining property previously possessed or where the property is easily ascertainable, such as in a foreclosure or bailment action, not for claims like contractual rectification to obtain new property.",
+        "source_sentence_ids": [
+          "05157.rtf#para1",
+          "05158.rtf#para52"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Subject to rule 3.41, if a statement of claim includes a claim for the recovery of property and one or more defendants do not file a statement of defence or demand for notice, the plaintiff may enter judgment against that defendant or those defendants for the recovery of that property...",
+              "source_reference": "05157.rtf#r3.38"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.38"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This framework provides an efficient path to judgment for specific types of property claims where ownership or entitlement is clear from existing documents. It is a weapon for secured creditors and bailors. Its narrow interpretation acts as a shield against its misuse for more complex claims requiring judicial determination.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Use this rule for straightforward claims like foreclosure or recovery of bailed goods where the property is clearly identified in an underlying agreement.",
+            "Defensive (Defendant): If a plaintiff improperly uses R. 3.38 to get default judgment for a complex property claim (e.g., seeking title to land via rectification), apply to set it aside on the grounds that the claim is not for 'recovery' in the narrow sense and requires a court assessment under R. 3.37.",
+            "Limitation: This rule cannot be used as a shortcut to obtain title to property that the plaintiff never previously possessed or had a registered interest in."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "TLA Food Services Ltd. v. 1144707 Alberta Ltd., 2011 ABQB 550",
+              "proposition": "Interprets 'recovery of property' under R. 3.38 narrowly to mean regaining something previously possessed or easily ascertainable, not for obtaining property through a remedy like rectification which requires a court application."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-41-foreclosure-default-prerequisite",
+        "node_type": "ControlMechanism",
+        "label": "Mandatory Prerequisite: Noting in Default in Foreclosure",
+        "description": "Rule 3.41 imposes a mandatory procedural gate in foreclosure actions: a plaintiff MUST note the defendant in default before they are permitted to file an application for personal judgment or other foreclosure remedies.",
+        "source_sentence_ids": [
+          "05163.rtf#para1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a defendant in a foreclosure action does not file a statement of defence or demand for notice, the plaintiff must note the defendant in default before filing an application for (a) personal judgment, or (b) a remedy referred to in rule 6.5(2).",
+              "source_reference": "05163.rtf#r3.41(1)"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.41(1)"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This rule establishes a strict, non-negotiable sequence for foreclosure actions, preventing a plaintiff from ambushing a defendant with a judgment application without first formally recording their default on the court file. It ensures procedural discipline in a specialized area of law.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): In any foreclosure action, the first step after the time for defence expires is always to file the praecipe to note in default. Failure to do so will render any subsequent judgment application premature and invalid.",
+            "Defensive (Defendant): If a plaintiff in a foreclosure action applies for judgment without first noting you in default, their application is fatally flawed and should be dismissed.",
+            "Procedural Trap: This is a trap for plaintiffs who might assume they can proceed directly to a judgment application. The word 'must' makes this a mandatory, not optional, step."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "fp-r3-39-judicature-act-just-debt-test",
+        "node_type": "FoundationalPillar",
+        "label": "Interest Test 1: 'Just Debt'",
+        "description": "A core test for awarding pre-judgment interest under the Judicature Act. To be a 'just debt', the amount due must be ascertainable by reference to a contract or agreement, not as unliquidated damages.",
+        "source_sentence_ids": [
+          "05160.rtf#para3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "… the amount due to be a “just debt” must at least be ascertainable, though not necessarily precisely so, by reference to a contract or agreement between the parties and not as damages.",
+              "source_reference": "05160.rtf#§3.39:1-para3"
+            }
+          ],
+          "source_references": [
+            "Judicature Act, R.S.A. 2000, c. J-2, s. 14(1)"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This pillar defines the threshold for a specific type of interest claim. It weaponizes contractual certainty, allowing parties with ascertainable debts to claim compensation for delay, while shielding parties from interest claims on purely speculative damage amounts.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): To claim this type of interest, plead facts showing the debt arises from an agreement and is calculable, thus meeting the 'just debt' standard.",
+            "Defensive (Defendant): Argue that the plaintiff's claim is truly for unliquidated damages, not an ascertainable debt, to defeat a claim for interest under this test."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Eyben v. K.R. Ranches (1970) Ltd. (1982), 20 Alta. L.R. (2d) 270 (C.A.)",
+              "proposition": "Establishes that a 'just debt' must be ascertainable from a contract or agreement and not be in the nature of damages."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-39-judicature-act-improperly-withheld-test",
+        "node_type": "FoundationalPillar",
+        "label": "Interest Test 2: 'Improperly Withheld'",
+        "description": "The second pillar for a Judicature Act interest claim. It is not enough that a debt is unpaid; the withholding must be 'improper'. This requires more than mere inability to pay, suggesting deliberate delay for economic advantage.",
+        "source_sentence_ids": [
+          "05160.rtf#para4"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In short, there must be something improper about the failure to pay the debt beyond the mere fact that it is due and not paid. So, in the case of one who did not have the means to pay, the failure to pay could hardly be regarded as “improper”.",
+              "source_reference": "05160.rtf#§3.39:1-para4"
+            }
+          ],
+          "source_references": [
+            "Judicature Act, R.S.A. 2000, c. J-2, s. 14(1)"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This standard provides a powerful shield for defendants who have legitimate reasons for non-payment (like insolvency). It forces plaintiffs to prove a degree of blameworthiness or strategic delay, preventing interest from being awarded automatically on every overdue debt.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Plead facts suggesting the defendant is deliberately withholding payment to gain an advantage, not simply because they are unable to pay.",
+            "Defensive (Defendant): Provide evidence of financial hardship or a genuine dispute over the debt to argue the withholding was not 'improper'."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Eyben v. K.R. Ranches (1970) Ltd. (1982), 20 Alta. L.R. (2d) 270 (C.A.)",
+              "proposition": "Defines 'improperly withheld' as something more than simple non-payment, such as a deliberate attempt to pressure a creditor or benefit from high interest rates."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-39-master-jurisdiction-interest-abandonment",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Judicature Act Interest Claim Abandoned if Brought Before Master",
+        "description": "A claim for interest under the Judicature Act is considered an unliquidated damages claim. Masters in Chambers lack jurisdiction to grant such claims. A plaintiff who applies for summary judgment (which includes such an interest claim) before a Master is deemed to have abandoned that part of their claim.",
+        "source_sentence_ids": [
+          "05160.rtf#para6",
+          "05160.rtf#para7"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "That kind of claim is an unliquidated damage claim … Masters in Chambers do not have jurisdiction to grant such claims.",
+              "source_reference": "05160.rtf#§3.39:1-para6"
+            },
+            {
+              "text": "I conclude that when a plaintiff is applying for summary judgment to a master in chambers, where the statement advances a claim for interest under s. 15 [now s. 14], that the plaintiff is abandoning that part of the claim.",
+              "source_reference": "05160.rtf#§3.39:1-para7"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a classic jurisdictional trap. It punishes plaintiffs who choose the wrong forum for their application. By seeking an efficient remedy (summary judgment before a Master), a plaintiff can inadvertently and irrevocably waive their substantive right to a specific type of interest.",
+          "litigation_implications": [
+            "Offensive (Defendant): If a plaintiff brings a summary judgment application before a Master seeking Judicature Act interest, argue that they have abandoned that claim per the Elgert Fertilizers rule.",
+            "Defensive (Plaintiff): To preserve a claim for Judicature Act interest, any application for judgment must be brought before a Justice, not a Master.",
+            "Cost of Error: The cost is the complete forfeiture of the claim for pre-judgment interest under the Act."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Elgert Fertilizers Ltd. v. Schmitz (1985), 36 Alta. L.R. (2d) 327 (Master)",
+              "proposition": "Establishes that Masters lack jurisdiction over Judicature Act interest claims, and bringing such a claim before a Master constitutes abandonment."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-37-defaulted-party-retains-application-rights",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case: Defaulted Party Retains Right to Make Applications",
+        "description": "A party who has been noted in default does not cease to be a party to the action. They retain the right to bring applications under the Rules, such as a motion to dismiss the plaintiff's action for long delay.",
+        "source_sentence_ids": [
+          "05156.rtf#para65"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In my view, a party who is noted in default does not cease to be a party to the action and is entitled to utilize Rule 244.1 [dismissal-for-delay rule].",
+              "source_reference": "05156.rtf#§3.37:1-para65"
+            },
+            {
+              "text": "But I have not been provided with any authority or directed to any Rule which might otherwise limit the right of a defendant to take any other step under the Rules.",
+              "source_reference": "05156.rtf#§3.37:1-para65"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a powerful defensive mechanism for a defaulted party and a trap for a complacent plaintiff. It prevents a plaintiff from noting a defendant in default and then letting the action languish indefinitely. The defaulted defendant remains a 'zombie' party, unable to defend on the merits but still able to attack the action on procedural grounds like delay.",
+          "litigation_implications": [
+            "Offensive (Defendant): If you have been noted in default but the plaintiff has taken no steps to advance the action for a long time, you can bring an application to have their entire case dismissed.",
+            "Defensive (Plaintiff): Noting a defendant in default does not stop the clock on your obligation to prosecute your action diligently. You must still move the case forward to an assessment of damages or risk a dismissal application from the defaulted party.",
+            "Strategic Surprise: This allows a seemingly defeated party to turn the tables and win the case on a procedural technicality."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Yaremchuk v Haight, 2001 ABCA 7",
+              "proposition": "A party noted in default does not cease to be a party and is entitled to bring applications under the Rules, such as for dismissal for delay."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-36-oral-standstill-agreement-dispute",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: The Oral Standstill Agreement Ambush",
+        "description": "A default judgment can be invalidated if the defendant can establish that an informal, even oral, standstill agreement was in place, creating a factual dispute that undermines the basis for the default.",
+        "source_sentence_ids": [
+          "page_0096.rtf#para3-sub1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But after an undertaking to defend, a request for a defence by a named date is a standstill agreement, which can be oral: Bugg v. Beau.",
+              "source_reference": "page_0096.rtf#para3-sub1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This is a procedural ambush based on informal communications. It allows a defendant to attack a technically correct default judgment by introducing a factual dispute over an alleged oral agreement, forcing a 'he said, she said' battle that courts are often reluctant to resolve against the defendant at a preliminary stage.",
+          "litigation_implications": [
+            "Offensive (Defendant): If any conversation about extensions occurred, argue it constituted an oral standstill agreement, making the subsequent default improper. This can be used to set aside the default.",
+            "Defensive (Plaintiff): Avoid ambiguity. Confirm all extensions and deadlines in writing. Never rely on oral understandings. After granting an extension, send a letter stating, 'If we do not receive your defence by X date, we will proceed to note you in default without further notice.'",
+            "Cost of Error: A plaintiff who proceeds to default in the face of a potential oral standstill agreement risks having the judgment overturned and paying costs."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Bugg v. Beau Can. Expl., 2006 ABCA 201",
+              "proposition": "An oral agreement, such as a request for a defence by a named date following an undertaking to defend, can constitute an enforceable standstill agreement."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-37-defaulted-defendant-participation-framework",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Defaulted Defendant's Participation Rights at Assessment",
+        "description": "Defines the specific tactical rights of a defaulted defendant during a damages assessment or trial, including the right to cross-examine, make legal submissions, and introduce non-contradictory evidence, subject to the court's discretion.",
+        "source_sentence_ids": [
+          "05156.rtf#para95",
+          "05156.rtf#para127"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Can he introduce other (not-contradicting) evidence? Submit a brief? Make opening and closing statements? Cross-examine the plaintiff and her witness(es)? Take other steps?",
+              "source_reference": "05156.rtf#§3.37:1-para95"
+            },
+            {
+              "text": "...I find that the Court has sufficient power under Rule 3.37(3)(b) (“make any necessary order”) to allow a struck or noted-in-default party to give evidence i.e. as long as it does not contradict any of the deemed-admitted facts in the plaintiff's claim...",
+              "source_reference": "05156.rtf#§3.37:1-para127"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court Commentary"
+          ],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This framework outlines the battlefield for a defaulted defendant. While liability is conceded, the war is not over. This framework provides the specific weapons a 'defeated' party can use to mitigate the consequences, challenge the quantum of damages, and contest legal conclusions, transforming the assessment hearing from a rubber stamp into a contested proceeding.",
+          "litigation_implications": [
+            "Offensive (Defendant): Use this framework to actively participate in the damages assessment. Prepare to cross-examine the plaintiff's witnesses on quantum and introduce your own evidence on damages, provided it doesn't contradict the admitted facts of liability.",
+            "Defensive (Plaintiff): Do not assume an assessment hearing will be unopposed. Be prepared for a full cross-examination on your damages evidence and for the defendant to make legal arguments on the appropriate remedy or quantum.",
+            "Strategic Value: This allows a defendant who has made a strategic decision not to contest liability to still vigorously contest the financial consequences, potentially reducing a large claim to a nominal one."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Boyer v. Boyer, 2024 ABKB 727",
+              "proposition": "A noted-in-default defendant can be permitted, at the court's discretion, to participate in a trial or assessment by cross-examining, making submissions, and introducing evidence that does not contradict the deemed-admitted facts."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-cause-of-action-gatekeeper-counters-deemed-admission",
+        "source_node_id": "pt-r3-37-cause-of-action-gatekeeper",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "COUNTERS",
+        "description": "The court's duty to verify a valid cause of action acts as a direct counter and limitation on the absolute effect of the deemed admission of facts.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...there is an exception to the rule that the Defendant has admitted the facts alleged in the statement of claim by failure to deny them “where the Court is not satisfied that the Plaintiff has a cause of action, the Court has a duty to direct a hearing to determine the matter.”",
+              "source_reference": "05156.rtf#§3.37:1-para12-sub2"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship highlights the primary check on the power of default judgment, ensuring that legally baseless claims cannot succeed even if undefended.",
+          "litigation_implications": [
+            "A plaintiff cannot rely solely on the deemed admission; they must still demonstrate to the court how those facts legally entitle them to judgment."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-002-no-admission-of-law-reinforces-gatekeeper",
+        "source_node_id": "fp-r3-37-no-admission-of-law",
+        "target_node_id": "pt-r3-37-cause-of-action-gatekeeper",
+        "relationship_type": "REINFORCES",
+        "description": "The principle that default is not an admission of law reinforces the court's gatekeeper function, as the court must independently assess the legal merits of the claim based on the admitted facts.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The admissions implied from a noting in default or defence striking do not extend to statement-of-claim positions on questions of law or questions of mixed fact and law.",
+              "source_reference": "05156.rtf#§3.37:1-para86"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link shows that the court's duty is not just a procedural step but is grounded in the fundamental distinction between admitting facts and establishing legal entitlement.",
+          "litigation_implications": [
+            "A defaulted defendant can still make legal arguments at an assessment hearing, provided they do not contradict the admitted facts."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-003-liquidated-demand-operationalizes-plaintiffs-options",
+        "source_node_id": "wf-r3-39-liquidated-demand-judgment-framework",
+        "target_node_id": "cm-r3-36-plaintiffs-default-options",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The Liquidated Demand Framework under R. 3.39 is the specific mechanism that operationalizes the plaintiff's option under R. 3.36(1)(a) to enter judgment directly.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the plaintiff may, on filing an affidavit of service of the statement of claim, (a) enter judgment against the defendant under rule 3.38 or 3.39...",
+              "source_reference": "05153.rtf#r3.36(1)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship connects the strategic choice (R. 3.36) to the tactical execution (R. 3.39), showing the direct procedural pathway for efficient judgment on simple debt claims.",
+          "litigation_implications": [
+            "To use the R. 3.36(1)(a) option, the claim must meet the strict definition of 'liquidated demand' in R. 3.39(2)."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-004-alternative-liability-trap-counters-continuation-right",
+        "source_node_id": "pt-r3-40-alternative-liability-election-trap",
+        "target_node_id": "cm-r3-40-continuation-against-other-defendants",
+        "relationship_type": "COUNTERS",
+        "description": "The alternative liability election trap is a major exception that counters and can completely negate the plaintiff's general right under R. 3.40 to continue an action against other defendants after taking a default judgment.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "However, there is a large exception to R. 3.40. ... that rule of election still holds if the two are only alternatively liable. One can use R. 3.40 only if the defendants are concurrently liable...",
+              "source_reference": "page_0109.rtf#para1-sub4"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This highlights a critical conflict between two rules. A plaintiff who misinterprets their broad right to continue the action without considering the specific trap of alternative liability will lose their claim against the remaining defendant.",
+          "litigation_implications": [
+            "The analysis of whether liability is concurrent or alternative is paramount before using R. 3.40."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-005-amended-claim-trap-modifies-deemed-admission",
+        "source_node_id": "pt-r3-37-amended-claim-reservice-trap",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "MODIFIES",
+        "description": "The requirement to re-serve an amended claim modifies the effect of a deemed admission, clarifying that the admission only applies to the facts pleaded in the claim the defendant originally failed to answer.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the defendant's failure to file a defence to a statement of claim does not give the plaintiff carte blanche to amend the claim by adding serious allegations... and then to proceed as though the defendant has admitted those new allegations.",
+              "source_reference": "05156.rtf#§3.37:1-para31"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship defines the scope and boundary of the deemed admission pillar. The admission is not a perpetual waiver of rights; it is tied specifically to the pleading served.",
+          "litigation_implications": [
+            "A deemed admission is 'frozen in time' to the original Statement of Claim. New facts require new service and a new opportunity to defend."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-006-alternative-remedies-trap-modifies-deemed-admission",
+        "source_node_id": "pt-r3-37-alternative-remedies-notice-trap",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "MODIFIES",
+        "description": "The notice requirement for alternative remedies modifies the deemed admission principle by clarifying that admitting facts does not equate to admitting the appropriateness of any specific, especially equitable, remedy.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Veit J. noted “a default of defence is an admission of the facts pleaded, not of the conclusions of law or the assessment of damages” (at para. 11) and “that the appropriate remedy flowing from that breach is not a fact which [the defendant] can be taken to have admitted” (at para. 15).",
+              "source_reference": "05156.rtf#§3.37:1-para53"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link separates the factual admission from the legal/remedial conclusion, preserving the defendant's right to be heard on the consequences of their default.",
+          "litigation_implications": [
+            "A plaintiff must justify their choice of remedy to the court and the defaulted defendant, it is not an automatic entitlement."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-007-costs-trap-counters-deemed-admission",
+        "source_node_id": "pt-r3-36-costs-discretion-trap",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "COUNTERS",
+        "description": "The court's ultimate discretion over costs counters the effect of a deemed admission of a contractual term for solicitor-client costs, demonstrating that judicial oversight overrides the admission.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The noting in default has the effect of deeming the facts plead as true, but I do not see it this way [in respect of automatic entitlement to solicitor-client costs].",
+              "source_reference": "05154.rtf#§3.36:1-para13"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship establishes a clear hierarchy: the court's inherent jurisdiction over costs is superior to a deemed admission arising from a procedural default.",
+          "litigation_implications": [
+            "A plaintiff cannot treat a contractual costs clause as a liquidated demand; it must be argued and awarded by a judge."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-008-application-block-modifies-plaintiffs-options",
+        "source_node_id": "cm-r3-42-application-blocks-default",
+        "target_node_id": "cm-r3-36-plaintiffs-default-options",
+        "relationship_type": "MODIFIES",
+        "description": "The defensive block under R. 3.42 directly modifies and suspends the plaintiff's options under R. 3.36 as long as a defendant's qualifying application is pending.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Despite anything in this Division, judgment may not be entered against a defendant and a defendant may not be noted in default if the defendant has filed an application that has not been decided...",
+              "source_reference": "05164.rtf#r3.42"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship illustrates the 'first strike' capability of a defendant. By filing a proper motion, the defendant can seize procedural initiative and force the plaintiff to engage on a different front before default can be pursued.",
+          "litigation_implications": [
+            "A defendant's R. 3.68 application acts as an automatic stay on default proceedings."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-009-limitations-trap-reinforces-deemed-admission",
+        "source_node_id": "pt-r3-37-limitations-defence-lost",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "REINFORCES",
+        "description": "The loss of the limitations defence reinforces the severe consequences of a default, showing that the failure to plead not only results in deemed admissions but also the waiver of powerful affirmative defences.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Having been noted in default, Mr. McMillan cannot avail himself of the limitations defence... it requires that the defence be pleaded in order to give rise to the immunity.",
+              "source_reference": "05156.rtf#§3.37:1-para44"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link underscores the finality and high stakes of failing to defend an action.",
+          "litigation_implications": [
+            "The cost of default is not just admitting the plaintiff's facts, but also losing your own best defences."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-010-court-discretion-modifies-deemed-admission",
+        "source_node_id": "cm-r3-37-court-discretionary-powers",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "MODIFIES",
+        "description": "The court's broad discretionary powers under R. 3.37(3) modify the otherwise absolute effect of a deemed admission, allowing a judge to intervene to ensure a just result, such as by ordering a trial or dismissing a legally weak claim.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may do one or more of the following: ... (e) dismiss the claim or a part of it; (f) direct that the claim proceed to trial...",
+              "source_reference": "05155.rtf#r3.37(3)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship shows that procedural rules, even powerful ones like deemed admission, are ultimately subject to judicial oversight to prevent injustice.",
+          "litigation_implications": [
+            "A plaintiff is never guaranteed a judgment on an ex parte basis; the court always retains the power to require a more thorough process."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-011-courtesy-trap-modifies-plaintiffs-options",
+        "source_node_id": "pt-r3-36-courtesy-and-notice-trap",
+        "target_node_id": "cm-r3-36-plaintiffs-default-options",
+        "relationship_type": "MODIFIES",
+        "description": "The informal requirement of professional courtesy modifies the plaintiff's ability to exercise their default options, as a 'snap' judgment obtained without notice is highly vulnerable to being set aside.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Lack of such warning will make it much more likely that default judgment will later be opened up.",
+              "source_reference": "page_0096.rtf#para3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link highlights the interplay between formal rules and the unwritten code of professional conduct, where ignoring the latter can undermine rights granted by the former.",
+          "litigation_implications": [
+            "A technically correct default judgment can be procedurally fragile if obtained discourteously."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-012-faulty-service-counters-plaintiffs-options",
+        "source_node_id": "pt-r3-36-faulty-service-trap",
+        "target_node_id": "cm-r3-36-plaintiffs-default-options",
+        "relationship_type": "COUNTERS",
+        "description": "Faulty service is a fundamental defect that completely counters and nullifies the plaintiff's right to exercise any default options under R. 3.36, as the court's jurisdiction over the defendant has not been established.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The claimed service of the statement of claim in one case was bad... So notings in default based on mail service with no acknowledgment were bad.",
+              "source_reference": "page_0096.rtf#para-faulty-default-proceedings-sub1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship emphasizes the primacy of proper service. Without it, the entire default judgment house of cards collapses.",
+          "litigation_implications": [
+            "All default proceedings are void ab initio if service was invalid."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-013-recovery-framework-operationalizes-plaintiffs-options",
+        "source_node_id": "wf-r3-38-recovery-of-property-framework",
+        "target_node_id": "cm-r3-36-plaintiffs-default-options",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The Recovery of Property Framework under R. 3.38 is the specific mechanism that operationalizes the plaintiff's option under R. 3.36(1)(a) to enter judgment directly for certain property claims.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the plaintiff may... (a) enter judgment against the defendant under rule 3.38 [Judgment for recovery of property] or rule 3.39...",
+              "source_reference": "05153.rtf#r3.36(1)"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This connects the strategic choice in R. 3.36 to the tactical execution for property claims in R. 3.38, mirroring the relationship for liquidated demands.",
+          "litigation_implications": [
+            "To use the R. 3.36(1)(a) option for property, the claim must fit the narrow definition of 'recovery' as interpreted by the courts."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-014-deemed-admission-is-component-of-liquidated-demand",
+        "source_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "target_node_id": "wf-r3-39-liquidated-demand-judgment-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The deemed admission of facts (e.g., the existence of the contract, the amount owing) is a foundational component that enables the liquidated demand framework to function, as it establishes the factual basis for the clerk to enter judgment.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The principle amount claimed is admitted as part of the noting in default process...",
+              "source_reference": "05154.rtf#§3.36:1-para16"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link shows that even the administrative process of entering judgment for a debt relies on the powerful legal fiction of deemed admission.",
+          "litigation_implications": [
+            "The plaintiff's pleading of the facts supporting the debt must be precise, as they will form the admitted basis for the judgment."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-015-court-discretion-modifies-liquidated-demand",
+        "source_node_id": "cm-r3-37-court-discretionary-powers",
+        "target_node_id": "wf-r3-39-liquidated-demand-judgment-framework",
+        "relationship_type": "MODIFIES",
+        "description": "The court's discretionary powers can modify the liquidated demand framework if a matter comes before it, for example, by refusing to award contractually stipulated costs, thereby carving out part of the 'liquidated' claim for judicial assessment.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...costs are always the discretion of the Court, even in the face of a specific agreement between the parties...",
+              "source_reference": "05154.rtf#§3.36:1-para16"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This shows that even the most straightforward default process is not entirely immune from judicial intervention, particularly on the issue of costs.",
+          "litigation_implications": [
+            "A plaintiff seeking full indemnity costs under a contract must be prepared to justify them to a judge, even if the principal debt is obtained by default."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-016-continuation-right-requires-deemed-admission",
+        "source_node_id": "cm-r3-40-continuation-against-other-defendants",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "REQUIRES",
+        "description": "The right to continue an action against other defendants is predicated on having first obtained a valid judgment against the defaulted defendant, which itself requires the deemed admission of facts to establish liability.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If judgment is entered against some but not all defendants... the plaintiff may continue the action...",
+              "source_reference": "05161.rtf#r3.40"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship shows the sequential nature of the process: a valid default (based on admission) is the necessary prerequisite to splitting the action and continuing against others.",
+          "litigation_implications": [
+            "An improperly obtained default judgment could jeopardize the plaintiff's ability to rely on R. 3.40."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-017-no-admission-of-law-modifies-deemed-admission",
+        "source_node_id": "fp-r3-37-no-admission-of-law",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "MODIFIES",
+        "description": "The principle that legal conclusions are not admitted strictly defines and limits the scope of the deemed admission of facts.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The admissions implied from a noting in default or defence striking do not extend to statement-of-claim positions on questions of law or questions of mixed fact and law.",
+              "source_reference": "05156.rtf#§3.37:1-para86"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship clarifies the boundary between fact and law in default proceedings, which is crucial for understanding what is truly established by the default.",
+          "litigation_implications": [
+            "A plaintiff must still prove their legal case; the default only provides the factual ingredients."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-018-faulty-service-counters-deemed-admission",
+        "source_node_id": "pt-r3-36-faulty-service-trap",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "COUNTERS",
+        "description": "Improper service is a jurisdictional defect that renders any subsequent proceeding, including the deemed admission of facts, a nullity.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The claimed service of the statement of claim in one case was bad... So notings in default... were bad.",
+              "source_reference": "page_0096.rtf#para-faulty-default-proceedings-sub1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This highlights that the powerful legal effect of deemed admission is entirely dependent on the procedural integrity of the initial service.",
+          "litigation_implications": [
+            "A defendant can undo a deemed admission by proving service was invalid."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-019-application-block-counters-deemed-admission",
+        "source_node_id": "cm-r3-42-application-blocks-default",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "COUNTERS",
+        "description": "The filing of a motion under R. 3.42 prevents a noting in default from ever occurring, thereby preemptively countering the entire deemed admission mechanism.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...a defendant may not be noted in default if the defendant has filed an application that has not been decided...",
+              "source_reference": "05164.rtf#r3.42"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This shows the most effective defense against a deemed admission is to prevent the underlying default from being entered in the first place.",
+          "litigation_implications": [
+            "A timely R. 3.68 application is a complete shield against deemed admissions."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-020-foreclosure-prereq-modifies-recovery-framework",
+        "source_node_id": "cm-r3-41-foreclosure-default-prerequisite",
+        "target_node_id": "wf-r3-38-recovery-of-property-framework",
+        "relationship_type": "MODIFIES",
+        "description": "The mandatory prerequisite to note in default in foreclosure actions modifies the general framework for recovering property by imposing a specific, additional procedural step for that category of claim.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The second form of judgment does not require that a defendant first be noted in default (except in the case of foreclosure (Rule 3.41)) and does not require an application to the Court.",
+              "source_reference": "05158.rtf#§3.38:1-para51"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link clarifies that while foreclosure is a type of 'recovery of property', it is subject to a stricter procedural regime than other recovery actions.",
+          "litigation_implications": [
+            "A plaintiff in a foreclosure action cannot use the most direct path to judgment available for other property claims; they must follow the two-step process mandated by R. 3.41."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-021-just-debt-test-is-component-of-liquidated-demand",
+        "source_node_id": "fp-r3-39-judicature-act-just-debt-test",
+        "target_node_id": "wf-r3-39-liquidated-demand-judgment-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The 'Just Debt' test is a component of the broader analysis of claims for interest, which are often included in actions for a liquidated demand.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Section 14(1) of the Judicature Act, R.S.A. 2000, c. J-2 permits the court to award interest “when in the opinion of the Court the payment of a just debt has been improperly withheld...",
+              "source_reference": "05160.rtf#§3.39:1-para1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship connects a specific statutory test for interest to the procedural framework where it is most often litigated.",
+          "litigation_implications": [
+            "A claim for a liquidated demand may also involve a separate, unliquidated claim for Judicature Act interest that must meet this test."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-022-improperly-withheld-test-requires-just-debt-test",
+        "source_node_id": "fp-r3-39-judicature-act-improperly-withheld-test",
+        "target_node_id": "fp-r3-39-judicature-act-just-debt-test",
+        "relationship_type": "REQUIRES",
+        "description": "The test for whether a debt was 'improperly withheld' is only applied after the court is satisfied that a 'just debt' exists in the first place.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Assuming this test [Test #1: Just Debt] to be satisfied, there still remains for decision the question of whether the just debt has been “improperly withheld”...",
+              "source_reference": "05160.rtf#§3.39:1-para4"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This establishes the sequential, two-part nature of the legal test for Judicature Act interest, preventing arguments about the propriety of non-payment from being heard if there is no qualifying debt.",
+          "litigation_implications": [
+            "A plaintiff must succeed on the 'just debt' test before the court will even consider the 'improperly withheld' test."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-023-master-abandonment-trap-counters-interest-claims",
+        "source_node_id": "pt-r3-39-master-jurisdiction-interest-abandonment",
+        "target_node_id": "fp-r3-39-judicature-act-just-debt-test",
+        "relationship_type": "COUNTERS",
+        "description": "The jurisdictional trap of bringing a Judicature Act interest claim before a Master directly counters and defeats the plaintiff's ability to pursue that claim, regardless of its merits.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "I conclude that when a plaintiff is applying for summary judgment to a master in chambers, where the statement advances a claim for interest under s. 15 [now s. 14], that the plaintiff is abandoning that part of the claim.",
+              "source_reference": "05160.rtf#§3.39:1-para7"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This highlights how a procedural error (choosing the wrong forum) can have a substantive and fatal impact on a party's rights.",
+          "litigation_implications": [
+            "This procedural trap can be used by a defendant to eliminate an interest claim without arguing its substance."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-024-defaulted-party-rights-counters-deemed-admission",
+        "source_node_id": "cm-r3-37-defaulted-party-retains-application-rights",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "COUNTERS",
+        "description": "The retained right of a defaulted party to bring applications acts as a counter-balance to the finality of a deemed admission, showing that the defaulted party is not entirely powerless and can still attack the proceeding on other grounds.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But I have not been provided with any authority or directed to any Rule which might otherwise limit the right of a defendant to take any other step under the Rules.",
+              "source_reference": "05156.rtf#§3.37:1-para65"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship reveals a crucial vulnerability for a plaintiff who assumes a default judgment ends the matter. The action itself remains susceptible to attack from the 'defeated' party.",
+          "litigation_implications": [
+            "A deemed admission establishes liability on the merits, but does not immunize the plaintiff's action from procedural attacks like dismissal for delay."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-025-deemed-admission-is-component-of-recovery-framework",
+        "source_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "target_node_id": "wf-r3-38-recovery-of-property-framework",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The deemed admission of facts (e.g., the existence of a mortgage, the default on a bailment) is a necessary component for the recovery of property framework to operate, as it establishes the plaintiff's entitlement to the property.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "When a defendant is noted in default, it is deemed to have admitted the allegations in the Statement of Claim;",
+              "source_reference": "05156.rtf#§3.37:1-para24-sub1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link clarifies that even judgments for specific property rely on the foundational principle of deemed admission to establish the factual basis for the plaintiff's claim.",
+          "litigation_implications": [
+            "The Statement of Claim must plead all facts necessary to establish the right to recover the property, as these will be deemed admitted."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-026-court-discretion-modifies-defaulted-party-rights",
+        "source_node_id": "cm-r3-37-court-discretionary-powers",
+        "target_node_id": "cm-r3-37-defaulted-party-retains-application-rights",
+        "relationship_type": "MODIFIES",
+        "description": "The court's broad discretionary power to 'make any necessary order' modifies the rights of a defaulted party, allowing the court to define the nature and extent of their participation or ability to bring motions.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The “make any necessary order” power is sufficiently broad to authorize participation by a struck or noted-in-default defendant and to set its bounds.",
+              "source_reference": "05156.rtf#§3.37:1-para121"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship shows that while a defaulted party retains rights, those rights are not absolute and are subject to the court's management and control to ensure a fair and orderly process.",
+          "litigation_implications": [
+            "A defaulted defendant may need to seek the court's permission to participate in certain steps, and the court can impose conditions on that participation."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-028-foreclosure-prereq-is-component-of-plaintiffs-options",
+        "source_node_id": "cm-r3-41-foreclosure-default-prerequisite",
+        "target_node_id": "cm-r3-36-plaintiffs-default-options",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The mandatory noting in default for foreclosure is a specific rule that forms a component of the plaintiff's overall set of options when a defendant fails to defend.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The second form of judgment does not require that a defendant first be noted in default (except in the case of foreclosure (Rule 3.41)) and does not require an application to the Court.",
+              "source_reference": "05158.rtf#§3.38:1-para51"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship integrates the specific foreclosure rule into the general default framework, showing it as a mandatory variation on the standard procedural choices.",
+          "litigation_implications": [
+            "For foreclosure claims, the plaintiff's options under R. 3.36 are constrained; they must choose the two-step 'note in default' path."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-029-gatekeeper-limits-impact-of-lost-defence",
+        "source_node_id": "pt-r3-37-cause-of-action-gatekeeper",
+        "target_node_id": "pt-r3-37-limitations-defence-lost",
+        "relationship_type": "MODIFIES",
+        "description": "The court's gatekeeper function modifies the impact of a lost limitations defence; while the defendant cannot raise the defence, the plaintiff is still required to prove their claim establishes a valid cause of action.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Nevertheless, given that Rule 3.37 allows a court to dismiss a plaintiff's claim notwithstanding a noting in default, I am satisfied that the Plaintiffs cannot succeed against Mr. McMillan unless they prove their claim against him ….",
+              "source_reference": "05156.rtf#§3.37:1-para45"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship captures a critical nuance: the loss of a defendant's shield (the limitations defence) does not grant the plaintiff an automatic victory. The plaintiff must still successfully prove their case on the pleadings, a burden enforced by the court's gatekeeper role.",
+          "litigation_implications": [
+            "A plaintiff cannot obtain default judgment on a statute-barred claim if the pleaded facts fail to establish a cause of action for other reasons."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-030-oral-standstill-trap-counters-plaintiffs-options",
+        "source_node_id": "pt-r3-36-oral-standstill-agreement-dispute",
+        "target_node_id": "cm-r3-36-plaintiffs-default-options",
+        "relationship_type": "COUNTERS",
+        "description": "The existence of a potential oral standstill agreement directly counters the plaintiff's right to exercise their default options, as it introduces a factual dispute that invalidates the premise that the defendant is in default.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "But after an undertaking to defend, a request for a defence by a named date is a standstill agreement, which can be oral: Bugg v. Beau.",
+              "source_reference": "page_0096.rtf#para3-sub1"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link weaponizes informal communications, showing how a defendant can ambush a plaintiff's formal procedural move by raising an issue of fact that must be resolved before default can be properly entered.",
+          "litigation_implications": [
+            "A plaintiff must document all timeline agreements in writing to neutralize this potential counter-attack."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-031-participation-framework-is-governed-by-court-discretion",
+        "source_node_id": "wf-r3-37-defaulted-defendant-participation-framework",
+        "target_node_id": "cm-r3-37-court-discretionary-powers",
+        "relationship_type": "IS_GOVERNED_BY",
+        "description": "The framework of rights for a defaulted defendant's participation at an assessment is not absolute; it is governed and defined by the court's broad discretionary powers under Rule 3.37(3).",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The “make any necessary order” power is sufficiently broad to authorize participation by a struck or noted-in-default defendant and to set its bounds.",
+              "source_reference": "05156.rtf#§3.37:1-para121"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This relationship establishes the clear hierarchy of power. While a defaulted defendant has a framework of potential rights, the judge is the ultimate arbiter of which rights can be exercised and to what extent in any given case.",
+          "litigation_implications": [
+            "A defaulted defendant must persuade the judge that their proposed participation is warranted and will assist the court."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "relationship_id": "rel-032-participation-framework-modifies-deemed-admission",
+        "source_node_id": "wf-r3-37-defaulted-defendant-participation-framework",
+        "target_node_id": "fp-r3-37-deemed-admission-of-facts",
+        "relationship_type": "MODIFIES",
+        "description": "The right of a defaulted defendant to participate in an assessment modifies the practical effect of a deemed admission. While the facts of liability are admitted, the defendant can still actively contest the consequences of those facts.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A defendant who has been noted in default cannot adduce evidence to contradict the facts alleged in the Statement of Claim in the course of a hearing for the assessment of damages;",
+              "source_reference": "05156.rtf#§3.37:1-para24-sub3"
+            }
+          ],
+          "source_references": [],
+          "verified_at": "2025-11-03T12:45:00Z",
+          "strategic_rationale": "This link clarifies that a deemed admission is not a complete surrender. It is a concession on liability that shifts the battlefield to quantum and legal conclusions, where the defaulted defendant can still fight.",
+          "litigation_implications": [
+            "A plaintiff must be prepared for a contested hearing on damages even after securing a default."
+          ],
+          "case_law_anchors": []
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-liquidated-demand-blitz",
+        "title": "The Liquidated Demand Blitz",
+        "objective": "To obtain a fast, inexpensive default judgment for a clear-cut debt or contractual sum without requiring a court hearing.",
+        "prerequisites": [
+          "The claim is for a 'debt or liquidated demand' as defined in R. 3.39(2).",
+          "The defendant has failed to file a Statement of Defence or Demand for Notice within the prescribed time.",
+          "Proper service of the Statement of Claim can be proven via affidavit."
+        ],
+        "expected_outcome": "Judgment is entered by the court clerk for the principal amount, specified interest, and costs, creating an enforceable order.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "wf-r3-39-liquidated-demand-judgment-framework"
+            ],
+            "action": "Confirm the claim meets the strict definition of a 'liquidated demand' under Rule 3.39(2) - i.e., the amount is fixed by contract or simple calculation.",
+            "justification": "In this rule, “liquidated demand” means (a) a claim for a specific sum payable under an express or implied contract for the payment of money... where the amount of money claimed can be determined by (i) the terms of the contract, (ii) calculation only, or (iii) taking an account between the plaintiff and the defendant..."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "pt-r3-36-faulty-service-trap"
+            ],
+            "action": "Prepare and file a flawless Affidavit of Service of the Statement of Claim, ensuring all timelines and methods comply with the Rules.",
+            "justification": "...the plaintiff may, on filing an affidavit of service of the statement of claim, (a) enter judgment against the defendant under rule 3.38 or 3.39..."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "cm-r3-36-plaintiffs-default-options"
+            ],
+            "action": "File the required forms with the court clerk to directly 'enter judgment' against the defendant under the authority of Rule 3.36(1)(a) and Rule 3.39.",
+            "justification": "If a statement of claim includes a claim for a debt or a liquidated demand... the plaintiff (a) may enter judgment for a sum not exceeding the amount in respect of which no defence is filed..."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "pt-r3-36-costs-discretion-trap"
+            ],
+            "action": "If seeking solicitor-client costs based on a contract, recognize this cannot be done administratively. File a separate application to a judge for an award of those specific costs.",
+            "justification": "...costs are always the discretion of the Court, even in the face of a specific agreement between the parties; and regardless of an agreement, costs are always taxable."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-unliquidated-claim-two-step",
+        "title": "The Unliquidated Claim Two-Step",
+        "objective": "To obtain judgment for an unliquidated claim (e.g., damages for negligence) against a non-defending party by first establishing liability through default and then proving quantum to the court.",
+        "prerequisites": [
+          "The claim is for unliquidated damages.",
+          "The defendant has failed to file a defence.",
+          "Proper service can be proven."
+        ],
+        "expected_outcome": "A judgment from a judge awarding a specific quantum of damages after an assessment.",
+        "steps": [
+          {
+            "step_number": 1,
+            "node_refs": [
+              "cm-r3-36-plaintiffs-default-options"
+            ],
+            "action": "File an Affidavit of Service and a praecipe requiring the court clerk to 'note the defendant in default' under Rule 3.36(1)(b). This is the mandatory first step.",
+            "justification": "...the plaintiff may... (b) require the court clerk to enter in the court file of the action... a note to the effect that the defendant... is noted in default."
+          },
+          {
+            "step_number": 2,
+            "node_refs": [
+              "fp-r3-37-deemed-admission-of-facts"
+            ],
+            "action": "Prepare an application for judgment under Rule 3.37, relying on the principle that the noting in default establishes a deemed admission of all pleaded facts, thus proving liability.",
+            "justification": "A defendant who is noted in default is deemed to have admitted the allegations of fact contained in the Statement of Claim."
+          },
+          {
+            "step_number": 3,
+            "node_refs": [
+              "fp-r3-37-no-admission-of-law",
+              "cm-r3-37-court-discretionary-powers"
+            ],
+            "action": "Submit affidavit evidence to the court proving the quantum of damages. Argue in the application brief how the admitted facts satisfy the elements of the cause of action.",
+            "justification": "The purpose of an assessment of damages is to determine the quantum of damages, rather than the liability for damages, provided that the facts deemed to have been admitted establish the cause of action."
+          },
+          {
+            "step_number": 4,
+            "node_refs": [
+              "pt-r3-37-alternative-remedies-notice-trap"
+            ],
+            "action": "If alternative remedies were pleaded, ensure the application for judgment is served on the defaulted defendant to provide notice of the remedy being sought.",
+            "justification": "...where a plaintiff has sought alternative remedies, the defendant should be given notice of a motion by the plaintiff to seek one of those remedies."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-the-alternative-liability-ambush",
+        "title": "The Alternative Liability Ambush",
+        "scenario": "A plaintiff sues a corporation (Defendant A) and its sole director (Defendant B) for breach of contract, unsure if the director was acting as an agent or personally. Defendant A, a shell company, does not defend. Defendant B files a defence. The plaintiff, seeing an easy win, takes default judgment against Defendant A.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "actor": "Plaintiff",
+            "action": "Plaintiff files for and obtains default judgment against the non-defending corporation, Defendant A, under Rule 3.36.",
+            "node_refs": [
+              "cm-r3-36-plaintiffs-default-options"
+            ]
+          },
+          {
+            "move_number": 2,
+            "actor": "Plaintiff",
+            "action": "Plaintiff attempts to continue the action against the defending director, Defendant B, citing the right to do so under Rule 3.40.",
+            "node_refs": [
+              "cm-r3-40-continuation-against-other-defendants"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "actor": "Defendant B",
+            "action": "Defendant B's counsel immediately brings a summary dismissal application.",
+            "node_refs": []
+          },
+          {
+            "move_number": 2,
+            "actor": "Defendant B",
+            "action": "Defendant B argues that the liability of the corporation and its director (as agent) is alternative, not joint and several. By taking judgment against the principal (Defendant A), the plaintiff has made a binding legal election and is now barred from pursuing the agent (Defendant B).",
+            "node_refs": [
+              "pt-r3-40-alternative-liability-election-trap"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-001-liability-analysis",
+            "description": "The critical decision point for the plaintiff occurs *before* taking default judgment: Is the liability of A and B truly joint and several, or is it alternative? A mistake here is fatal.",
+            "options": [
+              "Proceed with default judgment (High Risk if liability is alternative).",
+              "Forgo default judgment and proceed to trial against both defendants (Safe Path)."
+            ]
+          }
+        ],
+        "expected_outcome": "The court will likely agree that liability was alternative. Defendant B's application for dismissal will be granted with costs against the plaintiff. The plaintiff is left with a worthless judgment against a shell corporation and has lost the claim against the potentially solvent individual director."
+      },
+      {
+        "simulation_id": "cms-002-the-improper-amendment-reversal",
+        "title": "The Improper Amendment Reversal",
+        "scenario": "Plaintiff sues a defendant for $50,000 in damages. The defendant, assessing the risk, decides not to defend and is noted in default. Later, the plaintiff discovers further damages and amends the Statement of Claim to claim $500,000 and adds a new cause of action for fraud. The plaintiff does not serve the amended claim on the defaulted defendant and applies for judgment for the full $500,000.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "actor": "Plaintiff",
+            "action": "Notes defendant in default on the original $50,000 claim.",
+            "node_refs": [
+              "cm-r3-36-plaintiffs-default-options"
+            ]
+          },
+          {
+            "move_number": 2,
+            "actor": "Plaintiff",
+            "action": "Amends the claim to $500,000 plus fraud, but does not serve the defaulted defendant.",
+            "node_refs": []
+          },
+          {
+            "move_number": 3,
+            "actor": "Plaintiff",
+            "action": "Applies for default judgment for $500,000, arguing the defendant is deemed to have admitted the facts supporting the higher amount and the fraud claim.",
+            "node_refs": [
+              "fp-r3-37-deemed-admission-of-facts"
+            ]
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "actor": "Defendant",
+            "action": "Upon learning of the judgment, the defendant immediately files an application to set it aside as irregular.",
+            "node_refs": []
+          },
+          {
+            "move_number": 2,
+            "actor": "Defendant",
+            "action": "Defendant argues that the default only applied to the original claim. The failure to serve the amended Statement of Claim, which substantially increased liability and added a new cause of action, was a fundamental denial of due process. The judgment is a nullity.",
+            "node_refs": [
+              "pt-r3-37-amended-claim-reservice-trap"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-002-reservice-decision",
+            "description": "The plaintiff's key decision point is after amending the claim: Do we serve the defaulted defendant? The rules and fairness dictate yes.",
+            "options": [
+              "Serve the amended claim (Proper procedure, resets the clock for defence).",
+              "Do not serve and proceed to judgment (Improper, creates a fatal flaw in the judgment)."
+            ]
+          }
+        ],
+        "expected_outcome": "The court will set aside the default judgment as irregular. The plaintiff will be ordered to pay the defendant's costs for the application. The plaintiff must now properly serve the amended Statement of Claim, and the defendant will have a new opportunity to file a defence, having been alerted to the high stakes of the litigation. The plaintiff has lost significant time and money."
+      },
+      {
+        "simulation_id": "cms-003-the-zombie-defendant-motion",
+        "title": "The Zombie Defendant Motion",
+        "scenario": "A plaintiff notes a defendant in default in a complex commercial case. Believing the defendant is out of the picture, the plaintiff focuses on other aspects of the litigation and lets more than two years pass without taking any steps to obtain judgment or move the action forward against the defaulted defendant.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "actor": "Plaintiff",
+            "action": "Successfully notes the defendant in default, establishing a deemed admission of facts.",
+            "node_refs": [
+              "cm-r3-36-plaintiffs-default-options",
+              "fp-r3-37-deemed-admission-of-facts"
+            ]
+          },
+          {
+            "move_number": 2,
+            "actor": "Plaintiff",
+            "action": "Takes no further steps on the file with respect to the defaulted defendant for over two years, allowing significant delay to accrue.",
+            "node_refs": []
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "actor": "Defaulted Defendant",
+            "action": "The defaulted defendant, despite being unable to defend on the merits, files an application to dismiss the plaintiff's entire action for long delay.",
+            "node_refs": []
+          },
+          {
+            "move_number": 2,
+            "actor": "Defaulted Defendant",
+            "action": "In response to the plaintiff's argument that a defaulted party has no standing, the defendant cites the principle that a defaulted party does not cease to be a party and retains the right to bring applications under the Rules.",
+            "node_refs": [
+              "cm-r3-37-defaulted-party-retains-application-rights"
+            ]
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-003-prosecution-diligence",
+            "description": "The plaintiff's critical decision point occurs after noting the defendant in default: Do we proceed diligently to the next step (assessment of damages), or do we let the file sit?",
+            "options": [
+              "Proceed to judgment promptly (Neutralizes the risk of a delay motion).",
+              "Allow the file to languish (Creates a significant vulnerability to a dismissal application)."
+            ]
+          }
+        ],
+        "expected_outcome": "The court will likely find that the defaulted defendant has standing to bring the dismissal application. Given the significant delay, there is a high probability the plaintiff's action will be dismissed with costs, resulting in a complete loss for the plaintiff despite having secured an initial default. The 'zombie' defendant wins."
+      }
+    ]
+  }
+}

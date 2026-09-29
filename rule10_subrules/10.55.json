@@ -1,0 +1,231 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.55",
+  "title": {
+    "official": "Inherent jurisdiction",
+    "variants": {}
+  },
+  "division": {
+    "number": 6,
+    "heading": "Inherent Jurisdiction"
+  },
+  "subdivision": null,
+  "operative_text": {
+    "controlling": "10.55   Nothing in these rules prevents or is to be interpreted as\npreventing the Court, as a superior court, from exercising its\ninherent power to cite in contempt and punish those who disobey\nthe Court’s lawful orders or who otherwise display contempt for its\nprocess.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "ea8e8b52410d5f47e690eb986a822e4bbfc8c79f084bcc6b0dbb38897733dc0a"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.55 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.55 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag; its Part 11 entries print 'August 14, 2010') and was not checked. The entry is printed under the Division heading 'Division 6 – INHERENT JURISDICTION' (line 344), which agrees with the official Division 6. Its rule text equals the official text; it has no commentary and no citation."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          222
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Inherent Jurisdiction",
+      "operative_text_raw": null,
+      "operative_text_sha256": "320ebaf5b01e7bbda78a98747ee91c5223d9eda05c7a0ba611adbb45ff8eed80",
+      "related_provisions": "1.3 (general authority of court) ; 10.52 (contempt)",
+      "commentary": "See also R.10.53(1) n. M.",
+      "footnotes": [
+        {
+          "page": "10-169",
+          "number": 2,
+          "text": "Quite similar to previous R.703(3). It was ﬁrst enacted by Alta. Reg.101/99."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          9121,
+          9134
+        ],
+        "book_pages": [
+          "10-169"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-169 (line 9119) to the end of the Book A file for this Part (line 9134): the Division heading lines 'DIVISION 6' and 'INHERENT JURISDICTION' (lines 9119-9120; official Division 6 'Inherent Jurisdiction'), title (line 9121), rule text (lines 9122-9125; footnote marker '2' after 'display contempt for its process.'), Related Provisions (lines 9127-9128: '1.3 (general authority of court) ; 10.52 (contempt)'; official 1.3 'General authority of the Court to provide remedies', official 10.52 'Declaration of civil contempt'), the line 'See also R.10.53(1) n. M.' (line 9130) and the footnote block (lines 9132-9134; fn 1 belongs to 10.54, fn 2 is this rule's: 'Quite similar to previous R.703(3). It was ﬁrst enacted by Alta. Reg.101/99.', a history footnote naming an old rule and regulation that was not checked; the official history is 'AR 124/2010' only). The locator (lines 9121-9134) starts after the Division heading lines. There is no note text: the file has no line after 9134 that belongs to Part 10 (the file ends there). Read against the official text: the rule text has the same words as official 10.55 (EXACT_MATCH); no amendment bracket is printed. Pointer that does not land: 'See also R.10.53(1) n. M.' (line 9130): the note to 10.53 has Parts A-E (A. Introduction, line 8659; B. Penalties; C. Costs; D. Party in Contempt Cannot Make Application; E. Miscellaneous, line 9010) and no Part M, while the note to 10.52 has a Part M, 'Other Avenues to Punish or Enforce' (line 8577); which of the two notes the pointer means was not resolved. Statements elsewhere that agree with the rule: the 10.51 note (fn 4, 'The Court of King's Bench and the Court of Appeal are superior courts, and therefore have inherent power to punish contempt') and, in Book B's 10.52 commentary, the Schitthelm extract ('Superior courts have the inherent jurisdiction to control the proceedings before them', paragraph 19) and the Lenaco extract ('Courts have inherent jurisdiction to deal with contempt of their orders', paragraph 44). The 'Related Provisions' labels for this rule in other Book A notes are 'inherent contempt power' ('combined rule1.txt' lines 374 and 1625)."
+    },
+    "BOOK_B": {
+      "title": "Inherent jurisdiction",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_55_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_012"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part12_document.json"
+        ]
+      },
+      "operative_text_sha256": "626d30d1af1518fc198b881ba2f45f7e661274034efc8e6933ac0be04e97f77d",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Inherent jurisdiction",
+      "division_heading": "Division 6 – INHERENT JURISDICTION",
+      "operative_text_raw": null,
+      "operative_text_sha256": "ff6786dce8f1178a04c3a766b64c53498f42055f076f6e0e85e3e7d2cc076148",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "501-520_10_47 to 11_9.json",
+        "source_file": "501-520_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.55",
+      "title_official": "Inherent jurisdiction"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "320ebaf5b01e7bbda78a98747ee91c5223d9eda05c7a0ba611adbb45ff8eed80",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            9121,
+            9134
+          ],
+          "book_pages": [
+            "10-169"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "626d30d1af1518fc198b881ba2f45f7e661274034efc8e6933ac0be04e97f77d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part12_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "ff6786dce8f1178a04c3a766b64c53498f42055f076f6e0e85e3e7d2cc076148",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "501-520_10_47 to 11_9.json",
+          "source_file": "501-520_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "ea8e8b52410d5f47e690eb986a822e4bbfc8c79f084bcc6b0dbb38897733dc0a",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            222
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "487f1812d98566e04ab3045a166d3e41183b90c7a4b117567c54925735f72c1b"
+  },
+  "information_notes": [
+    {
+      "text": "Words and phrases used in this Part that have defined meanings in the Appendix include:\n[Definitions]\n• claim • commencement document • Court • court clerk • defendant • enactment • file • foreclosure action • judicial centre • land • lawyer • order • partnership • party • personal representative • plaintiff • property • recorded mail • rules • secured land • secured property • trustee G P ENERAL ROVISIONS",
+      "carriers": [
+        "BOOK_C"
+      ],
+      "review_flag": "This information note is not Part 10's: it is the Part 11 (Service of Documents) note that Book C prints after 10.55 and before its 11.1 entry ('Words and phrases used in this Part that have defined meanings in the Appendix include: claim; commencement document; Court; court clerk; defendant; enactment; file; foreclosure action; judicial centre; land; lawyer; order; partnership; party; personal representative; plaintiff; property; recorded mail; rules; secured land; secured property; trustee'). Book A prints the same list in the Part 11 opening (combined_rule11.txt lines 26-30, with 'judgment centre' where Book C prints 'judicial centre'; the Appendix defines 'judicial centre', official line 40855), while Book A's Part 10 list (combined_rule10.txt lines 35-40: assessment officer; claim; client; commencement document; contingency fee agreement; costs award; ...; trustee) is a different list. The note ends with 'G P ENERAL ROVISIONS', the heading 'GENERAL PROVISIONS' (Division 1 of Part 11) with its drop-cap letters separated. The note is kept here as printed by Book C, attached to the last rule of Part 10 in its file, and belongs to Part 11."
+    }
+  ],
+  "see_also": [
+    "Official text (searched for '10.55' with the pattern that also finds line-wrapped forms; ranges searched separately): two hits, the table of contents (line 1678) and the rule (line 13292). No other rule or form cites 10.55 by number. By subject (titles from the official text): 10.52 'Declaration of civil contempt' and 10.53 'Punishment for civil contempt of Court' (the Court's power to declare and punish), 1.3 'General authority of the Court to provide remedies'; the word 'inherent' occurs in the official text only in this rule (line 13294; searched 'inherent').",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the table of contents (line 17, 'Division 6: Inherent Jurisdiction') and this rule (line 9122, p.10-169); in 'combined rule1.txt' lines 374 and 1625 (Related Provisions lists: '10.55 (inherent contempt power)'). Book A's notes to 10.51 (Related Provisions and fn 4) and 10.52 (p.10-158 fn 7) name '10.53' for the inherent contempt power, which is official 10.55 (flagged at 10.51 and 10.52).",
+    "BOOK_B: this rule is in rule10_part12_document.json (6 lines with '10.55': the heading and paragraph records, lines 4562-4587), which holds the heading and the rule text (EXACT_MATCH) and no commentary; no other Book B file cites 10.55 by number.",
+    "BOOK_C: '501-520_10_47 to 11_9.json' (3 hits: this entry, lines 347-357: rule text equal to the official text, amendment note, no commentary and no citation, but with an information note that belongs to Part 11, see the note flag); no other Book C file cites 10.55 by number."
+  ],
+  "dedupe_log": [
+    "10.55 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.55 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.55 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.55 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

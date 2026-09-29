@@ -1,0 +1,10 @@
+{
+  "run_id": "arc_rule_5_33_no_write",
+  "rule_number": "5.33",
+  "write_mode": "none",
+  "graph_writes_performed": false,
+  "approval_status": "not_approved",
+  "manual_validation_required": true,
+  "public_verification_required": true,
+  "rollback_plan_required_before_write": true
+}

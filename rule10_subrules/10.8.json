@@ -1,0 +1,271 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.8",
+  "title": {
+    "official": "Lawyer’s non-compliance with contingency fee agreement",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 3,
+    "heading": "Contingency Fee Agreements"
+  },
+  "operative_text": {
+    "controlling": "10.8   If a lawyer does not comply with rule 10.7(1) to (4), (6) and\n(7), the lawyer is, on successful accomplishment or disposition of\nthe subject-matter of the contingency fee agreement, entitled only\nto lawyer’s charges determined in accordance with rule 10.2 as if\nno contingency fee agreement had been entered into.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "afb05fe377e3efffd49f1d9a8c199f1b26a57b2e9f936f7fb4485fc5825acf87"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.8 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          198
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Lawyer’s Non-compliance With Contingency Fee Agreement",
+      "operative_text_raw": null,
+      "operative_text_sha256": "e94b1b2b8597c3dad42c20035ea55833cc397097d7ad1611475c52cb825c0234",
+      "related_provisions": "10.18(4) (disallowance of contingency fee agreement)",
+      "commentary": "See also R.10.2 and R.10.7and notes, about the results of a defect in a contingency agreement.\nIf the contingency fee contract is not enforceable, the court can still allow more than a simple\nhourly rate, to reﬂect risks run by the lawyer.¹\nAn infant’s contingency fee contract violated the Rules, lacking a statement about taxable\ncosts or about a maximum, an afﬁdavit of execution, and also proof of service on the client. So\nit was not enforceable under the new or former Rules and had to be ignored, and the default R.\n10.2 applied.²",
+      "footnotes": [
+        {
+          "page": "10-21",
+          "number": 13,
+          "text": "Quite similar to previous 1968 R.618. It was new in 1968. And was reworded a little in 2000."
+        },
+        {
+          "page": "10-22",
+          "number": 1,
+          "text": "M. S. v. D. M. Jr.2014 ABQB 702, 601 AR 310; cf. Tallcree F. N. v. Rath & Co. (#2), supra."
+        },
+        {
+          "page": "10-22",
+          "number": 2,
+          "text": "M. S. v. D. M. Jr. , supra."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          988,
+          1028
+        ],
+        "book_pages": [
+          "10-21",
+          "10-22"
+        ]
+      },
+      "operative_text_note": "same wording as official 10.8 (read by eye) except: the bracket labels '[Contingency fee agreement requirements]' after 'rule 10.7(1) to (4), (6) and (7)' and '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' (the official titles of 10.7 and 10.2); the ligature 'fi'; the title in title case ('Lawyer's Non-compliance With Contingency Fee Agreement', line 988, printed at the end of the 10.7 note); the footnote marker '13' after the text (the history footnote, in the p.10-21 block at line 1012). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference.",
+      "commentary_review_flag": "Read in full, p.10-21 (line 988) to p.10-22 (line 1026): title (line 988), rule text (lines 989-994), the p.10-21 footnote block (lines 996-1012; fns 1-12 are the 10.7 note's, fn 13 this rule's history footnote), page marker 10-22 (line 1014), running head 'R.10.9' (line 1015), Related Provisions (lines 1017-1018) and the note (lines 1020-1026; markers 1 and 2), whose two footnotes are printed in the p.10-22 block after the text of 10.9 (lines 1050-1051). The built record: related_provisions '10.18(4) (disallowance of contingency fee agreement)' (agrees with the official 10.18(4)); a commentary field of 537 characters; three footnotes (p.10-21 fn 13; p.10-22 fns 1-2, counted from the file). History footnote 13: 'Quite similar to previous 1968 R.618. It was new in 1968. And was reworded a little in 2000.' (Book B's Sonnenberg quotation, 'Rule 618 states that an agreement that does not comply with Rule 616 is to be disregarded', agrees that R.618 is the old non-compliance rule). Statements read against the official text: 'See also R.10.2 and R.10.7and notes' ('R.10.7and' as printed) lands; 'If the contingency fee contract is not enforceable, the court can still allow more than a simple hourly rate, to reflect risks run by the lawyer' is a case-law statement (fn 1, M. S. v. D. M. Jr. 2014 ABQB 702) - official 10.8 gives 'lawyer's charges determined in accordance with rule 10.2', whose factors include the skill, work and responsibility involved; 'An infant's contingency fee contract violated the Rules, lacking a statement about taxable costs or about a maximum, an affidavit of execution, and also proof of service on the client ... the default R. 10.2 applied' agrees with 10.8 (non-compliance with 10.7(2), (3) and (4) leaves only 10.2 charges). supra/infra: fn 1 prints the first full citation of M. S. v. D. M. Jr. in the book ('2014 ABQB 702, 601 AR 310'; see the 10.7 flags on the earlier 'supra' uses); fn 1 'Tallcree F. N. v. Rath & Co. (#2), supra' points back to p.10-17 fn 3 (2021 ABQB 234); fn 2 'M. S. v. D. M. Jr., supra' points to fn 1. The cases (M. S. v. D. M. Jr. 2014 ABQB 702, Tallcree F. N. v. Rath (#2) 2021 ABQB 234) were not checked."
+    },
+    "BOOK_B": {
+      "title": "Lawyer's non-compliance with contingency fee agreement",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.8:1",
+          "text": "Rule 10.8 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.8. 1. Consequences for Violating R. 10.7 In my opinion, a solicitor who fails to comply with RR. 616 and 617 should not be entitled to derive any benefit from his failure or omission. His position should be, in any event, no better than that of his colleague who complied with the rules. The solicitor who has complied with the rules is limited by the very terms of the contingency arrangement to a maximum recovery as set out in the contingency agreement. If the fees that might otherwise be charged on a quantum meruit basis exceed in quantum that allowable pursuant to the contingency, the solicitor who has complied with the rules is limited to recovery of the percentage set out in the contingency agreement. In my opinion, it necessarily follows that a lawyer who has not complied with RR. 616 and 617 should be in no better position … In my opinion, R. 618 is intended to operate so as to limit solicitors who have not complied with R. 616 to a fee recovery based upon quantum meruit if that fee calculation is less than the fee that would otherwise be payable pursuant to the contingency arrangement. Solicitors who have failed to comply with R. 616 and would otherwise have been entitled to a higher fee based on a contigency calculation have, by their conduct, lost that entitlement. Baergen v. Peterson Ross (1986), 48 Alta. L.R. (2d) 386 (Q.B.), at 390–91, per Berger J. In Leffler v. Collins (1997), 213 A.R. 395 (Q.B.), the lawyer billed the client on the basis of an oral, and therefore unfiled, contingency agreement. In ruling that the agreement was unenforceable, Veit J. said, at p. 396: It is only in the rarest of circumstances that the requirements of the rules relating to the requirement not only that contingency agreements be in writing, but also that they be filed, will be relaxed. It may be, for example, that a fully informed client may be able to effectively waive the benefit of those rules. In discussing when such a waiver would occur, Her Ladyship said, at pp. 397–98: It is, indeed, very likely that [the client] does understand the basis on which [the lawyer] agreed to act for her in these various proceedings. Nonetheless, the Rules establish not only the requirement that contingency agreements be in writing, and filed with the court, but also the treatment that shall be handed out when a contingency agreement does not comply with the Rules. It will be seen that rule 618 is not limited to those situations where the client, for example, understands the nature of the contingency arrangement. The rules applies in the broadest possible way: the reason for this is that the rule is designed to ensure compliance by lawyers with the requirements of rule 616. If the courts were to carve exceptions out of rule 618 for ordinary situations, the overall thrust of the requirement that contingency agreements be in writing and filed and thus subject on the one hand to advice from an independent lawyer and on the other to regulation by the courts would be greatly undermined. It is to foster that overall objective rather than to deal specifically with the situation here that the court subjects [the lawyer] to the general application of rule 618. Finally, as to quantum meruit, Veit J. said, at p. 397: The traditional response of the courts to oral contingency agreements has been to determine that they are unenforceable and that the lawyer should be able to recover only fees on a quantum meruit basis. As to what a quantum meruit basis is, the case law suggests that this is not equivalent to party and party costs as determined by the tariff established under the Rules. As Berger, J., as he then was, quoted with approval in Baergen … the extent and character of the services considered, and labour, time and trouble involved, the character and importance of the litigation in which the services were rendered, the amount of money or the value of the property involved, the professional skill and experience called for, the character and standing in his profession of the counsel and the results achieved. must all be taken into account in determining the amount of the lawyer's quantum meruit claim. 2. Court's Discretion to Waive Irregularities In Sonnenberg v. Schumacher & Associates, 2005 ABQB 352, 2005 CarswellAlta 840, 52 Alta. L.R. (4th) 151, 16 C.P.C. (6th) 88, Germain J. had before him a contingency agreement which did not strictly comply with Rule 616. As to the court's ability to waive such irregularities, his Lordship said, at pp. 156–157: The Sockett contingency agreement does comply for the most part with Rule 616, except that it does not contain the client's address. Rule 618 states that an agreement that does not comply with Rule 616 is to be disregarded. The courts do have a broad discretion to ignore irregularities, but Rule 618 has been interpreted very strictly. See, for example, Jackie & Handerek v. Dohmann 83 A.R. 308 (Alta. Q.B. 1987). I agree that Rule 618 purposefully prohibits enforcement when there is non-compliance, but I find that the Rule should not be interpreted so inflexibly that the most minuscule and immaterial omission would prevent the enforcement of the agreement. Therefore, even though I confirm that defects in a contingency agreement will be strictly construed against the lawyer, the court is not without its judicial discretion to alleviate against minor technical oversights that are without import. The failure of the agreement to set out the address of the client is one of those minor drafting irregularities that I would relieve against. However, here there are two more substantial irregularities. The next irregularity is the lack of an affidavit of execution on some copies of the agreement, including the copy that the client had and that was filed in the original taxation. Here, where the law firm was able to produce a properly signed copy, complete with an affidavit of execution, the fact that some copies did not have all affidavits attached is not an irregularity at all, or if so is insignificant. The second such irregularity is the lack of proof of the time of service on the client. The client acknowledged that she had a copy from somewhere, but did not know when or how she had received it. There is a suggestion that the client took the copy with her after signing the contingency agreement. The affidavit of service in this contingency agreement is not completed. Nevertheless, it would still be open for the lawyer to prove service in any way that would be recognized by the court. Here, due to the passage of time and the departure of personnel from the law firm, there is no absolute way to prove service as mandated by Rule 616(4). Applying a strict interpretation of this Rule based on the Alberta jurisprudence, this breach cannot be relieved against. Authority for this proposition is Jackie & Handerek, cited above. There, Miller A.C.J. dealt with the Rule as it read before it required proof of service on the client. Historically, any contingency agreement had to be filed at the courthouse. There, the contingency agreement was not so filed. When the Rule was amended in 2000, the filing requirement was abolished. Instead, there is now a requirement of proof of service and a cooling-off period for clients to change their mind without legal consequences. Miller A.C.J. found that the lack of filing at the courthouse precluded the enforcement of an otherwise valid agreement. So too I must find, that the lack of satisfactory proof of the timing and occurrence of service prevents the lawyer from relying on the contingency agreement to justify the account. In Niam v. Silverberg, 2015 ABQB 682, a client challenged the enforceability of a contingency fee agreement. Justice Brooker discussed the situations in which a contingency fee agreement (CFA) could survive non-compliance with the service requirement in the Rules. In the following excerpts, “CESPC” is the professional corporation of the lawyer. His Lordship said: 114 Both parties acknowledge that a signed copy of the CFA was never formally served on Niam. Rather, as discussed above, CESPC emailed the CFA (as executed by Silverberg on behalf of CESPC) to Glock and Niam on October 31, 2013, along with a full copy of Part 10 of the Rules. On November 4, 2013, Niam executed the agreement on her own behalf in the presence of a notary public, and provided a copy of the fully executed document to CESPC. 115 While Niam acknowledges having possession of a fully executed copy of the CFA as of November 3, 2013, she argues that CESPC failed to serve her with an executed version, and that this non-compliance is more than merely technical. Niam argues that Rule 10.7(4) expressly requires the lawyer to serve an executed version of a contingency fee agreement upon his or her client, and that the converse occurred in this instance. … 122 Interestingly, in the subsequent decision in Leffler, while the Court found that an agreement which had not been reduced to writing could not be relied upon, Veit J went on to state, at para 3: • The oral contingency agreement is not enforceable by Mr. Collins against Ms. Leffler. It is only in the rarest circumstances that the requirements of the rules relating to the requirement not only that contingency agreements be in writing, but also that they be filed, will be relaxed. It may be, for example, that a fully informed client may be able to effectively waive the benefit of those rules. This case is not exceptional. [emphasis added] 123 The above demonstrates the possible departure from the approach taken in Dohmann where the Court held that a failure to file would defeat the agreement. It further demonstrates a willingness to relax not only the more technical requirements of the rules (such as the filing requirement) but also the more substantive requirements, in certain circumstances. I am in full agreement with Justice Veit that the requirements contained in the rules may only be relaxed in exceptional cases. However, I find that the case before me is indeed exceptional, given Niam's sophistication coupled with the unique circumstances in which the CFA was drafted, revised, and ultimately presented to Niam. … 128 While I agree that the rules require service of a fully executed document, on the unique facts before me, it would be unreasonable to set aside the CFA simply because CESPC failed to return to Niam a copy of the exact document that Niam had just executed and provided to CESPC. In the circumstances, the final version of the CFA was provided to Niam and her counsel after an extensive period of negotiation and revision. A complete copy of Part 10 of the Rules was also provided. Niam then signed the agreement in the presence of a notary. This differs from the typical circumstances in which a contingency fee is provided to a client; i.e. a standard form agreement drafted solely by the lawyer and provided to the client after an initial consultation. Service, and the corresponding ability of the client to terminate the agreement upon further reflection, is much more important in conventional cases. 129 Thus, while I find formal service as mandated under the rules was not effected, the CFA was conveyed to Niam (and Glock) in a context in which it was clear that, by executing the document, certain rights and obligations were being engaged. While service was not technically effected as required by rule 10.7(4), I find this to be a rare instance where the failure to strictly comply with the rules does not result in the CFA being found unenforceable under rule 10.8. 130 A departure from the strict approach usually taken by the courts was recently seen in Botan (Botan Law Office) v St Amand, 2011 ABQB 774, 529 AR 313 (Michalyshyn J). In that case Mr. Botan sent his client (St. Amand) the firm's form of contingency fee agreement following a telephone discussion about St. Amand's possible claim. St. Amand signed the agreement and returned it to Botan. There was no service upon the client. In finding the contingency fee agreement valid, notwithstanding Botan's failure to strictly comply with the rules, this Court held as follows, at paras 42–44: • St. Amand argues the Agreement is invalid owing to a number of technical defects including that it was not dated or arguably signed, was not formally served on him, and was not appropriately witnessed in the sense that no one swore an affidavit attesting to his witness's signature. • Numerous cases were referred to regarding the need for strict though not perfect compliance with the form of contingency fee agreements and with former Rule 616: Morrison v. Rod Pantony Professional Corporation 2008 ABCA 145; Rusk v. Medicine Hat (City of) 2001 ABQB 1020; Sonnenberg v. Schumacher & Associates 2005 ABQB 352. • In all of the circumstances I would not invalidate the Agreement. The formalities around execution of a contingency fee agreement aim to avoid uncertainty and disputes as to what was agreed. Formal service of such an agreement creates a “cooling off” period enabling the client to walk away from the agreement without liability even for disbursements. Here the Agreement would have been no clearer to St. Amand with or without an affidavit of execution of the witness to St. Amand's signature or indeed with or without Botan's signature. And St. Amand was no worse off for the loss of the “cooling off” period that follows service. He could terminate the Agreement at any time before Botan submitted an application for compensation, without liability for fees and—given Botan's waiver of out-of-pocket expenses—without liability for disbursements. 131 Niam urges against placing any reliance upon Botan, arguing that it does not follow established jurisprudence. I find Botan to be of assistance in that it deals with a situation similar to that at bar, namely, the sole defect legitimately complained of is lack of service of a fully executed agreement. Moreover, Botan was confirmed by our Court of Appeal: 2013 ABCA 227. While the appeal dealt with an unrelated issue, the Court was silent as to Michalyshyn J's treatment of the enforceability of the contingency fee agreement. While Botan does appear to contemplate a departure from the rules even absent the “exceptional” circumstances called for in Loffler, it nevertheless demonstrates this Court's willingness to uphold agreements which might otherwise be set aside on “technical” defects. 132 On the unique facts of this case, I find that Niam is not able to rely on rule 10.8 to set aside the CFA, notwithstanding the fact that she was never formally served by CESPC with a fully executed copy of the agreement. 133 My conclusion is supported by the fact that Niam is not the type of client typically seen entering into contingency fee agreements. The overall aim of these types of agreements is to make court proceedings available to people who could not otherwise afford to have their legal rights determined: Coronation Insurance Co v Florence, [1994] SCJ No 116 (Cory J). As more recently commented upon by this Court in M(S) v D(M), at para 38: • That said, one must also consider that the people who rely on contingency fee arrangements are often vulnerable due to poverty, impact of injuries, educational status, or other social disadvantages. The Alberta Rules of Court, Alta Reg 124/2010, Law Society Code of Conduct, and jurisprudence related to contingency fee agreements and other legal fee arrangements offer some protection for this potentially vulnerable segment of the population. 134 The nature of contingency fee agreements and the typical power imbalance between lawyer and client have led to what was described by Germain J in Sonnenberg, at para 30, as: • … the delicate balancing of public policy around contingency agreements which has led to their acceptance, but only under strict Rules to ensure fairness to both sides. If the strict Rules are followed, then the contingency is considered with much weight, on taxation. If the strict Rules are breached, then the contingency is not considered. 135 Niam's personal circumstances lessen the need for protection as historically recognized by the courts. The evidence demonstrates that Niam was in a position to fund her litigation without having to enter into a contingency fee arrangement. Indeed, she had already retained CESPC on a retainer for earlier services. In addition, there is no indication that Niam was otherwise vulnerable. In addition to possessing financial means, she is a worldly individual, she is politically connected, and she is highly educated. 136 Finally, Niam's situation is unusual in that she had independent legal counsel advocating on her behalf during the drafting and execution of the CFA. The courts have recognized an element of conflict of interest inherent in contingency fee agreements: see Oliver v Oliver (Public Trustee of) (1996), 18 BCLR (3d) 337 (BCCA) para 30. This conflict is lessened—at least during the agreement negotiation stage—by having independent counsel involved in drafting the agreement. The evidence in this case demonstrates that Glock had a high level of input during drafting. 137 The CFA is therefore enforceable notwithstanding CESPC's failure to formally to serve a fully executed copy of the document on Niam."
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_8_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_026",
+        "part10_rule_10_8_001",
+        "part10_alberta_rules_of_court_rule_10_part_2_001"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part01_document.json",
+          "rule10_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "165c6bed6565908de968bb112f1e7028f3f27255abd37b6c132b1d125c32a457",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Lawyer’s non-compliance with contingency fee agreement",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "29248a19eaae22bddd902ff241addaac5a528e99a85898847a3100b92b5516a7",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Where a contingency fee agreement is not in technical compliance with the rules, compensation is calculated on a basis. quantum meruit Sonnenberg v. Schumacher & Associates, [2005] A.J. No. 725, 2005 ABQB 352 (Alta. Q.B.), cited in , [2015] A.J. No. 1161, 2015 ABQB 682 at para. 124 (Alta. Q.B.). Niam v. Silverberg A judge may have overarching authority to waive or relax the rules, including those on fees. Sonnenberg v. Schumacher & Associates, [2005] A.J. No. 725, 2005 ABQB 352 at para. 24 (Alta. Q.B.). The failure to include the client’s address on the retainer agreement is not fatal but a lack of proof of both time and manner of service on the client ( , no proof of service) is. The defects of a i.e. contingency agreement will be construed strictly against the lawyer. Sonnenberg v. Schumacher & Associates, [2005] A.J. No. 725, 2005 ABQB 352 at para. 38 (Alta. Q.B.); but see, by contrary example on particular facts, , [2023] Mikisew Cree First Nation v. Rath & Co. A.J. No. 550, 2023 ABKB 321 at para. 81 (Alta. K.B.) Relaxing Rules – The technical and substantive requirements contained in the rules may only be relaxed in exceptional cases. Niam v. Silverberg, [2015] A.J. No. 1161, 2015 ABQB 682 at para. 123 (Alta. Q.B.). It is only in the rarest circumstances that the requirements of the rules relating to the requirement not only that contingency agreements be in writing, but also that they be filed, will be relaxed. A fully informed client may be able to effectively Subdivision 4: RIGHT OF REVIEW",
+          "citations": [
+            {
+              "neutral_citation": "2005 ABQB 352",
+              "style_of_cause": "Sonnenberg v. Schumacher & Associates"
+            },
+            {
+              "neutral_citation": "2015 ABQB 682",
+              "style_of_cause": "Niam v. Silverberg"
+            },
+            {
+              "neutral_citation": "2023 ABKB 321",
+              "style_of_cause": "Mikisew Cree First Nation v. Rath & Co."
+            }
+          ],
+          "review_flag": "(1) The commentary ('General Principles', 1,522 characters as built) is damaged and cut off: 'compensation is calculated on a basis. quantum meruit' (the words 'quantum meruit' are displaced to after 'basis.'); 'cited in , [2015] A.J. No. 1161, 2015 ABQB 682 at para. 124 ... Niam v. Silverberg' (the case name is printed after the citation); 'a lack of proof of both time and manner of service on the client ( , no proof of service)' and 'The defects of a i.e. contingency agreement' (the 'i.e.' is displaced); 'but see, by contrary example on particular facts, , [2023] Mikisew Cree First Nation v. Rath & Co. A.J. No. 550, 2023 ABKB 321' (name after the citation); the text ends 'A fully informed client may be able to effectively' followed by the heading of the next Subdivision ('Subdivision 4: RIGHT OF REVIEW'). The built citation records had given 2015 ABQB 682 the name 'Sonnenberg v. Schumacher' and 2023 ABKB 321 'Mikisew Cree First Nation v. Rath'; repaired from the printed text (Niam v. Silverberg; Mikisew Cree First Nation v. Rath & Co.). (2) Read against Book B: the quantum meruit statement, the client's address not being fatal while lack of proof of the time and manner of service is (Sonnenberg), 'construed strictly against the lawyer' (Sonnenberg para 38, quoted in Book B and in Book B's 10.7 commentary), 'only relaxed in exceptional cases' (Niam para 123, quoted in Book B) and 'only in the rarest circumstances ... written ... filed ... fully informed client may be able to effectively [waive]' (Veit J. in Leffler v. Collins, quoted in Niam para 122 in Book B) all agree; the Mikisew para 81 'contrary example' agrees with Book A's p.10-18 fn 4 (paras 81-95). Sonnenberg para 24 and Niam para 124 (the pinpoints in Book C's first two sentences) are not among Book B's quotations. Kept as printed, flagged."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "441-460_10_1 to 10_10.json",
+        "source_file": "441-460_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it equals the official words except for the bracket labels '[Contingency fee agreement requirements]' after 'rule 10.7(1) to (4), (6) and (7)' and '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' (the official titles of 10.7 and 10.2), printed in the text."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 10.8 (read by eye) except: the bracket labels '[Contingency fee agreement requirements]' after 'rule 10.7(1) to (4), (6) and (7)' and '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' (the official titles of 10.7 and 10.2); the ligature 'fi'; the title in title case ('Lawyer's Non-compliance With Contingency Fee Agreement', line 988, printed at the end of the 10.7 note); the footnote marker '13' after the text (the history footnote, in the p.10-21 block at line 1012). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No wording difference."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.8",
+      "title_official": "Lawyer’s non-compliance with contingency fee agreement"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "e94b1b2b8597c3dad42c20035ea55833cc397097d7ad1611475c52cb825c0234",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            988,
+            1028
+          ],
+          "book_pages": [
+            "10-21",
+            "10-22"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "165c6bed6565908de968bb112f1e7028f3f27255abd37b6c132b1d125c32a457",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part01_document.json",
+            "rule10_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "29248a19eaae22bddd902ff241addaac5a528e99a85898847a3100b92b5516a7",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "441-460_10_1 to 10_10.json",
+          "source_file": "441-460_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "afb05fe377e3efffd49f1d9a8c199f1b26a57b2e9f936f7fb4485fc5825acf87",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            198
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c3752dc288b2b51759712691c8709dd822b94b335320610b9ca1123ed1c0bf14"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for 'rule 10.8', 'Rules 10.8', line-wrapped forms and form headings '[Rule 10.x]'): no rule or form cites 10.8 by number; the only hits are the table of contents (line 1485), the running head of pdf p.198 (line 11919) and the rule itself (line 11957, pdf p.198). By subject: 10.7 (the rule whose subrules (1) to (4), (6) and (7) it enforces), 10.2 (the measure it substitutes), 10.18(4) (a disallowed contingency fee agreement is replaced by charges under 10.2), 10.9 (review 'despite any agreement to the contrary'), 15.5(1)-(2) (transitional: contingency fee agreements made under the former rules, 'rule 616 of the former rules').",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): other rules that cite 10.8 - the 10.7 note, p.10-17 (line 756 'See also R.10.8 and commentary on it'; line 783 fn 5 'See R.10.8 and 10.7(8)') and p.10-18 (line 843, fn 5, 'Is that always consistent with R.10.8?'); the running head 'R.10.8' at p.10-21 (line 960) precedes this rule's title (line 988); the 10.2 note (p.10-4 line 131) 'See further R.10.7 and notes' points to the same topic. Book A's own 10.8 record: title line 988, text lines 989-994, the p.10-21 footnote block (lines 996-1012; its fns 1-12 are 10.7's, fn 13 is this rule's history footnote), Related Provisions '10.18(4) (disallowance of contingency fee agreement)' (line 1017-1018, p.10-22; agrees with the official 10.18(4)) and the note (lines 1020-1026); its footnotes 1 and 2 are printed in the p.10-22 block (lines 1050-1051, after the text of 10.9). No other Book A file cites 10.8.",
+    "BOOK_B: this rule's own commentary ('Commentary § 10.8:1', 17,335 characters as built, in two files: rule10_part01_document.json holds the rule text and rule10_part02_document.json the commentary; two numbered parts, 1 Consequences for Violating R. 10.7 and 2 Court's Discretion to Waive Irregularities) quotes Baergen v. Peterson Ross (1986), Leffler v. Collins (1997) 213 A.R. 395 (Veit J.), Sonnenberg v. Schumacher & Associates 2005 ABQB 352 (Germain J.) and Niam v. Silverberg 2015 ABQB 682 (paras 114-137); it uses the old numbers 'RR. 616 and 617', 'R. 618' and 'Rule 616(4)' (Book A's history footnote 13 at p.10-21 gives 1968 R.618 as the predecessor of 10.8, and 1968 R.616 as the predecessor of 10.7; Book A does not mention R.617). The other Book B passage that names 10.8 is the 10.7 commentary (Sturgeon Lake Cree Nation v. Rath 2024 ABKB 258 para 17: 'The language in Rule 10.7 and 10.8 is very clear and is mandatory'). Cross-book: Sonnenberg 2005 ABQB 352, 52 Alta LR(4th) 151 is Book A's p.10-19 fn 2 (10.7 note); Niam v. Silverberg 2015 ABQB 682, 29 Alta LR(6th) 298 is Book A's p.10-18 fn 1; Botan v. St. Amand 2011 ABQB 774, 529 AR 313 (Niam para 130) is Book A's p.10-17 fn 7; Mikisew Cree F. N. v. Rath 2023 ABKB 321 is Book A's p.10-18 fn 4.",
+    "BOOK_C: rule text with bracket labels (see the BOOK_C flag) and a 'General Principles' commentary of 1,522 characters about this rule (see the BOOK_C flag); no other Book C entry names 10.8 (searched all Book C files)."
+  ],
+  "dedupe_log": [
+    "10.8 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.8 BOOK_C citation context dropped (2005 ABQB 352): verbatim in kept text",
+    "10.8 BOOK_C citation context dropped (2015 ABQB 682): verbatim in kept text",
+    "10.8 BOOK_C citation context dropped (2023 ABKB 321): verbatim in kept text",
+    "10.8 BOOK_C commentary sentence split dropped",
+    "10.8 BOOK_C: rule text dropped (manual review)",
+    "10.8 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.8 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

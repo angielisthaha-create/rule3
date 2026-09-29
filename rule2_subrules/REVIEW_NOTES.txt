@@ -1,0 +1,476 @@
+RULES 2.1-2.32 - MANUAL REVIEW NOTES (arc-rules-production-lifecycle, SOURCE_RECONCILIATION, no graph writes)
+
+Sources: OFFICIAL = King's Printer consolidation (current to 1 Jun 2026) - controls the rule text.
+BOOK_A = combined_rule2.txt (annotated; "2-N" pages, Related Provisions, history footnotes)
+BOOK_B = rule2_part01/02_document.json (Fradsham, Alberta Rules of Court 2026)
+BOOK_C = 81-100 / 101-120 json (annotated, book pp. 81-120)
+Method: each output file read against its source text; the scripts only build the files.
+
+EXTRACTION FIXES MADE DURING REVIEW (they affected every rule)
+- BOOK_A Related Provisions that wrap across a blank line were cut off; the remainder went into commentary. Fixed.
+- BOOK_A footnotes were attached by position, not by reference. They now attach by the superscript number on each page.
+- BOOK_A "[Footnote N continued from prior page]" text sat in commentary (2.9 fn 7 and 8). It is now joined to its footnote.
+- BOOK_A footnote 13 (2.22) was printed on the next page's footnote block, and page 2-46 footnotes 1-4 were merged into it. Fixed.
+- BOOK_A "DIVISION 2/3/4" headings leaked into the ends of 2.10 and 2.21 commentary. Removed.
+- Dedupe now drops book rule text only on an exact match with the official text, so Book A's bracketed amendment notes are kept.
+- Book C information notes are merged with Book A's only when about the same; any wording difference is kept as variant_text.
+
+RULE-BY-RULE FINDINGS (official text controls in every case; nothing merged or voted)
+2.1  All 3 books match official. C info note: a bracket label moved (kept as a variant).
+     [3rd pass, checklist 3A] All items ticked. Added: flag on A fn 2 file number "Edm 703 0193 AC" (digit probably
+     missing); see_also links (A 2.6 commentary cites R.2.1; B "Limited Partners" links 2.1 and 2.2). No other change.
+     [4th pass] No error found. A text/note/fns re-read (lines 31-72); info-note titles match official 9.11, 11.6; B ends at
+     source; C has only text + garbled note. Added cross-book link: B section 1 and A fn 5 are the same case (Paterson v.
+     Hamilton, 199 AR 399); B's "Rule 43" = 1968 R.43 in A fn 1.
+     [5th pass] No error found. Statements (A: estate/trust not an entity; B: 'Rule 43' trustee) agree with official
+     2.1. 4th-pass cross-book link re-verified (Paterson: same 199 AR 399 in A and B).
+     [6th pass] Official subject-matter links added: Appendix definitions of 'trustee' and 'personal representative'
+     (Surrogate Rules s.1(l)); 11.25(1)(j) service outside Alberta on a trustee.
+     [7th pass, full Book A] R.11.6 information note cites 2.1. NEW flag: R.7.1 notes (p.7-5) 'the impact of R.2.1' on splitting
+     trials - 2.1 does not deal with that; target cannot be determined. R.3.68's 'See also R.2.1n.' not confirmable
+     (Part 3 extraction interleaves text and footnotes).
+     [8th pass] All p.2- page/footnote references re-checked against page markers - correct. Paterson (A fn 5, p.2-3) = B section 1 re-read; fn 2 file-number flag ('Edm 703 0193 AC') re-checked. No change.
+2.2  C rule text garbled - dropped. C commentary fragment ("permissive rule ... avoid having to name each individual") rescued from mis-parsed "11.10" entry;
+     probable source Bidell 2017 ABQB 76 (pinpoint lost, verify). C info-note copy only survives as a garbled heading - dropped.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. Added see_also (A 2.5 commentary cites R.2.2; B 2.1
+     "Limited Partners"; rules 2.3-2.4). Bidell note reworded neutrally (appears displaced in C 2.14/2.23 too; link to
+     2.2 not established). Found while searching cross-references: A 2.27 commentary "see R.2.2 n." is probably a typo
+     for R.2.22 - flagged in 2.27.
+     [4th pass] FIXED: see_also quoted A 2.5 as extending R.2.2 only "to an individual defendant"; the source goes on
+     "It now extends to a plaintiff doing that" - quote completed. Titles of 9.23, 11.10, 11.11 match official. C raw
+     re-read (Bidell name as printed).
+     [5th pass] NEW flag: A 'Rule 2.2 lets one use the partnership name if the firm still exists' - official 2.2 has
+     no such condition (Book A gloss). FIXED: Bidell note no longer guesses it 'may be the source of the commentary
+     quote'; the note now records the evidence that every Bidell occurrence (2.2, 2.14, 2.23) stands where a number
+     should be - an extraction pattern also seen with Stamos (2.12), Champagne (2.10 note), Part 3 cases (2.28-2.29).
+     [5th pass of 2.21-2.32] Bidell 2017 ABQB 76 now DROPPED from 2.2's citations (full note kept) so that 2.2, 2.14
+     and 2.23 get the same decision - in each it stands where a number should be and its home rule cannot be shown.
+     [6th pass] Added: Appendix 'partnership' definition; 5.17(1)(f), (2)(d) questioning partners.
+     [7th pass, full Book A] Reverse links: R.11.10 note, R.9.23, R.3.70 ('R.2.2(2) ... an exception' - consistent), R.13.12 checklist.
+     [8th pass] Page refs (fn 2 p.2-4) correct; 'still exists' flag and Bidell drop re-read. No change.
+2.3  A and B match. C cut off after 9 words - dropped (C has nothing else for 2.3).
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A text, info note (9.23), related provisions,
+     commentary and fn 1 (Point on the Bow 2007 ABCA 204, cited only by A) re-read against lines 96-129, 153.
+     Book A gives no history footnote for 2.3 (none in source). No other rule's commentary cites 2.3; the rest of
+     2.3 does not appear anywhere in Book C. Added see_also: 2.2 (+A fn 2 advice), 2.4, 9.23.
+     [4th pass] NEW: the official text of rule 9.23(2)-(3) itself refers to "rule 2.3" and "rule 2.3(1)" - added to
+     see_also. Searched the whole official text (incl. line-wrapped "rule / 2.x"): these are the only references to
+     rules 2.1-2.10 outside Part 2.
+     [5th pass] No error found. A statement (partners may file individual defences) agrees with official 2.3(3).
+     'Only references outside Part 2' claim re-confirmed with Division-level and form-heading searches.
+     [6th pass] 2.3's claim reworded: 9.23 is the only reference to 2.1-2.10 BY NUMBER; other rules share subjects.
+     [6th pass, with the full Book A uploaded] Book A's R.11.15 related provisions (p.11-18) list '2.3 (contract providing for
+     service)' - probably 11.3 ('Agreement between parties'); flagged in 2.3 see_also.
+     [7th pass, full Book A] Book A's R.9.23 text cites 2.3 as the official does; no new item.
+     [8th pass] Official text re-searched: 9.23 is still the only rule outside Part 2 naming 2.1-2.10 (one line-wrapped 'rule\n2.3(1)' in Book A's R.9.23 found and already recorded). No change.
+2.4  A and B match. C cut off after 10 words - dropped (C has nothing else for 2.4).
+     [3rd pass, checklist 3A] All items ticked; data unchanged. Official text spans pdf pp.37-38 (locator correct).
+     A text, related provisions (5.28, 5.5, 6.37) and fn 2 history (1968 R.80(3)-(5)) re-read against lines 130-146,
+     154-155; A has no information note or commentary for 2.4 (none in source). No other rule's commentary cites 2.4;
+     the rest of 2.4 is not in Book C. Added see_also: 2.5 (same notice-to-disclose procedure), 2.2, 2.3.
+     [4th pass] FIXED: "same procedure" overstated - 2.5 has no equivalent of 2.4(3) (dispute/apply) or 2.4(4) (last
+     known address); see_also reworded in 2.4 and 2.5. Related-provision rules 5.28, 5.5, 6.37 exist (A's labels are
+     paraphrases). C raw re-read.
+     [5th pass] No error found (no commentary in any book; related-provision rules re-checked in 4th pass).
+     [6th pass] Added 5.17(1)(f)/(2)(d) (questioning partners) to see_also.
+     [7th pass, full Book A] Reverse links: 5.22, 5.28, 6.37, 11.10, 11.11 lists; R.5.17 fn 5. NEW flag: R.8.8 notes (p.8-20)
+     'See further, R.2.4n.' - 2.4 has no notes; the topic (lawyer as witness, Beacon Hill) is 2.24 Part D. Probably
+     R.2.24n (a digit lost).
+     [8th pass] 'Book A has no notes on 2.4' re-confirmed (rule text, fn 2, related provisions only). 2.5 vs 2.4(3)-(4) comparison re-read against official 2.5. No change.
+2.5  All match. C adds unique commentary (Stamos 2018 ABQB 566 para 3; case name cleaned). C info note garbled - dropped.
+     A footnote 1 (p.2-6) repeats 2.4 history note; typo "914" for "1914" flagged.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A text (lines 148-164), info note, related provisions
+     (wraps over a blank line), commentary and fns (p.2-5 #3; p.2-6 #1-2) re-read; "914" confirmed at line 197
+     (2.4's copy at line 155 reads "1914"). C: Stamos 2018 ABQB 566 also appears displaced in C 2.11/2.12 (dropped
+     there) - its home is 2.5, where C cites it with para 3; kept. Added see_also: 2.2, 2.4, 2.6 (clubs/associations).
+     [4th pass] No data error. see_also wording aligned with the 2.4 fix. 11.12/11.13 titles match official; C info note
+     and commentary re-read against the C source.
+     [5th pass] No error found. A and C statements agree with official 2.5(1) ('may bring or be the subject of').
+     [6th pass] FIXED wording of the fn 1 flag: removed an unsupported 'plausible' judgment (2.5(2)-(3) are similar to,
+     not the same as, 2.4's notice).
+     [7th pass, full Book A] Reverse links: 5.28, 6.37, 11.12, 11.13 (info note), R.13.12 checklist.
+     [8th pass] 'clubs or associations' quote re-confirmed (line 174). No change.
+2.6  A and B match. C rule text garbled - dropped; its 4 citations are C's 2.10 intervenor cases (kept under 2.10) - dropped here.
+     B commentary (~107k chars, one source paragraph) confirmed complete: same start and end as source.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A text, related provisions (2.16, 3.69, 3.70),
+     commentary and 11 fns (p.2-6 #3; p.2-7 #1-10; #11 belongs to 2.7) re-read against lines 178-260.
+     B structure verified against source: sections 1-15 all present (1 Class Proceedings Act; 2 General; 3 Costs;
+     4-5 old-rule use and striking; 6 Other procedural issues; 7 "Same Interest" v "Common Interest"; 8 When does a
+     common interest exist; 9 "Numerous Persons"; 10 General test; 11 Common fund; 12 Principles; 13 Same cause of
+     action; 14 Style of cause; 15 Proceedings under the CPA (a)-(d)). Earlier note listed only a few headings.
+     C's 4 citations confirmed recurring in C 2.10. Added see_also: 2.1, 2.5, 2.9/13.11 (A line 874), 2.16, 1.4.
+     [4th pass] B commentary (~107k) READ IN FULL, not only by structure: coherent, no leaked headers or foreign text;
+     its typos ("coasts", "Cass Proceedings Act", "T.L. at determining") are in the source. NEW flag: A related
+     provisions "2.16 (unborn or unascertained clauses)" - A's own 2.19 list says "classes". A short forms (W. Cdn.
+     Shopping Centres supra; ibid.) correct. Cross-book links added (B "Rule 42" = 1968 R.42 in A fn 3; Dutton, Paron).
+     [5th pass] No error found in data. C citations note strengthened with evidence: the 2.6 passage is a verbatim copy
+     of C's 2.10 passage (same pinpoints 18, 2, 27, 11-13; same scrambled name order). A 'no court approval' statement
+     is limited to plaintiffs, consistent with official 2.6(1) (defending needs the Court's authorization).
+     [6th pass] NEW official link: rule 10.32 costs applies 'in a representative action'. B's quotation of 10.32
+     (Kowch) checked word by word against the official text - accurate apart from 'coasts' and 'The' (source typos).
+     [7th pass, full Book A] Reverse links: 3.69, 3.70, 13.11 lists; R.1.4 notes (Ford, reverse of fns 9-10). R.3.68 fn 7
+     'Rr.2.6, 11.25, 11.26' - supporting sentence not confirmable from the Part 3 extraction.
+     [8th pass] fn 3 (p.2-6) and fns 4-6 (p.2-7) pages correct; 2.16 lists 2.6 (line 1937) confirmed; 2.9 Part G 'ambiguities and gaps in R.2.6' (line 874) confirmed in Part G. No change.
+2.7  All three match the official wording. C only inserts the Act citation and a stray comma - C text dropped as a duplicate.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A text (239-240, fn 11 at line 260), info note,
+     related provisions, commentary and fns p.2-8 #1-2 re-read. A fn 2 short forms resolved from Book A: T.L. =
+     2006 ABQB 104 (first full cite comes later at 2.9, so A's "supra" points the wrong way), C.H.S. = 2008 ABQB 513
+     (2.8, "infra" correct) - flagged. Added see_also: 2.9 ("See also R.2.7", line 847), 13.11/3.62(b)/3.68.
+     [4th pass] FIXED the 3rd-pass flag: it resolved "C. H. S. ..., infra" to 2008 ABQB 513, but Book A later cites
+     three C.H.S. decisions (2008 ABQB 513; 2006 ABQB 528; (#2) 2008 ABQB 620) - which one is meant is uncertain. T.L.
+     (2006) "supra" still wrong (T.L. (#2) 2008 ABQB 114 at p.2-9 is a different decision). Titles 13.11, 3.62, 3.68 ok.
+     [5th pass] No error found. A statement (amend before certification) agrees with official 2.7. 4th-pass page
+     references (C.H.S. and T.L. decisions) re-verified against page markers.
+     [6th pass] NEW official link: rule 3.62(6) excludes class-proceeding amendments from the general amendment rule
+     (the gap 2.7 fills) - missed by every earlier pass because it never names rule 2.7. NEW flag: A's related
+     provision '3.62(b)' matches no top-level subrule (clause is 3.62(1)(b)).
+     [7th pass, full Book A] R.3.62 information note restates 2.7 (agrees with official 2.7 and 3.62(6)); 3.62, 3.74, 13.11 lists.
+     [8th pass] Line refs 440 (T. L. 2006 ABQB 104), 847 (Part G 'See also R.2.7'), 1563 (C.H.S. #2) confirmed; 13.11 label 'style of cause' matches 13.11's content (official title 'Pleadings: specific requirements for class proceedings'). No change.
+2.8  All match. C text (Act name displaced) and C note variant (adds only Act citation) dropped. C commentary kept (unique, no authority cited).
+     A info note typo "members.." flagged.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A text, info note, related provisions (wraps over a
+     blank line), commentary (p.2-8 and p.2-9) and 9 fns re-read against lines 274-351; p.2-8 block splits 2.7 (#1-2)
+     / 2.8 (#3-4); p.2-9 block 2.8 (#1-7) / 2.9 (#8-11). No supra/infra. Added see_also: 2.9 costs fn cites Rule 2.8
+     (line 967); CPA s.18/s.19; discovery rules; 6.22.
+     [4th pass] No error found. Commentary re-read against lines 308-327; the two "fn 4"s (p.2-8 Rieger, p.2-9 R. T.)
+     are kept apart correctly; 5.1(2) exists; the 2.9 costs fn 7 does support "arguably, subject to discovery".
+     [5th pass] FIXED wording: C note said the Act name moved because of 'italics' - an unsupported guess; now 'moved
+     by extraction'. C statement on questioning agrees with official 2.8.
+     [6th pass] No error found.
+     [7th pass, full Book A] R.2.8 cited in R.5.4, 5.5, 5.17, 5.31 notes; listed under 5.5, 5.17, 5.19, 5.28.
+     [8th pass] R.5.3 label now given in full: '2.8 (discovery in class proceedings)' (wraps over two lines). fn 1 s.18/s.19 (p.2-9) and 2.9 Part H fn 7 'Rule 2.8' (p.2-20, line 967) confirmed.
+2.9  All match. C text dropped (Act citation + stray Gauchier ref from C 2.10). A commentary Parts A-I;
+     footnotes p.2-9 #8-11 to p.2-21 #1-7 consecutive, no gaps; fn 7, 8 continuations joined.
+     [3rd pass, checklist 3A] Structure verified against source: Parts A-I continuous; Part B criteria 1-5 and
+     questions 1-7 present. ~50 supra/infra/ibid. short forms all resolve to full cites in Book A; 10 point the wrong
+     way (Ayrton, Elder Advocates, Investplan x2, Gillespie, Pro-Sys, T.L. x2, Singh, Spring) - listed in a Book A
+     commentary flag with full cites (Book A drafting; not corrected). Footnote blocks p.2-15, 2-16, 2-17, 2-18, 2-19
+     re-read line by line for this check. Only other-rule reference to 2.9: A 2.6 "Rr.2.9 and 13.11".
+     Added see_also: 13.11, 2.6, 2.7, 2.8, 1.9, Class Proceedings Act.
+     [4th pass] A commentary and all 123 footnotes READ IN FULL (lines 327-1021). !! The 3rd-pass flag was WRONG on three
+     points, now corrected: "Spring v. Goodyear, supra" (p.2-15) is right - full cite earlier at p.2-13 fn 7; "T. L.
+     (Q.B.), infra" at p.2-14 fn 3 is right - 2006 ABQB 104 cited again at p.2-16 fn 4; the wrong T.L. (#2) "infra" is
+     p.2-13 fn 8, not p.2-12 fn 8. Missed item added: p.2-12 fn 5 Investplan "supra". NEW typo flags: p.2-17 fn 8
+     Bruno "varg 2021 ABCA 504" (elsewhere 2021 ABCA 381); p.2-20 fn 7 "365 AR 88" (fn 4: 881); Part I "3 times
+     column 5" vs its fn 7 "treble col.3". All "Part X above/below" pointers checked; "R.13.11 and Form 10" correct.
+     [5th pass] No error found. All ~12 page references in the 4th-pass flag re-verified against page markers.
+     C's Gauchier fragment confirmed word-for-word the one in C 2.10. A statements (13.11/Form 10) re-checked.
+     [6th pass] NEW official links: 4.12(3) case management judge; 10.32 costs; 14.14(2)(f) fast-track appeals on
+     certification; 3.62(6). All 22 page references in the 2.9 flag re-verified against the footnotes.
+     [7th pass, full Book A] Listed under 3.69, 3.70. Own statement verified: R.13.11 notes hold the class-action commentary
+     (about 1,040 lines, Parts A-H).
+     [8th pass] All ~20 page/footnote refs in the supra/infra flag re-checked, incl. Ayrton 2006 ABCA 88 (wrapped, p.2-11), Singh, Spring, Bruno, Lameman 365 AR 88/881, 'col.3' vs 'column 5'. Macaronies 2022 ABQB 143 printed '(#_)'/'(#__)' (p.2-20 fn 2, p.2-21 fn 7) - CORRECTED in the 8th pass of 2.11-2.32: this is Book A's convention (448 uses in the book), not a defect; noted, not flagged.
+2.10 All match. Title variant: A "Intervener", official "Intervenor". C info note garbled + stray citations - dropped.
+     C commentary case names were scrambled - corrected from its own text; 2023 ABCA 340 added; Gauchier 2014 ABCA number lost (flagged).
+     A footnotes p.2-22 to p.2-29 consecutive.
+     [3rd pass, checklist 3A] A Parts A-G continuous; all 8 footnote blocks (pp.2-22..2-29) re-read line by line.
+     26 supra/infra short forms all resolve inside Book A; 6 point the wrong way (Kellogg, Pedersen, Univ. of Alta.,
+     Greenhouse Gas, UFCW 401, S.M. v. Director) - flagged with full cites. Spelling "Pedersen"/"Pederson" (B:
+     Pedersen) flagged. Duplicate printed page number "2-26" noted (no effect). Cross-reference found in Book C Part 3:
+     3.17 information note cites rule 2.10. Added see_also: 3.17, 14.58, 3.68, 10.31.
+     [4th pass] A (lines 1000-1456) and B (~29k) READ IN FULL. !! The 3rd-pass flag was WRONG on one point, corrected:
+     "Univ. of Alta., infra" (p.2-23 fn 9) is right - cited in full again at p.2-27 fn 10 [5th pass: page corrected from 2-28]. NEW typo flag: p.2-27 fn 13
+     "Hirsekoro" (p.2-22 fn 5 and B: "Hirsekorn"). C's re-paired names now independently confirmed by A/B (Suncor,
+     Stratum, Neve, Papaschase = A's "Lameman (#1)", Dominey 2023 ABCA 226); A's "Thomson" is a different case. B's
+     "202 ABCA 243" is in the source.
+     [5th pass] FIXED two wrong page numbers in the 4th-pass notes: Dominey 2023 ABCA 226 is A p.2-23 fn 1 (not 2-22);
+     the later full cite of Univ. of Alta. is p.2-27 fn 10 (not 2-28). FIXED wording: C's info note had 'two unrelated
+     citations' - Grant Thornton is an intervenor case C itself cites in 2.10 (para 9); Champagne 2012 ABQB 522 para 67
+     stands where '6' of 'Part 6' should be and appears nowhere else in C (link to 2.10 cannot be shown). Statements
+     checked against official: 14.58(3), 14.37(2)(e) (B, C), 3.68(1)(d)/(2)(b)/(3) (A Part C), 3.17 title.
+     [6th pass] NEW official links: Part 14 'party' includes an intervenor (14.1(1)(k), Appendix); 14.25(3), 14.26(1)(d)
+     intervenor factum; 14.37(2)(e). Quotations of rules in B (2.10, 14.58(3)) match the official text. All 19 page
+     references in the 2.10 notes re-verified.
+     [7th pass, full Book A] Reverse links: Book A has the same 3.17 information note as Book C; 'R.2.10n.E' (costs) and
+     'Rr.2.10 n.C' (standing) in Part 3 match this rule's Parts E and C; R.6.3, R.10.31 notes; 14.58 list. All four of
+     this rule's cross-Part pointers verified (R.3.24 n.D Costs; R.3.69 n.B Standing; R.3.74 n.F Limitation Periods;
+     R.14.58n). Spelling: Book A's full cites of 2008 ABCA 192 both read 'Pederson' (p.2-29, Part 14).
+     [8th pass] All page refs re-checked (Kellogg/Pederson p.2-22/2-29, Greenhouse, U.F.C.W., S. M., Hirsekorn/Hirsekoro, Suncor, Neve, Thomson, Dominey 2023 ABCA 226, Univ. of Alta. p.2-22 fn 2, 2-23 fns 5/9, 2-27 fn 10); '2-26' printed twice confirmed (page number + running head); Book C 3.17 note at line 693 confirmed. Related-provision labels for 2.1-2.10 read against official titles: paraphrases only; no new wrong target. No change.
+2.11 [2nd pass] A, B = official (A/B raw text dropped: spacing, amendment bracket, "Alta. Reg." style only).
+     A: 48 footnotes pp.2-30..2-35 checked line by line against source; commentary Parts A-G complete.
+     B: commentary (Chutskoff, Public Guardian v C.(K.), Kunkel) complete.
+     C: rule text garbled - dropped; its 3 citations displaced (Pedersen, Grant Thornton = 2.10; Stamos = 2.5) - dropped.
+     C commentary kept (unique definitions: represented adult s.1(hh), capacity s.1(d); Grotski 2015 ABQB 490);
+     case names cleaned; Act name misprint and cut-off last sentence flagged.
+     !! C info note words shuffled -> reverses the meaning. Dropped, with a WARNING flag; correct text = A ("would NOT apply").
+     [3rd pass, checklist 3A] Short forms resolve the right way (F.R.N. infra -> p.2-31 fn 1; Thomlinson infra -> fn 12;
+     L.C. supra; Innes supra, Part C). B sections 1-2 in order. NEW: flag on A p.2-31 fn 8 - "R.2.15" cited for "no order,
+     but an affidavit must be filed", which is rule 2.14(1)(a); probably R.2.14. Added see_also (2.13-2.15, 2.17, B 2.13, 12.6(2)).
+     [4th pass] A (lines 1431-1728, 48 fns) and B read in full; short forms re-checked by citation - all correct.
+     NEW flag: A p.2-31 fn 10 "Rules 2.14(2)(f), 10.47" for paying costs - official 2.14(2)(f) is a corporation's place
+     of business; costs acknowledgment is (g). fn 8 "R.2.15" flag re-verified (affidavit, no order = 2.14(1)(a)).
+     FIXED see_also: 2.17(1) refers only to individuals in 2.11(a)-(d), not "individuals or estates"; official 12.6(1)
+     and (2) both name rule 2.11(a) (the only official references to 2.11-2.20 outside Part 2). FIXED silent drop: C's
+     garbled text also holds a bare name "Morrow v. Zhang" (no citation, nowhere else in any source) - now noted; the
+     note no longer names 2008 ABCA 192 "Pedersen" as if C printed it. Cross-book links added (L. C./C. (L.) 2011 ABQB 42;
+     Hughes 2007 ABCA 277 names differ A/B; Gronnerud/Gonnerud 2002 SCC 38; Chutskoff; Kunkel).
+     [5th pass] NEW flags (statements vs official): A speaks of the Dependent Adults Act (p.2-32 fn 3, p.2-33) - official
+     2.11(c)-(d) name the Adult Guardianship and Trusteeship Act and never the Dependent Adults Act; B's quoted judgment
+     (C.(K.) para 67) states the represented-adult requirement more broadly than official 2.11(d). Evidence added to
+     the C citations note (all stand where (d)-(e) should be; Grant Thornton 'para. 11' occurs only here, C 2.10/2.13
+     give para. 9; 2008 ABCA 192 occurs in C only here). FIXED see_also: 12.6 is not the only official reference
+     outside Part 2 - Forms 1-2 are headed with rule 2.14. All 11 page references in 2.11-2.20 notes re-verified.
+     [6th pass, with the full Book A uploaded] Reverse links added (R.3.74, 9.11, 10.47, 12.6 lists; R.3.74 and R.10.31 notes).
+     Official by subject: 5.9(1)(c), 5.17(1)(c), Appendix definition. NEW flag: 'job ... is to pay costs' vs official
+     10.47(2) (defendant's representative not liable unless misconduct + order). Pointer R.14.90(1)(b) verified.
+     [7th pass, full Book A] Pages corrected: R.3.74 list p.3-231 (not 3-230), R.3.74 notes p.3-243 (not 3-242) - the Part 3 file opens each page with '**PAGE N'. 9.11/10.47/12.6/10.31 pages re-verified. Rufenack spelled the same in Parts 2, 3, 10, 14.
+     [8th pass] Pages/footnotes checked (fns 6, 8 'R.2.15', 10, 12 p.2-31; fns 4, 7, 8 p.2-32; fns 4, 7 p.2-33; Part F fn 5 p.2-34) - correct. NEW: label '3.36(2) (noting litigation representative in default)' is loose (3.36(2) restricts default JUDGMENT against a represented person) - noted here and under 2.12, 2.16, 2.19.
+2.12 [2nd pass] A = official plus editorial labels (raw dropped with note). B exact. C cut off + stray Stamos citation - dropped.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A's label for 2.16 ("Court-appointed litigation
+     representative") is shorter than the official title - editorial only. Added see_also (A 2.11 "three types", 2.13-2.16,
+     2.21, 11.7).
+     [4th pass] No error found. A text/note/related provisions re-read (lines 1729-1753; no history fn printed);
+     10.47, 11.27, 11.7 titles match; C raw re-read ("3" replaced by Stamos cite, cut off after (1)(a)).
+     [5th pass] Evidence added: Stamos stands where '3' should be, same 'para. 3' as in C 2.5. No other change.
+     [6th pass, with the full Book A uploaded] 2.12(2) is listed under 7 Part 11 rules and cited in R.3.26's information note - added.
+     [7th pass, full Book A] R.3.26 note page corrected to p.3-71 (not 3-70). Part 11 pages (11-7 to 11-61) re-verified. Label '2.12(2) (service on person needing litigation representative)' matches official.
+     [8th pass] All p.2- page/footnote/line references in the notes re-checked against page markers - correct. 3.36(2) label note added (see 2.11).
+2.13 [2nd pass] A, B equivalent (raw dropped with note). C text (Surrogate Rules displaced) dropped; C commentary fragment
+     (cut off, displaced Grant Thornton cite) dropped - same point fully stated by B (Nahirney 2011 ABQB 586) and A.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. Footnotes are full cites (no short forms). Added see_also
+     (A 2.11 fns, 2.12(1)(a), 2.19, 2.21, A 2.23 quiet assistance).
+     [4th pass] FIXED see_also: the "quiet assistance under R.2.23" sentence is in BOOK_A's own 2.13 commentary (line
+     1783), not in A 2.23 as stated. B read in full (Nahirney paras 22-28; Champagne para 5), ends at source; C's dropped
+     fragment repeats Nahirney para 22. Cross-book links added (Nahirney in all 3 books; Torrance; Champagne in A 2.9,
+     2.11, 2.16, 2.22, 2.23 - an earlier draft of this link wrongly listed 2.24 and was corrected before commit).
+     [5th pass] Evidence added: C's dropped fragment ends in Grant Thornton 'para. 9', same pinpoint as C 2.10. A and B
+     statements re-checked against official 2.13(e) - consistent.
+     [6th pass, with the full Book A uploaded] R.3.74 notes 'Rr.2.11 to 2.16' - added.
+     [7th pass, full Book A] R.3.74 notes p.3-243 (corrected). Pointer 'Nahirney ... supra, R.2.13n.' (p.2-37 and 2.24 fn 1) checked: Nahirney is fn 1 of the 2.13 note.
+     [8th pass] Line 1783 and Nahirney p.2-36 fn 1 / p.2-37 fn 1 'supra, R.2.13n.' correct.
+2.14 [2nd pass] A: "self appointed" (no hyphen), labels. B: (e) "[Repealed Alta. Reg. 143/2011, s. 2(b).]" - B adds "s. 2(b)".
+     Both raw texts dropped with notes. C cut off at (2)(a), Form numbers replaced by stray Bidell citation - dropped.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. Short forms correct (Nahirney supra R.2.13n.; Kunkel supra).
+     Added see_also (A 2.11 fn 10, 2.12(1)(b), B 2.13 Nahirney; B 2.22 quotes the same Oommen v Ramjohn passage).
+     [4th pass] No data error. A (lines 1800-1871) and B read in full; fns p.2-37 1-2, p.2-38 1-4 (Kunkel supra -> fn 1).
+     Cross-book links added (Oommen = A 2.22 fn 8; Godbout 2021 ABQB 191 vs 321 are two decisions; A 2.11 "(2)(f)" flag).
+     [4th pass, added during 2.21-2.32] Official Form 1 is headed '[Rule 2.14]' - added to see_also.
+     [5th pass] FIXED: the 4th-pass forms search missed Form 2 '[Rule 2.14(1)(b)]' (heading with a subrule) - added.
+     FIXED wording: Kunkel is cited by B under 2.11 and by A and C under 2.21 (not 'A/B/C under 2.11'). NEW flag: A's
+     'affidavit only need give reasons for self-appointing' is narrower than official 2.14(2)-(3).
+     [6th pass, with the full Book A uploaded] R.3.74 link added; official 10.47 linked to the 2.14(2)(g) costs acknowledgment.
+     [7th pass, full Book A] R.3.74 notes p.3-243 (corrected). No new cross-Part references.
+     [8th pass] Kunkel fns 1-4 (p.2-38, para 31/38) and Oommen p.2-45 fn 8 correct.
+2.15 [2nd pass] All equivalent (A/C raw dropped). C commentary kept (capacity under 2.11(c) needed; C.(L.) 2011 ABQB 42,
+     Chutskoff 2013 ABQB 119 - names re-paired). !! C amendment note 143/2011 misattributed (belongs to 2.14) - flagged.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A fns 5-8 (p.2-38) consecutive and full cites. Added see_also
+     (A 2.11 fn 6, A 2.16 commentary, 2.12(1)(c), 2.17).
+     [4th pass] No data error. C misattribution of 143/2011 re-verified against official histories (2.15: AR 124/2010
+     only; 2.14: 143/2011). C name pairing re-checked. Cross-book links added (Chutskoff in all 3 books; C.(L.) = A's
+     L. C. v. R.). Added caution: C's "lack of capacity under 2.11(c)" statement concerns adults, not minors.
+     [5th pass] NEW flag: A 'This Rule creates a duty on the opponent to apply' omits official 2.15(1)'s condition
+     ('if there is no interested person'). Cross-book claims re-verified (Chutskoff pinpoints in A, B, C).
+     [6th pass, with the full Book A uploaded] R.3.74 link added.
+     [7th pass, full Book A] R.3.74 notes p.3-243 (corrected). No new cross-Part references.
+     [8th pass] No page references of its own beyond the 2.11/2.14 links; no change.
+2.16 [2nd pass] A, B exact. C cut off in (2) - dropped; C has nothing else.
+     [3rd pass, checklist 3A] A fns p.2-39 (1, 2) and p.2-40 (1) checked. NEW: flag on A commentary "an ordinary
+     representative action pursuant to Rr.2.13-2.15" - representative actions are rule 2.6; probably means an ordinary
+     litigation representative. Left as printed. Added see_also (2.6, 2.12(1)(c), 2.18, 2.19).
+     [4th pass] No error found. "Rr.2.13-2.15" flag re-read in context and kept; official 2.12(1)(c), 2.18(1) cite
+     2.16; C raw re-read (cut off in (2)).
+     [5th pass] Added to the A flag: 'R.2.15 pertains to situations where there is no personal representative' fits
+     only the estate case (2.11(e)); official 2.15(1) covers every 2.11 category.
+     [6th pass, with the full Book A uploaded] R.3.74 link added.
+     [7th pass, full Book A] R.3.74 notes p.3-243 (corrected). No new cross-Part references.
+     [8th pass] All p.2- page/footnote/line references in the notes re-checked against page markers - correct. 3.36(2) label note added (see 2.11).
+2.17 [2nd pass] A = official plus label (raw dropped). C text (moved label, ",,") dropped. C commentary kept (unique: defendant
+     may pay child's lit. rep. costs; advance costs; C.(L.) 2011 ABQB 42 paras 61-62); cut-off second citation flagged.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A history fn 2 (p.2-40). Added see_also (A 2.11 fn 10, 2.15, 2.21).
+     [4th pass] FIXED: C's kept statement ("the court may require the defendant to pay") now read against official
+     2.17(1) - applies only when the Court appoints a LAWYER for an individual in 2.11(a)-(d); costs on "the parties or
+     one or more of them" or a fund. Added cross-book advance-costs links (A 2.11 p.2-34 fn 5; B 2.21 Sawridge). A's
+     related-provision label "10.31 (fees of lawyers/trustee)" is loose (official title "Court-ordered costs award").
+     [5th pass] No error found; 4th-pass official-text caution and cross-book links (L. C. 2011 ABQB 42; p.2-34 fn 5)
+     re-verified.
+     [6th pass, with the full Book A uploaded] Listed under R.10.2 (p.10-4) - added.
+     [7th pass, full Book A] Listed under R.10 as '2.17 (lawyer as litigation representative)' - matches official title. No new findings.
+     [8th pass] p.2-34 fn 5 (advance costs) and p.2-31 fn 12 (L. C. v. R.) correct. Label '10.31 (fees of lawyers/trustee)' already noted as loose.
+2.18 [2nd pass] All equivalent (A/C raw dropped). A commentary only.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A commentary is printed on p.2-41 after the p.2-40 footnote
+     block and is correctly kept with 2.18; history fn 3. Added see_also (2.16, 2.19).
+     [4th pass] NEW flag: A's commentary "Rule 2.19 allows the court to approve a compromise in trust or estate
+     proceedings" is narrower than official 2.19 (any litigation representative). 3.35 title matches; C raw re-read.
+     [5th pass] No error found; 4th-pass flag (2.19 is not limited to trust/estate proceedings) re-read and kept.
+     [6th pass, with the full Book A uploaded] No new item.
+     [7th pass, full Book A] No cross-Part references to 2.18 in Book A. Earlier flags re-read; unchanged.
+     [8th pass] 'commentary printed on p.2-41 after the p.2-40 footnote block' confirmed. Label '2.18 (settlements re persons not before the court)' matches official 2.18.
+2.19 [2nd pass] All exact. C info note garbled - dropped. A commentary + 3 cases.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A fns 1-3 (p.2-41) consecutive; "Milne v. Pfizer, supra"
+     points to the full cite in the same fn 2 (direction correct). Related provisions wrap over a blank line - joined correctly.
+     Added see_also (A 2.18 commentary, 3.36(2)).
+     [4th pass] see_also now notes the A 2.18 sentence is imprecise; added A 2.11 Part E (court approval of minors'
+     settlements, Minors' Property Act s.15). Info note checked against official 3.36(2); C copy garbled (label
+     displaced). S. W. v. K. T. 2007 ABQB 38 (here) and (#2) 2006 ABQB 830 (A 2.11) are different decisions.
+     [5th pass] No error found; A statements consistent with official 2.19; page refs p.2-32 fn 4, p.2-33 fn 7 verified.
+     [6th pass, with the full Book A uploaded] R.3.35 notes cite R.2.19 twice (p.3-86), once with the same S.W. v. K.T. case as fn 3.
+     [7th pass, full Book A] Pages corrected: R.3.35 fn 10 'See R.3.35 n.D, and R.2.19' is p.3-86; the S.W. v. K.T. 'See R.2.19' is fn 5 on p.3-87 (6th pass put both on p.3-86).
+     [8th pass] p.2-41 fn 3 S. W. v. K. T. 2007 and p.2-32 fn 4 S. W. v. K. T. (#2) 2006 ABQB 830 (inside the Lytton footnote) confirmed. NEW: 3.36(2) label note; 2.18's label '2.19 (settling estate litigation)' is narrower than official 2.19.
+2.20 [2nd pass] A, B exact. C (2) cut off + stray citation from 2.11 - dropped. A info note + related provisions (p.2-42).
+     [3rd pass, checklist 3A] All items ticked; data unchanged. History fn 4 (p.2-41). No other rule's commentary in the
+     three books cites 2.20 (searched A, B, C incl. Part 3 pages, official). see_also records Part 13 Div 7 / 13.49.
+     [4th pass] No error found. Official search: nothing outside Part 2 cites 2.20. Part 13 "Technical Rules",
+     Division 7 and 13.49 exist as cited. C raw re-read.
+     [5th pass] No error found (no statements; Part 13 Division 7 and 13.49 re-read).
+     [6th pass, with the full Book A uploaded] !! CORRECTED: 2.20 IS cited by other commentary - R.9.17 notes (p.9-50) 'Note
+     R.2.20 ...'; also listed under R.9.19, 9.22, 13.48. The earlier 'no other commentary cites 2.20' was true only of
+     the Part 2 extract.
+     [7th pass, full Book A] Listed under R.9.19 (persons who are not parties, p.9-62) as '2.20 (litigation representatives)', under R.9.22 and R.13.48; Book A gives no reason for the 9.19 link (not called wrong - no evidence either way).
+     [8th pass] Line-wrapped 'Note R.\n2.20' in R.9.17 (p.9-50) found by the wrapped-line search - already recorded. Labels 9.22, 13.49 match official titles.
+     Book C lists 2.11-2.21 under "Division 1"; official = Division 2 - flagged in each file.
+2.21 [2nd pass] All exact. B commentary (Sawridge 2013 ABCA 226) complete. C commentary kept (Padget para 43 "someone
+     else's fight"; advance costs) - case names re-paired; corroborated by A fn 2 and B.
+     [3rd pass, checklist 3A] !! FIXED: the 2nd pass had renamed 2015 ABQB 515 "Padget Estate (Re)"; Book C prints
+     "Padget Estate v. Padget Estate" - restored as printed (Book A 2.22 fn 10 calls it "Re Padget Est. (M)"; noted).
+     All other re-paired names checked against the printed fragments (2.10, 2.11, 2.15, 2.23): supported. A fn 1 "Kunkel,
+     infra" -> fn 2 (correct). B section 1 ends at source. Added see_also (2.12(1)(c), 2.13, 2.14, 14.82(b), 2.17(2)).
+     [4th pass] No data error. Official: 14.82(b) cites 2.21 (already recorded). Cross-book links added (Kunkel in all
+     three books; 'Rufenak' spelling in B 2.11's quote; related Sawridge 2012 ABQB 365 in A 2.11 - books do not say it
+     is the decision appealed in 2013 ABCA 226). B ends at source.
+     [5th pass] No error found. Statements (C: conflict / terms and conditions) agree with official 2.21(a)-(c);
+     page refs p.2-32 fn 8, p.2-45 fn 10 verified.
+     [6th pass, with the full Book A uploaded] Listed under R.14.82 (p.14-251) - added.
+     [7th pass, full Book A] NEW: Book A R.3.26 fns 9-10 (p.3-72), R.3.27 fn 4 (p.3-75), R.9.13 notes (p.9-28) cite 'Paget v. Paget [sic] (Re Padget Est.) 2014 ABQB 750, JCE 1303 07147' - same court file as 2015 ABQB 515. Added to see_also.
+     [8th pass] p.2-42 fn 2 (Rufenack) and p.2-45 fn 10 (Re Padget) correct. Label '14.82 (litigation representative on appeal)' matches official 14.82 ('Lawyer of record and litigation representative').
+2.22 [2nd pass] All exact. A: 37 footnotes pp.2-42..2-46 incl. carried-over fn 13 (corrected in 3rd pass; the
+     2nd-pass note said 41). B commentary (~28k) complete.
+     C commentary fragment + stray citation - dropped (point stated fully by A Part F and B). C info note garbled - dropped.
+     [3rd pass, checklist 3A] A footnotes read in full: 1-8, 1-11, 1-13, 1-4 consecutive; all 11 supra/infra/ibid correct.
+     Printed typos flagged ("if doing often so"; "Represennted"). B sections 1-3 continuous, ends at source. Added see_also
+     (2.23, 2.24, B 2.13 Nahirney, B 2.14 Oommen, 3.68).
+     [4th pass] B (~28k) READ IN FULL (closes the last structure-only item): coherent, ends at source; judgment
+     footnote numbers merged in text ('no more.2', 'fair hearing3', 'judges4'). NEW flag: A related provision
+     '11.22 (service on self-represented person)' - official 11.22 is 'Recorded mail service'; 11.18 is the
+     self-represented rule (A cites 11.18 correctly under 2.28/2.29). Other related provisions and 11.5 note match.
+     C's dropped fragment repeats 908077 CA para 2 (as B quotes). Cross-book links: B's corporate cases = A 2.23 fns.
+     [5th pass] NEW flag: A Part F 'cannot represent anyone else, natural person or corporation' must be read with
+     official 2.23(4) (2020 discretion to let a non-lawyer speak for an individual or corporation). All 12 page
+     references in the flag and see_also verified against the footnotes.
+     [6th pass, with the full Book A uploaded] R.1.1 notes cite R.2.22; listed under 1.1, 10.31, 11.18, 12.56. Pointer 'R.3.68 n. C'
+     verified (Vexatious Litigants). 11.22 flag strengthened: Book A's own Part 11 labels 11.22 correctly.
+     [7th pass, full Book A] Reverse labels (1.1, 10, 11, 12) match official 'Self-represented litigants'. Pointer R.1.1(2) (fn 9, p.2-44) matches official 1.1(2). Feeidoni/Feeidooni only in Part 2 (flag stands).
+     [8th pass] 37 footnotes re-counted (p.2-42 fn 5; 1-8, 1-11, 1-13 with fn 13 printed on p.2-46 'from prior page', 1-4). All 11 supra/infra targets, 'Represennted' (fn 1), fn 5 and fn 9 ('some basic help is covered in R.2.23') confirmed. '(#_)' in Peets and Mukagasigwa is Book A's convention (448 uses) - not flagged.
+2.23 [2nd pass] A: (2)(a),(b) end ";" (official ",") - raw dropped with note. B exact; commentary complete.
+     C text dropped (Act name displaced). C info note cut off + stray Chutskoff cite - dropped.
+     C amendment note garbled (flagged): 36/2020 agrees; "effective May 26" (year lost); gazetted April 15, 2020.
+     C's 2.23 case list survives only in that note - kept: PurpleRung 2020 ABCA 341 paras 11-12; Vizor 2022 ABQB 5
+     (also Book A); Bidell 2017 ABQB 76 (relevance unverified); Van Vuong 2020 ABCA 169 para 15 (name taken from Book A fn 1).
+     [3rd pass, checklist 3A] A footnotes 1-8, 1-6, 1-3 consecutive. NEW: "Fortin v. Chretien, supra" (p.2-47 fns 4, 8)
+     points the wrong way - full cite later at p.2-48 fn 3 (2001 SCC 45); other 8 short forms correct. Name variant noted:
+     A "Van Vuong Tai Hldg." / B "Vuong Van Tai Holding" (same 2020 ABCA 169). B sections 1-5 continuous, ends at source.
+     Added see_also (A/B 2.13, A/B 2.22, B 2.14, LPA s.106).
+     [4th pass] No data error. Fortin flag re-verified by citation (2001 SCC 45 only at p.2-48 fn 3). A statements on
+     the 2020 amendment match official 2.23(4) and B's Vuong quote. Cross-book: B's Chapman 2015 ABCA 58 = A 2.22 fn 8
+     leave decision; Vizor = A 2.22 fn 4; PurpleRung only in C.
+     [5th pass] FIXED: C info note had 'an unrelated citation (Chutskoff)' - now states the evidence: same citation and
+     'para. 19' as C gives under 2.11; nothing ties it to 2.23. Bidell DROPPED from the kept citations (it stands where
+     '2' of 's. 2' should be; consistency with 2.2 and 2.14). All page refs in the 2.23 flag verified.
+     [6th pass, with the full Book A uploaded] No new item for 2.23 in other Parts; B's quotation of 2.23(2)-(3)
+     (MD v Alberta) matches the official text word for word.
+     [7th pass, full Book A] No new findings; 2.23 listed in Book A related provisions only within Part 2.
+     [8th pass] 17 footnotes (8+6+3) re-counted; Fortin full cite p.2-48 fn 3 (with Westmount Travel); Pacer p.2-47 fn 4; Landmass p.2-47 fn 6; Drucker full cite p.2-48 fn 2 (supra at fn 5); Potts p.2-48 fn 4 - all confirmed.
+2.24 [2nd pass] A: "self represent" (no hyphen) - raw dropped with note. A: 106 footnotes (8th pass; was 107) pp.2-49..2-59 consecutive
+     (corrected in 3rd pass; the 2nd-pass note said 111).
+     C cut off in (1) - dropped.
+     [3rd pass, checklist 3A] All 11 pages read (pp.2-49..2-59); every supra/infra resolved. NEW flags: p.2-50 fn 10
+     "See Part C below" should probably be Part D (Counsel as Witness); p.2-55 fn 9 "Can. S. Petr. case, infra" is
+     ambiguous (1997 CA decision earlier at p.2-53 fn 5 vs 1998 costs decision later at p.2-57 fn 4); "Feeidoni" spelling
+     variant. p.2-58 fns 8-9 "R. T. v. R., infra" checked - correct (full cite again at p.2-59 fn 1). Added see_also
+     (2.25, 2.26, 2.27, 2.29 fn 5, 2.22, 14.82).
+     [4th pass] All four 3rd-pass flags re-verified by citation (Part C->D; Can. S. Petr. 1997/1998; Feeidoni; R. T.
+     infra correct). NEW: p.2-50 fn 12 'Part C below' (last-minute change of lawyer) also does not match this rule's
+     Part C; A's 2.28 commentary covers that with the same C.P.E. Ch.38 Part H.3 - target uncertain, flagged.
+     see_also: official 14.82(a) refers to 'Part 2, Division 4' (rules 2.24-2.32).
+     [5th pass] No error found. All 15 page/footnote references in the flag verified; statements consistent with
+     official 2.24(2) and 14.82(a).
+     [6th pass, with the full Book A uploaded] Listed under 1.1, 5.9, 11.17, 14.81, 14.82; R.11.15-11.17 notes. Official by subject: 3.35(1)-(4),
+     5.9(2), 13.13(1)(g). NEW: a THIRD 'Part C' pointer - R.8.17 fn 4 'See also R.2.24 n. C' for conflicts of interest.
+     [7th pass, full Book A] Pointer 'R.2.26n.' (Part A) checked: A 2.26 notes discuss the lawyer's authority from the client (fns 6-8) - matches. R.4.33 (delay) consistent. R.8.17 fn 4 'R.2.24 n. C' flag stands. Part 11 labels match.
+     [8th pass] !! Footnote count corrected 107 -> 106 (per-page list and JSON both give 106; the 3rd-pass fix 111 -> 107 was itself off by one). Points (1)-(4) re-checked: p.2-50 fns 10, 12; Can. S. Petr. p.2-53 fn 5 [1997] and p.2-57 fn 4 [1998]; Feeidoni p.2-53 fn 11, p.2-54 fn 1; R. T. p.2-58 fns 3, 8-9, p.2-59 fn 1.
+2.25 [2nd pass] All equivalent (A/C raw dropped, labels only). A commentary + footnotes.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A history fn p.2-59 #7; commentary fns p.2-60 1-4 ("Perez
+     case" -> fn 3). B and C have nothing beyond the rule text (C source checked). Added see_also (2.24, 2.26, 2.27, 1.2).
+     [4th pass] No error found. All 8 related-provision rules exist; A's labels fit the official text (6.18, 10.25
+     read in full). C raw re-read.
+     [5th pass] No error found.
+     [6th pass, with the full Book A uploaded] Listed under 6.18, 9.2, 10.49 (reverse of 2.25's own list); 2.25(2) under 11.15, 11.22.
+     [7th pass, full Book A] Labels under R.6, R.9, R.10 ('duties of lawyer (of record)') match official. No new findings.
+     [8th pass] 'On conflicts of interest of solicitors, see R.2.24n.' confirmed (line 3030). Labels 4.2, 6.18, 9.2, 10.49, 10.50, 11.15 match official titles.
+2.26 [2nd pass] All exact. A commentary + 17 footnotes.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. 17 footnotes confirmed (2-60: 5-8; 2-61: 1-11; 2-62: 1-2);
+     "Shannon, supra" -> p.2-61 fn 11. A related provisions missing ")" as printed. Added see_also (2.24, 2.25, 3.35).
+     [4th pass] No error found. C raw re-read.
+     [5th pass] No error found (A statement on 2.26 consistent with official 2.26(2)).
+     [6th pass, with the full Book A uploaded] Pointer 'R.3.35n' verified (solicitor's authority to settle; Shannon also in fn 11).
+     [7th pass, full Book A] Pointer R.3.35n (p.3-86 to 3-89, Shannon on p.3-89) re-verified.
+     [8th pass] fn 11 Shannon (p.2-61) and related provisions (2.24, 2.29) confirmed.
+2.27 [2nd pass] All exact. B commentary complete. C amendment note followed by stray "R.S.A. 2000, c. L-12, s. 3(2)(c)" - flagged.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. No A history footnote (none printed). "R.2.2 n." flag
+     (= R.2.22) still correct. B ends at source. Added see_also (2.24, 11.15, 2.22).
+     [4th pass] FIXED wording: the stray 'R.S.A. 2000, c. L-12, s. 3(2)(c)' after C's amendment note had been called
+     'unrelated to 2.27'; no source names that Act, so the note now says only that its connection cannot be shown.
+     'R.2.2 n.' flag re-verified; B statements match official 2.27 and 11.15.
+     [5th pass] No error found; 4th-pass rewording of the L-12 note re-read and kept.
+     [6th pass, with the full Book A uploaded] Listed under R.10.2. NEW statement check: R.13.42 notes say 2.27 'seems to require filing'
+     - official 2.27(1) allows oral notice OR filing.
+     [7th pass, full Book A] Label '2.27 (limited retainers)' (R.10) matches official 'Retaining lawyer for limited purposes'. No new findings.
+     [8th pass] 'see R.2.2 n.' (line 3149) confirmed; flag stands.
+2.28 [2nd pass] A, B exact. C "Form 3" replaced by Part 3 venue cases (Shell v. Sunterra, Genstar) - text and cites dropped.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. Related provisions at top of p.2-63 correctly kept with 2.28
+     (the p.2-64 list is 2.29's). Fns p.2-62 #3, p.2-63 1-3. Added see_also (2.32(4), 2.21, 2.22, 2.24, 2.11, 10.6(2)).
+     [4th pass] No data error. C's Sunterra/Genstar re-verified as recurring in C's rule 3.2 entry. Official Form 3 is
+     headed '[Rule 2.28]' - added to see_also, with the A 2.24 fn 12 pointer.
+     [5th pass] FIXED wording: 'not about 2.28' replaced by evidence - Sunterra/Genstar stand where '3' of 'Form 3'
+     should be, and the passage is word-for-word (para. 53; same garble) in C's rule 3.2 entry.
+     [6th pass, with the full Book A uploaded] R.10.6 information note points to 2.28 (reverse of fn 1); listed under 10.25, 11.16.
+     [7th pass, full Book A] Labels under R.10, R.11 match. No new findings.
+     [8th pass] p.2-63 fn 1 'See R.10.6(2)' and fn 3 C.P.E. Chapter 38 Part H.3 confirmed.
+2.29 [2nd pass] A = official plus label (raw dropped). B commentary complete. C "Form 4"/"10" replaced by Part 3 cases
+     (Regular, Patrus, Behiels); (5) missing - text and cites dropped.
+     [3rd pass, checklist 3A] NEW flag: A commentary cites "R.2.29(1) (c)" - 2.29(1) has only (a) and (b). Last A sentence
+     (top of p.2-65, "see R.9.2n.") correctly kept with 2.29. B: a judgment footnote number is merged into the text ("Rules
+     of Court23") - source artifact, left. Cunningham name variants noted. Added see_also (2.31, 2.32, 2.26, 2.24, 9.2, 2.30).
+     [4th pass] NEW flag: A 'Alberta wisely does not require [leave to withdraw] in civil cases' must be read with
+     official 2.31 (permission needed once a trial date is scheduled). '(1)(c)' flag re-verified. C's Regular/Behiels
+     (C 3.4) and Patrus (C 3.9) re-verified as Part 3 cases. Official Form 4 headed '[Rule 2.29]' - added.
+     [5th pass] FIXED wording: 'not about 2.29' replaced by evidence (stand where '4' and '10' should be; recur in C
+     3.4 and 3.9). Page refs p.2-50 fn 3, p.2-63 fn 4, p.2-64 fns 1-9, p.2-65 verified.
+     [6th pass, with the full Book A uploaded] R.12.6 information note cites 2.29(4); listed under 11.16, 11.17. Pointer 'R.9.2n' verified.
+     [7th pass, full Book A] Labels '2.29 (lawyer ceasing to act)' (R.11) and R.12 'Rule 2.29(4) [Withdrawal of lawyer of record]' match. No new findings.
+     [8th pass] p.2-63 fn 4, p.2-64 fns 1-9 consecutive; fn 5 'R. (Lilles) v. Cunningham' and 'Kong and Cunningham cases'; 'see R.9.2n.' at top of p.2-65 (line 3276) confirmed.
+2.30 [2nd pass] A, B exact. C cut off + Cunningham/Behm (2.31 cases) - dropped.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. No commentary in any book; history fn p.2-65 #1. Nothing
+     cites 2.30 (A, B, C incl. Part 3 pages, official). see_also points to 2.29 and 2.31.
+     [4th pass] No error found. see_also statements re-checked against official 2.29(2) and C's 2.30 text
+     (Cunningham, Behm appear only there).
+     [5th pass] No error found; 'belonging to 2.31' note cites its evidence (B Cunningham, A fn 3 Behm).
+     [6th pass, with the full Book A uploaded] !! CORRECTED: 2.30 IS cited elsewhere - Part 11 notes (p.11-23) fn 4 'See R.2.30' (with
+     Aquanorth, as A 2.29 fn 3). The earlier 'nothing cites 2.30' was true only of the Part 2 extract.
+     [7th pass, full Book A] No new findings (6th-pass correction on 'uncited' stands).
+     [8th pass] R.11.17 fn 4 pinned: reference mark on p.11-22 ('... effective even if he or she later ceases to act'), footnote printed on p.11-23 'from prior page'; 'See R.\n2.30' split over two lines. Note updated.
+2.31 [2nd pass] All match (C "court's" lower case). B commentary (Fitzpatrick 2020 ABCA 88) complete. C info note garbled - dropped.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. A fns p.2-65 2-3; B read in full, ends at source. Added
+     see_also (2.29(1), A 2.24/2.29 Cunningham, 8.4, 8.5, 8.7).
+     [4th pass] see_also now links the A 2.29 'no leave in civil cases' flag. Titles 8.4, 8.5, 8.7 match.
+     [5th pass] No error found (A statement on late resignation consistent with official 2.31).
+     [6th pass, with the full Book A uploaded] Listed under R.8.4, 8.5, 8.7.
+     [7th pass, full Book A] Listed under R.8 (3 times) as 'withdrawal of lawyer after trial date set' - matches official. No new findings.
+     [8th pass] p.2-50 fn 3 and 2.29 fn 5 confirmed; label '8.7 (confirmation of trial date)' matches official.
+2.32 [2nd pass] B = official. !! A and C read "practice" in (1)(a)(iii), official "practise" (same meaning).
+     A (4) repeated "or" + labels; C (4) labels out of order. Both raw texts dropped with notes; official controls.
+     [3rd pass, checklist 3A] All items ticked; data unchanged. History fn p.2-66 #1. Added see_also (2.28, 2.29, 11.29).
+     [4th pass] No error found. Official 2.32(1)(a)(iii) 'practise' confirmed; 11.29 title matches; forms search
+     found no form headed [Rule 2.30-2.32].
+     [5th pass] No error found; form-heading search re-run with the wider pattern - still no form for 2.30-2.32.
+     [6th pass, with the full Book A uploaded] R.11.29 information note (p.11-61) cites 2.32(2) - added.
+     [7th pass, full Book A] R.11 cites 'Rule 2.32(2) [Automatic termination of lawyer of record and ...]' - matches official. No new findings.
+     [8th pass] Labels '10.25 (records in lawyer's possession)' (official 'Order to return records'), 11.17, 11.18 read against official titles - paraphrases only. No change.
+     Book C amendment notes: kept once, in amendment_history.carrier_notes (duplicate copies removed from every file).
+
+AMENDMENT CROSS-CHECK (each file: amendment_history.crosscheck_vs_official)
+Official Part 2 amendments: 2.11 (122/2012), 2.13 (140/2013), 2.14 (143/2011), 2.23 (36/2020). All book notes agree, except C on 2.15 (above).
+
+LIMITS
+- Book A and Book C titles and editions are not stated in the files; the book roles are inferred from content.
+- Agreement between the books does not certify the rules as current law. Currency rests only on the official consolidation's current-to date.
+- Book B commentary (Fradsham) exists only for 2.1, 2.6, 2.10, 2.11, 2.13, 2.14, 2.21, 2.22, 2.23, 2.27, 2.29 and 2.31. That matches the source (12 sections).

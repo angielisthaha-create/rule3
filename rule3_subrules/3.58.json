@@ -1,0 +1,259 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.58",
+  "title": {
+    "official": "Status of counterclaim",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 7,
+    "heading": "Counterclaims"
+  },
+  "operative_text": {
+    "controlling": "3.58   A counterclaim is an independent action.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "3fa0008aa50349fbfd6d7a7a70de4ba38960b63a6fad08c40b64634c94721baa"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.58 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          72
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Status of Counterclaim",
+      "operative_text_raw": null,
+      "operative_text_sha256": "fbd03008f995406927a5ea87e4a9eb2e678ded9497d8888933ae8ada35e9f6f4",
+      "defined_terms": "3.60 ( application of Rules);9.10 (judgment on counterclaim) Though a counterclaim may to some extent adopt the facts in the statement of defence, still it is a distinct pleading and must comply with the Rules requiring that a pleading set out the fundamental allegations. Some counterclaims will expressly incorporate the words in the statement of defence, and if so, both those pleadings must be considered for jurisdiction purposes. The previous Rules contemplated that the counterclaim would be tried with the claim, unless they were severed.The criteria for doing that were not technical, but practical and somewhat flexible. If the two claims are linked, as where the defendant claims set-off, then the counterclaim should not be tried separately. The position is less clear now that a counterclaim isan \"independent action\".If a set-off is claimed under R.3.59, it will still often be convenient to try them together if they are related.Though the Rules say a counterclaim is a separate action, it and the main claim are not treated as unrelated for all purposes.The grounds for security in the Rules are not exhaustive. A plaintiff who sues in Alberta attorns to the jurisdiction and becomes subject to a counterclaim. The court refused to sever or stay the counterclaim on grounds of inappropriate forum. If a foreign company sues here, our courts have jurisdiction to hear a counterclaim against it, and service on the solicitors for the plaintiff (defendant by counterclaim) is fit service within the jurisdiction. Where one side gets partial summary judgment but there is a pending counterclaim from the other side, the test for whether to stay execution on that one judgment until the counterclaim is decided, is like the test for a stay pending trial or pending appeal. 4Richardson v. Richardson2018 ABCA 327, Edm 1803 0095 AC (Oct 5). 5Castle Bldg.Centres Grp. v.Alta. Drywall,supra(¶'s 41-52). 6Quite similar to previous 1968 R.93(2).It came from 1944 C.R.103(2). 7Quinney v.1075398 Alta.2015 ABQB 452, 24 Alta LR(6th) 202 (¶ 23).Case law on set-off is reviewed, in *Chubak v. Corner Brook Farms(M) 2015 ABQB 806, [2016] 6WWR 752. 8Carroll v.ATCO Elect.2017 ABQB 426, [2018] 2 WWR 202 (Jul 5) (¶'s 9?13). 9Neptune Coring (W.) v.Sprague Rosser Constr.Co.(M) 2018 ABQB 883, JCE 1403 15015 (Oct 31) (¶'s 19-24). There is an extended discussion and citation of authority on the subject of what to do with 1Condo.Plan 8222909 v.Belas,infra. 2Condo.Plan 8222909 v.Belas(M) 2015 ABQB 751, JCE 1203 12256 (Nov 26).See alsoCondo.Corp. # *0213865 v. Uhrik(M) 2014 ABQB 478, 595 AR 141. 3Castle Bldg.Centres Grp. v.Alta. Drywall2023 ABKB 32, JCE 1803 04770 (Jan 18). and whether there is set-off. a counterclaim or cross-claim where the plaintiff gets summary judgment on the main claim. It was made easier in one case because there is no irreparable harm from letting the counterclaim come along later, and the case for the counterclaim was not really arguable. If a counterclaim is pled directly as a defence to the statement of claim, it is inconsistency to decide that the plaintiff can get judgment, yet that the counterclaim as a defence to the statement of claim, can continue. The Court of King's Bench justice left the counterclaim operating, and overturned the summary judgment decision. There is also a broad\"equitable\"discretion to stay or sever a counterclaim, depending on the nature of the main claim and the counterclaim, whether there isres judicata, During the three years'life of a suit, its defendant did not file a counterclaim.At the end of that period, the plaintiff tried to unilaterally discontinue the suit, but the defendant's right to counterclaim was remained. If a counterclaim is pled directly as a defence to the statement of claim, it cannot continue after summary judgment for the plaintiff;the two are inconsistent, and the chambers justice or applications judge must choose one. *Claiming Set-off*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-127",
+          "3-128"
+        ],
+        "offset_in_clean_text": [
+          403455,
+          407467
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read p.3-127 (line 3582) to p.3-128 (line 3614): rule text (exact against the official text; the raw text was dropped by the builder as identical), a Defined Terms / Related Provisions line and a note of several paragraphs, with footnotes 4-9 and 1-3 as printed; the note is skimmed for structure and pointers, not case by case. The built record: the whole note is in defined_terms (3,938 characters), beginning with '3.60 ( application of Rules);9.10 (judgment on counterclaim)' and ending with the heading of 3.59 'Claiming Set-off'; related_provisions and commentary are empty; nothing dropped. The printed line reads 'Defined Terms 3.60 ( application of Rules);9.10 (judgment on counterclaim)': no defined terms are printed and the words 'Related Provisions' are missing before '3.60'. (1) Related Provisions: '3.60 (application of Rules)' (official 3.60 is 'Application of rules to counterclaims'); '9.10 (judgment on counterclaim)' (official 9.10 is 'Judgment for balance on counterclaim'). (2) Statements read against the official text, Book B and Book C: 'a counterclaim is an \"independent action\"' agrees with 3.58 and Book B's Soler & Palau v. Meyer's Sheet Metal 2012 ABQB 496 para 47 ('A counterclaim is an independent action. It will not, in and of itself, prevent a plaintiff from obtaining summary judgment, unless the counterclaim constitutes a defence'); the note's 'A set-off ... it will still often be convenient to try them together' and the summary-judgment and stay paragraphs agree in substance with Book B (a legal or equitable set-off, as defences, may prevent summary judgment) and Book C ('a plaintiff might obtain summary judgment ... even though the defendant's counterclaim remains outstanding'); footnote 4 (Richardson v. Richardson 2018 ABCA 327) is the case Book C cites at para. 10; the other statements (security, foreign plaintiff, Court of King's Bench justice overturning summary judgment) were not checked. (3) History: fn 6 ('Quite similar to previous 1968 R.93(2). It came from 1944 C.R.103(2).') is printed at p.3-128 line 3597; its marker '6' appears after the 3.59 text (line 3616, '*6 Defined Terms pleading'), and 3.58's own text carries no marker, so it is the history of 3.59 (Book C's 3.59 commentary says a counterclaim only to seek set-off 'was required under Former Rules 93(2)'; corrected in the 3.59 pass). (4) Other rules' pointers to 3.58: Book A p.3-125 (line 3522) 'But also see R.3.58, and R.3.59 and its commentary'; p.3-130 (line 3698) related provision '3.58 (counterclaim an independent action)' (the related provisions of 3.60, 'Application of Rules to Counterclaims', text at line 3696; not the official title); p.3-226 (line 7352, the related provisions printed after the text of 3.72) '3.58 (counterclaims)'; R.7 p.7-4 (lines 80, 88) and p.7-35 (line 1863) 'Rr.3.58 and 3.60'; R.9 p.9-21 (line 980); R.10 p.10-102 (lines 5438-5439, 'under R.' / '3.58', in the R.10.31(6) note) and p.10-108 (line 5786) 'see R.3.58'; Book B's R.10 commentary (rule10_part05_document.json) 'a counterclaim is an \"independent action\" under rule 3.58'. The official text has only the table of contents (line 446) and the rule itself (line 5028). "
+    },
+    "BOOK_B": {
+      "title": "Status of counterclaim",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.58:1",
+          "text": "Rule 3.58 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.58. In Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd., 2012 ABQB 496, 2012 CarswellAlta 1327, 545 A.R. 391, 77 Alta. L.R. (5th) 194 (Master), Master Hanebury said, at paragraph 47: 47 Rule 3.58 provides that a counterclaim is an independent action. It will not, in and of itself, prevent a plaintiff from obtaining summary judgment, unless the counterclaim constitutes a defence. A legal or equitable setoff, as defences, may prevent summary judgment. Procedural set-off does not."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_58_001",
+        "part3_part_3_court_actions_030",
+        "part3_rule_3_58_002",
+        "part3_part_3_court_actions_032"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part05_document.json"
+        ]
+      },
+      "operative_text_sha256": "7c1de2acccbcb7996d8a3d1cc6e12c8f8d4a01412d9a64a907a2b13c91812ac9",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Status of counterclaim",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "7c1de2acccbcb7996d8a3d1cc6e12c8f8d4a01412d9a64a907a2b13c91812ac9",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 3.58 states that a counterclaim is an independent action. However, in practice although not reflected expressly in the , they are tied together more Rules of Court closely than two separate actions. Where there is a claim and counterclaim the parties hold concurrent questioning and set the matter down for trial concurrently, without the necessity of an order which would be required for two entirely separate actions. Omega Developments Inc. v. Canada Safeway Ltd., [2012] A.J. No. 967, 2012 ABQB 564 at para. 6 (Alta. Q.B. (Master)); see also, , [2016] A.J. No. 549, 2016 ABQB 172 WestJet v. ELS Marketing Inc. at para. 42 (Alta. Q.B.).\nThe settlement of the statement of claim or obtaining judgment on the statement of claim in an action does not settle or otherwise resolve the issues set out in the counterclaim which must be determined on their own. Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 10 (Alta. C.A.). This is more important in the settlement context than the trial context, as the matters are usually heard at the same time.\nOne of the consequences of the counterclaim being an independent action is that a plaintiff might obtain summary judgment against the defendant on the plaintiff’s claim, even though the defendant’s counterclaim remains outstanding, Soler & Palau Canada Inc. v. Meyer’s Sheet Metal Ltd., [2012] A.J. No. 819, 2012 ABQB 496 at para. 47 (Alta. Q.B. (Master)); see also, , [2014] A.J. Bernum Petroleum Ltd. v. Birch Lake Energy Inc. No. 1199, 2014 ABQB 652 at para. 115 (Alta. Q.B.). or summary judgment on a counter- claim might be granted even though portions of the main claim must go to trial. Attila Dogan Construction and Installation Co. v. AMEC Americas Ltd., [2015] A.J. No. 1419,",
+          "citations": [
+            {
+              "neutral_citation": "2012 ABQB 564",
+              "style_of_cause": "Omega Developments Inc. v. Canada Safeway Ltd."
+            },
+            {
+              "neutral_citation": "2016 ABQB 172",
+              "style_of_cause": "WestJet v. ELS Marketing Inc.",
+              "note": "the built style of cause was 'Omega Developments Inc. v. Canada Safeway Ltd.' (the previous citation's name); the name printed after the citation is 'WestJet v. ELS Marketing Inc.' ('[2016] A.J. No. 549, 2016 ABQB 172 ... at para. 42'); Book A p.3-127 fn 6 prints 'WestJet v. ELS Mktg. 2016 ABQB 172, JCC 1001 00525 (Mar 24) (¶'s 41-45)'"
+            },
+            {
+              "neutral_citation": "2018 ABCA 327",
+              "style_of_cause": "Richardson v. Richardson"
+            },
+            {
+              "neutral_citation": "2012 ABQB 496",
+              "style_of_cause": "Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd.",
+              "note": "the built style of cause was 'Palau Canada Inc. v. Meyer'; the printed name is 'Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd., [2012] A.J. No. 819, 2012 ABQB 496 at para. 47' (Book B: 'Soler & Palau Canada Inc. v. Meyer's Sheet Metal Ltd., 2012 ABQB 496 ... at paragraph 47')"
+            },
+            {
+              "neutral_citation": "2014 ABQB 652",
+              "style_of_cause": "Bernum Petroleum Ltd. v. Birch Lake Energy Inc.",
+              "note": "the built style of cause was 'A.J. Bernum Petroleum Ltd. v. Birch Lake Energy Inc. No. 1199' ('[2014] A.J.' and 'No. 1199' are the report cite, split around the name); the printed name is 'Bernum Petroleum Ltd. v. Birch Lake Energy Inc., [2014] A.J. No. 1199, 2014 ABQB 652 at para. 115'"
+            }
+          ],
+          "review_flag": "(1) The first paragraph has words displaced: 'although not reflected expressly in the , they are tied together more Rules of Court closely than two separate actions' ('Rules of Court' printed after 'the ,' - read as 'in the Rules of Court'); the citation of WestJet v. ELS Marketing Inc. is printed 'see also, , [2016] A.J. No. 549, 2016 ABQB 172 WestJet v. ELS Marketing Inc. at para. 42' and Bernum Petroleum as 'see also, , [2014] A.J. Bernum Petroleum Ltd. v. Birch Lake Energy Inc. No. 1199, 2014 ABQB 652 at para. 115' (the case names are displaced). (2) The commentary is cut off after 'Attila Dogan Construction and Installation Co. v. AMEC Americas Ltd., [2015] A.J. No. 1419,' (no neutral citation, no pinpoint, no closing); Book A prints the case as 'Attila Dogan Constr. & Installation Co. v. AMEC Americas 2015 ABCA 406, 609 AR 313, affg 2015 ABQB 120' (p.3-127 fn 9). (3) The statements agree with 3.58 and with Book B's Soler & Palau quotation; 'concurrent questioning' and 'set the matter down for trial concurrently, without the necessity of an order' are not in the rule text (Omega Developments v. Canada Safeway 2012 ABQB 564 para. 6, not checked)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.58",
+      "title_official": "Status of counterclaim"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "fbd03008f995406927a5ea87e4a9eb2e678ded9497d8888933ae8ada35e9f6f4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-127",
+            "3-128"
+          ],
+          "offset_in_clean_text": [
+            403455,
+            407467
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "7c1de2acccbcb7996d8a3d1cc6e12c8f8d4a01412d9a64a907a2b13c91812ac9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part05_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "7c1de2acccbcb7996d8a3d1cc6e12c8f8d4a01412d9a64a907a2b13c91812ac9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "3fa0008aa50349fbfd6d7a7a70de4ba38960b63a6fad08c40b64634c94721baa",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            72
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "3633b5280f0ef4d5322666f1e6cea13a1724121bcabf7c0d660388ba4c66570d"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.58 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "3.58 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.58 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.58 BOOK_C citation context dropped (2012 ABQB 564): verbatim in kept text",
+    "3.58 BOOK_C citation context dropped (2016 ABQB 172): verbatim in kept text",
+    "3.58 BOOK_C citation context dropped (2018 ABCA 327): verbatim in kept text",
+    "3.58 BOOK_C citation context dropped (2012 ABQB 496): verbatim in kept text",
+    "3.58 BOOK_C citation context dropped (2014 ABQB 652): verbatim in kept text",
+    "3.58 BOOK_C commentary sentence split dropped",
+    "3.58 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

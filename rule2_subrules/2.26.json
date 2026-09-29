@@ -1,0 +1,304 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.26",
+  "title": {
+    "official": "Verifying lawyer of record",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Lawyer of Record"
+  },
+  "operative_text": {
+    "controlling": "2.26(1)  If a person who is served with a commencement\ndocument, pleading or other document asks a lawyer or firm of\nlawyers if the lawyer or firm is a lawyer of record in an action,\napplication or proceeding, the lawyer must respond to the question\nin writing as soon as practicable.\n(2)  If a lawyer or firm of lawyers whose name appears as a lawyer\nof record in an action denies being the lawyer of record,\n(a) every application and proceeding in the action is stayed,\nand\n(b) no further application, proceeding or step may be taken in\nthe action without the Court’s permission.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "6076c9ceb0a1b093804bb10b2350c08f6a588a60386ad367be53f3ed753902c5"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.26 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          46
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Verifying Lawyer of Record",
+      "operative_text_raw": null,
+      "operative_text_sha256": "dbf45d2009fad7454b1c6b92da2aea65a9dad593a31468df1a129c04eaad821f",
+      "related_provisions": "2.24 (lawyer of record; 2.29 (withdrawal of lawyer of record).",
+      "commentary": "This Rule is of little use, as it could only expose pleadings not really ﬁled by the lawyer whose\nname they bear, or ﬁled by a lawyer with a nonexistent client. The Rule has nothing to do with the\nauthority from the client to the solicitor.⁶\nIt is vital for the lawyer that he or she have express authority from the client before suing or\ndefending a suit or appealing. General authority to do legal work is not enough.⁷\nIf the client is\nan artiﬁcial person, a resolution of its Board may be needed.⁸\nIf the corporation does not legally\nexist at the time, any retainer agreement is void, there is no retainer, and the lawyer can recover\n\nno fees from the corporation.¹\nIn urgent cases, the lawyer can ﬁle the pleading and then have the\nclient ratify the lawyer’s authority.²\nIf the plaintiff’s lawyer lacks or ceases to have authority, the\ncourt may stay the suit.\nA law ﬁrm acting for someone who uses another’s name in a suit without permission of the\nperson named, may have to pay costs personally.³\nA judge strongly criticized a lawyer who\nincluded in the applications which she brought, requests on behalf of the litigant’s named siblings.\nShe never swore that she had authority from any of the siblings, nor produced any evidence that\nshe had authority.⁴\nOne cannot open up a consent order, even before its entry, on the grounds of lack of authority\nof counsel of record to consent.⁵\nA lawyer becomes solicitor of record for a party by ﬁling some record in the action. The court\nwill not inquire into the solicitor’s authority without good reason, and a mere request by the\nopposing party is not enough.⁶\nThe opposite party, or a shareholder in the company, can question the solicitor’s authority to\nﬁle proceedings for the company. And the lawyer will be made to pay the costs, even if he did\nnot know of the end of his authority, e. g. where the client died or, became mentally incompetent.⁷\nMuch the same is true if the client is, or goes into, receivership or bankruptcy.⁸\nWhere the newly-elected council of an Indian Band have instructed a lawyer to bring an\napplication in court and the resolution is in evidence in court, the court should not doubt the\nauthority of the lawyer, nor be deterred by evidence that some other members of the band\ndisagree with the litigation.⁹\nA settlement of a suit under the Matrimonial Property Act is not binding if the formalities under\nthat Act are not followed.¹⁰\nOn authority of a solicitor to compromise a suit, see R.3.35n.\nA party tried to upset a settlement made through her counsel (in her presence) by claiming\nthat her counsel’s performance had shortcomings, but the client did not waive privilege to let her\nformer counsel reply to that. In any event without ﬂagrant disloyalty or incompetence, the authority\nof the counsel as agent would not be diminished.¹¹\n\nA solicitor is presumed to have actual authority to consent to a partial settlement or to\narbitration.¹\nThe plaintiff was represented by a self-styled “Freeman” who, and whose organization, had in\nthe past shown themselves to be armed and violent in Manitoba, so the defendant’s lawyer was\nallowed to appear using a pseudonym.²",
+      "footnotes": [
+        {
+          "page": "2-60",
+          "number": 5,
+          "text": "Quite similar to previous 1968 R.557(1), (3). It came from 1944 C. R.647 and ultimately from the Common Law Procedure Act 1852 s.7. Cf. (Imp. ) 2 Wm.4 c.39 s.17, Judic. Ord. s.10, and 1883 O.7 r.1."
+        },
+        {
+          "page": "2-60",
+          "number": 6,
+          "text": "See the C. P. E. , Chapter 4, Part K.2. Generally on solicitors’ authority, see the discussion and authorities in Hals. Laws of Canada, Civil Procedure, 333 ff. (1st ed.2008)."
+        },
+        {
+          "page": "2-60",
+          "number": 7,
+          "text": "See the C. P. E. , Chapter 4, Part D; Lavallee Rackel v. R. (#2) 2000 ABCA 54, 255 AR 86, 93, 95 (¶’s 35-36), affd 2002 SCC 61, [2002] 3 SCR 209."
+        },
+        {
+          "page": "2-60",
+          "number": 8,
+          "text": "See previous footnote."
+        },
+        {
+          "page": "2-61",
+          "number": 1,
+          "text": "Obi Agbarakwe Pro. Corp. v. Condo. Corp. No.0726502 2011 ABQB 286, [2011] AR Uned 337 [but quaere as to the facts there]."
+        },
+        {
+          "page": "2-61",
+          "number": 2,
+          "text": "See the C. P. E. , Chapter 4, Part K.4(c). Cf. R. v. Harrison [1977] 1 SCR 238, 8 NR 47."
+        },
+        {
+          "page": "2-61",
+          "number": 3,
+          "text": "See the C. P. E. , Chapter 4, Part K.3(b)."
+        },
+        {
+          "page": "2-61",
+          "number": 4,
+          "text": "¶’s 67 ff. recite recent authorities on the need to use costs to restrain litigation misconduct, including costs against solicitors personally. The lawyer was directed to submit why she should not be personally liable for the costs awards: Re Sawridge Band Inter Vivos Settlement (1985 Sawridge Tr. ) v. Twinn and Pub. T’ee. (#__) 2017 ABQB 436, JCE 1103 14112 (Jul 12)."
+        },
+        {
+          "page": "2-61",
+          "number": 5,
+          "text": "But an honest error (unknown to the lawyer consenting a second bill of costs had been signed and sent to the same ﬁrm), was enough to open up the unentered order, on condition of payment of $2, 000 for extra time to attend on the variation application: 1400467 Alta. v. Adderley (#2) 2013 ABQB 697[2014] AJ #1314."
+        },
+        {
+          "page": "2-61",
+          "number": 6,
+          "text": "Chisan v. Fielding 2017 ABQB 233, 98 CPC(7th) 257 (¶’s 16-20)."
+        },
+        {
+          "page": "2-61",
+          "number": 7,
+          "text": "Morin v. Trans Alta Utils. Corp.2017 ABQB 409, JCE 1403 06722 (Jun 27). See the C. P. E. , Chapter 4, Part K.3(b). But 2015 and 2016 English authority now questions this traditional proposition."
+        },
+        {
+          "page": "2-61",
+          "number": 8,
+          "text": "C. P. E. , Chapter 4, Part K.5."
+        },
+        {
+          "page": "2-61",
+          "number": 9,
+          "text": "Piikani N. v. Piikani Inv.2012 ABQB 719, [2012] AR Uned 861 (liquidator with limited powers)."
+        },
+        {
+          "page": "2-61",
+          "number": 10,
+          "text": "Jang v. Jang 2000 ABQB 607, 272 AR 336. Cf. Smith v. Haworth 2003 ABQB 477, 345 AR 97."
+        },
+        {
+          "page": "2-61",
+          "number": 11,
+          "text": "Shannon v. Shannon 2023 ABCA 79, Calg 2101 0069 AC (Mar 6) (¶’s 40 ff. )."
+        },
+        {
+          "page": "2-62",
+          "number": 1,
+          "text": "Shannon v. Shannon, supra (¶’s 32-39)."
+        },
+        {
+          "page": "2-62",
+          "number": 2,
+          "text": "Perreal v. Knibb 2014 ABQB 15, 581 AR 275."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          3038,
+          3135
+        ],
+        "book_pages": [
+          "2-60",
+          "2-61",
+          "2-62"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Verifying lawyer of record",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_045",
+        "part2_rule_2_26_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_046"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "db4b1b4cc5f1e67657eb6bbf89842451acb50a15cd19d130289593ad38448921",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Verifying lawyer of record",
+      "division_heading": "Division 3 – REPRESENTATION OR ASSISTANCE BEFORE THE COURT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "c31986c7bcd8b6816a77b23c54a85aafa9a3d5a483867d1e2cbd1d3d5dcf67b4",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 2.26 is in Division 4 (Lawyer of Record) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.26",
+      "title_official": "Verifying lawyer of record"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "dbf45d2009fad7454b1c6b92da2aea65a9dad593a31468df1a129c04eaad821f",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            3038,
+            3135
+          ],
+          "book_pages": [
+            "2-60",
+            "2-61",
+            "2-62"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "db4b1b4cc5f1e67657eb6bbf89842451acb50a15cd19d130289593ad38448921",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "c31986c7bcd8b6816a77b23c54a85aafa9a3d5a483867d1e2cbd1d3d5dcf67b4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "6076c9ceb0a1b093804bb10b2350c08f6a588a60386ad367be53f3ed753902c5",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            46
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "39e2c531d41c5ccb9cefe8bbe402e056599148e291bd993e0bdb4daae5c82777"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): BOOK_A 2.26's pointer 'R.3.35n' checked: R.3.35 notes (p.3-86 to 3-89) review a solicitor's authority to bind a client to a settlement, citing Shannon v. Shannon 2023 ABCA 79 (also BOOK_A 2.26 fn 11).",
+    "Rule 2.24: BOOK_A 2.24 Part A 'On the authority of the lawyer of record, see R.2.26n.'; BOOK_A related provisions of 2.26 list 2.24 and 2.29.",
+    "Rule 2.25: BOOK_A 2.25 history footnote (same sources as R.2.26: 1968 R.557).",
+    "Rule 3.35: BOOK_A 2.26 commentary 'On authority of a solicitor to compromise a suit, see R.3.35n.'"
+  ],
+  "dedupe_log": [
+    "2.26 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.26 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.26 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.26 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.21",
+  "title": {
+    "official": "Litigation representative: termination, replacement, terms and conditions",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.21   The Court may do one or more of the following:\n(a) terminate the authority or appointment of a litigation\nrepresentative;\n(b) appoint a person as or replace a litigation representative;\n(c) impose terms and conditions on, or on the appointment of,\na litigation representative or cancel or vary the terms or\nconditions.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "6f670f874ae54587d471c5a88be4697554ee6d1d7b441659d0d6796dd4497b60"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          44
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Litigation representative: termination, replacement, terms and conditions",
+      "operative_text_raw": null,
+      "operative_text_sha256": "565bbb7664e248b2be49712a2812d2945debe82e16f8006ba206d7f3c8ff9fa4",
+      "related_provisions": "2.28 (change of lawyer of record) ; 10.47 (liability for costs) ; 14.82 (litigation representative on appeal)",
+      "commentary": "A self-appointment was conﬁrmed.¹\nA personal representative of an estate must not be in a position where his or her interests\nand duty necessarily conﬂict. Such a person may have a right in a personal capacity to sue or\nappeal; but if that gives him or her a conﬂict with the other beneﬁciaries, then (at least pending the\noutcome of the litigation), he or she should not be the personal representative.²\nA suit needs consent by the named plaintiff. If he or she is unable to give it, then a litigation\nrepresentative is needed. A solicitor who ﬁled a suit on behalf of a small group, most of whom had\nnever given authority (only one had), had to pay costs personally. If authority is questioned, the\nonus is on the solicitor to show authority. Ordinarily one person has no power to give authority for\nsomeone else. It takes special facts to ﬁnd reasonable belief in authority which actually did not\nexist.³\nWho is the personal representative of an estate is not the same as who can appear in court\nfor it. Such representatives must follow the Legal Profession Act, and R.2.21 does not and cannot\nwater that down. A lawyer is needed.⁴",
+      "footnotes": [
+        {
+          "page": "2-42",
+          "number": 1,
+          "text": "Kunkel v. Winquist, infra"
+        },
+        {
+          "page": "2-42",
+          "number": 2,
+          "text": "Rufenack v. Hope Mission 2005 ABCA 129, [2005] AR Uned 48; Kunkel v. Winquist 2022 ABQB 367, JCE 2003 13470 (May 24) (¶’s 38-40)."
+        },
+        {
+          "page": "2-42",
+          "number": 3,
+          "text": "Morin v. Trans Alta Utils. Corp.2017 ABQB 409, JCE 1403 06722 (Jun 27). And here the solicitor actively resisted the motion to strike out those who gave no authority. The solicitor had to pay the defendants 4 times column 1."
+        },
+        {
+          "page": "2-42",
+          "number": 4,
+          "text": "Royal Bank v. Godbout 2021 ABQB 321, JCRD 2010 00857, ES10 24029 (Apr 22) (¶’s 29-33)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          2051,
+          2077
+        ],
+        "book_pages": [
+          "2-42"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Litigation representative: termination, replacement, terms and conditions",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.21:1",
+          "text": "Rule 2.21 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.21. 1. Ordering Costs in Advance In 1985 Sawridge Trust v. Alberta (Public Trustee), 2013 ABCA 226, 553 A.R. 324, 2013 CarswellAlta 1015, the Trustees of the Sawridge Trust sought an order changing the designation of “beneficiaries” under the Trust. The learned Chambers judge noted that children who might be affected by the change were not represented by legal counsel, and in due course, over the opposition of the Trustees, the Public Trustee was appointed. The learned Chambers judge “also awarded advance costs to the Public Trustee on a solicitor and his own client basis, to be paid for by the Trust, and he exempted the Public Trustee from liability for any other costs of the litigation.” The Trustees appealed the order with respect to costs and the exemption. The Court of Appeal dismissed the appeal, and held that the Chambers judge had jurisdiction to order advance costs, and said at paragraphs 23–26: 23 In our view, there are several sources of jurisdiction for an order of advance costs in the case before us. One is section 41 of the Public Trustee Act, SA 2004, c P-44.1 which provides: 41 Unless otherwise provided by an enactment, where the Public Trustee is a party to or participates in any matter before a court, (a) the costs payable to the Public Trustee, and the client, party or other person by whom the costs are to be paid, are in the discretion of the court, and (b) the court may order that costs payable to the Public Trustee are to be paid out of and are a charge on an estate. 24 It is evident that the court is vested with a large discretion with respect to an award of costs under section 41. While not dealing specifically with an award of advance costs, this discretionary power encompasses such an award. Further, the court has broad powers to “impose terms and conditions” upon the appointment of a litigation representative pursuant to Rule 2.21 … 25 The chambers judge also invoked parens patriae jurisdiction as enabling him to award advance costs, in the best interests of the children, to obtain the independent representation of the Public Trustee on their behalf. To the extent that there is any gap in statutory authority for the exercise of this power, the parens patriae jurisdiction is available. As this Court commented in Alberta (Child, Youth and Family Enhancement Act, Director) v. DL, 2012 ABCA 275, 536 AR 207, in situations where there is a gap in the legislative scheme, the exercise of the inherent parens patriae jurisdiction “is warranted whenever the best interests of the child are engaged” (para 4). 26 In short, a wide discretion is conferred with respect to the granting of costs under the Trustee Act, the terms of the appointment of a litigation representative pursuant to the Rules of Court, and in the exercise of parens patriae jurisdiction for the necessary protection of children. In our view, the discretion is sufficiently broad to encompass an award of advanced costs in the situation at hand."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_029",
+        "part2_rule_2_21_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_030",
+        "part2_alberta_rules_of_court_rule_2_part_2_031",
+        "part2_rule_2_21_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_032"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "5978056913c142cd96e9cc97ccf70803a9a2a1fffa447ed629980092698acd87",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Litigation representative: termination, replacement, terms and conditions",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "2a6c0701a22782dcb837e7d5e47fe627eb9e2471c0f1097266bf300068693b1a",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "The court may use rule 2.21 where there is an obvious, inherent conflict with the other beneficiaries that raises the risk of the estate lending its name to “someone else’s fight”. Padget Estate v. Padget Estate, [2015] A.J. No. 897, 2015 ABQB 515 at para. 43 (Alta. Q.B. (Master)); also, see , [2005] A.J. No. 317, 2005 ABCA 129 (Alta. C.A.). Rufenack v. Hope Mission The court has broad powers to impose terms and conditions upon the appointment of a litigation representative pursuant to rule 2.21, and those powers include a wide discretion with respect to the granting of various forms of costs, including advance costs. 1985 Sawridge Trust v. Alberta (Public Trustee), [2013] A.J. No. 640, 2013 ABCA 226 at paras. 23 24 (Alta. C.A.); see also , [2022] A.J. No. 677, 2022 ABQB 367 at para. 21 (Alta. ‐ Kunkel v. Winquist Q.B.).",
+          "citations": [
+            {
+              "neutral_citation": "2015 ABQB 515",
+              "style_of_cause": "Padget Estate v. Padget Estate, [2015] A.J. No. 897 (Master)"
+            },
+            {
+              "neutral_citation": "2005 ABCA 129",
+              "style_of_cause": "Rufenack v. Hope Mission, [2005] A.J. No. 317"
+            },
+            {
+              "neutral_citation": "2013 ABCA 226",
+              "style_of_cause": "1985 Sawridge Trust v. Alberta (Public Trustee), [2013] A.J. No. 640"
+            },
+            {
+              "neutral_citation": "2022 ABQB 367",
+              "style_of_cause": "Kunkel v. Winquist, [2022] A.J. No. 677"
+            }
+          ],
+          "review_flag": "useful: 2.21 used where an inherent conflict risks the estate 'lending its name to someone else's fight' (Padget para 43); broad power to set terms incl. advance costs (Sawridge paras 23-24). Case names re-paired from the text (Padget name as printed in C; Book A 2.22 p.2-45 fn 10 cites the same 2015 ABQB 515 as 'Re Padget Est. (M)'). Corroborated: Book A fn 2 (Rufenack, Kunkel), Book B (Sawridge, which quotes paras 23-26; C prints 'paras. 23 24')."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 2.21 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.21",
+      "title_official": "Litigation representative: termination, replacement, terms and conditions"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "565bbb7664e248b2be49712a2812d2945debe82e16f8006ba206d7f3c8ff9fa4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            2051,
+            2077
+          ],
+          "book_pages": [
+            "2-42"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "5978056913c142cd96e9cc97ccf70803a9a2a1fffa447ed629980092698acd87",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "2a6c0701a22782dcb837e7d5e47fe627eb9e2471c0f1097266bf300068693b1a",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "6f670f874ae54587d471c5a88be4697554ee6d1d7b441659d0d6796dd4497b60",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            44
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "b774959f7bf7174bc1b7ed6520007cb0bd821a0404886483837923e6979e31b1"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (7th pass): BOOK_A R.3.26 fns 9-10 (p.3-72), R.3.27 fn 4 (p.3-75) and R.9.13 notes (p.9-28) cite an earlier decision in the same court file, 'Paget v. Paget [sic] (Re Padget Est.) 2014 ABQB 750, JCE 1303 07147' - the file number matches Re Padget Est. (M) 2015 ABQB 515 (BOOK_A 2.22 fn 10; BOOK_C 2.21). Book A's own '[sic]' shows the parties' name is printed both ways.",
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): listed as a related provision under R.14.82 (p.14-251); Book A's R.14.82 text prints the 2.21 label with a semicolon ('Litigation representative; termination ...').",
+    "Rule 2.12(1)(c) (official: a Court-appointed litigation representative under rule 2.15, 2.16 or 2.21) and BOOK_A 2.12 information note.",
+    "Rules 2.13 and 2.14: BOOK_A related provisions list 2.21.",
+    "Rule 14.82(b) (official): a litigation representative continues on appeal, subject to rule 2.21.",
+    "Rule 2.17(2): BOOK_C 2.17 commentary reads 2.17(2) and 2.21 together on advance costs.",
+    "Cross-book (4th pass): Kunkel v. Winquist 2022 ABQB 367 is cited in all three books (A fns 1-2 paras 38-40; C para 21; B 2.11 quotes paras 23-26; A 2.14 paras 31, 38). Rufenack v. Hope Mission 2005 ABCA 129 (A fn 2, C) is spelled 'Rufenak' in the judgment BOOK_B 2.11 quotes. BOOK_A 2.11 p.2-32 fn 8 cites a related Sawridge decision, 1985 Sawridge Tr. v. Pub. T'ee. 2012 ABQB 365 (Public Trustee preferred as litigation representative for minors); the books do not say whether 2013 ABCA 226 (B, C) is its appeal."
+  ],
+  "dedupe_log": [
+    "2.21 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.21 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.21 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.21 BOOK_C citation context dropped (2015 ABQB 515): verbatim in kept text",
+    "2.21 BOOK_C citation context dropped (2005 ABCA 129): verbatim in kept text",
+    "2.21 BOOK_C citation context dropped (2013 ABCA 226): verbatim in kept text",
+    "2.21 BOOK_C citation context dropped (2022 ABQB 367): verbatim in kept text",
+    "2.21 BOOK_C commentary sentence split dropped",
+    "2.21 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

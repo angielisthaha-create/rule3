@@ -1,0 +1,231 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.40",
+  "title": {
+    "official": "Absence of person served with notice of appointment for assessment",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Recoverable Costs of Litigation"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Assessment of Costs by Assessment Officer"
+  },
+  "operative_text": {
+    "controlling": "10.40   An assessment officer may, on proof of service of the\nnotice of appointment and proposed bill of costs, proceed with the\nassessment of costs payable despite the absence of the person\nserved.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "9481acf8255b5a0d4e29bb988f849891fc1e6e4650b69f82bb25fff0d6799b43"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.40 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.40 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it). It has the rule text (equal to the official text), no commentary and no citation."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          214
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Absence of Person Served With Notice of Appointment for Assessment",
+      "operative_text_raw": null,
+      "operative_text_sha256": "bdc79b5c56b48cdc62b21ba2f24fea31e6b8d22332f2b343815b959df12548b6",
+      "related_provisions": "3.36 (failure to defend) ; 9.15(1) (b) (setting aside order on failure to appear) ; 10.16 (failure to appear on review)",
+      "commentary": "This was done and upheld, especially as deference is owed to the assessment ofﬁcer’s\nscheduling decisions.⁵",
+      "footnotes": [
+        {
+          "page": "10-129",
+          "number": 4,
+          "text": "Quite similar to previous 1968 R.632. It was new in 1968."
+        },
+        {
+          "page": "10-129",
+          "number": 5,
+          "text": "Oleynik v. Univ. of Calg.2013 ABCA 395, 2013 CarswellAlta 2302 (one JA Nov 22) (¶’s 10-19), leave den 2014 ABCA 19, 2014 CarswellAlta 53. (Jan 16)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          6971,
+          6981
+        ],
+        "book_pages": [
+          "10-129"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-129 (lines 6971-6981): title (line 6971, 'Absence of Person Served With Notice of Appointment for Assessment'), rule text (lines 6972-6974, the footnote marker '4' after 'the absence of the person served.'), Related Provisions (lines 6976-6979, three entries wrapped across a blank line: '3.36 (failure to defend) ; 9.15(1) (b) (setting aside order on failure to appear) ; 10.16 (failure to appear on review)'), the note (lines 6980-6981, one sentence: 'This was done and upheld, especially as deference is owed to the assessment officer’s scheduling decisions.', footnote marker '5') and 2 footnotes: p.10-129 fn 4 (line 6996, history: 'Quite similar to previous 1968 R.632. It was new in 1968.') and fn 5 (lines 6997-6998: Oleynik v. Univ. of Calg. 2013 ABCA 395, 2013 CarswellAlta 2302 (one JA Nov 22) (¶'s 10-19), leave den 2014 ABCA 19, 2014 CarswellAlta 53. (Jan 16).; the same words as fn 2 of the 10.37 note, line 6906). Read against the official text: the rule text equals official 10.40 (EXACT_MATCH, no differences). (1) Related Provisions read against the official rules: '3.36 (failure to defend)' is a label for official 3.36 'Judgment in default of defence and noting in default'; '9.15(1) (b) (setting aside order on failure to appear)' is a paraphrase of 9.15(1)(b) (accident, mistake or insufficient notice); '10.16 (failure to appear on review)' is a label for official 10.16 'Absence of person at appointment for review' (the same list is printed under 10.16, see the 10.16 flag). (2) 'This was done and upheld, especially as deference is owed to the assessment officer's scheduling decisions' (fn 5, Oleynik v. Univ. of Calg.) has no antecedent: 'This' refers to a statement that is not printed in the note (the note has only this one sentence, printed directly after the Related Provisions), so the sentence cannot be read on its own; the rule itself says nothing about scheduling decisions or deference. (3) Oleynik v. Univ. of Calg. 2013 ABCA 395 is the case behind the 10.37 note fn 2 (large swathes of dates for the hearing) and is printed again at line 6997 (this rule) and, with paragraph 4, at line 7321; fn 5 has a stray full stop before the date ('CarswellAlta 53. (Jan 16).'), as in the 10.37 note. No supra or infra and no placeholder '(#_)' is used. The history footnote names an old rule (1968 R.632) and says the rule 'was new in 1968', not checked against any old-rule text; Book B has no commentary for this rule, so nothing in this note is corroborated by Book B. "
+    },
+    "BOOK_B": {
+      "title": "Absence of person served with notice of appointment for assessment",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_40_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_018"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "fc3260c5f53ebca2d016aa8bd67f3f2b3fb5bffe8939c24fe2913d88d17e9e65",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Absence of person served with notice of appointment for assessment",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "fc3260c5f53ebca2d016aa8bd67f3f2b3fb5bffe8939c24fe2913d88d17e9e65",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "481-500_10_32 to 10_46.json",
+        "source_file": "481-500_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.40",
+      "title_official": "Absence of person served with notice of appointment for assessment"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "bdc79b5c56b48cdc62b21ba2f24fea31e6b8d22332f2b343815b959df12548b6",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            6971,
+            6981
+          ],
+          "book_pages": [
+            "10-129"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "fc3260c5f53ebca2d016aa8bd67f3f2b3fb5bffe8939c24fe2913d88d17e9e65",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "fc3260c5f53ebca2d016aa8bd67f3f2b3fb5bffe8939c24fe2913d88d17e9e65",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "481-500_10_32 to 10_46.json",
+          "source_file": "481-500_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "9481acf8255b5a0d4e29bb988f849891fc1e6e4650b69f82bb25fff0d6799b43",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            214
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c3c3df519fa06b2319d82d6398d144ef4429e3aa07c9373cd629e08b4bfb3bc0"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.40' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1605), the page heading (line 12812, 'Rule 10.40') and the rule (line 12829). No other rule or form cites 10.40 by number. By subject (the rules Book A lists): 3.36 'Judgment in default of defence and noting in default' (line 362), 9.15(1)(b) (the Court may set aside, vary or discharge a judgment or order made following a trial or hearing at which an affected person did not appear because of an accident or mistake or because of insufficient notice), 10.16 'Absence of person at appointment for review' (line 1524), and 10.37 'Appointment for assessment' (notice of the appointment, official line 12730).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.16 Related Provisions (line 1490, p.10-31: '10.40 (failure to appear on assessment)') and this rule (title line 6971, text line 6972); no other Book A file cites 10.40. The 10.40 Related Provisions point back to 10.16 ('10.16 (failure to appear on review)'), as the 10.16 flag records.",
+    "BOOK_B: rule10_part10_document.json holds the heading, the rule text (EXACT_MATCH) and no commentary (the 8 lines that contain '10.40' are this rule's own heading and paragraph records); no other Book B file cites 10.40 by number.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry (an orphan entry with no Division heading, rule text equal to the official text, no citation, no commentary, no Information Note); no other Book C file cites 10.40 by number."
+  ],
+  "dedupe_log": [
+    "10.40 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.40 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.40 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.40 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

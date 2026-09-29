@@ -1,0 +1,831 @@
+{
+  "source_file": "541-560_revised.md",
+  "definitions": [],
+  "hierarchy": [
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "11.18",
+        "title": "allows a self-represented litigant to accept, in writing, service of a commencement document. This provision applies to surrogate proceedings, because of the absence of a specific provision in the allowing for a self-represented party to voluntarily Surrogate Rules accept service of a notice on application for grant of probate; there is no need to obtain an order validating service. Powell Estate (Re), [2023] A.J. No. 1113, 2023 ABCA 311 at paras. 11-16 (Alta. C.A.).",
+        "text": "Likewise, rule 11.30 allows service to be effected where there is an acknowledgment or acceptance of service in writing by the person served (including a self-represented litigant) or that person’s lawyer. There are a broad range of circumstances where parties, including self-represented litigants, may agree to a form a service in a manner not provided by the Rules that an order validating service is not required (and should not be requested, to avoid needless desk or in-person applications). Bank of Montreal v. Luciano, [2024] A.J. No. 601, 2024 ABKB 314 at paras. 26-27 (Alta. K.B.).",
+        "sentences": [
+          "Likewise, rule 11.30 allows service to be effected where there is an acknowledgment or acceptance of service in writing by the person served (including a self-represented litigant) or that person’s lawyer. There are a broad range of circumstances where parties, including self-represented litigants, may agree to a form a service in a manner not provided by the Rules that an order validating service is not required (and should not be requested, to avoid needless desk or in-person applications).",
+          "Bank of Montreal v. Luciano, [2024] A.J. No. 601, 2024 ABKB 314 at paras. 26-27 (Alta. K.B.)."
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2024 ABKB 314",
+            "style_of_cause": "Bank of Montreal v. Luciano",
+            "context": "ovided by the Rules that an order validating service is not required (and should not be requested, to avoid needless desk or in-person applications). Bank of Montreal v. Luciano, [2024] A.J. No. 601, 2024 ABKB 314 at paras. 26-27 (Alta. K.B.)."
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "11.31",
+        "title": "Setting aside service",
+        "text": "(1) A defendant may apply to the Court to set aside (2) An application under this rule is not an acknowledgment by the defendant that the Court has jurisdiction with respect to a claim, counterclaim or third party claim in respect of which the application is filed.\n(3) If the Court is satisfied that (b) the failure of the addressee to receive the document is not attribut- able to the addressee’s own efforts to avoid receiving the document, and (c) the addressee would be prejudiced by the application of rule 11.22(2) [Recorded mail service], the Court may make any order that the Court considers appropriate in respect of any matter relating to the document, including setting aside service.\n\n*[Alta. Reg. 124/2010, r. 11.31 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+        "sentences": [
+          "(1) A defendant may apply to the Court to set aside",
+          "(2) An application under this rule is not an acknowledgment by the defendant that the Court has jurisdiction with respect to a claim, counterclaim or third party claim in respect of which the application is filed.",
+          "(3) If the Court is satisfied that",
+          "(b) the failure of the addressee to receive the document is not attribut- able to the addressee’s own efforts to avoid receiving the document, and",
+          "(c) the addressee would be prejudiced by the application of rule 11.22(2) [Recorded mail service], the Court may make any order that the Court considers appropriate in respect of any matter relating to the document, including setting aside service. *[Alta. Reg. 124/2010, r. 11.31 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+        ],
+        "citations": [],
+        "info_notes": [],
+        "commentary": [
+          {
+            "topic": "General Principles",
+            "text": "Service of the statement of claim will be set aside under rule 11.31 if it is clear that the defendant did not get notice of the claim against them. Arsenault v. Aubin, [2015] A.J. No. 549, 2015 ABQB 311 at para. 8 (Alta. Q.B. (Master)).\nIf an order is set aside pursuant to rule 11.31, a court may grant an extension of time pursuant to rule 3.27, considering the following factors: a) The court should only extend the time for service where there is no prejudice to the defendant; b) The plaintiff bears the onus of proving that the defendant would not be prejudiced by the extension; c) The defendant has at least an evidentiary obligation to provide some details of prejudice which would flow from an extension of the time for service; d) The defendant cannot create prejudice by failing to do something that it reasonably could have or ought to have done; e) Interaction With Other Rules – Rule 9.15 allows the court to permit a defence to be filed by a party who has been noted in default. Rule 3.30 allows a defendant who is served with a statement of claim to apply to the court to set aside service in accordance with rule 11.31.\nRule 11.25 outlines the procedure for service . Rule 3.27(1)(b) allows for an extension ex juris [2020] S.C.J. No. 4, 2020 SCC  H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). at para. 68 (S.C.C.).",
+            "sentences": [
+              "Service of the statement of claim will be set aside under rule 11.31 if it is clear that the defendant did not get notice of the claim against them.",
+              "Arsenault v. Aubin, [2015] A.J. No. 549, 2015 ABQB 311 at para. 8 (Alta. Q.B. (Master)).",
+              "If an order is set aside pursuant to rule 11.31, a court may grant an extension of time pursuant to rule 3.27, considering the following factors: a) The court should only extend the time for service where there is no prejudice to the defendant",
+              "b) The plaintiff bears the onus of proving that the defendant would not be prejudiced by the extension",
+              "c) The defendant has at least an evidentiary obligation to provide some details of prejudice which would flow from an extension of the time for service",
+              "d) The defendant cannot create prejudice by failing to do something that it reasonably could have or ought to have done",
+              "e) Interaction With Other Rules – Rule 9.15 allows the court to permit a defence to be filed by a party who has been noted in default.",
+              "Rule 3.30 allows a defendant who is served with a statement of claim to apply to the court to set aside service in accordance with rule 11.31.",
+              "Rule 11.25 outlines the procedure for service .",
+              "Rule 3.27(1)(b) allows for an extension ex juris [2020] S.C.J. No. 4, 2020 SCC H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). at para. 68 (S.C.C.)."
+            ],
+            "citations": [
+              {
+                "neutral_citation": "2015 ABQB 311",
+                "style_of_cause": "Arsenault v. Aubin",
+                "context": "Service of the statement of claim will be set aside under rule 11.31 if it is clear that the defendant did not get notice of the claim against them. Arsenault v. Aubin, [2015] A.J. No. 549, 2015 ABQB 311 at para. 8 (Alta. Q.B. (Master)).\nIf an order is set aside pursuant to rule 11.31, a court may gran"
+              },
+              {
+                "neutral_citation": "2010 ABQB 769",
+                "style_of_cause": null,
+                "context": "cordance with rule 11.31.\nRule 11.25 outlines the procedure for service . Rule 3.27(1)(b) allows for an extension ex juris [2020] S.C.J. No. 4, 2020 SCC  H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). at para. 68 (S.C.C.)."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "orphan_rule",
+      "data": {
+        "number": "11.32",
+        "title": "Procedure for service",
+        "text": "If the court clerk receives a written request from a court or tribunal in a foreign country to serve on a person in Alberta a process or citation in respect of a civil or commercial matter, the following rules apply:\n(a) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). copies of the process or citation to be served must be provided to the court clerk;\n(b) if the request, process or citation is not in the English language,  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). copies of an English translation of any document that is not in the English language must be provided to the court clerk;\n(c) service may be effected in accordance with the Alberta rules for service of the same or a similar document, or in a manner directed in the request of the foreign court or tribunal to the court clerk;\n(d) after service has been effected, the person effecting service must return to the court clerk of the appropriate judicial centre one copy of the process or citation, together with an affidavit of service and particulars of the cost of service;\n(e) the court clerk must return the request, together with the affidavit of service, to the foreign court or tribunal that made the request, and must certify (i) the amount properly payable for service, (ii) that the affidavit of service is sufficient proof of service as required by these rules, and R. 11.32 [Alta. Reg. 124/2010, r. 11.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]",
+        "sentences": [
+          "If the court clerk receives a written request from a court or tribunal in a foreign country to serve on a person in Alberta a process or citation in respect of a civil or commercial matter, the following rules apply:",
+          "(a) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). copies of the process or citation to be served must be provided to the court clerk",
+          "(b) if the request, process or citation is not in the English language, D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). copies of an English translation of any document that is not in the English language must be provided to the court clerk",
+          "(c) service may be effected in accordance with the Alberta rules for service of the same or a similar document, or in a manner directed in the request of the foreign court or tribunal to the court clerk",
+          "(d) after service has been effected, the person effecting service must return to the court clerk of the appropriate judicial centre one copy of the process or citation, together with an affidavit of service and particulars of the cost of service",
+          "(e) the court clerk must return the request, together with the affidavit of service, to the foreign court or tribunal that made the request, and must certify",
+          "(i) the amount properly payable for service",
+          "(ii) that the affidavit of service is sufficient proof of service as required by these rules, and R. 11.32 [Alta. Reg. 124/2010, r. 11.32 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]"
+        ],
+        "citations": [
+          {
+            "neutral_citation": "2012 ABCA 72",
+            "style_of_cause": null,
+            "context": "ibunal in a foreign country to serve on a person in Alberta a process or citation in respect of a civil or commercial matter, the following rules apply:\n(a) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). copies of the process or citation to be served must be provided to the cou"
+          }
+        ],
+        "info_notes": [],
+        "commentary": []
+      }
+    },
+    {
+      "type": "Division",
+      "heading": "Division 8 – SERVICE IN A CONTRACTING STATE UNDER THE HAGUE CONVENTION",
+      "rules": [
+        {
+          "number": "11.33",
+          "title": "Definitions",
+          "text": "In this Division, (a) “Central Authority” means the central authority designated by a Contracting State under the Convention;\n(b) “Contracting State” means a State party to the Convention, other than Canada;\n(c) “Convention” means the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, concluded at The Hague on November 15, 1965.",
+          "sentences": [
+            "In this Division",
+            "(a) “Central Authority” means the central authority designated by a Contracting State under the Convention",
+            "(b) “Contracting State” means a State party to the Convention, other than Canada",
+            "(c) “Convention” means the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, concluded at The Hague on November 15, 1965."
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "11.34",
+          "title": "Service in Contracting State",
+          "text": "(1) A commencement document that is to be served in a Contracting State must be served (a) through the Central Authority in the Contracting State using the Request for Service Abroad of Judicial or Extrajudicial Documents, Certificate, Warning and Summary of the Document to be Served in the Model Form annexed to the Convention, as amended or replaced from time to time, (b) directly through Canadian diplomatic or consular agents, unless the document is being served on a national who is not Canadian and the Contracting State has declared that it is opposed to that method of service within its territory, (c) through consular channels where the Contracting State has desig- nated an authority to receive requests for service through these channels, (d) through diplomatic channels, (e) by another method that is provided in the Convention and is set out in rule 11.26(1) , unless the [Method of service outside Alberta]\nContracting State has objected to that method, or (f) by a method that is set out in rule 11.26(1) and is not prohibited by the Convention.\n(2) Despite subrule (1), a commencement document that is to be served in a Contracting State must be served in accordance with rule 11.26(1) [Method of service outside Alberta] if (a) the Contracting State has determined that the Convention does not apply, or (b) the address of the person to be served is unknown.\n(3) Service may be proved,",
+          "sentences": [
+            "(1) A commencement document that is to be served in a Contracting State must be served",
+            "(a) through the Central Authority in the Contracting State using the Request for Service Abroad of Judicial or Extrajudicial Documents, Certificate, Warning and Summary of the Document to be Served in the Model Form annexed to the Convention, as amended or replaced from time to time",
+            "(b) directly through Canadian diplomatic or consular agents, unless the document is being served on a national who is not Canadian and the Contracting State has declared that it is opposed to that method of service within its territory",
+            "(c) through consular channels where the Contracting State has desig- nated an authority to receive requests for service through these channels",
+            "(d) through diplomatic channels",
+            "(e) by another method that is provided in the Convention and is set out in rule 11.26(1) , unless the [Method of service outside Alberta] Contracting State has objected to that method, or",
+            "(f) by a method that is set out in rule 11.26(1) and is not prohibited by the Convention.",
+            "(2) Despite subrule (1), a commencement document that is to be served in a Contracting State must be served in accordance with rule 11.26(1) [Method of service outside Alberta] if",
+            "(a) the Contracting State has determined that the Convention does not apply, or",
+            "(b) the address of the person to be served is unknown.",
+            "(3) Service may be proved"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "11.35",
+          "title": "Default judgment under the Convention",
+          "text": "(1) If a commencement document was served on a defendant in accordance with any clause of rule 11.34(1)(a) to (e) and the defendant has not served [Service in Contracting State] and filed a statement of defence or demand of notice, judgment may be given under Part  Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.).\n, Division  Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.).\n, [Court Actions]\n[Actions Started by Statement of Claim]\nSubdivision  H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). [Failure to Defend].\n(2) Despite subrule (1), judgment may be given without establishing that the document was served on the defendant if (a) the commencement document was transmitted for service in accor- dance with any clause of rule 11.34(1)(a) to (e) [Service in Contract- ing State], (b) a period of not less than  Stalzer Estate v. Stalzer, [2018] A.J. No. 315, 2018 ABQB 191 at para. 34 (Alta. Q.B.). months, or such longer period as the Court considers adequate in the circumstances, has elapsed since the day on which the commencement document was transmitted, and (c) every reasonable effort was made to obtain proof of service through competent authorities from the Contracting State to which the commencement document was transmitted.\n(3) The court may extend the time to seek relief from a default judgment under rule 9.15(3) [Setting aside, varying and discharging judgments and orders] if (a) the defendant, without any fault on the defendant’s part, did not have knowledge of the document in sufficient time to defend, or knowledge of the judgment in sufficient time to appeal, and (b) the defendant has disclosed a prima facie defence to the action on the merits.\n(4) Subrule (3) does not apply to a judgment concerning the status or capacity of persons.\n\n*[Alta. Reg. 36/2020, s.  Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at para. 24 (Alta. Q.B.). effective May 26, 2020 (Alta. Gaz. April 15, 2020); Alta. Reg.*\n\n194/2020, s.  H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). effective October 21, 2020 (Alta. Gaz. November 14, 2020)]\n[now the Act Protection Against Family Violence Act Extra-provincial Enforce- ], the , the ment of Custody Orders Act Change of , and to family law matters under the Name Act Law of Property Act and the .\nThis Part also applies to restraining orders and to actions for unjust enrichment in the family law context.\nUnless a different procedure is specified in this Part, the other Parts of the rules also apply to family law matters. This Part is divided into Divisions which correspond to the other Parts of the rules, so that one can quickly identify any exceptions which apply to family law matters.\nDivision  Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.).\nFOUNDATIONAL ULES R",
+          "sentences": [
+            "(1) If a commencement document was served on a defendant in accordance with any clause of rule 11.34(1)(a) to",
+            "(e) and the defendant has not served [Service in Contracting State] and filed a statement of defence or demand of notice, judgment may be given under Part Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). , Division Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). , [Court Actions] [Actions Started by Statement of Claim] Subdivision H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). [Failure to Defend].",
+            "(2) Despite subrule (1), judgment may be given without establishing that the document was served on the defendant if",
+            "(a) the commencement document was transmitted for service in accor- dance with any clause of rule 11.34(1)(a) to",
+            "(e) [Service in Contract- ing State]",
+            "(b) a period of not less than Stalzer Estate v. Stalzer, [2018] A.J. No. 315, 2018 ABQB 191 at para. 34 (Alta. Q.B.). months, or such longer period as the Court considers adequate in the circumstances, has elapsed since the day on which the commencement document was transmitted, and",
+            "(c) every reasonable effort was made to obtain proof of service through competent authorities from the Contracting State to which the commencement document was transmitted.",
+            "(3) The court may extend the time to seek relief from a default judgment under rule 9.15(3) [Setting aside, varying and discharging judgments and orders] if",
+            "(a) the defendant, without any fault on the defendant’s part, did not have knowledge of the document in sufficient time to defend, or knowledge of the judgment in sufficient time to appeal, and",
+            "(b) the defendant has disclosed a prima facie defence to the action on the merits.",
+            "(4) Subrule",
+            "(3) does not apply to a judgment concerning the status or capacity of persons. *[Alta. Reg. 36/2020, s. Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at para. 24 (Alta. Q.B.). effective May 26, 2020 (Alta. Gaz. April 15, 2020)",
+            "Alta. Reg.* 194/2020, s. H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). effective October 21, 2020 (Alta. Gaz. November 14, 2020)] [now the Act Protection Against Family Violence Act Extra-provincial Enforce- ], the , the ment of Custody Orders Act Change of , and to family law matters under the Name Act Law of Property Act and the .",
+            "This Part also applies to restraining orders and to actions for unjust enrichment in the family law context.",
+            "Unless a different procedure is specified in this Part, the other Parts of the rules also apply to family law matters. This Part is divided into Divisions which correspond to the other Parts of the rules, so that one can quickly identify any exceptions which apply to family law matters. Division Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.).",
+            "FOUNDATIONAL ULES R"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2019 ABCA 194",
+              "style_of_cause": "Part  Flock Estate v. Flock",
+              "context": "(e) and the defendant has not served [Service in Contracting State] and filed a statement of defence or demand of notice, judgment may be given under Part  Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.).\n, Division  Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at"
+            },
+            {
+              "neutral_citation": "2010 ABQB 769",
+              "style_of_cause": null,
+              "context": "lock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.).\n, [Court Actions]\n[Actions Started by Statement of Claim]\nSubdivision  H. (L.M.) v. H. (S.R.), [2010] A.J. No. 1402, 2010 ABQB 769 at paras. 10-12 (Alta. Q.B.). [Failure to Defend].\n(2) Despite subrule (1), judgment may be given w"
+            },
+            {
+              "neutral_citation": "2018 ABQB 191",
+              "style_of_cause": "Stalzer Estate v. Stalzer",
+              "context": "was transmitted for service in accor- dance with any clause of rule 11.34(1)(a) to (e) [Service in Contract- ing State], (b) a period of not less than  Stalzer Estate v. Stalzer, [2018] A.J. No. 315, 2018 ABQB 191 at para. 34 (Alta. Q.B.). months, or such longer period as the Court considers adequate in the circ"
+            },
+            {
+              "neutral_citation": "2018 ABQB 149",
+              "style_of_cause": "Karas v. Mongeon",
+              "context": "facie defence to the action on the merits.\n(4) Subrule (3) does not apply to a judgment concerning the status or capacity of persons.\n\n*[Alta. Reg. 36/2020, s.  Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at para. 24 (Alta. Q.B.). effective May 26, 2020 (Alta. Gaz. April 15, 2020); Alta. Reg.*\n\n194/2020"
+            },
+            {
+              "neutral_citation": "2013 ABCA 197",
+              "style_of_cause": "Division  Muhtady v. Sarhan",
+              "context": "d into Divisions which correspond to the other Parts of the rules, so that one can quickly identify any exceptions which apply to family law matters.\nDivision  Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.).\nFOUNDATIONAL ULES R"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.1",
+          "title": "Definitions",
+          "text": "In this Part, (a) “action for unjust enrichment” means an action that is based on the equitable doctrine of unjust enrichment between  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence;\n(b) “designated authority” means (i) in respect of Alberta, a person or entity designated by the Minister of Justice to exercise powers or perform duties or functions set out in sections 18.1 to 19.1 of the Divorce Act (Canada) in Alberta, and (ii) in respect of a province other than Alberta, a person or entity designated by that province to exercise powers or perform duties or functions set out in sections 18.1 to 19.1 of the Divorce Act (Canada) in that province;\n(c) “designated jurisdiction” means a jurisdiction outside Canada declared to be a reciprocating jurisdiction in the Interjurisdictional Support Orders Regulation (AR 4/2003);\n(d) “party”, in respect of a proceeding under the Family Law Act, includes a public official, including the Director acting under Part  Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). of the who, pursuant to any Income and Employment Supports Act, enactment, has the right to commence, defend, intervene in or take any step in respect of the application and exercises that right;",
+          "sentences": [
+            "In this Part",
+            "(a) “action for unjust enrichment” means an action that is based on the equitable doctrine of unjust enrichment between D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence",
+            "(b) “designated authority” means",
+            "(i) in respect of Alberta, a person or entity designated by the Minister of Justice to exercise powers or perform duties or functions set out in sections 18.1 to 19.1 of the Divorce Act (Canada) in Alberta, and",
+            "(ii) in respect of a province other than Alberta, a person or entity designated by that province to exercise powers or perform duties or functions set out in sections 18.1 to 19.1 of the Divorce Act (Canada) in that province",
+            "(c) “designated jurisdiction” means a jurisdiction outside Canada declared to be a reciprocating jurisdiction in the Interjurisdictional Support Orders Regulation (AR 4/2003)",
+            "(d) “party”, in respect of a proceeding under the Family Law Act, includes a public official, including the Director acting under Part Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). of the who, pursuant to any Income and Employment Supports Act, enactment, has the right to commence, defend, intervene in or take any step in respect of the application and exercises that right"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2012 ABCA 72",
+              "style_of_cause": null,
+              "context": "In this Part, (a) “action for unjust enrichment” means an action that is based on the equitable doctrine of unjust enrichment between  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence;\n(b)"
+            },
+            {
+              "neutral_citation": "2015 ABCA 56",
+              "style_of_cause": null,
+              "context": "ation (AR 4/2003);\n(d) “party”, in respect of a proceeding under the Family Law Act, includes a public official, including the Director acting under Part  Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). of the who, pursuant to any Income and Employment Supports Act, enactment, has the ri"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.2",
+          "title": "What this Part applies to",
+          "text": "Unless otherwise specified, this Part applies to the following:\n(a) a proceeding under the (Canada);\nDivorce Act (b) a proceeding under the ;\nFamily Law Act (c) a proceeding under the or, in a case to which rule Family Property Act",
+          "sentences": [
+            "Unless otherwise specified, this Part applies to the following:",
+            "(a) a proceeding under the (Canada)",
+            "Divorce Act",
+            "(b) a proceeding under the",
+            "Family Law Act",
+            "(c) a proceeding under the or, in a case to which rule Family Property Act"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.121",
+          "title": "[ ] applies, the Transitional",
+          "text": "proceedings under former Act Matrimonial Property Act;\n(d) a proceeding under the Protection Against Family Violence Act;\n(e) a proceeding under the ;\nChange of Name Act (f) a proceeding under the Extra-provincial Enforcement of Custody Orders Act;\n(g) an action for unjust enrichment between  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence;\n(h) an application for partition and sale pursuant to Part  Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). of the Law of Property Act between  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence;\n(i) an application for a restraining order between  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence;\n(j) repealed AR 23/2021, s. 5.\n\n*[Alta. Reg. 124/2010, r. 12.2 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 23/2021, s.  Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). effective March 1, 2021]",
+          "sentences": [
+            "proceedings under former Act Matrimonial Property Act",
+            "(d) a proceeding under the Protection Against Family Violence Act",
+            "(e) a proceeding under the",
+            "Change of Name Act",
+            "(f) a proceeding under the Extra-provincial Enforcement of Custody Orders Act",
+            "(g) an action for unjust enrichment between D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence",
+            "(h) an application for partition and sale pursuant to Part Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). of the Law of Property Act between D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence",
+            "(i) an application for a restraining order between D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence",
+            "(j) repealed AR 23/2021, s. 5. *[Alta. Reg. 124/2010, r. 12.2 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 23/2021, s. Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). effective March 1, 2021]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2012 ABCA 72",
+              "style_of_cause": null,
+              "context": "g under the ;\nChange of Name Act (f) a proceeding under the Extra-provincial Enforcement of Custody Orders Act;\n(g) an action for unjust enrichment between  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence;\n(h)"
+            },
+            {
+              "neutral_citation": "2019 ABCA 194",
+              "style_of_cause": "Part  Flock Estate v. Flock",
+              "context": "at para. 5 (Alta. C.A.). parties who have lived together in a relationship of interdependence;\n(h) an application for partition and sale pursuant to Part  Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). of the Law of Property Act between  D. (L.K.) v. B. (J.), [2012] A.J. No."
+            },
+            {
+              "neutral_citation": "2015 ABCA 56",
+              "style_of_cause": null,
+              "context": "endence;\n(j) repealed AR 23/2021, s. 5.\n\n*[Alta. Reg. 124/2010, r. 12.2 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 23/2021, s.  Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). effective March 1, 2021]"
+            }
+          ],
+          "info_notes": [
+            "The Court of King’s Bench Family Law Practice Notes contain requirements that must be met in specific types of proceedings prior to filing commencement documents or prior to attending Court, including • attendance at the Parenting after Separation Seminar, and • participation in the Dispute Resolution Officer Program or the Child Support Resolution Officer Program."
+          ],
+          "commentary": [
+            {
+              "topic": "International Child Abduction",
+              "text": "Rule 12.2 makes no reference to proceedings under the International Child Abduction Act. It therefore “seems likely” that Part  Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). does not apply to such proceedings. Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.).",
+              "sentences": [
+                "Rule 12.2 makes no reference to proceedings under the International Child Abduction Act.",
+                "It therefore “seems likely” that Part Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). does not apply to such proceedings. Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2018 ABCA 327",
+                  "style_of_cause": "Part  Richardson v. Richardson",
+                  "context": "Rule 12.2 makes no reference to proceedings under the International Child Abduction Act. It therefore “seems likely” that Part  Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). does not apply to such proceedings. Muhtady v. Sarhan, [2013] A.J. No. 579"
+                },
+                {
+                  "neutral_citation": "2013 ABCA 197",
+                  "style_of_cause": "Muhtady v. Sarhan",
+                  "context": "therefore “seems likely” that Part  Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). does not apply to such proceedings. Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.3",
+          "title": "Application of other Parts",
+          "text": "Subject to this Part and any enactment, other Parts of these rules apply to proceedings and appeals under this Part.\n\n*[Alta. Reg. 124/2010, r. 12.3 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "Subject to this Part and any enactment, other Parts of these rules apply to proceedings and appeals under this Part. *[Alta. Reg. 124/2010, r. 12.3 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The intention behind rule 12.3 is that the more general rules outside",
+              "sentences": [
+                "The intention behind rule 12.3 is that the more general rules outside"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "12.4",
+          "title": "Forms",
+          "text": "In this Part, a reference to a form with the prefix “FL” is a reference to a form set out in Schedule A, Division 2.\n\n*[Alta. Reg. 124/2010, r.12.4 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "In this Part, a reference to a form with the prefix “FL” is a reference to a form set out in Schedule A, Division 2. *[Alta. Reg. 124/2010, r.12.4 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        }
+      ]
+    },
+    {
+      "type": "Division",
+      "heading": "Division 2 – THE PARTIES TO LITIGATION",
+      "rules": [
+        {
+          "number": "12.5",
+          "title": "Requirement that parties be spouses",
+          "text": "(1) Unless otherwise ordered, in a proceeding under the (Canada), including a counterclaim, the Divorce Act",
+          "sentences": [
+            "(1) Unless otherwise ordered, in a proceeding under the (Canada), including a counterclaim, the Divorce Act"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.6",
+          "title": "Exception to rule 2.11(a)",
+          "text": "(1) Subject to the , if an Minors’ Property Act individual who is under  Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.). years of age is or has been a spouse or adult interdependent partner, as those terms are defined in the Adult Interdependent Relationships Act, that individual need not have a litigation representative as required under rule 2.11(a) .\n[Litigation representative required]\n(2) A child is not considered to be participating in a proceeding for the purposes of rule 2.11(a) merely by virtue of [Litigation representative required]\n(a) being the subject of a dispute regarding guardianship, custody, access, parenting time, decision-making responsibility or contact, or (b) being served with a notice of a proceeding pursuant to an enactment that requires a person under  Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.). years of age to be served with notice of a proceeding.\n\n*[Alta. Reg. 124/2010, r. 12.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 23/2021, s.  Stalzer Estate v. Stalzer, [2018] A.J. No. 315, 2018 ABQB 191 at para. 34 (Alta. Q.B.). effective March 1, 2021]",
+          "sentences": [
+            "(1) Subject to the , if an Minors’ Property Act individual who is under Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.). years of age is or has been a spouse or adult interdependent partner, as those terms are defined in the Adult Interdependent Relationships Act, that individual need not have a litigation representative as required under rule 2.11(a) . [Litigation representative required]",
+            "(2) A child is not considered to be participating in a proceeding for the purposes of rule 2.11(a) merely by virtue of [Litigation representative required]",
+            "(a) being the subject of a dispute regarding guardianship, custody, access, parenting time, decision-making responsibility or contact, or",
+            "(b) being served with a notice of a proceeding pursuant to an enactment that requires a person under Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.). years of age to be served with notice of a proceeding. *[Alta. Reg. 124/2010, r. 12.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* Reg. 23/2021, s. Stalzer Estate v. Stalzer, [2018] A.J. No. 315, 2018 ABQB 191 at para. 34 (Alta. Q.B.). effective March 1, 2021]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2018 ABQB 149",
+              "style_of_cause": "Property Act individual who is under  Karas v. Mongeon",
+              "context": "(1) Subject to the , if an Minors’ Property Act individual who is under  Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.). years of age is or has been a spouse or adult interdependent partner,"
+            },
+            {
+              "neutral_citation": "2018 ABQB 191",
+              "style_of_cause": "Stalzer Estate v. Stalzer",
+              "context": "served with notice of a proceeding.\n\n*[Alta. Reg. 124/2010, r. 12.6 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 23/2021, s.  Stalzer Estate v. Stalzer, [2018] A.J. No. 315, 2018 ABQB 191 at para. 34 (Alta. Q.B.). effective March 1, 2021]"
+            }
+          ],
+          "info_notes": [
+            "Rule 2.29(4) [Withdrawal of lawyer of record] provides that the Court may grant an order that a lawyer need not disclose the last known address of a client but may instead provide an alternate address for service for the client in a notice of withdrawal where the Court considers it necessary to protect the safety and well-being of the client."
+          ],
+          "commentary": [
+            {
+              "topic": "Adult Guardianship Applications",
+              "text": "Rule 12.6(2) may be applied by analogy to guardian- ship applications under the Adult Guardianship and Trusteeship Act to remove the need for a litigation representative for an adult who lacks capacity to make decisions and who is may be inconsistent with rule 12.2, which lists the proceedings to which Part  Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). applies and does not include the Adult Guardianship and Trustee Act.",
+              "sentences": [
+                "Rule 12.6(2) may be applied by analogy to guardian- ship applications under the Adult Guardianship and Trusteeship Act to remove the need for a litigation representative for an adult who lacks capacity to make decisions and who is may be inconsistent with rule 12.2, which lists the proceedings to which Part Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). applies and does not include the Adult Guardianship and Trustee Act."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2018 ABCA 327",
+                  "style_of_cause": "Part  Richardson v. Richardson",
+                  "context": "resentative for an adult who lacks capacity to make decisions and who is may be inconsistent with rule 12.2, which lists the proceedings to which Part  Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). applies and does not include the Adult Guardianship and Trustee Act."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.7",
+          "title": "Starting proceeding under (Canada)",
+          "text": "Subject to rule 12.13 Divorce Act [Joint proceeding under the Divorce Act (Canada)], a proceeding under the Divorce Act (Canada) must be started by filing a statement of claim for divorce in Form FL- Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of documents].\n\n*[Alta. Reg. 124/2010, r. 12.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "Subject to rule 12.13 Divorce Act [Joint proceeding under the Divorce Act (Canada)], a proceeding under the Divorce Act (Canada) must be started by filing a statement of claim for divorce in Form FL- Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of documents]. *[Alta. Reg. 124/2010, r. 12.7 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2013 ABCA 197",
+              "style_of_cause": "Form FL- Muhtady v. Sarhan",
+              "context": "proceeding under the Divorce Act (Canada)], a proceeding under the Divorce Act (Canada) must be started by filing a statement of claim for divorce in Form FL- Muhtady v. Sarhan, [2013] A.J. No. 579, 2013 ABCA 197 at para. 3 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of documents].\n\n*[Al"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.8",
+          "title": "Starting proceeding under",
+          "text": "A proceeding under the Family Property Act Family Property Act must be started by filing a statement of claim for division of family property in Form FL- D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of documents].\n\n*[Alta. Reg. 124/2010, r. 12.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010), current to Gazette Vol. 116: S.A. 2003, c. F-4.5. (November 30, 2020)]*",
+          "sentences": [
+            "A proceeding under the Family Property Act Family Property Act must be started by filing a statement of claim for division of family property in Form FL- D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of documents]. *[Alta. Reg. 124/2010, r. 12.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010), current to Gazette Vol. 116: S.A. 2003, c. F-4.5. (November 30, 2020)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2012 ABCA 72",
+              "style_of_cause": null,
+              "context": "A proceeding under the Family Property Act Family Property Act must be started by filing a statement of claim for division of family property in Form FL- D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of documents].\n\n*[Al"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.9",
+          "title": "Starting combined proceeding under (Canada) and Divorce Act Family Property Act Divorce Act",
+          "text": "(1) A proceeding that is both a proceeding under the (Canada) and a proceeding under the may be started by Family Property Act filing a statement of claim for divorce and division of matrimonial property in Form FL- Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of Documents].\n(2) The statement of claim for divorce and division of family property must set out separately (a) the claim under the (Canada) proceeding, and Divorce Act (b) the claim under the proceeding.\nFamily Property Act [Alta. Reg. 124/2010, r. 12.9 effective November 1, 2010 (Alta. Gaz. August 14, 2010), current to Gazette Vol. 116: S.A. 2003, c. F-4.5. (November 30, 2020)]",
+          "sentences": [
+            "(1) A proceeding that is both a proceeding under the (Canada) and a proceeding under the may be started by Family Property Act filing a statement of claim for divorce and division of matrimonial property in Form FL- Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of Documents].",
+            "(2) The statement of claim for divorce and division of family property must set out separately",
+            "(a) the claim under the (Canada) proceeding, and Divorce Act",
+            "(b) the claim under the proceeding.",
+            "Family Property Act [Alta. Reg. 124/2010, r. 12.9 effective November 1, 2010 (Alta. Gaz. August 14, 2010), current to Gazette Vol. 116: S.A. 2003, c. F-4.5. (November 30, 2020)]"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2019 ABCA 194",
+              "style_of_cause": "Property Act filing a statement of claim for divorce and division of matrimonial property in Form FL- Flock Estate v. Flock",
+              "context": ") and a proceeding under the may be started by Family Property Act filing a statement of claim for divorce and division of matrimonial property in Form FL- Flock Estate v. Flock, [2019] A.J. No. 649, 2019 ABCA 194 at para. 12 (Alta. C.A.). and serving it in accordance with rule 12.55 [Service of Documents].\n(2)"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Dual proceedings brought under rule 12.9 continue to constitute two separate actions. They are not one consolidated action. Novotny v. LePan, [2011] A.J. No. 443, 2011 ABQB 205 at para. 13 (Alta. Q.B.). An otherwise valid action for the",
+              "sentences": [
+                "Dual proceedings brought under rule 12.9 continue to constitute two separate actions. They are not one consolidated action.",
+                "Novotny v. LePan, [2011] A.J. No. 443, 2011 ABQB 205 at para. 13 (Alta. Q.B.).",
+                "An otherwise valid action for the"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2011 ABQB 205",
+                  "style_of_cause": "They are not one consolidated action. Novotny v. LePan",
+                  "context": "Dual proceedings brought under rule 12.9 continue to constitute two separate actions. They are not one consolidated action. Novotny v. LePan, [2011] A.J. No. 443, 2011 ABQB 205 at para. 13 (Alta. Q.B.). An otherwise valid action for the"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Division",
+      "heading": "Division 3 – COURT ACTIONS",
+      "rules": [
+        {
+          "number": "12.10",
+          "title": "Action for unjust enrichment",
+          "text": "(1) A claim starting an action for unjust enrichment may be included in",
+          "sentences": [
+            "(1) A claim starting an action for unjust enrichment may be included in"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.11",
+          "title": "Statement of defence, counterclaim and demand for notice",
+          "text": "(1) Where a defendant wishes to oppose a statement of claim referred to in this Part, other than in rule 12.10(3) [ ] or 12.121 [ Action for unjust enrichment Transitional – proceedings under former Act], the defendant must file a statement of defence in Form FL-4.\n(2) Where a defendant wishes to receive notice of any hearing but does not wish to oppose a statement of claim referred to in this Part, other than in rule",
+          "sentences": [
+            "(1) Where a defendant wishes to oppose a statement of claim referred to in this Part, other than in rule 12.10(3) [ ] or 12.121 [ Action for unjust enrichment Transitional – proceedings under former Act], the defendant must file a statement of defence in Form FL-4.",
+            "(2) Where a defendant wishes to receive notice of any hearing but does not wish to oppose a statement of claim referred to in this Part, other than in rule"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.121",
+          "title": "[Transitional",
+          "text": "proceedings under former Act], the defendant must file a demand for notice in Form  Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). in accordance with rule 3.34 [Claim for possession of land].\n(3) Where a defendant wishes to file a claim against the plaintiff, the defendant must file (a) a counterclaim for divorce in Form FL-5, (b) a counterclaim for division of family property in Form FL-6, (c) a counterclaim for divorce and division of family property in Form FL-7, or R. 12.11 [Contents of counterclaim]\n(4) A counterclaim for unjust enrichment may be included in a counterclaim referred to in subrule (3)(b) or (c) but must set out separately (a) the counterclaim under the (Canada) proceeding, if any, Divorce Act (b) the counterclaim under the proceeding, and Family Property Act (c) the counterclaim in the action for unjust enrichment.\n(5) A defendant who wishes to oppose a statement of claim for unjust with rule 3.31 .\n[Statement of defence]\n\n*[Alta. Reg. 124/2010, r. 12.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010, current to Gazette Vol. 116: S.A. 2003, c. F-4.5. (November 30, 2020)]*",
+          "sentences": [
+            "proceedings under former Act], the defendant must file a demand for notice in Form Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). in accordance with rule 3.34 [Claim for possession of land].",
+            "(3) Where a defendant wishes to file a claim against the plaintiff, the defendant must file",
+            "(a) a counterclaim for divorce in Form FL-5",
+            "(b) a counterclaim for division of family property in Form FL-6",
+            "(c) a counterclaim for divorce and division of family property in Form FL-7, or R. 12.11 [Contents of counterclaim]",
+            "(4) A counterclaim for unjust enrichment may be included in a counterclaim referred to in subrule (3)(b) or",
+            "(c) but must set out separately",
+            "(a) the counterclaim under the (Canada) proceeding, if any, Divorce Act",
+            "(b) the counterclaim under the proceeding, and Family Property Act",
+            "(c) the counterclaim in the action for unjust enrichment.",
+            "(5) A defendant who wishes to oppose a statement of claim for unjust with rule 3.31 . [Statement of defence] *[Alta. Reg. 124/2010, r. 12.11 effective November 1, 2010 (Alta. Gaz. August 14, 2010, current to Gazette Vol. 116: S.A. 2003, c. F-4.5. (November 30, 2020)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2018 ABCA 327",
+              "style_of_cause": "Form  Richardson v. Richardson",
+              "context": "proceedings under former Act], the defendant must file a demand for notice in Form  Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.). in accordance with rule 3.34 [Claim for possession of land].\n(3) Where a d"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "The effect of failing to file a statement of defence or counterclaim and instead filing a demand for notice is to effectively admit that the plaintiff is in fact entitled to relief.12However, where the relief sought is for the benefit of both the plaintiff and defendant, such as a just and equitable judicial distribution of matrimonial property, the defendant is not precluded from applying to substitute the demand for notice with a statement of defence and counterclaim if the plaintiff abandons the claim for that relief. Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.).",
+              "sentences": [
+                "The effect of failing to file a statement of defence or counterclaim and instead filing a demand for notice is to effectively admit that the plaintiff is in fact entitled to relief.12However, where the relief sought is for the benefit of both the plaintiff and defendant, such as a just and equitable judicial distribution of matrimonial property, the defendant is not precluded from applying to substitute the demand for notice with a statement of defence and counterclaim if the plaintiff abandons the claim for that relief.",
+                "Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.)."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2018 ABCA 327",
+                  "style_of_cause": "Richardson v. Richardson",
+                  "context": "ded from applying to substitute the demand for notice with a statement of defence and counterclaim if the plaintiff abandons the claim for that relief. Richardson v. Richardson, [2018] A.J. No. 1177, 2018 ABCA 327 at para. 9 (Alta. C.A.)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.12",
+          "title": "Time for service of documents filed under rule 12.11",
+          "text": "(1) A person who files a document in accordance with rule 12.11 [Statement of defence, counter- claim and demand for notice] must serve the filed document on the plaintiff within the applicable time after service of the statement of claim.\n(2) The applicable time is (a) Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 25-33 (Alta. Q.B.). days if service is effected in Alberta, (b) one month if service is effected outside Alberta but in Canada, and (c) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). months if service is effected outside Canada.\n\n*[Alta. Reg. 124/2010, r. 12.12 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) A person who files a document in accordance with rule 12.11 [Statement of defence, counter- claim and demand for notice] must serve the filed document on the plaintiff within the applicable time after service of the statement of claim.",
+            "(2) The applicable time is",
+            "(a) Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 25-33 (Alta. Q.B.). days if service is effected in Alberta",
+            "(b) one month if service is effected outside Alberta but in Canada, and",
+            "(c) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). months if service is effected outside Canada. *[Alta. Reg. 124/2010, r. 12.12 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2018 ABQB 149",
+              "style_of_cause": "Karas v. Mongeon",
+              "context": "nd for notice] must serve the filed document on the plaintiff within the applicable time after service of the statement of claim.\n(2) The applicable time is (a) Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 25-33 (Alta. Q.B.). days if service is effected in Alberta, (b) one month if service is e"
+            },
+            {
+              "neutral_citation": "2012 ABCA 72",
+              "style_of_cause": null,
+              "context": "8 ABQB 149 at paras. 25-33 (Alta. Q.B.). days if service is effected in Alberta, (b) one month if service is effected outside Alberta but in Canada, and (c) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). months if service is effected outside Canada.\n\n*[Alta. Reg. 124/2010, r. 1"
+            }
+          ],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.121",
+          "title": "Transitional",
+          "text": "proceedings under former Act 12.121 – (1) This rule applies, and rules 12.8 to 12.12 [Starting proceeding under Family Property Act]\n[Time for service of documents filed under rule 12.11] do not apply, in respect of proceedings by spouses under the pursuant to section Matrimonial Property Act 39(2) of the .\nFamily Property Act (2) A proceeding under the pursuant to section Matrimonial Property Act 39(2) of the must be started by filing a statement of claim Family Property Act for division of matrimonial property in Form FL-2.1 and serving it in accordance with rule 12.55 .\n[Service of documents]",
+          "sentences": [
+            "proceedings under former Act 12.121 –",
+            "(1) This rule applies, and rules 12.8 to 12.12 [Starting proceeding under Family Property Act] [Time for service of documents filed under rule 12.11] do not apply, in respect of proceedings by spouses under the pursuant to section Matrimonial Property Act 39(2) of the .",
+            "Family Property Act",
+            "(2) A proceeding under the pursuant to section Matrimonial Property Act 39(2) of the must be started by filing a statement of claim Family Property Act for division of matrimonial property in Form FL-2.1 and serving it in accordance with rule 12.55 . [Service of documents]"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.13",
+          "title": "Joint proceeding under (Canada)",
+          "text": "(1) Spouses may jointly Divorce Act commence a proceeding under the (Canada) by filing a joint Divorce Act statement of claim for divorce in Form FL-8.\n(2) A joint statement of claim for divorce need not be served.\n(3) A party may withdraw from a joint proceeding under the Divorce Act (Canada) by filing a notice of withdrawal in Form FL-9.\n(4) If a party who withdraws from a joint proceeding under the Divorce Act",
+          "sentences": [
+            "(1) Spouses may jointly Divorce Act commence a proceeding under the (Canada) by filing a joint Divorce Act statement of claim for divorce in Form FL-8.",
+            "(2) A joint statement of claim for divorce need not be served.",
+            "(3) A party may withdraw from a joint proceeding under the Divorce Act (Canada) by filing a notice of withdrawal in Form FL-9.",
+            "(4) If a party who withdraws from a joint proceeding under the Divorce Act"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.14",
+          "title": "Transfer of divorce proceedings under (Canada) from Divorce Act court outside Alberta",
+          "text": "Where proceedings under the (Canada) are Divorce Act transferred from a court in a province other than Alberta, the transfer must be effected by filing with the court clerk certified copies of all pleadings and orders made in the transferred proceedings, and the transferred proceedings must then be carried forward as if the proceedings had been commenced under these rules.\n\n*[Alta. Reg. 124/2010, r.12.14 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\n\n> **COMMENTARY**",
+          "sentences": [
+            "Where proceedings under the (Canada) are Divorce Act transferred from a court in a province other than Alberta, the transfer must be effected by filing with the court clerk certified copies of all pleadings and orders made in the transferred proceedings, and the transferred proceedings must then be carried forward as if the proceedings had been commenced under these rules. *[Alta. Reg. 124/2010, r.12.14 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta.* > **COMMENTARY**"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.15",
+          "title": "Central Divorce Registry",
+          "text": "The court clerk must [Alta. Reg. 124/2010, r. 12.15 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]\nSubdivision 2: ACTIONS RELATING TO PROCEEDINGS UNDER THE FAMILY LAW ACT",
+          "sentences": [
+            "The court clerk must [Alta. Reg. 124/2010, r. 12.15 effective November 1, 2010 (Alta. Gaz. August 14, 2010)] Subdivision 2: ACTIONS RELATING TO PROCEEDINGS UNDER THE FAMILY LAW ACT"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.16",
+          "title": "Starting proceeding under",
+          "text": "(1) Despite rule 3.2(1) Family Law Act [How to start an action]\nFamily Law Act , a proceeding under the must be started by filing a claim in Form FL-10.\n(2) Evidence in support of the claim may be provided by filing one or more statements in Forms FL-34 to FL-56 or an affidavit, or both.\n(3) If a statement or affidavit is filed to support a claim, the statement or affidavit must be confined to (a) a statement of facts within the personal knowledge of the person swearing the statement or affidavit, and (b) any other evidence that the person swearing the statement or affidavit could give at trial.\n(4) Despite subrules (1) to (3), an application under section 80.1 of the Family Law Act may be started by filing in accordance with rule 70.1(2) of the Surrogate Rules [Alta. Reg. 130/95], and in that case the procedure for the application is governed by the .\nSurrogate Rules [Alta. Reg. 124/2010, r. 12.16 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.\nReg. 122/2012, s. 10]",
+          "sentences": [
+            "(1) Despite rule 3.2(1) Family Law Act [How to start an action] Family Law Act , a proceeding under the must be started by filing a claim in Form FL-10.",
+            "(2) Evidence in support of the claim may be provided by filing one or more statements in Forms FL-34 to FL-56 or an affidavit, or both.",
+            "(3) If a statement or affidavit is filed to support a claim, the statement or affidavit must be confined to",
+            "(a) a statement of facts within the personal knowledge of the person swearing the statement or affidavit, and",
+            "(b) any other evidence that the person swearing the statement or affidavit could give at trial.",
+            "(4) Despite subrules",
+            "(1) to (3), an application under section 80.1 of the Family Law Act may be started by filing in accordance with rule 70.1(2) of the Surrogate Rules [Alta. Reg. 130/95], and in that case the procedure for the application is governed by the .",
+            "Surrogate Rules [Alta. Reg. 124/2010, r. 12.16 effective November 1, 2010 (Alta. Gaz. August 14, 2010)",
+            "Alta. Reg. 122/2012, s. 10]"
+          ],
+          "citations": [],
+          "info_notes": [
+            "A claim used to commence a proceeding under the is heard in Family Law Act chambers. Parties must consult the Court of King’s Bench Practice Notes regarding hearings in chambers."
+          ],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "By requiring proceedings under the to be started by Family Law Act filing a claim in Form FL-10, rule 12.16 overrides the requirement in rule 3.2(1) that an action be commenced only by statement of claim, originating notice, or notice of appeal. Blackburn v. Boucher, [2018] A.J. No. 820, 2018 ABQB 509 at para. 25 (Alta. Q.B.), affd on other grounds [2018] A.J. No. 1409, 2018 ABCA 400 (Alta. C.A.). The practical effect is that there are four ways to commence an action under the Rules. Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.).\nThe exception for section 80.1 of the Family Law Act  S.A. 2003, c. F-4.5. relates to variation of support obligations where the payor is deceased.",
+              "sentences": [
+                "By requiring proceedings under the to be started by Family Law Act filing a claim in Form FL-10, rule 12.16 overrides the requirement in rule 3.2(1) that an action be commenced only by statement of claim, originating notice, or notice of appeal.",
+                "Blackburn v. Boucher, [2018] A.J. No. 820, 2018 ABQB 509 at para. 25 (Alta. Q.B.), affd on other grounds [2018] A.J. No. 1409, 2018 ABCA 400 (Alta. C.A.).",
+                "The practical effect is that there are four ways to commence an action under the Rules. Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.).",
+                "The exception for section 80.1 of the Family Law Act S.A. 2003, c. F-4.5. relates to variation of support obligations where the payor is deceased."
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2018 ABQB 509",
+                  "style_of_cause": "Blackburn v. Boucher",
+                  "context": "FL-10, rule 12.16 overrides the requirement in rule 3.2(1) that an action be commenced only by statement of claim, originating notice, or notice of appeal. Blackburn v. Boucher, [2018] A.J. No. 820, 2018 ABQB 509 at para. 25 (Alta. Q.B.), affd on other grounds [2018] A.J. No. 1409, 2018 ABCA 400 (Alta. C.A.). T"
+                },
+                {
+                  "neutral_citation": "2018 ABCA 400",
+                  "style_of_cause": "Blackburn v. Boucher",
+                  "context": "ced only by statement of claim, originating notice, or notice of appeal. Blackburn v. Boucher, [2018] A.J. No. 820, 2018 ABQB 509 at para. 25 (Alta. Q.B.), affd on other grounds [2018] A.J. No. 1409, 2018 ABCA 400 (Alta. C.A.). The practical effect is that there are four ways to commence an action under the Rule"
+                },
+                {
+                  "neutral_citation": "2018 ABQB 149",
+                  "style_of_cause": "The practical effect is that there are four ways to commence an action under the Rules. Karas v. Mongeon",
+                  "context": "affd on other grounds [2018] A.J. No. 1409, 2018 ABCA 400 (Alta. C.A.). The practical effect is that there are four ways to commence an action under the Rules. Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 22-23 (Alta. Q.B.).\nThe exception for section 80.1 of the Family Law Act  S.A. 2003, c. F"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.17",
+          "title": "Service of documents filed under rule 12.16",
+          "text": "A claim and any statements or affidavits in support of the claim filed under rule 12.16(1) and (2) [Starting proceeding under Family Law Act] must be served on each person named as a respondent in the claim and any person who is required by the Family Law Act [Service of to be served in the manner set out in rule 12.55 documents]\n(a) Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 25-33 (Alta. Q.B.). days or more before the date on which the application is scheduled to be heard or considered if service is effected in Alberta, (b) one month or more before the date referred to in clause (a) if service is effected outside Alberta but within Canada, and (c) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). months or more before the date referred to in clause (a) if service is effected outside Canada.\n\n*[Alta. Reg. 124/2010, r. 12.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "A claim and any statements or affidavits in support of the claim filed under rule 12.16(1) and",
+            "(2) [Starting proceeding under Family Law Act] must be served on each person named as a respondent in the claim and any person who is required by the Family Law Act [Service of to be served in the manner set out in rule 12.55 documents]",
+            "(a) Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 25-33 (Alta. Q.B.). days or more before the date on which the application is scheduled to be heard or considered if service is effected in Alberta",
+            "(b) one month or more before the date referred to in clause",
+            "(a) if service is effected outside Alberta but within Canada, and",
+            "(c) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). months or more before the date referred to in clause",
+            "(a) if service is effected outside Canada. *[Alta. Reg. 124/2010, r. 12.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2018 ABQB 149",
+              "style_of_cause": "Karas v. Mongeon",
+              "context": "ed as a respondent in the claim and any person who is required by the Family Law Act [Service of to be served in the manner set out in rule 12.55 documents]\n(a) Karas v. Mongeon, [2018] A.J. No. 238, 2018 ABQB 149 at paras. 25-33 (Alta. Q.B.). days or more before the date on which the application is scheduled to"
+            },
+            {
+              "neutral_citation": "2012 ABCA 72",
+              "style_of_cause": null,
+              "context": "ce is effected in Alberta, (b) one month or more before the date referred to in clause (a) if service is effected outside Alberta but within Canada, and (c) D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). months or more before the date referred to in clause (a) if service is eff"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 12.17 sets out the service requirements for proceedings under the Family Law Act started under rule 12.16. Specifically, the rule identifies who must be served, the timing of service, and that service must be in the manner set out in rule 12.55.\nService Required by the Family Law Act – In certain proceedings, the Family Law Act prescribes who must be served with notice. Such proceedings include:\n• surrogacy applications (see section 8.2(5) of the );\nFamily Law Act S.A. 2003, c. F-4.5.\n• applications for a declaration respecting parentage (see section 11(1) of the Family Law Act);  S.A. 2003, c. F-4.5.\n• applications under Part  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). [Guardianship, Parenting and Contact Orders and Enforcement of Time with a Child] of the (see section 17(1) of Family Law Act the );\nFamily Law Act 23and",
+              "sentences": [
+                "Rule 12.17 sets out the service requirements for proceedings under the Family Law Act started under rule 12.16.",
+                "Specifically, the rule identifies who must be served, the timing of service, and that service must be in the manner set out in rule 12.55.",
+                "Service Required by the Family Law Act – In certain proceedings, the Family Law Act prescribes who must be served with notice.",
+                "Such proceedings include: • surrogacy applications (see section 8.2(5) of the )",
+                "Family Law Act S.A. 2003, c. F-4.5. • applications for a declaration respecting parentage (see section 11(1) of the Family Law Act)",
+                "S.A. 2003, c. F-4.5. • applications under Part D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). [Guardianship, Parenting and Contact Orders and Enforcement of Time with a Child] of the (see section 17(1) of Family Law Act the )",
+                "Family Law Act 23and"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2012 ABCA 72",
+                  "style_of_cause": null,
+                  "context": "c. F-4.5.\n• applications for a declaration respecting parentage (see section 11(1) of the Family Law Act);  S.A. 2003, c. F-4.5.\n• applications under Part  D. (L.K.) v. B. (J.), [2012] A.J. No. 213, 2012 ABCA 72 at para. 5 (Alta. C.A.). [Guardianship, Parenting and Contact Orders and Enforcement of Time with a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.18",
+          "title": "Response to proceeding under",
+          "text": "(1) A person required Family Law Act to be served pursuant to rule 12.17 [Service of documents filed under rule 12.16] who wishes to respond to a claim must file a response in Form FL-11.\n(2) Evidence in support of the response may be provided by filing one or more reply statements in Forms FL-57 to FL-78 or an affidavit, or both.\n(3) The response may include a request that the Court grant one or more additional orders and, in that event, evidence in support of the request may be provided by filing one or more statements in Forms FL-34 to FL-56 or an affidavit, or both.\n(4) If a reply statement or affidavit is filed to support a response, the reply statement or affidavit must be confined to (a) a statement of facts within the personal knowledge of the person swearing the reply statement or affidavit, and (b) any other evidence that the person swearing the reply statement or affidavit could give at trial.\n\n*[Alta. Reg. 124/2010, r. 12.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) A person required Family Law Act to be served pursuant to rule 12.17 [Service of documents filed under rule 12.16] who wishes to respond to a claim must file a response in Form FL-11.",
+            "(2) Evidence in support of the response may be provided by filing one or more reply statements in Forms FL-57 to FL-78 or an affidavit, or both.",
+            "(3) The response may include a request that the Court grant one or more additional orders and, in that event, evidence in support of the request may be provided by filing one or more statements in Forms FL-34 to FL-56 or an affidavit, or both.",
+            "(4) If a reply statement or affidavit is filed to support a response, the reply statement or affidavit must be confined to",
+            "(a) a statement of facts within the personal knowledge of the person swearing the reply statement or affidavit, and",
+            "(b) any other evidence that the person swearing the reply statement or affidavit could give at trial. *[Alta. Reg. 124/2010, r. 12.18 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 12.18 sets out the form and content requirements for responses to proceedings started under the .\nFamily Law Act Content of Affidavits – Rule 12.18(4) limits the contents of an affidavit filed in support of a response to facts within the swearing person’s personal knowledge and other evidence the swearing person could give at trial. An affidavit provided under rule 12.18 should not include claims for relief for retroactive child support or retroactive partner support when there is no cross application regarding such matters properly before the court. Klein v. Wolbeck, [2016] A.J. No. 44, 2016 ABQB 28 at paras. 18-21 (Alta. Q.B.); see also rule",
+              "sentences": [
+                "Rule 12.18 sets out the form and content requirements for responses to proceedings started under the .",
+                "Family Law Act Content of Affidavits – Rule 12.18(4) limits the contents of an affidavit filed in support of a response to facts within the swearing person’s personal knowledge and other evidence the swearing person could give at trial.",
+                "An affidavit provided under rule 12.18 should not include claims for relief for retroactive child support or retroactive partner support when there is no cross application regarding such matters properly before the court.",
+                "Klein v. Wolbeck, [2016] A.J. No. 44, 2016 ABQB 28 at paras. 18-21 (Alta. Q.B.)",
+                "see also rule"
+              ],
+              "citations": [
+                {
+                  "neutral_citation": "2016 ABQB 28",
+                  "style_of_cause": "Klein v. Wolbeck",
+                  "context": "aims for relief for retroactive child support or retroactive partner support when there is no cross application regarding such matters properly before the court. Klein v. Wolbeck, [2016] A.J. No. 44, 2016 ABQB 28 at paras. 18-21 (Alta. Q.B.); see also rule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "12.19",
+          "title": "Service of documents filed under rule 12.18",
+          "text": "(1) A response and any statements, reply statements or affidavits in support of the response filed under rule 12.18 must be served on each person named as an applicant or respondent in the claim and any person required by the to be served.\nFamily Law Act (2) The documents referred to in subrule (1) must be served within a reasonable time before the claim is scheduled to be heard or considered, but anything less than  Holmes v. Holmes, [2023] A.J. No. 2, 2023 ABKB 1 at para. 20 (Alta. K.B.) days’ notice will be presumed to be prejudicial to any person entitled to be served.\n\n*[Alta. Reg. 124/2010, r. 12.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) A response and any statements, reply statements or affidavits in support of the response filed under rule 12.18 must be served on each person named as an applicant or respondent in the claim and any person required by the to be served. Family Law Act",
+            "(2) The documents referred to in subrule",
+            "(1) must be served within a reasonable time before the claim is scheduled to be heard or considered, but anything less than Holmes v. Holmes, [2023] A.J. No. 2, 2023 ABKB 1 at para. 20 (Alta. K.B.) days’ notice will be presumed to be prejudicial to any person entitled to be served. *[Alta. Reg. 124/2010, r. 12.19 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2023 ABKB 1",
+              "style_of_cause": "Holmes v. Holmes",
+              "context": "The documents referred to in subrule (1) must be served within a reasonable time before the claim is scheduled to be heard or considered, but anything less than  Holmes v. Holmes, [2023] A.J. No. 2, 2023 ABKB 1 at para. 20 (Alta. K.B.) days’ notice will be presumed to be prejudicial to any person entitled to"
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 12.19 sets out the service requirements for a response to a proceeding under the filed under rule 12.18. Specifically, the rule identifies Family Law Act",
+              "sentences": [
+                "Rule 12.19 sets out the service requirements for a response to a proceeding under the filed under rule 12.18.",
+                "Specifically, the rule identifies Family Law Act"
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "13.18",
+          "title": "[Types of Affidavits].",
+          "text": "",
+          "sentences": [],
+          "citations": [],
+          "info_notes": [],
+          "commentary": []
+        },
+        {
+          "number": "12.20",
+          "title": "Response to respondent’s request for additional order",
+          "text": "A person required to be served pursuant to rule 12.19 [Service of documents filed under rule 12.18] who wishes to respond to the respondent’s request that the Court grant one or more additional orders may file one or more reply statements in Forms FL-57 to FL-78 or an affidavit, or both.\n\n*[Alta. Reg. 124/2010, r. 12.20 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "A person required to be served pursuant to rule 12.19 [Service of documents filed under rule 12.18] who wishes to respond to the respondent’s request that the Court grant one or more additional orders may file one or more reply statements in Forms FL-57 to FL-78 or an affidavit, or both. *[Alta. Reg. 124/2010, r. 12.20 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 12.20 [Response to respondent’s request for additional order] sets out the form in which a person may respond when a respondent, in their response under rule 12.18, has requested that the court grant an additional order under subrule 12.18(3).",
+              "sentences": [
+                "Rule 12.20 [Response to respondent’s request for additional order] sets out the form in which a person may respond when a respondent, in their response under rule 12.18, has requested that the court grant an additional order under subrule 12.18(3)."
+              ],
+              "citations": []
+            }
+          ]
+        },
+        {
+          "number": "12.21",
+          "title": "Service of documents filed under rule 12.20",
+          "text": "(1) A reply statement or affidavit filed under rule 12.20 [Response to respondent’s request for additional order] must be served on each person named as an applicant or respondent in the claim and any person required by the to be served.\nFamily Law Act (2) The documents referred to in subrule (1) must be served within a reasonable time before the claim is scheduled to be heard or considered, but anything less than  Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). days’ notice will be presumed to be prejudicial to the person entitled to be served.\n\n*[Alta. Reg. 124/2010, r. 12.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*",
+          "sentences": [
+            "(1) A reply statement or affidavit filed under rule 12.20 [Response to respondent’s request for additional order] must be served on each person named as an applicant or respondent in the claim and any person required by the to be served. Family Law Act",
+            "(2) The documents referred to in subrule",
+            "(1) must be served within a reasonable time before the claim is scheduled to be heard or considered, but anything less than Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). days’ notice will be presumed to be prejudicial to the person entitled to be served. *[Alta. Reg. 124/2010, r. 12.21 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+          ],
+          "citations": [
+            {
+              "neutral_citation": "2015 ABCA 56",
+              "style_of_cause": null,
+              "context": "uments referred to in subrule (1) must be served within a reasonable time before the claim is scheduled to be heard or considered, but anything less than  Z. (C.E.) v. Z. (W.N.), [2015] A.J. No. 145, 2015 ABCA 56 (Alta. C.A.). days’ notice will be presumed to be prejudicial to the person entitled to be served."
+            }
+          ],
+          "info_notes": [],
+          "commentary": [
+            {
+              "topic": "General Principles",
+              "text": "Rule 12.21 sets out the service requirements for a response under rule 12.20, including who must be served and the timing of service.\nService Required by the Family Law Act – In certain proceedings, the Family Law Act prescribes who must be served with notice. Such proceedings include:\n• surrogacy applications (see section 8.2(5) of the );\nFamily Law Act • applications for a declaration respecting parentage (see section 11(1) of the",
+              "sentences": [
+                "Rule 12.21 sets out the service requirements for a response under rule 12.20, including who must be served and the timing of service.",
+                "Service Required by the Family Law Act – In certain proceedings, the Family Law Act prescribes who must be served with notice.",
+                "Such proceedings include: • surrogacy applications (see section 8.2(5) of the )",
+                "Family Law Act • applications for a declaration respecting parentage (see section 11(1) of the"
+              ],
+              "citations": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1267 @@
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "2.1.0-revised",
+      "schema_version": "HWGS_1.5",
+      "generated_at": "2025-11-03T23:30:00Z",
+      "source_manifests": [
+        "05203.rtf",
+        "05204.rtf",
+        "05205.rtf"
+      ],
+      "node_count": 22,
+      "relationship_count": 27,
+      "consolidated_references": {
+        "case_law_citations": [
+          "Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959",
+          "R. v. Imperial Tobacco Canada Ltd., 2011 SCC 42",
+          "Hryniak v. Mauldin, 2014 SCC 7",
+          "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., 2021 ABCA 16",
+          "Clark v Hunka, 2017 ABCA 346",
+          "G.H. v Alcock, 2013 ABCA 24",
+          "HOOPP Realty Inc. v. Guarantee Co. of North America, 2015 ABCA 336",
+          "Chutskoff v. Bonora, 2014 ABQB 389",
+          "Dykun v. Odinshaw, 2000 ABQB 548",
+          "Reece v. Edmonton (City), 2011 ABCA 238",
+          "Tottrup v. Lund, 2000 ABCA 121",
+          "Gay v. Alberta (Workers' Compensation Board), 2023 ABCA 351",
+          "ANC Timber Ltd. Alberta (Minister of Agriculture and Forestry), 2019 ABQB 653",
+          "Ernst v. EnCana Corp., 2014 ABCA 285",
+          "Operation Dismantle Inc. v. The Queen, [1985] 1 S.C.R. 441",
+          "White Burgess Langille Inman v Abbott and Haliburton Co, 2015 SCC 23",
+          "R v Mohan, [1994] 2 SCR 9",
+          "Ariss v. Ariss, 2011 ABQB 435",
+          "Bennett v. NE2 Canada Inc., 2024 ABKB 695",
+          "Veselic-Titheridge v. Titheridge, 2007 ABQB 456",
+          "Carbone v. Dr Jeffrey C Dawes, 2024 ABCA 404"
+        ],
+        "source_documents": [
+          "Alberta Rules of Court, Alta. Reg. 124/2010"
+        ],
+        "manifest_references": [
+          "05203.rtf",
+          "05204.rtf",
+          "05205.rtf"
+        ]
+      },
+      "tactical_play_count": 2,
+      "countermeasure_count": 2,
+      "dedupe_removed_node_count": 1,
+      "dedupe_primary_sources": [
+        "D:\\dev_aiwinsor\\pipelineV6\\hybrid_rule4\\rule3\\rule3.68V4.json"
+      ]
+    },
+    "nodes": [
+      {
+        "node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "node_type": "WarfareFramework",
+        "label": "Strike Test: 'No Reasonable Claim'",
+        "description": "The framework for striking a pleading under Rule 3.68(2)(b). The modern test is whether it is 'plain and obvious' that the claim has 'no reasonable prospect of success', assuming the facts pleaded are true.",
+        "source_sentence_ids": [
+          "05203.rtf#r3-68-2-b",
+          "05204.rtf#para-25-alberta-adolescent"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "a commencement document or pleading discloses no reasonable claim or defence to a claim;",
+              "source_reference": "05203.rtf#r3-68-2-b"
+            },
+            {
+              "text": "The test is therefore whether there is any reasonable prospect that the claim will succeed, erring on the side of generosity in permitting novel claims to proceed.",
+              "source_reference": "05204.rtf#para-14-ernst"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(2)(b)"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This is a high-risk, high-reward 'kill shot' application for claims that are legally impossible or radically defective on their face. It avoids discovery and forces an early, decisive confrontation on the legal merits of the pleaded case.",
+          "litigation_implications": [
+            "Offensive (Defendant): Use to terminate legally flawed claims early, saving significant time and expense. Focus arguments on the absence of a recognized cause of action based on the pleaded facts.",
+            "Defensive (Plaintiff): Frame the claim, even if novel, as arguable and having some chance of success. Emphasize that the court must err on the side of letting the case proceed to trial."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "R. v. Imperial Tobacco Canada Ltd., 2011 SCC 42",
+              "proposition": "A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action. Another way of putting the test is that the claim has no reasonable prospect of success."
+            },
+            {
+              "case_name": "Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959",
+              "proposition": "The classic authority establishing the 'plain and obvious' test and the principle that the plaintiff should not be 'driven from the judgment seat' if there is a chance they might succeed."
+            },
+            {
+              "case_name": "Ernst v. EnCana Corp., 2014 ABCA 285",
+              "proposition": "Clarified that the modern formulation of the test is whether there is a 'reasonable prospect of the claim succeeding', evolving from the more emphatic 'plain and obvious' and 'certain to fail' language in Hunt."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-assume-facts-true",
+        "node_type": "FoundationalPillar",
+        "label": "Core Assumption: Pleaded Facts are True",
+        "description": "On a motion to strike for no reasonable cause of action, the court must assume that all facts alleged in the statement ofclaim are true and provable. This is the plaintiff's primary shield.",
+        "source_sentence_ids": [
+          "05204.rtf#para-27-tottrup"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In brief, the Court must assume that the allegations of fact made by the plaintiff are true. The Court then determines whether those facts disclose a cause of action in law.",
+              "source_reference": "05204.rtf#para-27-tottrup"
+            },
+            {
+              "text": "The facts as pled are assumed to be true, and no evidence is permitted on the motion.",
+              "source_reference": "05204.rtf#para-70-pwc"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(3)"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This pillar forces the debate onto a pure question of law based on the plaintiff's best-case factual scenario. It prevents the defendant from introducing contradictory evidence to challenge the claim's factual basis at this early stage.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): Repeatedly emphasize this assumption to the court to deflect any attempt by the defendant to argue the facts. The core argument is 'Even if everything we say is true, we still win.'",
+            "Offensive (Defendant): Acknowledge this principle but immediately pivot to legal arguments or exceptions (like 'bald allegations') that operate even when the facts are assumed true."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Tottrup v. Lund, 2000 ABCA 121",
+              "proposition": "The Court must assume that the allegations of fact made by the plaintiff are true and then determine whether those facts disclose a cause of action in law."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-3-no-evidence-rule",
+        "node_type": "ControlMechanism",
+        "label": "Weaponized Constraint: The 'No Evidence' Rule",
+        "description": "A strict prohibition on submitting any evidence on an application to strike a pleading for disclosing no reasonable claim under Rule 3.68(2)(b). The battle is confined to the four corners of the pleading.",
+        "source_sentence_ids": [
+          "05203.rtf#r3-68-3"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "No evidence may be submitted on an application made on the basis of the condition set out in subrule (2)(b).",
+              "source_reference": "05203.rtf#r3-68-3"
+            },
+            {
+              "text": "On the other hand, an application to strike out a pleading under R. 3.68(2)(b) for failure to disclose a cause of action is dealt with based on the pleadings. The facts as pled are assumed to be true, and no evidence is permitted on the motion.",
+              "source_reference": "05204.rtf#para-70-pwc"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(3)"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This rule operationalizes the 'assume facts true' pillar by preventing a defendant from turning a pleadings motion into a mini-trial. It forces the defendant to attack the legal sufficiency of the claim, not its factual veracity.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Immediately object to any attempt by the defendant to file an affidavit or refer to extrinsic facts on a R. 3.68(2)(b) motion. Argue that such materials are statutorily barred.",
+            "Defensive (Defendant): Adhere strictly to this rule. Frame the entire argument based on the text of the Statement of Claim. Any attempt to introduce evidence will likely fail and result in adverse costs."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., 2021 ABCA 16",
+              "proposition": "Emphatically confirms the 'no evidence' rule for R. 3.68(2)(b) applications, contrasting it with summary dismissal which depends on evidence. Warns against a 'blended' analysis."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-hoopp-realty-ambiguity",
+        "node_type": "ProceduralTrap",
+        "label": "Edge Case: The HOOPP Realty Evidence Ambiguity",
+        "description": "A controversial appellate decision created an ambiguity in the 'no evidence' rule, suggesting a court on a strike motion could consider 'factors other than evidence' outside the pleading, such as the results of companion litigation.",
+        "source_sentence_ids": [
+          "05204.rtf#para-19-hoopp"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "We conclude that the Rule 3.68(3) bar on considering evidence did not preclude the chambers judge from considering factors other than evidence, even when outside the contents of the Amended Statement of Claim.",
+              "source_reference": "05204.rtf#para-19-hoopp"
+            },
+            {
+              "text": "Thus a chambers judge hearing an application to strike a statement of claim must consider earlier reported decisions addressing aspects of the same claim, including the result of companion litigation which produces a complete defence to the action in question on the application to strike.",
+              "source_reference": "05204.rtf#para-20-hoopp"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This node captures a high-value tactical edge case. It represents a potential crack in the otherwise solid wall of the 'no evidence' rule, allowing a defendant to introduce a 'knockout fact' (like a binding court order) without filing a summary judgment application. It is a high-risk, high-reward gambit.",
+          "litigation_implications": [
+            "Offensive (Defendant): In a rare case where a prior court order or undisputed public record creates a complete defence, attempt to introduce it on a strike motion by citing the *HOOPP Realty* majority. Frame it as a 'factor other than evidence' or part of the 'litigation context'.",
+            "Defensive (Plaintiff): Vigorously oppose any reliance on *HOOPP Realty*. Argue it is a controversial, narrowly decided case, emphasize the powerful dissent by Wakeling J.A., and cite higher-court authorities like *PwC* that reaffirm the strictness of the 'no evidence' rule."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "HOOPP Realty Inc. v. Guarantee Co. of North America, 2015 ABCA 336",
+              "proposition": "The majority held that the R. 3.68(3) bar on evidence did not preclude a judge from considering 'factors other than evidence' outside the pleading, such as the result of companion litigation."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-68-2d-abuse-of-process",
+        "node_type": "WarfareFramework",
+        "label": "Strike Framework: Abuse of Process",
+        "description": "A flexible doctrine under Rule 3.68(2)(d) allowing the court to strike claims that misuse the judicial system, such as re-litigating settled issues, using proceedings for an improper purpose, or engaging in vexatious litigation.",
+        "source_sentence_ids": [
+          "05203.rtf#r3-68-2-d",
+          "05204.rtf#para-17-mclelland"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "a commencement document or pleading constitutes an abuse of process;",
+              "source_reference": "05203.rtf#r3-68-2-d"
+            },
+            {
+              "text": "An abuse of process is a compendious principle that the courts use to control misuses of the judicial system... It is necessarily a flexible doctrine that is not confined to the criteria that may be essential to the applications of specific examples of it, such as issue estoppel or collateral attack.",
+              "source_reference": "05204.rtf#para-17-mclelland"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(2)(d)"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This framework provides a powerful, discretionary tool to terminate litigation that, while perhaps technically viable, is fundamentally unfair or brings the administration of justice into disrepute. Unlike the (2)(b) test, it is not confined to the pleadings and allows the court to consider the entire litigation history.",
+          "litigation_implications": [
+            "Offensive (Defendant): Use when a plaintiff is re-litigating issues, suing for an improper purpose (e.g., harassment), or engaging in a pattern of vexatious conduct. Evidence of the entire history of the matter is admissible.",
+            "Defensive (Plaintiff): Argue that the action serves a legitimate purpose and does not fall into any of the recognized categories of abuse. Frame the defendant's application as an attempt to stifle a legitimate claim."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Reece v. Edmonton (City), 2011 ABCA 238",
+              "proposition": "Abuse of process is a compendious principle to control misuse of the judicial system; the 'plain and obvious' test may not apply, and the issue is whether the record is sufficient to fairly decide if an abuse is involved."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-vexatious-litigation-indicia",
+        "node_type": "ControlMechanism",
+        "label": "Checklist: Indicia of Vexatious Litigation",
+        "description": "A comprehensive, non-exhaustive list of stereotypical features of vexatious litigation that can trigger a strike-out for abuse of process, including collateral attacks, hopeless proceedings, escalating claims, and improper purposes.",
+        "source_sentence_ids": [
+          "05204.rtf#para-92-chutskoff"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This is a useful occasion then to collect and update the catalogue of established stereotypic features of vexatious litigation: 1. collateral attack... 2. hopeless proceedings... 3. escalating proceedings... 4. bringing proceedings for improper purposes... 5. initiating 'busybody' lawsuits... 6. failure to honour court-ordered obligations... 7. persistently taking unsuccessful appeals... 8. persistently engaging in inappropriate courtroom behaviour... 9. unsubstantiated allegations of conspiracy, fraud, and misconduct... 10. scandalous or inflammatory language... 11. advancing Organized Pseudolegal Commercial Argument [“OPCA”] strategies.",
+              "source_reference": "05204.rtf#para-92-chutskoff"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This checklist weaponizes the abstract concept of 'abuse of process' by providing concrete, judicially recognized factors. It serves as a tactical blueprint for building an application to strike a vexatious claim, allowing a party to frame the opponent's conduct within established categories of abuse.",
+          "litigation_implications": [
+            "Offensive (Defendant): Systematically review the plaintiff's conduct against this checklist. Build the strike application by demonstrating how the plaintiff's actions match multiple indicia (e.g., rolling forward issues, adding lawyers as defendants, failing to pay costs).",
+            "Defensive (Plaintiff): Proactively avoid any conduct that matches these indicia. If facing such an application, demonstrate that the litigation has a legitimate purpose and does not fit the stereotypical patterns of vexatious conduct."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Chutskoff v. Bonora, 2014 ABQB 389",
+              "proposition": "Provides a comprehensive, updated catalogue of the established stereotypic features of vexatious litigation, any of which can be a basis to classify an action as vexatious."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r3-68-culture-shift-proportionality",
+        "node_type": "WarfareFramework",
+        "label": "Overarching Doctrine: The 'Culture Shift'",
+        "description": "An influential Supreme Court of Canada doctrine promoting a 'culture shift' towards more proportionate, timely, and affordable justice. This principle encourages courts to use summary procedures like Rule 3.68 to weed out unmeritorious claims early.",
+        "source_sentence_ids": [
+          "05204.rtf#para-14-nep-canada"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This trend towards simplifying proceedings as soon as it is reasonable and fair has now been re-enforced in Hryniak v. Mauldin, 2014 SCC 7, a summary judgment case calling for “a culture shift … in order to create an environment promoting timely and affordable access to the civil justice system. … moving the emphasis away from the conventional trial in favour of proportional procedures tailored to the needs of the particular case.” Striking pleadings that have no reasonable prospect of success is consistent with this new culture.",
+              "source_reference": "05204.rtf#para-14-nep-canada"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This doctrine provides high-level judicial cover for a more aggressive use of summary disposition tools. It allows a party seeking to strike a claim to frame their application not just as a procedural motion, but as an action that serves the greater good of judicial efficiency and access to justice.",
+          "litigation_implications": [
+            "Offensive (Applicant): Bolster a strike application by citing the 'culture shift' from *Hryniak*. Argue that striking the hopeless claim is not only correct on the law but also serves the systemic goals of proportionality and efficiency.",
+            "Defensive (Respondent): Argue that the 'culture shift' does not override fundamental principles of justice, such as the right to have an arguable case heard at trial. Caution the court that a premature strike would be disproportionate and unfair."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Hryniak v. Mauldin, 2014 SCC 7",
+              "proposition": "Called for a 'culture shift' to promote timely and affordable access to justice by favouring proportional procedures over conventional trials."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-amendment-over-strike",
+        "node_type": "ProceduralTrap",
+        "label": "Counter: Amendment as the Preferred Remedy",
+        "description": "A procedural trap for applicants seeking to strike a claim. Courts prefer to allow a party to amend a poorly drafted or particular-deficient pleading rather than striking it out, especially if the defect is curable.",
+        "source_sentence_ids": [
+          "05204.rtf#para-74-pwc",
+          "05204.rtf#para-75-pwc"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Further, a poorly drafted pleading should be amended, not struck out.",
+              "source_reference": "05204.rtf#para-74-pwc"
+            },
+            {
+              "text": "If a pleading is deficient because it lacks particulars, the remedy is to order production of particulars, not to strike the claim.",
+              "source_reference": "05204.rtf#para-75-pwc"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This principle acts as a judicial safety valve, preventing the strike-out power from being used to punish poor drafting rather than a lack of a substantive claim. For a defendant, it means a successful strike application might only result in a temporary victory, with the plaintiff being given a chance to fix the pleading.",
+          "litigation_implications": [
+            "Offensive (Defendant): To overcome this preference, argue that the defect in the pleading is 'radical' and cannot be cured by amendment. Frame the issue as a fundamental lack of a cause of action, not just a lack of particulars.",
+            "Defensive (Plaintiff): If facing a strike motion for a deficient pleading, proactively propose amendments or offer to provide particulars. Argue that the court's preferred remedy is to allow an amendment to ensure the case is decided on its merits."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., 2021 ABCA 16",
+              "proposition": "If a pleading is deficient because it lacks particulars, the remedy is to order particulars, not to strike the claim. A poorly drafted pleading should be amended, not struck out."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r3-68-novel-claims-protection",
+        "node_type": "FoundationalPillar",
+        "label": "Protection for Novel Claims",
+        "description": "A core principle that a claim should not be struck merely because it is novel or not yet recognized by law. This allows for the evolution of the common law.",
+        "source_sentence_ids": [
+          "05204.rtf#para-21-knight"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The law is not static and unchanging. Actions that yesterday were deemed hopeless may tomorrow succeed... Therefore, on a motion to strike, it is not determinative that the law has not yet recognized the particular claim. The court must rather ask whether, assuming the facts pleaded are true, there is a reasonable prospect that the claim will succeed. The approach must be generous and err on the side of permitting a novel but arguable claim to proceed to trial.",
+              "source_reference": "05204.rtf#para-21-knight"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This pillar serves as a shield for plaintiffs advancing new or developing areas of law. It forces defendants and courts to engage with the possibility of legal evolution, preventing the premature dismissal of claims that could become tomorrow's precedent.",
+          "litigation_implications": [
+            "Defensive (Plaintiff): When advancing a novel claim, explicitly invoke this principle. Frame the case as an opportunity for the law to evolve and argue that a full trial record is necessary for the court to make a reasoned decision on a new point of law.",
+            "Offensive (Defendant): Acknowledge this principle but argue that the plaintiff's claim is not merely novel but 'radically defective' or 'doomed to fail'. Distinguish between a plausible evolution of the law and a far-fetched proposition with no reasonable prospect of success."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Knight v. Imperial Tobacco Canada Ltd., 2011 SCC 42",
+              "proposition": "On a motion to strike, it is not determinative that the law has not yet recognized the particular claim; the approach must be generous and err on the side of permitting a novel but arguable claim to proceed to trial."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-1-remedy-suite",
+        "node_type": "ControlMechanism",
+        "label": "Rule 3.68(1) Discretionary Remedy Suite",
+        "description": "Rule 3.68(1) provides the Court with a menu of discretionary remedies if a condition in subrule (2) is met, including striking the claim, amending the pleading, entering judgment, or staying the action.",
+        "source_sentence_ids": [
+          "05203.rtf#r3-68-1"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "(1) If the circumstances warrant and a condition under subrule (2) applies, the Court may order one or more of the following: (a) that all or any part of a claim or defence be struck out; (b) that a commencement document or pleading be amended or set aside; (c) that judgment or an order be entered; (d) that an action, an application or a proceeding be stayed.",
+              "source_reference": "05203.rtf#r3-68-1"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(1)"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This mechanism grants the court flexibility, which is a double-edged sword for litigants. An applicant might prove a deficiency but receive a lesser remedy (e.g., an order to amend) instead of the desired outcome (striking the claim). It allows for tailored, proportionate responses.",
+          "litigation_implications": [
+            "Offensive (Applicant): When seeking a strike-out, argue why lesser remedies like amendment are insufficient to cure the pleading's 'radical defect'.",
+            "Defensive (Respondent): If the pleading is deficient, argue for a lesser remedy. Propose that an amendment or provision of particulars would be the most proportionate and just outcome, saving the claim from being struck."
+          ],
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "wf-r3-68-4-affidavit-strike-framework",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Attacking Affidavit Evidence",
+        "description": "The framework under Rule 3.68(4) for striking impermissible evidence from affidavits, including frivolous, irrelevant, or improper information such as improper hearsay, argument, and inadmissible opinion.",
+        "source_sentence_ids": [
+          "05203.rtf#r3-68-4-a",
+          "05204.rtf#para-1-anc-timber"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Court may (a) strike out all or part of an affidavit that contains frivolous, irrelevant or improper information;",
+              "source_reference": "05203.rtf#r3-68-4-a"
+            },
+            {
+              "text": "All too often, affidavits tendered in support of motions for interim relief are littered with impermissible evidence.",
+              "source_reference": "05204.rtf#para-1-anc-timber"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 3.68(4)(a)"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This framework provides the tactical tools to cleanse the evidentiary record before a substantive hearing. By striking prejudicial, argumentative, or inadmissible portions of an opponent's affidavit, a party can shape the evidence the judge will consider, potentially crippling the opponent's argument.",
+          "litigation_implications": [
+            "Offensive: Before a major application (e.g., summary judgment), bring a motion to strike improper parts of the opponent's key affidavits to weaken their position and focus the judge on admissible evidence.",
+            "Defensive: Draft affidavits carefully to contain only facts within the deponent's knowledge, properly sourced hearsay (where permitted), and avoid legal argument or conclusions. This makes the affidavit 'strike-proof'."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "ANC Timber Ltd. Alberta (Minister of Agriculture and Forestry), 2019 ABQB 653",
+              "proposition": "Provides a comprehensive review of the law for striking affidavit evidence, covering hearsay, expert opinion, relevance, and argumentative content. Emphasizes the court's gatekeeper role."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r13-18-hearsay-compliance-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Improper Hearsay in Affidavits",
+        "description": "A trap for parties relying on hearsay in affidavits for interim motions. Rule 13.18(2) mandates that the deponent must state the source of the information and their belief in its truth. Failure to comply makes the evidence inadmissible and liable to be struck.",
+        "source_sentence_ids": [
+          "05204.rtf#para-54-anc-timber"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The Minister argues that paragraphs 39 and 56 of the April Affidavit and the corresponding exhibits should be struck for failure to comply with Rule 13.18(2) (requiring the affiant to depose to the source of any hearsay information and make a statement of belief in its truth).",
+              "source_reference": "05204.rtf#para-54-anc-timber"
+            },
+            {
+              "text": "Indeed, simply admitting such evidence without scrutiny on the basis of facial compliance with the Rule impairs the fundamental notion of a fair fact-finding process.",
+              "source_reference": "05204.rtf#para-58-anc-timber"
+            }
+          ],
+          "source_references": [
+            "Alberta Rules of Court, r. 13.18(2)"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This rule is a weapon to attack the reliability of an opponent's evidence. By enforcing strict compliance, a party can exclude damaging information that the opponent has not properly sourced, forcing them to rely only on first-hand knowledge.",
+          "litigation_implications": [
+            "Offensive: Scrutinize every statement in an opponent's affidavit. If it appears to be hearsay, check for compliance with Rule 13.18(2). If non-compliant, move to strike.",
+            "Defensive: When drafting an affidavit with hearsay for an interim motion, ensure every piece of hearsay information is followed by 'I am advised by [source] and do verily believe it to be true'."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "ANC Timber Ltd. Alberta (Minister of Agriculture and Forestry), 2019 ABQB 653",
+              "proposition": "Compliance with Rule 13.18(2) is mandatory for hearsay evidence on an interim motion, but even facial compliance does not require the court to accept the evidence if it is otherwise unreliable."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-4-argument-as-evidence-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Argument and Conclusions in Affidavits",
+        "description": "A common trap where affidavits contain improper argument, opinions, or legal conclusions instead of being confined to facts. Such material has little probative value and can be struck.",
+        "source_sentence_ids": [
+          "05204.rtf#para-7-gauchier"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "We would suggest to the deponent and to counsel that affidavits ought to be confined to evidence. Any conclusion based on that evidence is the function of the court.",
+              "source_reference": "05204.rtf#para-7-gauchier"
+            },
+            {
+              "text": "The purpose of affidavit evidence is to place the necessary facts before the court and should not contain argument, opinions or conclusions...",
+              "source_reference": "05204.rtf#para-8-gauchier"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This allows a party to police the boundary between evidence and argument. By striking argumentative sections, a party can prevent their opponent from using an affidavit as a Trojan horse for a written argument, forcing them to confine their submissions to their legal brief.",
+          "litigation_implications": [
+            "Offensive: Attack affidavits that contain phrases like 'it is clear that...', 'for the reasons stated...', or that interpret documents or state legal conclusions. Argue these are improper argument and should be struck.",
+            "Defensive: Draft affidavits to be a neutral recitation of facts. Let the facts speak for themselves and save the persuasive language and conclusions for the written brief."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Alberta Human Rights Commission v. Alberta Blue Cross Plan (1983) 48 A.R. 192",
+              "proposition": "Affidavits ought to be confined to evidence; any conclusion based on that evidence is the function of the court."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r5-expert-evidence-admissibility-test",
+        "node_type": "WarfareFramework",
+        "label": "Framework: Admissibility of Expert Evidence (Motions)",
+        "description": "A two-stage framework for admitting expert evidence in an affidavit. Stage 1 requires meeting the four Mohan factors (relevance, necessity, no exclusionary rule, qualified expert). Stage 2 is a discretionary gatekeeping analysis weighing the evidence's probative value against its potential prejudice.",
+        "source_sentence_ids": [
+          "05204.rtf#para-129-anc-timber"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The expert evidence analysis is divided into two stages. First, it must first meet the four Mohan factors: (1) relevance; (2) necessity; (3) absence of an exclusionary rule; and (4) special expertise. If it does, the Court then weighs the potential risks and benefits of admitting the evidence against the benefits.",
+              "source_reference": "05204.rtf#para-129-anc-timber"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This framework provides a structured method to attack an opponent's expert evidence. By challenging the evidence on one of the Mohan factors (e.g., the expert is not qualified, or the opinion is not necessary) or by arguing its prejudicial effect outweighs its value, a party can exclude critical evidence from the record.",
+          "litigation_implications": [
+            "Offensive: Challenge an opponent's expert affidavit by arguing it fails one of the Mohan criteria or that the expert lacks the required objectivity and impartiality to pass the threshold reliability test from *White Burgess*.",
+            "Defensive: When tendering expert evidence by affidavit, ensure the affidavit establishes the expert's qualifications, the necessity of their opinion, and their independence. The expert report should conform to Form 25."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "White Burgess Langille Inman v Abbott and Haliburton Co, 2015 SCC 23",
+              "proposition": "Clarified the two-stage framework for expert evidence admissibility, including the expert's duty to be fair, objective, and non-partisan as a threshold requirement."
+            },
+            {
+              "case_name": "R v Mohan, [1994] 2 SCR 9",
+              "proposition": "Established the four threshold requirements for the admissibility of expert opinion evidence: relevance, necessity, absence of an exclusionary rule, and a properly qualified expert."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-limitation-defence-trap",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Limitation Defence on a Strike Motion",
+        "description": "It is generally improper to strike a claim based on a limitation defence under Rule 3.68(2)(b). A limitation defence must be pleaded and proved with evidence, making it unsuitable for a no-evidence pleadings motion.",
+        "source_sentence_ids": [
+          "05204.rtf#para-21-limitation"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The allegation by a defendant of a limitation defence most likely will not permit the court to strike or dismiss an action under R. 3.68.",
+              "source_reference": "05204.rtf#para-21-limitation"
+            },
+            {
+              "text": "The facts giving rise to this defence must be proved in evidence. The passage of the time limited by the Act does not of itself remove the cause of action. Accordingly, the existence of a defence under the Limitation of Actions Act is not a proper basis on which to strike out a statement of claim...",
+              "source_reference": "05204.rtf#para-21-western-industrial"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This is a procedural trap for defendants who choose the wrong tool. A limitations defence is fact-dependent (e.g., when was the claim discovered?) and requires evidence, making a Rule 3.68(2)(b) application the incorrect procedure. The proper vehicle is a summary judgment application.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): If a defendant brings a strike motion based on a limitation period, argue the application is improper as it requires evidence and must be brought via summary judgment. Seek costs for the improper motion.",
+            "Defensive (Defendant): Do not use a Rule 3.68(2)(b) motion to raise a limitations defence. Plead the defence in the Statement of Defence and bring a summary judgment application with supporting affidavit evidence."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Boudreault v. Barrett (1995), 33 Alta. L.R. (3d) 60 (C.A.)",
+              "proposition": "Affirms that a limitations defence requires evidence and is not a proper basis on which to strike out a statement of claim under the predecessor to Rule 3.68."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-speculative-facts-exception",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Speculative or Unprovable Facts",
+        "description": "An exception to the 'assume facts true' principle where the pleaded facts are manifestly incapable of being proven, based on speculation, or are patently ridiculous. Such 'facts' are not taken as true.",
+        "source_sentence_ids": [
+          "05204.rtf#para-12-gay"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There are limits to the principle that on a motion to strike the pleaded facts are taken as being true. Facts that are manifestly incapable of being proven or that amount to mere speculation are not taken as being true.",
+              "source_reference": "05204.rtf#para-12-gay"
+            },
+            {
+              "text": "When applying the test under r 3.68(2)(b), the Court must accept the allegations of fact as true except to the extent the allegations are based on assumptions or speculations or where they are patently ridiculous or incapable of proof.",
+              "source_reference": "05204.rtf#para-6-grenon"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This trap allows a defendant to attack the factual basis of a claim on a pleadings motion without using evidence, by arguing the 'facts' themselves are so speculative or absurd they don't qualify for the presumption of truth. It's a narrow but powerful exception.",
+          "litigation_implications": [
+            "Offensive (Defendant): Identify core allegations in the claim that rely on pure speculation or are logically impossible to prove (e.g., predicting future government actions) and argue they should be disregarded by the court.",
+            "Defensive (Plaintiff): Ensure all pleaded facts, even if not yet proven, are grounded in reality and are theoretically provable. Avoid pleading assumptions as facts."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Operation Dismantle Inc. v. The Queen, [1985] 1 S.C.R. 441",
+              "proposition": "Established that allegations incapable of proof, such as those based on assumptions or speculations about future events, need not be accepted as true on a motion to strike."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-4-strike-discretion",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case: Discretion to Ignore vs. Strike",
+        "description": "A key strategic consideration where a court, faced with improper affidavit material, may exercise its discretion to simply ignore the offending evidence rather than formally striking it, especially to avoid unnecessary, costly interlocutory applications.",
+        "source_sentence_ids": [
+          "05204.rtf#para-16-veselic"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "I begin the analysis of the issue by stating that while irrelevant and argumentative content in an affidavit is obviously to be deprecated, since it will be disregarded by the court in any event, it is unnecessary to bring an application to strike out such material: Chevron Canada Resources. Indeed, given the high cost of litigation, unnecessary proceedings should be actively discouraged.",
+              "source_reference": "05204.rtf#para-16-veselic"
+            },
+            {
+              "text": "However, where evidence is clearly irrelevant or inadmissible, striking it in advance is appropriate to safeguard adherence to fundamental evidentiary requirements.",
+              "source_reference": "05204.rtf#para-8-carbone"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This represents a cost-benefit decision point. Bringing a motion to strike costs time and money. A party must assess whether the improper evidence is so prejudicial that it must be formally struck, or if it's minor enough that the judge will likely just ignore it, making a formal application a waste of resources.",
+          "litigation_implications": [
+            "Offensive: Reserve formal strike motions for evidence that is highly prejudicial and clearly inadmissible. For minor infractions, consider simply pointing them out in the main application's brief and asking the judge to disregard them.",
+            "Defensive: If an opponent brings a strike motion over trivial issues, argue that the application is unnecessary and disproportionate, and seek costs for the wasted time."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Veselic-Titheridge v. Titheridge, 2007 ABQB 456",
+              "proposition": "Since irrelevant and argumentative content will be disregarded by the court anyway, it is often unnecessary to bring a formal application to strike such material, and such unnecessary proceedings should be discouraged."
+            },
+            {
+              "case_name": "Carbone v. Dr Jeffrey C Dawes, 2024 ABCA 404",
+              "proposition": "Provides the counter-argument: where evidence is *clearly* irrelevant or inadmissible, striking it in advance is appropriate to protect the integrity of the evidentiary record."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r3-68-affidavit-withdrawal-factors",
+        "node_type": "ControlMechanism",
+        "label": "Edge Case: Withdrawing a Filed Affidavit",
+        "description": "A discretionary mechanism allowing a party to apply to withdraw a filed affidavit. The court considers a list of factors, such as whether it was filed by mistake, has been used in court, the motive for withdrawal (tactical vs. genuine), and prejudice to the other party.",
+        "source_sentence_ids": [
+          "05204.rtf#para-5-ariss"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "In summary, it appears that there is discretion in the court to order that affidavits filed in the court file may, upon application, be withdrawn. Among the factors to be considered by the court upon such an application are the following: 1. Was the affidavit filed by mistake? 2. Has the affidavit been used...? 3. Is there a pending application...? 4. Is the application to withdraw... made as a strategic or tactical decision...? 5. Would the other party be prejudiced...? 6. Are there policy considerations...? 7. Would the administration of justice be adversely affected...?",
+              "source_reference": "05204.rtf#para-5-ariss"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This is a tactical tool for damage control. If a party files an affidavit that is inflammatory, contains errors, or creates an unintended strategic vulnerability (e.g., exposing a witness to damaging cross-examination), this mechanism provides a potential path to remove it from the public record and prevent its use.",
+          "litigation_implications": [
+            "Offensive (Applicant): If an affidavit is problematic, apply to withdraw it, framing the application around the *Ariss* factors (e.g., it was filed in error, the application it supported was abandoned, there is no prejudice).",
+            "Defensive (Opponent): Oppose the withdrawal by arguing it is a tactical move to avoid cross-examination or hide relevant information, and that your party would be prejudiced by its removal."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Ariss v. Ariss, 2011 ABQB 435",
+              "proposition": "Enumerated a non-exhaustive list of factors, derived from *Gill v. Gill*, that a court should consider when exercising its discretion to allow the withdrawal of a filed affidavit."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "fp-open-court-principle-counter",
+        "node_type": "FoundationalPillar",
+        "label": "Counter: Open Court Principle vs. 'Unfiling'",
+        "description": "A powerful counter-argument to an application to withdraw or 'unfile' court documents. The proper procedure to keep records secret is not to strike them from the record, but to apply for a restricted court access order, which requires a proper balancing of privacy interests against the fundamental open court principle.",
+        "source_sentence_ids": [
+          "05204.rtf#para-61-bennett"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Leaving aside the Arris factors, I find that the proper procedure to keep court records secret is not an application for permission to “unfile” documents, or to enjoin them from being filed... where the reason for seeking secrecy is protection of the privacy interests of a litigant, the appropriate procedure is to apply for a restricted court access order. This allows a proper balancing of the public's interest in maintaining open court processes and practices, and of the litigants' interests.",
+              "source_reference": "05204.rtf#para-61-bennett"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This pillar provides a robust defense against an opponent's attempt to bury embarrassing or damaging material that has already been filed. It reframes the debate from the discretionary *Ariss* factors to the high-threshold constitutional principle of open justice, making it much harder for the opponent to succeed.",
+          "litigation_implications": [
+            "Defensive (Opposing Withdrawal): Argue that the opponent is attempting to circumvent the high bar for a sealing order by using a tactical 'unfiling' motion. Insist that the open court principle must prevail unless the stringent test for a restricted court access order is met.",
+            "Offensive (Seeking Withdrawal): Be prepared to argue why the *Ariss* factors should apply and why a full restricted court access application is not the appropriate procedure (e.g., the document was filed by mistake and is truly irrelevant, not just private)."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Bennett v. NE2 Canada Inc., 2024 ABKB 695",
+              "proposition": "The proper procedure to keep court records secret for privacy reasons is a restricted court access order, not an application to 'unfile' documents, which engages the open court principle."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r3-68-multiple-strike-applications",
+        "node_type": "ProceduralTrap",
+        "label": "Edge Case: Multiple Attacks on Pleadings",
+        "description": "While multiple, piecemeal attacks on a pleading are discouraged and may attract adverse costs, there is no absolute rule against them. A second strike application may be permitted if it is meritorious and brought on different grounds than the first.",
+        "source_sentence_ids": [
+          "05204.rtf#para-22-ernst"
+        ],
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "There is no absolute rule governing the order in which a party may attack the opposing party's pleadings. That said, it is usually most convenient to bring all attacks at the same time, and failure to do so may be the subject of a costs award.",
+              "source_reference": "05204.rtf#para-22-ernst"
+            },
+            {
+              "text": "A meritorious application to strike a pleading should not be rejected simply because another application for similar relief has already been brought.",
+              "source_reference": "05204.rtf#para-23-ernst"
+            }
+          ],
+          "source_references": [
+            "Commentary on Rule 3.68"
+          ],
+          "verified_at": "2025-11-03T23:30:00Z",
+          "strategic_rationale": "This captures a procedural nuance. While the default is 'one bite at the apple' for striking pleadings, this rule provides an exception. It can be used to justify a second strike motion (e.g., a (2)(b) motion after a (2)(d) motion fails) but carries the risk of judicial disapproval and costs.",
+          "litigation_implications": [
+            "Offensive: If a new, strong ground for striking emerges after an initial failed attempt, a second application can be brought, but counsel must be prepared to justify why it wasn't brought with the first.",
+            "Defensive: If facing a second strike motion, argue it is an abuse of process and a waste of resources. Seek enhanced costs for having to respond to piecemeal attacks."
+          ],
+          "case_law_anchors": [
+            {
+              "case_name": "Ernst v. EnCana Corp., 2014 ABQB 672",
+              "proposition": "Multiple attacks on the same pleading should be discouraged, but a second application is not an abuse of process if it is meritorious and brought on different grounds (e.g., different subsections of Rule 3.68(2))."
+            }
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-no-evidence-reinforces-assume-true",
+        "source_node_id": "cm-r3-68-3-no-evidence-rule",
+        "target_node_id": "fp-r3-68-assume-facts-true",
+        "relationship_type": "REINFORCES",
+        "description": "The 'No Evidence' rule is the primary mechanism that enforces and gives practical effect to the 'Assume Facts True' pillar by preventing factual challenges at the pleadings stage.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "On the other hand, an application to strike out a pleading under R. 3.68(2)(b) for failure to disclose a cause of action is dealt with based on the pleadings. The facts as pled are assumed to be true, and no evidence is permitted on the motion.",
+              "source_reference": "05204.rtf#para-70-pwc"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-002-bald-allegations-counters-assume-true",
+        "source_node_id": "pt-r3-68-bald-allegations-exception",
+        "target_node_id": "fp-r3-68-assume-facts-true",
+        "relationship_type": "COUNTERS",
+        "description": "The 'Bald Allegations' exception is a direct countermeasure to the 'Assume Facts True' pillar, creating a higher pleading standard for allegations of serious misconduct.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Another qualification is that bald assertions of misconduct (such as malice, fraud, deceit, “absence of honest belief”, misfeasance in public office, etc.) will not be accepted as being true without reasonable particulars of the allegations.",
+              "source_reference": "05204.rtf#para-12-gay"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-003-speculative-facts-counters-assume-true",
+        "source_node_id": "pt-r3-68-speculative-facts-exception",
+        "target_node_id": "fp-r3-68-assume-facts-true",
+        "relationship_type": "COUNTERS",
+        "description": "The exception for speculative or unprovable facts provides another counter to the 'Assume Facts True' pillar, allowing a court to disregard allegations that are manifestly incapable of proof.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Facts that are manifestly incapable of being proven or that amount to mere speculation are not taken as being true.",
+              "source_reference": "05204.rtf#para-12-gay"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-004-hoopp-ambiguity-counters-no-evidence",
+        "source_node_id": "pt-r3-68-hoopp-realty-ambiguity",
+        "target_node_id": "cm-r3-68-3-no-evidence-rule",
+        "relationship_type": "COUNTERS",
+        "description": "The HOOPP Realty ambiguity provides a high-risk tactical counter to the strict 'No Evidence' rule, suggesting some external materials ('factors other than evidence') may be considered.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "We conclude that the Rule 3.68(3) bar on considering evidence did not preclude the chambers judge from considering factors other than evidence, even when outside the contents of the Amended Statement of Claim.",
+              "source_reference": "05204.rtf#para-19-hoopp"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-005-assume-true-is-component-of-strike-test",
+        "source_node_id": "fp-r3-68-assume-facts-true",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The assumption that facts are true is a foundational component of the 'No Reasonable Claim' strike test.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action.",
+              "source_reference": "05204.rtf#para-17-knight"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-006-amendment-counters-strike-test",
+        "source_node_id": "pt-r3-68-amendment-over-strike",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "COUNTERS",
+        "description": "The judicial preference for ordering an amendment for a deficient pleading acts as a countermeasure to a successful strike application, often resulting in a less severe remedy.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "If a pleading is deficient because it lacks particulars, the remedy is to order production of particulars, not to strike the claim.",
+              "source_reference": "05204.rtf#para-75-pwc"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-007-novel-claims-modifies-strike-test",
+        "source_node_id": "fp-r3-68-novel-claims-protection",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "MODIFIES",
+        "description": "The protection for novel claims modifies the application of the strike test, requiring courts to be more generous and cautious before striking a claim that could represent an evolution of the common law.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The approach must be generous and err on the side of permitting a novel but arguable claim to proceed to trial.",
+              "source_reference": "05204.rtf#para-21-knight"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-008-culture-shift-modifies-strike-frameworks",
+        "source_node_id": "wf-r3-68-culture-shift-proportionality",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "MODIFIES",
+        "description": "The 'Culture Shift' towards proportionality encourages a more robust application of the strike test to weed out unmeritorious claims early, consistent with goals of efficiency and affordability.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Striking pleadings that have no reasonable prospect of success is consistent with this new culture.",
+              "source_reference": "05204.rtf#para-14-nep-canada"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-009-vexatious-indicia-operationalizes-abuse-of-process",
+        "source_node_id": "cm-r3-68-vexatious-litigation-indicia",
+        "target_node_id": "wf-r3-68-2d-abuse-of-process",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The checklist of vexatious litigation indicia provides the concrete factors used to operationalize a strike application under the flexible 'Abuse of Process' framework.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Any of these indicia are a basis to classify a legal action as vexatious.",
+              "source_reference": "05204.rtf#para-93-chutskoff"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-010-remedy-suite-is-outcome-of-strike-test",
+        "source_node_id": "cm-r3-68-1-remedy-suite",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "IS_OUTCOME_OF",
+        "description": "The discretionary remedies in Rule 3.68(1) are the potential outcomes of a successful application under the 'No Reasonable Claim' test.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "(1) If the circumstances warrant and a condition under subrule (2) applies, the Court may order one or more of the following...",
+              "source_reference": "05203.rtf#r3-68-1"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-011-limitation-trap-counters-strike-test",
+        "source_node_id": "pt-r3-68-limitation-defence-trap",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "COUNTERS",
+        "description": "Attempting to use the 'No Reasonable Claim' strike test for a limitations defence is an improper procedure and will be countered by the principle that such a defence requires evidence.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Accordingly, the existence of a defence under the Limitation of Actions Act is not a proper basis on which to strike out a statement of claim...",
+              "source_reference": "05204.rtf#para-21-western-industrial"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-012-strike-affidavit-is-distinct-from-strike-pleading",
+        "source_node_id": "wf-r3-68-4-affidavit-strike-framework",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "IS_DISTINCT_FROM",
+        "description": "Striking improper affidavit content under R. 3.68(4) is a distinct procedural weapon from striking a pleading under R. 3.68(2)(b), as the former deals with evidence and the latter prohibits it.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "No evidence may be submitted on an application made on the basis of the condition set out in subrule (2)(b).",
+              "source_reference": "05203.rtf#r3-68-3"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-013-strike-test-is-distinct-from-abuse-of-process",
+        "source_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "target_node_id": "wf-r3-68-2d-abuse-of-process",
+        "relationship_type": "IS_DISTINCT_FROM",
+        "description": "The 'No Reasonable Claim' test is distinct from the 'Abuse of Process' framework; the former is a no-evidence motion focused on the pleading's legal sufficiency, while the latter is a flexible doctrine that can consider the entire litigation history.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This was not an application to strike out the pleadings for failure to disclose a cause of action. ... It is questionable whether an application to strike a pleading because it is an abuse of process has to meet that test or standard.",
+              "source_reference": "05204.rtf#para-14-reece"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-014-culture-shift-modifies-abuse-of-process",
+        "source_node_id": "wf-r3-68-culture-shift-proportionality",
+        "target_node_id": "wf-r3-68-2d-abuse-of-process",
+        "relationship_type": "MODIFIES",
+        "description": "The 'Culture Shift' supports the use of the abuse of process doctrine to terminate vexatious or duplicative litigation early, aligning with the goals of judicial economy and integrity.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "This multiplicity of interlocutory proceedings is not the culture shift contemplated by the Supreme Court of Canada in Hryniak v Mauldin, 2014 SCC 7.",
+              "source_reference": "05204.rtf#para-35-rudichuk"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-015-amendment-is-remedy-in-suite",
+        "source_node_id": "pt-r3-68-amendment-over-strike",
+        "target_node_id": "cm-r3-68-1-remedy-suite",
+        "relationship_type": "IS_A_COMPONENT_OF",
+        "description": "The option to order an amendment is a key component of the discretionary remedy suite available to the court under Rule 3.68(1).",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "(1) ...the Court may order one or more of the following: ... (b) that a commencement document or pleading be amended or set aside;",
+              "source_reference": "05203.rtf#r3-68-1-b"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-016-hearsay-trap-operationalizes-affidavit-strike",
+        "source_node_id": "pt-r13-18-hearsay-compliance-trap",
+        "target_node_id": "wf-r3-68-4-affidavit-strike-framework",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The strict compliance requirements for hearsay are a primary tool for operationalizing an attack on an opponent's affidavit evidence.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Rule 3.68(4)(a) allows litigants to seek to have offending evidence struck from affidavits.",
+              "source_reference": "05204.rtf#para-23-anc-timber"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-017-argument-trap-operationalizes-affidavit-strike",
+        "source_node_id": "pt-r3-68-4-argument-as-evidence-trap",
+        "target_node_id": "wf-r3-68-4-affidavit-strike-framework",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "Identifying and attacking improper argument or conclusions is a key method for executing a strike of affidavit evidence.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "Affidavits must not contain argument or conclusions: ATB v Leahy at paras 84-85.",
+              "source_reference": "05204.rtf#para-32-anc-timber"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-018-expert-test-operationalizes-affidavit-strike",
+        "source_node_id": "wf-r5-expert-evidence-admissibility-test",
+        "target_node_id": "wf-r3-68-4-affidavit-strike-framework",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The two-stage expert admissibility test provides the formal framework for striking expert opinion evidence from an affidavit.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "The expert evidence analysis is divided into two stages.",
+              "source_reference": "05204.rtf#para-129-anc-timber"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-019-strike-discretion-modifies-affidavit-strike",
+        "source_node_id": "cm-r3-68-4-strike-discretion",
+        "target_node_id": "wf-r3-68-4-affidavit-strike-framework",
+        "relationship_type": "MODIFIES",
+        "description": "The court's discretion to simply ignore improper evidence, rather than formally striking it, modifies the practical application of the affidavit strike framework, introducing a cost-benefit analysis for the moving party.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...it is unnecessary to bring an application to strike out such material... unnecessary proceedings should be actively discouraged.",
+              "source_reference": "05204.rtf#para-16-veselic"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-020-open-court-counters-withdrawal",
+        "source_node_id": "fp-open-court-principle-counter",
+        "target_node_id": "cm-r3-68-affidavit-withdrawal-factors",
+        "relationship_type": "COUNTERS",
+        "description": "The open court principle serves as a powerful counter-argument to an application to withdraw a filed affidavit, reframing the issue as one requiring a high-threshold restricted court access order.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "...the proper procedure to keep court records secret is not an application for permission to “unfile” documents... the appropriate procedure is to apply for a restricted court access order.",
+              "source_reference": "05204.rtf#para-61-bennett"
+            }
+          ]
+        }
+      },
+      {
+        "relationship_id": "rel-021-multiple-strikes-modifies-strike-test",
+        "source_node_id": "pt-r3-68-multiple-strike-applications",
+        "target_node_id": "wf-r3-68-2b-strike-test-no-reasonable-claim",
+        "relationship_type": "MODIFIES",
+        "description": "The possibility of bringing multiple strike applications, though discouraged, modifies the finality of a single strike application, creating an edge case for procedural warfare.",
+        "enrichment": {
+          "source_text_excerpts": [
+            {
+              "text": "A meritorious application to strike a pleading should not be rejected simply because another application for similar relief has already been brought.",
+              "source_reference": "05204.rtf#para-23-ernst"
+            }
+          ]
+        }
+      }
+    ],
+    "tactical_playbook": [
+      {
+        "play_id": "tp-001-the-bald-allegation-pincer",
+        "title": "The Bald Allegation Pincer Attack",
+        "objective": "To strike a claim containing serious but unsubstantiated allegations of misconduct (e.g., fraud, malice) by piercing the 'assume facts true' shield.",
+        "prerequisites": [
+          "Plaintiff's Statement of Claim contains conclusory allegations of misconduct without sufficient material facts."
+        ],
+        "expected_outcome": "The offending paragraphs or the entire claim are struck. The plaintiff is forced to re-plead with proper particulars (if possible) and may face an adverse costs award.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "File an application to strike under Rule 3.68(2)(b), arguing the claim discloses no reasonable cause of action.",
+            "node_refs": [
+              "wf-r3-68-2b-strike-test-no-reasonable-claim"
+            ],
+            "justification": "The application is grounded in the core test: 'a commencement document or pleading discloses no reasonable claim or defence to a claim;' (05203.rtf#r3-68-2-b)."
+          },
+          {
+            "step_number": 2,
+            "action": "In argument, formally acknowledge the court's duty to assume pleaded facts are true as the starting point of the analysis.",
+            "node_refs": [
+              "fp-r3-68-assume-facts-true"
+            ],
+            "justification": "This demonstrates procedural correctness: 'In brief, the Court must assume that the allegations of fact made by the plaintiff are true.' (05204.rtf#para-27-tottrup)."
+          },
+          {
+            "step_number": 3,
+            "action": "Immediately pivot by invoking the 'Bald Allegations' exception. Argue that the plaintiff's core allegations of misconduct are conclusory, lack material facts, and are therefore not entitled to the presumption of truth.",
+            "node_refs": [
+              "pt-r3-68-bald-allegations-exception"
+            ],
+            "justification": "This is the critical attack: 'bald assertions of misconduct (such as malice, fraud, deceit...) will not be accepted as being true without reasonable particulars of the allegations.' (05204.rtf#para-12-gay)."
+          },
+          {
+            "step_number": 4,
+            "action": "Conclude by reminding the court that the 'No Evidence' rule prevents the plaintiff from fixing these fatal deficiencies with affidavit evidence, forcing a decision on the defective pleading alone.",
+            "node_refs": [
+              "cm-r3-68-3-no-evidence-rule"
+            ],
+            "justification": "This closes the trap: 'No evidence may be submitted on an application made on the basis of the condition set out in subrule (2)(b).' (05203.rtf#r3-68-3)."
+          }
+        ]
+      },
+      {
+        "play_id": "tp-002-the-affidavit-autopsy",
+        "title": "The Affidavit Autopsy",
+        "objective": "To systematically dismantle an opponent's key affidavit before a substantive hearing by striking all inadmissible and improper evidence.",
+        "prerequisites": [
+          "Opponent has filed an affidavit in support of a critical motion (e.g., summary judgment, injunction)."
+        ],
+        "expected_outcome": "Key portions of the opponent's affidavit are struck from the record, weakening their evidentiary position for the main hearing and potentially forcing them to abandon their application.",
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Initiate the attack by filing a motion under the 'Affidavit Strike Framework' (Rule 3.68(4)(a)).",
+            "node_refs": [
+              "wf-r3-68-4-affidavit-strike-framework"
+            ],
+            "justification": "The basis of the play is the court's power to 'strike out all or part of an Affidavit that contains frivolous, irrelevant or improper information.' (05203.rtf#r3-68-4-a)."
+          },
+          {
+            "step_number": 2,
+            "action": "Scrutinize the affidavit for any information not based on personal knowledge. For each instance of hearsay, verify if the source and the deponent's belief in its truth are explicitly stated. If not, move to strike.",
+            "node_refs": [
+              "pt-r13-18-hearsay-compliance-trap"
+            ],
+            "justification": "The attack is based on mandatory compliance: 'requiring the affiant to depose to the source of any hearsay information and make a statement of belief in its truth.' (05204.rtf#para-54-anc-timber)."
+          },
+          {
+            "step_number": 3,
+            "action": "Identify and attack all statements that constitute legal argument, opinion, or conclusions. Argue that these are improper and usurp the function of the court.",
+            "node_refs": [
+              "pt-r3-68-4-argument-as-evidence-trap"
+            ],
+            "justification": "The principle is clear: 'affidavits ought to be confined to evidence. Any conclusion based on that evidence is the function of the court.' (05204.rtf#para-7-gauchier)."
+          },
+          {
+            "step_number": 4,
+            "action": "If the affidavit contains expert opinion, apply the rigorous two-stage admissibility test. Challenge the expert's qualifications, the necessity of the opinion, or their impartiality.",
+            "node_refs": [
+              "wf-r5-expert-evidence-admissibility-test"
+            ],
+            "justification": "The evidence must pass the gatekeeper: 'The expert evidence analysis is divided into two stages. First, it must first meet the four Mohan factors... If it does, the Court then weighs the potential risks and benefits...' (05204.rtf#para-129-anc-timber)."
+          }
+        ]
+      }
+    ],
+    "countermeasure_simulation": [
+      {
+        "simulation_id": "cms-001-defending-the-novel-claim",
+        "title": "Defending the Novel Claim Against a Strike Attack",
+        "scenario": "A plaintiff has filed a Statement of Claim asserting a novel cause of action, extending an existing tort into a new area. The defendant brings a motion to strike under Rule 3.68(2)(b), arguing the claim is not recognized in law and is therefore doomed to fail.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "action": "Defendant files a motion to strike, arguing that because no binding authority recognizes the plaintiff's cause of action, it has 'no reasonable prospect of success'.",
+            "node_refs": [
+              "wf-r3-68-2b-strike-test-no-reasonable-claim"
+            ],
+            "justification": "The defendant argues it is 'plain and obvious' the claim must fail as it is contrary to existing case law."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "action": "Plaintiff's primary response is to invoke the 'Protection for Novel Claims' pillar. Argue that the law is not static and the motion to strike is the wrong venue to decide complex, evolving legal issues.",
+            "node_refs": [
+              "fp-r3-68-novel-claims-protection"
+            ],
+            "justification": "The core defense is that 'on a motion to strike, it is not determinative that the law has not yet recognized the particular claim. The approach must be generous and err on the side of permitting a novel but arguable claim to proceed to trial.' (05204.rtf#para-21-knight)."
+          },
+          {
+            "move_number": 2,
+            "action": "Reinforce the argument by reminding the court that all pleaded facts must be assumed true, providing the factual matrix upon which the novel legal argument can be built at trial.",
+            "node_refs": [
+              "fp-r3-68-assume-facts-true"
+            ],
+            "justification": "This grounds the novel legal argument in the plaintiff's best-case factual scenario."
+          },
+          {
+            "move_number": 3,
+            "action": "Argue that striking the claim would prematurely stifle the development of the common law, contrary to the principles articulated by the Supreme Court.",
+            "node_refs": [
+              "fp-r3-68-novel-claims-protection"
+            ],
+            "justification": "The plaintiff argues that 'where a statement of claim reveals a difficult and important point of law, it may well be critical that the action be allowed to proceed.' (05205.rtf#para-hunt-wilson-quote)."
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-001",
+            "description": "The judge must decide if the claim is truly a 'novel but arguable' extension of the law, or if it is 'far-fetched' and has no reasonable prospect of success.",
+            "key_nodes": [
+              "fp-r3-68-novel-claims-protection",
+              "wf-r3-68-2b-strike-test-no-reasonable-claim"
+            ]
+          }
+        ],
+        "expected_outcome": "High probability of success for the plaintiff (defense). Courts are extremely reluctant to strike novel but arguable claims on a pleadings motion. The likely outcome is the dismissal of the defendant's application, allowing the case to proceed to discovery and either a summary judgment motion with evidence or a full trial."
+      },
+      {
+        "simulation_id": "cms-002-the-unfiling-gambit",
+        "title": "Countering the 'Unfiling' Gambit",
+        "scenario": "Party A files an inflammatory affidavit that, while damaging to Party B, also exposes Party A's witness to a brutal cross-examination. Realizing their mistake, Party A abandons the application the affidavit was meant to support and brings a new application to have the affidavit withdrawn from the court record.",
+        "attack_sequence": [
+          {
+            "move_number": 1,
+            "action": "Party A applies to withdraw the affidavit, arguing based on the 'Ariss Factors' that the affidavit was for an abandoned application, has not been 'used' by the court, and its withdrawal causes no prejudice.",
+            "node_refs": [
+              "cm-r3-68-affidavit-withdrawal-factors"
+            ],
+            "justification": "Party A argues the application is not tactical, but simply housekeeping to remove irrelevant material from the record."
+          }
+        ],
+        "defense_sequence": [
+          {
+            "move_number": 1,
+            "action": "Party B opposes the withdrawal, arguing it is a purely tactical decision to shield the deponent from cross-examination on relevant (though damaging) admissions, which is a key factor weighing against withdrawal.",
+            "node_refs": [
+              "cm-r3-68-affidavit-withdrawal-factors"
+            ],
+            "justification": "Party B argues the application is made as a 'strategic or tactical decision to deny the other party access to relevant information or the ability to cross-examine the deponent.' (05204.rtf#para-5-ariss)."
+          },
+          {
+            "move_number": 2,
+            "action": "Party B escalates its defense by invoking the 'Open Court Principle'. Argue that Party A is improperly trying to 'unfile' a public document to hide it, and the correct, high-threshold procedure is a restricted court access order, not a simple withdrawal.",
+            "node_refs": [
+              "fp-open-court-principle-counter"
+            ],
+            "justification": "The core counter is that 'the proper procedure to keep court records secret is not an application for permission to “unfile” documents... the appropriate procedure is to apply for a restricted court access order.' (05204.rtf#para-61-bennett)."
+          }
+        ],
+        "decision_points": [
+          {
+            "point_id": "dp-002",
+            "description": "The judge must decide whether to treat the application as a simple discretionary matter under the Ariss factors or as a more fundamental issue engaging the open court principle as described in Bennett.",
+            "key_nodes": [
+              "cm-r3-68-affidavit-withdrawal-factors",
+              "fp-open-court-principle-counter"
+            ]
+          }
+        ],
+        "expected_outcome": "High probability of success for Party B (defense). Courts are very protective of the public record and wary of tactical moves to avoid cross-examination. The argument based on the open court principle is powerful and aligns with the modern trend towards transparency. The application to withdraw will likely be denied."
+      }
+    ]
+  }
+}

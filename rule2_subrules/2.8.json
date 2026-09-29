@@ -1,0 +1,285 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.8",
+  "title": {
+    "official": "Questioning of class and subclass members",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.8(1)  If under section 18(2) of the Class Proceedings Act the\nCourt requires a class member or subclass member to file and serve\nan affidavit of records, the Court may do either or both of the\nfollowing:\n(a) limit the purpose and scope of the records to be produced\nand of questioning;\n(b) determine how the evidence obtained may be used.\n(2)  If a class member or subclass member is questioned under\nsection 18(2) of the Class Proceedings Act, the Court may do either\nor both of the following:\n(a) limit the purpose and scope of the questioning;\n(b) determine how the evidence obtained may be used.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "8980330357c9abb638f98e4adeae26bf648c452ea199e24a39e57dd9569f51c0"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.8 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          38,
+          39
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Questioning of Class and Subclass Members",
+      "operative_text_raw": null,
+      "operative_text_sha256": "ca31d1b93a1fca052c104db7682776205cfdf4f6892402726916d8fad03ea252",
+      "related_provisions": "5.1(2) (directions regarding discovery) ; 5.3 (modifying discovery) ; 5.5 (production of records) ; 5.17 (examination for discovery) ; 5.19 (limiting questions).",
+      "commentary": "In a class action, there is no general right to pre-certiﬁcation disclosure, which would be too\nslow and too much work; the court must be shown that such disclosure is necessary.⁴\n\nGenerally speaking, no discovery (questioning) is open pending a motion to certify a class\naction?¹\nBut before any application to certify a suit as a class action, an examination for discovery\nis possible and its questions can include topics relevant and material to certiﬁcation, such as\nthe number of tenants (said to have been all harmed).²\nBut the court can give directions to ﬁll in\nvarious procedural gaps or ﬂaws before the ﬁnal decision on certiﬁcation.³\nIn a new action, intended ultimately to be certiﬁed as a class action, the plaintiff unsuccessfully\nsought huge production of records by the defendant government.⁴\nOn examination for discovery of a defendant in a proposed class action by a class, before an\napplication to certify, see the Schneider decision.⁵\nAs merits of a class action are not gone into very deeply on a certiﬁcation motion, and discovery\nis not usually ordered at that stage, a high executive little involved and living outside Alberta was\nnot ordered to give information under R.6.22.⁶\nPending a motion to certify the suit (over pensions) as a class action, the defendants need not\nﬁle statements of defence, but the defendants could ﬁle afﬁdavits responding to the certiﬁcation\nmotion.⁷",
+      "footnotes": [
+        {
+          "page": "2-8",
+          "number": 3,
+          "text": "Quite similar to previous 2004 R.41.4. It was ﬁrst enacted by Alta. Reg.238/04."
+        },
+        {
+          "page": "2-8",
+          "number": 4,
+          "text": "Rieger v. Plains Midstream Can.2019 ABQB 666, JCC 1201 07932 (¶’s 8-9)."
+        },
+        {
+          "page": "2-9",
+          "number": 1,
+          "text": "Murray v. R. (Min. of Health) 2007 ABQB 231, 445 AR 1. Compare Class Proceedings Act, s.18 and s.19."
+        },
+        {
+          "page": "2-9",
+          "number": 2,
+          "text": "Schneider v. Scandinavian Mgmt. etc.2021 ABQB 139, JCE 1703 19181 (Feb 22) ; cf. MacKenzie v. Calgary Bd. of Educ.2024 ABKB 305, JCC 2101 14285 (May 27) (two very narrow quick questions)."
+        },
+        {
+          "page": "2-9",
+          "number": 3,
+          "text": "C. H. S. v. Dir. of Child Welfare 2008 ABQB 513, 452 AR 66."
+        },
+        {
+          "page": "2-9",
+          "number": 4,
+          "text": "R. T. v. Alberta 2019 ABQB 250, JCE 1803 10967."
+        },
+        {
+          "page": "2-9",
+          "number": 5,
+          "text": "Schneider v. Scandinavian Mgmt. etc.2021 ABQB 139, JCE 1703 19181 (Feb 22)."
+        },
+        {
+          "page": "2-9",
+          "number": 6,
+          "text": "2007513 Alta. v. Pet Planet Franchise Corp.2022 ABCA 310, Calg 2201 0122 AC (Sep 29)."
+        },
+        {
+          "page": "2-9",
+          "number": 7,
+          "text": "Alta. Mun. Retired Police Ofﬁcers’ Mut. Ben. Socy. v. R.2009 ABQB 44."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          274,
+          326
+        ],
+        "book_pages": [
+          "2-8",
+          "2-9"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Questioning of class and subclass members",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_019",
+        "part2_rule_2_8_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_020"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "3d2f8000261b27a1827a3ac0f0d489430ae232a59a5498c623bc709e7b6052f7",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Questioning of class and subclass members",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "7b3e903c1d82e80cb657c1b4219b5bc72dff4a281ac25aa95acf1db6f3be9534",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "One likely purpose of this rule is to provide the court with discretion over the scope of questioning to prevent abuses by defendants in utilizing the questioning process as a tool of oppression rather than a tool of discovery.",
+          "citations": [],
+          "review_flag": "unique to Book C; no authority cited in the source."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same words as the official text, but 'Class Proceedings Act' is displaced within both subrules (moved by extraction; 5th pass removed an unsupported guess about italics). No substantive difference."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9346,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.8",
+      "title_official": "Questioning of class and subclass members"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "ca31d1b93a1fca052c104db7682776205cfdf4f6892402726916d8fad03ea252",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            274,
+            326
+          ],
+          "book_pages": [
+            "2-8",
+            "2-9"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "3d2f8000261b27a1827a3ac0f0d489430ae232a59a5498c623bc709e7b6052f7",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "7b3e903c1d82e80cb657c1b4219b5bc72dff4a281ac25aa95acf1db6f3be9534",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "8980330357c9abb638f98e4adeae26bf648c452ea199e24a39e57dd9569f51c0",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            38,
+            39
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "f47ece22a105f86f661dfe796f3a0fddaa8780bc033369933d4da85f3f436eb9"
+  },
+  "information_notes": [
+    {
+      "text": "Section 18(2) of the Class Proceedings Act reads:\n(2) After discovery of the representative plaintiff or, in a proceeding referred to in section\n7, one or more of the representative plaintiffs, a defendant may, with leave of the Court,\ndiscover other class members or subclass members..",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "same note; only adds the Act citation 'S.A. 2003, c. C-16.5' (kept elsewhere). Not retained."
+      },
+      "review_flag": "Book A text ends with a doubled period ('members..'); Book C's copy has a single period."
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (7th pass): also listed under R.5.3 (p.5-14, modifying or waiving rights under Part 5) as '2.8 (discovery in class proceedings)' (label wraps over two lines) - missed in the 7th pass for 2.1-2.10.",
+    "BOOK_A other Parts (full Book A; 7th pass): R.5.4 fn 3 (p.5-15), R.5.5 notes (p.5-18: 'On class proceedings, see R.2.8'), R.5.17 notes (p.5-89, 5-91) and R.5.31 fn 5 (p.5-122) cite R.2.8; listed under R.5.5 (p.5-17), R.5.17 (p.5-88), R.5.19 (p.5-98) and R.5.28 (p.5-113).",
+    "Rule 2.9: BOOK_A's 2.9 commentary, Part H Costs (fn 7, p.2-20; combined_rule2.txt line 967) cites 'Rule 2.8' for individual class members being 'arguably, subject to discovery'.",
+    "Class Proceedings Act s.18 (text in the information note) and s.19 (BOOK_A fn 1, p.2-9: 'Compare ... s.18 and s.19'); discovery rules 5.1(2), 5.3, 5.5, 5.17, 5.19 (related provisions); rule 6.22 (BOOK_A commentary)."
+  ],
+  "dedupe_log": [
+    "2.8 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.8 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.8 BOOK_C information note merged into BOOK_A copy",
+    "2.8 BOOK_C commentary sentence split dropped",
+    "2.8 BOOK_C: rule text dropped (manual review)",
+    "2.8 BOOK_C information-note variant dropped (manual review)",
+    "2.8 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

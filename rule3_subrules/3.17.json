@@ -1,0 +1,239 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.17",
+  "title": {
+    "official": "Attorney General’s right to be heard",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Actions Started by Originating Application"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Additional Rules Specific to Originating Applications for Judicial Review"
+  },
+  "operative_text": {
+    "controlling": "3.17   The Minister of Justice or the Attorney General for Canada,\nor both, as the case requires, is entitled as of right to be heard on an\noriginating application for judicial review.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "98c4c4de8014a0df6d0687c2c6c2f607de2c5f306e827ac110ad796bfdf8ac2e"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s3.17;170/2012;216/2022",
+    "amending_regulations": [
+      "170/2012",
+      "216/2022"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta.Reg.124/10;170/12;216/22]"
+      ],
+      "BOOK_B": "Alta. Reg. 170/2012, s. 10(g); 216/2022, s. 3(2)",
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta.*\n\nReg. 170/2012, s. 10(g); Alta. Reg. 216/2022, s. 3(2) (Alta. Gaz. November 15, 2022)]"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES",
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          56
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Attorney General's Right to be Heard",
+      "operative_text_raw": null,
+      "operative_text_sha256": "19ed868d64a72d8093965b2ae7f2c2cad6255c3a7819e16ded36a3568d9375bb",
+      "defined_terms": null,
+      "related_provisions": null,
+      "commentary": "*6 Information Note The Court may grant intervenor status to other persons under rule 2.10 [Intervenor status]. Defined Terms Minister of Justice and Attorney General\n\nRelated Provisions 2.10 (intervenor status) See also note G to R.3.15,supra, and R.3.16n.On intervention by the Attorney General, see theAuercase. Where an Act requires notice to the two Attorneys General of a constitutional question in other\n\ntypes of litigation, whether failure to give the notice is fatal and the remedy is just an adjournment is disputed? But appeal courts often refuse to hear such unnotified questions. 1Trang v.R. (Alta.)2014 ABCA 382, 588 AR 13. 2Trang v.R.,supra. 3E.G.v.Correctional Service of Can. (#2)2015 ABQB 539, [2015] AJ #929 (Aug 28).\n\n4R.P. v.Dir. of Child,Youth & Fam.Enhancement2018 ABQB 391, JCE 1803 07821 (May 15) (¶'s 15-18). 5R.P. v.Dir. of Child,etc.,supra(¶'s 19-23). 6Quite similar to previous 1987 R.753.10(2), new in 1987.\n\n1Normally an affidavit from the Attorney General explaining the effect of the case on the government, or its special expertise, is very desirable, but here the effect on both governments was pretty clear, and the other Attorney General had filed such an affidavit:Edm. Policy Service v. Info. & Privacy Comm'r.,infra. 2Edm.Police Service v.Info.& Privacy Comm'r.2021 ABCA 428, 35 Alta LR(7th) 109 (one JA) (¶'s 6-21). 3Quite similar to previous 1987 R.753.12 and 1968 R.743(2), new then. 4IMS Health Can.v.Info.& Privacy Comm'r.2005 ABCA 325, 376 AR 336.But cf.Robertsonv.Wasylyshen\n\n*(Edm.Police Service) (#9)2004 ABQB 243, 355 AR 281.It is up to the Attorney General whether and when to intervene in an appeal. TheAttorney General is the government's official legal adviser.The history of that officer representing the Crown is well over 500 years old.\n\n*Notice to Obtain Record of Proceedings*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-57",
+          "3-58"
+        ],
+        "offset_in_clean_text": [
+          181178,
+          183226
+        ]
+      },
+      "operative_text_note": "same wording as official 3.17 (read by eye) except missing spaces, '*' line marks, the title in title case ('Attorney General's Right to be Heard') and the footnote marker '6' after the amendment bracket. The amendment bracket '[Alta.Reg.124/10;170/12;216/22]' agrees with the official 'AR 124/2010 s3.17;170/2012;216/2022'. No substantive difference. This rule's history footnote 6 ('Quite similar to previous 1987 R.753.10(2), new in 1987') is printed at the foot of p.3-57 (line 1528) and is kept verbatim in the built commentary.",
+      "commentary_review_flag": "Read in full, p.3-57 (line 1521) to p.3-58 (line 1537): rule text, Information Note, Defined Terms, Related Provisions, a note of two paragraphs and footnotes as printed; the built commentary ends with the title of 3.18 ('Notice to Obtain Record of Proceedings', line 1539). (1) Information Note (p.3-57, line 1522): 'The Court may grant intervenor status to other persons under rule 2.10 [Intervenor status].' - the same words as Book C's information note; the official 3.17 has no information note in the text searched (official lines 4141-4145), and official 2.10 is titled 'Intervenor status' (title matches). Book A's copy is inside the commentary text (not split out), so the built information-note record shows Book C only. (2) Defined Terms 'Minister of Justice and Attorney General': the official Appendix has 'Minister' (= the Minister of Justice for Alberta) and no such term; official 3.17 reads 'The Minister of Justice or the Attorney General for Canada, or both' (same point as in the 3.15 flag). (3) Related Provisions '2.10 (intervenor status)': matches the official title. (4) Pointers: 'See also note G to R.3.15, supra' lands (3.15 note G Service and Parties); 'R.3.16n.' has no visible target about the Attorney General (see the 3.16 see_also); 'On intervention by the Attorney General, see the Auer case' points to footnote 7, Auer v. Auer 2018 ABQB 510, [2018] 9 WWR 744, printed at the top of p.3-57 (line 1509) inside the built 3.16 commentary together with footnote 8 ('not fatal: J.F.M. v. V.P. (#3) 2003 ABQB 982; Fatal: Sedgwick v. Edm. Real Est. Bd. etc. 2021 ABQB 59; Golden Pinnacle Consultants v. Dir. of Fair Trading 2023 ABKB 81'), and the end of this note's sentence about failure to give notice ('successfully appeal on that ground?', line 1506): those pieces are 3.17's. Footnotes 1-5 on p.3-57 (Trang, E.G., R.P.) precede footnote 6 (this rule's history) and belong to 3.16's note. (5) The note says 'Where an Act requires notice to the two Attorneys General of a constitutional question in other types of litigation, whether failure to give the notice is fatal and the remedy is just an adjournment is disputed': the Act is not named and is outside the Rules; not checked. p.3-58 footnotes: fn 1-2 (affidavit from the Attorney General; Edm. Police Service v. Info. & Privacy Comm'r. 2021 ABCA 428) and fn 4 (IMS Health Can. v. Info. & Privacy Comm'r. 2005 ABCA 325; cf. Robertson v. Wasylyshen (#9) 2004 ABQB 243) go with this note's sentence 'It is up to the Attorney General whether and when to intervene in an appeal' (fn 4 could belong to the 3.18 text that precedes it on the page: not shown); fn 3 ('Quite similar to previous 1987 R.753.12 and 1968 R.743(2), new then') is the history of 3.18 (official 3.18 is the notice to send up the record; Book B's Brewer quotation names 'Rr. 753.12 and 753.13' as the old record rules). (6) Book A rule 2.10's related provision (combined_rule2.txt p.2-22, line 1027; 1026 is the 'Related Provisions' heading) '3.17 (standing of Attorney General on judicial review)' describes 3.17 as 'standing'; the official title and text are the Attorney General's right to be heard. (7) Case law and the 500-year history sentence were not checked."
+    },
+    "BOOK_B": {
+      "title": "Attorney General's right to be heard",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_17_001",
+        "part3_part_3_court_actions_004"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "78b1a752a6c0da7646af656623404225ca8bb6c235de53c32baa1bf749873d89",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Attorney General’s right to be heard",
+      "division_heading": "Division 2 – ACTIONS STARTED BY ORIGINATING APPLICATION",
+      "operative_text_raw": null,
+      "operative_text_sha256": "78b1a752a6c0da7646af656623404225ca8bb6c235de53c32baa1bf749873d89",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "101-120_2_28 to 3_18.json",
+        "source_file": "101-120_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.17 (read by eye) except missing spaces, '*' line marks, the title in title case ('Attorney General's Right to be Heard') and the footnote marker '6' after the amendment bracket. The amendment bracket '[Alta.Reg.124/10;170/12;216/22]' agrees with the official 'AR 124/2010 s3.17;170/2012;216/2022'. No substantive difference. This rule's history footnote 6 ('Quite similar to previous 1987 R.753.10(2), new in 1987') is printed at the foot of p.3-57 (line 1528) and is kept verbatim in the built commentary."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.17",
+      "title_official": "Attorney General’s right to be heard"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "19ed868d64a72d8093965b2ae7f2c2cad6255c3a7819e16ded36a3568d9375bb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-57",
+            "3-58"
+          ],
+          "offset_in_clean_text": [
+            181178,
+            183226
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "78b1a752a6c0da7646af656623404225ca8bb6c235de53c32baa1bf749873d89",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "78b1a752a6c0da7646af656623404225ca8bb6c235de53c32baa1bf749873d89",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "101-120_2_28 to 3_18.json",
+          "source_file": "101-120_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "98c4c4de8014a0df6d0687c2c6c2f607de2c5f306e827ac110ad796bfdf8ac2e",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            56
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "54934ba30ec07f5e2557ac1b84736d4cc13a2788be93aeabf95bf111a344344d"
+  },
+  "information_notes": [
+    {
+      "text": "The Court may grant intervenor status to other persons under rule 2.10 [Intervenor status].",
+      "carriers": [
+        "BOOK_C"
+      ]
+    }
+  ],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): no Book B or Book C file cites 3.17 by number. BOOK_B: rule text and amendment note only (paragraph part3_part_3_court_actions_004: 'Alta. Reg. 170/2012, s. 10(g); 216/2022, s. 3(2)'), equal to the official text and amendment line; no commentary; next paragraph is the running head for Subdivision 2. BOOK_C 101-120 file: entry read in full: rule text equal to the official (EXACT_MATCH); information note 'The Court may grant intervenor status to other persons under rule 2.10 [Intervenor status]' (kept; same words as Book A's); amendment note '[Alta. Reg. 124/2010, r. 3.17 effective November 1, 2010 (Alta. Gaz. August 14, 2010); Alta. Reg. 170/2012, s. 10(g); Alta. Reg. 216/2022, s. 3(2) (Alta. Gaz. November 15, 2022)]' (agrees with the official 'AR 124/2010 s3.17;170/2012;216/2022'); no commentary.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): combined_rule2.txt p.2-22 (entry on line 1027, after the heading on line 1026) R.2.10 related provisions '3.17 (standing of Attorney General on judicial review); 14.58 (intervenor on appeal)' (label paraphrase; see the flag); 3.15 note G p.3-49 to 3-52 (the Attorney General must be served within the six months: 3.15(3)(b)); no other Book A file cites 3.17 by number.",
+    "OFFICIAL text (searched for 'rule 3.17', 'rules 3.17', lists, line-wrapped forms and form headings): no other official rule cites 3.17 by number (the only hit is the running page header 'Rule 3.17'); no form heading names it. By subject (read): 3.15(3)(b) (service on the Minister of Justice or the Attorney General for Canada, or both, as the circumstances require), 2.10 (intervenor status), 14.58 (intervenor on appeal; named in Book A's 2.10 related provisions)."
+  ],
+  "dedupe_log": [
+    "3.17 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.17 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "3.17 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.17 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.17 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

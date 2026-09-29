@@ -1,0 +1,2277 @@
+
+{
+  "metadata": {
+    "blueprint_version": "1.2.0",
+    "schema_version": "HWGS_1.0",
+    "generated_at": "2024-05-21T12:00:00+00:00",
+    "source_manifest": "rule9_part03_document.json",
+    "document_title": "Alberta Rules of Court – Rule 9 (Part 3)",
+    "rule_coverage": "Alberta Rules of Court, Rules 9.16 to 9.51",
+    "node_count": 30,
+    "relationship_count": 19
+  },
+  "nodes": [
+    {
+      "node_id": "cm-r9-16-original-judge-jurisdiction",
+      "node_type": "ControlMechanism",
+      "label": "Original Judge Jurisdiction Mandate",
+      "description": "Mandates that applications to vary or set aside an order (under rules 9.12-9.15) must be decided by the judge who granted the original order, unless the Court grants leave for it to be heard by another.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_alberta_rules_of_court_rule_9_part_3_001_s001",
+            "text": "An application under rule 9.12, 9.13, 9.14 or 9.15 must be decided by the judge or applications judge who granted the original judgment or order unless the Court otherwise orders.",
+            "paragraph_id": "part9_alberta_rules_of_court_rule_9_part_3_001",
+            "section_heading": "Rule 9.16 – Alberta Rules of Court – Rule 9 (Part 3)",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.16"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This rule prevents 'judge shopping' and ensures judicial continuity. It can be used as a procedural weapon to strike an improperly filed application, forcing the opponent to restart, waste resources, and lose time.",
+        "litigation_implications": [
+          "Offensive: File a motion to strike an opponent's application if it is brought before a different judge without leave.",
+          "Defensive: If the original judge is unavailable, ensure your application materials explicitly seek leave to be heard by another judge.",
+          "Cost Warfare: Force an opponent to incur costs and delays by pointing out their failure to comply with this rule at the outset of a hearing.",
+          "Strategic Planning: When planning applications, verify the availability of the original judge to avoid procedural hurdles."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "All applications under Rules 9.12-9.15 must be scheduled before the original decision-maker or include a request for leave.",
+          "risk_assessment": "High risk of application being struck or adjourned with costs if not followed.",
+          "audit_trigger": "Review of any application to vary or set aside an order to confirm correct judicial assignment."
+        },
+        "automation_hooks": {
+          "judge_assignment_validator": "Flags applications that target a previous order but are not scheduled before the original judge."
+        },
+        "case_law_anchors": [
+          "Kleiman et al v. Innes et al, 2024 ABKB 745"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-16-judicial-continuity-rationale",
+      "node_type": "WarfareFramework",
+      "label": "Judicial Continuity Rationale",
+      "description": "The strategic principle that the original judge is best positioned to review a matter because they have full knowledge of the original context and what was presented at the time, especially in ex parte hearings.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s013"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_alberta_rules_of_court_rule_9_part_3_001_s013",
+            "text": "A Justice who heard the original application is in the best position to review the matter with full knowledge of what they were aware of at the time, and within that context, what needed to be brought to their attention at the ex parte hearing.",
+            "paragraph_id": "part9_alberta_rules_of_court_rule_9_part_3_001",
+            "section_heading": "Rule 9.16 – Alberta Rules of Court – Rule 9 (Part 3)",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.16 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This framework provides the underlying 'why' for Rule 9.16. It is the core argument to be used when enforcing the rule against an opponent or when arguing against an opponent's request for leave to be heard by a new judge.",
+        "litigation_implications": [
+          "Argument Reinforcement: Use this rationale in briefs and oral argument to explain why an application must be returned to the original judge.",
+          "Countering Leave Applications: Argue that a new judge cannot possibly have the same context, especially regarding what was or was not disclosed in an ex parte hearing.",
+          "Judicial Persuasion: Frame adherence to Rule 9.16 as a matter of judicial efficiency and sound decision-making, not just procedural pedantry."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Kleiman et al v. Innes et al, 2024 ABKB 745"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-16-failure-to-request-leave",
+      "node_type": "ProceduralTrap",
+      "label": "Failure to Pre-Request Leave",
+      "description": "The procedural error of bringing an application before a different judge without first requesting leave, creating a risk that the application will be deemed improper.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s014"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_alberta_rules_of_court_rule_9_part_3_001_s014",
+            "text": "Leave was not requested to have another Justice hear this matter prior to the application being argued.",
+            "paragraph_id": "part9_alberta_rules_of_court_rule_9_part_3_001",
+            "section_heading": "Rule 9.16 – Alberta Rules of Court – Rule 9 (Part 3)",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.16 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This trap can be sprung on an opponent who overlooks Rule 9.16. By highlighting their failure to seek leave *before* the hearing, you can undermine their credibility and potentially force an adjournment or dismissal of their application, imposing costs and delay.",
+        "litigation_implications": [
+          "Attack: At the start of a hearing, raise a preliminary objection that the court lacks jurisdiction because leave was not sought per Rule 9.16.",
+          "Defense: If you've made this error, immediately pivot to an oral application for leave, citing urgency and efficiency.",
+          "Risk Mitigation: Always build a 'Request for Leave' as the first item of relief in any application that falls under this rule but cannot be heard by the original judge."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Kleiman et al v. Innes et al, 2024 ABKB 745"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-16-leave-for-efficiency",
+      "node_type": "ControlMechanism",
+      "label": "Leave Granted for Efficiency and Expediency",
+      "description": "The Court's discretionary power to grant leave for an application to be heard by a different judge, even after the fact, for reasons of efficiency and expediency.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s015"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_alberta_rules_of_court_rule_9_part_3_001_s015",
+            "text": "However, for reasons of efficiency and expediency, which are particularly important in this application, I grant leave.",
+            "paragraph_id": "part9_alberta_rules_of_court_rule_9_part_3_001",
+            "section_heading": "Rule 9.16 – Alberta Rules of Court – Rule 9 (Part 3)",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.16 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is the 'escape hatch' or countermeasure to an attack based on Rule 9.16. It allows a party who has made a procedural error to argue that the practical needs of the case (speed, cost-saving) should override the default rule.",
+        "litigation_implications": [
+          "Countermeasure: When accused of violating Rule 9.16, immediately argue that proceeding is the most efficient and expedient path forward.",
+          "Offensive Justification: When proactively seeking leave, frame the request around efficiency, such as the original judge's long-term unavailability and the urgency of the matter.",
+          "Risk Assessment: While this escape hatch exists, relying on it is risky as it is purely discretionary. It is not a substitute for proper procedure."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Kleiman et al v. Innes et al, 2024 ABKB 745"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-17-enforcement-equivalency",
+      "node_type": "FoundationalPillar",
+      "label": "Enforcement Equivalency for Payment Orders",
+      "description": "Establishes that an order for payment can be enforced in the same manner as a judgment for payment, and a judgment for payment into Court can be enforced like a judgment for payment to a person.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_002_s001",
+        "part9_part_9_judgments_and_orders_002_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_002_s001",
+            "text": "(1) An order for payment may be enforced in any manner in which a judgment for the payment of money may be enforced.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_002",
+            "section_heading": "Rule 9.17 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.17"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This pillar expands a creditor's arsenal. It clarifies that obtaining an 'order for payment' (e.g., for costs, or an interim order) grants access to the full suite of enforcement tools typically associated with a final judgment, such as writs and garnishment.",
+        "litigation_implications": [
+          "Broadens Creditor Tools: A party with any type of payment order can immediately pursue enforcement without needing a separate 'judgment'.",
+          "Accelerates Enforcement: Allows for quicker enforcement of interim cost awards or other monetary orders made during the course of litigation.",
+          "Simplifies Process: Eliminates any procedural distinction between different types of monetary awards for the purpose of collection."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-18-conditional-enforcement-bar",
+      "node_type": "ProceduralTrap",
+      "label": "Conditional Enforcement Bar",
+      "description": "A party is barred from enforcing a conditional judgment or order until they have filed an affidavit confirming the conditions have been met or obtained court permission.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s001",
+        "part9_part_9_judgments_and_orders_004_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_004_s001",
+            "text": "(1) If a judgment or order is made subject to conditions that a party must fulfil, a party to whom the conditions apply may not do anything further to enforce the judgment or order until",
+            "paragraph_id": "part9_part_9_judgments_and_orders_004",
+            "section_heading": "Rule 9.18 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_004_s002",
+            "text": "(a) the party has filed an affidavit confirming that the conditions have been met, or",
+            "paragraph_id": "part9_part_9_judgments_and_orders_004",
+            "section_heading": "Rule 9.18 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.18(1)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This rule creates a simple but absolute procedural barrier. For a debtor, it's a tripwire. Any enforcement action taken before the affidavit is filed is invalid and can be set aside, buying time and imposing costs on the creditor.",
+        "litigation_implications": [
+          "Defensive Attack: If a creditor begins enforcement on a conditional order, immediately check the court file for the required affidavit. If it's missing, apply to set aside the enforcement steps.",
+          "Creditor's Checklist: This is a mandatory, non-negotiable step for any creditor seeking to enforce a conditional order. Failure to comply is a critical error.",
+          "Delay Tactic: A debtor can use a creditor's failure to file this affidavit to temporarily halt enforcement proceedings."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "An affidavit of compliance must be filed before any enforcement action is taken on a conditional order.",
+          "risk_assessment": "High. Failure to file renders enforcement actions voidable.",
+          "audit_trigger": "Automated check on any enforcement request linked to a conditional order to verify affidavit filing."
+        },
+        "automation_hooks": {
+          "enforcement_pre-flight_check": "Verifies that for any conditional order, a Rule 9.18 affidavit has been filed before generating enforcement documents."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-18-ex-parte-enforcement-application",
+      "node_type": "ControlMechanism",
+      "label": "Ex Parte Application for Conditional Enforcement",
+      "description": "An application to proceed with enforcement of a conditional order may be filed without notice to any other party, unless the Court orders otherwise.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s004"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_004_s004",
+            "text": "(2) An application to do anything further may be filed without notice to any other party unless the Court otherwise orders.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_004",
+            "section_heading": "Rule 9.18 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.18(2)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This mechanism provides a tactical advantage of speed and surprise. A creditor who needs court permission to enforce (as an alternative to filing an affidavit) can obtain it without tipping off the debtor, allowing them to initiate enforcement actions like freezing a bank account before the debtor can move funds.",
+        "litigation_implications": [
+          "Element of Surprise: Allows a creditor to obtain permission to enforce and then immediately execute, maximizing the chances of seizing liquid assets.",
+          "Reduces Obstruction: Avoids a contested hearing where the debtor might raise spurious arguments to delay the granting of permission.",
+          "Efficiency: Streamlines the process for the creditor once the underlying conditions of the order have been met."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "fp-r9-19-non-party-enforcement-scope",
+      "node_type": "FoundationalPillar",
+      "label": "Non-Party Enforcement Scope",
+      "description": "Extends the ability to enforce a judgment to a non-party in whose favour an order is made, and also makes a non-party subject to enforcement if an order is made against them.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s002",
+        "part9_part_9_judgments_and_orders_006_s003"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s002",
+            "text": "(a) the person obtains an order or an order is obtained in the person's favour, the person may enforce the order in the same manner as if the person were a party to the action, or",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.19 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_006_s003",
+            "text": "(b) the person is subject to a judgment or order granted in respect of that action, the judgment or order may be enforced against the person in the same manner as if the person were a party to the action.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_006",
+            "section_heading": "Rule 9.19 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.19"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This pillar pierces the traditional boundary of litigation being only between named parties. It is a weapon to bind and pursue related individuals or entities (like directors or parent companies) and empowers beneficiaries of orders (like a child in a support order) to enforce them directly.",
+        "litigation_implications": [
+          "Expanded Reach: Allows creditors to pursue enforcement against non-parties who are effectively bound by an order (e.g., an injunction against a company and its officers).",
+          "Direct Action for Beneficiaries: A person who benefits from an order can enforce it themselves without relying on the named party to act.",
+          "Strategic Order Drafting: When drafting orders, counsel should consider naming specific non-parties to whom the order should apply to leverage this rule for future enforcement."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "fp-r9-20-writ-duration-linked-to-judgment",
+      "node_type": "FoundationalPillar",
+      "label": "Writ Duration Linked to Judgment",
+      "description": "A writ of enforcement remains in force for as long as the judgment or order that authorized its issuance remains in force.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_008_s001",
+            "text": "Unless an enactment otherwise provides, and except for the purpose of the enactment, a writ remains in force as long as the judgment or order under which the writ was issued is in force.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_008",
+            "section_heading": "Rule 9.20 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.20"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This principle establishes a direct causal link between a judgment's validity and a writ's power. If the judgment expires (e.g., via limitation) or is satisfied, the writ automatically becomes ineffective. This is the baseline against which the exception in the Pawluk case operates.",
+        "litigation_implications": [
+          "Automatic Expiry: If a judgment expires, any associated writs are no longer enforceable.",
+          "Renewal Requirement: This reinforces the importance of renewing a judgment under Rule 9.21 to keep associated writs alive.",
+          "Satisfaction Implication: Once a judgment is satisfied, the creditor has an obligation to discharge any related writs."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-20-writ-preservation-on-set-aside",
+      "node_type": "ControlMechanism",
+      "label": "Writ Preservation on Set-Aside",
+      "description": "The Court's discretionary power to order that a writ of execution remains filed and in force as a condition of setting aside a default judgment, thereby preserving the plaintiff's security.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_010_s010",
+        "part9_part_9_judgments_and_orders_010_s013"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_010_s010",
+            "text": "The order setting aside the default judgment contained the term “that the writs of execution were to remain filed with the Sheriff and the Land Titles Office until the trial of the action.” Could the writ of execution exist when the judgment no longer existed?",
+            "paragraph_id": "part9_part_9_judgments_and_orders_010",
+            "section_heading": "Rule 9.20 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_010_s013",
+            "text": "At pp. 274-75, the court said: In answer to the respondent's argument that the writ cannot continue to have any legal force, even with restrictions, after the judgment from which it flowed is set aside, we say that the preferable and more practical approach is to allow the writ to remain filed on terms appropriate to the particular case.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_010",
+            "section_heading": "Rule 9.20 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.20 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a powerful offensive tool for a plaintiff facing an application to set aside a default judgment. It transforms a defensive situation into an opportunity to secure a 'zombie writ' that encumbers the defendant's assets throughout the litigation, preventing them from being dissipated.",
+        "litigation_implications": [
+          "Offensive Tactic: When responding to a set-aside application, always request that the existing writ of execution remain on title as a condition of the order.",
+          "Negotiation Leverage: Use the threat of a preserved writ to negotiate favorable terms for setting aside the judgment.",
+          "Asset Freezing: Effectively freezes the defendant's property, limiting their financial flexibility and increasing pressure to settle."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Pawluk v. Bank of Montreal (1990), 73 Alta. L.R. (2d) 266 (C.A.)"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-20-balancing-indulgence-with-security",
+      "node_type": "WarfareFramework",
+      "label": "Balancing Indulgence with Security",
+      "description": "The strategic principle that when a defendant seeks the court's indulgence (e.g., setting aside a default judgment), the court can impose conditions, such as preserving a writ, to protect the plaintiff's established rights.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_010_s014",
+        "part9_part_9_judgments_and_orders_010_s015"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_010_s014",
+            "text": "The defendant seeking the indulgence of the court to set aside the default judgment risks having conditions imposed by the court in such an application.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_010",
+            "section_heading": "Rule 9.20 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.20 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This framework provides the justification for the 'Zombie Writ' play. It reframes the plaintiff's request not as punitive, but as a reasonable balancing of interests: the defendant gets their day in court, and the plaintiff's potential recovery is secured against dissipation.",
+        "litigation_implications": [
+          "Argument Framing: Argue that the defendant is asking for a favor ('indulgence') and the price of that favor is ensuring the plaintiff is not prejudiced.",
+          "Judicial Persuasion: This appeals to a judge's sense of fairness and practicality, making the request to preserve the writ seem reasonable and just.",
+          "Pre-emptive Defense: A defendant can try to counter this by arguing the plaintiff's rights are not yet 'established' and that preserving the writ is unduly prejudicial."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Pawluk v. Bank of Montreal (1990), 73 Alta. L.R. (2d) 266 (C.A.)"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-20-unconditional-vacation-of-writ",
+      "node_type": "ControlMechanism",
+      "label": "Unconditional Vacation of Writ",
+      "description": "A writ of execution cannot be preserved and must be vacated unconditionally if the underlying judgment is set aside because the cause of action is unfounded or the judgment was entered in breach of a technical requirement.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_010_s024",
+        "part9_part_9_judgments_and_orders_010_s025"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_010_s024",
+            "text": "If that judgment is set aside because the cause of action is totally unfounded, then clearly the writ cannot and, in my view, would not be given any continuing status or effect.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_010",
+            "section_heading": "Rule 9.20 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_010_s025",
+            "text": "Similarly, if the judgment was entered in breach of some technical requirement, then it should be vacated unconditionally.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_010",
+            "section_heading": "Rule 9.20 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.20 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is the direct countermeasure for a defendant against a plaintiff's attempt to preserve a writ. It carves out exceptions where the court's discretion to impose conditions does not apply, providing a complete defense against the 'Zombie Writ' play.",
+        "litigation_implications": [
+          "Defensive Strategy: When applying to set aside a default judgment, frame the reason as a fundamental flaw (unfounded claim, technical breach) to argue for unconditional vacation of any writs.",
+          "Counter-Argument: Directly counters the plaintiff's 'balancing indulgence' argument by showing the plaintiff was never entitled to the judgment in the first place.",
+          "Risk for Plaintiff: A plaintiff who obtained a judgment improperly risks not only having it set aside but also losing any security obtained via enforcement."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Pawluk v. Bank of Montreal (1990), 73 Alta. L.R. (2d) 266 (C.A.)"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-21-judgment-renewal-mechanism",
+      "node_type": "ControlMechanism",
+      "label": "Judgment Renewal Mechanism",
+      "description": "Allows a judgment creditor to apply for a new judgment on a former, unpaid judgment, effectively resetting the limitation period for enforcement.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_012_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_012_s001",
+            "text": "(1) On application, the Court may grant a judgment creditor a new judgment or order on a former judgment or any part of it that has not been paid.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_012",
+            "section_heading": "Rule 9.21 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.21(1)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a critical tool for creditors holding long-term unpaid debts. It prevents a judgment from expiring due to the passage of time, ensuring that enforcement rights can be extended for another full limitation period.",
+        "litigation_implications": [
+          "Creditor Weapon: Use this rule proactively before the 10-year limitation period on a judgment expires to maintain enforceability.",
+          "Debtor Threat: The existence of this rule means a judgment can potentially be enforced indefinitely, increasing pressure on the debtor to settle.",
+          "Asset Management: For creditors managing portfolios of judgments, this rule is the basis for a calendaring system to track and renew judgments before they expire."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {
+          "limitation_period_tracker": "Alerts user when a judgment is approaching its expiry date, prompting a Rule 9.21 application."
+        },
+        "case_law_anchors": [
+          "Sanders v. Nousek, [1975] 3 W.W.R. 125 (Alta. Master)"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-21-limitation-period-filing-deadline",
+      "node_type": "ProceduralTrap",
+      "label": "Inextensible Limitation Period for Renewal",
+      "description": "The application to renew a judgment must be filed before the expiry of the limitation period under the Limitations Act. This deadline is absolute and cannot be extended by the court.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_012_s007",
+        "part9_part_9_judgments_and_orders_014_s070",
+        "part9_part_9_judgments_and_orders_014_s078"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_012_s007",
+            "text": "(a) be filed before the expiry of the limitation period under the Limitations Act for an action on the judgment, and",
+            "paragraph_id": "part9_part_9_judgments_and_orders_012",
+            "section_heading": "Rule 9.21 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_014_s070",
+            "text": "Limitation Dates In Ginn v. Feng, 2021 ABQB 292, 2021 CarswellAlta 978, 26 Alta. L.R. (7th) 385, Justice Grosse concluded that a limitation date incorporated by reference into Rule 9.21(3)(a) cannot be changed by applying Rule 13.5.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_014",
+            "section_heading": "Rule 9.21 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.21(3)(a)",
+          "Rule 9.21 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a 'sudden death' trap for creditors. Missing this deadline by even one day is fatal and renders the judgment permanently unenforceable. For debtors, it is the ultimate defense against a stale judgment.",
+        "litigation_implications": [
+          "Debtor's Shield: If a creditor applies to renew after the limitation period has expired, the application is dead on arrival.",
+          "Creditor's Peril: This is the single most critical date for a judgment creditor to calendar. There is no recourse for missing it.",
+          "Finality: Provides a hard stop, ensuring that judgments do not linger in perpetuity without proactive renewal by the creditor."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "All Rule 9.21 applications must be filed before the 10-year anniversary of the original judgment.",
+          "risk_assessment": "Catastrophic. Failure results in total loss of the asset (the judgment).",
+          "audit_trigger": "Any judgment in a portfolio reaching 9 years of age triggers a mandatory review for renewal."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Ginn v. Feng, 2021 ABQB 292"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-21-defective-notice-nullity-risk",
+      "node_type": "ProceduralTrap",
+      "label": "Defective Notice Nullity Risk",
+      "description": "Failure to include explicit 'show cause' language in the notice of motion for a judgment renewal can render the entire proceeding a nullity, as it is a condition precedent.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_014_s028",
+        "part9_part_9_judgments_and_orders_014_s039"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_014_s039",
+            "text": "I think not … If, as I have already concluded, explicit and clear notice to the judgment debtor of this required appearance on return of motion is imperative, then such notice becomes a condition precedent and the omission thereof renders the notice of motion itself and the action dependant thereon alike a nullity … … R.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_014",
+            "section_heading": "Rule 9.21 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.21 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a subtle but lethal trap for a creditor. A debtor's lawyer can defeat a renewal application not on the merits, but on a technical drafting error in the notice. It weaponizes strict procedural compliance.",
+        "litigation_implications": [
+          "Debtor's Ambush: Scrutinize the creditor's notice of motion. If the 'show cause' language is missing, argue the application is a nullity, citing Sanders v. Nousek.",
+          "Creditor's Drafting Standard: Templates for Rule 9.21 applications must include the specific 'show cause' language to be defensible.",
+          "Procedural Warfare: This highlights how victory can be achieved by exploiting an opponent's procedural sloppiness, regardless of the underlying debt."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {
+          "document_template_validator": "Scans Rule 9.21 notices of motion to ensure the mandatory 'show cause' phrasing is present."
+        },
+        "case_law_anchors": [
+          "Sanders v. Nousek, [1975] 3 W.W.R. 125 (Alta. Master)"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-21-inapplicability-of-delay-rule",
+      "node_type": "WarfareFramework",
+      "label": "Inapplicability of 'Drop Dead' Rule (4.33)",
+      "description": "The rule requiring litigants to advance their action every three years (Rule 4.33) does not apply to post-judgment renewal applications under Rule 9.21. The obligation is on the debtor to pay, not on the creditor to actively collect.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_014_s050",
+        "part9_part_9_judgments_and_orders_014_s061",
+        "part9_part_9_judgments_and_orders_014_s063"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_014_s061",
+            "text": "V. — Conclusion 23 Policy considerations favour an obligation on a Judgment Debtor to satisfy a judgment, not an obligation on a Judgment Creditor to take steps to collect on a judgment See Canadian Imperial Bank of Commerce v Lau, 2009 ABQB 326 at para.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_014",
+            "section_heading": "Rule 9.21 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_014_s063",
+            "text": "For this policy reason, and for the interpretation of the rules as set out in the foregoing sections, I find that rule 4.33 does not apply to applications made pursuant to rule 9.21.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_014",
+            "section_heading": "Rule 9.21 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.21 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This framework provides a powerful shield for creditors. It preemptively defeats a common debtor argument that the creditor 'slept on their rights'. It clarifies that the post-judgment landscape has different rules, placing the onus squarely on the debtor.",
+        "litigation_implications": [
+          "Creditor's Shield: When bringing a renewal application, this principle shuts down any defense based on a lack of collection activity.",
+          "Debtor's Hurdle: A debtor cannot use the creditor's passivity as a reason to deny renewal; they must find another basis to 'show cause'.",
+          "Strategic Patience: Creditors can wait for a debtor's financial situation to improve before renewing and enforcing, without fear of a delay-based dismissal."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Alberta Treasury Branches v. Canadian Egg Processing Inc., 2014 ABQB 548",
+          "Canadian Imperial Bank of Commerce v Lau, 2009 ABQB 326"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-21-debtor-onus-to-show-cause",
+      "node_type": "FoundationalPillar",
+      "label": "Debtor's Onus to Show Cause",
+      "description": "In a judgment renewal application under Rule 9.21, the burden of proof is on the judgment debtor to demonstrate a reason why a new judgment should not be issued.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_012_s010",
+        "part9_part_9_judgments_and_orders_014_s064"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_014_s064",
+            "text": "24 An application pursuant to rule 9.21 requires the Judgment Debtor to show cause why a new judgment should not be issued.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_014",
+            "section_heading": "Rule 9.21 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.21(5)",
+          "Rule 9.21 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This pillar reverses the typical onus. The creditor's application is presumptively valid if procedurally correct. The debtor is put on the defensive and must actively prove a reason (e.g., payment, fraud) to defeat the application. This significantly lowers the creditor's burden at the hearing.",
+        "litigation_implications": [
+          "Creditor's Advantage: The creditor's main task is to prove the procedural requirements were met; the merits of the original debt are not re-litigated.",
+          "Debtor's Burden: The debtor cannot simply deny the debt; they must bring positive evidence to show cause, which is a much higher bar.",
+          "Default Judgment Risk: If the debtor fails to appear and show cause, the court may grant the new judgment by default, provided service and non-payment are proven."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Alberta Treasury Branches v. Canadian Egg Processing Inc., 2014 ABQB 548"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-22-judgment-satisfaction-order",
+      "node_type": "ControlMechanism",
+      "label": "Judgment Satisfaction Order Mechanism",
+      "description": "Provides a mechanism for a party to obtain a court order declaring a judgment has been satisfied, which is then recorded by the court clerk, providing finality.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_016_s001",
+        "part9_part_9_judgments_and_orders_016_s003"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_016_s001",
+            "text": "(1) On application, the Court may make an order that a judgment or order has been satisfied.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_016",
+            "section_heading": "Rule 9.22 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.22"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a debtor's tool for achieving finality. If a creditor refuses to acknowledge payment or discharge a writ, this mechanism allows the debtor to force the issue through the court, formally clearing their name and credit record.",
+        "litigation_implications": [
+          "Offensive (Debtor): Use this to compel a recalcitrant creditor to acknowledge a satisfied debt and to get writs discharged from property.",
+          "Defensive (Creditor): If a debtor brings this application, be prepared with a detailed accounting to prove the judgment is not fully satisfied (e.g., outstanding post-judgment interest, assessed costs).",
+          "Procedural Trap: The application has specific form (Form 41) and service requirements (same as a commencement document), which if not followed, can be grounds for the creditor to have the application struck."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-23-enforce-against-unserved-partner",
+      "node_type": "ControlMechanism",
+      "label": "Enforcement Against Unserved Partner",
+      "description": "Allows a judgment creditor to apply to the Court to enforce a judgment against a partnership against a person alleged to be a partner, even if that person was not served in the original action.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_018_s006"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_018_s006",
+            "text": "(3) If after a judgment or order has been made against a partnership in the partnership name the party obtaining it claims to be entitled to enforce it against a person alleged to be a partner who was not served in accordance with rule 2.3(1), the party may apply to the Court to enforce the order or judgment against the alleged partner, and even though no notice was served under rule 2.3(1), the Court may permit the party to enforce the judgment or order",
+            "paragraph_id": "part9_part_9_judgments_and_orders_018",
+            "section_heading": "Rule 9.23 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.23(3)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a post-judgment tool to expand the pool of assets available for recovery. If a creditor discovers a 'silent' or previously unknown partner after obtaining judgment against the firm, this rule provides the mechanism to hold that individual personally liable.",
+        "litigation_implications": [
+          "Post-Judgment Discovery: Allows a creditor to leverage information found during post-judgment questioning (Rule 9.29) to add new individuals to the enforcement action.",
+          "Piercing the Veil: A key tool for pursuing the personal assets of partners when the partnership's assets are insufficient.",
+          "Mini-Trial: If the alleged partner disputes their status, the court can direct a trial of that specific issue, creating a focused secondary litigation."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "fp-r9-23-plaintiff-burden-to-prove-partnership",
+      "node_type": "FoundationalPillar",
+      "label": "Plaintiff's Burden to Prove Partnership",
+      "description": "When seeking to enforce a judgment against an alleged partner, the burden of proof is on the plaintiff to affirmatively prove the existence of the partnership or an estoppel.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_020_s020",
+        "part9_part_9_judgments_and_orders_020_s027"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_020_s027",
+            "text": "Justice Stuart makes it clear that the burden of proof is on the plaintiff to prove affirmatively “that they in fact relied upon the general reponsibility of the firms as they had been doing business with it and getting paid and in the belief that the same persons were behind it as before.”Canadian Imperial Bank of Commerce v.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_020",
+            "section_heading": "Rule 9.23 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.23 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This pillar establishes the evidentiary threshold for a creditor seeking to expand enforcement to an individual partner. It serves as a defensive shield for individuals, requiring the creditor to do more than merely allege partnership; they must prove it with evidence.",
+        "litigation_implications": [
+          "Creditor's Hurdle: The creditor must gather evidence of partnership (e.g., agreements, conduct, public representations) before bringing a Rule 9.23(3) application.",
+          "Defendant's Shield: An alleged partner can defend by putting the creditor to the strict proof of the partnership's existence.",
+          "Discovery Tool: A creditor may need to use post-judgment questioning (Rule 9.29) to gather the evidence needed to meet this burden."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Canadian Imperial Bank of Commerce v. Freeland (1991), 78 Alta. L.R. (2d) 281 (Master)",
+          "McKinnon v. Ewing, 19 Alta. L.R. 443 (C.A.)"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-24-pre-judgment-transfer-vulnerability",
+      "node_type": "FoundationalPillar",
+      "label": "Pre-Judgment Transfer Vulnerability",
+      "description": "To challenge a fraudulent conveyance, a creditor does not need to have obtained their judgment at the time of the impugned transfer. The rule protects those who are creditors at the time of the transfer, even if their claim is not yet liquidated into a judgment.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s004",
+        "part9_part_9_judgments_and_orders_022_s005"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_022_s005",
+            "text": "(1), need not have obtained judgment at the time of the impugned transfer or conveyance.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_022",
+            "section_heading": "Rule 9.24 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.24(3)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a crucial anti-avoidance principle. It prevents a debtor from pre-emptively transferring assets to defeat a known or anticipated claim before it crystallizes into a formal judgment. It significantly expands the 'look-back' window for a creditor's attack.",
+        "litigation_implications": [
+          "Creditor's Weapon: Allows a creditor to challenge asset transfers that occurred during litigation or even before the lawsuit was filed.",
+          "Debtor's Risk: Any asset transfer made while a potential liability exists is vulnerable to being clawed back later.",
+          "Due Diligence: When acting for a purchaser of assets from a party facing potential litigation, this rule highlights the risk that the transaction could be unwound."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Sauer v. Sauer (1981), 33 A.R. 164 (Q.B.)"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-24-remedy-limitation-no-money-judgment",
+      "node_type": "ControlMechanism",
+      "label": "Fraudulent Conveyance Remedy Limitation",
+      "description": "The remedy under Rule 9.24 is limited to striking down the conveyance or ordering the sale of the property. It does not authorize the Court to grant a monetary judgment against the non-party who received the property.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_024_s022",
+        "part9_part_9_judgments_and_orders_024_s023"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_024_s023",
+            "text": "Rule 9.24, in conjunction with the Fraudulent Preferences Act and the Statute of Elizabeth, is limited to striking down the alleged fraudulent conveyance or ordering the sale of the property wrongfully conveyed.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_024",
+            "section_heading": "Rule 9.24 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.24 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This acts as a shield for the third-party transferee. While they may lose the asset, they are not exposed to a personal judgment for damages or compensation under this specific rule. It defines the boundaries of the creditor's attack.",
+        "litigation_implications": [
+          "Transferee's Defense: A non-party transferee can use this to limit their exposure to the loss of the specific asset, protecting their other assets.",
+          "Creditor's Strategy: A creditor must understand that this tool recovers the asset itself, but does not create a new source of monetary recovery from the transferee.",
+          "Pleading Precision: A creditor's application should seek an order for sale or to set aside the conveyance, not a monetary judgment against the transferee."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "336239 Alberta Ltd. v. Mella, 2016 ABQB 190"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-25-defective-possession-order-wording",
+      "node_type": "ProceduralTrap",
+      "label": "Defective Possession Order Wording Trap",
+      "description": "An order of possession is procedurally defective if it does not include a statement that a civil enforcement agency has the authority to evict occupants after service.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_026_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_026_s002",
+            "text": "(2) A judgment or order of possession must include a statement to the effect that a civil enforcement agency has authority, after service of the order has been effected, to evict any occupant of the land.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_026",
+            "section_heading": "Rule 9.25 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.25(2)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a trap for a careless creditor or landlord. An occupant can challenge the validity of an eviction if the foundational order is missing this mandatory language, forcing the creditor back to court to amend the order and causing significant delay.",
+        "litigation_implications": [
+          "Defensive (Occupant): Scrutinize the possession order. If this wording is missing, the order is defective and can be challenged, halting the eviction process.",
+          "Offensive (Creditor): Ensure all draft orders of possession include this precise language to preempt any procedural challenges.",
+          "Cost Warfare: A successful challenge forces the creditor to incur the costs of amending their order and re-serving it, while the occupant remains in possession."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {
+          "order_template_validator": "Scans draft orders of possession to confirm the presence of mandatory Rule 9.25(2) language."
+        },
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-26-eviction-without-affidavit-of-service",
+      "node_type": "ProceduralTrap",
+      "label": "Eviction Without Proof of Service Trap",
+      "description": "A civil enforcement agency is barred from evicting an occupant until it is satisfied that the order of possession has been served on every occupant and an affidavit of service has been filed.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_028_s003",
+        "part9_part_9_judgments_and_orders_028_s004",
+        "part9_part_9_judgments_and_orders_028_s005"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_028_s005",
+            "text": "(ii) an affidavit of service has been filed by the person who has the judgment or order of possession.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_028",
+            "section_heading": "Rule 9.26 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.26(1)(b)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a critical shield for occupants, ensuring due process. For a creditor, it's a non-negotiable procedural step. Failure to file the affidavit of service can halt an eviction at the last minute, causing significant delay, cost, and potential loss of the scheduled enforcement agency appointment.",
+        "litigation_implications": [
+          "Defensive (Occupant): If a bailiff arrives, demand to see proof that the affidavit of service has been filed with the court. If not, the eviction is improper and cannot proceed.",
+          "Offensive (Creditor): File the affidavit of service immediately after serving the order and provide a filed copy to the civil enforcement agency to prevent any delays on the eviction date.",
+          "Last-Minute Injunction: An occupant could bring an emergency application to stay the eviction if this procedural step was missed, creating chaos for the creditor."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-27-no-duty-to-remove-property",
+      "node_type": "ControlMechanism",
+      "label": "No Duty to Remove Personal Property",
+      "description": "A person enforcing an order of possession is not required to remove personal property left on the premises, shielding them from the cost and liability of handling the evicted person's belongings.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_030_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_030_s001",
+            "text": "(1) A person who enforces a judgment or order of possession in respect of premises need not remove personal property from the premises.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_030",
+            "section_heading": "Rule 9.27 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.27(1)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a critical cost-avoidance and liability shield for landlords and lenders. It places the onus and cost of dealing with abandoned property squarely on the evicted party, preventing the enforcing party from being saddled with unwanted goods and potential claims for damages.",
+        "litigation_implications": [
+          "Cost Shield: The enforcing party (e.g., a landlord) does not have to pay for movers or storage for an evicted tenant's belongings.",
+          "Liability Shield: Protects the enforcing party from claims that they damaged or lost the property during removal and storage.",
+          "Leverage: The practical effect is that the evicted party must make their own arrangements to remove their property, or risk it being treated as abandoned under Rule 9.28."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-28-dispose-low-value-goods",
+      "node_type": "ControlMechanism",
+      "label": "Disposal of Low-Value Abandoned Goods",
+      "description": "A judgment holder may dispose of abandoned goods if they have a reasonable belief that the market value is less than $2000.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_032_s006"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_032_s006",
+            "text": "(2) A judgment holder may dispose of abandoned goods if the judgment holder believes on reasonable grounds that the abandoned goods have a market value of less than $2000.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_032",
+            "section_heading": "Rule 9.28 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.28(2)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This provides a fast and low-cost method for a judgment holder to clear out premises without the burden of storing or selling low-value items. The 'reasonable belief' standard provides a degree of protection, but also creates a potential attack vector for the debtor.",
+        "litigation_implications": [
+          "Offensive (Creditor): Quickly clear premises of abandoned junk to prepare for re-letting or sale, minimizing carrying costs.",
+          "Defensive (Debtor): Challenge the disposal by arguing the creditor's belief about the value was not reasonable, potentially leading to a claim for damages.",
+          "Risk Management: The creditor should document the basis for their belief (e.g., photos, quick online searches for similar items) to defend against a later challenge."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-28-one-month-storage-duty",
+      "node_type": "ProceduralTrap",
+      "label": "One-Month Storage Duty for High-Value Goods",
+      "description": "If abandoned goods are worth $2000 or more and are not perishable, the judgment holder has a mandatory duty to store them for one month before they can be sold.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_032_s013"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_032_s013",
+            "text": "(a) must store or arrange for storage of the abandoned goods on behalf of the owner or person entitled to possession for one month after the date of their abandonment, and",
+            "paragraph_id": "part9_part_9_judgments_and_orders_032",
+            "section_heading": "Rule 9.28 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.28(4)(a)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This trap imposes a positive duty and a cost on the judgment holder. Failure to comply with the one-month waiting period before selling the goods is a breach of the rule and exposes the judgment holder to a claim for conversion or damages from the debtor.",
+        "litigation_implications": [
+          "Debtor's Weapon: If a creditor sells valuable goods prematurely, the debtor has a clear cause of action for the value of the goods.",
+          "Creditor's Burden: The creditor must incur storage costs for one month, which can be significant for bulky items.",
+          "Compliance is Key: A creditor must strictly adhere to this waiting period to access the liability shield provided later in the rule."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-28-liability-shield",
+      "node_type": "ControlMechanism",
+      "label": "Liability Shield for Proper Disposal",
+      "description": "No liability attaches to a person who disposes of or sells abandoned goods in accordance with the specific subrules of Rule 9.28.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_032_s016"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_032_s016",
+            "text": "(6) No liability attaches to a person for (a) selling abandoned goods under subrule (3) or (4)(b), or (b) disposing of abandoned goods under subrule (2) or (5).",
+            "paragraph_id": "part9_part_9_judgments_and_orders_032",
+            "section_heading": "Rule 9.28 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.28(6)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is the 'safe harbor' for a judgment holder. By meticulously following the procedural steps for valuing, storing, and selling abandoned goods, the judgment holder is immunized from later claims by the debtor that the goods were mishandled or sold improperly.",
+        "litigation_implications": [
+          "Creditor's Shield: A complete defense to a lawsuit from a debtor, provided the creditor can prove they followed the rules.",
+          "Incentivizes Compliance: The existence of the shield is a powerful incentive for creditors to follow the process to the letter.",
+          "Shifts Burden to Debtor: To succeed in a claim, the debtor must prove the creditor failed to follow the procedural requirements of Rule 9.28."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-28-three-year-record-keeping",
+      "node_type": "ProceduralTrap",
+      "label": "Three-Year Record-Keeping Duty",
+      "description": "A judgment holder must keep detailed records of the disposition of abandoned goods for at least three years after the event.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_032_s035"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_032_s035",
+            "text": "(13) A judgment holder must keep a record referred to in subrule (12) as it relates to abandoned goods for at least 3 years after the goods were returned, sold or disposed of, as the case may be.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_032",
+            "section_heading": "Rule 9.28 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.28(13)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This creates a long-tail liability risk for the judgment holder. A debtor could bring a claim two years after the fact, and if the creditor has failed to keep the required records, they will be unable to prove they complied with the rule and may lose the protection of the liability shield.",
+        "litigation_implications": [
+          "Debtor's Late-Game Attack: A debtor can demand the records years later. If the creditor cannot produce them, it creates a presumption of improper conduct.",
+          "Creditor's Administrative Burden: Imposes a long-term administrative requirement on creditors to maintain files on closed matters.",
+          "Evidence Preservation: Failure to keep these records is effectively a failure to preserve the evidence needed to defend a future claim."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "All records related to Rule 9.28 dispositions must be retained for a minimum of three years.",
+          "risk_assessment": "Moderate. Failure to comply undermines the liability shield and can lead to damages.",
+          "audit_trigger": "Any legal claim from a debtor regarding abandoned goods will trigger a demand for these records."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "cm-r9-29-post-judgment-questioning",
+      "node_type": "ControlMechanism",
+      "label": "Post-Judgment Questioning",
+      "description": "The Court may, on application, order any person to be questioned under oath to assist in the enforcement of a judgment or order, effectively acting as a post-judgment discovery tool.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_034_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_034_s001",
+            "text": "(1) To enforce or assist in the enforcement of a judgment or order, the Court, on application, may order a person to attend before a person named by the Court to be questioned under oath about a matter in the judgment or order.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_034",
+            "section_heading": "Rule 9.29 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.29(1)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a primary offensive weapon for a judgment creditor facing a debtor who is hiding assets. It allows the creditor to compel the debtor, their family members, business associates, or financial institutions to reveal information about assets, income, and financial transactions under oath.",
+        "litigation_implications": [
+          "Asset Tracing: The primary tool for locating hidden bank accounts, property, or sources of income.",
+          "Third-Party Pressure: Can be used to question a debtor's spouse, employer, or accountant to uncover information the debtor will not volunteer.",
+          "Contempt Risk: Failure to attend or answer truthfully can lead to contempt of court proceedings, creating significant leverage against the person being questioned.",
+          "Information Warfare: Gathers intelligence for further enforcement steps like garnishment or seizure."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-30-affidavit-of-value-prerequisite",
+      "node_type": "ProceduralTrap",
+      "label": "Affidavit of Value Prerequisite",
+      "description": "In a foreclosure action, an affidavit of value must be filed before an application for a redemption order, order for sale, or foreclosure order can be made.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_036_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_036_s001",
+            "text": "Unless the Court otherwise orders, an affidavit of value must be filed before an application is filed for",
+            "paragraph_id": "part9_part_9_judgments_and_orders_036",
+            "section_heading": "Rule 9.30 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.30"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a procedural gate that must be passed. For a defendant, it's a simple but effective way to attack a lender's application. If the affidavit is missing or defective, the application is improper and can be adjourned or dismissed, causing delay and cost for the lender.",
+        "litigation_implications": [
+          "Defendant's Preliminary Objection: A defendant can immediately challenge a foreclosure application if the affidavit of value has not been filed.",
+          "Lender's Checklist: A non-negotiable step for a lender's counsel. The cost of an appraisal and affidavit is a required disbursement before proceeding.",
+          "Delay Tactic: Can be used by a defendant to buy time by forcing the lender to adjourn to obtain and file the required evidence."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Tucson Properties Ltd. v. Sentry Resources Ltd. (1982), 39 A.R. 341 (Master)"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-30-unsworn-appraisal-is-hearsay",
+      "node_type": "ProceduralTrap",
+      "label": "Unsworn Appraisal as Inadmissible Hearsay",
+      "description": "Attempting to introduce property value evidence by simply attaching an unsworn appraisal report to an affidavit is an improper attempt to circumvent hearsay rules. The evidence is inadmissible and will be ignored by the court.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_038_s055",
+        "part9_part_9_judgments_and_orders_038_s056",
+        "part9_part_9_judgments_and_orders_038_s058",
+        "part9_part_9_judgments_and_orders_038_s059"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_038_s056",
+            "text": "This objectionable practice of attempting to circumvent the inadmissibility of hearsay evidence is, unfortunately, all too common.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_038",
+            "section_heading": "Rule 9.30 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_038_s059",
+            "text": "Being hearsay, such evidence is inadmissible and cannot be considered.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_038",
+            "section_heading": "Rule 9.30 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.30 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is an evidentiary trap that can gut an opponent's case on value. By identifying and attacking this procedural flaw, a party can have the opposing side's primary valuation evidence struck from the record, leaving them with no evidence on a key issue.",
+        "litigation_implications": [
+          "Evidentiary Attack: Bring a motion or make a preliminary objection to strike any valuation evidence based on an unsworn report.",
+          "Precludes Cross-Examination: Argue that this improper method prevents you from cross-examining the actual appraiser on their methodology and conclusions.",
+          "Proper Procedure: The correct method is to have the appraiser swear an affidavit themselves, annexing their report as an exhibit.",
+          "Cost Implications: Successfully striking an opponent's evidence may lead to an adjournment with costs against them."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Webmor Financial v. James M. Drummond Holdings Ltd. (1981), 33 A.R. 493 (Master)"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-31-filing-prerequisites-for-foreclosure-orders",
+      "node_type": "ProceduralTrap",
+      "label": "Filing Prerequisites for Foreclosure Orders",
+      "description": "Before applying for key foreclosure orders (e.g., sale, redemption), a plaintiff must file certified current titles and, if applicable, current Personal Property Registry searches.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_040_s001",
+        "part9_part_9_judgments_and_orders_040_s002",
+        "part9_part_9_judgments_and_orders_040_s003"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_040_s001",
+            "text": "Before an application is filed for a redemption order, an order that secured property be offered for sale, a foreclosure order, an order confirming sale, an order for sale to the plaintiff or an order appointing a receiver, the plaintiff must file",
+            "paragraph_id": "part9_part_9_judgments_and_orders_040",
+            "section_heading": "Rule 9.31 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.31"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is another procedural gatekeeper in foreclosure actions. It ensures the court has up-to-date information on all registered interests. For a defendant or subsequent encumbrancer, the plaintiff's failure to file these documents is a simple, effective basis to have the application adjourned, creating delay and forcing the plaintiff to incur more costs.",
+        "litigation_implications": [
+          "Defendant's Attack Vector: At the start of a hearing, check the court file. If the required searches are missing or stale, raise a preliminary objection.",
+          "Lender's Compliance Burden: A mandatory, non-negotiable step. Lenders must have a process to pull these searches just before filing their application.",
+          "Delay and Cost: Successfully using this trap forces an adjournment and requires the lender to spend more money on new searches and legal fees for the re-hearing."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "fp-r9-32-court-as-seller-in-judicial-sale",
+      "node_type": "FoundationalPillar",
+      "label": "Court as Seller in Judicial Sale",
+      "description": "In a judicial sale process under the Rules, the Court itself is the seller, not the mortgagee or creditor. The sale is conducted under the authority of the Court.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_044_s017",
+        "part9_part_9_judgments_and_orders_044_s020",
+        "part9_part_9_judgments_and_orders_044_s030"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_044_s017",
+            "text": "Under Rule 9.32 of the Alberta Rules of Court, the Court, not the mortgagee, is authorized to sell property through the judicial sale process: • Rule 9.32(1)—the Court may offer secured property for sale at a time and place, in a manner and at a price that the Court considers appropriate.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_044",
+            "section_heading": "Rule 9.32 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_044_s020",
+            "text": "King Art Developments Ltd., 1984 ABCA 182 at para 188, Laycraft J.A. stated: • Since 1934 in Alberta the court, and not the mortgagee, conducts the sale.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_044",
+            "section_heading": "Rule 9.32 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.32 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This foundational principle fundamentally alters the legal relationship between the parties. It means there is no contract between the mortgagee and the purchaser. This shields the mortgagee from claims by a disgruntled purchaser (e.g., for misrepresentation) and clarifies that the purchaser's only recourse is through the court and the terms of the vesting order.",
+        "litigation_implications": [
+          "Shields Mortgagee: A mortgagee can defend against claims from a purchaser by asserting that the Court, not the mortgagee, was the seller.",
+          "Limits Purchaser Rights: A purchaser's rights are strictly defined by the court order confirming the sale, not by any representations made by the mortgagee or its realtor.",
+          "Clarifies Duties: The Court's primary duty is to the mortgagor and other encumbrancers to get the best price, not to the purchaser.",
+          "Defines the Arena: All disputes regarding the sale must be resolved within the foreclosure action, not in a separate contract lawsuit."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Chief Construction Company Inc. v. Royal Bank of Canada, 2017 ABQB 589",
+          "Canada Permanent Trust Co. v. King Art Developments Ltd., 1984 ABCA 182",
+          "Calvert Home Mortgage Investment Corp. v. Ro/Lin Holdings Ltd., 2007 ABCA 259"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-33-falling-market-valuation-penalty",
+      "node_type": "ControlMechanism",
+      "label": "Falling Market Valuation Penalty",
+      "description": "In a falling market, if a lender delays applying for a sale order to itself (a 'Rice order'), the court may set the purchase price at the higher value that existed when the lender was first entitled to apply, not the lower current value.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_048_s015",
+        "part9_part_9_judgments_and_orders_048_s025"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_048_s015",
+            "text": "3 In a falling market, if the lender has delayed in applying for a Rice order, then the court may refuse to sell the property for the current fair market value and instead require the offer to purchase to be at an earlier, higher value.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_048",
+            "section_heading": "Rule 9.33 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_048_s025",
+            "text": "93, where, at paragraph 4, the Court states that the purchase price used in a Rice order should be assessed “on the day when the mortgagee was first entitled to apply for such an order, or the day when such an order is indeed obtained, whichever is the higher”.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_048",
+            "section_heading": "Rule 9.33 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.33 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a powerful defensive weapon for a borrower in a declining market. It prevents a lender from strategically delaying proceedings to maximize a deficiency judgment. It forces the lender to bear the risk of market decline if they do not act promptly.",
+        "litigation_implications": [
+          "Borrower's Defense: Argue that the lender's delay has artificially inflated the deficiency and that the valuation date should be back-dated.",
+          "Lender's Risk: Creates a significant financial risk for lenders who do not move swiftly to obtain a Rice order after the redemption period expires.",
+          "Evidence Requirement: The borrower must be prepared to file evidence of the property's value at the earlier date to make this argument successfully.",
+          "Reduces Deficiency: Can substantially reduce or eliminate a borrower's personal liability on a deficiency judgment."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Yorkshire Trust v. Armwest Development, 1985 CarswellAlta 210",
+          "Scotia Mortgage Corp. v. Manzouri, 2012 ABQB 395",
+          "Resmor Trust Company v. Rahman, 2011 ABQB 725"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-34-one-month-confirmation-deadline",
+      "node_type": "ProceduralTrap",
+      "label": "One-Month Sale Confirmation Deadline",
+      "description": "When a property is sold by court-filed tenders, the plaintiff must apply for an order confirming the sale within one month of the tender receipt deadline.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_050_s004"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_050_s004",
+            "text": "(2) The application must be scheduled for hearing not more than one month after the date set for the receipt of tenders.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_050",
+            "section_heading": "Rule 9.34 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.34(2)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This trap protects tenderers by ensuring their deposits are not tied up indefinitely. For a competing bidder or the debtor, a plaintiff's failure to meet this deadline can be grounds to challenge the confirmation of the sale, potentially forcing the process to be restarted.",
+        "litigation_implications": [
+          "Attack Vector: If the plaintiff misses the one-month deadline, an interested party (like the debtor or another bidder) can argue the application is out of time and should be dismissed.",
+          "Plaintiff's Obligation: A critical deadline for the plaintiff's lawyer to calendar to ensure the sale process is not jeopardized.",
+          "Tenderer's Right: The commentary notes this rule is for the benefit of tenderers, who can use it to demand a swift decision and the return of their deposit if the process stalls."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Yorkshire Trust Co. v. H.B. Nielson Management (1984), 34 Alta. L.R. (2d) 174 (Q.B.)"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-35-contractual-costs-entitlement",
+      "node_type": "FoundationalPillar",
+      "label": "Contractual Costs Entitlement in Foreclosure",
+      "description": "A mortgagee is entitled to its legal costs on the basis contractually agreed to in the mortgage (e.g., full indemnity), and the Court cannot refuse such costs unless the mortgagee has been guilty of inequitable conduct.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_056_s057",
+        "part9_part_9_judgments_and_orders_056_s061",
+        "part9_part_9_judgments_and_orders_056_s064"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_056_s057",
+            "text": "His Lordship said: 25 Simply put, as a matter of law, a mortgagee is entitled to its costs on the basis of the contractual terms as set out in the mortgage and such costs cannot be refused by the Court unless the mortgagee has been guilty of inequitable conduct.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_056",
+            "section_heading": "Rule 9.35 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.35 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This pillar solidifies the lender's right to be made whole for its legal expenses, as per the contract. It severely limits the Court's discretion to reduce costs, shifting the battleground from 'entitlement' to the narrow issue of whether the lender's conduct was 'inequitable'.",
+        "litigation_implications": [
+          "Lender's Position: The starting and ending point for a lender's argument on costs is the mortgage agreement itself.",
+          "Borrower's Limited Defense: A borrower's only viable defense against full indemnity costs is to prove specific inequitable conduct by the lender (e.g., misconduct, sharp practice).",
+          "High Bar for Reduction: It establishes a very high bar for a court to interfere with a contractual right to costs."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "CIBC Mortgages Inc. v. Tuchsen, 2015 ABQB 241",
+          "Trinier v Shurnaik, 2011 ABCA 314"
+        ]
+      }
+    },
+    {
+      "node_id": "fp-r9-35-foreclosure-as-full-satisfaction",
+      "node_type": "FoundationalPillar",
+      "label": "Foreclosure as Full Satisfaction of Debt",
+      "description": "An order of foreclosure operates as full satisfaction of the debt secured by the mortgage, including any associated costs. Once a lender takes title to the property via foreclosure, they cannot pursue the borrower for any further amount.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_056_s121",
+        "part9_part_9_judgments_and_orders_056_s126",
+        "part9_part_9_judgments_and_orders_056_s142"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_056_s126",
+            "text": "101: The effect of that order is that it “operates as full satisfaction of the debt secured by the mortgage”.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_056",
+            "section_heading": "Rule 9.35 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_056_s142",
+            "text": "(a) the order operates as full satisfaction of the debt secured by the mortgage or encumbrance, and",
+            "paragraph_id": "part9_part_9_judgments_and_orders_056",
+            "section_heading": "Rule 9.35 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.35 Commentary",
+          "Law of Property Act, s. 44(1)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is the ultimate shield for a borrower in a foreclosure action. It forces the lender to a critical strategic choice: either take the property and walk away (foreclosure), or sell the property to a third party (or itself via Rice Order) and preserve the right to sue for a deficiency. A lender cannot do both.",
+        "litigation_implications": [
+          "Borrower's Ultimate Defense: If a lender obtains a final order of foreclosure, any personal liability for the debt, including costs, is extinguished.",
+          "Lender's Strategic Crossroads: The lender must decide if the value of the property is sufficient, or if they need to pursue a sale to preserve their right to a deficiency judgment.",
+          "Finality: A foreclosure order provides absolute finality for the borrower regarding their personal debt obligation."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Herron v. Cardston Credit Union Ltd., [1984] 33 Alta. L.R. (2d) 92 (C.A.)",
+          "Investors Group Trust Co. v. Hroshi Investments Ltd. (1985), 36 Alta. L.R. (2d) 171 (Master)"
+        ]
+      }
+    },
+    {
+      "node_id": "wf-r9-35-reasonableness-assessed-by-officer",
+      "node_type": "WarfareFramework",
+      "label": "Reasonableness of Costs Assessed by Officer",
+      "description": "The determination of the 'reasonableness' of legal fees, even those contractually set at 'full indemnity', is the domain of a review or assessment officer, not the judge granting the initial order. Inserting 'reasonable' into the order is redundant.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_056_s056",
+        "part9_part_9_judgments_and_orders_056_s077",
+        "part9_part_9_judgments_and_orders_056_s079"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_056_s056",
+            "text": "On appeal, Justice Nielsen, allowed the appeal, and held that the word “reasonable” should be removed as being redundant; the determination of what constituted “reasonable” legal fees was initially the domain of a review officer under Rules 10.9 and 10.17(1)(f).",
+            "paragraph_id": "part9_part_9_judgments_and_orders_056",
+            "section_heading": "Rule 9.35 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_056_s079",
+            "text": "The matter is then reviewed by the review officer for reasonableness.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_056",
+            "section_heading": "Rule 9.35 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.35 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This framework clarifies the division of labor between the judge and the assessment officer. It allows a lender to resist attempts by a judge to pre-emptively limit costs at the order stage, preserving the right to have the full, detailed bill reviewed by the specialized officer later.",
+        "litigation_implications": [
+          "Preserves Lender's Rights: A lender can argue against the inclusion of the word 'reasonable' in a costs order, ensuring their full contractual rights are preserved for the assessment stage.",
+          "Defers the Fight: The battle over the quantum of costs is deferred to the assessment officer, who will conduct a detailed, line-by-line review.",
+          "Borrower's Forum: The borrower's opportunity to challenge specific fees and disbursements as unreasonable is at the assessment hearing, not before the judge granting the main order."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "CIBC Mortgages Inc. v. Tuchsen, 2015 ABQB 241"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-36-mandatory-service-of-costs-bill",
+      "node_type": "ProceduralTrap",
+      "label": "Mandatory Service of Certified Bill of Costs",
+      "description": "The plaintiff must serve the certified bill of costs on every defendant and subsequent encumbrancer at the same time as the related foreclosure order is served.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_058_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_058_s001",
+            "text": "The plaintiff must serve the certified bill of costs under rule 10.43 on every defendant and subsequent encumbrancer when the order referred to in rule 9.35(1) is served.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_058",
+            "section_heading": "Rule 9.36 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.36"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a simple procedural trap. Failure to serve the bill of costs along with the order is a breach of the rules that can be used by a defendant to challenge the validity of the service or delay subsequent enforcement steps.",
+        "litigation_implications": [
+          "Defendant's Attack: If served with an order but not the bill of costs, a defendant can object to the service as incomplete and improper.",
+          "Plaintiff's Compliance: A simple but critical step in the service package for any foreclosure order. Omitting it creates an unnecessary procedural vulnerability.",
+          "Information Right: Ensures all parties have full transparency on the final amounts calculated in the order, including the assessed costs."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "fp-r9-38-late-higher-bid-irrelevant",
+      "node_type": "FoundationalPillar",
+      "label": "Late Higher Bid Irrelevant to Sale Confirmation",
+      "description": "A higher bid received after the close of a judicial sale process is not a valid ground for the court to refuse to confirm the sale to a lower, but properly submitted, bidder. This protects the integrity and finality of the judicial sale process.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_064_s005",
+        "part9_part_9_judgments_and_orders_064_s008"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_064_s005",
+            "text": "Effect of Higher Bid A higher bid does not afford a ground for refusing confirmation.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_064",
+            "section_heading": "Rule 9.38 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_064_s008",
+            "text": "If the court were to refuse an order confirming a judicial sale on the ground that a late bid was higher than a proper bid duly made and accepted, the system of judicial sales as it presently exists in this province would be destroyed.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_064",
+            "section_heading": "Rule 9.38 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.38 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This pillar ensures confidence in the judicial sale system. It provides a powerful argument for a successful bidder to enforce their right to the property, and shields the process from being undermined by last-minute attempts by the debtor or other parties to disrupt a completed sale.",
+        "litigation_implications": [
+          "Successful Bidder's Shield: A successful bidder can rely on this principle to ensure their purchase is confirmed, even if a higher offer emerges later.",
+          "Debtor's Limitation: A debtor cannot use a late, higher offer as a tactic to derail a sale they are unhappy with.",
+          "System Integrity: Upholds the finality of the bidding process, encouraging bidders to participate by assuring them the rules will be followed.",
+          "Attack Vector: The only way to challenge the sale is to find a flaw in the process itself (e.g., non-compliance with notice periods), not by simply finding a better price."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Saskatchewan Economic Development Co. v. Smith-Roles Ltd., [1988] 6 W.W.R. 343 (Sask. Q.B.)"
+        ]
+      }
+    },
+    {
+      "node_id": "pt-r9-38-non-compliance-voids-sale",
+      "node_type": "ProceduralTrap",
+      "label": "Non-Compliance with Sale Order Voids Sale",
+      "description": "Failure to strictly comply with the terms of a judicial sale order, such as notice and publication timelines, is a valid ground for refusing to confirm the sale.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_064_s014",
+        "part9_part_9_judgments_and_orders_064_s017"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_064_s014",
+            "text": "Clearly, therefore, there was non-compliance with that term of the order nisi for sale.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_064",
+            "section_heading": "Rule 9.38 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_064_s017",
+            "text": "Again there was non-compliance with the order nisi for judicial sale.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_064",
+            "section_heading": "Rule 9.38 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.38 Commentary"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is the direct countermeasure to the finality of a judicial sale. While a higher bid is irrelevant, a procedural flaw is fatal. It provides a powerful weapon for a debtor or unsuccessful bidder to invalidate a sale by meticulously auditing the plaintiff's compliance with the sale order.",
+        "litigation_implications": [
+          "Debtor's Last Stand: A debtor can defeat a sale by finding a procedural error, such as a newspaper ad running one day late.",
+          "Plaintiff's Peril: Strict compliance is mandatory. Any deviation, however minor, puts the entire sale at risk of being overturned.",
+          "Audit and Attack: The primary defensive tactic at a confirmation hearing is to audit the plaintiff's affidavit of advertising and compliance for any errors."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": [
+          "Saskatchewan Economic Development Co. v. Smith-Roles Ltd., [1988] 6 W.W.R. 343 (Sask. Q.B.)"
+        ]
+      }
+    },
+    {
+      "node_id": "cm-r9-44-ex-parte-registration-of-judgment",
+      "node_type": "ControlMechanism",
+      "label": "Ex Parte Registration of Foreign Judgment",
+      "description": "A creditor can apply to register a foreign (UK) judgment without notice to the debtor if the debtor was personally served in the original action or submitted to the original court's jurisdiction.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_076_s001"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_076_s001",
+            "text": "(1) An originating application for an order to register a convention judgment may be filed without notice to any other party if the convention judgment debtor",
+            "paragraph_id": "part9_part_9_judgments_and_orders_076",
+            "section_heading": "Rule 9.44 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.44(1)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This provides a significant tactical advantage to a foreign judgment creditor, allowing them to register their judgment and potentially file writs against Alberta assets before the debtor is even aware of the proceeding. It enables a 'first strike' capability to secure assets.",
+        "litigation_implications": [
+          "Creditor's First Strike: Register the judgment and file a writ against the debtor's property simultaneously, securing the asset before the debtor can react.",
+          "Element of Surprise: Prevents the debtor from moving or dissipating assets between being notified of the application and the order being granted.",
+          "Shifts Onus: Forces the debtor into a reactive position, where they must apply to set aside the registration after the fact, rather than opposing it proactively."
+        ],
+        "governance_overlay": {},
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    },
+    {
+      "node_id": "pt-r9-46-inextensible-set-aside-deadline",
+      "node_type": "ProceduralTrap",
+      "label": "Inextensible Deadline to Set Aside Registration",
+      "description": "A convention judgment debtor has a strict, non-extendable two-month period after being served to apply to set aside the registration of a foreign judgment that was registered without notice.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_080_s001",
+        "part9_part_9_judgments_and_orders_080_s002"
+      ],
+      "enrichment": {
+        "handbook_evidence": [
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_080_s001",
+            "text": "(1) If the Court hears an originating application without notice under rule 9.44 and makes an order granting part or all of the relief claimed, the convention judgment debtor may, within 2 months after being served with the order and registered convention judgment, apply to the Court to set aside that order and the registration of the convention judgment.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_080",
+            "section_heading": "Rule 9.46 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          },
+          {
+            "sentence_id": "part9_part_9_judgments_and_orders_080_s002",
+            "text": "(2) The time period set out in subrule (1) may not be extended under rule 13.5.",
+            "paragraph_id": "part9_part_9_judgments_and_orders_080",
+            "section_heading": "Rule 9.46 – Part 9. Judgments And Orders",
+            "manifest_path": "rule9_part03_document.json",
+            "document_title": "Alberta Rules of Court – Rule 9 (Part 3)"
+          }
+        ],
+        "manifest_references": [
+          "Rule 9.46(1)",
+          "Rule 9.46(2)"
+        ],
+        "verified_at": "2024-05-21T12:00:00+00:00",
+        "strategic_rationale": "This is a hard limitation period that creates a sudden-death scenario for a judgment debtor. Once the two months have passed, the right to challenge the registration is extinguished. For the creditor, it creates certainty and allows them to proceed with enforcement after the period expires.",
+        "litigation_implications": [
+          "Debtor's Critical Deadline: A debtor served with a registered foreign judgment must act immediately, as there is no ability to get an extension.",
+          "Creditor's Waiting Game: A creditor can wait out the two-month period after service, and if no application is filed, can proceed with enforcement with confidence that the registration is final.",
+          "Malpractice Risk: A critical deadline for a debtor's lawyer to calendar. Missing it is likely professional negligence."
+        ],
+        "governance_overlay": {
+          "compliance_requirement": "Any application to set aside a registration under Rule 9.46 must be filed and served within 2 months of service of the registration order.",
+          "risk_assessment": "Catastrophic for the debtor if missed. The judgment becomes fully enforceable with no further recourse on the registration issue.",
+          "audit_trigger": "Receipt of a registered foreign judgment triggers an immediate limitation period calculation and alert."
+        },
+        "automation_hooks": {},
+        "case_law_anchors": []
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "rel-001-trap-controlled-by-mandate",
+      "source_node_id": "pt-r9-16-failure-to-request-leave",
+      "target_node_id": "cm-r9-16-original-judge-jurisdiction",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "The trap of failing to request leave is created by the mandate that applications must be heard by the original judge.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s001",
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s014"
+      ]
+    },
+    {
+      "relationship_id": "rel-002-leave-counters-trap",
+      "source_node_id": "cm-r9-16-leave-for-efficiency",
+      "target_node_id": "pt-r9-16-failure-to-request-leave",
+      "relationship_type": "COUNTERS",
+      "description": "The court's ability to grant leave for efficiency serves as a countermeasure to an argument that an application is improper for failure to pre-request leave.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s014",
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s015"
+      ]
+    },
+    {
+      "relationship_id": "rel-003-mandate-operationalizes-rationale",
+      "source_node_id": "cm-r9-16-original-judge-jurisdiction",
+      "target_node_id": "wf-r9-16-judicial-continuity-rationale",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "The mandate requiring the original judge to hear the matter operationalizes the strategic principle of judicial continuity.",
+      "source_sentence_ids": [
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s001",
+        "part9_alberta_rules_of_court_rule_9_part_3_001_s013"
+      ]
+    },
+    {
+      "relationship_id": "rel-004-ex-parte-exploits-bar",
+      "source_node_id": "cm-r9-18-ex-parte-enforcement-application",
+      "target_node_id": "pt-r9-18-conditional-enforcement-bar",
+      "relationship_type": "EXPLOITS",
+      "description": "The ability to apply ex parte for permission to enforce allows a creditor to bypass the notice period that would otherwise exist after overcoming the conditional enforcement bar.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_004_s001",
+        "part9_part_9_judgments_and_orders_004_s004"
+      ]
+    },
+    {
+      "relationship_id": "rel-005-preservation-operationalizes-balancing",
+      "source_node_id": "cm-r9-20-writ-preservation-on-set-aside",
+      "target_node_id": "wf-r9-20-balancing-indulgence-with-security",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Preserving a writ upon setting aside a default judgment is the tactical operationalization of the principle of balancing the defendant's indulgence with the plaintiff's security.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_010_s013",
+        "part9_part_9_judgments_and_orders_010_s014"
+      ]
+    },
+    {
+      "relationship_id": "rel-006-vacation-counters-preservation",
+      "source_node_id": "cm-r9-20-unconditional-vacation-of-writ",
+      "target_node_id": "cm-r9-20-writ-preservation-on-set-aside",
+      "relationship_type": "COUNTERS",
+      "description": "The requirement to unconditionally vacate a writ based on a flawed judgment is a direct countermeasure to a plaintiff's request to preserve the writ.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_010_s013",
+        "part9_part_9_judgments_and_orders_010_s024",
+        "part9_part_9_judgments_and_orders_010_s025"
+      ]
+    },
+    {
+      "relationship_id": "rel-007-renewal-requires-deadline",
+      "source_node_id": "cm-r9-21-judgment-renewal-mechanism",
+      "target_node_id": "pt-r9-21-limitation-period-filing-deadline",
+      "relationship_type": "REQUIRES",
+      "description": "The judgment renewal mechanism is only available if the strict, inextensible limitation period for filing has been met.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_012_s001",
+        "part9_part_9_judgments_and_orders_012_s007"
+      ]
+    },
+    {
+      "relationship_id": "rel-008-renewal-requires-onus",
+      "source_node_id": "cm-r9-21-judgment-renewal-mechanism",
+      "target_node_id": "fp-r9-21-debtor-onus-to-show-cause",
+      "relationship_type": "REQUIRES",
+      "description": "Successful use of the judgment renewal mechanism requires the debtor to fail in their onus to show cause why the judgment should not be renewed.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_012_s001",
+        "part9_part_9_judgments_and_orders_014_s064"
+      ]
+    },
+    {
+      "relationship_id": "rel-009-delay-rule-counters-debtor-defense",
+      "source_node_id": "wf-r9-21-inapplicability-of-delay-rule",
+      "target_node_id": "fp-r9-21-debtor-onus-to-show-cause",
+      "relationship_type": "COUNTERS",
+      "description": "The inapplicability of the long delay rule (Rule 4.33) counters a potential argument a debtor might raise to 'show cause', strengthening the creditor's position.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_014_s050",
+        "part9_part_9_judgments_and_orders_014_s064"
+      ]
+    },
+    {
+      "relationship_id": "rel-010-enforce-partner-requires-proof",
+      "source_node_id": "cm-r9-23-enforce-against-unserved-partner",
+      "target_node_id": "fp-r9-23-plaintiff-burden-to-prove-partnership",
+      "relationship_type": "REQUIRES",
+      "description": "To successfully enforce a judgment against an unserved partner, the plaintiff must first satisfy the burden of proving the partnership exists.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_018_s006",
+        "part9_part_9_judgments_and_orders_020_s020"
+      ]
+    },
+    {
+      "relationship_id": "rel-011-questioning-enables-partner-enforcement",
+      "source_node_id": "cm-r9-29-post-judgment-questioning",
+      "target_node_id": "cm-r9-23-enforce-against-unserved-partner",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "Post-judgment questioning is a key tool used to gather the evidence needed to bring an application to enforce against a previously unknown partner.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_034_s001",
+        "part9_part_9_judgments_and_orders_018_s006"
+      ]
+    },
+    {
+      "relationship_id": "rel-012-remedy-limit-counters-clawback",
+      "source_node_id": "cm-r9-24-remedy-limitation-no-money-judgment",
+      "target_node_id": "fp-r9-24-pre-judgment-transfer-vulnerability",
+      "relationship_type": "COUNTERS",
+      "description": "The limitation on the fraudulent conveyance remedy (no money judgment against the transferee) acts as a partial countermeasure, limiting the scope of the creditor's attack on pre-judgment transfers.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_022_s005",
+        "part9_part_9_judgments_and_orders_024_s023"
+      ]
+    },
+    {
+      "relationship_id": "rel-013-penalty-counters-rice-order",
+      "source_node_id": "cm-r9-33-falling-market-valuation-penalty",
+      "target_node_id": "cm-r9-33-sale-to-plaintiff",
+      "relationship_type": "COUNTERS",
+      "description": "The falling market valuation penalty is a direct countermeasure a debtor can use to defend against a lender's application for a sale order to itself (Rice Order).",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_046_s001",
+        "part9_part_9_judgments_and_orders_048_s015"
+      ]
+    },
+    {
+      "relationship_id": "rel-014-court-as-seller-limits-purchaser",
+      "source_node_id": "fp-r9-32-court-as-seller-in-judicial-sale",
+      "target_node_id": "wf-r9-32-purchaser-rights-limited-to-order",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "The principle that the Court is the seller operationalizes the framework that a purchaser's rights are limited to the terms of the court order, not any external representations.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_044_s020",
+        "part9_part_9_judgments_and_orders_044_s027"
+      ]
+    },
+    {
+      "relationship_id": "rel-015-costs-entitlement-controlled-by-assessment",
+      "source_node_id": "fp-r9-35-contractual-costs-entitlement",
+      "target_node_id": "wf-r9-35-reasonableness-assessed-by-officer",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "While a lender has a contractual entitlement to costs, the final quantum is controlled by the assessment of reasonableness conducted by the assessment officer.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_056_s057",
+        "part9_part_9_judgments_and_orders_056_s079"
+      ]
+    },
+    {
+      "relationship_id": "rel-016-non-compliance-counters-finality",
+      "source_node_id": "pt-r9-38-non-compliance-voids-sale",
+      "target_node_id": "fp-r9-38-late-higher-bid-irrelevant",
+      "relationship_type": "COUNTERS",
+      "description": "The ability to void a sale due to non-compliance with the sale order is a direct counter to the principle that a late higher bid is irrelevant, providing an alternative attack vector.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_064_s005",
+        "part9_part_9_judgments_and_orders_064_s014"
+      ]
+    },
+    {
+      "relationship_id": "rel-017-foreclosure-satisfaction-counters-costs",
+      "source_node_id": "fp-r9-35-foreclosure-as-full-satisfaction",
+      "target_node_id": "fp-r9-35-contractual-costs-entitlement",
+      "relationship_type": "COUNTERS",
+      "description": "The principle that a foreclosure order is full satisfaction of the debt extinguishes the lender's contractual entitlement to costs, as those costs are deemed satisfied by the transfer of the property.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_056_s057",
+        "part9_part_9_judgments_and_orders_056_s126"
+      ]
+    },
+    {
+      "relationship_id": "rel-018-ex-parte-registration-exploits-deadline",
+      "source_node_id": "cm-r9-44-ex-parte-registration-of-judgment",
+      "target_node_id": "pt-r9-46-inextensible-set-aside-deadline",
+      "relationship_type": "EXPLOITS",
+      "description": "The ability to register a judgment ex parte starts the clock on the debtor's strict two-month deadline to object, exploiting their potential inaction.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_076_s001",
+        "part9_part_9_judgments_and_orders_080_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-019-no-duty-to-remove-enables-disposal",
+      "source_node_id": "cm-r9-27-no-duty-to-remove-property",
+      "target_node_id": "cm-r9-28-dispose-low-value-goods",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "The shield from having to remove property enables the subsequent framework for disposing of it as abandoned goods.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_030_s001",
+        "part9_part_9_judgments_and_orders_032_s006"
+      ]
+    },
+    {
+      "relationship_id": "rel-020-liability-shield-requires-storage-duty",
+      "source_node_id": "cm-r9-28-liability-shield",
+      "target_node_id": "pt-r9-28-one-month-storage-duty",
+      "relationship_type": "REQUIRES",
+      "description": "To gain the protection of the liability shield, the judgment holder must first comply with the mandatory one-month storage duty for high-value goods.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_032_s016",
+        "part9_part_9_judgments_and_orders_032_s013"
+      ]
+    },
+    {
+      "relationship_id": "rel-021-record-keeping-trap-exploits-shield",
+      "source_node_id": "pt-r9-28-three-year-record-keeping",
+      "target_node_id": "cm-r9-28-liability-shield",
+      "relationship_type": "EXPLOITS",
+      "description": "A debtor can exploit the creditor's failure to keep records for three years to undermine their claim to the liability shield.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_032_s035",
+        "part9_part_9_judgments_and_orders_032_s016"
+      ]
+    },
+    {
+      "relationship_id": "rel-022-foreclosure-app-requires-searches",
+      "source_node_id": "pt-r9-30-affidavit-of-value-prerequisite",
+      "target_node_id": "pt-r9-31-filing-prerequisites-for-foreclosure-orders",
+      "relationship_type": "REQUIRES",
+      "description": "A valid foreclosure application requires not only an affidavit of value but also the filing of current title and registry searches.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_036_s001",
+        "part9_part_9_judgments_and_orders_040_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-023-unsworn-appraisal-exploits-prerequisite",
+      "source_node_id": "pt-r9-30-unsworn-appraisal-is-hearsay",
+      "target_node_id": "pt-r9-30-affidavit-of-value-prerequisite",
+      "relationship_type": "EXPLOITS",
+      "description": "A party can exploit the affidavit of value prerequisite by attacking the affidavit itself as containing inadmissible hearsay, thus nullifying the plaintiff's compliance.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_036_s001",
+        "part9_part_9_judgments_and_orders_038_s059"
+      ]
+    },
+    {
+      "relationship_id": "rel-024-writ-duration-controlled-by-renewal",
+      "source_node_id": "fp-r9-20-writ-duration-linked-to-judgment",
+      "target_node_id": "cm-r9-21-judgment-renewal-mechanism",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "The duration of a writ is controlled by the life of the judgment, which can be extended through the renewal mechanism.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_008_s001",
+        "part9_part_9_judgments_and_orders_012_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-025-service-trap-controls-order-validity",
+      "source_node_id": "pt-r9-36-mandatory-service-of-costs-bill",
+      "target_node_id": "fp-r9-35-contractual-costs-entitlement",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "The validity of enforcing a foreclosure order, including its contractual costs, is controlled by proper service, which includes the certified bill of costs.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_058_s001",
+        "part9_part_9_judgments_and_orders_056_s057"
+      ]
+    },
+    {
+      "relationship_id": "rel-026-deadline-trap-controls-confirmation",
+      "source_node_id": "pt-r9-34-one-month-confirmation-deadline",
+      "target_node_id": "fp-r9-32-court-as-seller-in-judicial-sale",
+      "relationship_type": "CONTROLLED_BY",
+      "description": "The Court's ability to act as seller and confirm a sale is controlled by the plaintiff meeting the one-month deadline to bring the confirmation application.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_050_s004",
+        "part9_part_9_judgments_and_orders_044_s017"
+      ]
+    },
+    {
+      "relationship_id": "rel-027-non-party-scope-enables-partner-enforcement",
+      "source_node_id": "fp-r9-19-non-party-enforcement-scope",
+      "target_node_id": "cm-r9-23-enforce-against-unserved-partner",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "The foundational principle allowing enforcement against non-parties provides the legal basis for the specific mechanism to enforce against an unserved partner.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_006_s003",
+        "part9_part_9_judgments_and_orders_018_s006"
+      ]
+    },
+    {
+      "relationship_id": "rel-028-equivalency-enables-writ-duration",
+      "source_node_id": "fp-r9-17-enforcement-equivalency",
+      "target_node_id": "fp-r9-20-writ-duration-linked-to-judgment",
+      "relationship_type": "OPERATIONALIZES",
+      "description": "The equivalency of an 'order' to a 'judgment' for enforcement purposes means that a writ based on an order will also have its duration linked to the life of that order.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_002_s001",
+        "part9_part_9_judgments_and_orders_008_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-029-satisfaction-counters-writ-duration",
+      "source_node_id": "cm-r9-22-judgment-satisfaction-order",
+      "target_node_id": "fp-r9-20-writ-duration-linked-to-judgment",
+      "relationship_type": "COUNTERS",
+      "description": "Obtaining a judgment satisfaction order formally terminates the underlying judgment, thereby countering the duration of any associated writ and rendering it unenforceable.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_016_s001",
+        "part9_part_9_judgments_and_orders_008_s001"
+      ]
+    },
+    {
+      "relationship_id": "rel-030-eviction-service-trap-requires-valid-order",
+      "source_node_id": "pt-r9-26-eviction-without-affidavit-of-service",
+      "target_node_id": "pt-r9-25-defective-possession-order-wording",
+      "relationship_type": "REQUIRES",
+      "description": "The requirement to file an affidavit of service for an eviction implicitly requires that the order being served is not itself defective due to missing mandatory wording.",
+      "source_sentence_ids": [
+        "part9_part_9_judgments_and_orders_028_s004",
+        "part9_part_9_judgments_and_orders_026_s002"
+      ]
+    }
+  ],
+  "tactical_playbook": {
+    "plays": [
+      {
+        "play_id": "tp-001-zombie-writ-preservation",
+        "play_name": "The 'Zombie Writ' Preservation Play",
+        "objective": "To preserve security over a debtor's assets by keeping a writ of execution registered against property even when the underlying default judgment is set aside.",
+        "control_mechanisms": [
+          "cm-r9-20-writ-preservation-on-set-aside"
+        ],
+        "warfare_frameworks": [
+          "wf-r9-20-balancing-indulgence-with-security"
+        ],
+        "prerequisites": [
+          "A default judgment has been obtained.",
+          "A writ of execution has been filed against the debtor's assets.",
+          "The debtor has applied to set aside the default judgment on arguable, but not fatally flawed, grounds."
+        ],
+        "execution_sequence": [
+          "Step 1: Receive the debtor's application to set aside the default judgment.",
+          "Step 2: In the responding materials, do not aggressively oppose the set-aside if the debtor has an arguable defense and a reason for the default.",
+          "Step 3: Instead, frame the debtor's request as seeking an 'indulgence' from the court.",
+          "Step 4: Argue, citing 'wf-r9-20-balancing-indulgence-with-security' and Pawluk v. Bank of Montreal, that a condition of this indulgence must be that the existing writ of execution remains on title to protect the plaintiff's position from asset dissipation.",
+          "Step 5: Propose a form of order that sets aside the judgment but explicitly states that the writ remains in force pending the final determination of the action."
+        ],
+        "success_metrics": [
+          "The court grants an order setting aside the default judgment but includes the term preserving the writ.",
+          "The debtor's assets remain encumbered, preventing sale or re-financing without addressing the plaintiff's claim.",
+          "The plaintiff's leverage for settlement negotiations is maintained or increased."
+        ]
+      },
+      {
+        "play_id": "tp-002-limitation-ambush",
+        "play_name": "The Limitation Ambush",
+        "objective": "To defeat a creditor's judgment renewal application by identifying a fatal, non-curable procedural flaw, thereby rendering the judgment permanently unenforceable.",
+        "control_mechanisms": [],
+        "warfare_frameworks": [],
+        "procedural_traps": [
+          "pt-r9-21-limitation-period-filing-deadline",
+          "pt-r9-21-defective-notice-nullity-risk"
+        ],
+        "prerequisites": [
+          "A judgment creditor has filed an application under Rule 9.21 to renew a judgment.",
+          "The original judgment is close to or just past its 10-year limitation period."
+        ],
+        "execution_sequence": [
+          "Step 1: Upon receipt of the renewal application, immediately calculate the exact expiry date of the 10-year limitation period from the original judgment.",
+          "Step 2: Check the court filing stamp on the creditor's application. If it was filed even one day after the expiry date, the application is invalid. Prepare an argument based on 'pt-r9-21-limitation-period-filing-deadline' and Ginn v. Feng.",
+          "Step 3: If the filing date is valid, meticulously scrutinize the creditor's Notice of Motion.",
+          "Step 4: Search for the explicit 'show cause' language. If it is absent, the application is a nullity. Prepare an argument based on 'pt-r9-21-defective-notice-nullity-risk' and Sanders v. Nousek.",
+          "Step 5: File a response seeking dismissal of the application on the identified fatal flaw, arguing the court has no jurisdiction to grant the renewal."
+        ],
+        "success_metrics": [
+          "The creditor's renewal application is dismissed.",
+          "The original judgment is confirmed to have expired and is unenforceable.",
+          "The debtor is permanently freed from the debt."
+        ]
+      },
+      {
+        "play_id": "tp-003-post-eviction-asset-monetization",
+        "play_name": "The Post-Eviction Asset Monetization Play",
+        "objective": "To efficiently and lawfully dispose of personal property left behind after an eviction, recover costs, and shield the judgment holder from liability.",
+        "control_mechanisms": [
+          "cm-r9-27-no-duty-to-remove-property",
+          "cm-r9-28-dispose-low-value-goods",
+          "cm-r9-28-liability-shield"
+        ],
+        "procedural_traps": [
+          "pt-r9-28-one-month-storage-duty",
+          "pt-r9-28-three-year-record-keeping"
+        ],
+        "prerequisites": [
+          "A judgment or order for possession has been enforced.",
+          "The former occupant has left personal property on the premises."
+        ],
+        "execution_sequence": [
+          "Step 1: Secure the premises. Invoke 'cm-r9-27-no-duty-to-remove-property' to avoid immediate removal costs.",
+          "Step 2: Triage the abandoned goods. Document and photograph everything. Separate items with a reasonable belief of value under $2000 from those clearly over $2000.",
+          "Step 3: For goods under $2000, dispose of them as permitted by 'cm-r9-28-dispose-low-value-goods'. Document the disposal method.",
+          "Step 4: For goods over $2000, arrange for storage. This action complies with 'pt-r9-28-one-month-storage-duty'. Notify the debtor of the storage location and costs to redeem.",
+          "Step 5: After one month, if goods are unredeemed, proceed with a public auction or apply for a private sale.",
+          "Step 6: Apply sale proceeds to costs. Pay any surplus to the Crown.",
+          "Step 7: Create a comprehensive record of all steps, valuations, costs, and communications. Calendar a three-year retention date for this file to comply with 'pt-r9-28-three-year-record-keeping' and secure the 'cm-r9-28-liability-shield'."
+        ],
+        "success_metrics": [
+          "Premises are cleared quickly and lawfully.",
+          "Costs of storage and sale are recovered from the proceeds.",
+          "The judgment holder is protected from future liability by the liability shield.",
+          "All record-keeping obligations are met."
+        ]
+      },
+      {
+        "play_id": "tp-004-eviction-stoppage",
+        "play_name": "The Eviction Stoppage Play",
+        "objective": "To delay or halt a physical eviction by identifying and exploiting procedural defects in the creditor's possession order or service process.",
+        "control_mechanisms": [],
+        "warfare_frameworks": [],
+        "procedural_traps": [
+          "pt-r9-25-defective-possession-order-wording",
+          "pt-r9-26-eviction-without-affidavit-of-service"
+        ],
+        "prerequisites": [
+          "An occupant has been served with an Order of Possession.",
+          "A physical eviction by a civil enforcement agency is imminent."
+        ],
+        "execution_sequence": [
+          "Step 1: Immediately upon receipt, scrutinize the Order of Possession for the mandatory eviction authority language required by Rule 9.25(2).",
+          "Step 2: If the language is missing, the order is defective. Immediately notify the creditor's counsel and the civil enforcement agency in writing that the order is invalid and any eviction attempt will be resisted.",
+          "Step 3: If the civil enforcement agency attends the property, demand to see proof that an Affidavit of Service for the Order of Possession has been filed with the court, as required by Rule 9.26(1)(b).",
+          "Step 4: If either defect exists (defective order or no proof of filed affidavit), inform the agency they lack the legal authority to proceed and that you will be seeking an emergency injunction and costs if they do not stand down.",
+          "Step 5: If necessary, file an emergency application to stay the eviction based on the identified procedural failure."
+        ],
+        "success_metrics": [
+          "The physical eviction is halted or postponed.",
+          "The creditor is forced to go back to court to amend their order or properly file documents, incurring costs and significant delay.",
+          "The occupant gains valuable time to negotiate or find alternative arrangements."
+        ]
+      }
+    ]
+  },
+  "countermeasure_simulation": {
+    "scenarios": [
+      {
+        "scenario_id": "cms-001-judge-shopping-gambit",
+        "scenario_name": "The Judge-Shopping Gambit",
+        "initial_position": "Plaintiff obtained an ex parte attachment order from Judge A. Defendant wishes to have it set aside and believes Judge B would be more sympathetic.",
+        "adversary_move": "Defendant files an application to set aside the order and schedules it in Judge B's list, without mentioning Rule 9.16 or seeking leave.",
+        "countermeasure": "Plaintiff's counsel immediately sends a letter to Defendant's counsel citing 'cm-r9-16-original-judge-jurisdiction', stating the application is procedurally improper and must be heard by Judge A. They demand the application be rescheduled or that a formal application for leave be brought, putting the onus and cost back on the Defendant.",
+        "counter_countermeasure": "At the hearing, Defendant's counsel makes an oral application for leave before Judge B, arguing Judge A is unavailable for six weeks, the matter is urgent, and proceeding is the most efficient and expedient path, invoking the principle from 'cm-r9-16-leave-for-efficiency'.",
+        "outcome_analysis": "The Plaintiff's countermeasure is low-cost and highly effective at demonstrating procedural mastery and putting the Defendant on the defensive. The Defendant's reliance on an oral application is risky as it shows disrespect for the rules ('pt-r9-16-failure-to-request-leave'). While Judge B may grant leave to avoid further delay, the Plaintiff has successfully framed the Defendant as procedurally sloppy and has controlled the opening exchange of the hearing.",
+        "lessons_learned": [
+          "Master procedural rules to control the venue and tempo of litigation.",
+          "Use formal correspondence to put an opponent on notice of their procedural errors.",
+          "When seeking a discretionary exception, do so formally and in advance to maintain credibility with the Court."
+        ]
+      },
+      {
+        "scenario_id": "cms-002-foreclosure-value-drop",
+        "scenario_name": "The Foreclosure Value Drop",
+        "initial_position": "A lender has a foreclosure judgment against a borrower. The redemption period has expired. The real estate market is falling rapidly.",
+        "adversary_move": "The lender (Plaintiff) deliberately waits six months, allowing the property's value to drop significantly. They then obtain a new, lower appraisal and apply for a 'Rice Order' to purchase the property, seeking a large deficiency judgment based on the current low value.",
+        "countermeasure": "The borrower (Defendant) opposes the application. They file evidence of the property's higher value six months prior (when the redemption period expired). They argue the lender's delay was strategic and prejudicial, invoking 'cm-r9-33-falling-market-valuation-penalty' and the 'Yorkshire Trust' principle, demanding the sale price be fixed at the higher of the two values.",
+        "counter_countermeasure": "The lender argues the delay was not strategic but was due to good-faith (but ultimately failed) settlement negotiations and administrative backlog. They argue it is inequitable to force them to 'pay' a price that is disconnected from the property's actual current market value.",
+        "outcome_analysis": "The borrower's countermeasure is extremely strong and directly supported by binding case law. The onus is on the lender to justify their delay. Absent compelling evidence of a borrower-induced delay, the court is highly likely to side with the borrower and set the price at the earlier, higher value. This will substantially reduce or eliminate the lender's deficiency claim. The lender's delay created a significant, unforced financial error.",
+        "lessons_learned": [
+          "For lenders in a falling market, time is money. Delay in foreclosure proceedings creates massive financial risk.",
+          "For borrowers, tracking the lender's timeliness and market values is a primary defensive strategy to mitigate personal liability.",
+          "Equity can be used as a shield; a party's delay that prejudices another can have severe consequences."
+        ]
+      },
+      {
+        "scenario_id": "cms-003-the-foreclosure-paper-chase",
+        "scenario_name": "The Foreclosure Paper Chase",
+        "initial_position": "A lender is moving for an order for sale in a foreclosure action.",
+        "adversary_move": "The lender's lawyer files the application for an order for sale, supported by an affidavit from the lender's representative. The affidavit attaches an unsworn appraisal report as an exhibit.",
+        "countermeasure": "The borrower's lawyer meticulously reviews the court file before the hearing. They identify two fatal flaws: 1) The lender failed to file a certified copy of the current title search as required by 'pt-r9-31-filing-prerequisites-for-foreclosure-orders'. 2) The valuation evidence is inadmissible hearsay, springing the 'pt-r9-30-unsworn-appraisal-is-hearsay' trap.",
+        "counter_countermeasure": "At the hearing, the lender's lawyer, caught off guard, apologizes for the oversight and asks for a brief adjournment to file the correct documents, arguing it is a matter of form over substance and the borrower is not prejudiced.",
+        "outcome_analysis": "The borrower's countermeasure will be successful. The court cannot proceed without the mandatory documents and proper evidence. The application will be adjourned. The borrower's lawyer will likely be awarded costs for the appearance, thrown away. The lender has incurred unnecessary costs and delay, and their counsel has lost credibility with the court. The borrower has successfully bought more time.",
+        "lessons_learned": [
+          "Procedural compliance is not optional; it is a weapon.",
+          "A pre-hearing file review is a high-ROI activity for a defending party.",
+          "Forcing an opponent into a costly adjournment due to their own error is a key tactic in resource attrition warfare."
+        ]
+      }
+    ]
+  },
+  "integration_touchpoints": {
+    "neo4j_ingestion": {
+      "node_label_mapping": {
+        "FoundationalPillar": "CREATE (n:FoundationalPillar:LegalNode {node_id: $node_id, label: $label, description: $description, source_sentence_ids: $source_sentence_ids})",
+        "WarfareFramework": "CREATE (n:WarfareFramework:LegalNode {node_id: $node_id, label: $label, description: $description, source_sentence_ids: $source_sentence_ids})",
+        "ControlMechanism": "CREATE (n:ControlMechanism:LegalNode {node_id: $node_id, label: $label, description: $description, source_sentence_ids: $source_sentence_ids})",
+        "ProceduralTrap": "CREATE (n:ProceduralTrap:LegalNode {node_id: $node_id, label: $label, description: $description, source_sentence_ids: $source_sentence_ids})"
+      },
+      "relationship_type_mapping": {
+        "OPERATIONALIZES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:OPERATIONALIZES {relationship_id: $relationship_id, description: $description, source_sentence_ids: $source_sentence_ids}]->(b)",
+        "CONTROLLED_BY": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:CONTROLLED_BY {relationship_id: $relationship_id, description: $description, source_sentence_ids: $source_sentence_ids}]->(b)",
+        "EXPLOITS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:EXPLOITS {relationship_id: $relationship_id, description: $description, source_sentence_ids: $source_sentence_ids}]->(b)",
+        "REQUIRES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:REQUIRES {relationship_id: $relationship_id, description: $description, source_sentence_ids: $source_sentence_ids}]->(b)",
+        "COUNTERS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:COUNTERS {relationship_id: $relationship_id, description: $description, source_sentence_ids: $source_sentence_ids}]->(b)"
+      },
+      "provenance_indexing": "CREATE INDEX ON :LegalNode(source_sentence_ids)"
+    },
+    "automation_api_endpoints": {
+      "judgment_renewal_checker": "/api/v1/judgments/check_renewal_status",
+      "foreclosure_checklist_generator": "/api/v1/foreclosure/generate_checklist",
+      "procedural_trap_scanner": "/api/v1/documents/scan_for_traps"
+    }
+  }
+}

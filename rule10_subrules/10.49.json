@@ -1,0 +1,385 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.49",
+  "title": {
+    "official": "Penalty for contravening rules",
+    "variants": {}
+  },
+  "division": {
+    "number": 4,
+    "heading": "Sanctions"
+  },
+  "subdivision": {
+    "number": 1,
+    "heading": "Penalty"
+  },
+  "operative_text": {
+    "controlling": "10.49(1)  The Court may order a party, lawyer or other person to\npay to the court clerk a penalty in an amount determined by the\nCourt if\n(a) the party, lawyer or other person contravenes or fails to\ncomply with these rules or a practice note or direction of\nthe Court without adequate excuse, and\n(b) the contravention or failure to comply, in the Court’s\nopinion, has interfered with or may interfere with the\nproper or efficient administration of justice.\n(2)  The order applies despite\n(a) a settlement of the action, or\n(b) an agreement to the contrary by the parties.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "1c6f02d95d333ee634fb0f8b964d0f2f9d0d3876f65d0339ed1e0f9c5da41e47"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 10.49 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.49 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is printed under the Division heading 'Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS', which is wrong for this rule: official 10.49 is in Division 4 'Sanctions', Subdivision 1 'Penalty' (the heading 'Division 4 – SANCTIONS' is not printed by Book C before it). Its rule text equals the official text."
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          219
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Penalty for Contravening Rules",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0057876b5a81868bda2b3ffc222c4e7673f7094c3330ab18c5a46a32a062e66b",
+      "related_provisions": "1.5 (non-compliance) ; 2.25 (duties of lawyer) ; 3.35(1) (consent orders) ; 3.68(3) (striking out pleadings); 5.12 (penalty for failure to serve affidavit of records) ; 10.33 (costs for misconduct) ; 10.50 (costs imposed on lawyer) ; 10.52(contempt) ; 14.90 (sanctions on appeals)",
+      "commentary": "This Rule is designed to provide a penalty for misconduct where the opposing party is\ncomplicit, or is not harmed.¹\nMere failure to follow Rules etc. is not enough; interference with\nthe administration of justice is needed.²\nAre procedural safeguards akin to those for contempt,\nneeded?³\nAn example would be an agreement to call a long trial a short one, to get an early trial date,\nwith resulting harm to other litigants when the trial runs over time. An adjournment of a special\nchambers hearing because of late ﬁling of an afﬁdavit led to costs jointly against the counsel and\nhis client.⁴\nRule 3.3 requires commencement in the judicial centre speciﬁed, without waiting for the\ndefendant to complain. The court can transfer the suit to the right judicial centre on its own motion,\nwith costs under R.10.49.⁵\nThis Rule was used to make each counsel pay $250.00 to the Registrar for failure to transcribe\nrecorded reasons of the judge appealed from, in two appeals.⁶\nCosts were assessed for not\nspeaking to the appeal list in a case involving children.⁷\nAnd for causing a judicial dispute resolution\nsession to be cancelled at the last minute.⁸\nAnd for not disclosing when getting an order nisi of\nforeclosure, commencement in the wrong judicial district.⁹\nThis Rule was used for repeatedly\ndisobeying court orders and ﬁling forbidden documents,¹⁰\nand for three times letting a criminal\nappeal be dismissed and getting three restorations.¹¹\nThere is a review of the previous cases using\nthis Rule.¹²\nThis Rule does not apply to one side’s failure to pay costs previously awarded to the other\nparty.¹³\nThis Rule cannot be used to order a payment to another party.¹⁴\nThis Rule might allow a daily penalty.¹⁵\nMisconduct by a solicitor led to a $1, 000 penalty under\nR.10.49, plus costs of 4 times column 1 of Schedule C to the opposing party.¹⁶\n\nRule 10.49 was used (plus costs to the innocent party) in light of R.1.2, where court directions\nwere disobeyed but contempt could not be found for evidentiary and technical reasons.¹\nOne issue raised had already been decided against this would-be appellant in this litigation,\nwhich was a collateral attack. This self-represented litigant was previously warned about\nrelitigating the same issues and was doing it again. A penalty of $2500 was ordered paid to the\nClerk of the Court under R.10.49(1). If this litigant persisted in that, the penalties would probably\ngrow.²\nA litigant kept expressly rejecting advice from court ofﬁcials about how and where to appeal\na decision of a chambers judge, and used insults and threats and did not comply with even the\nsimplest requirements. Court resources are not inﬁnite. So $2000 penalty for contravening rules\nunder R.10.49(1) was levied.³\nLawyers “notarizing” odd pseudolegal documents for self-represented litigants have had to\npay costs under this Rule.⁴\nIf the offending party is the government, ordering costs to the Clerk or Registrar is pointless,\nand the court may order costs to the opposing party instead.⁵\n“Costs” or “security for costs” usually refer to moneys payable by one party to another (for\nlitigation expenses, not to a sum imposed under R.10.49 and payable to the Clerk of the Court),\nand so payment of R.10.49 awards has no priority in payment out of an existing fund held as\nsecurity for costs.⁶",
+      "footnotes": [
+        {
+          "page": "10-139",
+          "number": 5,
+          "text": "Quite similar to previous R.599.1(1). It was ﬁrst enacted by Alta. Reg.243/96."
+        },
+        {
+          "page": "10-139",
+          "number": 6,
+          "text": "Quite similar to previous R.599.1(2). It was ﬁrst enacted by Alta. Reg.243/96. The similarities and differences with the predecessor Rule are discussed; the current Rule adds failure to comply with \"a direction of the court\": Osborn v. Gagne 2017 ABQB 438, 8 CPC(8th) 112 (¶’s 27-34)."
+        },
+        {
+          "page": "10-140",
+          "number": 1,
+          "text": "For a review of case law, see A. S. v. N. L. H.2006 ABQB 708, 405 AR 35."
+        },
+        {
+          "page": "10-140",
+          "number": 2,
+          "text": "Osborne v. Gagne, supra (¶’s 36 ff. , 45-46)."
+        },
+        {
+          "page": "10-140",
+          "number": 3,
+          "text": "Osborne v. Gagne, supra (¶ 35) (dictum)."
+        },
+        {
+          "page": "10-140",
+          "number": 4,
+          "text": "Pollock v. Liberty Tech. Serv. (M 1997) 50 Alta LR(3d) 335. Or forcing a last-minute adjournment of an appeal: Trang v. Dir. of Edm. Remand Centre (#2) 2007 ABCA 267, 412 AR 276."
+        },
+        {
+          "page": "10-140",
+          "number": 5,
+          "text": "Lim v. Young (M) 2004 ABQB 489, 360 AR 277."
+        },
+        {
+          "page": "10-140",
+          "number": 6,
+          "text": "Milﬁve Inv. v. Sefel (#3) (CA 1998) 250 AR 183; Mellors v. Calgary (City) (Mellors v. Harbinson) (CA 1998) 216 AR 189."
+        },
+        {
+          "page": "10-140",
+          "number": 7,
+          "text": "Hunter v. Preston 2001 ABCA 35, 277 AR 151."
+        },
+        {
+          "page": "10-140",
+          "number": 8,
+          "text": "A. S. v. N. L. H. , supra."
+        },
+        {
+          "page": "10-140",
+          "number": 9,
+          "text": "Baxter v. Darby (M) 2009 ABQB 559."
+        },
+        {
+          "page": "10-140",
+          "number": 10,
+          "text": "Christoﬁ v. Newcombe (#_) 2024 ABKB 117, JCC 1901 15377 (Feb 20)."
+        },
+        {
+          "page": "10-140",
+          "number": 11,
+          "text": "R. v. Simpson 2024 ABCA 53, Edm 2303 0107 A (one JA Feb 16)."
+        },
+        {
+          "page": "10-140",
+          "number": 12,
+          "text": "Osborn v. Gagne, supra (¶’s 36-42)."
+        },
+        {
+          "page": "10-140",
+          "number": 13,
+          "text": "V. A. H. v. Lynch (#4) 2001 ABCA 211, 293 AR 395."
+        },
+        {
+          "page": "10-140",
+          "number": 14,
+          "text": "Osborn v. Gagne, supra (¶ 44)."
+        },
+        {
+          "page": "10-140",
+          "number": 15,
+          "text": "Osborne v. Gagne, supra (¶ 34)."
+        },
+        {
+          "page": "10-140",
+          "number": 16,
+          "text": "Morin v. Trans Alta Utils. Corp.2017 ABQB 409, JCE 1403 06722 (Jun 27)."
+        },
+        {
+          "page": "10-141",
+          "number": 1,
+          "text": "C. J. D. v. R. I. J.2018 ABQB 287, JCE 4803 127885 (Apr 12)."
+        },
+        {
+          "page": "10-141",
+          "number": 2,
+          "text": "C. I. B. C. v. Hayden (#_) 2021 ABQB 985, JCC 2101 08260 (Dec 10) (¶’s 17-25) ; Royal Bank of Can. v. Anderson (#_) 2023 ABKB 24, JCC 2101 07946 (Jan 13) (repealed pseudolegal doctrines)."
+        },
+        {
+          "page": "10-141",
+          "number": 3,
+          "text": "McMunn v. Hok (#_) 2021 ABQB 601, JCGP 2104 00343 (Jul 29). For similar examples, see Royal Bank v. Anderson, supra; Royal Bank v. Anderson (#_) 2022 ABKB 838, JCC 2101 07946 (Dec 16) (¶’s 5-9)."
+        },
+        {
+          "page": "10-141",
+          "number": 4,
+          "text": "R. v. Ayyazi 2022 ABKB 836, JCC 2000 85314 Q1 (Dec 16) (¶’s 63-64) ; Royal Bank v. Anderson (#_) 2022 ABKB 838, JCC 2101 07946 (Dec 16) (¶’s 10-18)."
+        },
+        {
+          "page": "10-141",
+          "number": 5,
+          "text": "Brick Prot’n. Corp. v. R.2011 ABCA 214, 510 AR 336 (¶ 65)."
+        },
+        {
+          "page": "10-141",
+          "number": 6,
+          "text": "Rana v. Rana (#_) 2024 ABKB 326, JCC 1501 023369 (Jun 3) (¶’s 12-18)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          7436,
+          7549
+        ],
+        "book_pages": [
+          "10-139",
+          "10-140",
+          "10-141"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-139 (line 7436) to p.10-141 (line 7549): title (line 7436), rule text (lines 7437-7447, footnote markers '5' after (1)(b) and '6' after (2)(b)), the p.10-139 footnote block (lines 7449-7466: fns 1-4 belong to the 10.48 note; fns 5 and 6 are this rule's history), the marker 10-140 (line 7467), Related Provisions (lines 7470-7473: nine entries), the note (p.10-140 lines 7474-7508: sixteen statements with fns 1-16; p.10-141 lines 7531-7549: six statements with fns 1-6, before the 10.50 heading at line 7550) and 24 footnotes counted per page from the file: p.10-139 fns 5-6 (lines 7462-7466), p.10-140 fns 1-16 (lines 7510-7527) and p.10-141 fns 1-6 (lines 7564-7572; the block's fn 7 at line 7573 belongs to 10.50) = 24 (2+16+6). The 'DIVISION 4 / SANCTIONS / Subdivision 1 / Penalty' headings (lines 7432-7435) are printed before the title. Read against the official text: the rule text equals official 10.49 (EXACT_MATCH, no differences). (1) Related Provisions read against the official rules: '1.5 (non-compliance)', '2.25 (duties of lawyer)', '3.35(1) (consent orders)' (official 3.35 'Judgment or order by agreement'), '5.12 (penalty for failure to serve affidavit of records)', '10.33 (costs for misconduct)', '10.50 (costs imposed on lawyer)', '10.52(contempt)' (official 10.52 'Declaration of civil contempt') and '14.90 (sanctions on appeals)' (official 14.90 'Sanctions') land on rules of those subjects; '3.68(3) (striking out pleadings)' does not land: official 3.68(3) says no evidence may be submitted on an application under (2)(b) (no reasonable claim or defence); striking out pleadings for not serving an affidavit of records is 3.68(4)(b) (the same '3.68(3) (b)' pointer is printed in combined_rule5.txt line 4020). (2) Statements in the note read against the rule and Book B: 'This Rule is designed to provide a penalty for misconduct where the opposing party is complicit, or is not harmed' (fn 1, A. S. v. N. L. H. 2006 ABQB 708) and 'interference with the administration of justice is needed' agree with official 10.49(1)(b) and with Book B (paragraph 126: three requirements, no need for intention); 'This Rule was used to make each counsel pay $250.00 to the Registrar for failure to transcribe recorded reasons of the judge appealed from, in two appeals' (line 7488; fn 6, Milfive Inv. v. Sefel (#3) (CA 1998) 250 AR 183 and Mellors v. Calgary (City) (CA 1998) 216 AR 189) differs from Book B, which quotes Milfive Investments v. Sefel (1998) 62 Alta. L.R. (3d) 369 (C.A.) as ordering 'each side' to pay the Deputy Registrar 'the sum of $150.00'; 'This Rule cannot be used to order a payment to another party' (p.10-140, fn 14, Osborn v. Gagne ¶ 44) is in tension with 'the court may order costs to the opposing party instead' where the offending party is the government (p.10-141, fn 5, Brick Prot'n. Corp. v. R. 2011 ABCA 214), and with the 10.53 note (line 8784) on where financial penalties are paid; 'Rule 3.3 requires commencement in the judicial centre specified ... The court can transfer the suit to the right judicial centre on its own motion, with costs under R.10.49' (fn 5, Lim v. Young (M) 2004 ABQB 489) points to official 3.3 'Determining the appropriate judicial centre', whose text defines the centre and does not itself say that the Court may transfer (the transfer power was not checked); the penalty amounts ($250.00, $1, 000, $2500, $2000) and 'four times column 1 of Schedule C' were not checked against the decisions. (3) Names and citations: the full citation is 'Osborn v. Gagne 2017 ABQB 438, 8 CPC(8th) 112' (p.10-139 fn 6, line 7465), but the short forms are 'Osborne v. Gagne, supra' in fns 2, 3 and 15 (lines 7511, 7512, 7526) and 'Osborn v. Gagne, supra' in fns 12 and 14 (lines 7523, 7525): the case name is spelled two ways; Book B and Book C spell 'Osborn'. 'Morin v. Trans Alta Utils. Corp. 2017 ABQB 409' (fn 16) is spelled 'Morin v. TransAlta Utilities Corporation' in Book B. p.10-141 fn 6 (line 7572) prints 'Rana v. Rana (#_) 2024 ABKB 326, JCC 1501 023369' (also line 4693 in the 10.31 note) where the 10.33 note prints 'Rana v. Rana (#2) 2020 ABQB 278, JCC 1501 02369' (a different decision; the docket number has six digits here and five there). (4) Placeholders '(#_)' at line 7521 (p.10-140 fn 10, Christofi v. Newcombe 2024 ABKB 117) and in p.10-141 fns 2, 3, 4 and 6. supra pointers: fn 8 'A. S. v. N. L. H. , supra' follows the full citation in fn 1 of the same page; fns 2, 3, 12, 14 and 15 'Osborn(e) v. Gagne, supra' follow the full citation in p.10-139 fn 6; p.10-141 fn 3 'Royal Bank v. Anderson, supra' follows fn 2 (Royal Bank of Can. v. Anderson (#_) 2023 ABKB 24); none points forward; no infra. The history footnotes (p.10-139 fns 5-6: 'Quite similar to previous R.599.1(1)' and '(2)', 'first enacted by Alta. Reg.243/96') name an old rule and a 1996 regulation not checked against any old-rule text; fn 6 also says 'the current Rule adds failure to comply with \"a direction of the court\"', which agrees with the official words 'a practice note or direction of the Court'. Book B's commentary '10.49:1' (17,167 characters, read in full) agrees with the official text: penalty payable to the Clerk (10.49(1)), differing from 5.12 (penalty to the Clerk, not other parties) and from contempt under 10.52, three requirements (contravention, without adequate excuse, interference with administration of justice), factors (a)-(g) for a penalty and its amount; it cites Osborn at paras 35 and 46, Morin, Weatherford, Milfive, Pollock, Trang, Hunter v. Preston, Baxter v. Darby, Crouser-Reymon v. Tawa Developments (paras 23-26), and R. v. Simpson 2024 ABCA 53, several of which Book A also prints (Milfive, Pollock, Trang, Hunter v. Preston, Baxter v. Darby, Morin, R. v. Simpson, C. J. D. v. R. I. J.). Book B's Kotyk (Re) 2024 ABCA 233 (a $5000 penalty against a lawyer for notarizing a 'pseudolaw' document, ordered without notice) has no counterpart in Book A, whose p.10-141 fn 4 cites R. v. Ayyazi 2022 ABKB 836 and Royal Bank v. Anderson (#_) 2022 ABKB 838 for 'Lawyers notarizing odd pseudolegal documents ... have had to pay costs under this Rule'."
+    },
+    "BOOK_B": {
+      "title": "Penalty for contravening rules",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "10.49:1",
+          "text": "Rule 10.49 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 10.49. 1. Overview In H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., 2024 ABKB 424, Justice Marion gave this overview of the Rule: [124] The public policy behind these rules is to ensure that court orders are obeyed which, in turn, upholds the policy of promoting the public interest in the fair and just resolution of claims in a timely and cost-effective way: rule 1.2; Osborn at para 35; 336239 Alberta Ltd (Dave’s Diesel Repair) v Mella, 2016 ABQB 174 at para 35. [125] Rule 10.49 differs from rule 5.12 because, if a penalty is levied, it is paid to the Clerk of the Court, not the other parties: rule 10.49(1); Makis v Alberta Health Services, 2020 ABCA 168 at para 66; Carnwell v Carnwell, 2024 ABKB 318 at para 26. It is also different than a penalty or sanction for contempt under rule 10.52 and, when read together with the fundamental rules, provides the Court with a helpful and “very flexible tool”, and likely a more efficient and effective sanctioning process: rules 1.2-1.5; CJD v RIJ, 2018 ABQB 287 at paras 62-66; rules 1.2-1.5; Meads v Meads, 2012 ABQB 571 at paras 604-607. [126] Rule 10.49 requires three things: (1) contravention or failure to comply with the Rules, a practice note or a court direction; (2) without adequate excuse; and (3) the contravention or failure has, in the Court’s opinion, interfered with or may interfere with the proper or efficient administration of justice. It does not require that the contravention or failure be intentional: Baxter v Darby, 2009 ABQB 559 (Master) at para 12. [127] The meaning of “without adequate excuse” has not been expressly considered by this Court. Although the wording is slightly different, I find that a similarly high bar set for “sufficient cause” under rule 5.12 is also reasonable for “without adequate excuse” under rule 10.49. Parties must establish, at a minimum, that, even with reasonable due diligence, they could not comply with the Rules, practice note or court direction due to something outside their control. Interpreting “adequate excuse” this way will not cause injustice or unfairness because the Court retains the discretion to not impose a penalty even in the absence of an adequate excuse: Morin v TransAlta Utilities Corporation, 2017 ABQB 409 at para 49. [128] With respect to the meaning of “interfered with or may interfere with the proper administration of justice”, this is the same wording as under former rule 599.1. There must be evidence to support a finding of past or future interference: Estate of Montgomery, 2019 ABQB 833 at para 45. [129] Interfering with the proper or efficient administration of justice can include interfering with the judicial function, court operations, or actions administered by the Court, in particular in the form of wasted public resources or delay in the progress of court proceedings: Milfive Investments v Sefel, 1998 ABCA 164 at para 3; Pollock v Liberty Technical Services Ltd, 1997 CanLII 14782 (AB KB) at para 14; Morin at paras 50-51; Trang v Alberta (Edmonton Remand Centre), 2007 ABCA 267 at para 14, leave to appeal to SCC refused, 2008 CanLII 6439; Klushin v Tkachuk, 2001 ABCA 231 at paras 14-17; CJD at para 70. [130] Specifically, interfering with the proper or efficient administration of justice can include a failure to honour records discovery obligations: Weatherford Canada Partnership v Addie, 2010 ABQB 477 [Weatherford QB] at para 53 aff’d 2010 ABCA 362 [Weatherford CA]; Goofers (Theroux) v Goofers, 2002 ABQB 1094 at para 56. [131] Non-exhaustive factors relevant to whether to impose a penalty under rule 10.49 (and the quantum of any penalty) include: (a) any delay, inefficiencies or increased expenses caused by the contravention/failure: Weatherford QB at para 53; Pollock at para 14; Meads at para 604; (b) the impact of the contravention/failure on the judicial function and court operations, including the waste of public resources: Milfive at para 3; Klushin at para 14; Trang at para 14; Pollock at para 14; AS v NLH, 2006 ABQB 708 at paras 17-19; CJD at para 70; (c) the reasonableness of the explanation for the contravention/failure, including whether the party reasonably attempted to avoid contravention, or to comply, or whether the contravention/failure was vexatious, intentional, careless or innocent: Weatherford CA at para 10; R v Ayyazi, 2022 ABKB 836 at paras 60-63; Royal Bank of Canada v Anderson, 2023 ABKB 661 at paras 21-23, 42; Morin at para 50-51; Baxter at para 12; Meads at para 607; (d) the need to impose a penalty to secure compliance: Demb v Valhalla Group Ltd, 2015 ABCA 29 [Demb 2015 CA] at para 40 (O’Ferrall, JA concurring in result); Ubah v Ubah, 2024 ABKB 164 at para 35; (e) the need for general or specific deterrence, including whether the contravention/failure represents an undesirable general litigation practice or a pattern of conduct of a specific party or counsel: Demb 2015 CA at para 40 (O’Ferrall, JA concurring in result); Milfive at para 3; Hunter v Preston, 2001 ABCA 35 at para 21; McClelland v Harrison, 2023 ABKB 638 at para 14; Morin at paras 50-51; Crouser-Reymon v Tawa Developments Inc, 2010 ABQB 166 at paras 23-26; (f) the need to punish, discipline or denounce: Lastiwka v TD Waterhouse Investor Services (Canada) Inc, 2006 ABQB 567 at para 78; Wagner at para 19; and (g) the financial means of the party being sanctioned. A penalty under rule 10.49 is not usually intended to impact the substance of the action or create a barrier to non-vexatious access to justice: Osborn at para 46; Meads at para 605. [132] I agree with the sentiments of Stinson J in Apotex Inc v Eli Lilly and Company, 2014 ONSC 3574 at para 4: [4] As stewards of the justice system, both judges and lawyers have a duty to ensure that disputes are resolved and claims are prosecuted in an efficient fashion, so that the limited resources of the court may be effectively shared among all who seek access to justice. [:.] [133] One way we can fulfil our stewardship role, while also protecting against waste of precious private and public resources, is to order rule 10.49 penalties, where appropriate, to promote rule-compliance and to deter and denounce wasteful conduct that causes delay, increases private and public costs, and reduces access to justice. In Baltimore v. Baltimore (1997), 47 Alta. L.R. (3d) 254 (Master), Master Laycock had before him a dispute over the location of a proposed cross examination on affidavit. Counsel could not agree on the location. On the advice of counsel, the respondent did not attend a cross-examination in spite of being served with an appointment and conduct money. Master Laycock held that the respondent's counsel should have brought an application to set aside the appointment if she believed it to be improper. He further held that she was wrong to simply advise her client not to attend the examination. In the course of his reasons for ruling, the learned Master commented, at p. 258, on then R. 599.1: Mr. Baltimore filed an affidavit attempting to explain his non-attendance at the examination on January 10, 1997 and his refusal to attend the cross-examination in Whitecourt. His failure to attend appears to be more a power struggle between counsel and therefore the costs of the application were maintained at a moderate level. It is this power struggle between counsel which brings the profession into disrepute. The application by Mr. McConnel [applicant's counsel] should not have been necessary. Mr. Baltimore on instruction from counsel has failed to comply with the Rules of Court. Pursuant to Rule 599.1(1)(b), this failure to comply “has interfered with or may interfere with the proper or efficient administration of justice.” In these circumstances the court could on its own motion direct counsel to pay to the Clerk of the Court a penalty in the form of costs. I make these comments with respect to Rule 599.1 to bring its existence to the attention of counsel and in this situation the court could well determine that substantial costs [are] payable to the Clerk of the Court. In Pollock v. Liberty Technical Services Ltd. (1997), 50 Alta. L.R. (3d) 335 (Master), Master Laycock invoked the rule when counsel failed to comply with a practice note issued by the Calgary Masters. Master Laycock ordered that the plaintiff and plaintiff's counsel be jointly liable to pay to the Clerk of the Court the sum of $400 as a penalty under the rule. The Court of Appeal has also resorted to the rule. In Milfive Investments Ltd. v. Sefel (1998), 62 Alta. L.R. (3d) 369 (C.A.); [additional reasons to (1998) 216 A.R. 196 (C.A.)], the court heard an appeal from a chambers decision. Counsel had failed to order a transcript of the learned chambers judge's reasons. The court ordered each side to pay the Deputy Registrar the sum of $150 and directed that neither side would be entitled to collect it as a taxable cost. The court said, at p. 370: The Chambers Judge gave extended oral reasons, which were tape-recorded, as is usual. Neither party thought to ask to have them transcribed, and the agreement as to contents signed by both parties omits them. We had three such cases this week in Calgary, necessitating last-minute transcription. That caused this Court and the judges appealed from a good deal of inconvenience. We have mentioned this problem before in at least one reported decision. It is time to reinforce our sermons with penance. We rely on R. 599.1, but at this early stage we keep the amounts low. Each side will pay to the Deputy Registrar in Calgary the sum of $150.00, and this will not be taxable as a disbursement in computing party-party costs in future. In Hunter v. Preston (2001), 277 A.R. 151 (C.A.), Côté J.A. invoked the rule in a case of failure to speak to the appeal list, and ordered the appellant's and respondent's counsel to each pay costs ($350 and $100 respectively). In Trang v. Alberta (Director, Edmonton Remand Centre), 2007 ABCA 267, 2007 CarswellAlta 1098, 412 A.R. 276, 79 Alta. L.R. (4th) 21, counsel for the respondents was ordered to personally pay costs of $1000 under then Rule 599.1. Counsel had arranged for an expedited appeal hearing, but then took on a conflicting obligation for a new client, Mr. K., without arranging for other counsel to attend and conduct the expedited appeal hearing. The appeal had to be adjourned. The Court of Appeal, in awarding costs personally against counsel, said, at p. 27, “Without firm workable arrangements for substitute counsel on this appeal, [Counsel] should not have accepted Mr. K.'s new overseas work, abandoning the Court and over 20 existing clients in Edmonton.” Using R. 10.49 as an Alternative to Contempt Proceedings In CJD v. RIJ, 2018 ABQB 287, 2018 CarswellAlta 715, Justice Graesser had before him an application to find RIJ in contempt “for failing to comply with an order” made by the learned case management judge on January 9, 2018. Justice Graesser concluded that he could not find RIJ in contempt of the order because RIJ did not have actual knowledge of it. However, his Lordship relied on Rule 10.49 to impose a penalty of $1,000 for RIJ's failure to comply with a direction (dated December 5, 2017) of which he did have knowledge. Justice Graesser discussed the utility of using Rule 10.49 as opposed to the contempt rules: 63 In the context of Rule 1.2(2)(e), that the Rules “provide an effective, efficient and credible system of remedies and sanctions to enforce these rules and orders and judgments,” contempt remedies are frequently neither effective nor efficient. A declaration of contempt is often a paper tiger. Being jailed for civil contempt is now the last resort consequence for a last resort remedy, following Carey. 64 The process to obtain a contempt order is costly and timely and requires proof on the criminal standard. There is nothing efficient about that. It requires personal service, which is difficult when the respondent is evading service, as is the case here. As a result, I think a lot of time, energy and money are frequently being spent on a remedy that is rarely granted, and even when granted is rarely effective. Justice Graesser set out the provisions of R. 10.49, and said: 66 In my view, this rule must be read in conjunction with the foundational rules. This remedy was added when the new Rules of Court were proclaimed in 2010. In addition to a rigorous approach to costs when a litigant (represented or self-represented) is playing games with the court process, there are alternate approaches to contempt that may be equally if not more efficient and effective. 67 Here, RIJ failed to comply with my clear direction of December 5, 2017. He had actual notice of that direction as he specifically responded to it on December 10. RIJ then dodged service of process by unilaterally choosing to disregard an email account he had provided for court purposes and which was the court-ordered means of service on him. 68 In these circumstances, it is appropriate to order RIJ to pay a penalty to the Court in the amount of $1,000. I use a somewhat modest amount having regard to his apparent financial means. … … 70 Having regard to the waste of the Court's time and resources dealing with RIJ's intransigence in providing CJD with information she is entitled to, it is necessary to send him and others a message that court process cannot be abused. 71 Non payment of this amount to the Clerk of the Court may be a factor in whether or not RIJ is permitted to make any further applications in this matter. 72 I also award CJD $1,500 in costs. I choose a global amount that reflects the enormous waste of time and energy she has been put to as a result of RIJ's game-playing, failure to comply with my direction and the rules regarding service. 2. Missed deadline in criminal appeal In R. v. Simpson, 2024 ABCA 53, a criminal appeal, a penalty was imposed for the failure to meet filing deadlines. Justice Slatter noted that this “may be the first time in which a penalty has been imposed for the failure to meet filing deadlines in a criminal appeal.” His Lordship said that since this was the first such imposition, “a modest penalty was imposed in this case, although this does not necessarily set the standard for future cases.” (paragraph 10) 3. Court must give notice to affected person if matter raised on Court’s own motion In Kotyk (Re), 2024 ABCA 233, a trial court judge had, on his own motion and without notice to the affected person, made an order under Rule 10.49 directing a lawyer to pay a $5000 penalty for notarizing a “pseudolaw” document. The Court of Appeal reiterated that the rules of natural justice bind courts as well as administrative tribunals. The Court said: [16] The audi alteram partem rule is a rule of natural justice and one of the fundamental tenets of our legal system. It requires parties be given adequate notice of the case against them and a fair opportunity to be heard before judgment is rendered. Parties are afforded the opportunity to correct or contradict factual statements prejudicial to their positions, and to answer contrary arguments on matters of law: A(LL) v B (A), 1995 CanLII 52 (SCC), [1995] 4 SCR 536 at para 27 [A(LL)]; Malton at paras 28, 35, 37; JM v EM, 2022 ABCA 49 at para 48; and R v Nahanee, 2022 SCC 37 at paras 54, 55. [17] Although the rules of natural justice and procedural fairness are most often discussed in the context of administrative tribunals, courts are no less bound to comply with them: A(LL) at para 27; Malton at para 35. [18] As a general rule, when a court raises a matter on its own motion it must give the affected parties adequate warning of its intention and afford them a fair opportunity to present evidence and argue their position: Whelan v Whelan, 2007 ABCA 282 at paras 5–6; Canada Trustco Mortgage Co v Renard, 2008 BCCA 343 at paras 38–39; Kirk v Kirk, 2017 SKCA 97 at para 29; Province of New Brunswick, as represented by the Minister of Justice v JF, 2021 NBCA 61 at para 34; Yashcheshen v Canada (Attorney General), 2021 SKCA 116 at para 81; Hutton v Hutton, 2021 BCCA 170 at para 14. [19] Finding improper conduct on the part of counsel is a serious matter. Counsel should be given an opportunity to respond: Balogun v Pandher, 2021 ABCA 422 at para 76; Malton at paras 40, 65. For example, the Supreme Court of Canada in Quebec (Director of Criminal and Penal Prosecutions) v Jodoin, 2017 SCC 26 at paras 35–36 emphasized the importance of providing notice and an opportunity to respond where costs are awarded against lawyers: [A] lawyer upon whom such a sanction may be imposed should be given prior notice of the allegations against him or her and the possible consequences. The notice should contain sufficient information about the alleged facts and the nature of the evidence in support of those facts. The notice should be sent far enough in advance to enable the lawyer to prepare adequately. The lawyer should, of course, have an opportunity to make separate submissions on costs and to adduce any relevant evidence in this regard. [Emphasis added]"
+        }
+      ],
+      "paragraph_ids": [
+        "part10_rule_10_49_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_040",
+        "part10_rule_10_49_002",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_042"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "cf200129bca88289c3690e904b2e3796780f482259752bb209223cc3ca03ddbc",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Penalty for contravening rules",
+      "division_heading": "Division 3 – OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "5c8bd7de5e3da012064d1047719d22c67fe130c049f672da5bcba6388f9fe9a8",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "Rule 10.49 requires not only a breach, but also proof that the breach will interfere with the administration of justice. Osborn v. Gagne, [2017] A.J. No. 721, 2017 ABQB 438 at para. 3 (Alta. Q.B.), followed in Montgomery Estate v. Montgomery, [2019] A.J. No. 1495, 2019 ABQB 833 at paras. 44-45 (Alta. Q.B.). The rule requires three things: (1) contravention or failure to comply with the Rules, a practice note or a court direction; (2) without adequate excuse; and (3) the contravention or failure has, in the court’s opinion, interfered with or may interfere with the proper or efficient administration of justice. It does not require that the contravention or failure be intentional. H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 898, 2024 ABKB 424 at para. 126 (Alta. K.B.).\nRule 10.49 is designed to monetarily sanction misbehaviour. Osborn v. Gagne, [2017] A.J. No. 721, 2017 ABQB 438 at para. 27 (Alta. Q.B.). Another objective of this rule is to deter further abuse. Bonville v. President’s Choice Financial, [2024] A.J. No. 1004, 2024 ABKB 483 at para. 112 (Alta. K.B.). Rule 10.49 replaced rule 599.1. The penalty or costs award is to be paid to the clerk of the court rather than to the litigant. Indeed, the fact that this penalty is not to be some kind of award or indemnity to one of the litigants is emphasized by the",
+          "citations": [
+            {
+              "neutral_citation": "2017 ABQB 438",
+              "style_of_cause": "Osborn v. Gagne"
+            },
+            {
+              "neutral_citation": "2019 ABQB 833",
+              "style_of_cause": "Montgomery Estate v. Montgomery",
+              "note": "The builder's style-of-cause field carries 'Osborn v. Gagne' (the previous case), but the commentary prints 'followed in Montgomery Estate v. Montgomery, [2019] A.J. No. 1495, 2019 ABQB 833 at paras. 44-45 (Alta. Q.B.)'. Book B prints 'Estate of Montgomery, 2019 ABQB 833 at para 45' and Book A 'Re Montgomery Est. (#2) 2019 ABQB 833' (10.33 note)."
+            },
+            {
+              "neutral_citation": "2024 ABKB 424",
+              "style_of_cause": "H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd.",
+              "note": "The builder's field carries 'H2 Canmore Apartments LP v. Cormode' (cut at the ampersand); the commentary prints 'H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 898, 2024 ABKB 424 at para. 126 (Alta. K.B.)'; Book B prints the same case, paragraphs 124-133."
+            },
+            {
+              "neutral_citation": "2024 ABKB 483",
+              "style_of_cause": "Bonville v. President’s Choice Financial",
+              "note": "The builder's field carries the sentence before it ('Another objective of this rule is to deter further abuse.') with 'Bonville v. President'; the commentary prints 'Bonville v. President’s Choice Financial, [2024] A.J. No. 1004, 2024 ABKB 483 at para. 112 (Alta. K.B.)'; Book B (rule2_part02_document.json) prints 'Bonville v President's Choice Financial, 2024 ABKB 483 at para 88'; it occurs in no Book A file."
+            }
+          ],
+          "review_flag": "The commentary 'General Principles' (1,377 characters, two paragraphs) is cut off in mid-sentence: '... Rule 10.49 replaced rule 599.1. The penalty or costs award is to be paid to the clerk of the court rather than to the litigant. Indeed, the fact that this penalty is not to be some kind of award or indemnity to one of the litigants is emphasized by the' [end]; no running head is printed after it, and no continuation follows it in the 10.49 entry; the entry that Book C files under the number 10.52 with the fragment title 'which authorizes penalties for contempt of court. Osborn v. Gagne ... para. 35' (see the 10.52 Book C rule-text and title notes) is a further part of the 10.49 annotation (Osborn paras. 35, 36 and 42, and the Milfive $150.00 order), but the words between '... is emphasized by the' and 'which authorizes penalties for contempt of court.' are printed nowhere in Book C (both phrases occur once in the file). The first paragraph (a breach plus proof that it will interfere with the administration of justice, Osborn v. Gagne 2017 ABQB 438 para. 3; the three requirements of the rule, not requiring that the contravention be intentional, H2 Canmore para. 126) agrees with official 10.49(1) and with Book B's paragraph 126; the second (a penalty to monetarily sanction misbehaviour, Osborn para. 27; deterring further abuse, Bonville para. 112; the penalty is paid to the clerk of the court, replacing rule 599.1) agrees with official 10.49(1) ('pay to the court clerk a penalty'). The four citations' names are set from the text, see the citation notes."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "501-520_10_47 to 11_9.json",
+        "source_file": "501-520_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "division_heading_flag": "wrong in Book C: rule 10.49 is in Division 4 (Sanctions) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.49",
+      "title_official": "Penalty for contravening rules"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "0057876b5a81868bda2b3ffc222c4e7673f7094c3330ab18c5a46a32a062e66b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            7436,
+            7549
+          ],
+          "book_pages": [
+            "10-139",
+            "10-140",
+            "10-141"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "cf200129bca88289c3690e904b2e3796780f482259752bb209223cc3ca03ddbc",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "5c8bd7de5e3da012064d1047719d22c67fe130c049f672da5bcba6388f9fe9a8",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "501-520_10_47 to 11_9.json",
+          "source_file": "501-520_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "1c6f02d95d333ee634fb0f8b964d0f2f9d0d3876f65d0339ed1e0f9c5da41e47",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            219
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "96c8a139f38ffa3f0f5f95521d6e12feb44bbf2219ecf7f278a3e4e99554148f"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.49' with the pattern that also finds line-wrapped forms; ranges searched separately): four hits, the table of contents (line 1654), 1.5(6) (line 3025: 'If an order is made under this rule, the Court may also impose a penalty under rule 10.49'), a rule that lists 'impose a penalty under rule 10.49' among the Court's options (line 10395, a Rule 8 provision) and the rule (line 13114). By subject (titles from the official text): 1.5 'Rule contravention, non-compliance and irregularities', 2.25 'Duties of lawyer of record', 3.35 'Judgment or order by agreement', 3.68 'Court options to deal with significant deficiencies', 5.12 'Penalty for not serving affidavit of records', 10.33, 10.50 'Costs imposed on lawyer', 10.52 'Declaration of civil contempt', 10.53 'Punishment for civil contempt of Court', 14.90 'Sanctions'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.33 note (line 6635, p.10-122: 'Rule 10.49 expressly lets the court order one of the lawyers to pay costs personally', see the 10.33 flag), the running head (line 7423, p.10-139), this rule (line 7437), the 10.52 Related Provisions (line 7851, p.10-147: '10.49 (non-compliance with rules)') and the 10.53 note (line 8784, p.10-163: 'Financial penalties under R.10.49(1) and R.10.53(1) (c) are to be paid to the Government of ...'); in combined_rule13.txt line 4358 ('lawyer had to pay the Clerk $10, 000 under R.10.49'); in combined_rule2.txt line 3013; in combined_rule4.txt lines 116 and 1412; in combined_rule5.txt lines 4020 and 5607; in combined_rule6.txt line 7382; in combined_rule8.txt line 3108; in 'combined rule1.txt' lines 47, 173, 249 ('Rule 1.2 was used to interpret R.10.49 (and 10.33?) broadly'), 1168 and 1196; in 'combined rule14.txt' line 14245; in 'combined rule3.txt' line 5534 ('fined $1000 under R.10.49(1)').",
+    "BOOK_B: rule10_part10_document.json (30 hits: this rule's heading, rule text (EXACT_MATCH) and one commentary '10.49:1' of 17,167 characters, read in full: 1. Overview (H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd. 2024 ABKB 424, Marion J., paragraphs 124-133, and Baltimore v. Baltimore, Pollock v. Liberty Technical Services, Milfive Investments v. Sefel, Hunter v. Preston and Trang v. Alberta as examples), 'Using R. 10.49 as an Alternative to Contempt Proceedings' (CJD v. RIJ 2018 ABQB 287), 2. Missed deadline in criminal appeal (R. v. Simpson 2024 ABCA 53), 3. Court must give notice to affected person (Kotyk (Re) 2024 ABCA 233)); other Book B files that cite 10.49: rule1_split_document.json, rule5_part01/02/05_document.json, rule8_part01_document.json.",
+    "BOOK_C: '501-520_10_47 to 11_9.json' (13 hits: this entry, printed by Book C under the Division 3 heading 'OTHER MATTERS RELATED TO LAWYERS’ CHARGES AND LITIGATION COSTS' although official 10.49 is in Division 4 'Sanctions', Subdivision 1 'Penalty'; rule text equal to the official text, commentary 'General Principles' of 1,377 characters with four citations); other Book C files that cite 10.49: '261-280_5_18 to 5_34.json', '321-340_6_17 to 6_41.json' and '381-400_8_11 to 9_3.json'."
+  ],
+  "dedupe_log": [
+    "10.49 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "10.49 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.49 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "10.49 BOOK_C citation context dropped (2017 ABQB 438): verbatim in kept text",
+    "10.49 BOOK_C citation context dropped (2019 ABQB 833): verbatim in kept text",
+    "10.49 BOOK_C citation context dropped (2024 ABKB 424): verbatim in kept text",
+    "10.49 BOOK_C citation context dropped (2024 ABKB 483): verbatim in kept text",
+    "10.49 BOOK_C commentary sentence split dropped",
+    "10.49 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

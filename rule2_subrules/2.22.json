@@ -1,0 +1,433 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.22",
+  "title": {
+    "official": "Self-represented litigants",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Representation or Assistance Before the Court"
+  },
+  "operative_text": {
+    "controlling": "2.22  Individuals may represent themselves in an action unless\nthese rules otherwise provide.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "02f77f2a9cf29fcc84c13a13da87f60e426f216b2a1fdc6a98d9892f071ba549"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.22 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          44
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Self-represented litigants",
+      "operative_text_raw": null,
+      "operative_text_sha256": "bd7440a8bf6c61432390ac5b5fe07c0d19f9c7a6d54057bf773f5dc6c70cd7a9",
+      "related_provisions": "1.1(2) (rules bind all parties) ; 2.23 (assistance by non-lawyer) ; 2.28 (change to lawyer of record); 3.35 (consent orders) ; 10.31(5) (costs to self-represented persons) ; 11.22 (service on self-represented person); 12.56 (service on self-represented person in family law).",
+      "commentary": "A. References\nOn this general topic, see some books.¹\nB. General Principles\nSelf-represented litigants²\nhave a duty to become familiar with relevant legal practices and\nprocedures, and to try to comply with them.³\nThe Rules and procedures are not laxer for such\nlitigants.⁴\nThat duty is especially important if the litigant is sophisticated, and his or her delays\nsigniﬁcant.⁵\nA judge has a duty to give some limited assistance to someone who turns up in court without\na lawyer.⁶\nThe duty certainly applies where the person is charged with contempt.⁷\nHow far that\nduty goes depends on the totality of all the circumstances and is a matter of judicial discretion.⁸\nIt is handy to tell the person that he or she has the right to be represented by a lawyer, and in an\nappropriate case to say that the help of a lawyer may be important, and then to see whether the\n\nparty wants a lawyer or has deﬁnitely decided not to have one. If an unrepresented party seems\nnot comfortable in English, the judge should raise that issue.¹\nBut the judge must remain impartial\nand never become one side’s advocate.²\nThe trial judge should describe applicable basic rules of\nthe law of evidence, and if doing often so contains a serious error, a new trial may be needed.³\nLitigation is complex and not easy for self-represented persons, so that to help them the court\ncan extend some deadlines or correct some irregularities.\nC. Persistent Misconduct\nSee also R.3.68 n. C.\nBut not all unrepresented parties warrant the same treatment.⁴\nOne litigant followed court\nprocedure only when he felt like it. He would not obey instructions from the Bench, said that he\nwould not get justice from the court anyway, and he alleged conspiracy among judges, Masters,\netc. This litigant had also been warned by other courts. His claim was struck out.⁵\nWhere a party\nwithout a lawyer delayed badly, frustrated service, and misconducted herself, she was ordered to\nhire a lawyer or have someone else run her defence; when she did not, her statement of defence\nwas struck out.⁶\nThe Court of Queen's Bench (now called King’s Bench) got a ﬂood of ill-founded habeas\ncorpus applications from serving federal prisoners, many of the applications drafted by one non-\nlawyer inmate for his fellow inmates. Applications for two or more inmates were forbidden, and\nsanctions were predicted.⁷\nThen the Court of King's Bench then adopted a two-part procedure, to screen out on paper\nthe hopeless or vexatious applications.⁸\nIt is now generally followed in cases where a pleading\nor court document has suspicious indications of abuse or odd ﬁctitious concepts. Typically the\ncourt points out speciﬁc oddities or apparent deﬁciencies, and asks for written justiﬁcation or\ncorrections.\nD. Procedure\nGenerally, there are no special Rules or procedures or rules of evidence for unrepresented\nlitigants.⁹\nSelf-represented litigants are not entitled to ask the court for a disproportionate share of\nits resources, in order to remedy their lack of counsel.¹⁰\nThough the Alberta Court of Justice Civil\nDivision encourages those without lawyers to come to court, nevertheless the trial process and\nthe rules accompanying are not to be waived or ignored.¹¹\n\nE. No Free Lawyers\nThere is no constitutional free-standing right to legal representation.¹\nThere is no general\nconstitutional right to be represented by a lawyer before the courts.²\nThere is no inherent power of\na judge to order the government to fund a free lawyer (for a fatality inquiry).³\nThe Alberta Court of\nJustice cannot force the government to give a mother a free lawyer for child welfare (permanent\nguardianship) proceedings, where the Legal Aid Society offers her coverage, but she refuses to\nsign a promise to repay them when able to do so.⁴\nF. Duty to Hire a Lawyer\nA non-lawyer can represent himself or herself in litigation, but cannot represent anyone else,\nnatural person or corporation, nor a group of people in a class action.⁵\nThe Court of King’s Bench\nhas a positive obligation to restrict abusive or unqualiﬁed parties from representing others in that\ncourt, even (for pay) in trafﬁc matters.⁶\nA non-lawyer McKenzie friend is a non-speaking role for quiet suggestions, note-taking, or\nsupport. Not for giving argument on behalf of the party. The courts do not have to allow non-\nlawyers to represent parties, and must ensure that people appearing are properly represented, a\nvexatious, difﬁcult person who is not a lawyer should not be allowed to represent a party.⁷\nWhere there are no letters probate yet, one of two co-executors cannot alone bring court\nproceedings on behalf of the estate without a lawyer, even if he is self-appointed himself as\nlitigation representative.⁸\nAn executor can administer the estate without a lawyer, but the estate or\nexecutor cannot litigate without a lawyer.⁹\nNext friends or guardians ad litem cannot act alone, and must retain counsel.¹⁰\nAnd even\nif no one is disabled or a minor, a class action needs counsel for the representative plaintiffs.\nThey cannot self-represent.¹¹\nThe court has an inherent power to restrict litigation by an estate’s\nrepresentative which appears to involve no legitimate interest of the estate.¹²\nA law ﬁrm was prohibited from acting where the lawyer for the plaintiff would likely be a witness,\nas this action ﬂowed out of a previous action, and a key question was whether there had been\nknowledge. And the members of a law ﬁrm are identiﬁed, so his ﬁrm could not act either.¹³\n\nThat an infant’s lawyers share her religious beliefs and are paid for by her church does not give\nthem a conﬂict of interest, even where those tenets are in issue.¹\nA notice of appeal ﬁled by a non-lawyer for someone else is bad, unless and until the named\nappellant gets a lawyer.²\nIt is difﬁcult for a corporation to get leave to be represented in court by a non-lawyer (such as\none of its shareholder’s relatives). Not where the legal issues were complex, and the individual\nhad a history of vexatious litigation conduct.³\nDespite lack of objection, a justice told a company to\nget a lawyer to represent it henceforth and stop using a lay person.⁴",
+      "footnotes": [
+        {
+          "page": "2-42",
+          "number": 5,
+          "text": "Quite similar to previous 1992 R.5.3. It was ﬁrst enacted by Alta. Reg.87/92."
+        },
+        {
+          "page": "2-43",
+          "number": 1,
+          "text": "Fuerst & Sanderson Ont. Courtroom Procedure, Chap.9 (3d ed.2012). (First author was Ferguson) ; Cdn. Judicial Council, Civil Law Handbook for Self-Represented Litigants (2021) ; Rooke, Working with Self- Represennted Litigants (Alberta Court of Queen's Bench 2012)."
+        },
+        {
+          "page": "2-43",
+          "number": 2,
+          "text": "Those appearing for themselves without a lawyer are often called “self-represented”, and prefer to be so called, and the phrase “self-represented litigant” is not pejorative and does not demonize, marginalize, or disempower such persons. No other litigant should be sanctioned for such terminology: Wang v. Alta. (#__) 2020 ABQB 800, JCC 1901 12788 (Dec 18) (¶ 48), vard 2022 ABCA 79."
+        },
+        {
+          "page": "2-43",
+          "number": 3,
+          "text": "Being self-represented does not excuse mistakes as to the Rules of Court and the King's Bench Act: Parikh v. C. I. B. C.2020 ABCA 367, Edm 2003 0167 AC (one JA Oct 10)."
+        },
+        {
+          "page": "2-43",
+          "number": 4,
+          "text": "Thompson v. DeAgostini 2023 ABKB 663, JCE 1703 23456 (Nov 23) (¶’s 63-64)."
+        },
+        {
+          "page": "2-43",
+          "number": 5,
+          "text": "Clark v. Pezzente 2017 ABCA 220, Calg 1601 0191 AC (one JA Jun 30) ; Fraser v. Ksenych 2022 SKCA 93, CACV 3920 (Aug 11) (¶’s 16-28)."
+        },
+        {
+          "page": "2-43",
+          "number": 6,
+          "text": "Fraser v. Ksenych, supra. Especially telling enough to help the lay person understand the general nature of the issues in question, and give guidance through procedures: Fraser v. Ksenych."
+        },
+        {
+          "page": "2-43",
+          "number": 7,
+          "text": "The Canadian Judicial Council issued a 2006 “Statement of Principles on Self-represented Litigants. . . ” which the Supreme Court of Canada “endorsed” in Pintea v. Johns 2017 SCC 23, [2017] 1 SCR 470. The “Principles” include a number of statements calling for more information and easily-understood explanations (and forms and procedures) for self-represented litigants, as well as forgiving minor errors and modifying the order in which evidence is taken. But the “Principles” several times state that a litigant may lose many rights, and feel the overriding duty of the judge to control the process, if the litigant is disrespectful, unreasonable, vexatious, abusive, or not preparing his or her own case."
+        },
+        {
+          "page": "2-43",
+          "number": 8,
+          "text": "Fraser v. Ksenych, supra. The trial judge must not try to tilt the playing ﬁeld, nor untilt it: J. L. v. T. T.2024 SKCA 38 (Apr 4) (¶’s 58-60) ; Fraser v. Ksenych, supra. Appellants represented themselves in a defamation trial, then complained that the trial judge had not helped them enough. Yet they knew they needed evidence to maintain their defence of truth. The trial judge need not enter the fray and craft arguments or pleadings for any party, with or without counsel: Ludlow v. Hansen 2015 ABCA 98, Calg 1401 0090 AC (Mar 12) (¶ 12)."
+        },
+        {
+          "page": "2-44",
+          "number": 1,
+          "text": "Cold L. F. N. v. R. (Min. of Tourism etc. ) 2012 ABCA 36, 522 AR 159, 64 Alta LR(5th) 201."
+        },
+        {
+          "page": "2-44",
+          "number": 2,
+          "text": "Williams v. Williams 2015 ABCA 246, 602 AR 376; J. L. v. T. T. , supra; Fraser v. Ksenych, supra."
+        },
+        {
+          "page": "2-44",
+          "number": 3,
+          "text": "J. L. v. T. T. , supra (¶’s 61-82)."
+        },
+        {
+          "page": "2-44",
+          "number": 4,
+          "text": "See the Judicial Council’s “Statement”, and the Pintea case, supra."
+        },
+        {
+          "page": "2-44",
+          "number": 5,
+          "text": "McMeekin v. A. -G. Alta. (#2) 2012 ABQB 456, 543 AR 132."
+        },
+        {
+          "page": "2-44",
+          "number": 6,
+          "text": "Pettit v. Condo. Plan 9121282 & Allan (#1) 2005 ABQB 528; Pettit v. Condo. Plan 9121282 & Allan (#2) 2005 ABQB 644. Such orders are becoming more common now."
+        },
+        {
+          "page": "2-44",
+          "number": 7,
+          "text": "McCargar v. R.2017 ABQB 416, JCE 1703 08692 (Jun 30) (¶’s 9-24) ; Badger v. R. (Can. ) 2017 ABQB 457, JCE 1703 10731 (Jul 24) ; Latham v. R. , infra."
+        },
+        {
+          "page": "2-44",
+          "number": 8,
+          "text": "Latham v. R.2018 ABQB 69, JCE 1803 00267 (Jan 31) (¶’s 10-28)."
+        },
+        {
+          "page": "2-44",
+          "number": 9,
+          "text": "R.1.1(2) ; P. E. K. v. B. W. K.2004 ABCA 135, 348 AR 77; Koerner v. Cap. Health Authy.2011 ABCA 289, 515 AR 392; Williams v. Williams, supra; Gjergji v. Hyatt Mitsubishi 2017 ABQB 500, JCC 1001 13486 (Aug 14) (¶ 32) ; Thompson v. DeAgostini, supra. However some basic help is covered in R.2.23."
+        },
+        {
+          "page": "2-44",
+          "number": 10,
+          "text": "Broda v. Broda 2001 ABCA 151, 286 AR 120."
+        },
+        {
+          "page": "2-44",
+          "number": 11,
+          "text": "Jacob v. Pool 2011 ABPC 321, 514 AR 114 (¶’s 88-91)."
+        },
+        {
+          "page": "2-45",
+          "number": 1,
+          "text": "Christie v. A. -G. B. C.2007 SCC 21, [2007] 1 SCR 873."
+        },
+        {
+          "page": "2-45",
+          "number": 2,
+          "text": "Christie v. A. -G. B. C. , supra."
+        },
+        {
+          "page": "2-45",
+          "number": 3,
+          "text": "R. v. Bjorgan 2005 ABCA 309, 417 AR 245."
+        },
+        {
+          "page": "2-45",
+          "number": 4,
+          "text": "Dir. of Child Welfare v. C. D.2004 ABQB 697, 364 AR 356; cf. Jones v. R. C. M. P. Complaints Comm. (1998) 154 FTR 184, 162 DLR(4th) 750; Groenewegen v. Leg. Assembly (1998) 23 CPC(4th) 314, 12 Admin LR(3d) 280."
+        },
+        {
+          "page": "2-45",
+          "number": 5,
+          "text": "Legal Profession Act s.106; Biley v. Sherwood Ford Sales 2019 ABQB 95, JCC 1703 22646 (¶’s 15-19, 23-26); Peets v. R. (Alta. ) (#_) 2022 ABQB 482, JCE 1903 13687 (Jul 12)."
+        },
+        {
+          "page": "2-45",
+          "number": 6,
+          "text": "Tican v. Alamgir 2022 ABKB 843, JCC 2001 14447 (Dec 14) (¶’s 25 ff. )."
+        },
+        {
+          "page": "2-45",
+          "number": 7,
+          "text": "Mukagasigwa v. Nkusi (#_) 2023 ABKB 423, JCE 4803 193613 (Jul 14) (¶’s 8-22). See also Lemay v. Zen Residential (#_) 2023 ABKB 682, JCE 2303 20025 (Nov 30) (¶’s 1-6)."
+        },
+        {
+          "page": "2-45",
+          "number": 8,
+          "text": "Oommen (Chapman Est. ) v. Ramjohn 2015 ABCA 34, 593 AR 376, leave den 2015 ABCA 58, leave den (SCC 13 Aug ’15)."
+        },
+        {
+          "page": "2-45",
+          "number": 9,
+          "text": "Konkolus v. Balanko (Est. ) 2023 ABCA 303, Calg 2201 0294 AC (Oct 23) (¶’s 7-10)."
+        },
+        {
+          "page": "2-45",
+          "number": 10,
+          "text": "So must the litigation guardian of an estate: Re Padget Est. (M) 2015 ABQB 515, JCE 1303 07147 (Aug 14). Unless the guardian is on the Law Society’s active roll: ibid."
+        },
+        {
+          "page": "2-45",
+          "number": 11,
+          "text": "Champagne v. Sidorsky 2012 ABQB 522, 548 AR 10 (¶’s 27-32, 37)."
+        },
+        {
+          "page": "2-45",
+          "number": 12,
+          "text": "Re Padget Est. , supra."
+        },
+        {
+          "page": "2-45",
+          "number": 13,
+          "text": "Forward v. Zurich Ins. Co.2002 ABCA 123, 303 AR 119; cf. Downham v. Wawanesa Mut. Ins. Co.2005 ABQB 299. But early in a lawsuit the plaintiff’s law ﬁrm was not disqualiﬁed as potential witnesses, as it was not clear that there would be a contest nor that they would have to testify: Lion’s Gate Homes v. Henning 2006 ABQB 95, 394 AR 290; cf. Karmis v. R.2008 ABQB 525, 297 DLR(4th) 706."
+        },
+        {
+          "page": "2-46",
+          "number": 1,
+          "text": "Hughes Est. v. Hughes 2009 ABCA 187, 454 AR 190 (¶’s 5-6)."
+        },
+        {
+          "page": "2-46",
+          "number": 2,
+          "text": "EXP Mining Equip. Rentals v. Caterpillar Finl. Serv.2017 ABCA 364, Calg 1601 0322 AC (one JA Nov 6) (¶’s 12-17)."
+        },
+        {
+          "page": "2-46",
+          "number": 3,
+          "text": "Braysan Prop. v. Muchos 2022 ONSC 940 (Feb 9)."
+        },
+        {
+          "page": "2-46",
+          "number": 4,
+          "text": "Vizor v.383501 Alta.2022 ABQB 5, JCE 1903 07391 (Jan 6) (¶’s 69-73)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          2078,
+          2273
+        ],
+        "book_pages": [
+          "2-42",
+          "2-43",
+          "2-44",
+          "2-45",
+          "2-46"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "checked: footnotes run 1-8 (p.2-43), 1-11 (p.2-44), 1-13 (p.2-45), 1-4 (p.2-46); all 11 supra/infra/ibid references point the right way (Fraser v. Ksenych -> p.2-43 fn 5; J. L. v. T. T. -> fn 8; Pintea -> fn 7; Latham infra -> p.2-44 fn 8; Williams -> p.2-44 fn 2; Thompson v. DeAgostini -> p.2-43 fn 4; Christie -> p.2-45 fn 1; Re Padget Est. -> p.2-45 fn 10). Printed typos kept as printed: Part B 'if doing often so contains' (read 'if doing so often'); p.2-43 fn 1 'Represennted'. 4th pass: related provisions list '11.22 (service on self-represented person)', but official 11.22 is 'Recorded mail service' (service of non-commencement documents by recorded mail); the rule on service on self-represented litigants is 11.18 (which Book A cites correctly under 2.28 and 2.29). Probably a wrong number; left as printed. 6th pass: in the full Book A, R.11.17's related provisions label 11.22 '(service on address on most recently filed document)' (p.11-22), matching the official rule - Book A itself describes 11.22 differently elsewhere. Other related provisions checked: 1.1(2), 10.31(5), 12.56, 3.35 and the 11.5 information note all match the official text. 5th pass: Part F 'A non-lawyer can represent himself or herself in litigation, but cannot represent anyone else, natural person or corporation' (p.2-45 fn 5) must be read with official 2.23(4) (2020): the Court keeps a discretion, subject to the Legal Profession Act, to grant a non-lawyer agent a right of audience to speak on behalf of an individual or corporation. Book A's own 2.23 commentary says so (p.2-47 Part A text, and fn 5)."
+    },
+    "BOOK_B": {
+      "title": "Self-represented litigants",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.22:1",
+          "text": "Rule 2.22 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.22. 1. Rule Complements Legal Profession Act An individual has the right to commence and conduct ligitation on his own behalf. Section 103(2)(h) [of the Legal Profession Act] recognizes that right by excluding “a person who sues on his own behalf in an action, matter or proceeding to which he is a party” from the restrictions contained in s. 103(1). The Courts have traditionally accorded the right of audience to an individual appearing on his own behalf. Rule 5.3 confirms that practice and complements s. 103(2)(h). Professional Sign Crafters (1988) Ltd. v. Wedekind (1994), 19 Alta. L.R. (3d) 53 (Q.B.), at 59, per O'Leary, J. In Beacon Hill Service (2000) Ltd. v. Esso Petroleum Canada, 2011 ABQB 138, 2011 CarswellAlta 366, 512 A.R. 212, 45 Alta. L.R. (5th) 92, a lawyer was named personally as a defendant by counterclaim. An issue arose as to whether the lawyer had the right to represent himself in the litigation. At paragraphs 31–38, Macleod, J. said: 31 This leaves the question of whether Mr. Merchant has the right to represent himself. 32 The right to represent one's self has always been important and is enshrined in the Alberta Rules of Court, A.R. 124/2010. Our newly enacted Rule 2.22 provides that “Individuals may represent themselves in an action unless these rules otherwise provide.” Why should a person be deprived of this right simply because he is a lawyer? There is nothing in the Rules of Court that so provides. Could a lawyer simply say that in acting for himself, he is acting only in his capacity as a party and not as a barrister and solicitor? 33 Lawyers are not prohibited from being their own counsel as parties to a proceeding: Brogan v. Walker, 2001 NSSC 53, 193 N.S.R. (2d) 154 at para. 18. However, a lawyer's right of self-representation is not unqualified. Even when appearing on their own behalf, lawyers are still bound by the relevant codes of ethics and professional responsibility. A practicing lawyer who represents himself in a court of law is to conduct himself in a manner consistent with that expected of a member of the Law Society and with his status as an officer of the court gained from that membership: Parkridge Homes Ltd. v. Anglin, [1996] A.J. No. 768 (Alta. Q.B.) at paras. 32 and 33; Collins v. Collins, 1999 ABQB 707, 256 A.R. 311 at para. 26. 34 In Ritchot v. The Law Society of Manitoba, 2010 MBCA 13, 251 Man.R. (2d) 121, the Manitoba Court of Appeal at paras. 42–47 upheld the decision of the Law Society of Manitoba that Ritchot, a lawyer, was subject to the Manitoba Code of Professional Conduct notwithstanding that she was engaged in her own representation. In the result, the Court upheld the Law Society's finding that Ritchot was guilty of conduct unbecoming a lawyer. 35 The court's inherent jurisdiction to remove counsel, as well as the standard required to do so, was discussed by the Court in Everingham v Ont. (1992), 8 O.R. (3d) 121 (Gen. Div. [Div. Ct.]). In that case, there was no question of a conflict of interest. The facts were that a number of patients confined to a mental hospital applied for declarations that certain of their rights had been infringed. A Crown solicitor who was touring the hospital had a conversation with one of those patients in the absence of that patient's counsel. Though no confidential information was obtained in that conversation, the Court held that it was necessary to remove the solicitor. The Court held as follows at paras. 27–29: It is within the inherent jurisdiction of a superior court to deny the right of audience to counsel when the interests of justice so require by reason of conflict or otherwise. This power does not depend on the rules of professional conduct made by the legal profession and is not limited to cases where the rules are breached. The issue here is not whether or not the rule was breached or whether the solicitor worked for the government. Nor is it solely whether the patient lost confidence in the process. The issue is whether a fair-minded reasonably informed member of the public would conclude that the proper administration of justice required the removal of the solicitor. [Emphasis added.] 36 It seems reasonable to conclude that circumstances could arise where a lawyer's breach of professional ethics would cause a fair-minded, reasonably informed member of the public to conclude that the proper administration of justice required the removal of the solicitor, even in a case where that solicitor represented only himself. Those who have been entrusted with the title of lawyer, barrister or solicitor, and the powers thereof should not be allowed to ignore their duties as officers of the court simply because they are self-represented litigants. 37 This raises the somewhat thorny question of how that removal would be effected. Clearly, the question is substantially simpler when parties and counsel are separate individuals. If counsel is removed, the party may choose to obtain replacement counsel or to represent himself. But how is a solicitor who is himself the party to be removed? The Court in Everingham refers to denying the right of audience. The court, as part of its inherent right to control its own process, may deny the right of audience, that is, the right to be heard, to a self-represented solicitor when, to return to the phraseology in Forward, “the preservation of the integrity of the system of justice” so requires. In light of my decision below, I need not determine how this would be carried out in practice. 38 Based on the above, it is clear the starting point is that Mr. Merchant does have a right to represent himself. However, he is bound by the Law Society of Alberta's Code of Professional Conduct. In the end, Justice Macleod permitted the lawyer to represent himself but added this warning (at paragraph 40): 40 However, I want to make it clear that this circumstance is subject to re-evaluation if and when necessary. Although certainly I question the wisdom of Mr. Merchant representing himself, I have not been presented with evidence to justify denying him this right at this time. However, if such evidence is forthcoming as this matter unfolds, it will be duly considered and the question re-evaluated. The appeal from Justice McLeod's decision was dismissed: Beacon Hill Service (2000) Ltd. v. Esso Petroleum Canada, 2012 ABCA 269, 2012 CarswellAlta 1563, 536 A.R. 221, 70 Alta. L.R. (5th) 238. 2. An Estate is Not an Individual In Chapman Estate v. Ramjohn, 2015 ABCA 34, 2015 CarswellAlta 102, 3 E.T.R. (4th) 207, Madam Justice Veldhuis said, at paragraphs 3-4: 3 The Rules of Court provide that individuals may represent themselves in an action: Rule 2.22. An estate is not an individual in this context but a separate legal entity. This has been established in the constitutional context: Stinson (Estate of) v British Columbia, 1999 BCCA 761 at para 15, 133 BCAC 15; Canada (Attorney General) v Hislop, 2007 SCC 10 at para 73, [2007] 1 SCR 429. In addition, Rule 2.14(1) refers to an “individual or estate” (emphasis added), indicating the two concepts are distinct. 4 An estate therefore requires representation to appear in court. Section 106(1) of the Legal Profession Act, RSA 2000, c L-8 provides that no person shall commence, carry on or defend an action or proceeding before a court or judge on another's behalf unless that person is an active member of the Law Society of Alberta. Section 106(2) provides a number of exceptions to this rule, none of which apply in the circumstances of this case. 3. Corporations Must Be Represented by Lawyers In 908077 Alberta Ltd. v. 1313608 Alberta Ltd., 2015 ABCA 117, Justice Slatter said: 2 Rule 2.22 provides that an “individual” may be self-represented in the superior courts. The statutory and case law confirms that other types of litigants in civil cases, including corporations, must be represented by a lawyer: Lameman v Alberta, 2012 ABCA 59 at paras. 9, 35, 522 AR 140; Chapman Estate v Ramjohn, 2015 ABCA 34 at paras. 3-4; Legal Profession Act, RSA 2000, c. L-8, s. 106. 3 It follows that the corporate appellant must retain counsel to represent it in this appeal. There are several advantages to doing business through a corporation (such as limited liability, and perpetual succession) but also some burdens. Using a lawyer during litigation is one such burden. If the corporate appellant is able, in this appeal, to establish some right to be represented by its non-lawyer directors, then it could continue to pursue the landlord and tenant dispute itself. However, as the law presently stands, the appellant must have counsel for this appeal. In the Queen's Bench ruling (2015 ABQB 108) which the Court of Appeal was reviewing, Associate Chief Justice Rooke said: 56 In summary: 1. an individual may represent themselves in the Alberta Court of Queen's Bench; 2. an estate, corporation, or litigation representative must be represented in the Alberta Court of Queen's Bench by a person authorized to practice law under the Legal Profession Act; 3. any common law or inherent discretion to permit representation in the Alberta Court of Queen's Bench by a non-lawyer has been extinguished by the New Rules; 4. New Rule 2.23 allows any person to provide only silent and passive support in court, provided those activities are restricted to a “McKenzie Friend” role; and 5. Professional Sign Crafters (1988) Ltd. v Wedekind, Pacer Enterprises Ltd. v Cummings, and Balogun v Pandher are no longer good law in relation to the right to physically appear in court as a representative and have been overruled by Lameman v Alberta (C.A.). The Court of Appeal made no adverse comment about that summary, and in Landmass Dirtworx Ltd. v. Prairie Mountain Construction (2010) Inc., 2015 ABQB 362, Justice Graesser said that A.C.J. Rooke's “decision was essentially upheld by the Court of Appeal”. Justice Graesser went on to say (at paragraph 17 of Landmass: 17 While the 908077 decision in the Court of Appeal is from one Court of Appeal judge and not from a full panel, to the extent that it may not be binding law in Alberta, the reasons expressed by Rooke ACJ and by Slattter JA are compelling and I will follow them. For an example of the decision in 908077 Alberta Ltd. v. 1313608 Alberta Ltd., 2015 ABCA 117, being applied, see: R. Floden Services Ltd. v. Solomon, 2015 ABQB 450 at paragraphs 12–14. 908077 Alberta Ltd. v. 1313608 Alberta Ltd. was applied in Park Avenue Flooring Inc. v. EllisDon Construction Services Inc., 2016 ABCA 211, 2016 CarswellAlta 1251 at paragraph 8. In Real Estate Strategies Group Inc. v. Prairie Communities Corp., 2016 ABCA 286, 2016 CarswellAlta 1831, Madam Justice Paperny said: 4 As noted, Mr. Penner seeks an order permitting him to represent RESG in court. He is not a lawyer. The current law in Alberta is well settled: this Court does not have the discretion to allow a non- lawyer to represent a party in Court: see Lameman v Alberta, 2012 ABCA 59, 348 DLR (4th) 45 [Lameman]; 908077 Alberta Ltd (Escape & Relax) v 1313608 Alberta Ltd, 2015 ABCA 117, [2015] 8 WWR 310; Park Avenue Flooring Inc v EllisDon Construction Services Inc, 2016 ABCA 211, [2016] AWLD 3576. 5 The Legal Professions Act, RSA 2000, c L-8, ss 102(2) and 106, governs who may appear before the courts [sections of the legislation omitted]. 6 Lameman clearly held that appearing in court and giving argument or leading evidence on behalf of one of the parties falls within the meaning of s 106 (1)(b) of the Legal Professions Act as acting as a barrister or solicitor: para 13. Logically, this principle extends to the bringing of court applications on behalf of those parties. 7 Rule 2.22 of the Rules of Court provides that only individuals can be self-represented. Corporations are not individuals and cannot represent themselves in court. 8 Rule 2.23(1) allows someone to provide assistance to a party. However, that assistance does not include speaking for the party, and is expressly limited to that which does not contravene s 106(1) of the Legal Professions Act. 9 Bringing court applications on behalf of a party falls directly under section 106(1)(c) of the Legal Professions Act. In Pacer Enterprises Ltd v Cummings, 2004 ABCA 28 at para 14, 346 AR 161, this Court concluded that the “right of audience” conferred on an agent either by statute or the then Rules of Court, Alta Reg 390/1968, r 5.4 (now succeeded by Rule 2.22(1)) does not include the right to prepare or file documents in furtherance of litigation. These acts can only be performed by members of the legal profession. See Allen Qui Tam v Jarvis (1871), 32 UCR 56, 32 UCQB 56 (Upper Canada QB), and R v Nicholson (1979), 14 AR 450, 96 DLR (3d) 693 (CA). 10 The case law and the Legal Professions Act make it clear that a corporation must be represented at the Court of Queen's Bench and the Court of Appeal by a person authorized to practice law under the Legal Professions Act and that the court has no common law or inherent discretion to permit such representation unless otherwise provided for. Any residual discretion has been extinguished by the new Rules of Court. 11 The argument raised by RESG relies on comments from the rules committee that preceded the enactment of the new Rules of Court and cannot be sustained. Moreover, Mr. Penner argues that the natural person powers granted corporations under the Business Corporations Act, RSA 2000, c B-9, should prevail over the Legal Professions Act. There is no legal support for this proposition. 12 The last argument raised is that Mr. Penner is an individual and has an economic right under section 7 of the Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11, because RESG is a source of income to him. He submits this right will be infringed if the court requires RESG to retain counsel to represent it. This argument is also unsustainable. The court in Whitbread v Walley (1988), 26 BCLR (2d) 203, 51 DLR (4th) 509 (CA) held that section 7 of the Charter is not infringed in these circumstances. Section 7 of the Charter is not a guarantee of financial prosperity or economic security. Also see Vysek v Nova Gas International Ltd, 2002 ABCA 112 at para 13, 303 AR 209. In National Leasing Group Inc. v. Acme Enterprises Ltd., 2015 ABQB 631 (Master), Master Schlosser made some very thoughtful comments about the position in which closely-held corporations find themselves if they cannot afford to hire a lawyer. The learned Master said: 5 The second issue regarding “representation” is somewhat more complicated given that section 106 of the Legal Profession Act, prohibits non-lawyers representing individuals, or companies, even with their proxy. The old Rules (R 5.4, AR 390/1968) provided a discretionary exception but the 908 case confirms that this is no more.2 6 This case has some features that distinguish it from the 908 and the Landmass decisions. In 908, two directors (with resolutions purporting to authorize them to represent the company) sought to make an application on its behalf. In Landmass, a director wanted to represent the plaintiff in response to an application by the defendants to open up a default judgment. In neither case were the persons seeking to represent the corporate party themselves parties to the action. That is not the case here. Mr. Hedges is a named defendant in his own right and the allegations are that all of the defendants are jointly and severally liable. 7 In this case, Mr. Hedges says that Acme cannot afford a lawyer, and if he can't speak Acme will have no voice. He did not say why the others could not attend in person. Company Representation 8 Both 908 and Landmass addressed what I consider to be the unsatisfactory state of the current laws and Rules on representation. The right to be heard is one of the essential characteristics of natural justice (audi alteram partem). A small, closely-held company that is unable to afford a lawyer is effectively rendered mute. This type of problem comes up on nearly a daily basis in morning chambers. Sometimes the litigants come with resolutions (as in 908), or “powers of attorney”. Opposing counsel almost never object to a director or owner of a closely held company speaking on its behalf. It is difficult to see that a statute, presumably intended for the protection of the public was also intended to protect artificial persons from their owners or controllers. But the 908 case tells us that owners representing companies is illegal unless they are lawyers. What can the Court do? 9 In Landmass, a director wished to respond to the defendant's application. Graesser J. held that the director could not do so, but concluded: [30] As such, while I must ignore any representations made by Ms. Schultz in court, I do not believe that I am required to ignore the contents of her affidavit. She is the sole director of the corporation and has a significant personal interest in the outcome by virtue of her interest in Landmass. She is not an intermeddler or legal agent exploiting the difficulties the Law Society has in pursuing those who attempt to practice law in contravention of the Legal Profession Act. 10 This approach seems also to be justified by section 106(2)(j) of the Legal Profession Act which excepts from the prohibition: (j) an officer or employee of a corporation, partnership or unincorporated body in respect of the preparation of a document for the use of the corporation, partnership or unincorporated body or to which it is a party; 11 A corporation cannot speak for itself. It can only act or give evidence through its officers and employees. In my view, both Landmass and section 106(2)(j) of the Legal Profession Act oblige the court at least to consider the materials on the court file on behalf of an otherwise unrepresented corporate party. 12 Though it doesn't quite go so far, in my view Landmass also requires the court to consider the affidavits of the individual defendants who did not appear. How Should the Issue be Approached? 13 The materials on the court file that are prepared by non-lawyers may have many shortcomings. An untrained director may have no grasp of the relevant tests or legal issues. The approach under the old rules sometimes involved testing the competence of the person seeking to represent the company (e.g. Rangelander Holdings Ltd. v Calgary (City), (1997) 196 AR 127 (C.A.)). 14 The starting point should be a review of the materials on the file and, in the case of a corporation, to subject them to filter of competency (or grasp of issues) before deciding how to deal with the case. The fact that there are materials on the file is not enough. A lack of appreciation of the issues may itself require that the matter be adjourned. This is part of the court's duty of limited assistance in order to prevent a miscarriage of justice. It is also part of the duty of the court to provide a fair hearing3 15 This may also mean hearing from a director or officer to find out what they think the case is really about, or what their position is. Sometimes there may be no point in adjourning the matter for representation and proper evidence: an example might be defences based solely on OPCA-style (organized pseudo legal commercial) arguments, as that term is defined in Meads v Meads, 2012 ABQB 571, per Rooke ACJ. 16 The next thing to look at is the relationship of the parties and the nature of their liability. If the company and its owner are named as defendants, for example, and their liabilities are expressed to be joint and several, the unity of their position likely makes acknowledging the separate legal personality of the corporation a distinction without a difference. Just because the representations of the individual might also happen to apply to the corporation does not, in my view, turn what the individual says on his own behalf into a case of illegal representation even though it might also apply to the company. I do not think that section 106 of Legal Profession Act goes so far as to prevent the court from applying what the company owner says on his own behalf to the company's position in these circumstances. 17 There is an undoubted rule making power (eg Rule 1.6(1)) given to judges4 and an inherent jurisdiction in the court to control its own process. Regrettably, this does not extend to reviving old rules (such as Rule 5.4) that have been repealed. Nor does it extend to authorizing a breach of statute, or sanctioning an offence: Lameman v Alberta, 2012 ABCA 59 at paras 35–37 and Scotia Mortgage Corporation v Gutierrez, 2012 ABQB 683, per Laycock, M. (and see 908, especially para. 37 et seq, and the cases cited there). Separate Legal Personality 18 Incorporation usually gives a number of advantages; the central one usually being the limited exposure of the owners of the company to liability. This is the “corporate entity doctrine” found in Salomon v Salomon and Company Ltd, [1887] AC 22 (HL); Soper v Little John (1901) 31 SCR 572. There are other advantages, but that is usually the main one. The burdens of incorporation (such as having to have a lawyer represent the company) usually follow the benefits, (and see Kosmopoulos, below, esp at p. 11). 19 In Elbow River Marketing Limited Partnership v Canada Clean Funds Inc., 2012 ABCA 328, our Court of Appeal observed: Canadian Courts will pierce the corporate veil only when a corporation has been completely dominated and controlled and used as a shield for fraudulent or improper conduct. 20 Elbow was a summary judgment case. In that case, the court decided that there was a triable issue (on the old test) and that the case should proceed to trial. 21 With respect, this observation is somewhat narrower than that of Wilson J., speaking for the majority in Kosmopoulos v Constitution Insurance Company, 1987, 1 SCR 2 at 1012. She observed that the law in that area had (then) not followed any consistent principle, but, cited the English Company Law Textbook: Modern Company Law, LCB Gover, 4th ed, 1979 at p. 112, and said that the corporate entity doctrine would not be enforced if the result was “to flagrantly opposed to justice, convenience or the interest of the revenue”. 22 A central or unifying principle about when the separate legal personality of the company may be ignored has proved elusive. Much of the discussion is dicta. Often times a result can be explained or justified on other principles. However, broadly stated, the central issue in that context appears to be whether third parties would suffer as a result of not lifting the veil. 23 Kosmopoulos, Elbow and the root case cited by Elbow; Transamerica Life Insurance Co. of Canada v Canada Life Assurance Co. (1996) 28 OR (3d) 423, (Ont SC) are about the use of (usually) closely-held companies to throw up obstacles in the path of justice. I am not aware of any cases that would prevent another use; to ignore separate legal personality to remove obstacles, and permit access to justice. 24 Prest v Petrodell Resources Limited[2013] 2 AC 415 (United Kingdon Supreme Court) contains a helpful recent review of this area of the law. Lord Sumpton, in an attempt to reconcile the many conflicting and competing authorities, identified central themes of “concealment” and “evasion”. The evasion principle allows the court to “disregard the corporate veil if there is a legal right against the person in control of it which exists independently of the company's involvement and that a company is interposed so that the separate legal personality of the company will defeat the right or frustrate its enforcement”. (Prest, para. 28) (emphasis added) 25 In some cases the principal of a closely held company wishes to use a company as a shield; accepting the benefits of incorporation but not a particular burden such as the burden imposed by section 106 of the Legal Profession Act. And when the company and the principals are named together, there is typically a conflict when the owner seeks to evade liability by passing it all to the company. In those circumstances, there would be an obvious conflict in letting the individual speak for the company, unless liability is joint. “No Benefit No Burden” 26 Drawing aside the corporate veil may be a way to deal with the problem of representation in the current statutory regime. If an owner wishes to step up for a limited company because it has no other means of speaking, he could be offered the opportunity to step out from behind it. This would be consistent with the benefits and burdens test that is central to the analysis: In Kosmopoulos it was expressed to be “not blowing hot and cold at the same time” (p. 11). In Prest (at para. 35), it was acknowledged that the veil was sometimes lifted to deprive the company or its owner of an advantage. 27 Doing this would mean ignoring the separate legal personality of the company by treating it, for the purposes of the lawsuit, as if the company were a firm. It may mean adjusting the parties. I acknowledge this would not work so well for anything other than the so-called “one-man companies”; or when the corporate party is a Plaintiff. However, it may provide a way to deal with the problem of representation that does not require adjournment or default. But this is for another day or another case. It is unnecessary here. Options 28 It seems that the options available to the court in this legislative regime are: 1. To hear the officer's account of what the lawsuit is about (which is not evidence of any kind), to help the court decide what the next step should be. This provides a limited right of audience, falling short of representation as that term is used in the Legal Profession Act. 2. To review the affidavit evidence on the file to see whether a fair and just determination of the issues is possible based on the evidence on file. 3. If necessary, to adjourn the matter on terms; such as requiring the litigant to retain counsel, or risk losing the lawsuit for nonappearance. 4. To hear the evidence and the representations of the individual in their own right and, if appropriate, to apply it to the company if there is a unity in their position; such as where their liability is joint. 5. In appropriate circumstances, to disregard the separate legal personality of the corporate party. This may require giving the company owner the option as being added as a party, or, if she is already a party, to hear representations on the condition that the liability of the corporate defendant and the individual defendant will be joint and several. They would stand or fall together, which would eliminate any conflict or evasion. 6. This last approach is not likely to be necessary if the owner is already named individually and the liability sought against the owner and the corporate entity is joint, as is the case here. In a manner of speaking this situation involves treating the individual's position as representative because the corporate distinction in these circumstances is an empty fiction. 29 As it turns out, there is no real question about the company's liability on the facts of this case. The only real issue is the exposure of the individual defendants who, if they are liable under the agreement, are liable jointly and severally. 30 In the circumstances I am going to consider the evidence on file and the representations of Paul Hedges, at least in his own right, rather than to adjourn this application further for representation or, (and without more,) simply to give judgment against Angela, Christopher and Acme for non-appearance. The Summary Judgment application has been adjourned several times already."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_033",
+        "part2_rule_2_22_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_034",
+        "part2_alberta_rules_of_court_rule_2_part_2_035",
+        "part2_rule_2_22_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_036"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "0049f9d54665a4d62e24691d0851c2e96473052e25d18f79bc795e00c11200bb",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Self-represented litigants",
+      "division_heading": "Division 3 – REPRESENTATION OR ASSISTANCE BEFORE THE COURT",
+      "operative_text_raw": null,
+      "operative_text_sha256": "0049f9d54665a4d62e24691d0851c2e96473052e25d18f79bc795e00c11200bb",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_note": "one sentence ('Corporations are not individuals and cannot represent themselves in courts') then cut off and ending in a stray statute citation from rule 2.11. The point is stated fully in Book A (2.22 Part F) and Book B. Not retained."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.22",
+      "title_official": "Self-represented litigants"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "bd7440a8bf6c61432390ac5b5fe07c0d19f9c7a6d54057bf773f5dc6c70cd7a9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            2078,
+            2273
+          ],
+          "book_pages": [
+            "2-42",
+            "2-43",
+            "2-44",
+            "2-45",
+            "2-46"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "0049f9d54665a4d62e24691d0851c2e96473052e25d18f79bc795e00c11200bb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "0049f9d54665a4d62e24691d0851c2e96473052e25d18f79bc795e00c11200bb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "02f77f2a9cf29fcc84c13a13da87f60e426f216b2a1fdc6a98d9892f071ba549",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            44
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "46e8720cfff8acb521e7e01131f8a35fd793052fd5d06eb37a04b612838eca56"
+  },
+  "information_notes": [
+    {
+      "text": "Rules for service of commencement documents on individuals are contained in rule 11.5\n[Service on individuals]. See also the information note following rule 11.5.",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "garbled copy of the same note (word order/brackets); not retained"
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.1.1 notes (p.1-4): 'On self-represented litigants, see also R.2.22'; listed as a related provision under R.1.1 (p.1-3), R.10.31 (p.10-60), R.11.18 (p.11-23) and R.12.56 (p.12-86). BOOK_A 2.22's pointer 'R.3.68 n. C' checked: R.3.68's Part C is 'Vexatious Litigants' (matches). BOOK_A's own Part 11 labels 11.22 '(service on address on most recently filed document)' (p.11-22), unlike its 2.22 label - see the 2.22 flag.",
+    "Rule 2.23: BOOK_A related provisions and Part C ('McKenzie friends, on whom also see R.2.22 n. F'); BOOK_A 2.22 fn 9 (p.2-44): 'some basic help is covered in R.2.23'; BOOK_B 2.22 quotes Real Estate Strategies on 2.23(1).",
+    "Rule 2.24: BOOK_A related provisions and fn 10 ('See also R.2.22 n. F above').",
+    "BOOK_B 2.13 (Nahirney para 25: self-represented litigants have a right of audience under Rule 2.22) and BOOK_B 2.14 (Oommen: an estate is not an individual under Rule 2.22).",
+    "Rule 3.68: BOOK_A Part C 'See also R.3.68 n. C'.",
+    "Cross-book (4th pass): BOOK_B 2.22 sections 1 and 3 (Beacon Hill 2011 ABQB 138 / 2012 ABCA 269; 908077 2015 ABQB 108 / 2015 ABCA 117; Landmass 2015 ABQB 362; Park Avenue 2016 ABCA 211; Real Estate Strategies 2016 ABCA 286; National Leasing 2015 ABQB 631; Pacer 2004 ABCA 28; Lameman 2012 ABCA 59) are cited by BOOK_A under 2.23 (fns p.2-47 #2, #4-6) and 2.24 (Beacon Hill, p.2-58 fn 4). BOOK_C's dropped 2.22 fragment repeats 908077 CA para 2 as quoted by BOOK_B. BOOK_B read in full in the 4th pass: sections 1-3, ends at source; the quoted judgments' own footnote numbers are merged into the text ('no more.2', 'fair hearing3', 'judges4'), and the RESG quote's 'Rule 2.22(1)' is the judge's wording (2.22 has no subrules)."
+  ],
+  "dedupe_log": [
+    "2.22 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.22 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.22 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.22 BOOK_C information note dropped: garbled duplicate, no new words",
+    "2.22 BOOK_C commentary sentence split dropped",
+    "2.22 BOOK_C: commentary dropped (manual review)",
+    "2.22 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

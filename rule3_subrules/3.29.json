@@ -1,0 +1,239 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.29",
+  "title": {
+    "official": "Notice of extension of time for service",
+    "variants": {
+      "BOOK_A": "Notice of Extension ofTime for Service"
+    }
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Time Limit for Service of Statement of Claim"
+  },
+  "operative_text": {
+    "controlling": "3.29   If a statement of claim is served within an extension of time\nfor service permitted by the Court under rule 3.26 or rule 3.27,\nwhen it is served the statement of claim must be accompanied with\n(a) a copy of the order granting the extension, or\n(b) written notice of the order.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "5a85e45fbbabfeff4d6a0bc3f4a5a71a4db00c21a925b9a859198e08f9e1dc48"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.29 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          61
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Notice of Extension ofTime for Service",
+      "operative_text_raw": null,
+      "operative_text_sha256": "87ef4a4add29660802c9b20056410de52dbeaf4d19cfdf8d4dd7e3586da7f162",
+      "defined_terms": "Court, order 1R.3.76(2)(b).See the C.P.E., Chapter 24, Parts A.3 and A.21.On the new statutory time for adding parties, which is time limit for suing plus time limit for serving, seeDaniels v.4000259 Alta.(M) 2003 ABQB 856. 2 SeeVaters v.Calg. Cab Co.(M) 2000 ABQB 224, 263 AR 374,affd2001 ABCA 154, 286 AR 107;Hiep v. *Cain2004 ABQB 876, 365 AR 366. and the plaintiff learned that the defendant knew, but that was not clear enough evidence to show receipt of a copy of the claim, and other evidence of statements by the defendant was not in technical compliance with the Rule on information and belief, so this evidence did not support use of R.3.27:Reyes v. Dyck(M) 2019 1Quite similar to previous 1968 R.27.It came from 1944 C.R.29, and Eng.1883 O.12 r.30. 2McMeekin v. A.-G.Alta.2012 ABQB 144, 537 AR 136. *Subdivision 3 Defence to Statement of Claim, Reply to Defence and Demand for Notice *Defendant's Options*",
+      "related_provisions": null,
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-79",
+          "3-80"
+        ],
+        "offset_in_clean_text": [
+          253673,
+          254959
+        ]
+      },
+      "operative_text_note": "same wording as official 3.29(a)-(b) and lead-in (read by eye) except the bracket labels '[Time for service of statement of claim]' after 'rule 3.26' and '[Extension of time for service]' after 'rule 3.27' (both match the official titles of 3.26 and 3.27), the title in title case ('Notice of Extension of Time for Service', printed 'Notice of Extension ofTime for Service'), missing spaces ('isserved', 'oftime') and '*' line marks, and the footnote marker '4' after (b). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 4 ('Quite similar to previous 1991 R.11(8). It was first enacted by Alta.Reg.308/91') is printed at p.3-79 (line 2147) inside the built 3.28 record and is kept there.",
+      "commentary_review_flag": "Read in full, p.3-79 (line 2165) to p.3-80 (line 2178): rule text, Defined Terms 'Court, order' (the Appendix defines both) and, after them, only pieces of other rules' notes and footnotes; Book A prints NO note, related provisions or information note of its own for 3.29 (searched the built record for a passage about the rule: none). The built record has no commentary field: everything after the Defined Terms is in defined_terms (916 characters, nothing dropped). Its pieces are: 3.28's note footnotes 1 and 2 ('R.3.76(2)(b). See the C.P.E., Chapter 24, Parts A.3 and A.21. On the new statutory time for adding parties, which is time limit for suing plus time limit for serving, see Daniels v. 4000259 Alta. (M) 2003 ABQB 856'; 'See Vaters v. Calg. Cab Co. (M) 2000 ABQB 224, 263 AR 374, affd 2001 ABCA 154, 286 AR 107; Hiep v. Cain 2004 ABQB 876, 365 AR 366'), the end of 3.28's paragraph 'An insurer got a copy of the statement of claim twice ... so this evidence did not support use of R.3.27: Reyes v. Dyck (M) 2019' (its citation is split: 'Reyes v. Dyck (M) 2019 ABQB 667, 2 Alta LR(7th)' in the 3.27 record at p.3-77 line 2075 and '... 207 (¶'s 23-28), affd 2020 ABQB 154' in the 3.28 record at p.3-79 line 2147), and 3.30's history footnote 1 ('Quite similar to previous 1968 R.27. It came from 1944 C.R.29, and Eng.1883 O.12 r.30') and footnote 2 ('McMeekin v. A.-G. Alta. 2012 ABQB 144, 537 AR 136') with the Subdivision 3 heading and title of 3.30 ('Subdivision 3 Defence to Statement of Claim, Reply to Defence and Demand for Notice', 'Defendant's Options', line 2178). This rule's history footnote 4 (1991 R.11(8), first enacted by Alta.Reg.308/91) is in the 3.28 record. The 3.28 note's sentence 'See R.3.29' (p.3-79, line 2149) lands on the rule itself. The statements in those pieces that touch this rule's subject (time to serve a new defendant; validation of service) belong to 3.28 and were read in the 3.28 pass."
+    },
+    "BOOK_B": {
+      "title": "Notice of extension of time for service",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.29:1",
+          "text": "Rule 3.29 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.29. The respondents also argue that the renewed statement of claim was not endorsed by the clerk of the court, as required by rule 11(7). Is the unendorsed renewed statement of claim a nullity or a curable irregularity? . . . . . Rule 558 reflects the judicial reluctance to treat procedural defects as nullities that halt proceedings… . . . . . In this case, a renewal order was properly granted by the master. While an endorsement helps identify that the proper procedural step has been taken, the lack of endorsement does not negate the fact that the order for renewal was granted. Therefore, an unendorsed renewed statement of claim is not a nullity that halts a proceeding, but a curable irregularity. When can a curable irregularity be cured? Under rule 558, the court must consider whether the noncompliance with the Rules can be cured without prejudice to the other party. Oberg v. Foothills Provincial General Hospital (1999), 232 A.R. 263 (C.A.), at 269, per Conrad J.A."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_29_001",
+        "part3_part_3_court_actions_012",
+        "part3_rule_3_29_002",
+        "part3_part_3_court_actions_014"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part03_document.json"
+        ]
+      },
+      "operative_text_sha256": "66666b14a2b98fadec816e149cec4729de8ff03c5b10952c408b6d28fe70009e",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Notice of extension of time for service",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "6b260803266084db5a1f745fdfa49958124c30586962096ad3ee9431175a3de5",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule simply requires notice to the receiving party of the extension so they know the statement of claim must be responded to.\nSubdivision 3: DEFENCE TO STATEMENT OF CLAIM, REPLY TO DEFENCE AND DEMAND FOR NOTICE",
+          "citations": [],
+          "review_flag": "(1) The commentary ('This rule simply requires notice to the receiving party of the extension so they know the statement of claim must be responded to') agrees with official 3.29 (a copy of the order or written notice of it must accompany the statement of claim when it is served within an extension). (2) The last line of the commentary item, 'Subdivision 3: DEFENCE TO STATEMENT OF CLAIM, REPLY TO DEFENCE AND DEMAND FOR NOTICE', is the heading of Subdivision 3 (it matches the official Subdivision 3 heading 'Defence to Statement of Claim, Reply to Defence and Demand for Notice') and is not commentary. (3) Rule text: see the text note (bracket labels displaced; no word lost)."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "121-140_3_19 to 3_43.json",
+        "source_file": "121-140_revised.md"
+      },
+      "operative_text_note": "same words as official 3.29 (read by eye), with displaced bracket labels: after 'rule 3.26' the label '[Time for service of statement of claim]' (matches the official title of 3.26), then the label of 3.27 printed as '[Extension of time for or rule 3.27 service]' - the words 'or rule 3.27' stand inside the label, which reads '[Extension of time for service]' (matches the official title of 3.27); no word is lost. The amendment note '[Alta. Reg. 124/2010, r. 3.29 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7021,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.29(a)-(b) and lead-in (read by eye) except the bracket labels '[Time for service of statement of claim]' after 'rule 3.26' and '[Extension of time for service]' after 'rule 3.27' (both match the official titles of 3.26 and 3.27), the title in title case ('Notice of Extension of Time for Service', printed 'Notice of Extension ofTime for Service'), missing spaces ('isserved', 'oftime') and '*' line marks, and the footnote marker '4' after (b). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 4 ('Quite similar to previous 1991 R.11(8). It was first enacted by Alta.Reg.308/91') is printed at p.3-79 (line 2147) inside the built 3.28 record and is kept there."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9505,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same words as official 3.29 (read by eye), with displaced bracket labels: after 'rule 3.26' the label '[Time for service of statement of claim]' (matches the official title of 3.26), then the label of 3.27 printed as '[Extension of time for or rule 3.27 service]' - the words 'or rule 3.27' stand inside the label, which reads '[Extension of time for service]' (matches the official title of 3.27); no word is lost. The amendment note '[Alta. Reg. 124/2010, r. 3.29 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation)."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.29",
+      "title_official": "Notice of extension of time for service"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "87ef4a4add29660802c9b20056410de52dbeaf4d19cfdf8d4dd7e3586da7f162",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-79",
+            "3-80"
+          ],
+          "offset_in_clean_text": [
+            253673,
+            254959
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "66666b14a2b98fadec816e149cec4729de8ff03c5b10952c408b6d28fe70009e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part03_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "6b260803266084db5a1f745fdfa49958124c30586962096ad3ee9431175a3de5",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "121-140_3_19 to 3_43.json",
+          "source_file": "121-140_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "5a85e45fbbabfeff4d6a0bc3f4a5a71a4db00c21a925b9a859198e08f9e1dc48",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            61
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "e7ca74c57f5760d8419fd643409752b00eb044d5f805aac5310d41d7cf2c1cff"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_B and BOOK_C other Parts (all files searched): no Book B or Book C file other than the rule's own entries cites 3.29 by number. BOOK_B 3.29: rule text (rule3_part03_document.json paragraph part3_part_3_court_actions_012) EXACT_MATCH with the official; no amendment note; one commentary section 'Commentary § 3.29:1' (1,064 characters, READ IN FULL, no numbered parts): a quotation of a judgment on whether an unendorsed renewed statement of claim (rule 11(7)) is a nullity or a curable irregularity, applying former rule 558 and Oberg v. Foothills Provincial General Hospital (1999), 232 A.R. 263 (C.A.); it speaks of the former rules 11(7) and 558 and of endorsement by the clerk, not of the present 3.29 requirement (order or notice of the order to accompany the claim), and is not compared with it (the case name of the judgment is not printed). BOOK_C 3.29: rule text WORDING_DIFFERENCE (displaced bracket labels, no word lost; noted); amendment note agrees with the official; commentary kept with a flag.",
+    "BOOK_A other Parts and Part 3 (all combined*.txt searched, line-wrapped forms included; pages from the markers): 3.28 note p.3-79 (line 2149) 'A person served with a statement of claim should check to see if R.3.26 has been complied with. See R.3.29.' (lands on the rule text; Book A has no note of its own for 3.29); no other Book A file cites 3.29 by number.",
+    "OFFICIAL text (searched for 'rule 3.29', 'rules 3.29', lists, line-wrapped forms and form headings): no other official rule cites 3.29 by number (the only hits are the table of contents, line 336, and the rule itself, line 4396); no form heading names it. By subject (read): 3.26 and 3.27 (the extensions this rule attaches to), 3.28 (effect of not serving in time), 13.14 (endorsements on documents; Book B's commentary for 3.29 is about endorsement of a renewed claim)."
+  ],
+  "dedupe_log": [
+    "3.29 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.29 BOOK_C commentary sentence split dropped",
+    "3.29 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.29 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.29 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}

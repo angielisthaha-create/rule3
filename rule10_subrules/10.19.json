@@ -1,0 +1,259 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "10.19",
+  "title": {
+    "official": "Review officer’s decision",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Lawyers’ Charges, Retainer Agreements and Right of Review"
+  },
+  "subdivision": {
+    "number": 4,
+    "heading": "Right of Review"
+  },
+  "operative_text": {
+    "controlling": "10.19(1)  A review of a lawyer’s charges must take into\nconsideration the factors described in rule 10.2, except to the extent\nthat a retainer agreement otherwise provides.\n(2)  A review of a retainer agreement must be based on the\ncircumstances that existed when the retainer agreement was entered\ninto.\n(3)  The review officer may, in a review of a lawyer’s charges,\nallow the charges, or vary, reduce or disallow all or any of the\ncharges, and certify the amount payable for and against each party,\nand may issue an interim certificate.\n(4)  A review officer’s decision must be given by an interim or\nfinal certificate, which may be endorsed on a copy of the lawyer’s\naccount, and the certificate must\n(a) certify the amount to be paid by each party or person,\n(b) certify any special circumstance and the amount to be paid\nby each party or person with respect to the special\ncircumstance, and\n(c) be dated and signed by the review officer.\n(5)   An interim or final certificate of a review officer that meets the\nrequirements set out in subrule (4) is conclusive proof of the\namount that a party or person who had notice of the review must\npay.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "1121cfbe6a716f01bdf532426df00e69e65d6cc0a53dee6dd37a55e8e7cc8cb6"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          203,
+          204
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Review Ofﬁcer’s Decision",
+      "operative_text_raw": null,
+      "operative_text_sha256": "17d76f2df66c0ae008c92859f3bf65653484419020a4f8c9ba1ef788cfc53694",
+      "related_provisions": "10.9 (contingency fee agreement reviewable for reasonableness).",
+      "commentary": "See also R.10.9 n.\nThe appellant had argued for a decision on whether the Review Ofﬁcer found the 10 lawyers’\nperiodic bills being reviewed were interim and to be reviewed as a whole at the end, or each\nﬁnal and to be reviewed individually. The parties disagreed on that topic. The Review Ofﬁcer\nnever decided that basic question, and his view is unclear, which omission was a clear error of\nlaw.¹\nIt is vital to determine that question for two reasons: to know how to assess each bill, and\nto see whether any bills were being reviewed outside the one-year limitation (and most of these\nbills were reviewed more than a year after their receipt under R.10.10(2) ).²\nSo the decision was\nquashed and a new review by a different Review Ofﬁcer was ordered.³\nIf a review ofﬁcer ﬁnds the retainer agreement unfair, or if a King's Bench judge or the Court\nof Appeal ﬁnds the decision under appeal unreasonable, then that higher ofﬁcer or judge must\nanalyze the fee afresh, and set the fee on any reasonable basis, not necessarily a percentage of\nrecovery.⁴\nIf a lawyer collects fees from a retainer and then his or her account is reduced on review, that is\nres judicata and a court order. The same is true if the account is reduced on appeal from review.⁵\nA duty to refund is implicit when a paid lawyer’s account is assessed down.⁶\nOne common-law spouse was in privity with the other and bound by adverse court rulings\nagainst the other, though not named in the style of cause.⁷\nOn negligence by the lawyer, see R.10.1 and commentary, supra.\nBecause of Rr.10.2 and 10.19, even an unenforceable contingent-fee agreement has some\n(limited) relevance.⁸",
+      "footnotes": [
+        {
+          "page": "10-35",
+          "number": 1,
+          "text": "Larocque v. Kantor LLP 2024 ABKB 327, JCC 2101 13183 (May 31) (¶’s 10, 14, 18, 23-24, 26)."
+        },
+        {
+          "page": "10-35",
+          "number": 2,
+          "text": "Larocque v. Kantor: id. at ¶’s 1, 18, 20-22, 24, 26."
+        },
+        {
+          "page": "10-35",
+          "number": 3,
+          "text": "Larocque v. Kantor: id. at ¶ 28."
+        },
+        {
+          "page": "10-35",
+          "number": 4,
+          "text": "Tallcree F. N. v. Rath & Co.2022 ABCA 174, Edm 2103 0093 AC (May 11) (¶ 90, 107-08, 110), leave den (SCC 16 Mar ’23)."
+        },
+        {
+          "page": "10-35",
+          "number": 5,
+          "text": "Severin v. Veale (#2) 2000 ABCA 180, 261 AR 369. On interest, see the C. P. E. , Chapter 51, Part A.9."
+        },
+        {
+          "page": "10-35",
+          "number": 6,
+          "text": "Severin v. Veale (#2) 2000 ABCA 180, 261 AR 369; cf. Tallcree F. N. v. Rath & Co. (#2) 2021 ABQB 234, JCE 1803 05262 (Mar 26) (¶’s 64-66), vard 2022 ABCA 174. Costs to be refunded draw interest: Hanke v. Resurﬁce Corp. (#2) 2006 ABCA 116, 384 AR 52. See also C. P. E. , Chapter 51, Part A.9."
+        },
+        {
+          "page": "10-35",
+          "number": 7,
+          "text": "Polis v. Edwards 2010 ABCA 59, 24 Alta LR(5th) 12 (¶’s 25-37)."
+        },
+        {
+          "page": "10-35",
+          "number": 8,
+          "text": "Betser-Zilevitch v. Prowse Chowne 2021 ABCA 129, [2021] AJ #480 (¶’s 19-21)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule10.txt",
+        "lines": [
+          1634,
+          1696
+        ],
+        "book_pages": [
+          "10-34",
+          "10-35"
+        ]
+      },
+      "operative_text_note": "Book A's rule text (lines 1635-1652, title on line 1634) has the same words as the official text (compared by hand, subrules (1)-(5) and paragraphs (4)(a)-(c)) with one addition: the bracket label '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' in (1) (the official text has no label; the official title of 10.2 reads 'Payment for lawyer's services and contents of lawyer's account', and Book A's label in 10.18(4) reads 'contents of a lawyer's account'); it also differs in ligatures ('ofﬁcer', 'certiﬁcate'), spacing and line breaks, and in (3) it prints 'the charges and certify' where the official text has a comma ('the charges, and certify'). It has no amendment bracket (the official history is 'AR 124/2010', no amending regulation). The official text controls; the raw Book A lines are not kept.",
+      "commentary_review_flag": "Read in full, p.10-34 (line 1634) to p.10-35 (line 1696): title (line 1634), rule text (lines 1635-1652), Related Provisions (lines 1671-1672, '10.9 (contingency fee agreement reviewable for reasonableness).'), and the note (lines 1674-1695; page marker 10-35 line 1668) with its footnotes: p.10-35 fns 1-8 (block after the text of 10.20, line 1705 ff.) = 8; the p.10-34 footnote block (line 1654 ff.) holds fns 1-6 of the 10.18 note. Read against the official text: the rule text equals official 10.19(1)-(5) apart from the bracket label; the Related Provisions label '10.9 (contingency fee agreement reviewable for reasonableness).' is a label for official 10.9 (title 'Reasonableness of retainer agreements and charges subject to review', line 1490; 10.9 covers retainer agreements and lawyer's charges generally, not only contingency fee agreements, as the 10.9 flags note); its closing full stop is printed as is. 'See also R.10.9 n.' lands. Statements that are case-law summaries and not the rule: the appeal about whether the ten periodic bills were interim or final and the Review Officer's failure to decide (Larocque v. Kantor LLP 2024 ABKB 327, fns 1-3, paras 10, 14, 18, 23-24, 26, 1, 18, 20-22, 24, 26, 28; the same decision is cited in the 10.10 note, p.10-25 fn 7); 'most of these bills were reviewed more than a year after their receipt under R.10.10(2)' agrees with official 10.10(2) (one year, since AR 36/2020); the fee analysed afresh 'on any reasonable basis, not necessarily a percentage of recovery' (fn 4 Tallcree F. N. v. Rath & Co. 2022 ABCA 174, paras 90, 107-08, 110); 'that is res judicata and a court order' and 'A duty to refund is implicit when a paid lawyer's account is assessed down' (fns 5-6 Severin v. Veale (#2) 2000 ABCA 180; Hanke v. Resurfice Corp. (#2) 2006 ABCA 116; official 10.21 lets the Court order repayment on the client's application); privity between common-law spouses (fn 7 Polis v. Edwards 2010 ABCA 59, paras 25-37); 'Because of Rr.10.2 and 10.19, even an unenforceable contingent-fee agreement has some (limited) relevance' (fn 8 Betser-Zilevitch v. Prowse Chowne 2021 ABCA 129, paras 19-21; official 10.19(1) makes the 10.2 factors apply to a review of charges 'except to the extent that a retainer agreement otherwise provides'). FLAG: 'On negligence by the lawyer, see R.10.1 and commentary, supra.' (line 1694) - official 10.1 is the definitions of 'assessment officer' and 'review officer' and has no negligence text, and Book A's 10.1 section (lines 51-66, p.10-3) has no note and no negligence text; the passage of the Part 10 notes that does is the 10.2 note, p.10-5 (line 154, under the heading 'C. Misconduct', in the 10.2 section, lines 67-216: 'If a lawyer is negligent, that may lead to a set-off of any resulting loss, but is not usually ...'), and the 10.17 and 10.18 notes (p.10-32 and p.10-34) also treat negligence, so the pointer's number does not match where the topic is written (see the 10.1 flag). supra/infra: no supra or infra is used with a case name in this note (fns 2 and 3 use 'Larocque v. Kantor: id.' after fn 1's full cite); 'commentary, supra' points back correctly whichever rule is meant, since the 10.1 to 10.2 notes are earlier. Printed as is: 'Larocque v. Kantor: id. at ¶'s 1, 18, 20-22, 24, 26'; 'Tallcree F. N. v. Rath & Co. (#2) 2021 ABQB 234, ... vard 2022 ABCA 174' (fn 6); 'contingent-fee agreement' (the rules say 'contingency fee')."
+    },
+    "BOOK_B": {
+      "title": "Review officer's decision",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part10_rule_10_19_001",
+        "part10_part_10_lawyers_charges_recoverable_costs_of_litigation_and_sanctions_024"
+      ],
+      "locator": {
+        "files": [
+          "rule10_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "a30cce32a0bc1264e4d64d5ba3aed1c88b3021c9ddae8b0da1247401e9ae9b5b",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Review officer’s decision",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "7d7adfd73729f7b178e2b6a4818c3eff94a75015e1784848266e684129b46c2e",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "461-480_10_11 to 10_31.json",
+        "source_file": "461-480_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): it stops in subrule (3) at 'and may issue an interim' followed by the page's running head 'PART 10 LAWYERS' CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS', so the end of (3) and subrules (4) and (5) are missing; what is printed equals the official words apart from the bracket label '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' in (1), which the official text does not have. The entry prints no amendment note (the official history is 'AR 124/2010', no amending regulation), no commentary and no citation."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (lines 1635-1652, title on line 1634) has the same words as the official text (compared by hand, subrules (1)-(5) and paragraphs (4)(a)-(c)) with one addition: the bracket label '[Payment for lawyer's services and contents of lawyer's account]' after 'rule 10.2' in (1) (the official text has no label; the official title of 10.2 reads 'Payment for lawyer's services and contents of lawyer's account', and Book A's label in 10.18(4) reads 'contents of a lawyer's account'); it also differs in ligatures ('ofﬁcer', 'certiﬁcate'), spacing and line breaks, and in (3) it prints 'the charges and certify' where the official text has a comma ('the charges, and certify'). It has no amendment bracket (the official history is 'AR 124/2010', no amending regulation). The official text controls; the raw Book A lines are not kept."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.6093,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "10.19",
+      "title_official": "Review officer’s decision"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "88d0eceb3af909c256680d6978f412078f12e2ef14ed365102a6ae26cbd08641",
+    "normalization_profile": {
+      "id": "arc-rule10-compare-norm",
+      "version": "1",
+      "sha256": "58e5b4546cf553a14c68b63e7f388421bfe8f608ea5e6172636b80ccf5411392"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 10 amendment year 2023 per official amendment history; no Part 10 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "e5b438f7d178e1ae2be7df6d2c6b5db153aca1ccff747b32bdb08b71d058ba56",
+        "text_sha256": "17d76f2df66c0ae008c92859f3bf65653484419020a4f8c9ba1ef788cfc53694",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part10",
+        "locator": {
+          "file": "combined_rule10.txt",
+          "lines": [
+            1634,
+            1696
+          ],
+          "book_pages": [
+            "10-34",
+            "10-35"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "e49538bc7f2e0838ab74182bccf2af98cb77e28eefbcc1e319660bfe8005dd3f",
+        "text_sha256": "a30cce32a0bc1264e4d64d5ba3aed1c88b3021c9ddae8b0da1247401e9ae9b5b",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule10_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "6f28d266ad7ac959262f1b12ba1473afc6117563369b944f35085cb22328771a",
+        "text_sha256": "7d7adfd73729f7b178e2b6a4818c3eff94a75015e1784848266e684129b46c2e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp441-520",
+        "locator": {
+          "file": "461-480_10_11 to 10_31.json",
+          "source_file": "461-480_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "1121cfbe6a716f01bdf532426df00e69e65d6cc0a53dee6dd37a55e8e7cc8cb6",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            203,
+            204
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "6d16138a54e1c6d182ffca1d4841fa427e607437654dc96ebb76679d8ca95589"
+  },
+  "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.19' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1533), the rule heading (line 12203, 'Rule 10.19') and the rule text (line 12237). No other rule or form cites 10.19 by number. By subject: 10.2 (the factors a review of charges must take into consideration; title 'Payment for lawyer's services and contents of lawyer's account', line 1463), 10.9 (title 'Reasonableness of retainer agreements and charges subject to review', line 1490), 10.17(2) and 10.18 (what the review officer may and may not decide), 10.20 (a decision may be entered as a judgment or order) and 10.21 (repayment of charges disallowed, reduced, varied or forfeited).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): this rule's own hits are the running head (combined_rule10.txt line 1617), the rule text (line 1635) and, in the note, p.10-35 (line 1695, 'Because of Rr.10.2 and 10.19, even an unenforceable contingent-fee agreement has some (limited) relevance.'). Other Book A passages that cite 10.19: the 10.9 Related Provisions, p.10-22 (line 1035, '10.19(2) (reasonableness determined at time of signing)', which lands on official 10.19(2)); and the 10.27 note, p.10-41 (line 2015, fn 11 'See the Larocque decision in R.10.19 n.', which lands on p.10-35 fns 1-3 of this note). No other Book A file cites 10.19.",
+    "BOOK_B: this rule has a heading paragraph and no commentary ('10.19. Review officer's decision', rule10_part04_document.json). Book B passages that cite 10.19: the 10.20 commentary (Justice Wakeling in Shreem Holdings v. Barr Picard, paras 30-33: 'According to rule 10.19(3) ... a review officer may ... allow the charges, or vary, reduce or disallow ... and certify the amount payable'; 'rule 10.19(1)'; 'A review officer may not make any substantive decision not listed in rule 10.19(3)') and the 10.2 commentary (rule10_part01_document.json, 'the circumstances known to the parties at the time the agreement was signed: Rod Pantony Corp at paras 12, 21 and 29, rule 10.19(2)').",
+    "BOOK_C: the entry for 10.19 in '461-480_10_11 to 10_31.json' (text with a bracket label; no amendment note and no commentary in the entry); the 10.23 entry's commentary cites 'rule 10.19(4)(a)' ('certifies the amount of a lawyer's charges to be paid'). No other Book C file cites 10.19 by number."
+  ],
+  "dedupe_log": [
+    "10.19 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "10.19 BOOK_C: rule text dropped (manual review)",
+    "10.19 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

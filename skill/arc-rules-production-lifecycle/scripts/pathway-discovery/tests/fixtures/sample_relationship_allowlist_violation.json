@@ -1,0 +1,92 @@
+{
+  "packet_type": "arc_subrule_pathway_candidate_packet",
+  "write_status": "candidate_only_no_graph_write_performed_do_not_write_until_approved",
+  "loop_name": "ARC Subrule Pathway Discovery Loop",
+  "rules": [
+    {
+      "rule_number": "5.33",
+      "canonical_uid": "UnifiedRule|example",
+      "title": "Confidentiality and use of information"
+    }
+  ],
+  "companion_rules": [
+    "5.32",
+    "6.11"
+  ],
+  "candidate_nodes": [
+    {
+      "candidate_id": "rule_5_33_core_scope",
+      "label": "ProceduralPathway",
+      "type": "ProceduralPathway"
+    }
+  ],
+  "candidate_pathways": [
+    {
+      "candidate_id": "rule_5_33_core_scope",
+      "pathway_uid": "rule_5_33_core_part5_confidentiality_scope",
+      "rule_anchor": "Rule 5.33",
+      "companion_rules": [
+        "Rule 5.32",
+        "Rule 6.11"
+      ],
+      "source_material_classes": [
+        "Part 5 questioning transcript"
+      ],
+      "use_purpose_classes": [
+        "cross-use in related action"
+      ],
+      "proceeding_relationship_classes": [
+        "related action with same parties"
+      ],
+      "remedy_classes": [
+        "lift implied undertaking"
+      ],
+      "case_ladder": [
+        {
+          "case_name": "Juman v Doucette",
+          "neutral_citation": "2008 SCC 8",
+          "court_level": "SCC",
+          "authority_level": "binding_possible_but_needs_citator",
+          "authority_role": "root_doctrine",
+          "paragraphs": [
+            "4",
+            "32"
+          ],
+          "paragraph_status": "B",
+          "holding_summary": "Root implied-undertaking doctrine; public verification required before filing use.",
+          "do_not_overstate_as": "suspected wrongdoing always permits collateral disclosure",
+          "current_status": "needs_citator",
+          "manual_status": "needs_public_verification"
+        }
+      ],
+      "safe_formulation": "Rule 5.33 protects specified Part 5 discovery materials from collateral use unless an exception applies.",
+      "do_not_overstate_as": "Rule 5.33 applies to all litigation information.",
+      "limits_or_exceptions": [
+        "party agreement",
+        "court order",
+        "otherwise required or permitted by law"
+      ],
+      "authority_status": "binding_possible_but_needs_citator",
+      "manual_validation_status": "needs_public_verification",
+      "write_status": "do_not_write_until_approved",
+      "conflicts_with": [],
+      "limited_by": []
+    }
+  ],
+  "recommended_relationships": [
+    "(:Case)-[:RANDOM_REL]->(:CasePathwayHolding)",
+    "CREATE (n:Bad)"
+  ],
+  "manual_validation_required": true,
+  "discard_rules": [
+    "discard cases that merely cite the rule"
+  ],
+  "stop_escalation_conditions": [
+    "stop if current rule text cannot be verified"
+  ],
+  "ledger": {
+    "write_mode": "none",
+    "graph_writes_performed": false,
+    "approval_status": "not_approved"
+  }
+}

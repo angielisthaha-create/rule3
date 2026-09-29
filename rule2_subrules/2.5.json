@@ -1,0 +1,257 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.5",
+  "title": {
+    "official": "Actions by and against sole proprietors",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.5(1)  If a person carries on business or operates as a sole\nproprietor under a name other than the person’s name, the person\nmay bring or be the subject of an action in that name.\n(2)  If an action is brought by or against a person in the person’s\nbusiness or operating name, a party may serve a notice requiring\nthe person to disclose, in writing, the legal name of the person\ncarrying on the business or operation.\n(3)  The person on whom the notice to disclose is served must\ncomply with it within 10 days after the date the notice is served.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "7a1c7f7641324a1d58f9b4d4e691da374271119f729dea42427de8c83232e23a"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 2.5 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          38
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Actions By and Against Sole Proprietors",
+      "operative_text_raw": null,
+      "operative_text_sha256": "80b4a1ba79708eacf5b0c6fdfc681a7820559f90f801d9c4dbb081c2d7f3c46e",
+      "related_provisions": "5.28 (written questions) ; 5.5 (discovery of records) ; 6.37 (notice to admit) ; 11.12 and 11.13 (service where trade name used)",
+      "commentary": "Rule 2.5 may not apply to other unincorporated bodies, such as clubs or associations. Rule\n2.5 now extends the beneﬁts of R.2.2 to an individual defendant who carried on business under\na different name, e. g. , Joe Smith carrying on business as Joe’s Auto Body. It now extends to a\nplaintiff doing that.²",
+      "footnotes": [
+        {
+          "page": "2-5",
+          "number": 3,
+          "text": "Quite similar to previous 1968 R.83. It came from 1944 C. R.97(i)."
+        },
+        {
+          "page": "2-6",
+          "number": 1,
+          "text": "Quite similar to previous 1968 R.80(3) -(5). It came from pt.1944 C. R.97; Common Law Procedure Act 1852 s.7; 1883 O.7 r.2; O.48A. R.1; 1914 R.146(c) (second half) ; 914 R.146(a), and 1944 C. R.97(a).",
+          "review_flag": "attached to 2.5(3); same history note as rule 2.4 (1968 R.80(3)-(5)). 2.5(2)-(3) have a similar notice to disclose (not identical - no equivalent of 2.4(3)-(4)); whether 1968 R.80(3)-(5) is really their source cannot be checked from the sources (6th pass removed an earlier 'plausible' judgment). Source typo: '914 R.146(a)' should read '1914 R.146(a)'. 2.5(1)'s own history is footnote 3 on page 2-5 (1968 R.83)."
+        },
+        {
+          "page": "2-6",
+          "number": 2,
+          "text": "Compare the previous rule and the C. P. E. , Chapter 69, esp. Part N. Previously, if a sole proprietor sued in her trade name, whether or not she had a right to use that name, and whether or not it sounded like a company name, that was a (curable) irregularity: RC Int. v. Brooks (Gatenby) (#1) 2000 ABCA 204, 261 AR 329."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          147,
+          177
+        ],
+        "book_pages": [
+          "2-5",
+          "2-6"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Actions by and against sole proprietors",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_011",
+        "part2_rule_2_5_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_012"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "897b1adbbeac7b957b80e42924a25d4312f98b8b6f52097812d40915a75792d9",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Actions by and against sole proprietors",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "28a90589d9d1e4ee93fc4ce1ecd69625230630228922c23fd828b49963767204",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "It is permissible pursuant to this rule for a person to sue or be sued in the name of an unincorporated business. As the business is not incorporated it has no legal personality. Normal practice would see the proprietor being sued in their own name along with the name of the unregistered business. One can sue, for example, a “John Doe carrying on business as Corner Pizza”. The legal entity is the natural or artificial person behind the firm or tradename. Stamos v. Huculuk, [2018] A.J. No. 925, 2018 ABQB 566 at para. 3 (Alta. Q.B.).",
+          "citations": [
+            {
+              "neutral_citation": "2018 ABQB 566",
+              "style_of_cause": "Stamos v. Huculuk, [2018] A.J. No. 925"
+            }
+          ]
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.5",
+      "title_official": "Actions by and against sole proprietors"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "EXACT_MATCH"
+    },
+    "result": "THREE_BOOK_SOURCE_RECONCILED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "80b4a1ba79708eacf5b0c6fdfc681a7820559f90f801d9c4dbb081c2d7f3c46e",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            147,
+            177
+          ],
+          "book_pages": [
+            "2-5",
+            "2-6"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "897b1adbbeac7b957b80e42924a25d4312f98b8b6f52097812d40915a75792d9",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "28a90589d9d1e4ee93fc4ce1ecd69625230630228922c23fd828b49963767204",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "7a1c7f7641324a1d58f9b4d4e691da374271119f729dea42427de8c83232e23a",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            38
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "80f6b0312b3e58ef77a59abae6f7bb3752cfae12de95a74a2cfe3025f0b1dda5"
+  },
+  "information_notes": [
+    {
+      "text": "Rules for service of commencement documents on individuals and corporations operating\nunder trade names are contained in rule 11.12 [Service on individuals using another name]\nand rule 11.13 [Service on a corporation using another name].",
+      "carriers": [
+        "BOOK_A",
+        "BOOK_C"
+      ],
+      "carrier_defects": {
+        "BOOK_C": "garbled copy of the same note (word order/brackets); not retained"
+      }
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A; 7th pass): listed under R.5.28 (p.5-113), R.6.37 (p.6-141), R.11.12 (p.11-16) and R.11.13 (p.11-17, whose information note cites rule 2.5); R.13.12 checklist (p.13-65) 'Rr.2.2(1)-2.5(1)'.",
+    "Rule 2.2: BOOK_A's 2.5 commentary says 2.5 'extends the benefits of R.2.2' (suing in a firm name) to an individual trading under another name, plaintiff or defendant.",
+    "Rule 2.4: a similar 'notice to disclose' (comply within 10 days); 2.4 alone adds a dispute/application step (2.4(3)) and last-known-address duty (2.4(4)); BOOK_A repeats 2.4's history note under 2.5(3).",
+    "Rule 2.6: BOOK_A says 2.5 'may not apply to ... clubs or associations'; BOOK_A's 2.6 commentary treats unincorporated associations (unions, yacht clubs) as suited to representative actions."
+  ],
+  "dedupe_log": [
+    "2.5 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.5 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.5 BOOK_C: operative text dropped (EXACT_MATCH)",
+    "2.5 BOOK_C information note dropped: garbled duplicate, no new words",
+    "2.5 BOOK_C citation context dropped (2018 ABQB 566): verbatim in kept text",
+    "2.5 BOOK_C commentary sentence split dropped",
+    "2.5 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+  ]
+}

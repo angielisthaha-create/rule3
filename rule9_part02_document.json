@@ -1,0 +1,1611 @@
+
+{
+  "litigation_warfare_graph_blueprint": {
+    "metadata": {
+      "blueprint_version": "1.1.0",
+      "schema_version": "HWGS_1.0",
+      "generated_at": "2024-07-27T11:00:00+00:00",
+      "source_manifest": "rule9_part02_document.json",
+      "document_title": "Alberta Rules of Court – Rule 9 (Part 2)",
+      "rule_coverage": "Rules 9.14, 9.15",
+      "node_count": 24,
+      "relationship_count": 24
+    },
+    "nodes": [
+      {
+        "node_id": "cm-r9-14-further-order-power",
+        "node_type": "ControlMechanism",
+        "label": "Power to Make Further Order Post-Judgment",
+        "description": "Grants the Court authority to make a further or other order after a judgment has been entered, provided it does not vary the original judgment and is necessary to provide an entitled remedy.",
+        "source_sentence_ids": [
+          "part9_alberta_rules_of_court_rule_9_part_2_001_s001",
+          "part9_alberta_rules_of_court_rule_9_part_2_001_s002",
+          "part9_alberta_rules_of_court_rule_9_part_2_001_s003"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_alberta_rules_of_court_rule_9_part_2_001_s001",
+              "text": "On application, the Court may, after a judgment or order has been entered, make any further or other order that is required, if",
+              "paragraph_id": "part9_alberta_rules_of_court_rule_9_part_2_001",
+              "section_heading": "Rule 9.14 – Alberta Rules of Court – Rule 9 (Part 2)",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Rule 9.14"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This rule provides a tactical tool for post-judgment enforcement and clarification. It allows a winning party to obtain necessary ancillary orders (e.g., for enforcement, calculation of interest, or specific performance details) without having to re-litigate or appeal the core judgment. It is a weapon for operationalizing a victory.",
+          "litigation_implications": [
+            "Offensive: Use to obtain an order specifying the mechanics of a complex judgment's execution.",
+            "Offensive: Apply for an order to clarify ambiguous terms in the original judgment that hinder enforcement.",
+            "Defensive: Oppose an application by arguing it effectively 'varies' the original judgment, which is prohibited by the rule.",
+            "Defensive: Argue that the requested 'further order' is not a remedy the party is 'entitled to' under the original judgment.",
+            "Strategic: Use as a lower-cost alternative to a formal appeal or new action when only minor, consequential orders are needed."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Application must clearly demonstrate how the requested order provides a necessary remedy without varying the substance of the original judgment.",
+            "risk_assessment": "Low risk if used for its intended purpose. High risk of being dismissed with costs if used as a disguised attempt to re-argue or vary the original judgment.",
+            "audit_trigger": "Any application made under this rule more than 60 days after the original judgment was entered."
+          },
+          "automation_hooks": {
+            "post_judgment_remedy_check": "Analyzes a judgment to identify potential ambiguities or enforcement gaps that could be addressed via a Rule 9.14 application."
+          },
+          "case_law_anchors": [
+            "G. (D.) v. Canada (Correctional Service), 2015 ABQB 539",
+            "Doucet-Boudreau v AG NS, 2003 SCC 62"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-14-attack-supplemental-reasons",
+        "node_type": "WarfareFramework",
+        "label": "Attack on Supplemental or Delayed Written Reasons",
+        "description": "A strategic framework for challenging the validity or weight of written reasons issued long after an oral decision, especially if they substantially rewrite, expand, or reverse the original analysis. Such reasons create a perception of result-driven analysis and are disfavored.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_002_s015",
+          "part9_part_9_judgments_and_orders_002_s016",
+          "part9_part_9_judgments_and_orders_002_s027",
+          "part9_part_9_judgments_and_orders_002_s033",
+          "part9_part_9_judgments_and_orders_002_s035",
+          "part9_part_9_judgments_and_orders_002_s051"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_002_s016",
+              "text": "The reversal of any line of analysis in the oral reasons, or the addition of whole new lines of analysis, are highly undesirable.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_002",
+              "section_heading": "Rule 9.14 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            },
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_002_s035",
+              "text": "Where the analysis in the written reasons differs from that given in the oral reasons, an appellate court is entitled to review the decision based on the original rationale: Nova Scotia (Minister of Community Services) v C.K.Z., 2016 NSCA 61 at paras.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_002",
+              "section_heading": "Rule 9.14 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.14:1"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This framework provides a powerful basis for an appeal. If a judge issues an oral decision and later provides written reasons that significantly differ, an appellant can argue the appellate court should disregard the written reasons and review the decision based solely on the original oral rationale, which may be weaker or flawed.",
+          "litigation_implications": [
+            "Offensive (Appeal): Argue that supplemental written reasons are 'result-driven analysis' and should be given no weight.",
+            "Offensive (Appeal): Insist the appeal be decided based on the potentially weaker oral reasons, not the 'shored up' written version.",
+            "Defensive (Trial): If you win with oral reasons, immediately request that any written reasons be issued promptly and be limited to editing, not rewriting.",
+            "Defensive (Appeal): If defending a judgment with supplemental reasons, argue they were mere clarifications or editing, not a substantial change in analysis.",
+            "Strategic: When receiving an adverse oral ruling, meticulously transcribe it to lock in the judge's original rationale for a potential appeal."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Appellate factums must clearly distinguish between the oral and written reasons and provide case law support for disregarding the latter.",
+            "risk_assessment": "High potential for success on appeal if the written reasons represent a substantial departure from the oral decision.",
+            "audit_trigger": "Any case where written reasons are issued more than 30 days after an oral pronouncement."
+          },
+          "automation_hooks": {
+            "reason_divergence_detector": "Compares transcripts of oral reasons with subsequent written reasons to flag significant changes in legal analysis or factual findings."
+          },
+          "case_law_anchors": [
+            "PricewaterhouseCoopers Inc. v. Perpetual Energy Inc., 2021 ABCA 16",
+            "Wilde v Archean Energy Ltd., 2007 ABCA 385",
+            "R. v Teskey, 2007 SCC 25",
+            "Jacobs Catalytic Ltd. v International Brotherhood of Electrical Workers, Local 353, 2009 ONCA 749",
+            "Nova Scotia (Minister of Community Services) v C.K.Z., 2016 NSCA 61"
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r9-15-set-aside-power",
+        "node_type": "ControlMechanism",
+        "label": "Power to Set Aside, Vary, or Discharge Judgments/Orders",
+        "description": "Grants the Court broad discretionary power to set aside, vary, or discharge final or interlocutory judgments and orders under specific circumstances, such as lack of notice, non-appearance due to accident/mistake, or for default judgments.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_004_s001",
+          "part9_part_9_judgments_and_orders_004_s007",
+          "part9_part_9_judgments_and_orders_004_s011"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_004_s001",
+              "text": "(1) On application, the Court may set aside, vary or discharge a judgment or an order, whether final or interlocutory, that was made",
+              "paragraph_id": "part9_part_9_judgments_and_orders_004",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Rule 9.15(1)",
+            "Rule 9.15(3)",
+            "Rule 9.15(4)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This is a critical 'undo' button in litigation. It provides a lifeline for parties who have had judgment entered against them through procedural mishap, lack of notice, or default. It is the primary defensive weapon against a default judgment and a key tool for correcting interlocutory orders based on new information.",
+          "litigation_implications": [
+            "Offensive: Use to nullify a default judgment obtained against your client.",
+            "Offensive: Apply to vary an interlocutory order when new, dispositive information has been discovered.",
+            "Defensive: Oppose an application by arguing the applicant has not met the specific criteria for the type of order they seek to set aside (e.g., the non-appearance was deliberate, not a mistake).",
+            "Defensive: Argue that the applicant delayed unreasonably after learning of the judgment, thereby forfeiting their right to this relief.",
+            "Strategic: Use the threat of a meritorious set-aside application as leverage to negotiate a more favorable outcome post-judgment."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Application must be brought under the correct sub-rule and be supported by affidavit evidence addressing the relevant legal test.",
+            "risk_assessment": "Moderate. Success is highly fact-dependent and discretionary. Failure can result in significant cost awards.",
+            "audit_trigger": "Any application to set aside a final judgment."
+          },
+          "automation_hooks": {
+            "set_aside_eligibility_screener": "Guides user through a checklist based on the type of order and circumstances to determine the applicable sub-rule and legal test."
+          },
+          "case_law_anchors": []
+        }
+      },
+      {
+        "node_id": "pt-r9-15-20-day-application-limit",
+        "node_type": "ProceduralTrap",
+        "label": "20-Day Limit for Setting Aside Orders (R 9.15(1))",
+        "description": "An application to set aside a judgment or order made without notice or due to non-appearance must be made within 20 days after service or the date the applicant first became aware of it. This is a strict deadline that can bar relief if missed.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_004_s004",
+          "part9_part_9_judgments_and_orders_004_s005",
+          "part9_part_9_judgments_and_orders_004_s006"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_004_s004",
+              "text": "(2) Unless the Court otherwise orders, the application must be made within 20 days after the earlier of",
+              "paragraph_id": "part9_part_9_judgments_and_orders_004",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Rule 9.15(2)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This trap is a primary weapon for a party who has obtained an order without notice (e.g., an ex parte order). They can serve the order and start the 20-day clock, hoping the other side fails to act in time, thereby solidifying the order and preventing it from being challenged on its merits.",
+          "litigation_implications": [
+            "Offensive: Immediately serve an ex parte order to start the 20-day clock and create a procedural barrier for the opponent.",
+            "Offensive: Vigorously oppose any application brought after the 20-day limit as being out of time.",
+            "Defensive: Immediately upon learning of an adverse order made without notice, diarize the 20-day deadline and file the application to set aside within that window.",
+            "Defensive: If the deadline is missed, argue for an extension of time ('unless the Court otherwise orders') by providing a compelling reason for the delay.",
+            "Strategic: Misapplying this rule to default judgments is a common error; be prepared to either exploit this error or defend against it."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Strict adherence to the 20-day deadline is required for applications under R 9.15(1).",
+            "risk_assessment": "Critical. Missing this deadline can be fatal to an application to set aside an order made without notice.",
+            "audit_trigger": "Any application under R 9.15(1) filed more than 20 days after the applicant became aware of the order."
+          },
+          "automation_hooks": {
+            "deadline_calculator_r9_15_2": "Calculates and calendars the 20-day deadline from the date of service or awareness of an order."
+          },
+          "case_law_anchors": [
+            "Palin v. Duxbury, 2010 ABQB 833"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-20-day-limit-inapplicable-to-default",
+        "node_type": "WarfareFramework",
+        "label": "Countermeasure: 20-Day Limit Inapplicable to Default Judgments",
+        "description": "A critical strategic clarification that the 20-day time limit in Rule 9.15(2) does NOT apply to applications to set aside default judgments under Rule 9.15(3). This framework is used to defeat an opponent's attempt to bar a set-aside application on a false timeliness argument.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s010",
+          "part9_part_9_judgments_and_orders_006_s011",
+          "part9_part_9_judgments_and_orders_006_s012",
+          "part9_part_9_judgments_and_orders_006_s022"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s012",
+              "text": "(2) does not include an application to set aside a default judgment under rule 9.15(3).",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This is a direct counter to a common procedural attack. Opponents frequently try to use the 20-day limit as a weapon to defeat an application to set aside a default judgment. This framework, grounded in case law, definitively neutralizes that attack by clarifying the distinct structures of R 9.15(1)/(2) versus R 9.15(3).",
+          "litigation_implications": [
+            "Defensive: When applying to set aside a default judgment after 20 days, proactively include this argument in your brief to preempt the opponent's timeliness objection.",
+            "Offensive: If an opponent incorrectly argues the 20-day limit applies, use this framework to show their legal argument is flawed, undermining their credibility.",
+            "Strategic: Educate clients that while there is no 'hard' deadline, the 'promptness' requirement of the three-part test still applies, so delay is still risky.",
+            "Defensive: Use to defeat a preliminary motion to strike your set-aside application for being out of time."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Briefs must cite Palin v. Duxbury or similar authority to support the argument that R 9.15(2) is inapplicable to R 9.15(3) applications.",
+            "risk_assessment": "Low risk. The law on this point is well-settled.",
+            "audit_trigger": "Any response brief from an opponent that raises the 20-day limit against a default judgment set-aside application."
+          },
+          "automation_hooks": {
+            "argument_generator_r9_15_3": "Generates a paragraph for a legal brief explaining why the 20-day limit does not apply to setting aside default judgments, with appropriate case citations."
+          },
+          "case_law_anchors": [
+            "Palin v. Duxbury, 2010 ABQB 833"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-three-part-test-regular-default",
+        "node_type": "FoundationalPillar",
+        "label": "Three-Part Test to Set Aside Regular Default Judgment",
+        "description": "The established three-part test for setting aside a default judgment that was regularly obtained (i.e., without procedural flaw). The applicant must demonstrate: (1) an arguable defence, (2) they did not deliberately let judgment go by default and have an excuse, and (3) they moved promptly to set it aside after learning of it.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s029",
+          "part9_part_9_judgments_and_orders_006_s030",
+          "part9_part_9_judgments_and_orders_006_s031",
+          "part9_part_9_judgments_and_orders_006_s104"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s104",
+              "text": "In the absence of a procedural flaw, a defendant must demonstrate that there is an arguable defence, he did not deliberately let judgment go by default and has a valid excuse for the default, and he promptly attempted to open up the default judgment: Anstar Enterprises Ltd v Transamerica Life Canada, 2009 ABCA 196 (CanLII) at para13, 457 AR 68.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This test is the central battleground for most applications to set aside default judgments. It provides the clear legal framework for both the applicant's arguments and the respondent's counter-arguments. Mastering these three prongs is essential for both attacking and defending a default judgment.",
+          "litigation_implications": [
+            "Offensive (Applicant): Structure the application and supporting affidavit to explicitly address and satisfy each of the three prongs.",
+            "Defensive (Respondent): Attack the application by demonstrating the applicant has failed to meet one or more of the three prongs (e.g., the defence is not arguable, the delay was willful, the application was not prompt).",
+            "Strategic: The 'arguable defence' prong is often the most important; a strong defence can sometimes overcome weakness in the other two areas.",
+            "Strategic: The court retains an overriding discretion based on fairness, but failing to meet all three prongs makes success unlikely.",
+            "Offensive (Applicant): Emphasize that solicitor's inadvertence is a specifically accepted excuse for the default."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Affidavit evidence must be filed that addresses all three elements of the test.",
+            "risk_assessment": "High. Failure to satisfy the court on any of the three prongs can lead to the application being dismissed.",
+            "audit_trigger": "Any application to set aside a default judgment."
+          },
+          "automation_hooks": {
+            "affidavit_template_generator": "Generates a template affidavit for a set-aside application with sections dedicated to each of the three prongs of the test."
+          },
+          "case_law_anchors": [
+            "Alberta v. Fjeld, 2008 ABQB 558",
+            "Palin v. Duxbury, 2010 ABQB 833",
+            "Syncrude Canada Ltd. v. Highland Consulting Group Inc., 2013 ABQB 594",
+            "Anstar Enterprises Ltd v Transamerica Life Canada, 2009 ABCA 196",
+            "Kraushar v Kraushar, 2019 ABCA 186"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-procedural-flaw-as-of-right",
+        "node_type": "FoundationalPillar",
+        "label": "Right to Set Aside Irregular Default Judgment",
+        "description": "Where there is a non-trivial procedural flaw in the process leading up to a default judgment (e.g., improper service), the defendant, if they act promptly, is entitled to have the judgment set aside 'as of right', without needing to prove an arguable defence.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s102",
+          "part9_part_9_judgments_and_orders_006_s103",
+          "part9_part_9_judgments_and_orders_006_s178"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s103",
+              "text": "Where there is a procedural flaw, a defendant, proceeding promptly, is entitled to open up the judgment as of right.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1 (Section 3)",
+            "Commentary § 9.15:1 (Section 6)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This provides a powerful shortcut for defendants. By identifying a procedural flaw, they can bypass the more onerous three-part test (especially the need to show an arguable defence). It shifts the focus from the merits of the case to the procedural integrity of the plaintiff's actions.",
+          "litigation_implications": [
+            "Offensive (Applicant): First line of attack is to scrutinize the plaintiff's entire process for flaws (e.g., affidavit of service, notice periods, method of service).",
+            "Offensive (Applicant): If a flaw is found, frame the application as an entitlement 'as of right', minimizing discussion of the merits of the defence.",
+            "Defensive (Respondent): Meticulously follow all procedural rules when seeking default judgment to avoid creating this vulnerability.",
+            "Defensive (Respondent): If a flaw is alleged, argue it is trivial and does not invalidate the process, or that the defendant did not act 'promptly' upon discovering the judgment.",
+            "Strategic: Even a minor procedural error can be leveraged into a successful set-aside application, resetting the litigation clock."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Applicant must provide clear evidence of the non-trivial procedural flaw.",
+            "risk_assessment": "High reward for the applicant if a flaw is proven. High risk for the respondent who obtained the judgment if their procedure was sloppy.",
+            "audit_trigger": "Any affidavit of service that appears irregular or fails to comply with the Rules of Court."
+          },
+          "automation_hooks": {
+            "procedural_flaw_scanner": "Audits the record leading to a default judgment against a checklist of common procedural errors."
+          },
+          "case_law_anchors": [
+            "Yehya v. Thomas, 2019 ABCA 164",
+            "Anstar Enterprises Ltd v Transamerica Life Canada, 2009 ABCA 196"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-fairness-test-noting-in-default",
+        "node_type": "FoundationalPillar",
+        "label": "Overarching 'Fairness' Test for Setting Aside Noting in Default",
+        "description": "The ultimate test for setting aside a 'noting in default' (as opposed to a full default judgment) is what is fair in the circumstances. While the three-part test provides guidance, the court retains a broad discretion to achieve a just result, emphasizing substance over formalism.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s112",
+          "part9_part_9_judgments_and_orders_006_s139",
+          "part9_part_9_judgments_and_orders_006_s146",
+          "part9_part_9_judgments_and_orders_006_s162"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s112",
+              "text": "The test for setting aside a noting in default is fairness In Fort McKay Métis Community Association v.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            },
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s146",
+              "text": "The true essence of the question is what is fair in the circumstances.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1 (Section 5)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This pillar provides a flexible, equitable argument for applicants who may have a weak spot in one of the three formal criteria but can make a compelling overall case for justice. It allows a judge to look past rigid rules to prevent an unfair result, especially when only a noting in default has occurred and not a full judgment.",
+          "litigation_implications": [
+            "Offensive (Applicant): If one part of the three-part test is weak (e.g., the excuse for delay), pivot to an overarching argument based on fairness and the fundamental principle of having one's day in court.",
+            "Offensive (Applicant): Argue that the plaintiff will suffer no irreparable prejudice and that fairness dictates the matter be decided on its merits.",
+            "Defensive (Respondent): Frame the applicant's failure to meet the three-part test as being fundamentally 'unfair' to the plaintiff, who followed the rules and is entitled to finality.",
+            "Strategic: This argument is stronger for setting aside a simple noting in default than for a full judgment where the plaintiff has taken further steps.",
+            "Defensive (Respondent): Argue that 'fairness' cuts both ways and includes fairness to the diligent party."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Arguments based on fairness should be supported by facts demonstrating a potential injustice if the default is not set aside.",
+            "risk_assessment": "Moderate. Relies heavily on judicial discretion, making the outcome less predictable than a strict rules-based argument.",
+            "audit_trigger": "Any application where the primary argument is 'fairness' rather than strict satisfaction of the three-part test."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Fort McKay Métis Community Association v. Morin, 2020 ABCA 311",
+            "Don Reid Upholstery Ltd. v. Patrie (1995) 173 AR 233 (QB)",
+            "Poloma Investments Ltd. v Yuen, 2016 ABCA 93",
+            "Kraushar v Kraushar, 2019 ABCA 186"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-accident-or-mistake-standard",
+        "node_type": "FoundationalPillar",
+        "label": "'Accident or Mistake' Standard for Non-Appearance",
+        "description": "The standard for setting aside an order under R 9.15(1)(b) requires the non-appearance to be due to an 'accident or mistake'. This means an inadvertent, unintentional non-attendance that satisfies a 'but for' test, not a conscious choice not to attend or a general lack of diligence.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_004_s003",
+          "part9_part_9_judgments_and_orders_006_s189",
+          "part9_part_9_judgments_and_orders_006_s190",
+          "part9_part_9_judgments_and_orders_006_s249"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s190",
+              "text": "Whether called an “accident” or a “mistake”, the reason must satisfy a “but for” test: “but for (or except for) [insert reason], I would have attended.” As the Rule states, the focus is non-attendance appear “because of accident or mistake.” [11] In this context, the reason must be something other than failure to receive notice or insufficient notice.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Rule 9.15(1)(b)",
+            "Commentary § 9.15:1 (Section 7)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This standard defines the battlefield for applications under R 9.15(1)(b). It provides a clear distinction between excusable non-attendance (e.g., clerical error, solicitor's bungle) and inexcusable non-attendance (e.g., choosing not to show up, ignoring mail). This allows parties to frame their evidence and arguments effectively.",
+          "litigation_implications": [
+            "Offensive (Applicant): Frame the reason for non-attendance as an 'interfering event' that was unintentional, such as a mis-diarized date or a breakdown in communication with counsel.",
+            "Defensive (Respondent): Attack the applicant's reason as a 'choice' or a 'lack of diligence', not a true accident or mistake. Use case law examples of unacceptable reasons.",
+            "Offensive (Applicant): Provide affidavit evidence that clearly satisfies the 'but for' test: 'But for the clerical error in my calendar, I would have attended the hearing.'",
+            "Defensive (Respondent): Cross-examine the applicant on their affidavit to expose facts showing they were aware of the hearing but chose not to attend or were negligent.",
+            "Strategic: A 'good excuse' is not the same as an 'accident or mistake'. A party might have a good reason for not wanting to attend, but that is a choice, not a mistake in the legal sense."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "The applicant's affidavit must detail a reason for non-attendance that qualifies as an 'accident or mistake' under the case law.",
+            "risk_assessment": "High. The court's interpretation of the facts is discretionary. A reason that seems valid to a litigant may be deemed a 'choice' or 'lack of diligence' by the court.",
+            "audit_trigger": "Any application where the reason for non-attendance is not a clear clerical or logistical error."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Hammond v. Hammond, 2019 ABQB 522",
+            "Paciorkowska v Paciorkowska, 2004 ABQB 585",
+            "Wilson v Bobbie, 2006 ABQB 22",
+            "Alliance Concrete Ltd v Robertson, 2014 ABQB 401"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-arguable-defence-requirement",
+        "node_type": "FoundationalPillar",
+        "label": "Requirement to Show an Arguable Defence",
+        "description": "A core component of the test to set aside a default judgment. The applicant must do more than merely assert a defence; they must provide evidence of facts that, if proven, could constitute a meritorious or triable defence. This is often considered the most important factor.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s032",
+          "part9_part_9_judgments_and_orders_006_s034",
+          "part9_part_9_judgments_and_orders_006_s124",
+          "part9_part_9_judgments_and_orders_006_s126"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s124",
+              "text": "9.15(3)(a) states, the Court can open up a noting in default “on any terms the Court considers just”. … [14] The most important of the criteria for opening up a noting in default is the presence or absence of an arguable defence.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This pillar acts as a gatekeeper to prevent defendants from setting aside judgments simply to delay the inevitable. It forces the applicant to show the court that there is a genuine dispute to be tried. For the respondent, it is the primary weapon to argue that setting aside the judgment would be a pointless exercise.",
+          "litigation_implications": [
+            "Offensive (Applicant): Draft an affidavit that sets out the specific facts supporting the defence. Attach documentary evidence if possible.",
+            "Defensive (Respondent): Attack the applicant's affidavit as a 'bald assertion' that fails to disclose a triable issue of fact or law.",
+            "Defensive (Respondent): Argue that even if the applicant's alleged facts are true, they do not constitute a legally valid defence.",
+            "Offensive (Applicant): Emphasize that the standard is 'arguable', not 'guaranteed to succeed'. The court should not conduct a mini-trial.",
+            "Strategic: A strong showing on this factor can persuade a judge to be more lenient on the other factors, like the reason for delay."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "The applicant's affidavit must disclose the nature of the defence and the facts supporting it.",
+            "risk_assessment": "Critical. An inability to show an arguable defence is almost always fatal to an application to set aside a default judgment.",
+            "audit_trigger": "An applicant's affidavit that fails to specify the factual basis for the proposed defence."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Goulet v. da Silva (2002), 313 A.R. 32 (Alta. Q.B.)",
+            "Fort McKay Métis Community Association v. Morin, 2020 ABCA 311",
+            "De Rzonca v. Kummerfield (1956), 19 W.W.R. 577"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-no-deliberate-default-requirement",
+        "node_type": "FoundationalPillar",
+        "label": "Requirement of No Deliberate Default",
+        "description": "A component of the test to set aside a default judgment. The applicant must show they did not deliberately or willfully allow judgment to go by default and must provide a reasonable excuse for the default, such as illness or a solicitor's inadvertence.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s030",
+          "part9_part_9_judgments_and_orders_006_s038",
+          "part9_part_9_judgments_and_orders_006_s068"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s038",
+              "text": "(as he then was) observed that “usually if a defendant deliberately allows a default judgment to go against him, knowing the effect of failing to defend, he will not be allowed to set aside the default judgment.”[Edwards v.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1",
+            "Commentary § 9.15:2 (Section 7)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This pillar prevents parties from gaming the system by intentionally defaulting and then trying to reopen the case later. It forces the applicant to provide a credible explanation for their failure to defend, separating genuine mistakes from strategic inaction.",
+          "litigation_implications": [
+            "Offensive (Applicant): Provide a clear, credible, and documented excuse for the failure to defend (e.g., medical issue, family emergency, clear evidence of solicitor error).",
+            "Defensive (Respondent): Scrutinize the applicant's excuse for signs of a 'conscious decision' not to defend. Look for evidence that they were aware of the consequences and chose inaction.",
+            "Defensive (Respondent): Argue that financial difficulty or being busy are not acceptable excuses for default.",
+            "Offensive (Applicant): If the delay was caused by former counsel, argue that the neglect of the solicitor should not be visited upon the innocent client.",
+            "Strategic: A defendant who tells the plaintiff they have no intention of defending will almost certainly be barred from setting aside a subsequent default judgment."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "The applicant's affidavit must provide a reasonable excuse for the default.",
+            "risk_assessment": "High. A finding that the default was deliberate is usually fatal to the application.",
+            "audit_trigger": "Any evidence (e.g., emails, letters) showing the defendant was aware of the litigation but chose not to file a defence."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Edwards v. Ferris (2001), 316 A.R. 40",
+            "Yehya v. Las Palmas Estate Homes Ltd., 2018 ABQB 374",
+            "Bank of Nova Scotia v Torringa (1981), 30 AR 606"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-promptness-requirement",
+        "node_type": "FoundationalPillar",
+        "label": "Requirement to Promptly Apply to Set Aside",
+        "description": "A component of the test to set aside a default judgment. After learning of the default judgment, the applicant must move promptly to bring an application to open it up. Unexplained or willful delay can be a bar to the application.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s031",
+          "part9_part_9_judgments_and_orders_006_s040",
+          "part9_part_9_judgments_and_orders_006_s089"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s031",
+              "text": "(c) after learning of the default judgment, they moved promptly to open it up.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This pillar ensures that a defendant cannot sit on their rights after discovering a default judgment. It forces immediate action, preventing prejudice to the plaintiff who is relying on the finality of their judgment. For the plaintiff, the defendant's delay is a key weapon to defeat the set-aside application.",
+          "litigation_implications": [
+            "Offensive (Applicant): As soon as you learn of the judgment, act immediately. Document the date you learned of it and the steps taken to bring the application.",
+            "Defensive (Respondent): Create a timeline to demonstrate the applicant's delay between learning of the judgment and filing the application. Argue this delay was not 'prompt'.",
+            "Offensive (Applicant): If there was a delay, provide a satisfactory explanation for it in the supporting affidavit.",
+            "Defensive (Respondent): Argue that 'mere delay' can be a bar if it is willful or causes irreparable injury to the plaintiff.",
+            "Strategic: What constitutes 'prompt' is discretionary, but delays of more than a month without a good explanation are highly risky."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "The application should be filed as soon as reasonably practicable after the applicant learns of the judgment.",
+            "risk_assessment": "High. Unexplained delay is a common and often successful ground for opposing a set-aside application.",
+            "audit_trigger": "Any application filed more than 30 days after the applicant admits to learning of the default judgment."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Don Reid Upholstery Ltd. v. Patrie (1995), 173 A.R. 233 (Alta. Q.B.)",
+            "Palin v. Duxbury, 2010 ABQB 833"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-de-novo-review-for-ex-parte",
+        "node_type": "WarfareFramework",
+        "label": "De Novo Review for Setting Aside Ex Parte Orders",
+        "description": "An application to set aside an ex parte order is treated as a hearing 'de novo' (from the new). The reviewing judge considers the matter afresh, including new evidence from both parties, and is not restricted to the original record. The onus remains on the original applicant to justify the order.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s352",
+          "part9_part_9_judgments_and_orders_008_s364",
+          "part9_part_9_judgments_and_orders_008_s391",
+          "part9_part_9_judgments_and_orders_008_s398"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s391",
+              "text": "89-90, Madam Justice Paperny said: A judge who hears a motion to rescind or vary an ex parte injunction should hear the matter de novo as to both the law and the facts involved.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:2 (Section 10)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This framework is a powerful weapon for the party challenging an ex parte order. It prevents the original order from gaining any deference and allows the challenger to introduce their full evidentiary record and arguments for the first time, effectively getting a 'do-over' of the original hearing, but this time with both sides present.",
+          "litigation_implications": [
+            "Offensive (Challenger): Frame the application as a de novo hearing, allowing you to file a full evidentiary record, not just evidence explaining the lack of notice.",
+            "Offensive (Challenger): Argue that the onus remains on the original applicant to prove the criteria for the order are met on the now-complete record.",
+            "Defensive (Original Applicant): Be prepared to re-argue the entire original application from scratch, and to counter the new evidence filed by the challenging party.",
+            "Strategic: This prevents the original judge's decision from being 'locked in' and ensures a full, two-sided hearing on the merits.",
+            "Defensive (Original Applicant): Cannot simply rely on the fact that the order was already granted; must re-justify it completely."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "The party challenging the ex parte order should explicitly state in their materials that the hearing is de novo.",
+            "risk_assessment": "Low risk for the challenger, as it guarantees a full hearing. High risk for the original applicant, as their ex parte victory is entirely provisional.",
+            "audit_trigger": "Any application to set aside an ex parte order."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Edmonton Northlands v. Edmonton Oilers Hockey Corp. (1993), 15 Alta. L.R. (3d) 179 (Q.B.)",
+            "Alberta Treasury Branches v. Leahy, 2000 ABQB 575",
+            "Capitanescu v. Universal Weld Overlays Inc. (1996), 192 A.R. 85 (Q.B.)",
+            "Hansraj v. Ao, 2004 ABCA 223"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-duty-of-disclosure-ex-parte",
+        "node_type": "WarfareFramework",
+        "label": "Attack Based on Breach of Utmost Good Faith in Ex Parte Applications",
+        "description": "A party applying for an ex parte order has a duty of utmost good faith to disclose all material facts to the court, including those unfavorable to their position. A breach of this duty is a powerful ground to have the resulting order set aside, sometimes on that ground alone.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s427",
+          "part9_part_9_judgments_and_orders_008_s436",
+          "part9_part_9_judgments_and_orders_008_s438"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s436",
+              "text": "92: It is trite law that a party applying to the court ex parte has a duty of disclosure; it is sometimes said to be a duty of the utmost good faith.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:2 (Section 10)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This framework weaponizes the high ethical duty placed on ex parte applicants. It allows a challenger to attack not just the merits of the order, but the very process by which it was obtained. Proving a material non-disclosure can lead to the order being set aside as a punitive measure, regardless of the underlying merits.",
+          "litigation_implications": [
+            "Offensive (Challenger): Scrutinize the ex parte affidavit for any omitted facts that would have been relevant to the judge's decision.",
+            "Offensive (Challenger): Argue that the non-disclosure was material and that the order should be set aside to punish the breach and deter future misconduct.",
+            "Defensive (Original Applicant): When preparing an ex parte application, be scrupulous in disclosing all material facts, even adverse ones, and explain why the order is justified despite them.",
+            "Defensive (Original Applicant): If accused of non-disclosure, argue that the omitted fact was not material or that its omission was an innocent mistake.",
+            "Strategic: The more significant the non-disclosed fact, the more likely the court is to set aside the order on that ground alone."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Counsel must ensure all material facts are disclosed in any ex parte application.",
+            "risk_assessment": "Critical. A finding of material non-disclosure can result in the order being set aside, severe cost consequences, and reputational damage to counsel.",
+            "audit_trigger": "Any challenge to an ex parte order that alleges non-disclosure."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Duke Energy Corp. v. Duke/Louis Dreyfus Canada Corp. (1998), 64 Alta. L.R. (3d) 91 (C.A.)",
+            "Hansraj v. Ao, 2004 ABCA 223"
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r9-15-vary-interlocutory-order",
+        "node_type": "ControlMechanism",
+        "label": "Power to Vary Interlocutory Orders",
+        "description": "Grants the Court power to set aside, vary, or discharge an interlocutory order based on new information, agreement of the parties, or other just grounds. This provides flexibility to adapt to changing circumstances during litigation.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_004_s011"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_004_s011",
+              "text": "(4) The Court may set aside, vary or discharge an interlocutory order (a) because information arose or was discovered after the order was made, (b) with the agreement of every party, or (c) on other grounds that the Court considers just.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_004",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Rule 9.15(4)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This is a vital tool for course-correction during litigation. It acknowledges that interlocutory orders are often made on an incomplete record. This rule allows parties to revisit those orders when new facts emerge, preventing an early procedural ruling from unjustly determining the outcome of the case.",
+          "litigation_implications": [
+            "Offensive: If new evidence is discovered that undermines the basis of a prior interlocutory order, use this rule to apply to have it varied or set aside.",
+            "Offensive: Use the broad 'other grounds that the Court considers just' clause to make fairness-based arguments for varying an order that is no longer appropriate.",
+            "Defensive: Oppose an application by arguing the 'new' information is not truly new or is not material enough to warrant changing the prior order.",
+            "Strategic: Use this rule to vary procedural or consent orders (like litigation plans) when circumstances change, rather than being bound by an outdated schedule.",
+            "Strategic: When obtaining a consent order on a procedural matter, understand that it is not set in stone and can be varied under this rule if justice requires."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Application must specify the grounds under R 9.15(4) and provide evidence supporting those grounds (e.g., an affidavit detailing the newly discovered information).",
+            "risk_assessment": "Moderate. Success is discretionary and depends on the materiality of the new information or the strength of the 'just grounds' argument.",
+            "audit_trigger": "Any application to vary an interlocutory order."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Custom Metal Installations Ltd. v. Winspia Windows (Canada) Inc, 2020 ABCA 333"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-plaintiff-set-aside-own-judgment",
+        "node_type": "WarfareFramework",
+        "label": "Plaintiff's Application to Set Aside Own Default Judgment",
+        "description": "A plaintiff may apply to set aside a default judgment they themselves obtained, typically to avoid unintended legal consequences like the merger of a cause of action, which would prevent them from pursuing further claims or other parties.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s045",
+          "part9_part_9_judgments_and_orders_008_s059",
+          "part9_part_9_judgments_and_orders_008_s079",
+          "part9_part_9_judgments_and_orders_008_s080"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s080",
+              "text": "These cases arise where for some reason the default judgment has disposed of the cause of action, preventing the plaintiff from additional relief against other parties.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:2 (Section 2)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This is a sophisticated tactical maneuver to correct a strategic error. A plaintiff might take a quick default judgment for property damage, only to realize this legally bars them from later suing for personal injuries from the same incident (merger). This framework allows them to 'undo' the first judgment to pursue the larger claim.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): Use to vacate a default judgment that inadvertently prevents suing other parties (e.g., an agent, precluding a suit against the principal).",
+            "Offensive (Plaintiff): Apply to set aside a judgment for a smaller amount to enable a new action for a larger claim arising from the same facts.",
+            "Defensive (Defendant): Argue that the plaintiff made a deliberate choice and should be bound by it, emphasizing the importance of finality.",
+            "Defensive (Defendant): Argue that the plaintiff has already taken advantage of the judgment (e.g., by starting enforcement), which should bar them from setting it aside.",
+            "Strategic: Before taking any default judgment, conduct a full analysis to ensure it will not preclude other, more valuable claims."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "The plaintiff must show a good reason why they should be allowed to set aside their own deliberately-obtained judgment.",
+            "risk_assessment": "High. Courts are reluctant to unwind a plaintiff's own deliberate actions. Success depends on demonstrating a significant injustice or unintended consequence.",
+            "audit_trigger": "Any application by a plaintiff to set aside their own judgment."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Kohn v. Devon Mortgage Ltd. (1983), 28 Alta. L.R. (2d) 276",
+            "Royal Bank of Canada v. Logan (1994), 155 A.R. 78",
+            "Edwards v. Ferris, 2001 ABQB 1125"
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r9-15-deliberate-default-bar",
+        "node_type": "ProceduralTrap",
+        "label": "Bar to Setting Aside Deliberate Default",
+        "description": "A defendant who deliberately allows a default judgment to be entered against them, knowing the consequences, will generally be barred from later applying to have it set aside. This acts as a trap for litigants who choose to ignore a lawsuit.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s076",
+          "part9_part_9_judgments_and_orders_008_s326"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s326",
+              "text": "43 The general legal principle, which “has been authoritatively laid down in a number of decisions, [is] that a defendant cannot succeed if he has deliberately lain by and allowed judgment to go by default”: Atlantic at para 19.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:2 (Section 2 & 7)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This principle enforces the integrity of the litigation process. It prevents a defendant from ignoring a claim and then, only when enforcement begins, attempting to restart the process. It creates finality and punishes willful disregard for court process.",
+          "litigation_implications": [
+            "Defensive (Respondent): This is the primary weapon to defeat a set-aside application where the defendant made a conscious choice not to defend.",
+            "Defensive (Respondent): Gather evidence (e.g., emails, letters) where the defendant acknowledged the lawsuit but expressed an intention not to participate.",
+            "Offensive (Applicant): Must provide strong evidence that the default was NOT deliberate, but was the result of a genuine mistake, accident, or solicitor error.",
+            "Strategic: Advising a client to ignore a statement of claim is malpractice, as it will likely trigger this bar and prevent them from defending the claim later."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "A defendant must respond to a statement of claim to avoid being deemed to have deliberately defaulted.",
+            "risk_assessment": "Critical. A finding of deliberate default is almost always fatal to a set-aside application.",
+            "audit_trigger": "Any evidence of a defendant's conscious decision not to defend an action."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Edwards v. Ferris, 2001 ABQB 1125",
+            "Yehya v. Las Palmas Estate Homes Ltd., 2018 ABQB 374"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-solicitor-neglect-excuse",
+        "node_type": "WarfareFramework",
+        "label": "Using Solicitor Neglect as an Excuse for Default",
+        "description": "A framework for setting aside a default judgment by arguing that the failure to defend was due to the neglect or inadvertence of the party's former solicitor. Courts are often reluctant to visit the consequences of a solicitor's failure upon an otherwise diligent client.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s030",
+          "part9_part_9_judgments_and_orders_008_s138",
+          "part9_part_9_judgments_and_orders_008_s142",
+          "part9_part_9_judgments_and_orders_008_s161"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s161",
+              "text": "In any event, the neglect of Groening's then solicitor should not be visited upon him.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1",
+            "Commentary § 9.15:2 (Section 4)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This provides a powerful equitable argument for an applicant. It separates the 'sins' of the lawyer from the rights of the client. By blaming former counsel, the applicant can satisfy the 'no deliberate default' prong of the three-part test, even if their case was badly mishandled.",
+          "litigation_implications": [
+            "Offensive (Applicant): If default was due to a lawyer's error, file an affidavit explaining this and emphasizing the client's own diligence.",
+            "Offensive (Applicant): Argue that the client acted promptly as soon as they learned their counsel had failed them.",
+            "Defensive (Respondent): Argue that the client was not diligent and cannot simply blame their lawyer. Look for evidence the client was aware of the problems and did nothing.",
+            "Defensive (Respondent): Argue that while solicitor neglect can be an excuse, the other parts of the test (arguable defence, promptness) must still be met.",
+            "Strategic: This often requires the new lawyer to implicitly or explicitly criticize the former lawyer's conduct."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "The applicant must provide a credible explanation of the solicitor's error and their own lack of fault.",
+            "risk_assessment": "Moderate. While a strong argument, courts will still look for diligence on the part of the client themselves.",
+            "audit_trigger": "Any set-aside application that blames former counsel."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Winkler Credit Union Ltd. v. Muz and Groening (1982), 47 Man.R. (2d) 254 (C.A.)",
+            "Gill v. Radio India, et al., 2005 BCSC 1298",
+            "David M. Gottlieb Professional Corp. v. Nahal, 2011 ABQB 355"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-distinction-interlocutory-final-consent-orders",
+        "node_type": "WarfareFramework",
+        "label": "Varying Interlocutory vs. Final Consent Orders",
+        "description": "A strategic distinction in how courts treat consent orders. Final consent orders (settlements) are treated like contracts and are very difficult to set aside. Interlocutory procedural consent orders (e.g., litigation plans) are not contracts and can be varied or set aside on discretionary grounds where it is 'just' to do so.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s542",
+          "part9_part_9_judgments_and_orders_008_s545",
+          "part9_part_9_judgments_and_orders_008_s552"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s545",
+              "text": "There is a marked distinction between a consent judgment that implements a settlement on the merits and creates res judicata and an interlocutory consent order that purports to engage the powers of the court and governs the conduct of the litigation.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:2 (Section 11)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This framework provides the legal basis to escape the confines of a procedural consent order that has become unworkable or unjust. It counters the incorrect argument that all consent orders are immutable contracts, opening the door for discretionary relief under R 9.15(4)(c) for procedural matters.",
+          "litigation_implications": [
+            "Offensive: When seeking to change a litigation plan set by consent order, argue it is an interlocutory procedural order and the court has broad discretion to vary it in the interests of justice.",
+            "Defensive: When opposing a change to a consent order, try to characterize it as substantive and final, rather than merely procedural, to attract the stricter 'contract' standard.",
+            "Strategic: Avoid agreeing to draconian penalty clauses in procedural consent orders, knowing that while they can be varied, it still requires a court application.",
+            "Offensive: Use this framework to argue for an extension of a deadline set in a consent order, even if the other side does not agree.",
+            "Defensive: Argue that while the court has discretion, it should not be exercised because the other party is simply trying to escape the consequences of their own lack of diligence."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Applications to vary consent orders must correctly identify whether the order is final or interlocutory and apply the correct legal test.",
+            "risk_assessment": "Moderate. Success depends on persuading the judge that varying the procedural order is 'just' in the circumstances.",
+            "audit_trigger": "Any application to vary or set aside a consent order."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Custom Metal Installations Ltd. v. Winspia Windows (Canada) Inc, 2020 ABCA 333",
+            "Rick v Brandsema, 2009 SCC 10"
+          ]
+        }
+      },
+      {
+        "node_id": "fp-r9-15-affected-person-definition",
+        "node_type": "FoundationalPillar",
+        "label": "Definition of 'Affected Person'",
+        "description": "The term 'affected person' under Rule 9.15 is narrowly defined to mean someone who is legally affected by a judgment or order. It does not extend to individuals who have only a personal, moral, or reputational stake in a legal proceeding.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s098",
+          "part9_part_9_judgments_and_orders_006_s099"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s098",
+              "text": "Properly read, the term “affected persons” in Rule 9.15 means someone who is legally affected by a judgment or Order of the Court.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1 (Section 2)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This pillar acts as a crucial gatekeeper, defining who has standing to bring an application under Rule 9.15. It prevents third parties, who may be criticized in a judgment but are not legally bound by it, from attempting to reopen and vary the court's findings.",
+          "litigation_implications": [
+            "Defensive: Use to strike an application brought by a person or entity that is not legally impacted by the order, arguing they lack standing.",
+            "Offensive: Before bringing an application on behalf of a non-party, ensure you can demonstrate a direct legal effect of the order on them.",
+            "Strategic: This prevents litigation from being derailed by collateral attacks from individuals whose reputations may have been damaged but whose legal rights were not adjudicated.",
+            "Defensive: Argue that allowing a non-legally affected person to apply would undermine the finality of judgments and open the floodgates to endless revisions.",
+            "Offensive: If you are a non-party seeking to vary, you must prove the order has a direct and binding legal consequence on you (e.g., impacts your property rights)."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "An applicant under R 9.15 must have standing as a legally 'affected person'.",
+            "risk_assessment": "High risk for applicants who cannot demonstrate a direct legal impact from the order; their application is likely to be dismissed for lack of standing.",
+            "audit_trigger": "Any R 9.15 application brought by a non-party to the original action."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Gunda v. Allied Shortridge Civil Enforcement Agency, 2022 ABKB 638"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-20-day-limit-inapplicable-to-noting-in-default",
+        "node_type": "WarfareFramework",
+        "label": "Countermeasure: 20-Day Limit Inapplicable to Noting in Default",
+        "description": "A strategic clarification that the 20-day time limit in Rule 9.15(2) does not apply to an application to set aside a 'noting in default'. This is because a noting in default is an administrative notation by the Clerk, not a judgment or order of the Court.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s109",
+          "part9_part_9_judgments_and_orders_006_s110"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s109",
+              "text": "He cites r 9.15. … 88 First, noting in default is not a judgment or an order; it is not made by a judge or master, but is merely an administrative notation by the Clerk of the Court.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1 (Section 4)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This is a specific countermeasure that parallels the inapplicability of the 20-day limit to default judgments. It prevents a plaintiff from using a procedural trap to block a defendant from filing a defence when only an administrative 'noting in default' has occurred, reinforcing that the court's focus is on fairness and merits.",
+          "litigation_implications": [
+            "Defensive: When applying to set aside a noting in default after 20 days, use this argument to defeat any timeliness objection from the plaintiff.",
+            "Strategic: Differentiates the legal status of a 'noting in default' from a 'default judgment', which have different tests and procedural requirements for being set aside.",
+            "Offensive: If an opponent incorrectly argues the 20-day limit applies to a noting in default, use this framework to demonstrate their misunderstanding of the Rules.",
+            "Strategic: Reinforces that while there is no hard deadline, the application should still be brought promptly to satisfy the overarching fairness test."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Legal arguments must correctly distinguish between a noting in default and a judgment/order when considering the applicability of R 9.15(2).",
+            "risk_assessment": "Low risk. The law on this point is clear.",
+            "audit_trigger": "Any timeliness objection raised in response to an application to set aside a noting in default."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Al-Ghamdi v. Alberta, 2017 ABQB 169"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-plaintiff-no-merits-affidavit-required",
+        "node_type": "WarfareFramework",
+        "label": "Plaintiff Not Required to Prove Merits to Set Aside Dismissal",
+        "description": "When a plaintiff's claim is dismissed for non-appearance at trial due to accident or mistake, they are generally not required to file an 'Affidavit of Merits' proving an arguable cause of action to have the dismissal set aside. The focus is on whether the failure to appear was excusable.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s280",
+          "part9_part_9_judgments_and_orders_006_s294",
+          "part9_part_9_judgments_and_orders_006_s314"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s280",
+              "text": "Judge LeGrandeur found that while a defendant seeking to set aside a default judgment must demonstrate by way of evidence that the defendant has an arguable defence, a plaintiff need not demonstrate by way of evidence that he or she has an arguable cause of action.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1 (Section 9)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This framework creates a lower bar for a plaintiff seeking to set aside a dismissal for non-appearance compared to a defendant seeking to set aside a default judgment. It recognizes that the merits of the plaintiff's claim are already pleaded in the Statement of Claim. The key battleground becomes the reason for non-attendance, not the strength of the case.",
+          "litigation_implications": [
+            "Offensive (Plaintiff): When applying to set aside a dismissal, focus the affidavit evidence entirely on the 'accident or mistake' that led to the non-appearance.",
+            "Offensive (Plaintiff): Argue that the court should not conduct a mini-trial on the merits of the claim at this stage.",
+            "Defensive (Defendant): While the plaintiff may not need an affidavit of merits, argue that a complete lack of diligence or intention to prosecute the action should still bar relief.",
+            "Defensive (Defendant): Argue that even if an affidavit of merits is not strictly required, the court's discretion should be influenced by the apparent weakness of the plaintiff's case.",
+            "Strategic: This lowers the cost and complexity for a plaintiff to correct a procedural error like missing a trial date."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Plaintiff's application must focus on providing a satisfactory explanation for the non-appearance.",
+            "risk_assessment": "Lower risk for plaintiffs compared to defendants in a similar position, as the evidentiary burden is lighter.",
+            "audit_trigger": "Any application by a plaintiff to set aside a dismissal for non-appearance."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Graziano v. Soroka Developments Ltd., 2011 ABPC 80",
+            "Alliance Concrete Ltd. v. Robertson, 2014 ABQB 401"
+          ]
+        }
+      },
+      {
+        "node_id": "cm-r9-15-challenge-affidavit-via-crossexamination",
+        "node_type": "ControlMechanism",
+        "label": "Challenge Affidavit Evidence via Cross-Examination",
+        "description": "Establishes the procedural rule that an applicant's affidavit evidence on a set-aside application must be accepted at face value unless challenged through cross-examination; filing a contradictory affidavit is insufficient.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s225",
+          "part9_part_9_judgments_and_orders_008_s226"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s225",
+              "text": "But that is not the way to counter an applicant's affidavit.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            },
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s226",
+              "text": "In the absence of cross-examination of the defendant that would tend to show that he is either mistaken or worse, I must accept the contents of it at face value.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:2 (Section 5)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This rule is a procedural weapon for the applicant and a control on the respondent. It prevents a 'battle of the affidavits' and forces a respondent who disputes the facts to commit to the time and expense of a cross-examination. For the applicant, it means their sworn evidence is presumptively true unless formally challenged.",
+          "litigation_implications": [
+            "Offensive (Applicant): If the respondent files a contradictory affidavit but does not cross-examine, argue that your client's evidence must be accepted at face value.",
+            "Defensive (Respondent): To challenge the facts in the applicant's affidavit, you MUST serve a notice of appointment for cross-examination.",
+            "Defensive (Respondent): Do not waste resources drafting a detailed contradictory affidavit if you do not intend to cross-examine; it will have no weight.",
+            "Strategic: Use the threat of a costly cross-examination to deter a respondent from challenging a strong affidavit.",
+            "Strategic: If the applicant's affidavit is weak or evasive, a cross-examination is the primary tool to destroy their credibility and defeat the application."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "A party wishing to challenge affidavit evidence on an application must conduct a cross-examination.",
+            "risk_assessment": "High risk for respondents who fail to cross-examine, as the applicant's version of the facts will be accepted by the court.",
+            "audit_trigger": "Any application where contradictory affidavits are filed but no cross-examination is conducted."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Ash Temple Ltd. v. Tkachyk (1999), 258 A.R. 355 (Master)"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-lower-bar-for-noting-in-default",
+        "node_type": "WarfareFramework",
+        "label": "Lower Bar for Setting Aside Noting in Default vs. Judgment",
+        "description": "A strategic framework recognizing that courts apply the 'fairness' test more leniently when setting aside a mere 'noting in default' compared to a full 'default judgment', as the former is an administrative step and the latter is a court adjudication.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s109",
+          "part9_part_9_judgments_and_orders_006_s112",
+          "part9_part_9_judgments_and_orders_008_s199"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s109",
+              "text": "He cites r 9.15. … 88 First, noting in default is not a judgment or an order; it is not made by a judge or master, but is merely an administrative notation by the Clerk of the Court.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            },
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s199",
+              "text": "The case law is to the effect that if the defendant can explain the delay satisfactorily, applies promptly and has an arguable defence, then the scales of fairness tip in the defendant's favour and he is given a “Mulligan”.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1 (Section 4 & 5)",
+            "Commentary § 9.15:2 (Section 4)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This framework exploits the lesser legal status of a 'noting in default'. Because it is a reversible administrative step, courts are more inclined to grant a 'mulligan' and allow the matter to proceed on its merits, making it an easier target for a set-aside application than a full judgment.",
+          "litigation_implications": [
+            "Offensive (Applicant): If only noted in default, emphasize the administrative nature of the step and the court's broad discretion to do what is fair.",
+            "Offensive (Applicant): Argue that the prejudice to the plaintiff is minimal as no judgment has been entered or enforced.",
+            "Defensive (Respondent): To counter this, move quickly from noting in default to obtaining a formal default judgment to raise the procedural bar for the defendant.",
+            "Strategic: This distinction incentivizes defendants to act as soon as they are noted in default, before the situation escalates to a full judgment."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Applications should clearly state that they are to set aside a 'noting in default' and leverage the corresponding case law on fairness.",
+            "risk_assessment": "Lower risk for applicants compared to setting aside a full judgment.",
+            "audit_trigger": "Any delay by a plaintiff in moving from a noting in default to a default judgment."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Al-Ghamdi v. Alberta, 2017 ABQB 169",
+            "Atlantic (HS) Financial Ltd. v. Punjabi, 2017 ABQB 87"
+          ]
+        }
+      },
+      {
+        "node_id": "pt-r9-15-financial-difficulty-not-excuse",
+        "node_type": "ProceduralTrap",
+        "label": "Trap: Financial Difficulty is Not an Excuse for Default",
+        "description": "Establishes the legal principle that financial difficulties or business troubles do not constitute a valid excuse for failing to file a defence, and will not warrant opening up a default judgment.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s108"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_008_s108",
+              "text": "Las Palmas Estate Homes Ltd., 2018 ABQB 374, 2018 CarswellAlta 865, Justice Manderscheid said: 44 Further, contemporary Canadian jurisprudence confirms that neither the impending bankruptcy of the Applicants, at the point the Statement of Claim was served on them, nor their financial troubles constitute a sound basis or excuse for not filing a defence: see, Landmass Dirtworx at para 57, where Graesser, J categorically concluded that “business difficulties do not create a defence, nor do they warrant opening up a default judgment.” Justice Manderscheid's decision was overturned on appeal (see: 2019 ABCA 164), but the above statement was not adversely commented upon by the Court of Appeal.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_008",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:2 (Section 3)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This is a trap for applicants who believe their difficult financial situation is a justifiable reason for not defending a lawsuit. The case law explicitly rejects this excuse, providing a powerful and specific counter-argument for the party upholding the default judgment.",
+          "litigation_implications": [
+            "Defensive (Respondent): If the applicant's excuse is financial hardship, cite *Yehya v. Las Palmas* to argue the excuse is legally invalid and the application must fail.",
+            "Offensive (Applicant): Avoid relying on financial difficulty as the primary excuse for default. It must be paired with a valid reason like solicitor error or medical issues.",
+            "Strategic: This rule prevents the court system from being stalled by parties claiming they are too poor to participate, upholding the principle that legal obligations must be met.",
+            "Defensive (Respondent): This argument is particularly effective against corporate defendants who claim business difficulties prevented them from retaining counsel."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Counsel must advise clients that financial hardship is not a recognized legal excuse for failing to defend an action.",
+            "risk_assessment": "Critical for applicants. Relying on this excuse will almost certainly lead to the application being dismissed.",
+            "audit_trigger": "Any affidavit in support of a set-aside application that cites financial difficulty as the reason for default."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Yehya v. Las Palmas Estate Homes Ltd., 2018 ABQB 374"
+          ]
+        }
+      },
+      {
+        "node_id": "wf-r9-15-plaintiff-diligence-counter-to-solicitor-neglect",
+        "node_type": "WarfareFramework",
+        "label": "Counter: Plaintiff's Lack of Diligence Overrides Solicitor Neglect",
+        "description": "A framework to defeat a plaintiff's application to set aside a dismissal by demonstrating that, despite any solicitor error, the plaintiff themselves showed a lack of diligence and no intention to participate in or prosecute the action.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s333",
+          "part9_part_9_judgments_and_orders_006_s336",
+          "part9_part_9_judgments_and_orders_006_s342"
+        ],
+        "enrichment": {
+          "handbook_evidence": [
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s333",
+              "text": "35 One reason for coming to this conclusion is that I am not convinced on the evidence before me the Applicant demonstrated an intention to participate in the action.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            },
+            {
+              "sentence_id": "part9_part_9_judgments_and_orders_006_s342",
+              "text": "This brings into question how vigorously the Applicant was pursuing its appeal.",
+              "paragraph_id": "part9_part_9_judgments_and_orders_006",
+              "section_heading": "Rule 9.15 – Part 9. Judgments And Orders",
+              "manifest_path": "rule9_part02_document.json",
+              "document_title": "Alberta Rules of Court – Rule 9 (Part 2)"
+            }
+          ],
+          "manifest_references": [
+            "Commentary § 9.15:1 (Section 9)"
+          ],
+          "verified_at": "2024-07-27T11:00:00+00:00",
+          "strategic_rationale": "This is a crucial countermeasure for a defendant facing a plaintiff's attempt to revive a dismissed action. It pierces the 'solicitor neglect' shield by arguing that the ultimate responsibility to prosecute a claim lies with the plaintiff, who cannot remain passive and then blame their lawyer for the consequences of their own inaction.",
+          "litigation_implications": [
+            "Defensive (Defendant): When a plaintiff applies to set aside a dismissal, investigate their overall conduct in the litigation. Look for long periods of inactivity or failure to communicate with their own counsel.",
+            "Defensive (Defendant): Argue that the plaintiff's lack of diligence shows they had no real intention to pursue the claim, and setting aside the dismissal would prejudice the defendant and the administration of justice.",
+            "Offensive (Plaintiff): To preempt this attack, the plaintiff's affidavit should detail their efforts to stay informed and move the action forward, demonstrating their diligence.",
+            "Strategic: This places a positive duty on plaintiffs to be actively involved in their own cases, preventing them from being completely passive participants."
+          ],
+          "governance_overlay": {
+            "compliance_requirement": "Plaintiffs have an ongoing duty to prosecute their actions with diligence.",
+            "risk_assessment": "High risk for passive plaintiffs. Their claim can be permanently lost if dismissed, even if their lawyer was also at fault.",
+            "audit_trigger": "A plaintiff's application to set aside a dismissal where the court file shows long periods of inactivity."
+          },
+          "automation_hooks": {},
+          "case_law_anchors": [
+            "Alliance Concrete Ltd. v. Robertson, 2014 ABQB 401"
+          ]
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "relationship_id": "rel-001-further-order-controlled-by-no-variation",
+        "source_node_id": "cm-r9-14-further-order-power",
+        "target_node_id": "cm-r9-14-further-order-power",
+        "relationship_type": "CONTROLLED_BY",
+        "description": "The power to make a further order is strictly controlled by the condition that it must not vary the original judgment.",
+        "source_sentence_ids": [
+          "part9_alberta_rules_of_court_rule_9_part_2_001_s002"
+        ]
+      },
+      {
+        "relationship_id": "rel-002-attack-supplemental-reasons-exploits-finality",
+        "source_node_id": "wf-r9-14-attack-supplemental-reasons",
+        "target_node_id": "cm-r9-14-further-order-power",
+        "relationship_type": "EXPLOITS",
+        "description": "The strategy of attacking supplemental reasons exploits the principle of finality that underpins Rule 9.14, arguing that substantial new reasons effectively and improperly vary the original oral judgment.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_002_s015",
+          "part9_part_9_judgments_and_orders_002_s016"
+        ]
+      },
+      {
+        "relationship_id": "rel-003-set-aside-power-controlled-by-20-day-limit",
+        "source_node_id": "cm-r9-15-set-aside-power",
+        "target_node_id": "pt-r9-15-20-day-application-limit",
+        "relationship_type": "CONTROLLED_BY",
+        "description": "The power to set aside an order under Rule 9.15(1) is controlled by the 20-day procedural time limit.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_004_s004"
+        ]
+      },
+      {
+        "relationship_id": "rel-004-countermeasure-counters-20-day-trap",
+        "source_node_id": "wf-r9-15-20-day-limit-inapplicable-to-default",
+        "target_node_id": "pt-r9-15-20-day-application-limit",
+        "relationship_type": "COUNTERS",
+        "description": "The legal framework establishing the 20-day limit's inapplicability to default judgments directly counters the procedural trap.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s012"
+        ]
+      },
+      {
+        "relationship_id": "rel-005-set-aside-power-operationalizes-three-part-test",
+        "source_node_id": "cm-r9-15-set-aside-power",
+        "target_node_id": "fp-r9-15-three-part-test-regular-default",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The power to set aside a regular default judgment is operationalized through the application of the three-part test.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s104"
+        ]
+      },
+      {
+        "relationship_id": "rel-006-three-part-test-requires-arguable-defence",
+        "source_node_id": "fp-r9-15-three-part-test-regular-default",
+        "target_node_id": "fp-r9-15-arguable-defence-requirement",
+        "relationship_type": "REQUIRES",
+        "description": "The three-part test requires the applicant to demonstrate an arguable defence.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s029"
+        ]
+      },
+      {
+        "relationship_id": "rel-007-three-part-test-requires-no-deliberate-default",
+        "source_node_id": "fp-r9-15-three-part-test-regular-default",
+        "target_node_id": "fp-r9-15-no-deliberate-default-requirement",
+        "relationship_type": "REQUIRES",
+        "description": "The three-part test requires the applicant to show the default was not deliberate and provide an excuse.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s030"
+        ]
+      },
+      {
+        "relationship_id": "rel-008-three-part-test-requires-promptness",
+        "source_node_id": "fp-r9-15-three-part-test-regular-default",
+        "target_node_id": "fp-r9-15-promptness-requirement",
+        "relationship_type": "REQUIRES",
+        "description": "The three-part test requires the applicant to have moved promptly after learning of the judgment.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s031"
+        ]
+      },
+      {
+        "relationship_id": "rel-009-as-of-right-counters-three-part-test",
+        "source_node_id": "fp-r9-15-procedural-flaw-as-of-right",
+        "target_node_id": "fp-r9-15-three-part-test-regular-default",
+        "relationship_type": "COUNTERS",
+        "description": "Establishing a procedural flaw allows an applicant to bypass the onerous three-part test, acting as a counter.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s102"
+        ]
+      },
+      {
+        "relationship_id": "rel-010-set-aside-power-controlled-by-accident-standard",
+        "source_node_id": "cm-r9-15-set-aside-power",
+        "target_node_id": "fp-r9-15-accident-or-mistake-standard",
+        "relationship_type": "CONTROLLED_BY",
+        "description": "The power to set aside an order for non-appearance under R 9.15(1)(b) is controlled by the 'accident or mistake' standard.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_004_s003"
+        ]
+      },
+      {
+        "relationship_id": "rel-011-fairness-test-operationalizes-set-aside-power",
+        "source_node_id": "fp-r9-15-fairness-test-noting-in-default",
+        "target_node_id": "cm-r9-15-set-aside-power",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The overarching fairness test provides the discretionary lens through which the court operationalizes its power to set aside a noting in default.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s146"
+        ]
+      },
+      {
+        "relationship_id": "rel-012-de-novo-review-operationalizes-set-aside",
+        "source_node_id": "wf-r9-15-de-novo-review-for-ex-parte",
+        "target_node_id": "cm-r9-15-set-aside-power",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The de novo review framework is the method by which the power to set aside an ex parte order is exercised.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s391"
+        ]
+      },
+      {
+        "relationship_id": "rel-013-breach-of-duty-exploits-de-novo-review",
+        "source_node_id": "wf-r9-15-duty-of-disclosure-ex-parte",
+        "target_node_id": "wf-r9-15-de-novo-review-for-ex-parte",
+        "relationship_type": "EXPLOITS",
+        "description": "An argument based on breach of the duty of disclosure is a primary weapon to exploit during a de novo review of an ex parte order.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s427"
+        ]
+      },
+      {
+        "relationship_id": "rel-014-vary-interlocutory-operationalizes-consent-order-distinction",
+        "source_node_id": "cm-r9-15-vary-interlocutory-order",
+        "target_node_id": "wf-r9-15-distinction-interlocutory-final-consent-orders",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The power to vary interlocutory orders is operationalized through the legal framework that distinguishes them from final, contractual consent orders.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s552"
+        ]
+      },
+      {
+        "relationship_id": "rel-015-set-aside-power-controlled-by-standing",
+        "source_node_id": "cm-r9-15-set-aside-power",
+        "target_node_id": "fp-r9-15-affected-person-definition",
+        "relationship_type": "CONTROLLED_BY",
+        "description": "The power to set aside an order can only be invoked by an 'affected person', whose definition is a controlling legal standard.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s095",
+          "part9_part_9_judgments_and_orders_006_s098"
+        ]
+      },
+      {
+        "relationship_id": "rel-016-noting-in-default-counter-counters-20-day-trap",
+        "source_node_id": "wf-r9-15-20-day-limit-inapplicable-to-noting-in-default",
+        "target_node_id": "pt-r9-15-20-day-application-limit",
+        "relationship_type": "COUNTERS",
+        "description": "The clarification that the 20-day limit does not apply to a 'noting in default' serves as a direct counter to an improper timeliness objection.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s110"
+        ]
+      },
+      {
+        "relationship_id": "rel-017-plaintiff-no-merits-counters-arguable-defence-req",
+        "source_node_id": "wf-r9-15-plaintiff-no-merits-affidavit-required",
+        "target_node_id": "fp-r9-15-arguable-defence-requirement",
+        "relationship_type": "COUNTERS",
+        "description": "For a plaintiff setting aside a dismissal, the principle that no affidavit of merits is required counters the 'arguable defence' requirement that applies to defendants.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s280"
+        ]
+      },
+      {
+        "relationship_id": "rel-018-deliberate-default-bar-counters-set-aside-power",
+        "source_node_id": "pt-r9-15-deliberate-default-bar",
+        "target_node_id": "cm-r9-15-set-aside-power",
+        "relationship_type": "COUNTERS",
+        "description": "A finding that a default was deliberate acts as a bar that counters the court's discretionary power to set aside the judgment.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s076"
+        ]
+      },
+      {
+        "relationship_id": "rel-019-solicitor-neglect-counters-deliberate-default-bar",
+        "source_node_id": "wf-r9-15-solicitor-neglect-excuse",
+        "target_node_id": "pt-r9-15-deliberate-default-bar",
+        "relationship_type": "COUNTERS",
+        "description": "Using solicitor neglect as an excuse is a direct counter-argument to an allegation that the default was deliberate on the part of the client.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s161"
+        ]
+      },
+      {
+        "relationship_id": "rel-020-plaintiff-set-aside-exploits-set-aside-power",
+        "source_node_id": "wf-r9-15-plaintiff-set-aside-own-judgment",
+        "target_node_id": "cm-r9-15-set-aside-power",
+        "relationship_type": "EXPLOITS",
+        "description": "A plaintiff exploits the general power to set aside judgments for the unusual purpose of correcting their own strategic error.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s059"
+        ]
+      },
+      {
+        "relationship_id": "rel-021-three-part-test-controlled-by-cross-examination",
+        "source_node_id": "fp-r9-15-three-part-test-regular-default",
+        "target_node_id": "cm-r9-15-challenge-affidavit-via-crossexamination",
+        "relationship_type": "CONTROLLED_BY",
+        "description": "The factual evaluation within the three-part test is controlled by the procedural requirement that a respondent must cross-examine to challenge the applicant's affidavit evidence.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s226"
+        ]
+      },
+      {
+        "relationship_id": "rel-022-lower-bar-operationalizes-fairness-test",
+        "source_node_id": "wf-r9-15-lower-bar-for-noting-in-default",
+        "target_node_id": "fp-r9-15-fairness-test-noting-in-default",
+        "relationship_type": "OPERATIONALIZES",
+        "description": "The principle of a lower bar for setting aside a noting in default operationalizes the court's broad discretion under the fairness test.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s112"
+        ]
+      },
+      {
+        "relationship_id": "rel-023-financial-difficulty-counters-excuse-requirement",
+        "source_node_id": "pt-r9-15-financial-difficulty-not-excuse",
+        "target_node_id": "fp-r9-15-no-deliberate-default-requirement",
+        "relationship_type": "COUNTERS",
+        "description": "The rule that financial difficulty is not a valid excuse directly counters an applicant's attempt to satisfy the 'reasonable excuse' part of the no-deliberate-default requirement.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_008_s108"
+        ]
+      },
+      {
+        "relationship_id": "rel-024-plaintiff-diligence-counters-solicitor-neglect",
+        "source_node_id": "wf-r9-15-plaintiff-diligence-counter-to-solicitor-neglect",
+        "target_node_id": "wf-r9-15-solicitor-neglect-excuse",
+        "relationship_type": "COUNTERS",
+        "description": "A plaintiff's own lack of diligence can be used to counter their argument that a dismissal should be set aside solely due to their solicitor's neglect.",
+        "source_sentence_ids": [
+          "part9_part_9_judgments_and_orders_006_s333"
+        ]
+      }
+    ],
+    "tactical_playbook": {
+      "plays": [
+        {
+          "play_id": "tp-001-default-judgment-reversal",
+          "play_name": "The Default Judgment Reversal",
+          "objective": "To set aside a regularly obtained default judgment against a client who failed to defend due to a misunderstanding or solicitor error.",
+          "control_mechanisms": [
+            "cm-r9-15-set-aside-power",
+            "cm-r9-15-challenge-affidavit-via-crossexamination"
+          ],
+          "warfare_frameworks": [
+            "wf-r9-15-20-day-limit-inapplicable-to-default",
+            "wf-r9-15-solicitor-neglect-excuse"
+          ],
+          "prerequisites": [
+            "Client has discovered a default judgment has been entered against them.",
+            "The default was not a deliberate choice by the client to ignore the lawsuit.",
+            "There is a factually and legally arguable defence to the original claim."
+          ],
+          "execution_sequence": [
+            "Step 1: Immediately upon being retained, file an application to set aside the default judgment to satisfy the 'promptness' requirement of `fp-r9-15-promptness-requirement`.",
+            "Step 2: Draft a detailed affidavit from the client that addresses all three prongs of `fp-r9-15-three-part-test-regular-default`, ensuring the excuse is not based on financial difficulty (`pt-r9-15-financial-difficulty-not-excuse`).",
+            "Step 3: In the affidavit, clearly establish the factual basis for the 'arguable defence' (`fp-r9-15-arguable-defence-requirement`). Do not make bald assertions.",
+            "Step 4: Clearly explain the reason for the default, framing it as an excusable mistake or leveraging `wf-r9-15-solicitor-neglect-excuse` if applicable, to satisfy `fp-r9-15-no-deliberate-default-requirement`.",
+            "Step 5: If the respondent files a contradictory affidavit but does not cross-examine, argue their evidence should be disregarded and your client's accepted at face value, per `cm-r9-15-challenge-affidavit-via-crossexamination`."
+          ],
+          "success_metrics": [
+            "The default judgment is set aside.",
+            "The client is permitted to file a Statement of Defence.",
+            "Costs of the application are awarded in the cause or are minimal."
+          ]
+        },
+        {
+          "play_id": "tp-002-ex-parte-order-ambush",
+          "play_name": "The Ex Parte Order Ambush",
+          "objective": "To set aside a damaging ex parte order by proving the applicant breached their duty of disclosure.",
+          "control_mechanisms": [
+            "cm-r9-15-set-aside-power"
+          ],
+          "warfare_frameworks": [
+            "wf-r9-15-de-novo-review-for-ex-parte",
+            "wf-r9-15-duty-of-disclosure-ex-parte"
+          ],
+          "prerequisites": [
+            "An ex parte order has been granted against the client.",
+            "There is evidence that the party who obtained the order failed to disclose material facts to the court."
+          ],
+          "execution_sequence": [
+            "Step 1: File an application to set aside the ex parte order within the 20-day limit prescribed by `pt-r9-15-20-day-application-limit`.",
+            "Step 2: In the application materials, assert that the hearing is a 'de novo' review, per `wf-r9-15-de-novo-review-for-ex-parte`, and that the onus remains on the original applicant.",
+            "Step 3: File a comprehensive affidavit that not only responds to the merits but also provides clear evidence of the material facts the other party failed to disclose.",
+            "Step 4: In the legal brief, argue that the non-disclosure was a breach of the duty of utmost good faith (`wf-r9-15-duty-of-disclosure-ex-parte`) and that the order should be set aside on that ground alone as a punitive measure.",
+            "Step 5: Argue in the alternative that, on the full de novo record including the previously undisclosed facts, the test for the original order is no longer met."
+          ],
+          "success_metrics": [
+            "The ex parte order is set aside.",
+            "The court makes a finding that the opposing party breached their duty of disclosure.",
+            "A significant costs award is made against the opposing party."
+          ]
+        }
+      ]
+    },
+    "countermeasure_simulation": {
+      "scenarios": [
+        {
+          "scenario_id": "cms-001-the-procedural-flaw-gambit",
+          "scenario_name": "The Procedural Flaw Gambit",
+          "initial_position": "A plaintiff has obtained a default judgment against your client. You review the court file and discover the Affidavit of Service is defective; it was served at an old address after the plaintiff had been notified in writing of the client's new address.",
+          "adversary_move": "You file an application to set aside the default judgment. The plaintiff's counsel responds by arguing your client has failed to provide an affidavit showing an 'arguable defence', focusing their entire argument on `fp-r9-15-arguable-defence-requirement`.",
+          "countermeasure": "File a reply brief that leverages `fp-r9-15-procedural-flaw-as-of-right`. Argue that because service was improper, the judgment is irregular. State that for an irregular judgment, the defendant is entitled to have it set aside 'as of right' and is NOT required to demonstrate an arguable defence. The opponent's entire argument is therefore irrelevant.",
+          "counter_countermeasure": "The plaintiff's counsel pivots and argues that even if the judgment is irregular, your client did not act 'promptly' after learning of the judgment, as they waited six weeks to file the application. They argue that the right to set aside an irregular judgment is forfeited by undue delay, attacking you on `fp-r9-15-promptness-requirement`.",
+          "outcome_analysis": "Your countermeasure is very strong and will likely succeed in shifting the focus of the hearing. The court will first determine if the judgment was irregular. If so, the 'arguable defence' requirement falls away. The battle then shifts to 'promptness'. A six-week delay is borderline and will require a good explanation. The likely outcome is that the judgment is set aside, but your client may be penalized in costs for the delay.",
+          "lessons_learned": [
+            "Always check for procedural flaws first; it is the most powerful weapon for setting aside a default judgment.",
+            "Even when relying on a procedural flaw, promptness is still a factor. Do not delay.",
+            "Anticipate that a skilled opponent will pivot from a losing argument (merits) to a more viable one (delay)."
+          ]
+        },
+        {
+          "scenario_id": "cms-002-the-unacceptable-excuse",
+          "scenario_name": "The 'Unacceptable Excuse' Defence",
+          "initial_position": "You have obtained a default judgment against a small corporation. Two months later, the corporation applies to set it aside.",
+          "adversary_move": "The director of the corporation files an affidavit that satisfies two prongs of the test: they claim to have an arguable defence (`fp-r9-15-arguable-defence-requirement`) and they filed the application promptly after their bank account was garnished (`fp-r9-15-promptness-requirement`). For the excuse, they state they were 'too busy with financial difficulties' to file a defence.",
+          "countermeasure": "File a response brief that directly attacks the excuse. Leverage `pt-r9-15-financial-difficulty-not-excuse`. Argue that the case law is categorical: financial troubles are not a valid excuse. Frame this as a conscious choice and a deliberate default, triggering `pt-r9-15-deliberate-default-bar`. Concede for the sake of argument that the other two prongs may be met, but argue that the case law requires all three prongs to be satisfied and a deliberate default is fatal.",
+          "counter_countermeasure": "The applicant's counsel argues that the court should exercise its overriding discretion based on fairness (`fp-r9-15-fairness-test-noting-in-default`), stating that it would be unjust to deny the company its day in court over a business owner's mistake, especially since the defence appears strong and no irreparable prejudice will befall your client.",
+          "outcome_analysis": "Your countermeasure is very strong. The case law explicitly states that business/financial difficulties are not an acceptable excuse. While the court has an overriding discretion, it is unlikely to exercise it in the face of a weak excuse for a two-month delay, which borders on a deliberate default. The application to set aside will likely be dismissed with costs awarded to you.",
+          "lessons_learned": [
+            "Focus your attack on the weakest prong of the applicant's three-part test.",
+            "Use specific, targeted case law nodes like `pt-r9-15-financial-difficulty-not-excuse` to dismantle common but invalid excuses.",
+            "Be prepared to counter a general 'fairness' argument by framing the applicant's inaction as unfair to your client, who is entitled to finality."
+          ]
+        }
+      ]
+    },
+    "integration_touchpoints": {
+      "neo4j_ingestion": {
+        "node_label_mapping": {
+          "FoundationalPillar": "CREATE (n:FoundationalPillar:LegalNode {node_id: $node_id}) SET n += $properties",
+          "WarfareFramework": "CREATE (n:WarfareFramework:LegalNode {node_id: $node_id}) SET n += $properties",
+          "ControlMechanism": "CREATE (n:ControlMechanism:LegalNode {node_id: $node_id}) SET n += $properties",
+          "ProceduralTrap": "CREATE (n:ProceduralTrap:LegalNode {node_id: $node_id}) SET n += $properties"
+        },
+        "relationship_type_mapping": {
+          "OPERATIONALIZES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:OPERATIONALIZES]->(b) SET r += $properties",
+          "CONTROLLED_BY": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:CONTROLLED_BY]->(b) SET r += $properties",
+          "EXPLOITS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:EXPLOITS]->(b) SET r += $properties",
+          "REQUIRES": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:REQUIRES]->(b) SET r += $properties",
+          "COUNTERS": "MATCH (a {node_id: $source_node_id}), (b {node_id: $target_node_id}) MERGE (a)-[r:COUNTERS]->(b) SET r += $properties"
+        },
+        "provenance_indexing": "CREATE INDEX ON :LegalNode(source_sentence_ids)"
+      },
+      "automation_api_endpoints": {
+        "set_aside_analyzer": "/api/v1/applications/set-aside/analyze",
+        "procedural_flaw_checker": "/api/v1/default-judgment/audit",
+        "deadline_alert_system": "/api/v1/deadlines/monitor"
+      }
+    }
+  }
+}

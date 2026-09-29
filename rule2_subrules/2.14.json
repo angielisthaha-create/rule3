@@ -1,0 +1,281 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.14",
+  "title": {
+    "official": "Self-appointed litigation representatives",
+    "variants": {}
+  },
+  "division": {
+    "number": 2,
+    "heading": "Litigation Representatives"
+  },
+  "operative_text": {
+    "controlling": "2.14(1)  If an individual or estate who is required to have a\nlitigation representative under rule 2.11 does not have one, an\ninterested person\n(a) may file an affidavit in Form 1 containing the information\ndescribed in subrule (2), and by doing so becomes the\nlitigation representative for that individual or estate, and\n(b) where an interested person has, or proposes to, become\nthe litigation representative under clause (a) for an estate,\nthe interested person must serve notice of the appointment\nin Form 2 on the beneficiaries and heirs at law of the\ndeceased.\n(2)  The affidavit must include\n(a) the interested person’s agreement in writing to be the\nlitigation representative,\n(b) the reason for the self-appointment,\n(c) the relationship between the litigation representative and\nthe individual or estate the litigation representative will\nrepresent,\n(d) a statement that the litigation representative has no\ninterest in the action adverse in interest to the party the\nlitigation representative will represent,\n(e) if the litigation representative is an individual, a statement\nthat the litigation representative is a resident of Alberta,\n(f) if the litigation representative is a corporation, the place of\nbusiness or activity of the corporation in Alberta, and\n(g) an acknowledgment of potential liability for payment of a\ncosts award attributable to or liable to be paid by the\nlitigation representative.\n(3)  If a person proposes to become a self-appointed litigation\nrepresentative for the estate of a deceased person, the affidavit\nreferred to in subrule (2) must, in addition to the matters set out in\nsubrule (2), disclose any of the following matters that apply:\n(a) whether the estate has a substantial interest in the action\nor proposed action;\n(b) whether the litigation representative has or may have\nduties to perform in the administration of the estate of the\ndeceased;\n(c) whether an application has been or will be made for\nadministration of the estate of the deceased;\n(d) whether the litigation representative does or may represent\ninterests adverse to any other party in the action or\nproposed action;\n(e) repealed AR 143/2011 s2.\n(4)  A person proposing to become a self-appointed litigation\nrepresentative has no authority to make or defend a claim or,\nwithout the Court’s permission, to make an application or take any\nproceeding in an action, until the affidavit referred to in subrule\n(1)(a) is filed.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "5f2fe057c9c1bb64a52e6edabe0493a69c8e6f96d3bfe6a3555fdf7b793b29aa"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010 s2.14;143/2011",
+    "amending_regulations": [
+      "143/2011"
+    ],
+    "carrier_notes": {
+      "BOOK_A": [
+        "[Alta. Reg.124/10;143/11]"
+      ],
+      "BOOK_B": "Alta. Reg. 143/2011, s. 2"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_A": "AGREES",
+      "BOOK_B": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          40,
+          42
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Self-appointed Litigation Representatives",
+      "operative_text_raw": null,
+      "operative_text_sha256": "c61f44c186900f5b2e01053d425a17605f4d24f40b0ba0ba2110ab94d68c9b03",
+      "related_provisions": "2.21 (replacement of litigation representative) ; 10.47 (liability for costs).",
+      "commentary": "Previously a person could self-appoint as a “next friend” of a party. This Rule expands the\ncircumstances under which someone can unilaterally sue or defend for another, and establishes\na procedure for doing so.\nThis Rule does not let one lay person speak for another litigant who is not under a disability.¹\nThe court can decide who will be a litigation representative for someone else, and ended here\nthe appointment of such a litigation representative. Only suitable persons should so act. One can\nself-appoint only if the individual or estate was required to have a litigation representative. But this\nestate already had one. And the afﬁdavit required had never been ﬁled.²\n\nRule 2.14 is novel, and raises more questions than it answers, especially as it does not deﬁne\n\"interested\". If this Rule is properly conceived, it is poorly drafted. Does \"interested\" mean \"want to\ntalk about or litigate this topic\", or \"have a legally-enforceable right\", or \"claim a legal right though\nthat is disputed\"? The last of the 3 meanings was in effect adopted.¹\nA person can validly self-appoint without having any particular (or the stated) status?²\nIn any\nevent, the afﬁdavit under R.2.14 by the self-appointee only need give that person's \"reasons for\nself-appointing\".³\nWhere no one applies for letters of administration (or probate) of a deceased person's estate,\nand the only other person who wishes to apply has a conﬂict of interest, that is a weighty reason\nfor someone else self-appointing to represent the estate?⁴",
+      "footnotes": [
+        {
+          "page": "2-37",
+          "number": 1,
+          "text": "Nahirney v. Ogilvie & Co. , supra, R.2.13n."
+        },
+        {
+          "page": "2-37",
+          "number": 2,
+          "text": "Royal Bank of Can. v. Godbout 2021 ABQB 191, JCRD 2010 00857 (Mar 11) (¶’s 12-19)."
+        },
+        {
+          "page": "2-38",
+          "number": 1,
+          "text": "while denying any need to adopt a deﬁnition, in Kunkel v. Winquist 2022 ABQB 367, JCE 2003 13470 (May 24)."
+        },
+        {
+          "page": "2-38",
+          "number": 2,
+          "text": "Kunkel v. Winquist, supra (¶ 31). Quaere."
+        },
+        {
+          "page": "2-38",
+          "number": 3,
+          "text": "Kunkel v. Winquist, supra (¶ 31)"
+        },
+        {
+          "page": "2-38",
+          "number": 4,
+          "text": "even if they may have a similar conﬂict? Kunkel v. Winquist, supra (¶ 38)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          1787,
+          1871
+        ],
+        "book_pages": [
+          "2-36",
+          "2-37",
+          "2-38"
+        ]
+      },
+      "operative_text_note": "same wording as official except typography: 'self appointed' (no hyphen) in (3), '(1) (a)' spacing, bracketed labels, and '(e) repealed AR 143/2011.' (official: '... s2.').",
+      "commentary_review_flag": "5th pass: 'the affidavit under R.2.14 by the self-appointee only need give that person's \"reasons for self-appointing\"' (p.2-38, Kunkel para 31) is about proving status; read literally it is narrower than official 2.14(2)-(3), which require agreement in writing, the reason, the relationship, no adverse interest, residence or place of business, a costs acknowledgment, and (for estates) the (3)(a)-(d) disclosures."
+    },
+    "BOOK_B": {
+      "title": "Self-appointed litigation representatives",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "2.14:1",
+          "text": "Rule 2.14 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 2.14. An Estate Requires Representation to Appear in Court In Oommen v. Ramjohn, 2015 ABCA 34, 2015 CarswellAlta 102, 3 E.T.R. (4th) 207, Mr. Oommen, one of the named co-executors in a will not yet probated, “appointed himself the estate's litigation representative pursuant to Rule 2.14”, and now wished to represent (without counsel) the estate in the Court of Queen's Bench in relation to a judgment the deceased had obtained before his death. In an Application for Incidental Direction, Madam Justice Veldhuis held he could not do so without legal counsel. Her Ladyship said, at paragraphs 3-4: 3 The Rules of Court provide that individuals may represent themselves in an action: Rule 2.22. An estate is not an individual in this context but a separate legal entity. This has been established in the constitutional context: Stinson (Estate of) v British Columbia, 1999 BCCA 761 at para 15, 133 BCAC 15; Canada (Attorney General) v Hislop, 2007 SCC 10 at para 73, [2007] 1 SCR 429. In addition, Rule 2.14(1) refers to an “individual or estate” (emphasis added), indicating the two concepts are distinct. 4 An estate therefore requires representation to appear in court. Section 106(1) of the Legal Profession Act, RSA 2000, c L-8 provides that no person shall commence, carry on or defend an action or proceeding before a court or judge on another's behalf unless that person is an active member of the Law Society of Alberta. Section 106(2) provides a number of exceptions to this rule, none of which apply in the circumstances of this case."
+        }
+      ],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_2_013",
+        "part2_rule_2_14_001",
+        "part2_alberta_rules_of_court_rule_2_part_2_014",
+        "part2_alberta_rules_of_court_rule_2_part_2_015",
+        "part2_rule_2_14_002",
+        "part2_alberta_rules_of_court_rule_2_part_2_016"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part02_document.json"
+        ]
+      },
+      "operative_text_sha256": "7befb3fea47ae29f27ed7fc5381046122ddc11bd6fc961d1b15957e249ee2d90",
+      "operative_text_note": "same wording as official; (3)(d) ends with '.' and (e) reads '[Repealed Alta. Reg. 143/2011, s. 2(b).]' - adds the paragraph reference s. 2(b). No substantive difference."
+    },
+    "BOOK_C": {
+      "title": "Self-appointed litigation representatives",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "d8df1222bf083329cccf3179f962a839c8d86fb315fa1acd2272c6b4bd358787",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "cut off at (2)(a); Form numbers 1 and 2 replaced by a stray citation. Not usable.",
+      "citations_note": "Bidell 2017 ABQB 76 is displaced (see rule 2.2). Book C has nothing else for 2.14.",
+      "division_heading_flag": "wrong in Book C: rule 2.14 is in Division 2 (Litigation Representatives) per the official text"
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9884,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official except typography: 'self appointed' (no hyphen) in (3), '(1) (a)' spacing, bracketed labels, and '(e) repealed AR 143/2011.' (official: '... s2.')."
+    },
+    "BOOK_B": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.9922,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official; (3)(d) ends with '.' and (e) reads '[Repealed Alta. Reg. 143/2011, s. 2(b).]' - adds the paragraph reference s. 2(b). No substantive difference."
+    },
+    "BOOK_C": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.4121,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.14",
+      "title_official": "Self-appointed litigation representatives"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "WORDING_DIFFERENCE",
+      "BOOK_C": "WORDING_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "c61f44c186900f5b2e01053d425a17605f4d24f40b0ba0ba2110ab94d68c9b03",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            1787,
+            1871
+          ],
+          "book_pages": [
+            "2-36",
+            "2-37",
+            "2-38"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "7befb3fea47ae29f27ed7fc5381046122ddc11bd6fc961d1b15957e249ee2d90",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part02_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "d8df1222bf083329cccf3179f962a839c8d86fb315fa1acd2272c6b4bd358787",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "5f2fe057c9c1bb64a52e6edabe0493a69c8e6f96d3bfe6a3555fdf7b793b29aa",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            40,
+            42
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "c2d0cdeec08e3e867eac2c72346c7aff76305d7b38bdf7de1c30a02f73eca5a2"
+  },
+  "information_notes": [
+    {
+      "text": "For the liability of a litigation representative to pay a costs award, see rule 10.47 [Liability of\nlitigation representative for costs].",
+      "carriers": [
+        "BOOK_A"
+      ]
+    }
+  ],
+  "see_also": [
+    "BOOK_A other Parts (full Book A uploaded; 6th pass): R.3.74 notes (p.3-243) refer to 'Rr.2.11 to 2.16'. Official, by subject: 10.47 - a plaintiff's litigation representative is liable for costs; a defendant's only for serious misconduct and by order (the costs acknowledgment in 2.14(2)(g)).",
+    "BOOK_A 2.11 footnote 10: 'Rules 2.14(2)(f), 10.47'.",
+    "Rule 2.12(1)(b) (the self-appointed type).",
+    "BOOK_B 2.13 commentary (Nahirney) on 2.14(1).",
+    "BOOK_B 2.22 commentary quotes the same Oommen v Ramjohn passage as BOOK_B 2.14.",
+    "Cross-book (4th pass): Oommen v. Ramjohn 2015 ABCA 34 is also BOOK_A 2.22 fn 8 (p.2-45, 'Oommen (Chapman Est.) v. Ramjohn'). Kunkel v. Winquist 2022 ABQB 367 (BOOK_A 2.14 fns p.2-38) is also cited by BOOK_B under 2.11 and by BOOK_A and BOOK_C under 2.21 (wording corrected in 5th pass - BOOK_A does not cite it under 2.11). BOOK_A fn 2 'Royal Bank of Can. v. Godbout 2021 ABQB 191' and BOOK_A 2.21 fn 4 'Royal Bank v. Godbout 2021 ABQB 321' are two different decisions in the same court file. BOOK_A 2.11 fn 10 cites '2.14(2)(f)' for costs - probably 2.14(2)(g) (flagged under 2.11).",
+    "Official Form 1 is headed '[Rule 2.14]' (the affidavit named in 2.14(1)(a)) and Form 2 '[Rule 2.14(1)(b)]' (notice of appointment to beneficiaries and heirs). Form 1 was found in the 4th pass of 2.21-2.32; Form 2 was missed by that search pattern (it has a subrule in the heading) and added in the 5th pass."
+  ],
+  "dedupe_log": [
+    "2.14 BOOK_C citation context dropped (2017 ABQB 76): verbatim in kept text",
+    "2.14 BOOK_C: rule text dropped (manual review)",
+    "2.14 BOOK_C: displaced citations dropped ['2017 ABQB 76'] (manual review)",
+    "2.14 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "2.14 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "2.14 BOOK_B: raw text dropped, differences editorial only (manual review)"
+  ]
+}

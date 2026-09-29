@@ -1,0 +1,216 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "2.4",
+  "title": {
+    "official": "Disclosure of partners",
+    "variants": {}
+  },
+  "division": {
+    "number": 1,
+    "heading": "Facilitating Legal Actions"
+  },
+  "operative_text": {
+    "controlling": "2.4(1)  If an action is brought by or against a partnership in the\npartnership name, any other party may serve a notice to disclose\nrequiring the partnership to disclose in writing the names of all the\npartners constituting the partnership at a time specified in the\nnotice, and their current addresses.\n(2)  The partnership must comply with or dispute the notice to\ndisclose within 10 days after service of the notice on the\npartnership.\n(3)  If the partnership disputes the relevance of the time specified in\nthe notice to disclose, the partnership may apply to the Court to\ndetermine the matter, in which case the onus is on the partnership\nto show why the information should not be disclosed.\n(4)  If the present address of a partner is unknown, the partnership\nmust disclose the last known address of the partner.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "30ff205a2d17dc4cdf5effb02c33aae3242d4fc3edc10e251f88bb412de8b0a4"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {},
+    "crosscheck_vs_official": {}
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          37,
+          38
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Disclosure of Partners",
+      "operative_text_raw": null,
+      "operative_text_sha256": "b3e9355d93e70f5dfbae766f311bf64313f2781fed4d8532744dae52d07a2e30",
+      "related_provisions": "5.28 (written questions) ; 5.5 (discovery of records) ; 6.37 (notice to admit)",
+      "commentary": null,
+      "footnotes": [
+        {
+          "page": "2-5",
+          "number": 2,
+          "text": "Quite similar to previous 1968 R.80(3) -(5). It came from pt.1944 C. R.97; Common Law Procedure Act 1852 s.7; 1883 O.7 r.2; O.48A. R.1; 1914 R.146(c) (second half) ; 1914 R.146(a), and 1944 C. R.97(a)."
+        }
+      ],
+      "locator": {
+        "file": "combined_rule2.txt",
+        "lines": [
+          130,
+          146
+        ],
+        "book_pages": [
+          "2-5"
+        ]
+      },
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_B": {
+      "title": "Disclosure of partners",
+      "operative_text_raw": null,
+      "commentary": [],
+      "paragraph_ids": [
+        "part2_alberta_rules_of_court_rule_2_part_1_009",
+        "part2_rule_2_4_001",
+        "part2_alberta_rules_of_court_rule_2_part_1_010"
+      ],
+      "locator": {
+        "files": [
+          "rule2_part01_document.json"
+        ]
+      },
+      "operative_text_sha256": "5fdf6dda1164aff54d2335a369e488c90cc0607b0b3aba344605f5dd2d0ca61d",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Disclosure of partners",
+      "division_heading": "Division 1 – FACILITATING LEGAL ACTIONS",
+      "operative_text_raw": null,
+      "operative_text_sha256": "591cbc6fad8c05e345f50b1905f093e1be144dce94d17beec236ecbdd4c0f181",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "81-100_2_1 to 2_27.json",
+        "source_file": "81-100_revised.md"
+      },
+      "operative_text_note": "cut off in source after the first 10 words of (1); nothing else survives. Not usable; official text controls. Book C has no note, commentary or citation for 2.4."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "CARRIER_MISSING_TEXT",
+      "similarity": 0.1333,
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "2.4",
+      "title_official": "Disclosure of partners"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "6fc89cf8c02da0fb2678a6c79310ad32578b6127fca4cfb22a6836e756aed322",
+    "normalization_profile": {
+      "id": "arc-rule2-compare-norm",
+      "version": "1",
+      "sha256": "a8557715c28837e92cf566b6cee859637e47bc958c037dc9d622a0ced014813a"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2026 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2023 >= last Part 2 amendment year 2020 per official amendment history; no Part 2 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "EXACT_MATCH",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "CARRIER_MISSING_TEXT"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "425f41ff013a2c492de0244234c126fac0f52dbec36756ba81cf252566193704",
+        "text_sha256": "b3e9355d93e70f5dfbae766f311bf64313f2781fed4d8532744dae52d07a2e30",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part2",
+        "locator": {
+          "file": "combined_rule2.txt",
+          "lines": [
+            130,
+            146
+          ],
+          "book_pages": [
+            "2-5"
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "f0f9161146299e3370af8fa67f6c749007903167502f71707ac8d89f530b233d",
+        "text_sha256": "5fdf6dda1164aff54d2335a369e488c90cc0607b0b3aba344605f5dd2d0ca61d",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule2_part01_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "c38f10b6318efa13acd7f967db961fb62225605021808446af5c0266f5ce0eeb",
+        "text_sha256": "591cbc6fad8c05e345f50b1905f093e1be144dce94d17beec236ecbdd4c0f181",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp81-120",
+        "locator": {
+          "file": "81-100_2_1 to 2_27.json",
+          "source_file": "81-100_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "30ff205a2d17dc4cdf5effb02c33aae3242d4fc3edc10e251f88bb412de8b0a4",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            37,
+            38
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "7a6e98efc56bc0633bde2ce636d76f22445acec104bef97d7e6732820b0a2304"
+  },
+  "information_notes": [],
+  "see_also": [
+    "BOOK_A other Parts (full Book A; 7th pass): listed under R.5.22 (p.5-102), R.5.28 (p.5-113), R.6.37 (p.6-141), R.11.10 and R.11.11 (p.11-15); R.5.17 fn 5 (p.5-90): 'See R.2.4 on disclosing names of partners'. FLAG: R.8.8 notes (p.8-20): 'See further, R.2.4n.' - Book A has no notes on 2.4, and the preceding sentence (a lawyer acting as advocate and witness; fn 5 Beacon Hill 2011 ABQB 138) is the subject of BOOK_A 2.24 Part D, which cites Beacon Hill at p.2-58 fn 4. Probably 'R.2.24n' with a digit lost. Not corrected.",
+    "Official, by subject (6th pass): rule 5.17(1)(f) and (2)(d) - a partner or former partner of a partnership that is an adverse party may be questioned (a route alongside 2.4's notice to disclose).",
+    "Rule 2.5(2)-(3): a similar 'notice to disclose' (comply within 10 days) for sole proprietors - but 2.5 has no equivalent of 2.4(3) (dispute and apply to the Court) or 2.4(4) (last known address); BOOK_A repeats 2.4's history note (1968 R.80(3)-(5)) under 2.5(3).",
+    "Rules 2.2 (actions in the partnership name) and 2.3 (suing individual partners) - rules 2.2-2.4 form the partnership rules."
+  ],
+  "dedupe_log": [
+    "2.4 BOOK_A: operative text dropped (EXACT_MATCH)",
+    "2.4 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "2.4 BOOK_C: rule text dropped (manual review)"
+  ]
+}

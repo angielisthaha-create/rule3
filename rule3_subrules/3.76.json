@@ -1,0 +1,216 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.76",
+  "title": {
+    "official": "Action to be taken when defendant or respondent added",
+    "variants": {
+      "BOOK_A": "Action to beTakenWhen Defendant or Respondent Added"
+    }
+  },
+  "division": {
+    "number": 6,
+    "heading": "Refining Claims and Changing Parties"
+  },
+  "subdivision": {
+    "number": 2,
+    "heading": "Changes to Parties"
+  },
+  "operative_text": {
+    "controlling": "3.76(1)  If a defendant or respondent is added to or substituted in\nan action, the plaintiff, originating applicant, plaintiff-by-\ncounterclaim or third party plaintiff must, unless the Court\notherwise orders,\n(a) amend the commencement document, as required, to\nname the new party, and\n(b) serve the amended commencement document on each of\nthe other parties.\n(2)  Unless the Court otherwise orders,\n(a) in the case of a new defendant, the new defendant has the\nsame time period to serve a statement of defence as the\ndefendant had under rule 3.31, and\n(b) the action against the new defendant or new respondent,\nas the case may be, starts on the date on which the new\nparty is added to or substituted in the action.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "4654ac3409f0c805eea17d37dfc6289a78dbbb746f2233aeeecb51e5820ce098"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.76 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          81
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": "Action to beTakenWhen Defendant or Respondent Added",
+      "operative_text_raw": null,
+      "operative_text_sha256": "d6a899c1d9241e3463124b5081121560fa753cb35875a70b5e1109ad1566df51",
+      "defined_terms": "commencement document, Court, defendant, plaintiff, third party plaintiff",
+      "related_provisions": "3.31 (statement of defence) *Subsequent Encumbrancers Not Parties in Foreclosure Action*",
+      "commentary": null,
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-245"
+        ],
+        "offset_in_clean_text": [
+          829835,
+          830759
+        ]
+      },
+      "operative_text_note": "same wording as official 3.76(1)-(2) (read by eye) except: the bracket label '[Statement of defence]' after 'rule 3.31' in (2)(a) (matches the official title of 3.31); the text is printed in pieces ((1) to 'to name the new' at p.3-245 line 8072, 'party, and' to '(2)(a) ... had under' at line 8073, 'rule 3.31 [Statement of defence], and' to the end at line 8074); the title 'Action to be Taken When Defendant or Respondent Added' in title case (printed at line 8072, after the Related Provisions of 3.75); missing spaces and '*' line marks; the footnote marker '1' after (2)(b). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 1 ('Quite similar to previous 1968 R.39. It came from 1914 R.29, and 1944 C.R.62, as amended by Alta.Reg. 35/60. They came from English O.16 r.13 enacted 1925 (#1).') is printed at p.3-245 line 8067 in the built 3.75 record (its marker '1' is here, after (2)(b)) and is kept there; the footnote 2 in the same block (1968 R.688) belongs to 3.77.",
+      "commentary_review_flag": "Read in full, p.3-245 (line 8072) to p.3-245 (line 8076): rule text (in pieces), Defined Terms 'commencement document, Court, defendant, plaintiff, third party plaintiff' and Related Provisions '3.31 (statement of defence)'; Book A prints no Information Note and no note for 3.76. The built record: the text, defined_terms and related_provisions (the Related Provisions line ends with the title of 3.77 and the first lines of 3.77's text, printed at line 8076); nothing dropped except the raw text (text note). (1) Related Provision '3.31 (statement of defence)' agrees with the official title of 3.31 ('Statement of defence') and with 3.76(2)(a). (2) History: footnote 1 (1968 R.39; 1914 R.29; 1944 C.R.62 as amended by Alta.Reg. 35/60; English O.16 r.13, enacted 1925) is 3.76's by the marker '1' after (2)(b); it is printed in the 3.75 record (line 8067). The 3.77 footnote 2 (1968 R.688) is in the same block. (3) Pointers to this rule (searched combined rule3.txt, combined_rule2.txt to combined_rule15.txt, combined rule1.txt, Alberta_Rules_of_Court.txt for '3.76'): the official text names it only in the table of contents (line 512), the running head of pdf p.81 (line 5471) and the rule itself (line 5483, all on pdf p.81); Book A's 3.26 Related Provisions (p.3-71, line 1906; PAGE 71 marker at line 1889) '3.76(2)(b) (new parties to action)' (agrees with official 3.76(2)(b): the action against the new defendant starts on the date added); Book A's 3.29 note (p.3-79, line 2166; PAGE 79 marker at line 2144) 'R.3.76(2)(b) ... On the new statutory time for adding parties,'; Book A's 3.74 Related Provisions (line 7535) '3.76(2)(b) (time of adding new parties)' and the 3.74 note (line 7676) 'See C.P.E., Chapter 8, Part E.5 and R.3.76(2)(b)'; no other rule file names 3.76; Book B's 3.74 commentary quotes 3.76(1)-(2) and applies 3.76(1)(b) (Anglin v. Resler 2022 ABCA 362, paras 19-20: 'Rule 3.76 provides that when a defendant is added or substituted, that defendant must be served ...'; 'Based on a strict reading of R. 3.76(1)(b), the respondent could now be ordered to re-serve the appellant ...'); Book B's 3.27 commentary part 3 says that if a new defendant is added the 'R. 3.26 limitation period starts to run again' - compare 3.76(2)(b) (recorded in the 3.27 pass)."
+    },
+    "BOOK_B": {
+      "title": "Action to be taken when defendant or respondent added",
+      "operative_text_raw": "(1) If a defendant or respondent is added to or substituted in an action, the plaintiff, originating applicant, plaintiff-by-counterclaim or third party plaintiff must, unless the Court otherwise orders, (a) amend the commencement document, as required, to name the new party, and (b) serve the amended commencement document on each of the other parties. (2) Unless the Court otherwise orders, (a) in the case of a new defendant, the new defendant has the same time period to serve a statement of defence as the defendant had under rule 3.31, and (b) the action against the new defendant or new respondent, as the case may be, starts on the date on which the new party is added to or substituted in the action.",
+      "commentary": [],
+      "paragraph_ids": [
+        "part3_rule_3_76_002",
+        "part3_part_3_court_actions_019"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part10_document.json"
+        ]
+      },
+      "operative_text_sha256": "c10ab168807386173511ab1a228e3124dbe407300747cee8c331b91f04ae8ffb"
+    },
+    "BOOK_C": {
+      "title": "Action to be taken when defendant or respondent added",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "9e9db959f6ff61b2431adcae8529fbe6b240650adc8d5004f3b8042b30d686f1",
+      "citations": [],
+      "commentary": [],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "161-180_3_67 to 4_7.json",
+        "source_file": "161-180_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): in (2)(a) the bracket label '[Statement of defence]' (the official title of 3.31) is printed on its own after 'rule 3.31 , and' (the words 'and' and the label are displaced: 'under rule 3.31 , and [Statement of defence]' where the sentence reads 'under rule 3.31, and'); no other difference (spacing, curly punctuation). The amendment note '[Alta. Reg. 124/2010, r. 3.76 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). No information note and no commentary are printed for 3.76 in Book C."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.7273,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.76(1)-(2) (read by eye) except: the bracket label '[Statement of defence]' after 'rule 3.31' in (2)(a) (matches the official title of 3.31); the text is printed in pieces ((1) to 'to name the new' at p.3-245 line 8072, 'party, and' to '(2)(a) ... had under' at line 8073, 'rule 3.31 [Statement of defence], and' to the end at line 8074); the title 'Action to be Taken When Defendant or Respondent Added' in title case (printed at line 8072, after the Related Provisions of 3.75); missing spaces and '*' line marks; the footnote marker '1' after (2)(b). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. This rule's history footnote 1 ('Quite similar to previous 1968 R.39. It came from 1914 R.29, and 1944 C.R.62, as amended by Alta.Reg. 35/60. They came from English O.16 r.13 enacted 1925 (#1).') is printed at p.3-245 line 8067 in the built 3.75 record (its marker '1' is here, after (2)(b)) and is kept there; the footnote 2 in the same block (1968 R.688) belongs to 3.77."
+    },
+    "BOOK_B": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN"
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.76",
+      "title_official": "Action to be taken when defendant or respondent added"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "NORMALIZATION_ONLY_DIFFERENCE",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "d6a899c1d9241e3463124b5081121560fa753cb35875a70b5e1109ad1566df51",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-245"
+          ],
+          "offset_in_clean_text": [
+            829835,
+            830759
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "c10ab168807386173511ab1a228e3124dbe407300747cee8c331b91f04ae8ffb",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part10_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "9e9db959f6ff61b2431adcae8529fbe6b240650adc8d5004f3b8042b30d686f1",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "161-180_3_67 to 4_7.json",
+          "source_file": "161-180_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "4654ac3409f0c805eea17d37dfc6289a78dbbb746f2233aeeecb51e5820ce098",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            81
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "5001776c0243174bd4a8d83ef3d535a00a5c8495f616fc7197fad2067e70bf03"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.76 BOOK_C: rule text dropped (manual review)",
+    "3.76 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.76 BOOK_A: raw text dropped, differences editorial only (manual review)"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "index": "_index.json (source registry, normalization profile, denominators, part-level notes)",
+  "rule": "3.45",
+  "title": {
+    "official": "Form of third party claim",
+    "variants": {}
+  },
+  "division": {
+    "number": 3,
+    "heading": "Actions Started by Statement of Claim"
+  },
+  "subdivision": {
+    "number": 6,
+    "heading": "Third Party Claims"
+  },
+  "operative_text": {
+    "controlling": "3.45   A third party claim must\n(a) be in Form 16,\n(b) comply with the rules about pleadings in Part 13, Division\n3,\n(c) be filed and served on the plaintiff and the third party\ndefendant, whether or not the third party defendant is\nalready a party to the action,\n(i) within 6 months after the date on which the\ndefendant filed a statement of defence or demand for\nnotice, and\n(ii) before judgment is entered against the defendant or\nthe defendant is noted in default,\nand\n(d) be accompanied, when it is served on the third party\ndefendant, with a copy of the statement of claim served on\nthe defendant.",
+    "controlling_carrier": "OFFICIAL",
+    "sha256": "c25eadba252506b9d0bc553461d4b70f1ea5d86c302c386f245b4f21d407a93f"
+  },
+  "amendment_history": {
+    "official": "AR 124/2010",
+    "amending_regulations": [],
+    "carrier_notes": {
+      "BOOK_C": "*[Alta. Reg. 124/2010, r. 3.45 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]*"
+    },
+    "crosscheck_vs_official": {
+      "BOOK_C": "AGREES"
+    }
+  },
+  "sources": {
+    "OFFICIAL": {
+      "locator": {
+        "file": "Alberta_Rules_of_Court.txt",
+        "pdf_pages": [
+          68
+        ]
+      }
+    },
+    "BOOK_A": {
+      "title": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "32ffbaf4b769f2760609129ea7ec9717fd5efae70653372b09011c204f7bc194",
+      "defined_terms": "claim, defendant, file, judgment, party, plaintiff, pleading, rules, third party defendant",
+      "related_provisions": "13.5 (extending time)",
+      "commentary": "*A.Generally\n4Ponoka Gen. & Aux.Hosp. etc.v. Alta.Hosp.(M 1997) 202 AR 150. 5Alta.Treas.Brs.v. Toth2006 ABQB 83, 393 AR 269. 6Collacutt v. Briggs Bros.StudentTpt.2008 ABQB 505, 94 Alta LR(4th) 356,affd2009 ABCA 17, 446 AR 191.\n\ndiscussed inCdn.Natural Res. v.ArcelormittalTubular, supra(QB), R.3.44n ('s 494-500).The tests for extending times under theLimitations Actare not the tests to use here:Nelson v. Condo.Corp.No. *00131872019 ABQB 426, JCC 1401 04043 (Jan 7) (¶'s 49-57). 8Dean v. Kociniak2001 ABQB 412, 289 AR 201;cf.Re Assoc. Investors of Can. (Deloitte v.Coopers) (1996) 192 AR 371, 46 Alta LR(3d) 16.A third party notice was struck out because the limitation period was exceeded, inCdn.Natural Res. v.ArcelormittalTubular Prod. Roman2013 ABCA 279, 556 AR 188.See\n\nalso ¶'s 386 ff.of the QB decision.SeeTole v.Lucki(M) 2015 ABQB 231, 614 AR 381.On the limitation period for a third party notice, seeWhitecourt Power v.Elliott,supra, R.3.44n. 9Northland Bank v.Willson (C.D.I.C.v.Barker)(CA) [1998] 3 WWR 256, 206 AR 290.\n\n7Flight v. Dillon2001 ABQB 211, 284 AR 117;Builders Hldg.v.Gasland Prop.(#1)2001 ABQB 823, 306 AR 163.The law on extending time beyond the usual 6 months to issue a third party notice is briefly\n\n1PCL Constr.Mgmt. v.Cent.Caissons2004 ABQB 774, 40 Constr LR(3d) 128. 2Vrolson v.Souvie(CA 1995) 162 AR 332, 27 Alta LR(3d) 271. 3Viridian v. Dresser Can.,supra. Cf.Ibrahim v.Slater2005 ABQB 184.\n\nSee R.3.55 n.below.\n\nnegligence.Therefore, if the defendant does not plead that against the plaintiff, he may raise it by\n\nthird party notice. On the effects of only some parties'settling on third-party proceedings, see the case noted. third party could not object that the defendant had consented to judgment by the plaintiff against\n\n*1.Extension Possible R.13.5. (Actual statutory limitation periods are often not a problem, because the defendant may sustain his loss or learn he can sue the third party either when he learns that the third party has a duty to contribute, or maybe even when the defendant is held liable to the plaintiff. ) But on limitation periods andresjudicataand estoppel, seeNorthland Bank v.Willson. There is no\n\npoint allowing a late third party notice if it is beyond doubt that the limitation period applying to it\n\nthe third party proceedings, and if the third party did not contest the plaintiff's claim or damages,\n\nAs with other pleadings, it takes special grounds to deny an amendment, and clarification of issues is sufficient ground for an amendment.Apportionment of fault could make new issues arguable in a third party notice. Though there should not be a third party notice to raise something which is a matter of defence, some questions between the plaintiff and the defendant do not arise unless the defendant pleads\n\nthem, such as identification of a passenger with his driver's negligence where there is no gross The allegations in a third party notice are not admissions by the defendant to the plaintiff. A the defendant, as the third party never denied the defendant's liability, and had no right to a trial of that:res judicata.\n\nQuestioning (examination for discovery) of a third party is ordinarily only on the pleadings in the third party cannot be questioned about it. *B.Time Issues The time limits in R.3.45 are not limitation periods, and can be extended by the court under\n\nhas expired.Limitations are part of seeing whether there would be prejudice from the late third party claim. Indeed, the onus may be on the proposed third party to show prejudice, if he is to fight such a time extension. A late third party notice will not be allowed, even if the facts in it were true, if the result would\n\nbe that the plaintiffs would fail. a later motion to strike out the third party notice if it does not disclose a cause of action.\n\nnotice had known of this type of claim for years.\n\nbe prejudicial:Owners Condo.Plan 9812082 v. Battistella Dev.,supra.\n\n8Nelson v. Condo 0013187,supra;Kapeluck v.Two Girls,supra.\n\nLeave to file a late third party notice is not a ruling that it is valid, and such leave does not bar\n\nimportant than whether there is prejudice (and inability to contact a witness is irrelevant if it did not occur\n\nmay be refused, after years, as the limitation period will have expired, if the defendant issuing the A party should not simply file a late third party notice without court leave.\n\nAn amendment to a third party notice to add a new unrelated entirely separate cause of action\n\na time extension inPeigan v. R.1998 ABQB 850, 231 AR 201.Being unaware of the possible liability of the 3Even if the proposed third party had been guilty of neglect, the only possible act he could have taken would\n\n26) (¶'s 30 ff.).The 1973Kreweyfactors still stand:Owners Condo. Plan 9812082 v. Battistella Dev.2014 9Kapeluck v.Two Girls,supra.\n\n10That there is little prejudice to the third party is relevant:Kydd v. Abolarin2008 ABQB 310, 450 AR 384; cf.Condo. Plan 9512180 v.Prairie Land Corp.2008 ABQB 269, 445 AR 138.Extension will be barred by inordinate delay, lack of a reasonable excuse, or prejudice.Prejudice is relative between the two parties. Also relevant is whether the proposed new third party claim has an air of reality.Sometimes the delay is so long that prejudice or its lack becomes less important than the need for a credible excuse;indeed, with unjustifiable delay, prejudice may be presumed.Loss of memories and disarray of documents certainly can\n\n6Nelson v. Condo.Corp.No. 00131872019 ABQB 426, JCC 1401 04043 (Jun 7) (¶'s 49 ff.). 7BowV. Ins.v. Shah,infra;Condo.Plan 792-829 v. Academy Contrs.(M) 2017 ABQB 583 (Sep 28).The factors for a time extension are discussed, inAlliance Pipeline Ltd. P'ship. v.C.E. Franklin2007 ABQB 582, 64 Constr LR(3d) 382;Spartek Sys. v.Brown,infra, andKapeluck v.Two Girls and a Hammer2022 ABQB 467, JCC 1803 10450 (Jul 6) (¶'s 36-54).Principles are extracted from case law, inHein v.Barrett\n\nto the proposed new claim?Kwik-Kopy Ptg.Can.Corp. v.Skoreiko2002 ABQB 835, 324 AR 126. (M) 2008 ABQB 548, 96 Alta LR(4th) 397;Stefanyk v.Stevens2017 ABQB 402, JCRD 1310 01171 (Jun\n\n*Abolarin2008 ABQB 310, 450 AR 384;Condo.Plan 9512180 v.Prairie Land Corp.2008 ABQB 269, 445\n*00131872019 ABQB 426, JCC 1401 04043 (Jun 7) (¶'s 49 ff.).\n10- and 14-month delays were excused because of a credible explanation:Alliance v. Franklin.12 years'\n\nABQB 644, [2014] AR Uned 679 (Oct 21).Three months is not undue delay and so the reason for it is less\n\nThe test for such a time extension is fairly lax. Prejudice is less important Prejudice is relevant. if the delay is longer, but serious prejudice is not presumed from two years'delay. Prejudice compensable in costs should be a ground for terms, not for denying the time extension. The\n\nreasons for the delay, the length of the delay, and whether there are any other factors, all must be 1Pagnucco v. Sears Can.(M) 2011 ABQB 810, 528 AR 209;Bodnar Cap. Corp.v. Synergy Project(M) 2019 ABQB 528 (Jul 18) (¶'s 14-19). 2Lack of prejudice overbalanced weak explanations for delay and allowed a late third party notice, inNova *Pole Int. v.Trans Amer. Grp.2010 ABQB 4, 488 AR 243, and inMangat v. Allen(M) 2010 ABQB 264.\ndelay and the fact that the case would be almost ready for trial if there were no late third party notice, barred third party and only discovering it later, has often been held a reason for a time extension, e.g.inKydd v. AR 138.But the defendant wishing to issue a late third party notice needs evidence to give some air of reality be to sue for the very thing that the plaintiffs were suing for.TheTort-feasors Actdid not apply, as the allegations were not torts:Breitkreuz v.Holst2012 ABQB 632, [2012] AR Uned 723 (Oct 22). 4Gjertsen v.Johnston2008 ABQB 491, 456 AR 327.\n\n5Crawford v. Acta Gen.2007 ABQB 338, 444 AR 234. during those three months):Condo. Corp.#0425636 v. Amyotte's Plbg.(M) 2015 ABQB 801, JCE 1403 04102 (Dec 15).No explanation is needed if the delay is very short?dictainNelson v. Condo.Corp. No.\n\nAn extension is easy to get if the proposed third party is not only aware of the claim, but balanced. So it may be a ground for a late third party notice that the proposed third is already in the lawsuit. party may be removed as a co-defendant. The longer the delay, the more emphasis is put on the\n\n*TRDMS Serv. v.Condo. Corp.04259132016 ABQB 527, 3 CPC(8th) 369. 9Principal Grp.v.R.[1997] 5 WWR 391, 198 AR 238;Young v. Regl.Cap.Prop.(M) 2001 ABQB 1051.Lack of an explanation (despite little prejudice) was fatal, inCondo.Corp.No. 9813678 v.Statesman Corp.2008 ABQB 495, 450 AR 289. 10Whitecourt Power Ltd. P'Ship.v. InterproTech.Serv.(M) 2014 ABQB 135, 95 Alta LR(5th) 415 (¶'s 15- 16).\n\nexcuse (reason) for it, less on (absence of) prejudice to the proposed third party. Prejudice was presumed against two people who took no active part in the suit, and had no actual notice (nor\n\nSworn evidence is necessary to get a significant time extension.The cases often subtract\n\nservice) of the suit. A request by a defendant for a late third party notice, 7 years after he filed his defence, invites dismissal because of the length of delay alone, and a case management judge who denies that request should not be upset.\n\nparty notice could be issued about two years late even if part of the statement of claim was outside its\n\n16 months or even longer is not necessarily inordinate.\n\nwhere there would be little overlap in issues with the main suit, and the merits of the defendant's claim\n\n*supra.\nquestioning (examination for discovery) was a good explanation?Condo. Plan v. Academy,supra.A third\n\n4Spartek Sys. v.Brown,supra;Stefanyk v. Stevens,supra.Inordinate delay and loss of memories and\n\n8Principal Grp.v.R.,infra.But cf.Gjertsen v. Johnston,infra.A late third party notice was not allowed\n\n(claim) depends in part on whether the prior pace of the litigation was swift or leisurely.A delay of\n\n2Tole v.Lucki,supra. 3Builders Hldg.v. Gasland Prop.,supra; cf.Spartek Sys. v.Brown2009 ABQB 705, 481 AR 213 (removal by Pierringer agreement not known at the time by remaining defendants). evidence barred the third party notice inOwners Condo.Plan 9812082 v. Battistella Dev.,supra. 5Stefanyk v.Stevens.,supra. 6Piikani N.v.McMullen (#__)2020 ABCA 366, 455 DLR(7th) 376 (¶'s 63-67).\n\n7 e.g.Hein v. Barrett,supra;Kydd v.Abolarin,supra;Condo.Plan 9512180 v. Prairie Land Corp.,supra.\n\n*2.Evidence explainable or permitted delay, and then weigh how serious or prejudicial was the remaining delay. It may also be necessary for the defendant to give evidence that the third party notice is well founded, That is not needed in Alberta if the third party and show why the delay occurred.\n\nnotice is filed and served in time.Whether or not to extend time to file or serve a third party notice *Third Party Defendant Becomes Party*",
+      "footnotes": [],
+      "footnotes_note": "not split out: this extraction prints footnotes as unmarked text inside the page (see commentary); nothing was dropped",
+      "locator": {
+        "file": "combined rule3.txt",
+        "book_pages": [
+          "3-115",
+          "3-118"
+        ],
+        "offset_in_clean_text": [
+          367606,
+          379217
+        ]
+      },
+      "operative_text_note": "same wording as official 3.45(a)-(d) (read by eye) except: the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings); the text is printed in pieces (p.3-115 lines 3249-3251); the title in title case ('Form of Third Party Claim'); missing spaces; '*' line marks; the footnote marker '4' after (c)(ii). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. No footnote block is inside the raw text. The history footnote 4 ('Quite similar to previous 1968 R.66(4). It came from 1944 C.R.81 (last part). Until a 1981 amendment (Alta. Reg.313/81), the third party notice had to be filed at or before the time of filing of the statement of defence; after that, the defendant who defended had six more months.') is printed at p.3-115 line 3238 in the built 3.44 record.",
+      "commentary_review_flag": "Read p.3-115 (line 3249) to p.3-118 (line 3374): rule text (in pieces), Defined Terms 'claim, defendant, file, judgment, party, plaintiff, pleading, rules, third party defendant' (the Appendix defines each; 'third party defendant' line 41117), Related Provisions '13.5 (extending time)', and a note in two parts (A Generally; B Time Issues: 1 Extension Possible, 2 Evidence), with footnotes as printed; the note is skimmed for structure and for every pointer to the Rules, not case by case. The built record: the note is in the commentary field (10,837 characters, nothing dropped), ending with the title and first words of 3.46 ('Third Party Defendant Becomes Party', 3.46(1)(a)) and 3.46's first footnote pieces; the raw-text field holds only the rule text; the history footnote 4 is in the 3.44 record. The extraction interleaves the columns and footnotes on pp.3-116 to 3-118, so most sentences are split across lines that are not adjacent (e.g. 'The test for such a time extension is fairly lax. Prejudice is less important' / 'Prejudice is relevant. if the delay is longer, ...'); the wording is kept as printed and the order of the pieces was not repaired. (1) Related Provisions: '13.5 (extending time)' (official 13.5 is 'Variation of time periods'). Pointer: 'See R.3.55 n.below' (line 3271; official 3.55 is 'Application of rules to third party claims'; the 3.55 note was not opened here). (2) Statements read against the official text and Book B: 'The time limits in R.3.45 are not limitation periods, and can be extended by the court under R.13.5' agrees with official 13.5 and Book B (Nelson v. Condo. Corp. 0013187 2019 ABQB 426 [49]: 'The 6-month time period in Rule 3.45 can be extended in the discretion of the Court; Rule 13.5'; the rule13 annotation quoted at Book B's R.13); 'Sworn evidence is necessary to get a significant time extension' agrees with Lister v. Calgary (Book B: 'Evidence must be proper admissible evidence such as an affidavit'); 'Prejudice is less important if the delay is longer' and 'the longer the delay ... more emphasis on the excuse' agree with Book B's Hein v. Barrett principles 3-4 and Flight v. Dillon; '10- and 14-month delays were excused because of a credible explanation: Alliance v. Franklin' agrees with Hughes J. at para 499 (approx. 10-14 months is relatively short, Alliance para 11); 'A request ... 7 years after he filed his defence, invites dismissal' agrees with Hein v. Barrett (Book B: leave refused for a seven-year delay); 'air of reality' (Book A lines 3318 and 3333; Kwik-Kopy is cited at line 3322) agrees with Book B (Kwik-Kopy at p. 135; Hughes J. para 500: 'The claim must have an “air of reality”: LaBell v. Jo (R) (1990), 105 AR 319', a case Book A does not cite); 'That is not needed in Alberta if the third party notice is filed and served in time' agrees with 3.45(c)(i) (6 months, no leave). (3) Citation differences (not resolved): Kwik-Kopy Ptg. Can. Corp. v. Skoreiko is '(M) 2002 ABQB 644' (p.3-115 fn 2, line 3238) and '2002 ABQB 835, 324 AR 126' (line 3322) in Book A; Book B prints 'Kwik-Kopy Printing Canada Corp. v. Skoreik (2002), 324 A.R. 126 (Q.B.)' (Watson J., no neutral cite); Nelson v. Condo. Corp. No. 0013187 2019 ABQB 426, JCC 1401 04043 is dated '(Jan 7)' at line 3263 and '(Jun 7)' at line 3320; 'Cdn. Natural Res. v. Arcelormittal Tubular Prod. Roman 2013 ABCA 279, 556 AR 188' (line 3263) is a different decision from the 2013 ABCA 87 that Book B and Book A line 7010 give as the affirming decision of 2012 ABQB 679; Book B prints Builders Holdings v. Gasland Properties as '2001 ABQB 823, 306 A.R. 163' in its own text and '2001 ABCA 823, 306 AR 163' inside the Hughes J. quotation (Book A: 2001 ABQB 823). (4) Other rules' pointers to 3.45: Book A p.3-81 (line 2201) 'the time to serve a third party notice is set by R.3.45' (in the 3.31 note); p.3-124 (lines 3488, 3502) 'See other cases under R.3.45's commentary, supra' and 'strike it out if it violated R.3.45 and no time extension were given' (in the note of 3.55, 'Application of Rules to Third Party Claims', p.3-124, which starts at line 3477; the pointers land on the 3.45 note B Time Issues); R.13 p.13-22 (line 1110) and p.13-66 (line 3491) 'Diarize the deadline for issuing a Third Party Notice (R.3.45(c))'; the official Form 16 '[Rule 3.45]' (line 21269) agrees; the other official hits are the table of contents (line 393), the running page header (line 4763), the rule itself (line 4780) and the Schedule A table of forms (line 20284, 'Third Party Claim', rule '3.45', Form 16). Book B's R.13 annotation (rule13_part01_anno.json) 'Rule 3.45(c)(i) requires ... [18] The Court has the discretion to extend the time period under rule 3.45(c)(i) ... rule 13.5(2) and (3)' and Book C's R.13 'An order pursuant to rule 13.52 can extend the time limits in rule 3.45.102' ('13.52' and '3.45.102' - a footnote number appears to be run into each number; not confirmed against the page) agree with 3.45(c)(i) and 13.5. (5) The very large body of cases and practice statements in the note (limitation periods, Insurance Act 'third party by order', Pierringer agreements) was not checked."
+    },
+    "BOOK_B": {
+      "title": "Form of third party claim",
+      "operative_text_raw": null,
+      "commentary": [
+        {
+          "section": "3.45:1",
+          "text": "Rule 3.45 See Alberta Rules of Court, Alta. Reg. 124/2010, r. 3.45. 1. Extension of Time Rule 66 does not provide any guidance as to when the court should or should not extend the time allowed for filing and serving third-party proceedings. I concur with the statement of the Master in Kreway v. Renfrew Chrysler Plymouth et al. and Chrysler Canada Ltd., [1973] 1 W.W.R. 461, where he states that reasons for refusing to extend time are: (1) inordinate delay; (2) absence of credible excuse; and (3) prejudice This decision was subsequently approved by the Alberta Supreme Court, [1973] 1 W.W.R. 462. Edmonton & Rural Auxilliary Hospital & Nursing Home District No. 24 v. Bittorf-Holland-Christianson Architects Ltd. (1981), 33 A.R. 60 at 63 (Q.B.). In a later decision, the Alberta Court of Appeal considered delay as: … a reason for refusing a third party notice where the defendant is alerted by the pleading as to the nature of the claim and the magnitude of the claim against him when he makes his election not to issue a third party notice. That election is made when the time established by the rules expires. E.S.M. Transport Ltd. v. Western Mack Truck (Edmonton) Ltd. (1988), 59 Alta. L.R. (2d) 115 at 117 (C.A.). As to when to bring the application: … an order extending time for filing and serving a third party notice should not be made unless there is material filed to support such order. Sheahan v. Fischer (1988), 62 Alta. L.R. (2d) 300 at 302 (Master). In Lister v. Calgary (City) (1997), 47 Alta. L.R. (3d) 14, the Court of Appeal commented on the need for evidence in support of an application to extend time for filing. At pp. 16-17, the court said: Where a party seeks a significant time extension, it is expected to give evidence to explain the delay, i.e. why prompt compliance did not occur. Maybe it would be different if the extension sought was slight, but here the delay was over four and one-half years. Evidence must be proper admissible evidence such as an affidavit, not mere allegations by counsel. The cases on time extensions generally, and those on later third party notices, seem to agree on those points. . . . . . … the onus of proof is on the City, which is the one which moved for leave to issue a pleading four and one-half years late. The third party is not obliged to lead any evidence at all, let alone evidence which excludes doubt. The onus is on the City to lead evidence which justifies the late pleading by explaining the delay. In Kaptian v. Hardy (1999), 251 A.R. 291 (Q.B.), at p. 295, Chief Justice Moore said: The length of any delay is relevant as it relates to: the reasonableness of an excuse for the delay, prejudice because of the delay, third party procedure benefits. The test can therefore be subsumed into two parts. 1. Reasonable Excuse A defendant has the burden of proof on an application to extend the time limit of rule 66(4). The six month time frame open to a defendant to file a third party notice gives the defendant an opportunity to consider potential third parties. Any delay after the expiry of the six months requires a reasonable excuse. If a defendant has no reasonable excuse for the delay then leave to add a third party will be denied. 2. Prejudice If a defendant has a reasonable excuse for the delay, then the court must balance the potential prejudice to the third party and the plaintiff because of the delay against the benefits of adding the third party. If the prejudice outweighs the benefits of third party procedure, then leave to add a third party will be denied. However, in Flight v. Dillon, 2001 ABQB 211, 2001 CarswellAlta 322, 284 A.R. 117, Madam Justice Moreau disagreed with Chief Justice Moore's requirement that any delay beyond the six-month period requires a reasonable excuse. At p. 126, Her Ladyship said: … I am of the view that the proper test for an application to strike a third party notice is as suggested by the authorities which preceded Kaptian, supra and that prejudice is still a factor to be weighed along with the nature of the delay and whether it can be reasonably excused, unless the delay is significant. In that event, the absence of a reasonable excuse for the delay effectively overpowers any need on the part of the third party to demonstrate actual prejudice. I therefore respectfully disagree with my former colleague that every case of delay beyond the six-month time frame contemplated by rule 66(4) requires the defendant to advance a reasonable excuse before any consideration of prejudice comes into play. I would agree with the approach taken in [Grandwood Flooring Western Ltd. v. Prism Construction Co. and Edson (1986), 43 Alta. L.R. (2d) 337 (Master)], namely that a short delay would result in a different weighing exercise, focusing primarily on the existence of any prejudice. As one moves further away from the six-month deadline, the weighing exercise will focus more on whether the delay is excusable. In the case of a significant delay … failure to advance a reasonable excuse for the delay will, without more, be fatal to an application to extend time. In Dean v. Kociniak, 2001 ABQB 412, 2001 CarswellAlta 709, 289 A.R. 201, 92 Alta. L.R. (3d) 92, Slatter J. said, at p. 223: With respect, I agree with the decision in Flight v. Dillon that the sequential test set out in Kaptian v. Hardy is not inflexible. The length of the delay, the explanation for the delay, and the relative prejudice to the two parties are to be considered concurrently when the Court exercises its discretion to allow or reject a late Third Party claim. Obviously, the longer the delay, the more the Court might assume prejudice from the mere passage of time, as memories will tend to weaken, the litigation will tend to advance further, and the Third Party might increasingly be prejudiced by the passage of time. However, the mere fact that there is no satisfactory explanation for some or all of the delay is not fatal to the application. In Builders Holdings Ltd. v. Gasland Properties Ltd., 2001 ABQB 823, 2001 CarswellAlta 1740, 306 A.R. 163, 2 Alta. L.R. (4th) 231, 2 Alta. L.R. (4th) 231, Mr. Justice Lee said, at p. 246: In my opinion, with the exception of Kaptian, the trend of the case law has been to consider all three factors, balancing the length of the delay with the requirement of an explanation and with the absence of prejudice. The longer the delay, the greater the requirement for a reasonable explanation. Prejudice will always be an important factor. In Kwik-Kopy Printing Canada Corp. v. Skoreik (2002), 324 A.R. 126 (Q.B.), at p. 135, Watson J. held that “it is within the jurisdiction of a Court to look at whether there is an air of reality to the foundation of the Third Party Notice in deciding whether to grant leave to file such outside of the time limit.” In Hein v. Barrett (2008), 96 Alta. L.R. (4th) 397 (Master), Master Hanebury summarized the law (at pp. 403-404): 23 From this case law the following principles emerge: 1. Three factors are considered when determining an application to extend the time for filing a third party notice: the length of the delay, the reason for the delay and the prejudice to the third party. 2. Depending on the length of the delay, different weights may be given to the other two factors. 3. For a short period of delay, the primary consideration is prejudice, and an excuse for the delay is of less importance. 4. The relevant importance of these factors is reversed as the length of the delay increases. The longer the delay the greater the importance of an excuse for the delay and the lesser the importance of the question of prejudice. 5. When there is a significant delay, the lack of a reasonable excuse, without more, will be fatal to the application. 6. The pace of the litigation can also be considered when deciding the weight to be assigned to each of the three factors. In Canadian Natural Resources Ltd. v. Arcelormittal Tubular Products Roman S.A., 2012 ABQB 679, 2012 CarswellAlta 2257, 549 A.R. 72, 79 Alta. L.R. (5th) 1; [affirmed 2013 ABCA 87] Madam Justice Hughes said, at paragraphs 497–500: 497 Rule 3.45 requires a third party claim to be filed and served within six months of the filing of the statement of defence. This time may be extended after the consideration of the following three factors: (1) the length of delay; (2) the reason for the delay; and (3) the prejudice to the third party: Alliance Pipeline at para 10 citing Flight v. Dillon, 2001 ABQB 211, 284 AR 117 [Flight]; Dean; and Builders Holdings Ltd. v. Gasland Properties, Ltd, 2001 ABCA 823, 306 AR 163. 498 The requirement to explain the delay is mandatory: Mangat v. Allen, 2010 ABQB 264 at para 10. 499 When the delay is relatively short, more weight is given to the existence of prejudice resulting from the delay and less to the length of delay. As the length of the delay becomes longer, more weight is given to the reason for the delay and less to the existence of prejudice: Spartek Systems Inc v. Brown, 2009 ABQB 705 at para 14, 481 AR 213 [Spartek]; Flight; Dean; Alliance Pipeline at para 10. A delay of approximately 10–14 months is considered relatively short: Alliance Pipeline at para 11. When the delay is longer, the defendant seeking the extension must give evidence explaining the delay. Evidence explaining the delay was required in Lister v. Calgary (City) (1997), 193 AR 218 (CA) where the delay was 4.5 years: para 20. Leave will be denied if the delay is long and no evidence is provided to explain it. In Hein v. Barrett, 2008 ABQB 548, leave was refused where an insufficient explanation was given for a seven-year delay. The pace of the litigation is another factor to be considered in weighing the three factors: Spartek at para 14. 500 The viability of the proposed third party claim will be considered when determining whether an extension of time to file the third party claim should be granted. The claim must have an “air of reality”: LaBell v. Jo (R) (1990), 105 AR 319 at para. 4. In Nelson & Nelson v. Condominium Corporation No. 0013187, 2019 ABQB 426, 2019 CarswellAlta 1148, 93 C.C.L.I. (5th) 344, Justice Hollins said: [49] The 6-month time period in Rule 3.45 can be extended in the discretion of the Court; Rule 13.5. In the absence of an agreement to extend that time, a defendant can apply for an extension of time to add a third party. However, that defendant must show that the delay in applying to add the third party has not been inordinate, that there is a credible excuse for the delay and that the late addition of a third party will not cause prejudice; Condominium Plan 9812082 v Battistella Developments Inc, 2014 ABQB 644 (CanLII) at para.15. … [51] As (now Chief) Justice Moreau explained in Flight v Dillon, 2001 ABQB 211 (CanLII) at para.29, where the delay is short, the focus will be less on the excuse offered for the delay than on the potential prejudice. Where the delay is longer, the prejudice may be assumed and the excuse for the delay becomes more important. Where there has been significant delay, a reasonable excuse must be provided."
+        }
+      ],
+      "paragraph_ids": [
+        "part3_rule_3_45_001",
+        "part3_part_3_court_actions_034",
+        "part3_rule_3_45_002",
+        "part3_part_3_court_actions_036"
+      ],
+      "locator": {
+        "files": [
+          "rule3_part04_document.json"
+        ]
+      },
+      "operative_text_sha256": "a317bb7fff8bcebd291bc5f28417558eecbb956c721952a7b4f865aee92ff1e4",
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+    },
+    "BOOK_C": {
+      "title": "Form of third party claim",
+      "division_heading": null,
+      "operative_text_raw": null,
+      "operative_text_sha256": "b0ac52acccc29d673907d24d1f7241b8c6ee68abe73dd467c8ab7393cc498ca3",
+      "citations": [],
+      "commentary": [
+        {
+          "topic": "General Principles",
+          "text": "This rule sets out the form required and the fact that third party claims must comply with the rules about pleadings in Part 13, Division 3. A third party claim is to be drafted as any other pleading, including setting out the facts necessary to establish a valid claim.\nTime Limitation to File – There is a time limitation to file and serve a third party claim, being six months after the date on which the defendant (the party issuing the third party claim) filed a statement of defence or a demand for notice and before judgment is entered against the defendant or the defendant is noted in default. The case law informs the application of this six-month limitation.\nExtension of Deadline – Key factors in considering whether to grant an extension are whether there has been inordinate delay, no credible or reasonable excuse and prejudice. H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 20-21 (Alta. K.B.); Condominium Plan 9812082 v. Battistella Developments Inc.,[2014] A.J. No. 1167, 2014 ABQB 644 at para. 15 (Alta. Q.B.).\nAn additional factor may be whether the proposed third party claim has merit, which involves a low threshold sometimes described as “air of reality”. H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., [2024] A.J. No. 903, 2024 ABKB 428 at paras. 23-24 (Alta. K.B.); , Condominium Corp. No. 9813678 v. Statesman Corp.\nWhere the delay in advancing a third party claim is short, the primary focus of the application is on the excuse offered and the prejudice suffered. The requirement to explain the delay [2008] A.J. No. 904, 2008 ABQB 495 at para. 46 (Alta. Q.B.).",
+          "citations": [
+            {
+              "neutral_citation": "2024 ABKB 428",
+              "style_of_cause": "H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd.",
+              "note": "the built style of cause stopped at 'H2 Canmore Apartments LP v. Cormode'; the printed name is 'H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd.' (paras. 20-21 and 23-24)"
+            },
+            {
+              "neutral_citation": "2014 ABQB 644",
+              "style_of_cause": "Condominium Plan 9812082 v. Battistella Developments Inc."
+            },
+            {
+              "neutral_citation": "2008 ABQB 495",
+              "style_of_cause": "Condominium Corp. No. 9813678 v. Statesman Corp.",
+              "note": "the printed name 'Condominium Corp. No. 9813678 v. Statesman Corp.' is displaced into the paragraph before the citation (printed '; , Condominium Corp. No. 9813678 v. Statesman Corp.'); the built style of cause was empty; the citation is '[2008] A.J. No. 904, 2008 ABQB 495 at para. 46 (Alta. Q.B.)'"
+            }
+          ],
+          "review_flag": "(1) The commentary agrees with official 3.45 and Book B: 'six months after the date on which the defendant ... filed a statement of defence or a demand for notice and before judgment is entered against the defendant or the defendant is noted in default' equals 3.45(c)(i)-(ii); 'A third party claim is to be drafted as any other pleading' agrees with 3.45(b); the factors 'inordinate delay, no credible or reasonable excuse and prejudice' (Condominium Plan 9812082 v. Battistella 2014 ABQB 644 para. 15) and 'air of reality' agree with Book B's quotations (Nelson [49]; Hughes J. paras 497-500). (2) The last paragraph is cut off: 'Where the delay in advancing a third party claim is short, the primary focus of the application is on the excuse offered and the prejudice suffered. The requirement to explain the delay [2008] A.J. No. 904, 2008 ABQB 495 at para. 46 (Alta. Q.B.).' - the sentence 'The requirement to explain the delay' has no ending, and the case name of the citation ('Condominium Corp. No. 9813678 v. Statesman Corp.') is displaced into the paragraph before it ('; , Condominium Corp. No. 9813678 v. Statesman Corp.'). Book A p.3-118 (line 3344) prints 'Lack of an explanation (despite little prejudice) was fatal, in Condo. Corp. No. 9813678 v. Statesman Corp. 2008 ABQB 495, 450 AR 289'. (3) H2 Canmore Apartments LP v. Cormode & Dickson Construction Edmonton Ltd., 2024 ABKB 428 is not in Book A (searched combined rule3.txt) or Book B's rule3_part files (searched by file name: the only files with 'H2 Canmore' are Book C 141-160 and 501-520 and Book B rule10_part10). (4) The commentary is Book C's only commentary for 3.45 and has no heading other than 'General Principles'."
+        }
+      ],
+      "misattributed_entries": [],
+      "locator": {
+        "file": "141-160_3_44 to 3_66.json",
+        "source_file": "141-160_revised.md"
+      },
+      "operative_text_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the bracket labels '[Technical Rules]' and '[Pleadings]' are printed as in Book A but the second is displaced after 'Division 3 ,' ('Division 3 , [Pleadings]') and the line break falls after it; no other difference. The amendment note '[Alta. Reg. 124/2010, r. 3.45 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "comparison_vs_official": {
+    "BOOK_A": {
+      "status": "WORDING_DIFFERENCE",
+      "similarity": 0.78,
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "same wording as official 3.45(a)-(d) (read by eye) except: the bracket labels '[Technical Rules]' after 'Part 13' and '[Pleadings]' after 'Division 3' (both match the official headings); the text is printed in pieces (p.3-115 lines 3249-3251); the title in title case ('Form of Third Party Claim'); missing spaces; '*' line marks; the footnote marker '4' after (c)(ii). No amendment bracket; the official text lists only 'AR 124/2010' (no amending regulation). No substantive difference. No footnote block is inside the raw text. The history footnote 4 ('Quite similar to previous 1968 R.66(4). It came from 1944 C.R.81 (last part). Until a 1981 amendment (Alta. Reg.313/81), the third party notice had to be filed at or before the time of filing of the statement of defence; after that, the defendant who defended had six more months.') is printed at p.3-115 line 3238 in the built 3.44 record."
+    },
+    "BOOK_B": {
+      "status": "EXACT_MATCH",
+      "similarity": 1.0,
+      "version_identity": "SAME_VERSION_PROVEN"
+    },
+    "BOOK_C": {
+      "status": "NORMALIZATION_ONLY_DIFFERENCE",
+      "similarity": 1.0,
+      "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book C's rule text is dropped, differences editorial only (read by eye against the official text): the words equal the official text; the bracket labels '[Technical Rules]' and '[Pleadings]' are printed as in Book A but the second is displaced after 'Division 3 ,' ('Division 3 , [Pleadings]') and the line break falls after it; no other difference. The amendment note '[Alta. Reg. 124/2010, r. 3.45 effective November 1, 2010 (Alta. Gaz. August 14, 2010)]' agrees with the official 'AR 124/2010' (no amending regulation). The Division heading is not printed in Book C's 141-160 file for this entry."
+    }
+  },
+  "three_book_gate": {
+    "schema_version": "arc-three-book-gate-v1",
+    "rule_identity": {
+      "instrument": "Alta. Reg. 124/2010",
+      "rule": "3.45",
+      "title_official": "Form of third party claim"
+    },
+    "three_book_mode": "OPTIONAL_CORROBORATION",
+    "required_carriers": [
+      "OFFICIAL"
+    ],
+    "source_registry_sha256": "302ed4a7dce65db21652199e149ae19a39df89593448575b3579f38035ca4f89",
+    "normalization_profile": {
+      "id": "arc-rule3-compare-norm",
+      "version": "1",
+      "sha256": "092b7ed9ea0dc5fa4c9a741f20c689807b2fb5d0dbbe3e0d35645ae03f539204"
+    },
+    "version_identity": "SAME_VERSION_PROVEN",
+    "carrier_version_identity": {
+      "BOOK_A": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_B": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2025 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      },
+      "BOOK_C": {
+        "result": "SAME_VERSION_PROVEN",
+        "basis": "carrier post-dates 2024 >= last Part 3 amendment year 2022 per official amendment history; no Part 3 amendment after that date appears in the June 1, 2026 consolidation"
+      }
+    },
+    "pairwise_vs_official": {
+      "BOOK_A": "WORDING_DIFFERENCE",
+      "BOOK_B": "EXACT_MATCH",
+      "BOOK_C": "NORMALIZATION_ONLY_DIFFERENCE"
+    },
+    "result": "SOURCE_CARRIER_DEFECT_INDEPENDENTLY_CLOSED",
+    "independent_origin_count": 4,
+    "carriers": {
+      "BOOK_A": {
+        "carrier_id": "BOOK_A",
+        "artifact_sha256": "16214cc2f0c2b8d2684f682a170e09cd102b5ebef506114d5b163752edde81de",
+        "text_sha256": "32ffbaf4b769f2760609129ea7ec9717fd5efae70653372b09011c204f7bc194",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-a-annotated-part3",
+        "locator": {
+          "file": "combined rule3.txt",
+          "book_pages": [
+            "3-115",
+            "3-118"
+          ],
+          "offset_in_clean_text": [
+            367606,
+            379217
+          ]
+        }
+      },
+      "BOOK_B": {
+        "carrier_id": "BOOK_B",
+        "artifact_sha256": "fed0ad20f21351d7ad49e0ee26a7052ca11f7435f7c24199d996779af9707977",
+        "text_sha256": "a317bb7fff8bcebd291bc5f28417558eecbb956c721952a7b4f865aee92ff1e4",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-b-fradsham",
+        "locator": {
+          "files": [
+            "rule3_part04_document.json"
+          ]
+        }
+      },
+      "BOOK_C": {
+        "carrier_id": "BOOK_C",
+        "artifact_sha256": "9077b1ca2f4dfe8995238d64559361ffa8156226fc3dfaf9e5d80776ddba7301",
+        "text_sha256": "b0ac52acccc29d673907d24d1f7241b8c6ee68abe73dd467c8ab7393cc498ca3",
+        "source_role": "ANNOTATED_RULES",
+        "origin_id": "book-c-annotated-pp101-180",
+        "locator": {
+          "file": "141-160_3_44 to 3_66.json",
+          "source_file": "141-160_revised.md"
+        }
+      },
+      "OFFICIAL": {
+        "carrier_id": "OFFICIAL",
+        "artifact_sha256": "6058edb4e0c56a434c9468487174fb453e7505c212576866ee5f0fd1855085fe",
+        "text_sha256": "c25eadba252506b9d0bc553461d4b70f1ea5d86c302c386f245b4f21d407a93f",
+        "source_role": "FIRST_HAND_RULE_CARRIER",
+        "origin_id": "ab-kings-printer-consolidation-2026-06-01",
+        "locator": {
+          "file": "Alberta_Rules_of_Court.txt",
+          "pdf_pages": [
+            68
+          ]
+        }
+      }
+    },
+    "gate_artifact_sha256": "89bdd7d3056e29e4cd498c10ecb704745327cb2389b2797b60a94872386fcf48"
+  },
+  "information_notes": [],
+  "dedupe_log": [
+    "3.45 BOOK_B: operative text dropped (EXACT_MATCH)",
+    "3.45 BOOK_C citation context dropped (2024 ABKB 428): verbatim in kept text",
+    "3.45 BOOK_C citation context dropped (2014 ABQB 644): verbatim in kept text",
+    "3.45 BOOK_C citation context dropped (2008 ABQB 495): verbatim in kept text",
+    "3.45 BOOK_C commentary sentence split dropped",
+    "3.45 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "3.45 BOOK_A: raw text dropped, differences editorial only (manual review)",
+    "3.45 BOOK_C: raw text dropped, differences editorial only (manual review)"
+  ]
+}
