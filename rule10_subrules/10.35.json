@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.35 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it)."
     }
   },
   "sources": {
@@ -39,17 +42,11 @@
     },
     "BOOK_A": {
       "title": "Preparation of Bill of Costs",
-      "operative_text_raw": "10.35(1) A party entitled to payment of costs must prepare a bill of costs in Form⁴⁴\n(a) if that party wishes or is required to have the costs assessed by an\nassessment ofﬁcer, or\n(b) on request of a party who is required to pay the costs.\n(2) The bill of costs must\n(a) itemize all the costs sought to be recovered, distinguishing between\nfees, disbursements and other charges, and\n(b) be signed by the person responsible for its preparation.",
+      "operative_text_raw": null,
       "operative_text_sha256": "16e3b6237b9b412a1e39e8d6eb2b0c289aa74b37e221b6131948f7085b47ddbd",
       "related_provisions": "9.35 (costs in foreclosures) ; 10.2 (contents of solicitor-client account)",
       "commentary": "See also R.10.37 and notes. On timing, see also R.10.30 and notes.\nIf a party seeks costs, especially full-indemnity costs, at the beginning of the review by a\nreview ofﬁcer it must provide a bill of costs, a statement of account, or other evidence of the\namounts claimed.²\nAbsence of a bill harms the party asked to pay, especially if the actual legal\nbills incurred by the party seeking costs are argued as some basis for calculating these party-\nparty costs now sought.³\nWithout such a bill, actual expenses incurred cannot be considered.⁴\nComputation of Schedule C and full indemnity should be provided.⁵\nA bill of costs between parties must follow the prescribed form. However, if fees are to be on a\nsolicitor-client basis, the services should be itemized, but the fee may be a single lump-sum fee,\nand then the form of account lawyers use to bill clients is probably satisfactory.\nFor party-party costs, if the court set no other basis for costs and said nothing to the contrary,\nthe bill of costs should itemize the services according to the items in Schedule C, giving the item\nnumbers from there. The bill should have room in the margins and at the end, for the assessment\nofﬁcer to change numbers and recompute totals.⁶\n\nThis bill of costs would be an appendix or enclosure to the costs argument, not to have its\npages counted in the judge’s limit for the length of written argument on costs.¹\nPost-judgment interest runs on costs awarded in a judgment, but it is not itself costs, and such\ninterest should not be included in the bill of costs.²\nThis Rule no longer requires proof of disbursements by an afﬁdavit or certiﬁcate by the lawyer.\nItems which are mingled fee and disbursements, such as photocopying at 30 cents a page, are\ndifﬁcult. It is traditional to allow such mingled items, especially as the precise cost per page is\nhard to determine and may ﬂuctuate. But they violate the requirement to distinguish fees and\ndisbursements; it is necessary to avoid misrepresentation, and to disclose that they include a fee\nelement, and not pass them off as a pure disbursement. See further R.10.31n.\nThe need to sign a bill has been interpreted laxly.³\nThe winning party need not prepare a bill of costs if the only costs sought are the presumptive\ncosts applicable to the steps recognized under Schedule C, and the only objection is that there\nshould be no costs.⁴",
       "footnotes": [
-        {
-          "page": "10-124",
-          "number": 44,
-          "text": null,
-          "defect": "FOOTNOTE_TEXT_NOT_FOUND_ON_PAGE"
-        },
         {
           "page": "10-124",
           "number": 2,
@@ -106,7 +103,9 @@
           "10-124",
           "10-125"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (title on line 6732, text lines 6733-6740) has the same words as the official text with these differences: the form number is printed as a superscript, 'Form⁴⁴' (line 6733; the official text has 'Form 44', which is Form 44 'Bill of Costs [Rule 10.35(1)]' at official line 23593), which the builder used to read as a footnote marker 44 with no text (FOOTNOTE_TEXT_NOT_FOUND) until it was made to ignore a superscript that follows the word 'Form'; the ligature 'ofﬁcer' in (1)(a) (line 6735); and the words are otherwise complete ((1)(a)-(b), (2)(a)-(b)).",
+      "commentary_review_flag": "Read in full, p.10-124 (line 6732) to p.10-125 (line 6788): title (line 6732), rule text (lines 6733-6740), Related Provisions (lines 6742-6743, two entries), the note (lines 6745-6760 on p.10-124 and lines 6775-6788 on p.10-125, before the 10.36 heading at line 6789) and 9 footnotes counted from the file: p.10-124 fns 2-6 (lines 6764-6771) and p.10-125 fns 1-4 (lines 6809-6812, printed in the block after the 10.36 text); p.10-124 fn 1 (line 6763) belongs to the 10.34 note and p.10-125 fn 5 to 10.36(3). The rule has no history footnote, and the 'Subdivision 2 / Assessment of Costs / by Assessment Officer' heading (lines 6729-6731, at the end of the 10.34 note) is the division heading printed before this rule's title. Read against the official text: the rule text equals official 10.35 apart from the superscript 'Form⁴⁴' and the ligature (see the text note). (1) Related Provisions: '9.35 (costs in foreclosures)' lands on 9.35(1)(a)(iv) (a bill of costs under rule 10.35 in a foreclosure action); '10.2 (contents of solicitor-client account)' is a label for official 10.2 'Payment for lawyer's services and contents of lawyer's account'. (2) 'See also R.10.37 and notes. On timing, see also R.10.30 and notes.' (line 6745): official 10.37 is 'Appointment for assessment' and 10.30 'When costs award may be made', both exist; 'See further R.10.31n.' (line 6784) lands (this bill of costs discussion continues the 10.31 note on disbursements). (3) 'This Rule no longer requires proof of disbursements by an affidavit or certificate by the lawyer' (line 6779) agrees with official 10.35(2), which only requires the bill to itemize the costs, distinguishing fees, disbursements and other charges, and to be signed by the person responsible for its preparation; 'photocopying at 30 cents a page' (line 6780) is an illustration and agrees with the 10.31 note (line 4258: '30¢ per page was allowed in Roth v. Min. of Human Res. & Empl. 2005 ABQB 505'). 'A bill of costs between parties must follow the prescribed form' agrees with official 10.35(1) (Form 44). (4) supra/infra: fns 3 and 4 (p.10-124, lines 6765-6766) print 'Earth Drilling Co. v. Keystone, infra', and the full citation is p.10-125 fn 1 (line 6809, 'Earth Drilling Co. v. Keystone Drilling (#2?) 2023 ABKB 17'), so both point forward correctly; no other supra or infra is used. (5) Misprints and placeholders: fn 2 (line 6764) 'Ho v. Lau (#2) 2023 ABKB 15, JCE 2103 06917 (Jan 9) (¶'s 39-51.' has no closing bracket; '(#2?)' in p.10-125 fn 1 and '(#3?)' in p.10-125 fn 4 (Al-Ghamdi v. R. (Alta. ) (#3?) 2017 ABCA 151, line 6812). (6) fn 6 (the customary blanks 'assessed on' and 'assessed off', and the term allocatur) states a practice without an authority; the C. P. E. (a treatise) is cited by chapter and part (Chapter 73, Parts M and P.13; Chapter 67, Part E), which are not part of the sources; the history of 10.36(3) in p.10-125 fn 5 names old rules (R.629.1, R.652.1, Alta. Reg.160/93, Crédit Foncier Tr. Co. v. Hornigold (1984) 59 AR 103), not checked. Book B has no commentary for this rule, so nothing in this note is corroborated by Book B."
     },
     "BOOK_B": {
       "title": "Preparation of bill of costs",
@@ -127,7 +126,7 @@
     "BOOK_C": {
       "title": "Preparation of bill of costs",
       "division_heading": null,
-      "operative_text_raw": "(1) A party entitled to payment of costs must prepare a bill of costs in Form 44 (a) if that party wishes or is required to have the costs assessed by an assessment officer, or (2) The bill of costs must (a) itemize all the costs sought to be recovered, distinguishing between fees, disbursements and other charges, and (b) be signed by the person responsible for its preparation.",
+      "operative_text_raw": null,
       "operative_text_sha256": "f6560dae3f8ab96452d1326bb88870a759f74af1c906fc99a18ef42e5ad59f50",
       "citations": [],
       "commentary": [
@@ -137,30 +136,27 @@
           "citations": [
             {
               "neutral_citation": "2017 ABCA 151",
-              "style_of_cause": "Al-Ghamdi v. Alberta"
+              "style_of_cause": "Al-Ghamdi v. Alberta",
+              "note": "Printed 'Al-Ghamdi v. Alberta, [2017] A.J. No. 498, 2017 ABCA 151 at para. 4 (Alta. C.A.)'; Book A prints 'Al-Ghamdi v. R. (Alta. ) (#3?) 2017 ABCA 151, Edm 1603 0210 AC (one JA May 18) (¶ 4)' (p.10-125 fn 4, line 6812), with the same paragraph (4); the two books name the Crown party differently ('Alberta' and 'R.')."
             }
-          ]
+          ],
+          "review_flag": "The commentary 'General Principles' (601 characters, two paragraphs) reads: the usual course, where the parties are represented by counsel, is for counsel for the successful party to prepare a bill of costs in draft to send to opposing counsel for approval, and if approved and signed it can be entered, filed and enforced; while a party is ordinarily expected to provide a bill of costs, a principal purpose is to let the party who may be liable to pay object to entries (Al-Ghamdi v. Alberta 2017 ABCA 151 para. 4). The second paragraph agrees with Book A's statement that absence of a bill harms the party asked to pay (p.10-124, lines 6749-6751) and its fn 4 (the same case); the first paragraph (draft bill sent to opposing counsel for approval) has no counterpart in Book A's 10.35 note, though the idea matches official 10.36(3) (if one party approves a bill of costs prepared by another party adverse in interest, the assessment officer must certify it under 10.43 without change) which Book A prints in its 10.36 rule text (lines 6804-6806). It has no fn number run into the text and no running head."
         }
       ],
       "misattributed_entries": [],
       "locator": {
         "file": "481-500_10_32 to 10_46.json",
         "source_file": "481-500_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): paragraph (1)(b) ('on request of a party who is required to pay the costs.') is missing, the text running from '(a) if that party wishes or is required to have the costs assessed by an assessment officer, or' straight into '(2) The bill of costs must'; 'Form 44' is printed with a plain space; (2)(a)-(b) equal the official words."
     }
   },
   "comparison_vs_official": {
     "BOOK_A": {
       "status": "CARRIER_MISSING_TEXT",
       "similarity": 0.9938,
-      "differences": [
-        {
-          "op": "delete",
-          "official": "44",
-          "carrier": ""
-        }
-      ],
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 6732, text lines 6733-6740) has the same words as the official text with these differences: the form number is printed as a superscript, 'Form⁴⁴' (line 6733; the official text has 'Form 44', which is Form 44 'Bill of Costs [Rule 10.35(1)]' at official line 23593), which the builder used to read as a footnote marker 44 with no text (FOOTNOTE_TEXT_NOT_FOUND) until it was made to ignore a superscript that follows the word 'Form'; the ligature 'ofﬁcer' in (1)(a) (line 6735); and the words are otherwise complete ((1)(a)-(b), (2)(a)-(b))."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -170,13 +166,6 @@
     "BOOK_C": {
       "status": "CARRIER_MISSING_TEXT",
       "similarity": 0.9128,
-      "differences": [
-        {
-          "op": "delete",
-          "official": "(b) on request of a party who is required to pay the costs.",
-          "carrier": ""
-        }
-      ],
       "version_identity": "SAME_VERSION_PROVEN"
     }
   },
@@ -278,10 +267,18 @@
     "gate_artifact_sha256": "3c58baf16e609779f01c101283547b39d72e48d2df45a57d4ac6621454689aae"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.35' with the pattern that also finds line-wrapped forms; ranges searched separately): five hits, the table of contents (line 1590), 9.35(1)(a)(iv) (line 11228: the plaintiff in a foreclosure action must file and serve 'a bill of costs under rule 10.35'), the rule (line 12682), the list of forms (line 20380: 'Bill of Costs 10.35(1)', in a list whose form numbers follow the rows, so Form 44) and the heading of Form 44 (line 23593, '[Rule 10.35(1)]'; Form 44 pages at lines 23557, 23592, 23618). By subject: 10.2 'Payment for lawyer's services and contents of lawyer's account' (official line 1463), 9.35 'Checking calculations: assessment of costs and corrections' (line 1381), 10.30 'When costs award may be made' (line 1573), 10.36 'Assessment of bill of costs' (line 1593), 10.37 'Appointment for assessment' (line 1596).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the table of contents (line 10), the 10.2 Related Provisions (line 95, p.10-4: '10.35 (contents of bill of costs)'), the 10.31 note (line 3198, p.10-63: 'Rule 10.35 requires a bill of costs from the party seeking costs ...'), the running head (line 6726, p.10-124), the rule (line 6733), and the 10.38 note (line 6905, p.10-127: 'See the annotation to R.10.35.'); in combined_rule4.txt line 6646 ('10.35 (assessment of costs)'); in combined_rule9.txt line 4362 (9.35 text: 'a bill of costs under rule 10.35 [Preparation of bill of costs]'). Book A's Related Provisions '9.35 (costs in foreclosures)' lands on official 9.35(1)(a)(iv).",
+    "BOOK_B: rule10_part10_document.json holds the heading ('10.35. Preparation of bill of costs'), the rule text (440 characters, one paragraph, 'Form 44') and the Subdivision 2 heading paragraph, and no commentary; no other Book B file cites 10.35 by number.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry ('Preparation of bill of costs', an orphan entry with no Division heading, one citation, commentary 'General Principles' of 601 characters); no other Book C file cites 10.35 by number."
+  ],
   "dedupe_log": [
     "10.35 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.35 BOOK_C citation context dropped (2017 ABCA 151): verbatim in kept text",
     "10.35 BOOK_C commentary sentence split dropped",
-    "10.35 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.35 BOOK_C: rule text dropped (manual review)",
+    "10.35 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.35 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }

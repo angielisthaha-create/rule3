@@ -104,6 +104,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-123/124, 4 footnotes; Book B heading only, no commentary; Book C entry). Flags: Related Provisions '10.28(2)' does not exist (10.37 is 'Appointment for assessment'), placeholder (#2?), Crouser described differently in Book A and Book B (10.49), Book C commentary ends with the Subdivision 2 heading.
 
 10.35 Preparation of bill of costs
+     [1st pass] Read in full by hand (Book A p.10-124/125, 9 footnotes; Book B heading and rule text only, no commentary; Book C entry). Builder fix: superscript after 'Form' (Form 44) is not a footnote marker. Flags: forward infra (Earth Drilling) correct, unclosed bracket in fn 2, placeholders, Book C rule text missing (1)(b), Al-Ghamdi party name differs (Alberta/R.).
 
 10.36 Assessment of bill of costs
 
