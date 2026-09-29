@@ -3,7 +3,7 @@ Method: Pass 1 per rule = read the official text, Book A raw lines (locator), Bo
 searches, record decisions in the builder's MANUAL_* tables (tools/build_rule10_reconciliation.py), rebuild, gate_all10, write the [1st pass] line
 (ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "..."), commit. Then Pass 2 (verify every claim written), Pass 3 (confirmation).
 Write-after-search: no page/line/count/'only'/'uncited' claim is written before the lookup has been run.
-Pass 1 done: 10.1-10.37
+Pass 1 done: 10.1-10.38
 Pass 2 done: 
 Pass 3 done: 
 Part-level notes (to move to rule10_subrules/WORKFLOW.txt at the end of pass 1):

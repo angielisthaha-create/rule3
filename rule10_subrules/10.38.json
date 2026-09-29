@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.38 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it)."
     }
   },
   "sources": {
@@ -91,7 +94,8 @@
           "10-128"
         ]
       },
-      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256"
+      "operative_text_note": "same as official operative text (EXACT_MATCH); see operative_text_sha256",
+      "commentary_review_flag": "Read in full, p.10-127 (line 6885) to p.10-128 (line 6947 for the text that follows in the 10.39 heading): title (line 6885), rule text ((1)(a)-(g) lines 6886-6902 on p.10-127 with the footnote marker '4' after (g); (2) lines 6914-6916 on p.10-128 after the p.10-127 footnote block, the marker 10-128 (line 6912) and the running head (line 6913)), Related Provisions (lines 6918-6921, four entries, wrapped across a blank line), the note (lines 6922-6936) and 7 footnotes: p.10-127 fn 4 (line 6909, history: 'Quite similar to previous 1968 R.628. It came from 1944 C. R.762. Cf.1914 R.761, Eng.1883 O.65 r.27, 1875 r.23, and Eng. C. O. O. XL r.1.') and p.10-128 fns 1-6 (lines 6950-6955: Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748; Monaghan v. Optrics 2022 ABQB 16; CIBC Mtge. v. Ulrich (M) 2015 ABQB 445; Oleynik v. Univ. of Calg. supra; CIBC Mtge. v. Ulrich supra; Adebisi v. Dentons Can. 2023 ABKB 452); fn 7 of that block (line 6956) is the history of 10.39(1). Read against the official text: the rule text equals official 10.38 (EXACT_MATCH, no differences); the page break falls between (1) and (2). (1) Related Provisions read against the official rules: '10.17 (review officer's authority)' is the official title of 10.17 (the list of powers in 10.17(1) is the review counterpart of 10.38(1)); '10.43(2) (certificate is conclusive proof of amount assessed)' lands on 10.43(2); '11.27 (validating service)' and '11.29 (dispensing with service)' are the official titles of 11.27 and 11.29. (2) Statements in the note that read against the official text: 'A Review Officer hearing a dispute about a legal bill has power to take evidence, even unsworn evidence' (line 6923; fn 2, Monaghan v. Optrics) concerns the review officer, not the assessment officer, and does not match official 10.17(1)(a) (the review officer may take evidence 'either by affidavit or orally under oath, or both'; see also the 10.17 flag) or 10.38(1)(a) (the same words for the assessment officer); the pointer 'R.10.18(1) (a)' lands on official 10.18(1)(a) (a review officer must refer any question about the terms of a retainer agreement to the Court); 'Under Rr.10.38 and 10.39 the assessment officer can make a reference to the court' (line 6927; fn 3, CIBC Mtge. v. Ulrich) is loose: the power to refer a question to the Court is official 10.39(1), and 10.38 is only mentioned in 10.39(3) (an order to enforce a direction given under 10.38); 'The review officer cannot decide the terms of a retainer agreement ... they must go to a judge' (line 6935; fn 6, Adebisi v. Dentons Can.) is again about the review officer and agrees with official 10.18(1)(a); 'At one time a certificate of disbursements was needed ... The certificate is no longer needed' (fn 4, Oleynik) agrees with official 10.35(2) (which no longer asks for one); 'After 2010, a Master (as referee) held that invoices or other proof of disbursements should automatically be provided with the proposed bill of costs' (fn 5) is a case-law statement, not in the rule. (3) 'On the general principles of regulating party-party costs, see Alta. Treas. case.' (line 6922) is a bare pointer to fn 1 (Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748), which Book B's 10.36 commentary calls 'Alberta Treasury Branches v 14010507 Alberta Ltd (Katch 22)' and attributes ten costs principles to (see the 10.36 flag). (4) supra/infra: fn 4 'Oleynik v. Univ. of Calg. , supra' (line 6953) has its full citation in the 10.37 note (p.10-127 fn 2, line 6906), which is earlier; fn 5 'CIBC Mtge. v. Ulrich, supra' follows the full citation in fn 3 of the same page; no infra is used. No placeholder '(#_)' is used. The history footnote names old rules (1968 R.628, 1944 C. R.762, 1914 R.761, Eng.1883 O.65 r.27, 1875 r.23, Eng. C. O. O. XL r.1) not checked against any old-rule text. Misprint: 'how to interprete it' (lines 6935-6936). Book B's commentary '10.38:1' (1,358 characters, read in full) is one quotation from Equitable Bank v. Avison 2015 ABQB 109 (Master Schulz) paragraph 38: the Court relies on the assessment officer for smooth and efficient processing, counsel must comply with reasonable requests for records or details of services or disbursements, and the assessment officer must be treated respectfully; it mentions 'the Rule 9.35(4) application' and an affidavit requirement when the matter is reviewed by the Court. Book A's 10.38 note does not cite Equitable Bank v. Avison (the 9.35 note does, combined_rule9.txt line 4593)."
     },
     "BOOK_B": {
       "title": "Assessment officer's authority",
@@ -119,7 +123,7 @@
     "BOOK_C": {
       "title": "Assessment officer’s authority",
       "division_heading": null,
-      "operative_text_raw": "(1) For the purpose of assessing costs payable, an assessment officer may do all or any of the following:\n(a) take evidence either by affidavit or orally under oath, or both;\n(b) direct the production of records;\n(c) require notice of the appointment for the assessment to be served on persons who may be affected by the assessment or who have an interest in the trust, estate, fund or property from which the costs are or may be paid or charged;\n(d) give directions about how a notice of the appointment for the assessment is to be served;\n(e) allow a party to be independently represented by a lawyer;\n(f) require details of the services provided and disbursements or other (2) An assessment officer may not conduct an assessment of costs that have previously been assessed by an assessment officer unless the Court so orders or the parties agree.",
+      "operative_text_raw": null,
       "operative_text_sha256": "8a3ce1c7c47e11c91311b1ea3afee86312feb39ee0125dcf0424a07a850bf215",
       "citations": [],
       "commentary": [
@@ -131,14 +135,16 @@
               "neutral_citation": "2015 ABQB 109",
               "style_of_cause": "Equitable Bank v. Avison"
             }
-          ]
+          ],
+          "review_flag": "The commentary 'General Principles' (676 characters) has three paragraphs: (1) 'The assessment officer, as adjudicator of costs payable, is granted a number of powers under this rule to permit them to discharge their function.'; (2) 'The court relies on the assessment officer to perform this function for the smooth and efficient processing of all litigation matters, and foreclosures in particular. Counsel must keep this function in mind and comply with reasonable requests from the assessment officer to provide records or details of the services or disbursements claimed. Equitable Bank v. Avison, [2015] A.J. No. 166, 2015 ABQB 109 at para. 38 (Alta. Q.B. (Master))' - this is Book B's paragraph 38 in other words (Book B: 'The Court relies on the assessment officer to perform this function for the smooth and efficient processing of all litigation matters, and foreclosures in particular. Counsel must keep this function in mind and comply with reasonable requests ...'); (3) 'Reference to the Court – In order to assess what is reasonable and proper, rules 10.38 and' is cut off; the rest is in the next entry of the file, a second entry whose 'title' is the broken fragment 'authorize the assessment officer to do a number of things including a reference to the court for a d...' (kept under rule 10.39, see the 10.39 flags). The words after 'rules 10.38 and' are not restored here. Book A's note does not cite Equitable Bank v. Avison."
         }
       ],
       "misattributed_entries": [],
       "locator": {
         "file": "481-500_10_32 to 10_46.json",
         "source_file": "481-500_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): paragraph (1)(f) is cut off after 'require details of the services provided and disbursements or other' and runs straight into '(2) An assessment officer may not conduct ...', so the end of (f) ('charges claimed or require information about any other matter necessary to understand the reason for an item in the bill of costs and to decide whether the item and charge is reasonable and proper;') and paragraph (g) ('validate service of the notice of the appointment or, if service is impractical or impossible, dispense with service') are missing; (1)(a)-(e) and (2) equal the official words."
     }
   },
   "comparison_vs_official": {
@@ -155,13 +161,6 @@
     "BOOK_C": {
       "status": "CARRIER_MISSING_TEXT",
       "similarity": 0.849,
-      "differences": [
-        {
-          "op": "delete",
-          "official": "charges claimed or require information about any other matter necessary to understand the reason for an item in the bill of costs and to decide whether the item and charge is reasonable and proper; (g) validate service of the notice of the appointment or, if service is impractical or impossible, dispense with service.",
-          "carrier": ""
-        }
-      ],
       "version_identity": "SAME_VERSION_PROVEN"
     }
   },
@@ -263,11 +262,18 @@
     "gate_artifact_sha256": "024dd1b36440b66fbef249de44fdd9f1d794c281741294afd0a8e259f0125244"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.38' with the pattern that also finds line-wrapped forms; ranges searched separately): four hits, the table of contents (line 1599), the page heading (line 12756), the rule (line 12766) and 10.39(3) (line 12826: 'an order to enforce a direction given under rule 10.38'). By subject: 10.17 'Review officer's authority' (line 1527; 10.17(1)(a)-(g) has the same list of powers with 'review' in place of 'assessment'), 10.18 'Reference to Court' (review officer), 10.39 'Reference to Court' (assessment officer, line 1602), 10.43 'Certification of costs payable' (10.43(2): a certificate that meets the requirements is conclusive proof of the amount), 11.27 'Validating service', 11.29 'Dispensing with service'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.17 Related Provisions (line 1527, p.10-32: '10.38 (assessment officer's authority)'), the 10.39 text (line 6963, p.10-129: 'an order to enforce a direction given under rule 10.38 [Assessment officer's authority]'), the 10.43 Related Provisions (line 7251, p.10-135: '10.38(2) (second assessment not allowed)', which lands on 10.38(2)), and the 10.38 rule (running head line 6913, text line 6886); in combined_rule11.txt line 2762 (the 11.27 Related Provisions: '10.38(1) (g) (validating ...', which lands on 10.38(1)(g)). No other Book A file cites 10.38.",
+    "BOOK_B: rule10_part10_document.json (21 hits, this rule's heading, rule text and one commentary '10.38:1' of 1,358 characters: Equitable Bank v. Avison, 2015 ABQB 109 (Master), paragraph 38); no other Book B file cites 10.38 by number.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' (7 hits: this entry and the fragment-titled entry that continues its commentary, see the 10.38 Book C commentary flag); no other Book C file cites 10.38 by number."
+  ],
   "dedupe_log": [
     "10.38 BOOK_A: operative text dropped (EXACT_MATCH)",
     "10.38 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.38 BOOK_C citation context dropped (2015 ABQB 109): verbatim in kept text",
     "10.38 BOOK_C commentary sentence split dropped",
+    "10.38 BOOK_C: rule text dropped (manual review)",
     "10.38 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
   ]
 }

@@ -113,6 +113,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-126/127, 5 footnotes; Book B heading and rule text only; Book C entry). Flags: lower-case 'form 45', page break between (3) and (4), history footnotes 5 and 6 identical, Bychkowski case named differently in 10.31 note.
 
 10.38 Assessment officer’s authority
+     [1st pass] Read in full by hand (Book A p.10-127/128, 7 footnotes; Book B 10.38:1 in full; Book C entry). Flags: review-officer statements in an assessment-officer note (unsworn evidence vs official 10.17(1)(a)), 'Rr.10.38 and 10.39' reference power is only in 10.39(1), Book C rule text cut off in (1)(f), Book C commentary cut off and continued in a fragment-titled entry under 10.39.
 
 10.39 Reference to Court
 
