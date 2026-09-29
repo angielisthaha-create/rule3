@@ -128,6 +128,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-133/134, 9 footnotes; Book B heading and rule text only; Book C entry cut off in (1)). Builder: MANUAL_TITLE_NOTES added (official table of contents says 'Provincial Court jurisdiction', the rule heading and all three books say 'Court of Justice'). Flags: Schedule C appeal items '13, 14, 15' vs official 18-21, Provincial Court Act vs Court of Justice Act names, Book C no amendment note.
 
 10.43 Certification of costs payable
+     [1st pass] Read in full by hand (Book A p.10-134/135, 2 footnotes; Book B heading and rule text only; Book C entry). Flags: one-sentence note without antecedent ('This decision ... allocutur', spelled allocatur in the 10.35 note), Book C amendment note field holds the Subdivision 3 heading.
 
 10.44 Appeal to judge
 
