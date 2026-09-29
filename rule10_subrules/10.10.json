@@ -35,6 +35,9 @@
       "BOOK_A": "AGREES",
       "BOOK_B": "AGREES",
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.10 effective November 1, 2010 (Alta. Gaz. May 15, 2021); Alta.*' then a line break and 'Reg. 140/2013, s. 8; Alta. Reg. 36/2020, s.  Law Society of Alberta Code of Conduct (February 20, 2020), s. 3.6-1. effective May 26, 2020 (Alta. Gaz. April 15, 2020)]'. The section number after 'Alta. Reg. 36/2020, s.' is lost and a citation to the Law Society of Alberta Code of Conduct (February 20, 2020), s. 3.6-1 stands in its place (Book B's note reads 'Alta. Reg. 140/2013, s. 8; 36/2020, s. 9'); the Code citation is not part of the regulation history. 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010; 140/2013; 36/2020); the Gazette dates 'May 15, 2021' (see the 10.1 flag) and 'April 15, 2020', and 'effective May 26, 2020', are not in the official text and were not checked."
     }
   },
   "sources": {
@@ -48,7 +51,7 @@
     },
     "BOOK_A": {
       "title": "Time Limitation on Reviewing Retainer Agreements and Charges",
-      "operative_text_raw": "10.10(1) A retainer agreement may not be reviewed if 6 months has passed after\nthe date on which the retainer agreement terminated.\n(2) A lawyer’s charges may not be reviewed, whether at the request of the lawyer\nor the client, if one year has passed after the date on which the account was sent\nto the client.\n[Alta. Reg.124/10;140/13; 36/20]",
+      "operative_text_raw": null,
       "operative_text_sha256": "7092883c62bc609d4778117f4be7c81b85fd486a6d9acc1235a97c5e89fef4e6",
       "related_provisions": "13.5 (extension of time)",
       "commentary": "Subrule 2 was amended in 2020 to extend the time limit from 6 months to one year.\nThis Rule sets ordinary time limits⁶\nfor a client (or other person liable to pay) seeking to review\nthe lawyer’s account which he or she owes. The time limits probably do not apply to interim\n\naccounts, but what is an interim account is a matter of some debate in the many recent cases.¹\nOne would not think that how to compute the time for review was otherwise difﬁcult, but it can be.²\nThe court can extend the time limit, and case law gives 4 or 6 factors to consider then.³\nWhen\ncan the court extend time?⁴\nSpeciﬁcally on this topic, sympathy for the client often unduly intrudes.⁵\nPrejudice,⁶\nwhether the statement of account was interim or ﬁnal,⁷\nand evidence of overcharging,\nare important. Various fact situations come up in the cases.⁸\nThe threshold for extending time is\nnot low, and neither the client's good-faith desires nor some evidence of overcharging or that the\naccount should be reviewed, sufﬁces. The time limit balances both sides' interests. The time limit\nis mandatory law, not mere advice.⁹\n\nExtending time without notice is questionable.¹\nThe time limit applies only to review at the instance of the client, as otherwise a lawyer could\nbe time-barred without knowing that there is an issue.²\nThe time limit for review did not bar review\nhere because (at the clients' request) some of the services were rendered well after the invoice\nfor them! And R.10.24 is separate and more speciﬁc than R.10.10(2).³\nThe modern rules of interpretation of statutes apply also to the Rules of Court, and that\nincludes (though with less weight) their statement of their purpose, so long as speciﬁc operational\nwords are not distorted. Rules 1.2 and 1.7 were looked at, and applied to R.10.10 (time limit for\nreview of a legal account).⁴\nWhat is subject to the deadline (a year plus 75 days if in 2020),⁵\ndespite some conﬂict in\nauthority, is to be interpreted purposively, contextually, and harmoniously with other Rules,\nincluding R.10.13(4). So this deadline stops running when the Appointment is obtained, even if\nit has not yet been served. Service within a reasonable time sufﬁces. If there is undue delay in\nserving, that can be managed by the Review Ofﬁcer, who has many applicable powers.⁶\nLike most time limits, breach of these ones must be somehow raised in a reasonable time, not\nheld silently until a late stage in the proceedings.⁷\nSome objections to a lawyer’s account would be within the jurisdiction of a review ofﬁcer,\nsome for only a judge. If both kinds are present, an Applications Judge can order that the review\nproceed ﬁrst (before a review ofﬁcer).⁸\nSee further on which topics a review ofﬁcer can and cannot\ndecide, notes to Rr.10.17 and 10.18.\nThis is a limitation period, even though in some circumstances it can be extended. So the\nmandatory Ministerial Order made by the Minister of Justice applies and is mandatory. Because\nof almost inaccessible courthouses, it extends time to commence proceedings by 75 days, from\nMarch 17, 2020 to June 1, 2020, and those 75 days cannot be counted in calculating the time limit\nfor commencing (suing), and under this Rule the 75 days were not counted.⁹",
@@ -141,13 +144,12 @@
         {
           "page": "10-26",
           "number": 8,
-          "text": "Twinn v. Sawridge, supra. 9 O’Chiese F. N. v. DLA Piper (Can. ) 2022 ABCA 197, 49 Alta LR(7th) 280."
+          "text": "Twinn v. Sawridge, supra."
         },
         {
           "page": "10-26",
           "number": 9,
-          "text": null,
-          "defect": "FOOTNOTE_TEXT_NOT_FOUND_ON_PAGE"
+          "text": "O’Chiese F. N. v. DLA Piper (Can. ) 2022 ABCA 197, 49 Alta LR(7th) 280."
         }
       ],
       "locator": {
@@ -161,7 +163,9 @@
           "10-25",
           "10-26"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (lines 1133-1138: title on the line before, text 10.10(1)-(2), then the bracket '[Alta. Reg.124/10;140/13; 36/20]') has the same words as the official text (compared word by word by hand: subrule (1) 6 months / terminated; subrule (2) 'whether at the request of the lawyer or the client' / 'one year'); it differs only in spacing and line breaks (single instead of double spaces after '10.10(1)' and '(2)', different wraps) and in the amendment bracket line '[Alta. Reg.124/10;140/13; 36/20]' printed under the text (a shortened form of the official 'AR 124/2010 s10.10;140/2013;36/2020'). The official text controls; the raw Book A lines are not kept.",
+      "commentary_review_flag": "Read in full, p.10-24 (line 1132) to p.10-26 (line 1262): title (line 1132), rule text (lines 1133-1138), Related Provisions (lines 1140-1141: '13.5 (extension of time)'), and the note (lines 1143 to 1262; page markers 10-25 line 1170 and 10-26 line 1233) with its footnotes: p.10-24 fn 6, p.10-25 fns 1-9 and p.10-26 fns 1-9 = 19, all with text after the builder's glued-footnote fix (p.10-26 fns 8 and 9 were one footnote; see the PROGRESS notes). The p.10-24 footnote block (line 1148 ff.) prints fns 1-5 of the 10.9 note and then fn 6 of this note; fn 9 of p.10-25 is printed at the top of the p.10-26 footnote block under '[Footnote 9 from prior page]' (line 1267). Read against the official text (10.10(1): a retainer agreement may not be reviewed 6 months after it terminated; (2): a lawyer's charges may not be reviewed, at the request of the lawyer or the client, one year after the account was sent): 'Subrule 2 was amended in 2020 to extend the time limit from 6 months to one year' agrees with official 10.10(2) and the amendment line (AR 36/2020). FLAG 1 (p.10-24, lines 1144-1145 and p.10-26 line 1236): 'This Rule sets ordinary time limits for a client (or other person liable to pay) seeking to review the lawyer's account' and 'The time limit applies only to review at the instance of the client, as otherwise a lawyer could be time-barred without knowing that there is an issue' (fn 2, Twinn v. Sawridge 2012 ABQB 44) do not agree with official 10.10(2), which since AR 140/2013 reads 'whether at the request of the lawyer or the client'. Book B's commentary (Part 1) states the same point: Twinn was decided before the amendment (the words were added on July 25, 2013), and O'Brien v. de Villars Jones 2015 ABQB 535 held lawyers are now bound by the six-month (now one-year) limit; Book C likewise ('Lawyers are now bound by the rule'). The sentence is the pre-2013 law and is not the rule. FLAG 2 (p.10-25 fn 4): 'Generally, on extending time, see R.12.5' - official 12.5 is 'Requirement that parties be spouses' (table of contents line 1851-1852); the rule on extending time periods is 13.5 (official title 'Variation of time periods'), which the Related Provisions line names. FLAG 3: the Related Provisions label '13.5 (extension of time)' is a label; official 13.5 is titled 'Variation of time periods' (13.5(2): the Court may stay, extend or shorten a time period). Statements printed as case-law summaries and not the text of the rule: 'case law gives 4 or 6 factors' (Book B's Attila and West quotations name six factors: delay, prejudice, first intent to tax, evidence of overcharging, agreement as to amount, relationship of lawyer and client; the '4' is not explained), 'The threshold for extending time is not low' (West v. Logie 2018 ABCA 255 in Book B), 'Extending time without notice is questionable' (p.10-26 fn 1 West v. Logie para 36; Book B quotes para 36), 'What is subject to the deadline (a year plus 75 days if in 2020)' with the Ministerial Order paragraph (March 17 to June 1, 2020, 75 days) - the order is not in the official Part 10 text; the same order is described in the Part 13 note (combined_rule13.txt line 880); 'R.10.13(4)' lands on the official service-of-documents subrule (10 days before the appointment date); 'R.10.24 is separate and more specific than R.10.10(2)' agrees with Book B's 10.24 commentary (Justice Shelley); 'Rules 1.2 and 1.7 were looked at, and applied to R.10.10' - the same sentence is in the Part 1 note. supra/infra (each full citation found by searching all Book A files): p.10-24 fn 6 'Avramenko v. Laurich, infra' (full at p.10-25 fn 8), 'Samson Cree N. v. O'Reilly, infra' (full at p.10-25 fn 1) and p.10-25 fn 3 'Thistle v. Stringham Denecky, infra' and 'Lewis Est. Communities v. Brownlee, infra' (full at p.10-25 fn 6) and p.10-26 fn 4 'Rath & Co. v. Sturgeon L. Cree N., infra' (full at p.10-26 fn 6) all point the right way; 'supra' cites (p.10-25 fn 1 Eryn B Logie, Pellerin v. Guindon: full at p.10-24 fn 6; fn 3 Samson Cree and Re Van Brabant: full at fn 1; fn 5 Blake Cassels: full at fn 3; fn 8 BA Cap. v. Focused: full at fn 3; p.10-26 fn 1 West v. Logie: full at p.10-25 fn 9; fn 6 Spark Power: full at fn 5; fn 8 Twinn: full at fn 2) all point back correctly. Printed as is: the case name spelled 'Stringham Denecky' in the text and fn 6 of p.10-25 as 'Stringam Denecky' (fn 3 line 1204 'Stringham'; fn 6 line 1214 'Stringam'); 'Eryn B Logie Family Tr. v. West' (p.10-24 fn 6) against 'Eryn B Logie etc.' and Book B/Book C 'Eryn B. Logie Family Law v. West'; 'Payne v. Evans Pearson & Co. 2005 ABQB 12' cited in fns 3 and 8 of p.10-25; fn 8 'The 6 months expired' is a description of the facts of the 2005 case."
     },
     "BOOK_B": {
       "title": "Time limitation on reviewing retainer agreements and charges",
@@ -189,14 +193,9 @@
     "BOOK_C": {
       "title": "Time limitation on reviewing retainer agreements and charges",
       "division_heading": null,
-      "operative_text_raw": "(1) A retainer agreement may not be reviewed if  Willier v. McGurk, [2015] A.J. No. 1011, 2015 ABCA 299 at para. 12 (Alta. C.A.). months has passed after the date on which the retainer agreement terminated.\n(2) A lawyer’s charges may not be reviewed, whether at the request of the lawyer or the client, if one year has passed after the date on which the account was sent to the client.",
+      "operative_text_raw": null,
       "operative_text_sha256": "0e3b13ddfac47acff90f39a83353da75adac5944e48da84a80d69d8ba7da0225",
-      "citations": [
-        {
-          "neutral_citation": "2015 ABCA 299",
-          "style_of_cause": "A retainer agreement may not be reviewed if  Willier v. McGurk"
-        }
-      ],
+      "citations": [],
       "commentary": [
         {
           "topic": "General Principles",
@@ -208,23 +207,23 @@
             },
             {
               "neutral_citation": "2012 ABQB 44",
-              "style_of_cause": "ABQB The former version of this rule only applied to client-initiated reviews. Twinn v. Sawridge Band"
+              "style_of_cause": "Twinn v. Sawridge Band"
             },
             {
               "neutral_citation": "2015 ABQB 535",
-              "style_of_cause": null
+              "style_of_cause": "O'Brien v. de Villars Jones"
             },
             {
               "neutral_citation": "2013 ABQB 350",
-              "style_of_cause": null
+              "style_of_cause": "Samson Cree Nation v. O'Reilly & Associés"
             },
             {
               "neutral_citation": "2014 ABCA 268",
-              "style_of_cause": null
+              "style_of_cause": "Samson Cree Nation v. O'Reilly & Associés"
             },
             {
               "neutral_citation": "2014 ABQB 34",
-              "style_of_cause": "PART  Steinke v. Hajduk Gibbs LLP"
+              "style_of_cause": "Steinke v. Hajduk Gibbs LLP"
             },
             {
               "neutral_citation": "2017 ABQB 339",
@@ -234,14 +233,17 @@
               "neutral_citation": "2018 ABCA 255",
               "style_of_cause": "Eryn B. Logie Family Law v. West"
             }
-          ]
+          ],
+          "review_flag": "(1) The commentary ('General Principles', 2,433 characters, no topic other than that heading) is one run of text with citations displaced by lost characters. (a) The list of purposes: bullets 2-4 (put lawyers on notice; encourage clients to voice concerns close to the date; allow lawyers to anticipate uncollectible receivables) correspond to West v. Logie 2018 ABCA 255 para 22 as quoted in Book B's 10.10 commentary, which cites Twinn para 38; bullet 1 ('give the client a fair opportunity'), bullet 5 ('allow lawyers to have finality of accounts'), the clause 'which allows both parties to retain records and make notes' and the clause 'or to know that collected accounts may have to be returned' are not in Book B's excerpt of para 22. The last bullet is followed by 'Rath and Co. ... v. Sturgeon Lake Cree Nation, [2019] A.J. No. 1688, 2019 ABQB 949 at para. 16 (Alta. Q.B. (Master)), revd on other grounds [2022] A.J. No. 996, 2022 ABQB' where the number after 'ABQB' is lost (Book A p.10-26 fn 6 and Book B give 2022 ABQB 556 for the decision of Justice Johnston, JCC 1801 11136 in Book A) and the sentence 'The former version of this rule only applied to client-initiated reviews. Twinn v. Sawridge Band, [2012] A.J. No. 59, 2012 ABQB 44 at paras. 34-40' follows in its place; Twinn paras 38 (Book B part 3) and 36-37 (Book B's 10.24 commentary) fall inside the printed range. (b) 'The words \"whether at the request of the lawyer or the client\" were added to the rule on July 25, 2013' agrees with Book B (O'Brien para 6). 'Lawyers are now bound by the rule. O'Brien v. de Villars Jones ... 2015 ABQB 535 at para. 6': Book B's excerpt has 'lawyers are now bound by the six month term' in para 7 (para 6 has the date); the pinpoint is printed as is. 'The rule does not apply to interim invoices, only final invoices. O'Brien ... at para. 8': para 8 is not in Book B's excerpt (paras 4-7 and 21-25); Book A's 10.2 note (p.10-4 fn 5, lines 134-137) has 'then the bills rendered were final; nothing in R.10.2 would apply: O'Brian v. de Villars Jones' and Book A's 10.10 note says 'The time limits probably do not apply to interim accounts'. 'For whether an account is interim or final, see , [2013] A.J. Samson Cree Nation v. O'Reilly & Associés No. 670, 2013 ABQB 350 at paras. 45, 46' has the case name displaced into the middle of its own citation; the pinpoint lands (Book B's Samson Cree quotation prints para 45 'Periodic accounts may be interim or final' and para 46 'Final accounts are ones that...'). (c) 'The time limit seeks to make it easier to resolve disputes by avoiding the difficulty of assessing complaints about events years past, puts lawyers on notice ... and allows PART  Steinke v. Hajduk Gibbs LLP, [2014] A.J. No. 62, 2014 ABQB 34 at para. 50' stops at 'and allows' and the page's running head 'PART' (from 'PART 10 LAWYERS' CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS') and the Steinke citation follow; the same list is in West v. Logie para 22 (Book B), which cites Twinn para 38; Book A's Part 10 file cites Steinke at paras 53, 63-4, 65, 93, 96, 51, 54, 47-48, 72 and 8-24 and not para 50 (the pinpoint is printed as is). (d) The last paragraph ('13.5(2), Eryn B. Logie Family Law v. West, [2017] A.J. No. 525, 2017 ABQB 339 at para. 12 (Alta. Q.B.), revd [2018] A.J. No. 888, 2018 ABCA 255 (Alta. C.A.); , Samson Cree Nation v. O'Reilly & Associés which is not excluded by rule 10.10.98 Factors to be considered for extending time are: i. delay, ii. prejudice, iii. first intent to tax (assess the accounts), [2014] A.J. No. 904, 2014 ABCA 268 at para. 184 (Alta. C.A.)') begins in the middle of a sentence ('13.5(2)' is the rule that lets the Court extend time), has '98' run onto '10.10.' (a footnote number), is cut off after the third factor, and prints the Samson Cree 2014 ABCA 268 citation where the list should continue. Book B's Attila Dogan 2015 ABQB 407 para 33 lists six factors (delay, prejudice, first intent to tax, evidence of overcharging, agreement as to amount, relationship between lawyer and client) and Book A says 'case law gives 4 or 6 factors'. Book B's West v. Logie excerpt (paras 19-23) rejects the chambers judge's 'low threshold' for extending time; Book A p.10-25 fn 9 cites West v. Logie (paras 20-26) for the same. The passage is kept as printed (flagged); nothing in it contradicts the official 10.10(2), which Book C's rule text repeats ('one year')."
         }
       ],
       "misattributed_entries": [],
       "locator": {
         "file": "441-460_10_1 to 10_10.json",
         "source_file": "441-460_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): in subrule (1) the number '6' is lost and a citation stands in its place ('if  Willier v. McGurk, [2015] A.J. No. 1011, 2015 ABCA 299 at para. 12 (Alta. C.A.). months has passed'); the words of subrule (2) equal the official text.",
+      "citations_note": "The one rule-level citation (Willier v. McGurk, [2015] A.J. No. 1011, 2015 ABCA 299 at para. 12 (Alta. C.A.)) stands where the '6' is lost in 10.10(1); it is not an authority for 10.10 as printed here. The same case is cited elsewhere in the packet for permission to appeal (Book B rule10_part10_document.json '... Willier v McGurk, 2015 ABCA 299 (CanLII) at para 8' and rule14_part01_document.json 'In Willier v. McGurk, 2015 ABCA 299, Justice Veldhuis said: 6 The factors to be considered on permission to appeal applications under the former Rules...'); the case is not cited in the Part 10 Book A file or in Book B's 10.10 commentary."
     }
   },
   "comparison_vs_official": {
@@ -249,7 +251,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (lines 1133-1138: title on the line before, text 10.10(1)-(2), then the bracket '[Alta. Reg.124/10;140/13; 36/20]') has the same words as the official text (compared word by word by hand: subrule (1) 6 months / terminated; subrule (2) 'whether at the request of the lawyer or the client' / 'one year'); it differs only in spacing and line breaks (single instead of double spaces after '10.10(1)' and '(2)', different wraps) and in the amendment bracket line '[Alta. Reg.124/10;140/13; 36/20]' printed under the text (a shortened form of the official 'AR 124/2010 s10.10;140/2013;36/2020'). The official text controls; the raw Book A lines are not kept."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -259,13 +262,6 @@
     "BOOK_C": {
       "status": "WORDING_DIFFERENCE",
       "similarity": 0.8819,
-      "differences": [
-        {
-          "op": "replace",
-          "official": "6",
-          "carrier": "willier v. mcgurk, a.j. no. 1011, 2015 abca 299 at para. 12 (alta. c.a.)."
-        }
-      ],
       "version_identity": "SAME_VERSION_PROVEN"
     }
   },
@@ -368,6 +364,12 @@
     "gate_artifact_sha256": "a258a0ae5d0bccafc37a9d891492056e0049bbc47fcb32c1e85eee959ca574e6"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.10' with the pattern that also finds line-wrapped and range forms): four hits, the table of contents (line 1494), the rule heading (line 11975, 'Rule 10.10'), the rule text (line 11984) and its amendment line (line 11990, 'AR 124/2010 s10.10;140/2013;36/2020'). No other rule or form cites 10.10 by number. By subject: 13.5 (line 16711: 13.5(2) the Court may stay, extend or shorten a time period specified in the rules, and (3) may do so whether or not the period has expired; 'Variation of time periods'), 10.13(4) (service of the appointment documents 10 days or more before the appointment date), 10.24 (line 12309: review of a lawyer's charges after a lawyer's death, suspension, disbarment or incapacity, and other particular events), 10.9 (retainer agreements and charges may be reviewed), 10.11 (who may request a review), 10.17(2) and 10.18 (what a review officer may and may not review).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; page from the 'N-NN' markers): this rule's own hits in combined_rule10.txt are the running heads and rule text (lines 1120, 1133 and 1171) and the note, p.10-26 (line 1240 'And R.10.24 is separate and more specific than R.10.10(2).' and line 1243 'Rules 1.2 and 1.7 were looked at, and applied to R.10.10 (time limit for review of a legal account)'). Other rules that cite 10.10: the 10.13 note, p.10-29 (line 1412 'and see R.10.10 itself.'; line 1420 fn 1 'Twinn v. Sawridge, supra, R.10.10n. And see R.10.17n and 10.18n.'; line 1421 fn 2 'R.10.10, supra.'), the 10.19 note, p.10-35 (line 1682 'bills were reviewed more than a year after their receipt under R.10.10(2)') and the 10.24 note, p.10-38 (line 1835 'Rule 10.24 is separate and more specific than R.10.10(2).'). Outside Part 10, the Part 1 note repeats the 1.2/1.7 sentence (combined rule1.txt line 1692: 'Rules 1.2 and 1.7 were looked at, and applied to R.10.10 (time limit for'). The Ministerial Order of 75 days (March 17 to June 1, 2020) is also printed in the Part 13 note (combined_rule13.txt lines 880-881).",
+    "BOOK_B: this rule's own commentary ('Rule 10.10', 37,698 characters, rule10_part03_document.json; six numbered parts: 1 Time Limit Does Not Apply To Lawyers Seeking Review (Twinn v. Sawridge Band 2012 ABQB 44 before the 2013 amendment; O'Brien v. de Villars Jones 2015 ABQB 535, paras 4-7 and 21-25), 2 What must be done within the time period (Rath & Co. v. Sturgeon Lake Cree Nation 2022 ABQB 556, paras 58-59; Spark Power v. Peacock Linder 2022 ABKB 853), 3 Taxation Is Not Mandatory, 4 Types of Retainers and Accounts (Samson Cree Nation v. O'Reilly 2013 ABQB 350; Van Brabant 2013 ABQB 547; West v. Logie Family Law 2018 ABCA 255, paras 19-23 and 33-35), 5 Interim Accounts (Baxandall), 6 Extension of Time (Oilexco; BA Capital 2012 ABQB 379; Attila Dogan 2015 ABQB 407; West v. Logie para 36 on ex parte fiats)). Other Book B passages that name 10.10: the 10.24 commentary (rule10_part04_document.json: Justice Shelley held 10.24 is 'not subject to the time limitation set out in Rule 10.10(2)') and rule13_part01_anno.json ('Rule 647(d) of the Old Rules, and its successor Rules 10.10(2) and 13.5(2)(a)').",
+    "BOOK_C: the entry for 10.10 in '441-460_10_1 to 10_10.json' (text, amendment note and the 'General Principles' commentary of 2,433 characters). No other Book C file was found to cite 10.10 by number."
+  ],
   "dedupe_log": [
     "10.10 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.10 BOOK_C citation context dropped (2015 ABCA 299): verbatim in kept text",
@@ -380,7 +382,10 @@
     "10.10 BOOK_C citation context dropped (2017 ABQB 339): verbatim in kept text",
     "10.10 BOOK_C citation context dropped (2018 ABCA 255): verbatim in kept text",
     "10.10 BOOK_C commentary sentence split dropped",
+    "10.10 BOOK_C: rule text dropped (manual review)",
+    "10.10 BOOK_C: displaced citations dropped ['2015 ABCA 299'] (manual review)",
     "10.10 BOOK_B: amendment note moved to amendment_history.carrier_notes (was duplicated)",
-    "10.10 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.10 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.10 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }
