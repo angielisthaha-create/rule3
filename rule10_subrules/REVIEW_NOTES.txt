@@ -125,6 +125,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-129 to p.10-133, 29 footnotes; Book B 10.41:1 25,515 chars read in full; Book C entry). Flags: 'Subrule (b)(iii)' does not exist, Schedule C amounts $250 and $5,000 vs current official items 9(1) and 12, double costs statement not in the rule text (Singh v. Noce, Book B para 39), amendment bracket printed mid-rule, three page breaks inside the rule text, Book C rule text cut off in (3) lead-in and no amendment note.
 
 10.42 Actions within Provincial Court jurisdiction
+     [1st pass] Read in full by hand (Book A p.10-133/134, 9 footnotes; Book B heading and rule text only; Book C entry cut off in (1)). Builder: MANUAL_TITLE_NOTES added (official table of contents says 'Provincial Court jurisdiction', the rule heading and all three books say 'Court of Justice'). Flags: Schedule C appeal items '13, 14, 15' vs official 18-21, Provincial Court Act vs Court of Justice Act names, Book C no amendment note.
 
 10.43 Certification of costs payable
 
