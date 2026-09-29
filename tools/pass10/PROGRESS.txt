@@ -3,10 +3,11 @@ Method: Pass 1 per rule = read the official text, Book A raw lines (locator), Bo
 searches, record decisions in the builder's MANUAL_* tables (tools/build_rule10_reconciliation.py), rebuild, gate_all10, write the [1st pass] line
 (ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "..."), commit. Then Pass 2 (verify every claim written), Pass 3 (confirmation).
 Write-after-search: no page/line/count/'only'/'uncited' claim is written before the lookup has been run.
-Pass 1 done: 10.1-10.30
+Pass 1 done: 10.1-10.31
 Pass 2 done: 
 Pass 3 done: 
 Part-level notes (to move to rule10_subrules/WORKFLOW.txt at the end of pass 1):
 - Book C prints 'Alta. Gaz. May 15, 2021' in its Part 10 amendment notes (Part 3 entries and rules 11.1-11.8 print 'August 14, 2010').
 - Book A pointers into Part 10 that name a subrule the official text does not have: 10.1(2) (see the 10.1 flags).
-- Builder fix (10.10): a footnote carried over from the prior page ('[Footnote N from prior page]' with no text under it, then the text printed at the top of the block) was parsed as this page's fn N and glued this page's fn N onto fn N-1; it is now keyed separately. Fixed defects: 10.10 p.10-26 fn 9; 10.29 (p.10-53 fns 12-13); 10.31 (p.10-99 fn 12 and others). Still FOOTNOTE_TEXT_NOT_FOUND after the fix: 10.31 p.10-99 fns 3-6; 10.35 p.10-124 fn 44 ('Form⁴⁴') - to be read at those rules.
+- Builder fix (10.10): a footnote carried over from the prior page ('[Footnote N from prior page]' with no text under it, then the text printed at the top of the block) was parsed as this page's fn N and glued this page's fn N onto fn N-1; it is now keyed separately. Fixed defects: 10.10 p.10-26 fn 9; 10.29 (p.10-53 fns 12-13); 10.31 (p.10-99 fns 3-6: the last line of fn 10 of p.10-98 sits under the p.10-99 'Footnote' heading, now attached via MANUAL_FN_CONT_TAIL). Still FOOTNOTE_TEXT_NOT_FOUND after the fix: 10.35 p.10-124 fn 44 ('Form⁴⁴') - to be read at that rule.
+- Book B read depth: the very long Book B commentaries (10.29: 146,809 characters; 10.31: six blocks, 115,837 + 16,355 + 842 + 9,661 + 3,031 + 102,558 characters) were read at heading/sample level in Pass 1; the 10.29 first reading was also cut short by an output truncation. Both are to be read in full in Pass 2.
