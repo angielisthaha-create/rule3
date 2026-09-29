@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.44 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it)."
     }
   },
   "sources": {
@@ -40,7 +43,7 @@
     },
     "BOOK_A": {
       "title": "Appeal to Judge",
-      "operative_text_raw": "10.44(1) A party to an assessment ofﬁcer’s decision under this Division or a\nparty to an assessment ofﬁcer’s decision under rule 9.35 [Checking calculations:\nassessment of costs and corrections] may appeal the decision to a judge.\n(2) The appeal from an assessment ofﬁcer’s decision is an appeal on the record\nof proceedings before the assessment ofﬁcer.\n(3) The record of proceedings is\n(a) Form 45 served under rule 10.37(2),\n(b) the material the parties ﬁled to support or oppose, or that was\nrequired for, the assessment,\n(c) the transcript of the proceedings before the assessment ofﬁcer,\nunless the judge waives this requirement, and\n(d) the assessment ofﬁcer’s certiﬁcate.\n(4) The appellant must ﬁle and serve on the respondent to the appeal, within one\nmonth after the date of the assessment ofﬁcer’s decision,\n(a) notice of the appeal in Form 46,\n(b) the record of proceedings described in subrule (3) or, if the transcript\nis not available at the time of ﬁling, conﬁrmation that the transcript\nof the proceedings has been ordered, and\n(c) any further written argument.\n(5) The respondent to the appeal must, within 10 days after service of the notice\nof appeal, ﬁle and serve on the appellant any written argument the respondent\nwishes to make.",
+      "operative_text_raw": null,
       "operative_text_sha256": "6872d2ead9786de4c4cb7ba330cf0cd69dbe3f7bcf2b546f161890abffb521dd",
       "related_provisions": "10.26 (appeal from review officer)",
       "commentary": "See R.10.24n.\n\nExtending time to appeal from an Assessment Ofﬁcer is governed by Cairns v. Cairns (1931),\nand the time limit is very short. But the onus on the appellant is heavy. No timely intent to appeal\nwas shown here, though the appeal was arguable, and lack of prejudice was not enough to extend\ntime. Five unexplained months elapsed, and a self-represented party cannot just ignore time\nlimits.¹\nOn an appeal from assessment of a party-party bill, the judge appealed to can look at the\nassessed version of the bill of costs in question, if it is on the Court ﬁle.²\nOn appeal to a King’s Bench justice, a review ofﬁcer gets much deference because of his\nexperience and expertise, but some appeals do succeed: wrong principle, or amount far out of\nline.³\nSemble one Justice of Appeal can hear an appeal from an assessment ofﬁcer’s assessment\nof costs awarded by a panel on an appeal.⁴",
@@ -76,7 +79,9 @@
           "10-135",
           "10-136"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (title on line 7256, text lines 7257-7278) has the same words as the official text (compared token by token) with these differences: the bracket label '[Checking calculations: assessment of costs and corrections]' after 'rule 9.35' in (1) (line 7259; it agrees with the official title of 9.35) and the ligatures 'ofﬁcer', 'ﬁled', 'ﬁle', 'ﬁling', 'conﬁrmation' and 'certiﬁcate'. Subrules (1)-(5) and paragraphs (3)(a)-(d), (4)(a)-(c) are complete; there are no footnote markers and no amendment bracket (the official history is 'AR 124/2010' only).",
+      "commentary_review_flag": "Read in full, p.10-135 (line 7256) to p.10-136 (line 7298): title (line 7256), rule text (lines 7257-7278), Related Provisions (lines 7280-7281: '10.26 (appeal from review officer)'), 'See R.10.24n.' (line 7283), the marker 10-136 (line 7285), the note (lines 7287-7298, four statements) and 4 footnotes on p.10-136 (lines 7320-7326: 1 Vizor v.383501 Alta. 2022 ABQB 5, JCE 1903 07391 (Jan 6) (¶'s 80-126); 2 Oleynik v. Univ. of Calg. 2013 ABCA 395 (one JA Nov 22) (¶ 4), leave den 2014 ABCA 19, 2014 CarswellAlta 53. (Jan 16).; 3 Kirk Montoute Dawson v. Hearn 2022 ABKB 775, JCC 2101 11878 (Nov 22) (¶'s 7-9), cf. Adebisi v. Dentons Can. 2023 ABKB 452; 4 Hamill v. Kudryk 2014 ABCA 82, Edm 1203 0139 AC (one JA Feb 27)); fns 5 and 6 of that block (lines 7327-7329) belong to 10.45. The rule has no history footnote. Read against the official text: the rule text equals official 10.44 apart from the bracket label and ligatures (see the text note). (1) Related Provisions '10.26 (appeal from review officer)' is a label for official 10.26 'Appeal to judge' (the review officer's appeal). (2) The pointer 'See R.10.24n.' (line 7283) does not land on a note about appeals: the 10.24 note (lines 1813-1835) has one bare line ('retainer agreement, review officer') and a sentence that 10.24 is separate from 10.10(2); the note on appeals is the 10.26 note (10.26 'Appeal to judge'), so the pointer is probably to R.10.26n. (not decided). (3) 'Extending time to appeal from an Assessment Officer is governed by Cairns v. Cairns (1931), and the time limit is very short' (line 7287): the citation stops at the year, without a report reference (Book B's rule14_part02_document.json prints 'Cairns v. Cairns, [1931] 3 W.W.R. 335'); official 10.44(4) sets a time of 'one month after the date of the assessment officer's decision', and 10.46(4) and 13.5 (variation of time periods) apply; 'Five unexplained months elapsed' (fn 1, Vizor) is a case-law fact. (4) 'On an appeal from assessment of a party-party bill, the judge appealed to can look at the assessed version of the bill of costs in question, if it is on the Court file' (fn 2, Oleynik) and 'Semble one Justice of Appeal can hear an appeal from an assessment officer's assessment of costs awarded by a panel on an appeal' (fn 4, Hamill v. Kudryk) are case-law statements not in the rule; 'a review officer gets much deference ... wrong principle, or amount far out of line' (fn 3) agrees in substance with Book B's commentary (Singh v. Noce para 3, Fraser Milner Casgrain v. Kristof paras 16-18: interference for a wrong principle of law, a clearly erroneous finding of fact or an unreasonable amount); the same fn 3 distinguishes Adebisi v. Dentons Can. as 'a review of a lawyer's bill to a client, not of party-party costs'. The Book A note says nothing about the record required by official 10.44(3) or the Forms 45 and 46. (5) supra/infra: fn 6 (a 10.45 footnote, line 7329) is 'Vizor v.383501, supra', whose full citation is fn 1 of this note (line 7320), earlier; no infra; no '(#_)'-type placeholder in fns 1-4. The name 'Kirk Montoute Dawson v. Hearn' and 'Hamill v. Kudryk' occur only in this note in Book A (Hamill v. Kudryk also at lines 202 and 225, in other notes). Book B's commentary '10.44:1' (6,670 characters, read in full, one section 'Standard of Review') is a quotation of Singh v. Noce 2018 ABQB 950 paragraph 3 (an appeal is on the record, Rule 10.44(2); deference except for a wrong principle of law, a finding of fact clearly in error or an unreasonable amount) and paragraph 4 (jurisdiction: correctness; whether an offer is genuine: deference), with a long quotation of Ma v. Coyne 2013 ABQB 426 paragraphs 16-19 that 'assessment officer' stems from 'taxing officer'; it names 'Samuel Eng & Associates v Ho, (2009) ONCA 150' (with the year in round brackets), 'Rocks v Ian Savage Professional Corporation 2015 ABCA 77' and 'Willier v McGurk 2015 ABCA 299', and misprints 'an appeal of as Assessment Officer's decision'. None of Singh v. Noce, Ma v. Coyne or Sweetgrass is cited in Book A's 10.44 note (Book A prints Sweetgrass elsewhere, lines 594, 1151, 1154, 1663)."
     },
     "BOOK_B": {
       "title": "Appeal to judge",
@@ -104,7 +109,7 @@
     "BOOK_C": {
       "title": "Appeal to judge",
       "division_heading": null,
-      "operative_text_raw": "(1) A party to an assessment officer’s decision under this Division or a party to an assessment officer’s decision under rule 9.35 [Checking calculations: assessment of costs and corrections] may appeal the decision to a judge.\n(2) The appeal from an assessment officer’s decision is an appeal on the record of proceedings before the assessment officer.\n(3) The record of proceedings is (a) Form 45 served under rule 10.37(2), (b) the material the parties filed to support or oppose, or that was required for, the assessment, (c) the transcript of the proceedings before the assessment officer, unless the judge waives this requirement, and (d) the assessment officer’s certificate.\n(4) The appellant must file and serve on the respondent to the appeal, within one month after the date of the assessment officer’s decision, (a) notice of the appeal in Form 46, (b) the record of proceedings described in subrule (3) or, if the transcript is not available at the time of filing, confirmation that the transcript of the proceedings has been ordered, and (c) any further written argument.\n(5) The respondent to the appeal must, within 10 days after service of the notice of appeal, file and serve on the appellant any written argument the respondent wishes to make.",
+      "operative_text_raw": null,
       "operative_text_sha256": "225a42b1830bb9dd3d6cadcf946455c3b6611ffae838a37daaefef111bb88be8",
       "citations": [],
       "commentary": [
@@ -114,16 +119,19 @@
           "citations": [
             {
               "neutral_citation": "2015 ABQB 70",
-              "style_of_cause": "Royal Bank of Canada v. Ondrik"
+              "style_of_cause": "Royal Bank of Canada v. Ondrik",
+              "note": "Printed 'Royal Bank of Canada v. Ondrik, [2015] A.J. No. 113, 2015 ABQB 70 at para. 12 (Ont. Q.B.)' (and again at paras. 14 and 15): the court label '(Ont. Q.B.)' does not fit the neutral citation ABQB (Alberta Court of Queen's Bench); it is the only citation in this entry and the label occurs nowhere else in the file (searched for 'Ont. Q.B.' in '481-500_10_32 to 10_46.json': only the three Ondrik citations); not checked against the decision. The citation occurs in no Book A file and in one Book B file, rule3_part06_document.json (2 hits, not read for this proposition)."
             }
-          ]
+          ],
+          "review_flag": "The commentary 'General Principles' (897 characters, two paragraphs, all from Royal Bank of Canada v. Ondrik 2015 ABQB 70): (1) the court has jurisdiction under rules 1.3 and 1.4 to remedy procedural problems and this applies to rule 10.44(4) (para. 12), and Form 46 does not require the appellant to set out its grounds (para. 14); (2) rule 10.44(4) and (5) 'appear to have some gaps': the respondent must respond within 10 days after service of the notice of appeal, but Form 46 requires no written argument or grounds, though 10.44(4)(c) allows 'further' written argument (para. 15). It ends with the page's running head 'PART 10 LAWYERS’ CHARGES, RECOVERABLE COSTS OF LITIGATION, AND SANCTIONS', printed as part of the text. It agrees with the official text: 10.44(4)(a) 'notice of the appeal in Form 46', (4)(c) 'any further written argument', (5) 'within 10 days after service of the notice of appeal'; official 1.3 is 'General authority of the Court to provide remedies' and 1.4 'Procedural orders'. Its subject is not covered by Book A's note or Book B's commentary."
         }
       ],
       "misattributed_entries": [],
       "locator": {
         "file": "481-500_10_32 to 10_46.json",
         "source_file": "481-500_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): the words equal the official text, but the bracket label '[Checking calculations: assessment of costs and corrections]' is added after 'rule 9.35' in (1) (the label agrees with the official title of 9.35); paragraphs (3)(a)-(d) and (4)(a)-(c) are run together on one line each."
     }
   },
   "comparison_vs_official": {
@@ -131,7 +139,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 7256, text lines 7257-7278) has the same words as the official text (compared token by token) with these differences: the bracket label '[Checking calculations: assessment of costs and corrections]' after 'rule 9.35' in (1) (line 7259; it agrees with the official title of 9.35) and the ligatures 'ofﬁcer', 'ﬁled', 'ﬁle', 'ﬁling', 'conﬁrmation' and 'certiﬁcate'. Subrules (1)-(5) and paragraphs (3)(a)-(d), (4)(a)-(c) are complete; there are no footnote markers and no amendment bracket (the official history is 'AR 124/2010' only)."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -244,10 +253,18 @@
     "gate_artifact_sha256": "aee048f3be51455a5cae5d710a5da2d19b5242a6e665c46bb5f601e38edebb20"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.44' with the pattern that also finds line-wrapped forms; ranges searched separately): six hits, the table of contents (line 1632), the rule (line 12972), 10.46(4) (line 13072: 'A decision of a review officer or an assessment officer may be appealed under rule 10.26 or 10.44, as circumstances permit, and rule 10.27 or 10.45 applies as the case requires'), the appeal-permission list (line 18059: 'any decision of the Court of King's Bench sitting as an appeal court under rule 10.26, 10.44 or 12.71'), the list of forms (line 20387) and the heading of Form 46 (line 23809, '[Rule 10.44]'). By subject: 10.26 'Appeal to judge' (the review officer's counterpart), 10.45 'Decision of the judge', 10.37 (Form 45, 10.44(3)(a)), 9.35 (10.44(1)), 1.3 and 1.4 (the Book C commentary).",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the 10.26 Related Provisions (line 1892, p.10-39: '10.44 (appeal from assessment officer)'), the 10.27 Related Provisions (line 2026, p.10-42), the running head (line 7248, p.10-135), the rule (line 7257) and the 10.46 text (line 7354, p.10-137: 'under rule 10.26 [Appeal to judge] or 10.44 [Appeal to judge]'); in combined_rule6.txt line 5421 ('appeals from review officers and assessment officers under Rr.10.26 and 10.44 make no allowance for fresh evidence'); in combined_rule13.txt line 5293 (the Rule 13 list of rules that 'seem to require filing'); in 'combined rule14.txt' lines 1087 (14.5(1)(i) text: 'under rule 10.26, 10.44 or 12.71') and 1217 ('R.14.5(1) (i) now has references to Rr.10.26 and 10.44').",
+    "BOOK_B: rule10_part10_document.json (22 hits: this rule's heading, rule text (EXACT_MATCH) and one commentary '10.44:1' of 6,670 characters, read in full: 1. Standard of Review, Singh v. Noce 2018 ABQB 950 paragraphs 3-4 and Ma v. Coyne 2013 ABQB 426 paragraphs 16-19, quoting Sweetgrass First Nation v. Rath & Company 2013 ABQB 165 and Fraser Milner Casgrain LLP v. Kristof Financial Inc. 2012 ABQB 359); other Book B files that cite 10.44: rule14_part01_document.json and rule14_part03_document.json (2 hits each, the 14.5 commentary).",
+    "BOOK_C: '481-500_10_32 to 10_46.json' (10 hits: this entry, with a commentary of 897 characters on Royal Bank of Canada v. Ondrik 2015 ABQB 70); no other Book C file cites 10.44 by number."
+  ],
   "dedupe_log": [
     "10.44 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.44 BOOK_C citation context dropped (2015 ABQB 70): verbatim in kept text",
     "10.44 BOOK_C commentary sentence split dropped",
-    "10.44 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.44 BOOK_C: rule text dropped (manual review)",
+    "10.44 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.44 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }

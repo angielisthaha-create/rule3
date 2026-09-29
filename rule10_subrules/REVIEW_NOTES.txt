@@ -131,6 +131,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-134/135, 2 footnotes; Book B heading and rule text only; Book C entry). Flags: one-sentence note without antecedent ('This decision ... allocutur', spelled allocatur in the 10.35 note), Book C amendment note field holds the Subdivision 3 heading.
 
 10.44 Appeal to judge
+     [1st pass] Read in full by hand (Book A p.10-135/136, 4 footnotes; Book B 10.44:1 in full; Book C entry). Flags: 'See R.10.24n.' does not land on an appeals note (10.26 is the appeals note), Cairns v. Cairns cited by year only, Book C labels an ABQB case '(Ont. Q.B.)', Book C commentary ends with the running head.
 
 10.45 Decision of the judge
 
