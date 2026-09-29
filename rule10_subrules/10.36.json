@@ -26,6 +26,9 @@
     },
     "crosscheck_vs_official": {
       "BOOK_C": "AGREES"
+    },
+    "carrier_note_flags": {
+      "BOOK_C": "Book C prints '*[Alta. Reg. 124/2010, r. 10.36 effective November 1, 2010 (Alta. Gaz. May 15, 2021)]*': 'Alta. Reg. 124/2010' and 'November 1, 2010' agree with the official history (AR 124/2010, no amending regulation); the Gazette date is the one Book C prints throughout Part 10 (see the 10.1 flag) and was not checked. The entry is an orphan entry in the file (no Division heading in front of it)."
     }
   },
   "sources": {
@@ -39,7 +42,7 @@
     },
     "BOOK_A": {
       "title": "Assessment of Bill of Costs",
-      "operative_text_raw": "10.36(1) After a judgment or order has been entered, an assessment ofﬁcer, in\naccordance with any Court direction or order, may make an assessment of costs\npayable in accordance with rule 10.41 [Assessment officer’s decision] in any of\nthe following circumstances:\n(a) under rule 3.36(3) [Judgment in default of defence and noting in\ndefault];\n(b) under rule 3.37 [Application for judgment against defendant noted in\ndefault];\n(c) under rule 3.38 [Judgment for recovery of property];\n(d) under rule 3.39 [Judgment for debt or liquidated demand].\n(2) In cases other than those referred to in subrule (1), the amount assessed\nunder rule 10.41 [Assessment officer’s decision] as payable by one party to\nanother must be determined by way of an appointment with an assessment\nofﬁcer unless the Court or the assessment ofﬁcer otherwise permits.\n(3) Despite subrules (1) and (2), if one party approves a bill of costs prepared by\nanother party adverse in interest, an assessment ofﬁcer must certify the bill of\ncosts under rule 10.43 [Certification of costs payable], without change.⁵",
+      "operative_text_raw": null,
       "operative_text_sha256": "c321741e238a8c94e888ccb94a22601e463efef1e4c18b0390dd8fddd37ecaf8",
       "related_provisions": "9.35 (costs in foreclosures)",
       "commentary": "See also the Rules set out in Schedule C.\nAugust 2021 to January 2022 Court of King's Bench notices having a bearing on reviews and\nassessments, and where to ﬁnd them, are described in R.10.13 n.\nRule 10.36(3) was applied even though not all the parties had consented, in a foreclosure\nwhere it was proved that no one had a ﬁnancial interest or any real likelihood of being affected by\nthe costs other than the party which had consented.¹\nA tariff of fees and an agreement with the sheriffs’ ofﬁce regulate the fees and expenses which\ncan be charged by civil enforcement agencies to enforce a money judgment. It is implicit that this\nsystem gives ﬁgures which are reasonable and proper. The assessment ofﬁcer has no power to\nvary them.²\nWhere a mortgage and a consent order call for solicitor-client costs, the assessment ofﬁcer\ncannot cut them in half, even if there was and remains a costs guideline by the Masters.³\nWhere an executor or trustee has had years to document expenses incurred, and more time\nwill not produce more vouchers, proportional responses should be followed, given the duty of the\nexecutor or trustee. Some expenses may be found legitimate without a voucher, and others may\nbe found not justiﬁed, and the fees of the executor or trustee may be reduced.⁴",
@@ -80,7 +83,9 @@
           "10-125",
           "10-126"
         ]
-      }
+      },
+      "operative_text_note": "Book A's rule text (title on line 6789, text lines 6790-6806) has the same words as the official text with these differences: the bracket labels added after rule numbers, '[Assessment officer’s decision]' after 'rule 10.41' in (1) and (2), '[Judgment in default of defence and noting in default]', '[Application for judgment against defendant noted in default]', '[Judgment for recovery of property]' and '[Judgment for debt or liquidated demand]' after rules 3.36(3), 3.37, 3.38 and 3.39 in (1)(a)-(d), and '[Certification of costs payable]' after 'rule 10.43' in (3); each label agrees with the official title of that rule (10.41, 3.36, 3.37, 3.38, 3.39, 10.43); the footnote marker '5' after 'without change.' (line 6806); and the ligature 'ofﬁcer' (four times). The lead-in words, paragraphs (1)(a)-(d) and subrules (2) and (3) are complete.",
+      "commentary_review_flag": "Read in full, p.10-125 (line 6789) to p.10-126 (line 6840): title (line 6789), rule text (lines 6790-6806, footnote marker '5' after (3)), the p.10-125 footnote block (lines 6808-6817: fns 1-4 belong to the 10.35 note, fn 5 is this rule's history), the marker 10-126 (line 6819), Related Provisions (lines 6822-6823, one entry), the note (lines 6825-6840) and 5 footnotes: p.10-125 fn 5 (lines 6813-6817, history: 'Quite similar to previous R.629.1. It was first enacted as R.652.1 ... relocated after R.629, by Alta. Reg.160/93.') and p.10-126 fns 1-4 (lines 6856-6859: CIBC Mtgs. v.742584 Alta. (#2) 2005 ABQB 862; T. -D. Bank v. Hawes 2011 ABQB 76; Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748, 579 AR 152; Re Vanmaele Est. 2019 ABCA 499); fns 5 and 6 of that block (lines 6860-6861) are the history of 10.37(1) and (2)(b). Read against the official text: the rule text equals official 10.36 apart from the bracket labels, the footnote marker and the ligatures (see the text note); every label agrees with the official title of its rule. (1) Related Provisions '9.35 (costs in foreclosures)' lands on 9.35 (a foreclosure order; its 9.35(1)(a)(iv) requires a bill of costs under 10.35); the note line 'See also the Rules set out in Schedule C.' is a pointer to Schedule C. (2) 'August 2021 to January 2022 Court of King's Bench notices having a bearing on reviews and assessments, and where to find them, are described in R.10.13 n.' (lines 6826-6827) does not match its target: the 10.13 note says 'a list with links to 10 court notices from August 2020 to January 2022' (lines 1404-1406). (3) 'Rule 10.36(3) was applied even though not all the parties had consented, in a foreclosure where it was proved that no one had a financial interest or any real likelihood of being affected by the costs other than the party which had consented' (fn 1, CIBC Mtgs. v.742584 Alta. (#2) 2005 ABQB 862): official 10.36(3) speaks of a bill of costs approved by 'one party ... prepared by another party adverse in interest'; the 9.35 note prints the same proposition (combined_rule9.txt lines 4563-4565) with the same citation as its fn 3 (line 4594). 'The assessment officer has no power to vary them' (fn 2) and 'cannot cut them in half' (fn 3) are case-law statements; fn 3 (Alta. Treas. Br. v.1401057 Alta. 2013 ABQB 748) is the same citation as p.10-124 fn 1 (line 6763) of the 10.34 note; Book B prints this case as 'Alberta Treasury Branches v 14010507 Alberta Ltd (Katch 22), 2013 ABQB 748' in its 10.36 commentary (the company number is '14010507' there, '1401057' in Book A, Book C and in 40 + 30 places in rule10_part02 and part03 of Book B, so Book B prints both). (4) No supra or infra is used in the five footnotes. Placeholders and misprints: none found (the text 'sheriffs’ ofﬁce' is as printed). The history footnotes name old rules (R.629.1, R.652.1, 1968 R.630, 1914 R.762, 1944 C. Rr.763, 764) and Alta. Reg.160/93, not checked against any old-rule text. Book B's commentary '10.36:1' (3,574 characters, read in full) has one case, Equitable Bank v. Avison 2015 ABQB 109 (Master Schulz), paragraphs 30-35: rule 10.36(3) does not apply where the bill is not endorsed with the defendant's approval and there is no affidavit evidence of consent; counsel should produce evidence (retainer agreement, actual bill, time dockets) and copies of invoices for disbursements; review of the assessment officer's decision is an appeal under rule 10.26 on the record. It cites 'Paradigm Quest Inc v Moser, 2014 ABQB 747' and Wakeling J.'s ten costs principles (2013 ABQB 748). Book A's 10.36 note does not cite Equitable Bank v. Avison or Paradigm Quest (no hit for '2015 ABQB 109' or 'Paradigm' in combined_rule10.txt), but Book A's 9.35 note cites both ('Eq. Bank v. Avison (M) 2015 ABQB 109, 613 AR 31', combined_rule9.txt line 4593, and 'Paradigm Quest v. Moser (M) 2014 ABQB 747', line 4597); and Book B's paragraph 33 quotation ends with an unmatched quotation mark ('... does not select the lawyer,” as here.')."
     },
     "BOOK_B": {
       "title": "Assessment of bill of costs",
@@ -108,21 +113,23 @@
     "BOOK_C": {
       "title": "Assessment of bill of costs",
       "division_heading": null,
-      "operative_text_raw": "(1) After a judgment or order has been entered, an assessment officer, in accordance with any Court direction or order, may make an assessment of costs payable in accordance with rule 10.41 [Assessment officer’s decision] in any of the following circumstances:\n(a) under rule 3.36(3) [Judgment in default of defence and noting in default];\n(b) under rule 3.37 [Application for judgment against defendant noted in default];\n(c) under rule 3.38 ;\n[Judgment for recovery of property]\n(d) under rule 3.39 .\n[Judgment for debt or liquidated demand]\n(2) In cases other than those referred to in subrule (1), the amount assessed under rule 10.41 [Assessment officer’s decision] as payable by one party to another must be determined by way of an appointment with an assessment officer unless the Court or the assessment officer otherwise permits.\n(3) Despite subrules (1) and (2), if one party approves a bill of costs prepared by another party adverse in interest, an assessment officer must certify the bill of costs under rule 10.43 , without change.\n[Certification of costs payable]",
+      "operative_text_raw": null,
       "operative_text_sha256": "3605d00c041a8f5857888e91745d7cb2a89582c055cc82bc136f980324b47896",
       "citations": [],
       "commentary": [
         {
           "topic": "General Principles",
           "text": "An assessment under rule 10.36 involves an assessment officer making a decision concerning a dispute between two litigants when it becomes the responsibility of rule is not a review, but an assessment — a procedure addressing a dispute between successful",
-          "citations": []
+          "citations": [],
+          "review_flag": "The commentary 'General Principles' (254 characters, one sentence) is scrambled and cut off: 'An assessment under rule 10.36 involves an assessment officer making a decision concerning a dispute between two litigants when it becomes the responsibility of rule is not a review, but an assessment — a procedure addressing a dispute between successful'. The words 'of rule is not a review' show that text is lost between 'responsibility of' and 'rule ... is not a review' (the rule number after 'rule' is missing), and the sentence stops after 'between successful' (the noun and the rest are missing, and no citation is printed). It agrees in subject with Book B's commentary (an assessment under 10.36 as against a review under 10.26) but no words are restored here."
         }
       ],
       "misattributed_entries": [],
       "locator": {
         "file": "481-500_10_32 to 10_46.json",
         "source_file": "481-500_revised.md"
-      }
+      },
+      "operative_text_note": "Book C's rule text is dropped (official, Book A and Book B carry the whole text): the words equal the official text, but the bracket labels of Book A are displaced: '[Judgment for recovery of property]' is printed on a line of its own after '(c) under rule 3.38 ;' and '[Judgment for debt or liquidated demand]' on a line of its own after '(d) under rule 3.39 .', and '[Certification of costs payable]' on a line of its own after 'rule 10.43 , without change.'; there are stray spaces before the ';', '.' and ',' that follow the rule numbers."
     }
   },
   "comparison_vs_official": {
@@ -130,7 +137,8 @@
       "status": "NORMALIZATION_ONLY_DIFFERENCE",
       "similarity": 1.0,
       "basis": "equal when only letters and digits are compared (spacing, hyphenation and punctuation spacing differ)",
-      "version_identity": "SAME_VERSION_PROVEN"
+      "version_identity": "SAME_VERSION_PROVEN",
+      "review_note": "Book A's rule text (title on line 6789, text lines 6790-6806) has the same words as the official text with these differences: the bracket labels added after rule numbers, '[Assessment officer’s decision]' after 'rule 10.41' in (1) and (2), '[Judgment in default of defence and noting in default]', '[Application for judgment against defendant noted in default]', '[Judgment for recovery of property]' and '[Judgment for debt or liquidated demand]' after rules 3.36(3), 3.37, 3.38 and 3.39 in (1)(a)-(d), and '[Certification of costs payable]' after 'rule 10.43' in (3); each label agrees with the official title of that rule (10.41, 3.36, 3.37, 3.38, 3.39, 10.43); the footnote marker '5' after 'without change.' (line 6806); and the ligature 'ofﬁcer' (four times). The lead-in words, paragraphs (1)(a)-(d) and subrules (2) and (3) are complete."
     },
     "BOOK_B": {
       "status": "EXACT_MATCH",
@@ -242,9 +250,17 @@
     "gate_artifact_sha256": "cd1ef820649c5a559b114903c1aeb4894b57e7fa08683480daf5f5a09c6ed943"
   },
   "information_notes": [],
+  "see_also": [
+    "Official text (searched for '10.36' with the pattern that also finds line-wrapped forms; ranges searched separately): three hits, the table of contents (line 1593), the page heading (line 12700, 'Rule 10.36') and the rule (line 12708). No other rule or form cites 10.36 by number. By subject (titles from the official text): 10.35 'Preparation of bill of costs'; 10.37 'Appointment for assessment'; 10.41 'Assessment officer's decision'; 10.43 'Certification of costs payable'; 3.36 'Judgment in default of defence and noting in default'; 3.37 'Application for judgment against defendant noted in default'; 3.38 'Judgment for recovery of property'; 3.39 'Judgment for debt or liquidated demand'; 9.35 'Checking calculations: assessment of costs and corrections' (foreclosure actions); 10.13 'Appointment for review' and 10.26 'Appeal to judge'.",
+    "BOOK_A (all Book A files searched, line-wrapped forms included; pages from the 'N-NN' markers): in combined_rule10.txt the running head (line 6774, p.10-125), the rule (line 6790), this note (line 6828, 'Rule 10.36(3) was applied even though not all the parties had consented ...') and the 10.37 note (line 6879, p.10-127: 'It is not necessary to wait a long time or reach agreement under R. 10.36(3)'); in combined_rule9.txt line 4563 (the 9.35 note: 'Rule 10.36 was applied even though not all the parties had consented. It was proved that no ...', the same case as this note's fn 1); in 'combined rule3.txt' line 2756 (a Rule 3 note that points to 'rule 10.36 [Assessment of bill of costs]'). The pointer 'R.10.13 n.' in this note (line 6827) leads to the 10.13 note, which prints 'a list with links to 10 court notices from August 2020 to January 2022' (lines 1404-1406) where this note says 'August 2021 to January 2022'.",
+    "BOOK_B: rule10_part10_document.json holds the heading, the rule text (EXACT_MATCH), and one commentary '10.36:1' of 3,574 characters (Equitable Bank v. Avison, 2015 ABQB 109 (Master), paragraphs 30-35, on the need for evidence on an assessment); Book B's 10.41 commentary (rule10_part10_document.json, paragraph 'part10_part_10_..._022') also cites 'r 10.36(1) & (2)'.",
+    "BOOK_C: '481-500_10_32 to 10_46.json' holds the entry ('Assessment of bill of costs', an orphan entry with no Division heading, rule text, no citations, 'General Principles' commentary of 254 characters); no other Book C file cites 10.36 by number."
+  ],
   "dedupe_log": [
     "10.36 BOOK_B: operative text dropped (EXACT_MATCH)",
     "10.36 BOOK_C commentary sentence split dropped",
-    "10.36 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)"
+    "10.36 BOOK_C: rule text dropped (manual review)",
+    "10.36 BOOK_C: amendment note moved to amendment_history.carrier_notes (was duplicated)",
+    "10.36 BOOK_A: raw text dropped, differences editorial only (manual review)"
   ]
 }

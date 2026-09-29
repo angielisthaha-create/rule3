@@ -107,6 +107,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-124/125, 9 footnotes; Book B heading and rule text only, no commentary; Book C entry). Builder fix: superscript after 'Form' (Form 44) is not a footnote marker. Flags: forward infra (Earth Drilling) correct, unclosed bracket in fn 2, placeholders, Book C rule text missing (1)(b), Al-Ghamdi party name differs (Alberta/R.).
 
 10.36 Assessment of bill of costs
+     [1st pass] Read in full by hand (Book A p.10-125/126, 5 footnotes; Book B 10.36:1 in full; Book C entry). Flags: R.10.13 n. pointer says August 2021 but the 10.13 note says August 2020, Book B prints company number 14010507 and 1401057 for the same case (2013 ABQB 748), Book C commentary scrambled and cut off, Book C bracket labels displaced.
 
 10.37 Appointment for assessment
 
