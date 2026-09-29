@@ -156,6 +156,7 @@ rule2_subrules/REVIEW_NOTES.txt (what was found, rule by rule). Those two files 
       points to a checklist line that needs to be clearer.
 
 11. PART 3 (started 2026-09-28) - read rule3_subrules/WORKFLOW.txt
+   Status:   passes 1, 2 and 3 done for 3.1-3.77 (pass 3: 2026-09-29, tools/pass3/PASS3_PROGRESS.txt; [3rd pass] lines in rule3_subrules/REVIEW_NOTES.txt)
    Builder:  python3 tools/build_rule3_reconciliation.py   -> rule3_subrules/3.N.json + _index.json
    Validate: source tools/qa_display_helpers.sh; gate_all3   (all 77 true)
    Helpers:  ARC_PART=3 python3 tools/show_rule_notes.py 2 | extract_note_refs.py | edit_helpers.py ...

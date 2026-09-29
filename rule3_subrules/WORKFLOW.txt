@@ -5,7 +5,7 @@ Part 3 is built by tools/build_rule3_reconciliation.py into rule3_subrules/. Hel
 (gate_all3, pg3 ...), and ARC_PART=3 python3 tools/show_rule_notes.py / extract_note_refs.py / edit_helpers.py.
 
 STATUS
-   Builder pass: 2026-09-28. Built 77 rules, gate_all3 -> 77 x valid. No manual pass has started (Pass 1 is next).
+   Builder pass: 2026-09-28. Built 77 rules, gate_all3 -> 77 x valid. Pass 1, pass 2 and pass 3 are done for 3.1-3.77 (see PASS 2 / PASS 3 lines below).
 
 SOURCES (all in the repository root)
    OFFICIAL  Alberta_Rules_of_Court.txt (Part 3 = second "Part 3" heading to second "Part 4" heading; Subdivision
@@ -45,6 +45,8 @@ BUILD RESULT (before any manual review): pairwise statuses vs official over 231 
    Book C lists rules 3.27, 3.61 and 3.67 twice (rule text in one entry, annotation or a displaced fragment in the other);
    the builder merges them and keeps every part (sources.BOOK_C.merged_duplicate_entries). Check these three in Pass 1.
 
-NEXT: Pass 1 (full read, checklists 3A+3B+3C, write-after-search rule), then Pass 2 verification (plan 6A).
+NEXT: Part 4 (Pass 1, Pass 2, Pass 3 as for Part 3).
 
-PASS 2 (Part 3): done for 3.1-3.77 - see tools/pass2/PASS2_PROGRESS.txt and the [2nd pass] lines in REVIEW_NOTES.txt. Errors found in 3.6 3.12 3.15 3.16 3.22 3.34 3.36 3.69 3.75 (corrected). NEXT: pass 3 (confirmation) on those rules; then Part 4.
+PASS 2 (Part 3): done for 3.1-3.77 - see tools/pass2/PASS2_PROGRESS.txt and the [2nd pass] lines in REVIEW_NOTES.txt. Errors found in 3.6 3.12 3.15 3.16 3.22 3.34 3.36 3.69 3.75 (corrected).
+
+PASS 3 (Part 3): done for 3.1-3.77 (2026-09-29), one subrule at a time, every source re-read by hand (Read/Grep, no verification scripts) - see tools/pass3/PASS3_PROGRESS.txt and the [3rd pass] lines in REVIEW_NOTES.txt (one per rule, plus addenda under 3.19 and 3.25). Corrections were made in the builder manual tables (flags, notes, page/line references, cross-reference inventories); no operative rule text changed. Recurring corrections: off-by-one lines and pages, incomplete cross-reference inventories (including pointers written as ranges such as 'Rr.3.73 to 3.75', and Schedule A forms-table entries), unidentified footnote owners across neighbouring records, paragraph/character counts. Very long notes (3.35, 3.39, 3.44, 3.45, 3.56, 3.65, 3.68) were checked at heading, pointer and count level; their [3rd pass] lines say so. NEXT: Part 4.

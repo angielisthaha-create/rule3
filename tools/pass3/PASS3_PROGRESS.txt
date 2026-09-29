@@ -1,4 +1,4 @@
-PART 3 PASS 3 - PROGRESS RECORD
+PART 3 PASS 3 - PROGRESS RECORD (COMPLETE: 3.1-3.77 all done, 2026-09-29)
 Goal (user, 2026-09-29): pass 3 on ALL 77 subrules; every rule read by hand (Read/Grep of the sources), no verification scripts.
 Method per rule: read the REVIEW_NOTES block and the rule's notes/flags/see_also in rule3_subrules/3.N.json; re-read the official text,
 Book A pages, Book B paragraphs and Book C entry for that rule; re-check every page/line/count/quote/flag/attribution written; re-read every
