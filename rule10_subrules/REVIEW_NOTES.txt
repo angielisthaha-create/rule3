@@ -161,5 +161,6 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-160 to p.10-168, 89 footnotes counted per page; Book B 10.53:1 54,561 chars in 14 numbered sections, read in full; Book C entry). Flags: fine/jail statements against official (1)(b)-(c) and Book B (5-year limit; where fines are paid, Makis vs Mella), forward supra (McInroy, B. M. (#3)) and infra with an earlier full citation (Pawlowski), placeholders, Kostic date and Unrau AR page differences, Book A 10.55 pointer 'R.10.53(1) n. M' does not land, Book C rule text with citations replacing the digits 2 and 6 (same conversion defect as 10.47), commentary with running head, wrong Division heading.
 
 10.54 Mental disorder
+     [1st pass] Read in full by hand (Book A p.10-168/169, 1 footnote; no Book B or Book C commentary; Book C entry). Flags: rule text equals official in Book A and Book B (also the Appendix definitions of 'examination' and 'facility' in rule 10.54); Book A page break inside the rule with the 10.53 footnote block; Related Provisions labels; Book C rule text with the two Act names displaced, entry under the wrong Division heading (Division 3; official Division 5).
 
 10.55 Inherent jurisdiction
