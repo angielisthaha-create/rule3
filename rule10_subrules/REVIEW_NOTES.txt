@@ -146,6 +146,7 @@ ARC_PART=10 python3 tools/edit_helpers.py review-line 10.N "[1st pass] ...". No 
      [1st pass] Read in full by hand (Book A p.10-138/139, 9 footnotes; Book B heading and rule text only; Book C entry in file 501-520). Flags: 'Form 44 (Writ of Enforcement)' misnames Form 44 (Bill of Costs), Huet v. Lynch ABCA/ABQB label, Book C commentary scrambled and cut off ('rule 10.48(2)(c)' does not exist, ConocoPhillips citation number missing).
 
 10.49 Penalty for contravening rules
+     [1st pass] Read in full by hand (Book A p.10-139 to p.10-141, 24 footnotes; Book B 10.49:1 17,167 chars in full; Book C entry). Flags: 3.68(3) pointer (should be (4)(b)), Milfive amount $250 vs Book B $150, Osborn/Osborne spellings, placeholders (#_), 'cannot order payment to another party' vs government costs statement, Book C entry under wrong Division heading and commentary cut off, citation names restored.
 
 10.50 Costs imposed on lawyer
 
